@@ -1,13 +1,53 @@
+<https://doi.org/10.13346/j.mycosystema.130120#creator/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+<https://doi.org/10.13346/j.mycosystema.130120#creator/2> <http://schema.org/name> "王云月"@zh .
+<https://doi.org/10.13346/j.mycosystema.130120#creator/2> <http://schema.org/name> "WANG Yun-Yue"@en .
+<https://doi.org/10.13346/j.mycosystema.130120#creator/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+<https://doi.org/10.13346/j.mycosystema.130120#creator/1> <http://schema.org/name> "杨海艳"@zh .
+<https://doi.org/10.13346/j.mycosystema.130120#creator/1> <http://schema.org/name> "YANG Hai-Yan"@en .
+<http://worldcat.org/issn/1672-6472> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://worldcat.org/issn/1672-6472> <http://schema.org/name> "菌物学报"@zh .
+<http://worldcat.org/issn/1672-6472> <http://schema.org/name> "Mycosystema"@en .
+<http://worldcat.org/issn/1672-6472> <http://schema.org/issn> "1672-6472" .
+<https://doi.org/10.13346/j.mycosystema.130120#creator/3> <http://schema.org/name> "ZHANG Zhong-Yi"@en .
+<https://doi.org/10.13346/j.mycosystema.130120#creator/3> <http://schema.org/name> "张中义"@zh .
+<https://doi.org/10.13346/j.mycosystema.130120#creator/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+<https://doi.org/10.13346/j.mycosystema.130120#doi> <http://schema.org/propertyID> "doi" .
+<https://doi.org/10.13346/j.mycosystema.130120#doi> <http://schema.org/value> "10.13346/j.mycosystema.130120" .
+<https://doi.org/10.13346/j.mycosystema.130120#doi> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<https://doi.org/10.13346/j.mycosystema.130120#role/1> <http://schema.org/creator> <https://doi.org/10.13346/j.mycosystema.130120#creator/1> .
+<https://doi.org/10.13346/j.mycosystema.130120#role/1> <http://schema.org/roleName> "1" .
+<https://doi.org/10.13346/j.mycosystema.130120#role/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Role> .
+<https://doi.org/10.13346/j.mycosystema.130120#role/2> <http://schema.org/creator> <https://doi.org/10.13346/j.mycosystema.130120#creator/2> .
+<https://doi.org/10.13346/j.mycosystema.130120#role/2> <http://schema.org/roleName> "2" .
+<https://doi.org/10.13346/j.mycosystema.130120#role/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Role> .
+<https://doi.org/10.13346/j.mycosystema.130120#role/3> <http://schema.org/creator> <https://doi.org/10.13346/j.mycosystema.130120#creator/3> .
+<https://doi.org/10.13346/j.mycosystema.130120#role/3> <http://schema.org/roleName> "3" .
+<https://doi.org/10.13346/j.mycosystema.130120#role/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Role> .
+<https://doi.org/10.13346/j.mycosystema.130120> <http://schema.org/creator> <https://doi.org/10.13346/j.mycosystema.130120#role/1> .
+<https://doi.org/10.13346/j.mycosystema.130120> <http://schema.org/creator> <https://doi.org/10.13346/j.mycosystema.130120#role/2> .
+<https://doi.org/10.13346/j.mycosystema.130120> <http://schema.org/creator> <https://doi.org/10.13346/j.mycosystema.130120#role/3> .
+<https://doi.org/10.13346/j.mycosystema.130120> <http://schema.org/datePublished> "2014-03-15" .
+<https://doi.org/10.13346/j.mycosystema.130120> <http://schema.org/description> "A new species and a new record of Cylindrosporium from China are reported. They are Cylindrosporium amaranthi sp. nov. on Amaranthus spinosus and Cylindrosporium salicinum on Salix sp. Specimens examined were collected from Yunnan Province. Descriptions, illustrations and discussions are given for these two species. The specimens are deposited in the HMAS in Beijing and Mycological Herbarium of Northwest Agriculture & Forestry University (HMUABO) in Yangling, China."@en .
+<https://doi.org/10.13346/j.mycosystema.130120> <http://schema.org/description> "报道我国柱盘孢属１个新种和１个新记录种，新种为刺苋Amaranthus spinosus上的苋柱盘孢Cylindrosporium amaranthi，新记录种为寄主柳属植物Salix sp.上的柳柱盘孢Cylindrosporium salicinum。对此二种进行了形态学描述、图解和讨论。研究标本保藏于西北农林科技大学真菌标本室（HMUABO）。"@zh .
+<https://doi.org/10.13346/j.mycosystema.130120> <http://schema.org/identifier> <https://doi.org/10.13346/j.mycosystema.130120#doi> .
+<https://doi.org/10.13346/j.mycosystema.130120> <http://schema.org/isPartOf> <http://worldcat.org/issn/1672-6472> .
+<https://doi.org/10.13346/j.mycosystema.130120> <http://schema.org/issueNumber> "3" .
+<https://doi.org/10.13346/j.mycosystema.130120> <http://schema.org/name> "A new species and a new record of Cylindrosporium in China"@en .
+<https://doi.org/10.13346/j.mycosystema.130120> <http://schema.org/name> "我国柱盘孢属一新种和一新记录种"@zh .
+<https://doi.org/10.13346/j.mycosystema.130120> <http://schema.org/pageEnd> "576" .
+<https://doi.org/10.13346/j.mycosystema.130120> <http://schema.org/pageStart> "571" .
+<https://doi.org/10.13346/j.mycosystema.130120> <http://schema.org/volumeNumber> "33" .
+<https://doi.org/10.13346/j.mycosystema.130120> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ScholarlyArticle> .
+<https://doi.org/10.3969/j.issn.2095-0845.2005.05.006#creator/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+<https://doi.org/10.3969/j.issn.2095-0845.2005.05.006#creator/3> <http://schema.org/name> "王春景"@zh .
+<https://doi.org/10.3969/j.issn.2095-0845.2005.05.006#creator/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+<https://doi.org/10.3969/j.issn.2095-0845.2005.05.006#creator/2> <http://schema.org/name> "周守标"@zh .
+<https://doi.org/10.3969/j.issn.2095-0845.2005.05.006#creator/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
 <https://doi.org/10.3969/j.issn.2095-0845.2005.05.006#creator/1> <http://schema.org/name> "李金花"@zh .
 <http://worldcat.org/issn/0253-2700> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
 <http://worldcat.org/issn/0253-2700> <http://schema.org/name> "云南植物研究"@zh .
 <http://worldcat.org/issn/0253-2700> <http://schema.org/name> "ACTA BOTANICA YUNNANICA"@en .
 <http://worldcat.org/issn/0253-2700> <http://schema.org/issn> "0253-2700" .
-<https://doi.org/10.3969/j.issn.2095-0845.2005.05.006#creator/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
-<https://doi.org/10.3969/j.issn.2095-0845.2005.05.006#creator/2> <http://schema.org/name> "周守标"@zh .
-<https://doi.org/10.3969/j.issn.2095-0845.2005.05.006#creator/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
-<https://doi.org/10.3969/j.issn.2095-0845.2005.05.006#creator/3> <http://schema.org/name> "王春景"@zh .
-<https://doi.org/10.3969/j.issn.2095-0845.2005.05.006#creator/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
 <https://doi.org/10.3969/j.issn.2095-0845.2005.05.006#creator/4> <http://schema.org/name> "余本祺"@zh .
 <https://doi.org/10.3969/j.issn.2095-0845.2005.05.006#creator/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
 <https://doi.org/10.3969/j.issn.2095-0845.2005.05.006#doi> <http://schema.org/propertyID> "doi" .
@@ -954,6 +994,369 @@
 <https://doi.org/10.1007/s12225-009-9096-4> <http://schema.org/publisher> "Springer Science and Business Media LLC" .
 <https://doi.org/10.1007/s12225-009-9096-4> <http://schema.org/volumeNumber> "64" .
 <https://doi.org/10.1007/s12225-009-9096-4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ScholarlyArticle> .
+<https://doi.org/10.1016/s1567-1356(03)00226-5#b11_378-container> <http://schema.org/name> "Ann Fac. Agrar. Univ. Pisa" .
+<https://doi.org/10.1016/s1567-1356(03)00226-5#b10_377> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<https://doi.org/10.1016/s1567-1356(03)00226-5#b10_377> <http://schema.org/volumeNumber> "23" .
+<https://doi.org/10.1016/s1567-1356(03)00226-5#b10_377> <http://schema.org/pageStart> "1" .
+<https://doi.org/10.1016/s1567-1356(03)00226-5#b10_377> <http://schema.org/isPartOf> <https://doi.org/10.1016/s1567-1356(03)00226-5#b10_377-container> .
+<https://doi.org/10.1016/s1567-1356(03)00226-5#b10_377> <http://schema.org/datePublished> "1962" .
+<https://doi.org/10.1016/s1567-1356(03)00226-5#b10_377> <http://schema.org/creator> "Verona O." .
+<https://doi.org/10.1016/s1567-1356(03)00226-5#b10_377-container> <http://schema.org/name> "Ann Fac. Agrar. Univ. Pisa" .
+<http://worldcat.org/issn/1567-1356> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://worldcat.org/issn/1567-1356> <http://schema.org/name> "FEMS Yeast Research" .
+<https://doi.org/10.1016/s1567-1356(03)00226-5#b11_378> <http://schema.org/creator> "Verona O." .
+<https://doi.org/10.1016/s1567-1356(03)00226-5#b11_378> <http://schema.org/datePublished> "1962" .
+<https://doi.org/10.1016/s1567-1356(03)00226-5#b11_378> <http://schema.org/isPartOf> <https://doi.org/10.1016/s1567-1356(03)00226-5#b11_378-container> .
+<https://doi.org/10.1016/s1567-1356(03)00226-5#b11_378> <http://schema.org/pageStart> "37" .
+<https://doi.org/10.1016/s1567-1356(03)00226-5#b11_378> <http://schema.org/volumeNumber> "23" .
+<https://doi.org/10.1016/s1567-1356(03)00226-5#b11_378> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<https://doi.org/10.1016/s1567-1356(03)00226-5#b12_379> <http://schema.org/description> "[12]Hawksworth, D.L., Kirk, P.M., Sutton, B.C. and Pegler, D.N. (1995) Ainsworth and Bisby's Dictionary of the Fungi, 8th edn., 616 pp. CAB International, Wallingford." .
+<https://doi.org/10.1016/s1567-1356(03)00226-5#b12_379> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<https://doi.org/10.1016/s1567-1356(03)00226-5#b13_380#doi> <http://schema.org/propertyID> "doi" .
+<https://doi.org/10.1016/s1567-1356(03)00226-5#b13_380#doi> <http://schema.org/value> "10.1111/j.1439-0434.1962.tb02017.x" .
+<https://doi.org/10.1016/s1567-1356(03)00226-5#b13_380#doi> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<https://doi.org/10.1016/s1567-1356(03)00226-5#b13_380-container> <http://schema.org/name> "Phytopathol. Z." .
+<https://doi.org/10.1016/s1567-1356(03)00226-5#b13_380> <http://schema.org/creator> "Verona O." .
+<https://doi.org/10.1016/s1567-1356(03)00226-5#b13_380> <http://schema.org/datePublished> "1962" .
+<https://doi.org/10.1016/s1567-1356(03)00226-5#b13_380> <http://schema.org/identifier> <https://doi.org/10.1016/s1567-1356(03)00226-5#b13_380#doi> .
+<https://doi.org/10.1016/s1567-1356(03)00226-5#b13_380> <http://schema.org/isPartOf> <https://doi.org/10.1016/s1567-1356(03)00226-5#b13_380-container> .
+<https://doi.org/10.1016/s1567-1356(03)00226-5#b13_380> <http://schema.org/pageStart> "269" .
+<https://doi.org/10.1016/s1567-1356(03)00226-5#b13_380> <http://schema.org/volumeNumber> "44" .
+<https://doi.org/10.1016/s1567-1356(03)00226-5#b13_380> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<https://doi.org/10.1016/s1567-1356(03)00226-5#b14_381#doi> <http://schema.org/propertyID> "doi" .
+<https://doi.org/10.1016/s1567-1356(03)00226-5#b14_381#doi> <http://schema.org/value> "10.1007/bf00400385" .
+<https://doi.org/10.1016/s1567-1356(03)00226-5#b14_381#doi> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<https://doi.org/10.1016/s1567-1356(03)00226-5#b14_381-container> <http://schema.org/name> "Antonie van Leeuwenhoek" .
+<https://doi.org/10.1016/s1567-1356(03)00226-5#b14_381> <http://schema.org/creator> "Eijk G.W." .
+<https://doi.org/10.1016/s1567-1356(03)00226-5#b14_381> <http://schema.org/datePublished> "1982" .
+<https://doi.org/10.1016/s1567-1356(03)00226-5#b14_381> <http://schema.org/identifier> <https://doi.org/10.1016/s1567-1356(03)00226-5#b14_381#doi> .
+<https://doi.org/10.1016/s1567-1356(03)00226-5#b14_381> <http://schema.org/isPartOf> <https://doi.org/10.1016/s1567-1356(03)00226-5#b14_381-container> .
+<https://doi.org/10.1016/s1567-1356(03)00226-5#b14_381> <http://schema.org/pageStart> "257" .
+<https://doi.org/10.1016/s1567-1356(03)00226-5#b14_381> <http://schema.org/volumeNumber> "48" .
+<https://doi.org/10.1016/s1567-1356(03)00226-5#b14_381> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<https://doi.org/10.1016/s1567-1356(03)00226-5#b15_382-container> <http://schema.org/name> "Z. Mykol." .
+<https://doi.org/10.1016/s1567-1356(03)00226-5#b15_382> <http://schema.org/creator> "Prillinger H." .
+<https://doi.org/10.1016/s1567-1356(03)00226-5#b15_382> <http://schema.org/datePublished> "1990" .
+<https://doi.org/10.1016/s1567-1356(03)00226-5#b15_382> <http://schema.org/isPartOf> <https://doi.org/10.1016/s1567-1356(03)00226-5#b15_382-container> .
+<https://doi.org/10.1016/s1567-1356(03)00226-5#b15_382> <http://schema.org/pageStart> "219" .
+<https://doi.org/10.1016/s1567-1356(03)00226-5#b15_382> <http://schema.org/volumeNumber> "56" .
+<https://doi.org/10.1016/s1567-1356(03)00226-5#b15_382> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<https://doi.org/10.1016/s1567-1356(03)00226-5#b16_383-container> <http://schema.org/name> "Mycotaxon" .
+<https://doi.org/10.1016/s1567-1356(03)00226-5#b16_383> <http://schema.org/creator> "Moore R.T." .
+<https://doi.org/10.1016/s1567-1356(03)00226-5#b16_383> <http://schema.org/datePublished> "1990" .
+<https://doi.org/10.1016/s1567-1356(03)00226-5#b16_383> <http://schema.org/isPartOf> <https://doi.org/10.1016/s1567-1356(03)00226-5#b16_383-container> .
+<https://doi.org/10.1016/s1567-1356(03)00226-5#b16_383> <http://schema.org/pageStart> "315" .
+<https://doi.org/10.1016/s1567-1356(03)00226-5#b16_383> <http://schema.org/volumeNumber> "38" .
+<https://doi.org/10.1016/s1567-1356(03)00226-5#b16_383> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<https://doi.org/10.1016/s1567-1356(03)00226-5#b17_384-container> <http://schema.org/name> "Mycologia" .
+<https://doi.org/10.1016/s1567-1356(03)00226-5#b17_384> <http://schema.org/creator> "Mix A.J." .
+<https://doi.org/10.1016/s1567-1356(03)00226-5#b17_384> <http://schema.org/datePublished> "1953" .
+<https://doi.org/10.1016/s1567-1356(03)00226-5#b17_384> <http://schema.org/isPartOf> <https://doi.org/10.1016/s1567-1356(03)00226-5#b17_384-container> .
+<https://doi.org/10.1016/s1567-1356(03)00226-5#b17_384> <http://schema.org/pageStart> "649" .
+<https://doi.org/10.1016/s1567-1356(03)00226-5#b17_384> <http://schema.org/volumeNumber> "45" .
+<https://doi.org/10.1016/s1567-1356(03)00226-5#b17_384> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<https://doi.org/10.1016/s1567-1356(03)00226-5#b18_385-container> <http://schema.org/name> "Mycologia" .
+<https://doi.org/10.1016/s1567-1356(03)00226-5#b18_385> <http://schema.org/creator> "Mix A.J." .
+<https://doi.org/10.1016/s1567-1356(03)00226-5#b18_385> <http://schema.org/datePublished> "1954" .
+<https://doi.org/10.1016/s1567-1356(03)00226-5#b18_385> <http://schema.org/isPartOf> <https://doi.org/10.1016/s1567-1356(03)00226-5#b18_385-container> .
+<https://doi.org/10.1016/s1567-1356(03)00226-5#b18_385> <http://schema.org/pageStart> "721" .
+<https://doi.org/10.1016/s1567-1356(03)00226-5#b18_385> <http://schema.org/volumeNumber> "46" .
+<https://doi.org/10.1016/s1567-1356(03)00226-5#b18_385> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<https://doi.org/10.1016/s1567-1356(03)00226-5#b19_386#doi> <http://schema.org/propertyID> "doi" .
+<https://doi.org/10.1016/s1567-1356(03)00226-5#b19_386#doi> <http://schema.org/value> "10.1007/s00248-002-2022-z" .
+<https://doi.org/10.1016/s1567-1356(03)00226-5#b19_386#doi> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<https://doi.org/10.1016/s1567-1356(03)00226-5#b19_386-container> <http://schema.org/name> "Microb. Ecol." .
+<https://doi.org/10.1016/s1567-1356(03)00226-5#b19_386> <http://schema.org/creator> "Inacio J." .
+<https://doi.org/10.1016/s1567-1356(03)00226-5#b19_386> <http://schema.org/datePublished> "2002" .
+<https://doi.org/10.1016/s1567-1356(03)00226-5#b19_386> <http://schema.org/identifier> <https://doi.org/10.1016/s1567-1356(03)00226-5#b19_386#doi> .
+<https://doi.org/10.1016/s1567-1356(03)00226-5#b19_386> <http://schema.org/isPartOf> <https://doi.org/10.1016/s1567-1356(03)00226-5#b19_386-container> .
+<https://doi.org/10.1016/s1567-1356(03)00226-5#b19_386> <http://schema.org/pageStart> "344" .
+<https://doi.org/10.1016/s1567-1356(03)00226-5#b19_386> <http://schema.org/volumeNumber> "44" .
+<https://doi.org/10.1016/s1567-1356(03)00226-5#b19_386> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<https://doi.org/10.1016/s1567-1356(03)00226-5#b1_368-container> <http://schema.org/name> "Myconet" .
+<https://doi.org/10.1016/s1567-1356(03)00226-5#b1_368> <http://schema.org/creator> "Eriksson O.E." .
+<https://doi.org/10.1016/s1567-1356(03)00226-5#b1_368> <http://schema.org/datePublished> "1997" .
+<https://doi.org/10.1016/s1567-1356(03)00226-5#b1_368> <http://schema.org/isPartOf> <https://doi.org/10.1016/s1567-1356(03)00226-5#b1_368-container> .
+<https://doi.org/10.1016/s1567-1356(03)00226-5#b1_368> <http://schema.org/pageStart> "1" .
+<https://doi.org/10.1016/s1567-1356(03)00226-5#b1_368> <http://schema.org/volumeNumber> "1" .
+<https://doi.org/10.1016/s1567-1356(03)00226-5#b1_368> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<https://doi.org/10.1016/s1567-1356(03)00226-5#b20_387#doi> <http://schema.org/propertyID> "doi" .
+<https://doi.org/10.1016/s1567-1356(03)00226-5#b20_387#doi> <http://schema.org/value> "10.1016/b978-044481312-1/50014-9" .
+<https://doi.org/10.1016/s1567-1356(03)00226-5#b20_387#doi> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<https://doi.org/10.1016/s1567-1356(03)00226-5#b20_387> <http://schema.org/description> "[20]Yarrow, D. (1998) Methods for the isolation, maintenance and identification of yeasts. In: The Yeasts, A Taxonomic Study, 4th edn. (Kurtzman, C.P. and Fell, J.W., Eds.), pp. 77-100. Elsevier, Amsterdam." .
+<https://doi.org/10.1016/s1567-1356(03)00226-5#b20_387> <http://schema.org/identifier> <https://doi.org/10.1016/s1567-1356(03)00226-5#b20_387#doi> .
+<https://doi.org/10.1016/s1567-1356(03)00226-5#b20_387> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<https://doi.org/10.1016/s1567-1356(03)00226-5#b21_388#doi> <http://schema.org/propertyID> "doi" .
+<https://doi.org/10.1016/s1567-1356(03)00226-5#b21_388#doi> <http://schema.org/value> "10.1139/m92-205" .
+<https://doi.org/10.1016/s1567-1356(03)00226-5#b21_388#doi> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<https://doi.org/10.1016/s1567-1356(03)00226-5#b21_388-container> <http://schema.org/name> "Can. J. Microbiol." .
+<https://doi.org/10.1016/s1567-1356(03)00226-5#b21_388> <http://schema.org/creator> "Fonseca A." .
+<https://doi.org/10.1016/s1567-1356(03)00226-5#b21_388> <http://schema.org/datePublished> "1992" .
+<https://doi.org/10.1016/s1567-1356(03)00226-5#b21_388> <http://schema.org/identifier> <https://doi.org/10.1016/s1567-1356(03)00226-5#b21_388#doi> .
+<https://doi.org/10.1016/s1567-1356(03)00226-5#b21_388> <http://schema.org/isPartOf> <https://doi.org/10.1016/s1567-1356(03)00226-5#b21_388-container> .
+<https://doi.org/10.1016/s1567-1356(03)00226-5#b21_388> <http://schema.org/pageStart> "1242" .
+<https://doi.org/10.1016/s1567-1356(03)00226-5#b21_388> <http://schema.org/volumeNumber> "38" .
+<https://doi.org/10.1016/s1567-1356(03)00226-5#b21_388> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<https://doi.org/10.1016/s1567-1356(03)00226-5#b22_389#doi> <http://schema.org/propertyID> "doi" .
+<https://doi.org/10.1016/s1567-1356(03)00226-5#b22_389#doi> <http://schema.org/value> "10.1016/s0723-2020(11)80083-4" .
+<https://doi.org/10.1016/s1567-1356(03)00226-5#b22_389#doi> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<https://doi.org/10.1016/s1567-1356(03)00226-5#b22_389-container> <http://schema.org/name> "Syst. Appl. Microbiol." .
+<https://doi.org/10.1016/s1567-1356(03)00226-5#b22_389> <http://schema.org/creator> "Sampaio J.P." .
+<https://doi.org/10.1016/s1567-1356(03)00226-5#b22_389> <http://schema.org/datePublished> "1994" .
+<https://doi.org/10.1016/s1567-1356(03)00226-5#b22_389> <http://schema.org/identifier> <https://doi.org/10.1016/s1567-1356(03)00226-5#b22_389#doi> .
+<https://doi.org/10.1016/s1567-1356(03)00226-5#b22_389> <http://schema.org/isPartOf> <https://doi.org/10.1016/s1567-1356(03)00226-5#b22_389-container> .
+<https://doi.org/10.1016/s1567-1356(03)00226-5#b22_389> <http://schema.org/pageStart> "613" .
+<https://doi.org/10.1016/s1567-1356(03)00226-5#b22_389> <http://schema.org/volumeNumber> "17" .
+<https://doi.org/10.1016/s1567-1356(03)00226-5#b22_389> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<https://doi.org/10.1016/s1567-1356(03)00226-5#b23_390#doi> <http://schema.org/propertyID> "doi" .
+<https://doi.org/10.1016/s1567-1356(03)00226-5#b23_390#doi> <http://schema.org/value> "10.1099/00207713-51-2-687" .
+<https://doi.org/10.1016/s1567-1356(03)00226-5#b23_390#doi> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<https://doi.org/10.1016/s1567-1356(03)00226-5#b23_390-container> <http://schema.org/name> "Int. J. Syst. Evol. Microbiol." .
+<https://doi.org/10.1016/s1567-1356(03)00226-5#b23_390> <http://schema.org/creator> "Sampaio J.P." .
+<https://doi.org/10.1016/s1567-1356(03)00226-5#b23_390> <http://schema.org/datePublished> "2001" .
+<https://doi.org/10.1016/s1567-1356(03)00226-5#b23_390> <http://schema.org/identifier> <https://doi.org/10.1016/s1567-1356(03)00226-5#b23_390#doi> .
+<https://doi.org/10.1016/s1567-1356(03)00226-5#b23_390> <http://schema.org/isPartOf> <https://doi.org/10.1016/s1567-1356(03)00226-5#b23_390-container> .
+<https://doi.org/10.1016/s1567-1356(03)00226-5#b23_390> <http://schema.org/pageStart> "687" .
+<https://doi.org/10.1016/s1567-1356(03)00226-5#b23_390> <http://schema.org/volumeNumber> "51" .
+<https://doi.org/10.1016/s1567-1356(03)00226-5#b23_390> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<https://doi.org/10.1016/s1567-1356(03)00226-5#b24_391#doi> <http://schema.org/propertyID> "doi" .
+<https://doi.org/10.1016/s1567-1356(03)00226-5#b24_391#doi> <http://schema.org/value> "10.1007/bf00422729" .
+<https://doi.org/10.1016/s1567-1356(03)00226-5#b24_391#doi> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<https://doi.org/10.1016/s1567-1356(03)00226-5#b24_391-container> <http://schema.org/name> "Antonie van Leeuwenhoek" .
+<https://doi.org/10.1016/s1567-1356(03)00226-5#b24_391> <http://schema.org/creator> "Gimenez-Jurado G." .
+<https://doi.org/10.1016/s1567-1356(03)00226-5#b24_391> <http://schema.org/datePublished> "1990" .
+<https://doi.org/10.1016/s1567-1356(03)00226-5#b24_391> <http://schema.org/identifier> <https://doi.org/10.1016/s1567-1356(03)00226-5#b24_391#doi> .
+<https://doi.org/10.1016/s1567-1356(03)00226-5#b24_391> <http://schema.org/isPartOf> <https://doi.org/10.1016/s1567-1356(03)00226-5#b24_391-container> .
+<https://doi.org/10.1016/s1567-1356(03)00226-5#b24_391> <http://schema.org/pageStart> "129" .
+<https://doi.org/10.1016/s1567-1356(03)00226-5#b24_391> <http://schema.org/volumeNumber> "58" .
+<https://doi.org/10.1016/s1567-1356(03)00226-5#b24_391> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<https://doi.org/10.1016/s1567-1356(03)00226-5#b25_392-container> <http://schema.org/name> "Bibl. Mycol." .
+<https://doi.org/10.1016/s1567-1356(03)00226-5#b25_392> <http://schema.org/creator> "Laaser G." .
+<https://doi.org/10.1016/s1567-1356(03)00226-5#b25_392> <http://schema.org/datePublished> "1989" .
+<https://doi.org/10.1016/s1567-1356(03)00226-5#b25_392> <http://schema.org/isPartOf> <https://doi.org/10.1016/s1567-1356(03)00226-5#b25_392-container> .
+<https://doi.org/10.1016/s1567-1356(03)00226-5#b25_392> <http://schema.org/pageStart> "1" .
+<https://doi.org/10.1016/s1567-1356(03)00226-5#b25_392> <http://schema.org/volumeNumber> "130" .
+<https://doi.org/10.1016/s1567-1356(03)00226-5#b25_392> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<https://doi.org/10.1016/s1567-1356(03)00226-5#b26_393#doi> <http://schema.org/propertyID> "doi" .
+<https://doi.org/10.1016/s1567-1356(03)00226-5#b26_393#doi> <http://schema.org/value> "10.1023/a:1001761008817" .
+<https://doi.org/10.1016/s1567-1356(03)00226-5#b26_393#doi> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<https://doi.org/10.1016/s1567-1356(03)00226-5#b26_393-container> <http://schema.org/name> "Antonie van Leeuwenhoek" .
+<https://doi.org/10.1016/s1567-1356(03)00226-5#b26_393> <http://schema.org/creator> "Kurtzman C.P." .
+<https://doi.org/10.1016/s1567-1356(03)00226-5#b26_393> <http://schema.org/datePublished> "1998" .
+<https://doi.org/10.1016/s1567-1356(03)00226-5#b26_393> <http://schema.org/identifier> <https://doi.org/10.1016/s1567-1356(03)00226-5#b26_393#doi> .
+<https://doi.org/10.1016/s1567-1356(03)00226-5#b26_393> <http://schema.org/isPartOf> <https://doi.org/10.1016/s1567-1356(03)00226-5#b26_393-container> .
+<https://doi.org/10.1016/s1567-1356(03)00226-5#b26_393> <http://schema.org/pageStart> "331" .
+<https://doi.org/10.1016/s1567-1356(03)00226-5#b26_393> <http://schema.org/volumeNumber> "73" .
+<https://doi.org/10.1016/s1567-1356(03)00226-5#b26_393> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<https://doi.org/10.1016/s1567-1356(03)00226-5#b27_394#doi> <http://schema.org/propertyID> "doi" .
+<https://doi.org/10.1016/s1567-1356(03)00226-5#b27_394#doi> <http://schema.org/value> "10.1099/00207713-50-3-1351" .
+<https://doi.org/10.1016/s1567-1356(03)00226-5#b27_394#doi> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<https://doi.org/10.1016/s1567-1356(03)00226-5#b27_394-container> <http://schema.org/name> "Int. J. Syst. Evol. Microbiol." .
+<https://doi.org/10.1016/s1567-1356(03)00226-5#b27_394> <http://schema.org/creator> "Fell J.W." .
+<https://doi.org/10.1016/s1567-1356(03)00226-5#b27_394> <http://schema.org/datePublished> "2000" .
+<https://doi.org/10.1016/s1567-1356(03)00226-5#b27_394> <http://schema.org/identifier> <https://doi.org/10.1016/s1567-1356(03)00226-5#b27_394#doi> .
+<https://doi.org/10.1016/s1567-1356(03)00226-5#b27_394> <http://schema.org/isPartOf> <https://doi.org/10.1016/s1567-1356(03)00226-5#b27_394-container> .
+<https://doi.org/10.1016/s1567-1356(03)00226-5#b27_394> <http://schema.org/pageStart> "1351" .
+<https://doi.org/10.1016/s1567-1356(03)00226-5#b27_394> <http://schema.org/volumeNumber> "50" .
+<https://doi.org/10.1016/s1567-1356(03)00226-5#b27_394> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<https://doi.org/10.1016/s1567-1356(03)00226-5#b28_395#doi> <http://schema.org/propertyID> "doi" .
+<https://doi.org/10.1016/s1567-1356(03)00226-5#b28_395#doi> <http://schema.org/value> "10.1111/j.1567-1364.2001.tb00007.x" .
+<https://doi.org/10.1016/s1567-1356(03)00226-5#b28_395#doi> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<https://doi.org/10.1016/s1567-1356(03)00226-5#b28_395-container> <http://schema.org/name> "FEMS Yeast Res." .
+<https://doi.org/10.1016/s1567-1356(03)00226-5#b28_395> <http://schema.org/creator> "Lachance M.-A." .
+<https://doi.org/10.1016/s1567-1356(03)00226-5#b28_395> <http://schema.org/datePublished> "2001" .
+<https://doi.org/10.1016/s1567-1356(03)00226-5#b28_395> <http://schema.org/identifier> <https://doi.org/10.1016/s1567-1356(03)00226-5#b28_395#doi> .
+<https://doi.org/10.1016/s1567-1356(03)00226-5#b28_395> <http://schema.org/isPartOf> <https://doi.org/10.1016/s1567-1356(03)00226-5#b28_395-container> .
+<https://doi.org/10.1016/s1567-1356(03)00226-5#b28_395> <http://schema.org/pageStart> "1" .
+<https://doi.org/10.1016/s1567-1356(03)00226-5#b28_395> <http://schema.org/volumeNumber> "1" .
+<https://doi.org/10.1016/s1567-1356(03)00226-5#b28_395> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<https://doi.org/10.1016/s1567-1356(03)00226-5#b29_396#doi> <http://schema.org/propertyID> "doi" .
+<https://doi.org/10.1016/s1567-1356(03)00226-5#b29_396#doi> <http://schema.org/value> "10.1128/aem.66.8.3194-3200.2000" .
+<https://doi.org/10.1016/s1567-1356(03)00226-5#b29_396#doi> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<https://doi.org/10.1016/s1567-1356(03)00226-5#b29_396-container> <http://schema.org/name> "Appl. Environ. Microbiol." .
+<https://doi.org/10.1016/s1567-1356(03)00226-5#b29_396> <http://schema.org/creator> "Webb J.S." .
+<https://doi.org/10.1016/s1567-1356(03)00226-5#b29_396> <http://schema.org/datePublished> "2000" .
+<https://doi.org/10.1016/s1567-1356(03)00226-5#b29_396> <http://schema.org/identifier> <https://doi.org/10.1016/s1567-1356(03)00226-5#b29_396#doi> .
+<https://doi.org/10.1016/s1567-1356(03)00226-5#b29_396> <http://schema.org/isPartOf> <https://doi.org/10.1016/s1567-1356(03)00226-5#b29_396-container> .
+<https://doi.org/10.1016/s1567-1356(03)00226-5#b29_396> <http://schema.org/pageStart> "3194" .
+<https://doi.org/10.1016/s1567-1356(03)00226-5#b29_396> <http://schema.org/volumeNumber> "66" .
+<https://doi.org/10.1016/s1567-1356(03)00226-5#b29_396> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<https://doi.org/10.1016/s1567-1356(03)00226-5#b2_369#doi> <http://schema.org/propertyID> "doi" .
+<https://doi.org/10.1016/s1567-1356(03)00226-5#b2_369#doi> <http://schema.org/value> "10.1007/978-3-662-10376-0_9" .
+<https://doi.org/10.1016/s1567-1356(03)00226-5#b2_369#doi> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<https://doi.org/10.1016/s1567-1356(03)00226-5#b2_369> <http://schema.org/description> "[2]Kurtzman, C.P. and Sugiyama, J. (2001) Ascomycetous yeasts and yeastlike taxa. In: The Mycota, Vol. VII, Part A (McLaughlin, D.J., McLaughlin, E.G. and Lemke, P.A., Eds.), pp. 179-200. Springer, Berlin." .
+<https://doi.org/10.1016/s1567-1356(03)00226-5#b2_369> <http://schema.org/identifier> <https://doi.org/10.1016/s1567-1356(03)00226-5#b2_369#doi> .
+<https://doi.org/10.1016/s1567-1356(03)00226-5#b2_369> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<https://doi.org/10.1016/s1567-1356(03)00226-5#b30_397#doi> <http://schema.org/propertyID> "doi" .
+<https://doi.org/10.1016/s1567-1356(03)00226-5#b30_397#doi> <http://schema.org/value> "10.1139/b95-320" .
+<https://doi.org/10.1016/s1567-1356(03)00226-5#b30_397#doi> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<https://doi.org/10.1016/s1567-1356(03)00226-5#b30_397-container> <http://schema.org/name> "Can. J. Bot." .
+<https://doi.org/10.1016/s1567-1356(03)00226-5#b30_397> <http://schema.org/creator> "Seifert K.A." .
+<https://doi.org/10.1016/s1567-1356(03)00226-5#b30_397> <http://schema.org/datePublished> "1995" .
+<https://doi.org/10.1016/s1567-1356(03)00226-5#b30_397> <http://schema.org/identifier> <https://doi.org/10.1016/s1567-1356(03)00226-5#b30_397#doi> .
+<https://doi.org/10.1016/s1567-1356(03)00226-5#b30_397> <http://schema.org/isPartOf> <https://doi.org/10.1016/s1567-1356(03)00226-5#b30_397-container> .
+<https://doi.org/10.1016/s1567-1356(03)00226-5#b30_397> <http://schema.org/pageStart> "760" .
+<https://doi.org/10.1016/s1567-1356(03)00226-5#b30_397> <http://schema.org/volumeNumber> "73" .
+<https://doi.org/10.1016/s1567-1356(03)00226-5#b30_397> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<https://doi.org/10.1016/s1567-1356(03)00226-5#b31_398#doi> <http://schema.org/propertyID> "doi" .
+<https://doi.org/10.1016/s1567-1356(03)00226-5#b31_398#doi> <http://schema.org/value> "10.2307/3756013" .
+<https://doi.org/10.1016/s1567-1356(03)00226-5#b31_398#doi> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<https://doi.org/10.1016/s1567-1356(03)00226-5#b31_398-container> <http://schema.org/name> "Mycologia" .
+<https://doi.org/10.1016/s1567-1356(03)00226-5#b31_398> <http://schema.org/creator> "Kramer C.L." .
+<https://doi.org/10.1016/s1567-1356(03)00226-5#b31_398> <http://schema.org/datePublished> "1960" .
+<https://doi.org/10.1016/s1567-1356(03)00226-5#b31_398> <http://schema.org/identifier> <https://doi.org/10.1016/s1567-1356(03)00226-5#b31_398#doi> .
+<https://doi.org/10.1016/s1567-1356(03)00226-5#b31_398> <http://schema.org/isPartOf> <https://doi.org/10.1016/s1567-1356(03)00226-5#b31_398-container> .
+<https://doi.org/10.1016/s1567-1356(03)00226-5#b31_398> <http://schema.org/pageStart> "295" .
+<https://doi.org/10.1016/s1567-1356(03)00226-5#b31_398> <http://schema.org/volumeNumber> "52" .
+<https://doi.org/10.1016/s1567-1356(03)00226-5#b31_398> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<https://doi.org/10.1016/s1567-1356(03)00226-5#b32_399#doi> <http://schema.org/propertyID> "doi" .
+<https://doi.org/10.1016/s1567-1356(03)00226-5#b32_399#doi> <http://schema.org/value> "10.2323/jgam.41.359" .
+<https://doi.org/10.1016/s1567-1356(03)00226-5#b32_399#doi> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<https://doi.org/10.1016/s1567-1356(03)00226-5#b32_399-container> <http://schema.org/issn> "1567-1356" .
+<https://doi.org/10.1016/s1567-1356(03)00226-5#b32_399-container> <http://schema.org/name> "J. Gen. Appl. Microbiol." .
+<https://doi.org/10.1016/s1567-1356(03)00226-5#b32_399> <http://schema.org/creator> "Boekhout T." .
+<https://doi.org/10.1016/s1567-1356(03)00226-5#b32_399> <http://schema.org/datePublished> "1995" .
+<https://doi.org/10.1016/s1567-1356(03)00226-5#b32_399> <http://schema.org/identifier> <https://doi.org/10.1016/s1567-1356(03)00226-5#b32_399#doi> .
+<https://doi.org/10.1016/s1567-1356(03)00226-5#b32_399> <http://schema.org/isPartOf> <https://doi.org/10.1016/s1567-1356(03)00226-5#b32_399-container> .
+<https://doi.org/10.1016/s1567-1356(03)00226-5#b32_399> <http://schema.org/pageStart> "359" .
+<https://doi.org/10.1016/s1567-1356(03)00226-5#b32_399> <http://schema.org/volumeNumber> "41" .
+<https://doi.org/10.1016/s1567-1356(03)00226-5#b32_399> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<https://doi.org/10.1016/s1567-1356(03)00226-5#b3_370#doi> <http://schema.org/propertyID> "doi" .
+<https://doi.org/10.1016/s1567-1356(03)00226-5#b3_370#doi> <http://schema.org/value> "10.5962/bhl.part.16125" .
+<https://doi.org/10.1016/s1567-1356(03)00226-5#b3_370#doi> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<https://doi.org/10.1016/s1567-1356(03)00226-5#b3_370-container> <http://schema.org/name> "Univ. Kans. Sci. Bull." .
+<https://doi.org/10.1016/s1567-1356(03)00226-5#b3_370> <http://schema.org/creator> "Mix A.J." .
+<https://doi.org/10.1016/s1567-1356(03)00226-5#b3_370> <http://schema.org/datePublished> "1949" .
+<https://doi.org/10.1016/s1567-1356(03)00226-5#b3_370> <http://schema.org/identifier> <https://doi.org/10.1016/s1567-1356(03)00226-5#b3_370#doi> .
+<https://doi.org/10.1016/s1567-1356(03)00226-5#b3_370> <http://schema.org/isPartOf> <https://doi.org/10.1016/s1567-1356(03)00226-5#b3_370-container> .
+<https://doi.org/10.1016/s1567-1356(03)00226-5#b3_370> <http://schema.org/pageStart> "3" .
+<https://doi.org/10.1016/s1567-1356(03)00226-5#b3_370> <http://schema.org/volumeNumber> "33" .
+<https://doi.org/10.1016/s1567-1356(03)00226-5#b3_370> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<https://doi.org/10.1016/s1567-1356(03)00226-5#b4_371-container> <http://schema.org/name> "Phytopathology" .
+<https://doi.org/10.1016/s1567-1356(03)00226-5#b4_371> <http://schema.org/creator> "Mix A.J." .
+<https://doi.org/10.1016/s1567-1356(03)00226-5#b4_371> <http://schema.org/datePublished> "1935" .
+<https://doi.org/10.1016/s1567-1356(03)00226-5#b4_371> <http://schema.org/isPartOf> <https://doi.org/10.1016/s1567-1356(03)00226-5#b4_371-container> .
+<https://doi.org/10.1016/s1567-1356(03)00226-5#b4_371> <http://schema.org/pageStart> "41" .
+<https://doi.org/10.1016/s1567-1356(03)00226-5#b4_371> <http://schema.org/volumeNumber> "25" .
+<https://doi.org/10.1016/s1567-1356(03)00226-5#b4_371> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<https://doi.org/10.1016/s1567-1356(03)00226-5#b5_372> <http://schema.org/description> "[5]Kramer, C.L. (1987) The Taphrinales. In: The Expanding Realm of Yeast-like fungi (de Hoog, G.S, Smith, M.Th. and Weijman, A.C.J., Eds.), pp. 151-166. Elsevier, Amsterdam." .
+<https://doi.org/10.1016/s1567-1356(03)00226-5#b5_372> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<https://doi.org/10.1016/s1567-1356(03)00226-5#b6_373#doi> <http://schema.org/propertyID> "doi" .
+<https://doi.org/10.1016/s1567-1356(03)00226-5#b6_373#doi> <http://schema.org/value> "10.1016/b978-044481312-1/50072-1" .
+<https://doi.org/10.1016/s1567-1356(03)00226-5#b6_373#doi> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<https://doi.org/10.1016/s1567-1356(03)00226-5#b6_373> <http://schema.org/description> "[6]Moore, R.T. (1998)LalariaR.T. Moore. In: The Yeasts, A Taxonomic Study, 4th edn. (Kurtzman, C.P. and Fell, J.W., Eds.), pp. 582-591. Elsevier, Amsterdam." .
+<https://doi.org/10.1016/s1567-1356(03)00226-5#b6_373> <http://schema.org/identifier> <https://doi.org/10.1016/s1567-1356(03)00226-5#b6_373#doi> .
+<https://doi.org/10.1016/s1567-1356(03)00226-5#b6_373> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<https://doi.org/10.1016/s1567-1356(03)00226-5#b7_374#doi> <http://schema.org/propertyID> "doi" .
+<https://doi.org/10.1016/s1567-1356(03)00226-5#b7_374#doi> <http://schema.org/value> "10.1139/b82-220" .
+<https://doi.org/10.1016/s1567-1356(03)00226-5#b7_374#doi> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<https://doi.org/10.1016/s1567-1356(03)00226-5#b7_374-container> <http://schema.org/name> "Can. J. Bot." .
+<https://doi.org/10.1016/s1567-1356(03)00226-5#b7_374> <http://schema.org/creator> "Heath I.B." .
+<https://doi.org/10.1016/s1567-1356(03)00226-5#b7_374> <http://schema.org/datePublished> "1982" .
+<https://doi.org/10.1016/s1567-1356(03)00226-5#b7_374> <http://schema.org/identifier> <https://doi.org/10.1016/s1567-1356(03)00226-5#b7_374#doi> .
+<https://doi.org/10.1016/s1567-1356(03)00226-5#b7_374> <http://schema.org/isPartOf> <https://doi.org/10.1016/s1567-1356(03)00226-5#b7_374-container> .
+<https://doi.org/10.1016/s1567-1356(03)00226-5#b7_374> <http://schema.org/pageStart> "1696" .
+<https://doi.org/10.1016/s1567-1356(03)00226-5#b7_374> <http://schema.org/volumeNumber> "60" .
+<https://doi.org/10.1016/s1567-1356(03)00226-5#b7_374> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<https://doi.org/10.1016/s1567-1356(03)00226-5#b8_375#doi> <http://schema.org/propertyID> "doi" .
+<https://doi.org/10.1016/s1567-1356(03)00226-5#b8_375#doi> <http://schema.org/value> "10.1007/bf02464084" .
+<https://doi.org/10.1016/s1567-1356(03)00226-5#b8_375#doi> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<https://doi.org/10.1016/s1567-1356(03)00226-5#b8_375-container> <http://schema.org/name> "Mycoscience" .
+<https://doi.org/10.1016/s1567-1356(03)00226-5#b8_375> <http://schema.org/creator> "Sjamsuridzal W." .
+<https://doi.org/10.1016/s1567-1356(03)00226-5#b8_375> <http://schema.org/datePublished> "1997" .
+<https://doi.org/10.1016/s1567-1356(03)00226-5#b8_375> <http://schema.org/identifier> <https://doi.org/10.1016/s1567-1356(03)00226-5#b8_375#doi> .
+<https://doi.org/10.1016/s1567-1356(03)00226-5#b8_375> <http://schema.org/isPartOf> <https://doi.org/10.1016/s1567-1356(03)00226-5#b8_375-container> .
+<https://doi.org/10.1016/s1567-1356(03)00226-5#b8_375> <http://schema.org/pageStart> "267" .
+<https://doi.org/10.1016/s1567-1356(03)00226-5#b8_375> <http://schema.org/volumeNumber> "38" .
+<https://doi.org/10.1016/s1567-1356(03)00226-5#b8_375> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<https://doi.org/10.1016/s1567-1356(03)00226-5#b9_376#doi> <http://schema.org/propertyID> "doi" .
+<https://doi.org/10.1016/s1567-1356(03)00226-5#b9_376#doi> <http://schema.org/value> "10.1099/ijs.0.02437-0" .
+<https://doi.org/10.1016/s1567-1356(03)00226-5#b9_376#doi> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<https://doi.org/10.1016/s1567-1356(03)00226-5#b9_376-container> <http://schema.org/name> "Int. J. Syst. Evol. Microbiol." .
+<https://doi.org/10.1016/s1567-1356(03)00226-5#b9_376> <http://schema.org/creator> "Rodrigues M.G." .
+<https://doi.org/10.1016/s1567-1356(03)00226-5#b9_376> <http://schema.org/datePublished> "2003" .
+<https://doi.org/10.1016/s1567-1356(03)00226-5#b9_376> <http://schema.org/identifier> <https://doi.org/10.1016/s1567-1356(03)00226-5#b9_376#doi> .
+<https://doi.org/10.1016/s1567-1356(03)00226-5#b9_376> <http://schema.org/isPartOf> <https://doi.org/10.1016/s1567-1356(03)00226-5#b9_376-container> .
+<https://doi.org/10.1016/s1567-1356(03)00226-5#b9_376> <http://schema.org/pageStart> "607" .
+<https://doi.org/10.1016/s1567-1356(03)00226-5#b9_376> <http://schema.org/volumeNumber> "53" .
+<https://doi.org/10.1016/s1567-1356(03)00226-5#b9_376> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<https://doi.org/10.1016/s1567-1356(03)00226-5#creator/1> <http://schema.org/familyName> "INACIO" .
+<https://doi.org/10.1016/s1567-1356(03)00226-5#creator/1> <http://schema.org/givenName> "J" .
+<https://doi.org/10.1016/s1567-1356(03)00226-5#creator/1> <http://schema.org/name> "J INACIO" .
+<https://doi.org/10.1016/s1567-1356(03)00226-5#creator/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+<https://doi.org/10.1016/s1567-1356(03)00226-5#creator/2> <http://schema.org/familyName> "RODRIGUES" .
+<https://doi.org/10.1016/s1567-1356(03)00226-5#creator/2> <http://schema.org/givenName> "M" .
+<https://doi.org/10.1016/s1567-1356(03)00226-5#creator/2> <http://schema.org/name> "M RODRIGUES" .
+<https://doi.org/10.1016/s1567-1356(03)00226-5#creator/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+<https://doi.org/10.1016/s1567-1356(03)00226-5#creator/3> <http://schema.org/familyName> "SOBRAL" .
+<https://doi.org/10.1016/s1567-1356(03)00226-5#creator/3> <http://schema.org/givenName> "P" .
+<https://doi.org/10.1016/s1567-1356(03)00226-5#creator/3> <http://schema.org/name> "P SOBRAL" .
+<https://doi.org/10.1016/s1567-1356(03)00226-5#creator/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+<https://doi.org/10.1016/s1567-1356(03)00226-5#creator/4> <http://schema.org/familyName> "FONSECA" .
+<https://doi.org/10.1016/s1567-1356(03)00226-5#creator/4> <http://schema.org/givenName> "L" .
+<https://doi.org/10.1016/s1567-1356(03)00226-5#creator/4> <http://schema.org/name> "L FONSECA" .
+<https://doi.org/10.1016/s1567-1356(03)00226-5#creator/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+<https://doi.org/10.1016/s1567-1356(03)00226-5#doi> <http://schema.org/propertyID> "doi" .
+<https://doi.org/10.1016/s1567-1356(03)00226-5#doi> <http://schema.org/value> "10.1016/s1567-1356(03)00226-5" .
+<https://doi.org/10.1016/s1567-1356(03)00226-5#doi> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<https://doi.org/10.1016/s1567-1356(03)00226-5#role/1> <http://schema.org/creator> <https://doi.org/10.1016/s1567-1356(03)00226-5#creator/1> .
+<https://doi.org/10.1016/s1567-1356(03)00226-5#role/1> <http://schema.org/roleName> "1" .
+<https://doi.org/10.1016/s1567-1356(03)00226-5#role/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Role> .
+<https://doi.org/10.1016/s1567-1356(03)00226-5#role/2> <http://schema.org/creator> <https://doi.org/10.1016/s1567-1356(03)00226-5#creator/2> .
+<https://doi.org/10.1016/s1567-1356(03)00226-5#role/2> <http://schema.org/roleName> "2" .
+<https://doi.org/10.1016/s1567-1356(03)00226-5#role/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Role> .
+<https://doi.org/10.1016/s1567-1356(03)00226-5#role/3> <http://schema.org/creator> <https://doi.org/10.1016/s1567-1356(03)00226-5#creator/3> .
+<https://doi.org/10.1016/s1567-1356(03)00226-5#role/3> <http://schema.org/roleName> "3" .
+<https://doi.org/10.1016/s1567-1356(03)00226-5#role/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Role> .
+<https://doi.org/10.1016/s1567-1356(03)00226-5#role/4> <http://schema.org/creator> <https://doi.org/10.1016/s1567-1356(03)00226-5#creator/4> .
+<https://doi.org/10.1016/s1567-1356(03)00226-5#role/4> <http://schema.org/roleName> "4" .
+<https://doi.org/10.1016/s1567-1356(03)00226-5#role/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Role> .
+<https://doi.org/10.1016/s1567-1356(03)00226-5> <http://schema.org/citation> <https://doi.org/10.1016/s1567-1356(03)00226-5#b10_377> .
+<https://doi.org/10.1016/s1567-1356(03)00226-5> <http://schema.org/citation> <https://doi.org/10.1016/s1567-1356(03)00226-5#b11_378> .
+<https://doi.org/10.1016/s1567-1356(03)00226-5> <http://schema.org/citation> <https://doi.org/10.1016/s1567-1356(03)00226-5#b12_379> .
+<https://doi.org/10.1016/s1567-1356(03)00226-5> <http://schema.org/citation> <https://doi.org/10.1016/s1567-1356(03)00226-5#b13_380> .
+<https://doi.org/10.1016/s1567-1356(03)00226-5> <http://schema.org/citation> <https://doi.org/10.1016/s1567-1356(03)00226-5#b14_381> .
+<https://doi.org/10.1016/s1567-1356(03)00226-5> <http://schema.org/citation> <https://doi.org/10.1016/s1567-1356(03)00226-5#b15_382> .
+<https://doi.org/10.1016/s1567-1356(03)00226-5> <http://schema.org/citation> <https://doi.org/10.1016/s1567-1356(03)00226-5#b16_383> .
+<https://doi.org/10.1016/s1567-1356(03)00226-5> <http://schema.org/citation> <https://doi.org/10.1016/s1567-1356(03)00226-5#b17_384> .
+<https://doi.org/10.1016/s1567-1356(03)00226-5> <http://schema.org/citation> <https://doi.org/10.1016/s1567-1356(03)00226-5#b18_385> .
+<https://doi.org/10.1016/s1567-1356(03)00226-5> <http://schema.org/citation> <https://doi.org/10.1016/s1567-1356(03)00226-5#b19_386> .
+<https://doi.org/10.1016/s1567-1356(03)00226-5> <http://schema.org/citation> <https://doi.org/10.1016/s1567-1356(03)00226-5#b1_368> .
+<https://doi.org/10.1016/s1567-1356(03)00226-5> <http://schema.org/citation> <https://doi.org/10.1016/s1567-1356(03)00226-5#b20_387> .
+<https://doi.org/10.1016/s1567-1356(03)00226-5> <http://schema.org/citation> <https://doi.org/10.1016/s1567-1356(03)00226-5#b21_388> .
+<https://doi.org/10.1016/s1567-1356(03)00226-5> <http://schema.org/citation> <https://doi.org/10.1016/s1567-1356(03)00226-5#b22_389> .
+<https://doi.org/10.1016/s1567-1356(03)00226-5> <http://schema.org/citation> <https://doi.org/10.1016/s1567-1356(03)00226-5#b23_390> .
+<https://doi.org/10.1016/s1567-1356(03)00226-5> <http://schema.org/citation> <https://doi.org/10.1016/s1567-1356(03)00226-5#b24_391> .
+<https://doi.org/10.1016/s1567-1356(03)00226-5> <http://schema.org/citation> <https://doi.org/10.1016/s1567-1356(03)00226-5#b25_392> .
+<https://doi.org/10.1016/s1567-1356(03)00226-5> <http://schema.org/citation> <https://doi.org/10.1016/s1567-1356(03)00226-5#b26_393> .
+<https://doi.org/10.1016/s1567-1356(03)00226-5> <http://schema.org/citation> <https://doi.org/10.1016/s1567-1356(03)00226-5#b27_394> .
+<https://doi.org/10.1016/s1567-1356(03)00226-5> <http://schema.org/citation> <https://doi.org/10.1016/s1567-1356(03)00226-5#b28_395> .
+<https://doi.org/10.1016/s1567-1356(03)00226-5> <http://schema.org/citation> <https://doi.org/10.1016/s1567-1356(03)00226-5#b29_396> .
+<https://doi.org/10.1016/s1567-1356(03)00226-5> <http://schema.org/citation> <https://doi.org/10.1016/s1567-1356(03)00226-5#b2_369> .
+<https://doi.org/10.1016/s1567-1356(03)00226-5> <http://schema.org/citation> <https://doi.org/10.1016/s1567-1356(03)00226-5#b30_397> .
+<https://doi.org/10.1016/s1567-1356(03)00226-5> <http://schema.org/citation> <https://doi.org/10.1016/s1567-1356(03)00226-5#b31_398> .
+<https://doi.org/10.1016/s1567-1356(03)00226-5> <http://schema.org/citation> <https://doi.org/10.1016/s1567-1356(03)00226-5#b32_399> .
+<https://doi.org/10.1016/s1567-1356(03)00226-5> <http://schema.org/citation> <https://doi.org/10.1016/s1567-1356(03)00226-5#b3_370> .
+<https://doi.org/10.1016/s1567-1356(03)00226-5> <http://schema.org/citation> <https://doi.org/10.1016/s1567-1356(03)00226-5#b4_371> .
+<https://doi.org/10.1016/s1567-1356(03)00226-5> <http://schema.org/citation> <https://doi.org/10.1016/s1567-1356(03)00226-5#b5_372> .
+<https://doi.org/10.1016/s1567-1356(03)00226-5> <http://schema.org/citation> <https://doi.org/10.1016/s1567-1356(03)00226-5#b6_373> .
+<https://doi.org/10.1016/s1567-1356(03)00226-5> <http://schema.org/citation> <https://doi.org/10.1016/s1567-1356(03)00226-5#b7_374> .
+<https://doi.org/10.1016/s1567-1356(03)00226-5> <http://schema.org/citation> <https://doi.org/10.1016/s1567-1356(03)00226-5#b8_375> .
+<https://doi.org/10.1016/s1567-1356(03)00226-5> <http://schema.org/citation> <https://doi.org/10.1016/s1567-1356(03)00226-5#b9_376> .
+<https://doi.org/10.1016/s1567-1356(03)00226-5> <http://schema.org/creator> <https://doi.org/10.1016/s1567-1356(03)00226-5#role/1> .
+<https://doi.org/10.1016/s1567-1356(03)00226-5> <http://schema.org/creator> <https://doi.org/10.1016/s1567-1356(03)00226-5#role/2> .
+<https://doi.org/10.1016/s1567-1356(03)00226-5> <http://schema.org/creator> <https://doi.org/10.1016/s1567-1356(03)00226-5#role/3> .
+<https://doi.org/10.1016/s1567-1356(03)00226-5> <http://schema.org/creator> <https://doi.org/10.1016/s1567-1356(03)00226-5#role/4> .
+<https://doi.org/10.1016/s1567-1356(03)00226-5> <http://schema.org/datePublished> "2004-01-00" .
+<https://doi.org/10.1016/s1567-1356(03)00226-5> <http://schema.org/identifier> <https://doi.org/10.1016/s1567-1356(03)00226-5#doi> .
+<https://doi.org/10.1016/s1567-1356(03)00226-5> <http://schema.org/isPartOf> <http://worldcat.org/issn/1567-1356> .
+<https://doi.org/10.1016/s1567-1356(03)00226-5> <http://schema.org/issueNumber> "4-5" .
+<https://doi.org/10.1016/s1567-1356(03)00226-5> <http://schema.org/name> "Characterisation and classification of phylloplane yeasts from Portugal related to the genus and description of five novel species" .
+<https://doi.org/10.1016/s1567-1356(03)00226-5> <http://schema.org/pageEnd> "555" .
+<https://doi.org/10.1016/s1567-1356(03)00226-5> <http://schema.org/pageStart> "541" .
+<https://doi.org/10.1016/s1567-1356(03)00226-5> <http://schema.org/publisher> "Oxford University Press (OUP)" .
+<https://doi.org/10.1016/s1567-1356(03)00226-5> <http://schema.org/volumeNumber> "4" .
+<https://doi.org/10.1016/s1567-1356(03)00226-5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ScholarlyArticle> .
 <https://doi.org/10.1080/00837792.1905.10669551#creator/1> <http://schema.org/givenName> "ODOARDO" .
 <https://doi.org/10.1080/00837792.1905.10669551#creator/1> <http://schema.org/familyName> "BECCARI" .
 <https://doi.org/10.1080/00837792.1905.10669551#CIT0002> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .

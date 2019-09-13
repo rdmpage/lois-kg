@@ -211,6 +211,10 @@ if (1)
 	'2324/2695'
 	);
 	
+	$guids=array(
+	'10.13346/j.mycosystema.130120'
+	);
+	
 
 	$force = true;
 	$force = false;

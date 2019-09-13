@@ -160,6 +160,10 @@ function display_html_start($title = '', $meta = '', $script = '', $onload = '')
 	echo '
     <!-- base -->
     <base href="' . $config['web_root'] . '" /><!--[if IE]></base><![endif]-->';
+    
+    
+    echo '<!-- fonts -->
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans&display=swap" rel="stylesheet">';
 
 
 	echo '<script src="js/ejs.js"></script>';
@@ -205,8 +209,14 @@ function render(template) {
 ';
 
 	echo '<style type="text/css">
-		body { padding:20px; font-family: "Arial Narrow", Arial, sans-serif; line-height:1.5em;}
-		h1 { line-height:1.2em;}
+		body { 
+			padding:20px; 
+			font-family: "Open Sans", sans-serif; 
+			line-height:1.5em;
+		}
+		h1 { 
+			line-height:1.2em;
+		}
 	</style>	
 	</head>';
 	

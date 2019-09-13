@@ -284,7 +284,7 @@ item = data;
 
 	<% if (item['tn:nomenclaturalCode']) { 
 		var code = item['tn:nomenclaturalCode']['@id'];
-		//code = code.replace('http://rs.tdwg.org/ontology/voc/TaxonName#', ''); %>
+		code = code.replace('tn:', ''); %>
 		Code:
 		<%= code %>
 	<% } %>
