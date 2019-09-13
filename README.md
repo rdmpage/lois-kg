@@ -12,6 +12,14 @@ echo "vendor/" > .gitignore
 composer update
 ```
 
+## Technology
+
+--|--
+Technology | Provider
+Document database | CouchDB
+Triple store | Blazegraph
+Templating | EJS
+
 ## Named graphs
 
 --|--
