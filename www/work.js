@@ -153,6 +153,14 @@ item = data;
 : <%= get_literal(item.pagination) %>
 <% } %>
 
+<% if (item.pageStart) {%>
+: <%=get_literal(item.pageStart)%>
+<% } %>
+
+<% if (item.pageEnd) {%>
+- <%=get_literal(item.pageEnd) %>
+<% } %>
+
 </div>
 
 <!-- title -->
