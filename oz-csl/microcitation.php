@@ -203,6 +203,14 @@ if (1)
 	'10.6165/tai.1983.28.146'
 	);
 	
+	$guids=array(
+	'http://natuurtijdschriften.nl/record/592691'
+	);
+	
+	$guids=array(
+	'2324/2695'
+	);
+	
 
 	$force = true;
 	$force = false;
