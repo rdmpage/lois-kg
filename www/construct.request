@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baseURL</key>
+	<string>http://167.71.255.145:9999/blazegraph/sparql</string>
+	<key>followRedirect</key>
+	<true/>
+	<key>handleJSONPCallbacks</key>
+	<false/>
+	<key>headers</key>
+	<array>
+		<dict>
+			<key>header</key>
+			<string>Accept</string>
+			<key>inUse</key>
+			<true/>
+			<key>value</key>
+			<string>application/ld+json</string>
+		</dict>
+	</array>
+	<key>httpMethod</key>
+	<string>GET</string>
+	<key>jsonpScript</key>
+	<string></string>
+	<key>paramBodyUIChoice</key>
+	<integer>0</integer>
+	<key>parameters</key>
+	<array>
+		<dict>
+			<key>inUse</key>
+			<true/>
+			<key>parameter</key>
+			<string>query</string>
+			<key>value</key>
+			<string>PREFIX : &lt;http://schema.org/&gt;
+PREFIX rdf: &lt;http://www.w3.org/1999/02/22-rdf-syntax-ns#&gt;
+
+CONSTRUCT 
+{
+?item ?p ?o .
+
+?item :identifier ?identifier .
+     ?identifier a &lt;http://schema.org/PropertyValue&gt; .
+     ?identifier &lt;http://schema.org/propertyID&gt; "doi" .
+     ?identifier &lt;http://schema.org/value&gt; ?doi .
+
+?item :creator ?role .
+     ?role &lt;http://schema.org/creator&gt; ?author .
+     ?author &lt;http://schema.org/name&gt; ?author_name .  
+             
+?item :citation ?cites .
+     ?cites &lt;http://schema.org/name&gt; ?text .               
+
+}
+WHERE {
+  VALUES ?item { &lt;https://doi.org/10.1007/s12225-009-9096-4&gt; }
+    ?item ?p ?o .
+
+	OPTIONAL {
+		?item &lt;http://schema.org/identifier&gt; ?identifier .		
+		?identifier &lt;http://schema.org/propertyID&gt; "doi" .
+		?identifier &lt;http://schema.org/value&gt; ?doi .
+	} 
+  
+	OPTIONAL {
+		?item &lt;http://schema.org/creator&gt; ?role .		
+		?role &lt;http://schema.org/creator&gt; ?author .
+        ?author &lt;http://schema.org/name&gt; ?author_name . 
+	} 
+  
+	OPTIONAL {
+		?item &lt;http://schema.org/citation&gt; ?cites .	
+         { ?cites &lt;http://schema.org/description&gt; ?text . } UNION { ?cites &lt;http://schema.org/name&gt; ?text . } 
+ 	}  
+
+
+}
+
+</string>
+		</dict>
+	</array>
+	<key>parametersType</key>
+	<integer>0</integer>
+	<key>presentBeforeChallenge</key>
+	<false/>
+	<key>stringEncoding</key>
+	<integer>4</integer>
+	<key>usingHTTPBody</key>
+	<false/>
+</dict>
+</plist>

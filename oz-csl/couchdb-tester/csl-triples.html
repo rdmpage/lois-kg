@@ -1,0 +1,3108 @@
+<html>
+	<head>
+		<title>CrossRef/CSL to triples</title>
+		<meta charset="UTF-8"/>
+		<script src="jquery.js"></script>
+		<script src="jsonld.js"></script>
+		<script src="viz.js"></script>
+		<!-- stuff below needs to go into CouchDB views -->
+		<script src="shared.js"></script>
+		<script src="language.js"></script>
+		<style>
+		td { border: 1px solid red; }
+		</style>
+	</head>
+<body>
+
+<h1>CrossRef/CSL to triples</h1>
+
+<div>
+	<div style="width:100%;height:auto;">
+		<h2>JSON</h2>
+			<!-- JSON for data object goes below -->
+			<textarea id="json" style="width:100%;background-color:#224FBC;color:#FFFF66;" rows="20">
+	
+{
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+  "message-format": "application/vnd.crossref-api-message+json",
+    
+    "message": {
+        "indexed": {
+            "date-parts": [
+                [
+                    2019,
+                    6,
+                    2
+                ]
+            ],
+            "date-time": "2019-06-02T06:40:47Z",
+            "timestamp": 1559457647596
+        },
+        "reference-count": 84,
+        "publisher": "Springer Science and Business Media LLC",
+        "issue": "1",
+        "license": [
+            {
+                "URL": "http://www.springer.com/tdm",
+                "start": {
+                    "date-parts": [
+                        [
+                            2009,
+                            3,
+                            1
+                        ]
+                    ],
+                    "date-time": "2009-03-01T00:00:00Z",
+                    "timestamp": 1235865600000
+                },
+                "delay-in-days": 0,
+                "content-version": "tdm"
+            }
+        ],
+        "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+        },
+        "short-container-title": [
+            "Kew Bull"
+        ],
+        "published-print": {
+            "date-parts": [
+                [
+                    2009,
+                    3
+                ]
+            ]
+        },
+        "DOI": "10.1007/s12225-009-9096-4",
+        "type": "journal-article",
+        "created": {
+            "date-parts": [
+                [
+                    2010,
+                    2,
+                    11
+                ]
+            ],
+            "date-time": "2010-02-11T22:39:20Z",
+            "timestamp": 1265927960000
+        },
+        "page": "67-94",
+        "source": "Crossref",
+        "is-referenced-by-count": 3,
+        "title": [
+            "A monograph of Cyrtostachys (Arecaceae)"
+        ],
+        "prefix": "10.1007",
+        "volume": "64",
+        "author": [
+            {
+                "given": "Charlie D.",
+                "family": "Heatubun",
+                "sequence": "first",
+                "affiliation": []
+            },
+            {
+                "given": "William J.",
+                "family": "Baker",
+                "sequence": "additional",
+                "affiliation": []
+            },
+            {
+                "given": "Johanis P.",
+                "family": "Mogea",
+                "sequence": "additional",
+                "affiliation": []
+            },
+            {
+                "given": "Madeline M.",
+                "family": "Harley",
+                "sequence": "additional",
+                "affiliation": []
+            },
+            {
+                "given": "Sri S.",
+                "family": "Tjitrosoedirdjo",
+                "sequence": "additional",
+                "affiliation": []
+            },
+            {
+                "given": "John",
+                "family": "Dransfield",
+                "sequence": "additional",
+                "affiliation": []
+            }
+        ],
+        "member": "297",
+        "published-online": {
+            "date-parts": [
+                [
+                    2009,
+                    4,
+                    9
+                ]
+            ]
+        },
+        "reference": [
+            {
+                "key": "9096_CR1",
+                "doi-asserted-by": "crossref",
+                "first-page": "1103",
+                "DOI": "10.2307/2657094",
+                "volume": "88",
+                "author": "C. B. Asmussen",
+                "year": "2001",
+                "unstructured": "Asmussen, C. B. & Chase, M. W. (2001). Coding and non-coding plastid DNA in palm systematics. Amer. J. Bot. 88: 1103 – 1117.",
+                "journal-title": "Am. J. Bot."
+            },
+            {
+                "key": "9096_CR2",
+                "doi-asserted-by": "crossref",
+                "first-page": "299",
+                "DOI": "10.1111/j.0906-7590.2004.03759.x",
+                "volume": "27",
+                "author": "S. Bachman",
+                "year": "2004",
+                "unstructured": "Bachman, S., Baker, W. J., Brummitt, N., Dransfield, J. & Moat, J. (2004). Elevational gradients, area and tropical island diversity: an example from the palms of New Guinea. Ecography 27: 299 – 310.",
+                "journal-title": "Ecography"
+            },
+            {
+                "key": "9096_CR3",
+                "author": "W. J. Baker",
+                "first-page": "243",
+                "year": "1998",
+                "unstructured": "Baker, W. J., Coode, M. J. E., Dransfield, J., Dransfield, S., Harley, M. M., Hoffmann, P. & Johns, R. J. (1998). Patterns of distribution of Malesian vascular plants. In: R. Hall, J. D. Holloway & B. R. Rosen (eds.), Biogeography and Geological Evolution of SE Asia. pp. 243 – 258, Backhuys, Leiden, Netherlands.",
+                "volume-title": "Biogeography and Geological Evolution of SE Asia"
+            },
+            {
+                "key": "9096_CR4",
+                "first-page": "160",
+                "volume": "44",
+                "author": "W. J. Baker",
+                "year": "2000",
+                "unstructured": "____ (2000). The Palms of New Guinea Project. Palms 44: 160, 165.",
+                "journal-title": "Palms"
+            },
+            {
+                "key": "9096_CR5",
+                "first-page": "35",
+                "volume": "13",
+                "author": "W. J. Baker",
+                "year": "2002",
+                "unstructured": "____ (2002). The Palms of New Guinea Project. Fl. Males. Bull. 13: 35 – 37.",
+                "journal-title": "Fl. Males. Bull."
+            },
+            {
+                "key": "9096_CR6",
+                "doi-asserted-by": "crossref",
+                "first-page": "47",
+                "DOI": "10.2307/4111073",
+                "volume": "59",
+                "author": "R. Banka",
+                "year": "2004",
+                "unstructured": "Banka, R. & Baker, W. J. (2004). A monograph of the genus Rhopaloblaste (Arecaceae). Kew Bull. 59: 47 – 60.",
+                "journal-title": "Kew Bull."
+            },
+            {
+                "key": "9096_CR7",
+                "unstructured": "Barfod, A., Banka, R. & Dowe, J. L. (2001). Field guide to palms in Papua New Guinea. AAU reports 40, Department of Systematic Botany, University of Aarhus, Aarhus University Press."
+            },
+            {
+                "key": "9096_CR8",
+                "doi-asserted-by": "crossref",
+                "first-page": "147",
+                "DOI": "10.1016/0031-0182(93)90157-E",
+                "volume": "101",
+                "author": "B. M. Barmawidjaya",
+                "year": "1993",
+                "unstructured": "Barmawidjaya, B. M., Rohling, E. J., van der Kaars, S., Grazzini, C. V. & Zachariase, W. J. (1993). Glacial conditions in northern Molucca Sea region (Indonesia). Palaeogeograph., Palaeoclimat., Palaeoecol. 101: 147 – 167.",
+                "journal-title": "Palaeogeograph., Palaeoclimat., Palaeoecol."
+            },
+            {
+                "key": "9096_CR9",
+                "doi-asserted-by": "crossref",
+                "first-page": "513",
+                "DOI": "10.2307/4110478",
+                "volume": "53",
+                "author": "S. C. Barrow",
+                "year": "1998",
+                "unstructured": "Barrow, S. C. (1998). A monograph of Phoenix L. (Palmae: Coryphoideae). Kew Bull. 53: 513 – 575.",
+                "journal-title": "Kew Bull."
+            },
+            {
+                "key": "9096_CR10",
+                "first-page": "6",
+                "volume": "2",
+                "author": "O. Beccari",
+                "year": "1885",
+                "unstructured": "Beccari, O. (1885). Reliquiae Schefferianae: illustrazione di alcune palme viventi nel giardino botanico di Buitenzorg. Ann. Jard. Bot. Buitenzorg 2: 6 – 165.",
+                "journal-title": "Ann. Jard. Bot. Buitenzorg"
+            },
+            {
+                "key": "9096_CR11",
+                "first-page": "303",
+                "volume": "1",
+                "author": "O. Beccari",
+                "year": "1905",
+                "unstructured": "____ (1905). Palme nuove papuane. Webbia 1: 303 – 304.",
+                "journal-title": "Webbia"
+            },
+            {
+                "key": "9096_CR12",
+                "first-page": "289",
+                "volume": "4",
+                "author": "O. Beccari",
+                "year": "1914",
+                "unstructured": "____ (1914a). Manipolo di palme nuove polinesiane conservate nell’ ebario di Kew. Webbia 4: 289.",
+                "journal-title": "Webbia"
+            },
+            {
+                "key": "9096_CR13",
+                "first-page": "28",
+                "volume": "52",
+                "author": "O. Beccari",
+                "year": "1914",
+                "unstructured": "____ (1914b). Neue palmen Papuasiens. Bot. Jahrb. Syst. 52: 28 – 29.",
+                "journal-title": "Bot. Jahrb. Syst."
+            },
+            {
+                "key": "9096_CR14",
+                "first-page": "450",
+                "volume": "58",
+                "author": "O. Beccari",
+                "year": "1923",
+                "unstructured": "____ (1923). Neue palmen Papuasiens II. Bot. Jahrb. Syst. 58: 450 – 451.",
+                "journal-title": "Bot. Jahrb. Syst."
+            },
+            {
+                "key": "9096_CR15",
+                "first-page": "66",
+                "volume": "1",
+                "author": "C. L. Blume",
+                "year": "1838",
+                "unstructured": "Blume, C. L. (1838). Cyrtostachys Blume. Bull. Sci. Phys. Nat. Néerl. 1: 66.",
+                "journal-title": "Bull. Sci. Phys. Nat. Néerl."
+            },
+            {
+                "key": "9096_CR16",
+                "unstructured": "____ (1838, 1843). Rumphia, vol. 2. Lugduni, Batavorum."
+            },
+            {
+                "key": "9096_CR17",
+                "first-page": "253",
+                "volume": "24",
+                "author": "M. Burret",
+                "year": "1928",
+                "unstructured": "Burret, M. (1928). Beiträge zur Kenntnis der Palmen von Malesia, Papua und der Südsee. Repert. Spec. Nov. Regni Veg. 24: 253 – 296.",
+                "journal-title": "Repert. Spec. Nov. Regni Veg."
+            },
+            {
+                "key": "9096_CR18",
+                "first-page": "328",
+                "volume": "12",
+                "author": "M. Burret",
+                "year": "1935",
+                "unstructured": "____ (1935). Neue palmen aus Neuguineae III. Notizbl. Bot. Gart. Berlin-Dahlem 12: 328 – 330.",
+                "journal-title": "Notizbl. Bot. Gart. Berlin-Dahlem"
+            },
+            {
+                "issue": "118",
+                "key": "9096_CR19",
+                "first-page": "324",
+                "volume": "13",
+                "author": "M. Burret",
+                "year": "1936",
+                "unstructured": "____ (1936). Neue palmen aus Neuguineae IV. Notizbl. Bot. Gart. Berlin-Dahlem 13 118: 324 – 325.",
+                "journal-title": "Notizbl. Bot. Gart. Berlin-Dahlem"
+            },
+            {
+                "key": "9096_CR20",
+                "first-page": "472",
+                "volume": "13",
+                "author": "M. Burret",
+                "year": "1937",
+                "unstructured": "____ (1937). Neue palmen aus Neuguineae V. Notizbl. Bot. Gart. Berlin-Dahlem 13: 472 – 473.",
+                "journal-title": "Notizbl. Bot. Gart. Berlin-Dahlem"
+            },
+            {
+                "key": "9096_CR21",
+                "first-page": "203",
+                "volume": "20",
+                "author": "M. Burret",
+                "year": "1939",
+                "unstructured": "____ (1939). Palme gesammelt in Neu Guinea von L. J. Brass. J. Arnold Arbor. 20: 203 – 204.",
+                "journal-title": "J. Arnold Arbor."
+            },
+            {
+                "key": "9096_CR22",
+                "first-page": "779",
+                "volume": "26",
+                "author": "M. H. Chapin",
+                "year": "2001",
+                "unstructured": "Chapin, M. H., Essig, F. B. & Pintaud, J. C. (2001). The morphological and histology fruits of Pelagodoxa (Arecaceae): taxonomic and biogeographical implications. Syst. Bot. 26: 779 – 785.",
+                "journal-title": "Syst. Bot."
+            },
+            {
+                "key": "9096_CR23",
+                "doi-asserted-by": "crossref",
+                "first-page": "147",
+                "DOI": "10.1016/S0031-0182(01)00244-9",
+                "volume": "171",
+                "author": "R. A. C. Dam",
+                "year": "2001",
+                "unstructured": "Dam, R. A. C., Fluin, J., Suparan, P. & van der Kaars, S. (2001). Palaeoenvironmental developments in the Lake Tondano area. Palaeogeograph., Palaeoclimat., Palaeoecol. 171: 147 – 183.",
+                "journal-title": "Palaeogeograph., Palaeoclimat., Palaeoecol."
+            },
+            {
+                "key": "9096_CR24",
+                "author": "P. H. Davies",
+                "year": "1963",
+                "unstructured": "Davies, P. H. & Heywood, V. H. (1963). Principles of angiosperm taxonomy. Oliver & Boyd, Edinburgh.",
+                "volume-title": "Principles of angiosperm taxonomy"
+            },
+            {
+                "key": "9096_CR25",
+                "author": "J. Dransfield",
+                "first-page": "247",
+                "year": "1978",
+                "unstructured": "Dransfield, J. (1978). Growth forms of rain forest palms. In: P. B. Tomlinson & M. H. Zimmermann (eds.), Tropical trees as living systems. pp. 247 – 268, Cambridge University Press, Cambridge.",
+                "volume-title": "Tropical trees as living systems"
+            },
+            {
+                "key": "9096_CR26",
+                "author": "J. Dransfield",
+                "first-page": "43",
+                "year": "1981",
+                "unstructured": "____ (1981). Palms and Wallace’s Line. In: T. C. Whitmore (ed.), Wallace’s Line and Plate Tectonics, pp. 43 – 56, Clarendon, Oxford.",
+                "volume-title": "Wallace’s Line and Plate Tectonics"
+            },
+            {
+                "key": "9096_CR27",
+                "doi-asserted-by": "crossref",
+                "first-page": "166",
+                "DOI": "10.2307/2399148",
+                "volume": "73",
+                "author": "J. Dransfield",
+                "year": "1986",
+                "unstructured": "____ (1986). A guide to collecting palms. Ann. Missouri Bot. Gard. 73: 166 – 176.",
+                "journal-title": "Ann. Missouri Bot. Gard."
+            },
+            {
+                "key": "9096_CR28",
+                "author": "J. Dransfield",
+                "first-page": "60",
+                "year": "1987",
+                "unstructured": "____ (1987). Bicentric distribution in Malesia as exemplified by palms. In: T. C. Whitmore (ed.), Biogeographical Evolution of the Malay Archipelago, pp. 60 – 72, Clarendon, Oxford.",
+                "volume-title": "Biogeographical Evolution of the Malay Archipelago"
+            },
+            {
+                "key": "9096_CR29",
+                "first-page": "5",
+                "volume": "83",
+                "author": "J. Dransfield",
+                "year": "1999",
+                "unstructured": "____ (1999). Species and species concepts in old world palms. Mem. N.Y. Bot. Gard. 83: 5 – 20.",
+                "journal-title": "Mem. N. Y. Bot. Gard."
+            },
+            {
+                "key": "9096_CR30",
+                "first-page": "3",
+                "volume": "30",
+                "author": "J. Dransfield",
+                "year": "1986",
+                "unstructured": "____ & Uhl, N. W. (1986). An outline of classification of palms. Principes 30: 3 – 11.",
+                "journal-title": "Principes"
+            },
+            {
+                "key": "9096_CR31",
+                "author": "J. Dransfield",
+                "first-page": "175",
+                "year": "1991",
+                "unstructured": "____ & Johnson, D. (1991). The conservation status of palms in Sabah (Malaysia). In: D. Johnson (ed.), Palms for human needs in Asia: Palm utilization and conservation in India, Indonesia, Malaysia and Philippines. pp. 175 – 179, WWF Project 3325, Balkema, Rotterdam.",
+                "volume-title": "Palms for human needs in Asia: Palm utilization and conservation in India, Indonesia, Malaysia and Philippines"
+            },
+            {
+                "key": "9096_CR32",
+                "first-page": "559",
+                "volume": "60",
+                "author": "J. Dransfield",
+                "year": "2005",
+                "unstructured": "____, Uhl, N. W., Asmussen, C. B., Baker, W. J., Harley, M. M. & Lewis, C. E. (2005). A new phylogenetic classification of the palm family, Arecaceae. Kew Bull. 60: 559 – 569.",
+                "journal-title": "Kew Bull."
+            },
+            {
+                "key": "9096_CR33",
+                "unstructured": "____, Uhl, N. W., Asmussen-Lange, C. B., Baker, W. J., Harley, M. M. & Lewis, C. E. (2008). Genera Palmarum: The evolution and classification of palms. Royal Botanic Gardens, Kew."
+            },
+            {
+                "key": "9096_CR34",
+                "author": "D. Ellison",
+                "year": "2001",
+                "unstructured": "Ellison, D. & Ellison, A. (2001). Cultivated palms of the world. UNSW, Sydney.",
+                "volume-title": "Cultivated palms of the world"
+            },
+            {
+                "key": "9096_CR35",
+                "doi-asserted-by": "crossref",
+                "first-page": "151",
+                "DOI": "10.2307/2418257",
+                "volume": "2",
+                "author": "F. B. Essig",
+                "year": "1977",
+                "unstructured": "Essig, F. B. (1977). A systematic histological study of palm fruits. I. The Ptychosperma alliance. Syst. Bot. 2: 151 – 168.",
+                "journal-title": "Syst. Bot."
+            },
+            {
+                "key": "9096_CR36",
+                "first-page": "159",
+                "volume": "26",
+                "author": "F. B. Essig",
+                "year": "1982",
+                "unstructured": "____ (1982). A synopsis of genus Gulubia. Principes 26: 159 – 173.",
+                "journal-title": "Principes"
+            },
+            {
+                "key": "9096_CR37",
+                "first-page": "73",
+                "volume": "83",
+                "author": "F. B. Essig",
+                "year": "1999",
+                "unstructured": "____ (1999). Trends of specialization in the palm pericarp. Mem. N.Y. Bot. Gard. 83: 73 – 77.",
+                "journal-title": "Mem. N. Y. Bot. Gard."
+            },
+            {
+                "key": "9096_CR38",
+                "doi-asserted-by": "crossref",
+                "first-page": "16",
+                "DOI": "10.2307/2418662",
+                "volume": "4",
+                "author": "F. B. Essig",
+                "year": "1979",
+                "unstructured": "____ & Young, B. (1979). A systematic histological study of palm fruits II. The Areca alliance. Syst. Bot. 4: 16 – 28.",
+                "journal-title": "Syst. Bot."
+            },
+            {
+                "key": "9096_CR39",
+                "first-page": "129",
+                "volume": "29",
+                "author": "F. B. Essig",
+                "year": "1985",
+                "unstructured": "____ & Young, B. (1985). A consideration of Gronophyllum and Nengella (Arecoideae). Principes 29: 129 – 137.",
+                "journal-title": "Principes"
+            },
+            {
+                "key": "9096_CR40",
+                "doi-asserted-by": "crossref",
+                "first-page": "307",
+                "DOI": "10.2307/2666611",
+                "volume": "51",
+                "author": "F. B. Essig",
+                "year": "1999",
+                "unstructured": "____, Manka, T. & Bussard, L. (1999). A systematic histological study of palm fruits III. The Subtribe Iguanurinae (Arecaceae). Brittonia 51: 307 – 325.",
+                "journal-title": "Brittonia"
+            },
+            {
+                "key": "9096_CR41",
+                "doi-asserted-by": "crossref",
+                "first-page": "466",
+                "DOI": "10.1007/BF02809802",
+                "volume": "53",
+                "author": "F. B. Essig",
+                "year": "2001",
+                "unstructured": "____, Bussard, L. & Hernandes, N. (2001). A systematic histological study of palm fruits IV. The Subtribe Oncospermatinae (Arecaceae). Brittonia 53: 466 – 471.",
+                "journal-title": "Brittonia"
+            },
+            {
+                "key": "9096_CR42",
+                "doi-asserted-by": "crossref",
+                "first-page": "65",
+                "DOI": "10.1663/0007-196X(2002)054[0065:ASHSOP]2.0.CO;2",
+                "volume": "54",
+                "author": "F. B. Essig",
+                "year": "2002",
+                "unstructured": "____ & Hernandes, N. (2002). A systematic histological study of palm fruits V. The Subtribe Archontophoenicinae (Arecaceae). Brittonia 54: 65 – 71.",
+                "journal-title": "Brittonia"
+            },
+            {
+                "key": "9096_CR43",
+                "doi-asserted-by": "crossref",
+                "first-page": "375",
+                "DOI": "10.1663/0007-196X(2004)056[0375:ASHAOP]2.0.CO;2",
+                "volume": "56",
+                "author": "F. B. Essig",
+                "year": "2004",
+                "unstructured": "____ & Litten, L. (2004). A systematic histological analysis of palm fruits VII. The Cyrtostachydinae (Arecaceae). Brittonia 56: 375 – 379.",
+                "journal-title": "Brittonia"
+            },
+            {
+                "key": "9096_CR44",
+                "first-page": "35",
+                "volume": "83",
+                "author": "J. B. Fisher",
+                "year": "1999",
+                "unstructured": "Fisher, J. B. & Maidman, K. J. (1999). Branching and architecture in palms: value for systematics. Mem. N.Y. Bot. Gard. 83: 35 – 46.",
+                "journal-title": "Mem. N. Y. Bot. Gard."
+            },
+            {
+                "key": "9096_CR45",
+                "author": "R. Govaerts",
+                "year": "2005",
+                "unstructured": "Govaerts, R. & Dransfield, J. (2005). World checklist of palms. Royal Botanic Gardens, Kew.",
+                "volume-title": "World checklist of palms"
+            },
+            {
+                "key": "9096_CR46",
+                "doi-asserted-by": "crossref",
+                "first-page": "92",
+                "DOI": "10.1080/106351502753475899",
+                "volume": "51",
+                "author": "W. J. Hahn",
+                "year": "2002",
+                "unstructured": "Hahn, W. J. (2002). A molecular phylogenetic study of the Palmae (Arecaceae) based on atpB, rbcL, and 18S nr-DNA sequences. Syst. Biol. 51: 92 – 112.",
+                "journal-title": "Syst. Biol."
+            },
+            {
+                "key": "9096_CR47",
+                "author": "F. R. Hallé",
+                "year": "1976",
+                "unstructured": "Hallé, F. R., Oldeman, A. A. & Tomlinson, P. B. (1976). Tropical trees and forest: an architectural analysis. Springer, Berlin.",
+                "volume-title": "Tropical trees and forest: an architectural analysis"
+            },
+            {
+                "key": "9096_CR48",
+                "doi-asserted-by": "crossref",
+                "first-page": "137",
+                "DOI": "10.1016/0034-6667(90)90126-4",
+                "volume": "64",
+                "author": "M. M. Harley",
+                "year": "1990",
+                "unstructured": "Harley, M. M. (1990). Occurrence of simple, tectate, monosulcate or trichotomosulcate pollen grains within the Palmae. Rev. Palaeobot. Palynol. 64: 137 – 147.",
+                "journal-title": "Rev. Palaeobot. Palynol."
+            },
+            {
+                "key": "9096_CR49",
+                "unstructured": "____ (1996). Palm pollen and the fossil record. Ph.D. thesis, University of East London."
+            },
+            {
+                "key": "9096_CR50",
+                "first-page": "95",
+                "volume": "83",
+                "author": "M. M. Harley",
+                "year": "1999",
+                "unstructured": "____ (1999). Palm pollen: overview and examples of taxonomic value at species level. Mem. N.Y. Bot. Gard. 83: 95 – 120.",
+                "journal-title": "Mem. N. Y. Bot. Gard."
+            },
+            {
+                "key": "9096_CR51",
+                "doi-asserted-by": "crossref",
+                "first-page": "45",
+                "DOI": "10.1080/00173130152591877",
+                "volume": "40",
+                "author": "M. M. Harley",
+                "year": "2001",
+                "unstructured": "____ & Baker, W. J. (2001). Pollen aperture morphology in Arecaceae: application within phylogenetic analyses, and a summary of the fossil record of palm-like pollen. Grana 40: 45 – 77.",
+                "journal-title": "Grana"
+            },
+            {
+                "key": "9096_CR52",
+                "unstructured": "Heatubun, C. D., Walujo, E. B., Mogea, J. P., Purwanto, Y. & Baker, W. J. (In prep.). Ethnobotany of palms in Tanah Papua (Western New Guinea). J. Trop. Ethnobot."
+            },
+            {
+                "key": "9096_CR53",
+                "author": "P. K. Holmgren",
+                "year": "1990",
+                "unstructured": "Holmgren, P. K., Holmgren, N. H. & Barnett, L. C. (1990). Index herbariorum, eighth ed. New York Botanical Garden, New York.",
+                "volume-title": "Index herbariorum, eighth ed"
+            },
+            {
+                "key": "9096_CR54",
+                "first-page": "399",
+                "volume": "5",
+                "author": "R. E. Holttum",
+                "year": "1955",
+                "unstructured": "Holttum, R. E. (1955). Growth-habits of monocotyledons — variations on a theme. Phytomorphology 5: 399 – 413.",
+                "journal-title": "Phytomorphology"
+            },
+            {
+                "key": "9096_CR55",
+                "author": "IUCN",
+                "year": "2001",
+                "unstructured": "IUCN (2001). IUCN red list categories and criteria. Version 3.1. IUCN, Gland, Switzerland.",
+                "volume-title": "IUCN red list categories and criteria. Version 3.1"
+            },
+            {
+                "key": "9096_CR56",
+                "author": "D. L. Jones",
+                "year": "1995",
+                "unstructured": "Jones, D. L. (1995). Palms throughout the world. Reed Books, Sydney.",
+                "volume-title": "Palms throughout the world"
+            },
+            {
+                "key": "9096_CR57",
+                "author": "O. Kerchove",
+                "year": "1878",
+                "unstructured": "Kerchove, O. (1878). Les Palmiers. Rothschild, Paris.",
+                "volume-title": "Les Palmiers"
+            },
+            {
+                "key": "9096_CR58",
+                "author": "R. Kiew",
+                "first-page": "75",
+                "year": "1991",
+                "unstructured": "Kiew, R. (1991). Palm utilization and conservation in Peninsular Malaysia. In: D. Johnson (ed.), Palms for human needs in Asia: Palm utilization and conservation in India, Indonesia, Malaysia and Philippines. pp. 75 – 130, WWF Project 3325, Balkema, Rotterdam.",
+                "volume-title": "Palms for human needs in Asia: Palm utilization and conservation in India, Indonesia, Malaysia and Philippines"
+            },
+            {
+                "key": "9096_CR59",
+                "doi-asserted-by": "crossref",
+                "first-page": "1",
+                "DOI": "10.1007/s00606-002-0205-1",
+                "volume": "236",
+                "author": "C. E. Lewis",
+                "year": "2002",
+                "unstructured": "Lewis, C. E. & Doyle, J. J. (2002). A phylogenetic study of tribe Areceae (Arecaceae) using two low-copy nuclear genes. Pl. Syst. Evol. 236: 1 – 17.",
+                "journal-title": "Pl. Syst. Evol."
+            },
+            {
+                "key": "9096_CR60",
+                "unstructured": "Linden, J. (1885). Catalogue des Plantes de la Compagnie Continentale d’Horticulture, No 117. Gand, Belgium."
+            },
+            {
+                "key": "9096_CR61",
+                "author": "W. P. Maddison",
+                "year": "2000",
+                "unstructured": "Maddison, W. P. & Maddison, D. R. (2000). MacClade version 4.0b10. Sinauer Associates, Sunderland, Massachusetts.",
+                "volume-title": "MacClade version 4.0b10"
+            },
+            {
+                "key": "9096_CR62",
+                "author": "C. F. P. Martius",
+                "year": "1853",
+                "unstructured": "Martius, C. F. P. (1853). Historia naturalis palmarum. Vol. 3. Weigel, Leipzig.",
+                "volume-title": "Historia naturalis palmarum"
+            },
+            {
+                "key": "9096_CR63",
+                "doi-asserted-by": "crossref",
+                "first-page": "606",
+                "DOI": "10.2307/2419813",
+                "volume": "20",
+                "author": "L. A. McDade",
+                "year": "1995",
+                "unstructured": "McDade, L. A. (1995). Species concepts and problems in practice: insight from botanical monographs. Syst. Bot. 20: 606 – 622.",
+                "journal-title": "Syst. Bot."
+            },
+            {
+                "key": "9096_CR64",
+                "first-page": "1",
+                "volume": "1",
+                "author": "F. A. W. Miquel",
+                "year": "1861",
+                "unstructured": "Miquel, F. A. W. (1861a). Revue des palmiers de l’île de Sumatra. J. Bot. Néerl. 1: 1 – 29.",
+                "journal-title": "J. Bot. Néerl."
+            },
+            {
+                "key": "9096_CR65",
+                "unstructured": "____ (1861b). Prodromus Florae Sumatranae. Flora van Nederlandsch Indië, suppl 1. van der Post, Amsterdam."
+            },
+            {
+                "key": "9096_CR66",
+                "author": "J. P. Mogea",
+                "first-page": "37",
+                "year": "1991",
+                "unstructured": "Mogea, J. P. (1991). Indonesia: palm utilization and conservation. In: D. Johnson (ed.), Palms for human needs in Asia: Palm utilization and conservation in India, Indonesia, Malaysia and Philippines. pp. 37 – 73, WWF Project 3325, Balkema, Rotterdam.",
+                "volume-title": "Palms for human needs in Asia: Palm utilization and conservation in India, Indonesia, Malaysia and Philippines"
+            },
+            {
+                "key": "9096_CR67",
+                "first-page": "85",
+                "volume": "10",
+                "author": "H. E. Moore",
+                "year": "1966",
+                "unstructured": "Moore, H. E. (1966). New palms from the Pacific. Principes 10: 85 – 99.",
+                "journal-title": "Principes"
+            },
+            {
+                "key": "9096_CR68",
+                "first-page": "27",
+                "volume": "11",
+                "author": "H. E. Moore",
+                "year": "1973",
+                "unstructured": "____ (1973). The major groups of palms and their distribution. Gentes Herb. 11: 27 – 141.",
+                "journal-title": "Gentes Herb."
+            },
+            {
+                "key": "9096_CR69",
+                "doi-asserted-by": "crossref",
+                "first-page": "1065",
+                "DOI": "10.3732/ajb.93.7.1065",
+                "volume": "93",
+                "author": "M. V. Norup",
+                "year": "2006",
+                "unstructured": "Norup, M. V., Dransfield, J., Chase, M. W., Barfod, A. S., Fernando, E. S. & W. J. Baker (2006). Homoplasious character combinations and generic delimitation: a case study from the Indo-Pacific arecoid palms (Arecaceae). Amer. J. Bot. 93: 1065 – 1080.",
+                "journal-title": "Am. J. Bot."
+            },
+            {
+                "key": "9096_CR70",
+                "first-page": "193",
+                "volume": "10",
+                "author": "C. J. Pigram",
+                "year": "1987",
+                "unstructured": "Pigram, C. J. & Davies, P. J. (1987). Terranes and the accretion history of the New Guinea orogen. BMR J. Austral. Geol. Geophys. 10: 193 – 212.",
+                "journal-title": "BMR J. Austral. Geol. Geophys."
+            },
+            {
+                "key": "9096_CR71",
+                "author": "W. Punt",
+                "year": "1994",
+                "unstructured": "Punt, W., Blackmore, S., Nilsson, S. & Le Thomas, A. (1994). Glossary of pollen and spore terminology. LPP Contribution Series 1. LPP Foundation, Utrecht.",
+                "volume-title": "Glossary of pollen and spore terminology. LPP Contribution Series 1"
+            },
+            {
+                "key": "9096_CR72",
+                "first-page": "22",
+                "volume": "2",
+                "author": "S. K. Sarkar",
+                "year": "1970",
+                "unstructured": "Sarkar, S. K. (1970). Palmales. Res. Bull. Cytogen. Lab. Dept. Bot. Univ. Calcutta 2: 22 – 23.",
+                "journal-title": "Res. Bull. Cytogen. Lab. Dept. Bot. Univ. Calcutta"
+            },
+            {
+                "key": "9096_CR73",
+                "author": "F. A. Stafleu",
+                "first-page": "A",
+                "year": "1976",
+                "unstructured": "Stafleu, F. A. & Cowan, R. S. (1976). Taxonomic literature. Vol. I: A – G. Bohn, Scheltema & Holkema, Utrecht.",
+                "volume-title": "Taxonomic literature"
+            },
+            {
+                "key": "9096_CR74",
+                "author": "D. L. Swofford",
+                "year": "1998",
+                "unstructured": "Swofford, D. L. (1998). PAUP*: Phylogenetic analysis using parsimony (and other methods). Sinauer Associates, Inc., Sunderland, MA.",
+                "volume-title": "PAUP*: Phylogenetic analysis using parsimony (and other methods)"
+            },
+            {
+                "key": "9096_CR75",
+                "author": "J. E. Teisjmann",
+                "year": "1866",
+                "unstructured": "Teisjmann, J. E. & Binnendijk, S. (1866). Catalogus Plantarum quae in Horto Botanico Bogoriensi Coluntur. Ter Lands-Drukkerij, Batavia (Jakarta).",
+                "volume-title": "Catalogus Plantarum quae in Horto Botanico Bogoriensi Coluntur"
+            },
+            {
+                "key": "9096_CR76",
+                "author": "P. B. Tomlinson",
+                "first-page": "425",
+                "year": "1961",
+                "unstructured": "Tomlinson, P. B. (1961). Anatomy of the Monocotyledons. p. 425, Oxford University Press, London.",
+                "volume-title": "Anatomy of the Monocotyledons"
+            },
+            {
+                "key": "9096_CR77",
+                "author": "P. B. Tomlinson",
+                "first-page": "99",
+                "year": "1990",
+                "unstructured": "____ (1990). The structural biology of palms. pp. 99 – 103, Oxford University Press, London.",
+                "volume-title": "The structural biology of palms"
+            },
+            {
+                "key": "9096_CR78",
+                "first-page": "11",
+                "volume": "2",
+                "author": "R. Tucker",
+                "year": "1992",
+                "unstructured": "Tucker, R. (1992). Experiences with Cyrtostachys renda. Mooreana 2: 11 – 16.",
+                "journal-title": "Mooreana"
+            },
+            {
+                "key": "9096_CR79",
+                "author": "N. W. Uhl",
+                "year": "1987",
+                "unstructured": "Uhl, N. W. & Dransfield, J. (1987). Genera Palmarum: A classification of palms based on the work of H. E. Moore Jr. L. H. Bailey Hortorium and International Palm Society, Allen, Lawrence, Kansas.",
+                "volume-title": "Genera Palmarum: A classification of palms based on the work of H. E. Moore Jr. L. H. Bailey Hortorium and International Palm Society"
+            },
+            {
+                "key": "9096_CR80",
+                "doi-asserted-by": "crossref",
+                "first-page": "135",
+                "DOI": "10.1016/S0031-0182(99)00098-X",
+                "volume": "155",
+                "author": "S. Kaars Van der",
+                "year": "2000",
+                "unstructured": "Van der Kaars, S., Wang, X., Kershaw, P., Guichard, F. & Setiabudi, D. A. (2000). A late Quaternary palaeoecological record from the Banda Sea, Indonesia: patterns of vegetation, climate and biomass burning in Indonesia and northern Australia. Palaeogeograph., Palaeoclimat., Palaeoecol. 155: 135 – 153.",
+                "journal-title": "Palaeogeograph., Palaeoclimat., Palaeoecol."
+            },
+            {
+                "key": "9096_CR81",
+                "author": "P. C. Welzen Van",
+                "first-page": "363",
+                "year": "1997",
+                "unstructured": "Van Welzen, P. C. (1997). Increased speciation in New Guinea: tectonic causes? In: J. Dransfield, M. J. E. Coode & D. A. Simpson (eds.), Plant Diversity in Malesia III: Proceedings of the 3rd International Flora Malesiana Symposium 1995. pp. 363 – 387, Royal Botanic Gardens, Kew.",
+                "volume-title": "Plant Diversity in Malesia III: Proceedings of the 3rd International Flora Malesiana Symposium 1995"
+            },
+            {
+                "key": "9096_CR82",
+                "first-page": "70",
+                "volume": "46",
+                "author": "H. Waddel",
+                "year": "2002",
+                "unstructured": "Waddel, H. (2002). A new cultivar: Cyrtostachys renda ‘Theodora Buhler’. Palms 46: 70 – 72.",
+                "journal-title": "Palms"
+            },
+            {
+                "key": "9096_CR83",
+                "author": "T. C. Whitmore",
+                "first-page": "53",
+                "year": "1973",
+                "unstructured": "Whitmore, T. C. (1973). Palms of Malaya. p. 53, Oxford University Press, London.",
+                "volume-title": "Palms of Malaya"
+            },
+            {
+                "key": "9096_CR84",
+                "first-page": "457",
+                "volume": "107",
+                "author": "T. C. Whitmore",
+                "year": "1982",
+                "unstructured": "____ (1982). The sealing wax palm. The Garden 107: 457.",
+                "journal-title": "The Garden"
+            }
+        ],
+        "container-title": [
+            "Kew Bulletin"
+        ],
+        "original-title": [],
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://link.springer.com/content/pdf/10.1007/s12225-009-9096-4.pdf",
+                "content-type": "application/pdf",
+                "content-version": "vor",
+                "intended-application": "text-mining"
+            },
+            {
+                "URL": "http://link.springer.com/article/10.1007/s12225-009-9096-4/fulltext.html",
+                "content-type": "text/html",
+                "content-version": "vor",
+                "intended-application": "text-mining"
+            },
+            {
+                "URL": "http://link.springer.com/content/pdf/10.1007/s12225-009-9096-4",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "deposited": {
+            "date-parts": [
+                [
+                    2019,
+                    6,
+                    2
+                ]
+            ],
+            "date-time": "2019-06-02T06:22:37Z",
+            "timestamp": 1559456557000
+        },
+        "score": 1,
+        "subtitle": [],
+        "short-title": [],
+        "issued": {
+            "date-parts": [
+                [
+                    2009,
+                    3
+                ]
+            ]
+        },
+        "references-count": 84,
+        "journal-issue": {
+            "published-print": {
+                "date-parts": [
+                    [
+                        2009,
+                        3
+                    ]
+                ]
+            },
+            "issue": "1"
+        },
+        "alternative-id": [
+            "9096"
+        ],
+        "URL": "http://dx.doi.org/10.1007/s12225-009-9096-4",
+        "relation": {
+            "cites": []
+        },
+        "ISSN": [
+            "0075-5974",
+            "1874-933X"
+        ],
+        "issn-type": [
+            {
+                "value": "0075-5974",
+                "type": "print"
+            },
+            {
+                "value": "1874-933X",
+                "type": "electronic"
+            }
+        ],
+        "subject": [
+            "Plant Science",
+            "Ecology, Evolution, Behavior and Systematics"
+        ]
+    }
+}	
+
+	
+			
+			</textarea>
+			
+			
+<!--
+
+			
+{
+"_id": "https://doi.org/10.1186/s12862-017-0974-3",
+  "_rev": "1-85ea52a40f846f1f91f0d0a018b5ac25",
+  "message-format": "application/vnd.crossref-api-message+json",
+  "message-source": "https://api.crossref.org/v1/works/http://dx.doi.org/10.1186/s12862-017-0974-3",
+  "message":	
+  {			
+    "id": "ITEM-1",
+    "unstructured": "Jamjan Meeboon, Susumu Takamatsu (2012) Erysiphe havrylenkoana and E. prunastri var. japonica: a new species and a new variety of Erysiphe sect. Uncinula (Erysiphaceae, Ascomycota). Mycological Progress, 12: 277-282",
+    "title": "Erysiphe havrylenkoana and E. prunastri var. japonica: a new species and a new variety of Erysiphe sect. Uncinula (Erysiphaceae, Ascomycota)",
+    "type": "article-journal",
+    "issued": {
+        "date-parts": [
+            [
+                2012
+            ]
+        ]
+    },
+    "author": [
+        {
+            "given": "Jamjan",
+            "family": "Meeboon"
+        },
+        {
+            "given": "Susumu",
+            "family": "Takamatsu"
+        }
+    ],
+    "container-title": "Mycological Progress",
+    "volume": "12",
+    "page": "277-282",
+    "ISSN": [
+        "1617-416X"
+    ],
+    "alternative-id": [
+        "DOI:10.1007/s11557-012-0832-z"
+    ],
+    "DOI": "10.1007/s11557-012-0832-z"
+}
+}
+
+{
+"_id": "https://doi.org/10.1186/s12862-017-0974-3",
+  "_rev": "1-85ea52a40f846f1f91f0d0a018b5ac25",
+  "message-format": "application/vnd.crossref-api-message+json",
+  "message-source": "https://api.crossref.org/v1/works/http://dx.doi.org/10.1186/s12862-017-0974-3",
+  "message":			
+{
+    "id": "ITEM-1",
+    "unstructured": "Jamjan Meeboon, Susumu Takamatsu (2012) Erysiphe havrylenkoana and E. prunastri var. japonica: a new species and a new variety of Erysiphe sect. Uncinula (Erysiphaceae, Ascomycota). Mycological Progress, 12: 277-282",
+    "title": "Erysiphe havrylenkoana and E. prunastri var. japonica: a new species and a new variety of Erysiphe sect. Uncinula (Erysiphaceae, Ascomycota)",
+    "type": "article-journal",
+    "issued": {
+        "date-parts": [
+            [
+                2012
+            ]
+        ]
+    },
+    "author": [
+        {
+            "given": "Jamjan",
+            "family": "Meeboon"
+        },
+        {
+            "given": "Susumu",
+            "family": "Takamatsu"
+        }
+    ],
+    "container-title": "Mycological Progress",
+    "volume": "12",
+    "page": "277-282",
+    "ISSN": [
+        "1617-416X"
+    ],
+    "alternative-id": [
+        "DOI:10.1007/s11557-012-0832-z"
+    ],
+    "DOI": "10.1007/s11557-012-0832-z"
+}
+}		
+
+{
+"_id": "https://doi.org/10.1186/s12862-017-0974-3",
+  "_rev": "1-85ea52a40f846f1f91f0d0a018b5ac25",
+  "message-format": "application/vnd.crossref-api-message+json",
+  "message-source": "https://api.crossref.org/v1/works/http://dx.doi.org/10.1186/s12862-017-0974-3",
+  "message":
+
+{
+    "id": "ITEM-1",
+    "unstructured": "YUKAWA Tomohisa (1995) Dendrobium ×usitae (Orchidaceae) : A New Natural Hybrid from the Philippines. Annals of the Tsukuba Botanical Garden, 14: 43-46",
+    "title": "Dendrobium ×usitae (Orchidaceae) : A New Natural Hybrid from the Philippines",
+    "abstract": "Dendrobium ×usitae, a natural hybrid between Dendrobium bullenianum Rchb. f. and Dendrobium goldschmidtianum Kraenzl. is newly described from the Calayan Islands, the Philippines.",
+    "multi": {
+        "_key": {
+            "abstract": {
+                "en": "Dendrobium ×usitae, a natural hybrid between Dendrobium bullenianum Rchb. f. and Dendrobium goldschmidtianum Kraenzl. is newly described from the Calayan Islands, the Philippines.",
+                "jp": "フィリピンに自生する,ラン科セッコク属の1新分類群Dendrobium ×usitae Yukawaを記載する。1994年4月,フィリピン,ルソン島北部のカラヤン諸島,バブヤン島海抜500-700mでVillamor T. Usita氏が発見した植物の同定を依頼された。Dendrobium bullenianum Rchb. f.とDendrobium goldschmi-dtianum Kraenzl.にきわめて類似した形質を持っものの,花色が赤紫をおびたオレンジ色で濃赤紫色の条が入ること,唇弁基部の隆起がやや鋭形であること,小し体が鈍頭の三角形であることで,両種から明確に区別される。表1に示されるように,これらの形質は1花序あたりの花数,花の大きさといった量的形質とともに,両種の中間を示す。さらにこの植物は, D. bullenianumとD. goldschmidtianumがそれぞれ約40,60%混生する場所に,少数の個体が自生する。一方,D. bullenianumとD. goldschmidtianumの多数の個体を観察した結果,上記の諸形質は安定しており,この植物がいずれかの種の種内変異とは考えられない。これらの点からこの植物を,D. bullenianumとD. goldschmidtianumの自然交雑種と判断し,Dendrobium ×usitaeと命名する。なお親分類群のひとつ,Dendrobium bullenianumは,異名のDendrobium topaziacum Amesで栽培されることが多い。他方,Dendrobium goldschmidtianumは,従来Dendrobium miyakei Schltr.とされてきたものだが,Christenson (1994)によって,前者が正名であることが明らかにされた。D. miyakeiの分類学的問題については,Yukawa and Ohba (1995)を参照されたい。"
+            },
+            "title": {
+                "en": "Dendrobium ×usitae (Orchidaceae) : A New Natural Hybrid from the Philippines",
+                "jp": "Dendrobium ×usitae : フィリピン産ラン科の一新分類群"
+            },
+            "container-title": {
+                "en": "Annals of the Tsukuba Botanical Garden",
+                "jp": "筑波実験植物園研究報告"
+            }
+        }
+    },
+    "type": "article-journal",
+    "issued": {
+        "date-parts": [
+            [
+                1995,
+                12,
+                0
+            ]
+        ]
+    },
+    "author": [
+        {
+            "given": "YUKAWA",
+            "family": "Tomohisa",
+            "multi": {
+                "_key": {
+                    "literal": {
+                        "en": "YUKAWA Tomohisa",
+                        "jp": "遊川 知久"
+                    }
+                }
+            }
+        }
+    ],
+    "container-title": "Annals of the Tsukuba Botanical Garden",
+    "volume": "14",
+    "page": "43-46",
+    "ISSN": [
+        "0289-3568"
+    ],
+    "link": [
+        {
+            "URL": "http://ci.nii.ac.jp/lognavi?name=nels&lang=en&type=pdf&id=ART0007436712",
+            "content-type": "application/pdf"
+        }
+    ],
+    "URL": "http://ci.nii.ac.jp/naid/110004697473",
+    "alternative-id": [
+        "http://ci.nii.ac.jp/naid/110004697473",
+        "http://ci.nii.ac.jp/lognavi?name=nels&lang=en&type=pdf&id=ART0007436712"
+    ]
+}	
+	
+	}	
+
+	{
+"_id": "https://doi.org/10.1186/s12862-017-0974-3",
+  "_rev": "1-85ea52a40f846f1f91f0d0a018b5ac25",
+  "message-format": "application/vnd.crossref-api-message+json",
+  "message-source": "https://api.crossref.org/v1/works/http://dx.doi.org/10.1186/s12862-017-0974-3",
+  "message":
+
+{ "id": "ITEM-1", "unstructured": "王文采 (2016) 毛茛科二新种. 植物研究, 36(1): 1-3",
+"title": "毛茛科二新种", "abstract": "描述了分别自甘肃和四川发现的毛茛科二新种，永登翠雀花和攀枝花唐松草，并分别给出此二种与近缘种之间的形态区别特征。",
+"multi": { "_key": { "abstract": { "zh": "描述了分别自甘肃和四川发现的毛茛科二新种，永登翠雀花和攀枝花唐松草，并分别给出此二种与近缘种之间的形态区别特征。"
+}, "title": { "en": "Two New Species of Ranunculaceae from China", "zh":
+"毛茛科二新种" }, "container-title": { "zh": "植物研究" } } }, "type": "article-journal",
+"issued": { "date-parts": [ [ 2016, 1, 15 ] ] }, "author": [ { "literal":
+"王文采", "multi": { "_key": { "literal": { "en": "WANG Wen-Tsai", "zh": "王文采"
+} } } } ], "container-title": "植物研究", "volume": "36", "issue": "1", "page":
+"1-3", "ISSN": [ "1673-5102" ], "alternative-id": [ "DOI:10.7525/j.issn.1673-5102.2016.01.001",
+"http://bbr.nefu.edu.cn/CN/abstract/abstract1449.shtml", "http://bbr.nefu.edu.cn/CN/article/downloadArticleFile.do?attachType=PDF&id=1449"
+], "DOI": "10.7525/j.issn.1673-5102.2016.01.001", "link": [ { "URL": "http://bbr.nefu.edu.cn/CN/article/downloadArticleFile.do?attachType=PDF&id=1449",
+"content-type": "application/pdf" } ], "URL": "http://bbr.nefu.edu.cn/CN/abstract/abstract1449.shtml"
+}
+
+}	
+
+	{
+"_id": "https://doi.org/10.1186/s12862-017-0974-3",
+  "_rev": "1-85ea52a40f846f1f91f0d0a018b5ac25",
+  "message-format": "application/vnd.crossref-api-message+json",
+  "message-source": "https://api.crossref.org/v1/works/http://dx.doi.org/10.1186/s12862-017-0974-3",
+  "message":		
+{
+    "id": "ITEM-1",
+    "unstructured": "李金花, 周守标, 王春景, 余本祺 (2005) 安徽黄精属植物叶片的比较解剖学. ACTA BOTANICA YUNNANICA, 27(5): 509-516",
+    "title": "安徽黄精属植物叶片的比较解剖学",
+    "abstract": "对安徽黄精属(Polygonatum Mill.)7种植物的叶片进行了比较解剖学研究.结果表明:(1)7种黄精属植物叶肉细胞中普遍存在含针晶束的异细胞,其数量多少存在种间差异;(2)除玉竹(P.odoratum)的下表皮外,叶表皮均无表皮毛的存在;(3)仅下表皮有气孔器分布,除湖北黄精(P.ganlandeianens)既有单个散布也有2个或3个聚集后随机散布外,均为单个随机散布在下表皮上;(4)叶片无栅栏组织和海绵组织的分化,除湖北黄精和安徽黄精(P.anhuiense)的叶片有不显著的栅栏组织和海绵组织的分化;(5)气孔器的某些特征,如气孔器大小、气孔器分布、气孔器类型等特征以及表皮细胞形状和垂周壁式样在种间有一定的差异.上述特征为黄精属植物种的划分及系统演化关系的探讨提供实验证据.",
+    "multi": {
+        "_key": {
+            "title": {
+                "zh": "安徽黄精属植物叶片的比较解剖学"
+            },
+            "abstract": {
+                "zh": "对安徽黄精属(Polygonatum Mill.)7种植物的叶片进行了比较解剖学研究.结果表明:(1)7种黄精属植物叶肉细胞中普遍存在含针晶束的异细胞,其数量多少存在种间差异;(2)除玉竹(P.odoratum)的下表皮外,叶表皮均无表皮毛的存在;(3)仅下表皮有气孔器分布,除湖北黄精(P.ganlandeianens)既有单个散布也有2个或3个聚集后随机散布外,均为单个随机散布在下表皮上;(4)叶片无栅栏组织和海绵组织的分化,除湖北黄精和安徽黄精(P.anhuiense)的叶片有不显著的栅栏组织和海绵组织的分化;(5)气孔器的某些特征,如气孔器大小、气孔器分布、气孔器类型等特征以及表皮细胞形状和垂周壁式样在种间有一定的差异.上述特征为黄精属植物种的划分及系统演化关系的探讨提供实验证据."
+            },
+            "container-title": {
+                "zh": "云南植物研究",
+                "en": "ACTA BOTANICA YUNNANICA"
+            }
+        }
+    },
+    "type": "article-journal",
+    "issued": {
+        "date-parts": [
+            [
+                2005
+            ]
+        ]
+    },
+    "author": [
+        {
+            "literal": "李金花",
+            "multi": {
+                "_key": {
+                    "literal": {
+                        "zh": "李金花"
+                    }
+                }
+            }
+        },
+        {
+            "literal": "周守标",
+            "multi": {
+                "_key": {
+                    "literal": {
+                        "zh": "周守标"
+                    }
+                }
+            }
+        },
+        {
+            "literal": "王春景",
+            "multi": {
+                "_key": {
+                    "literal": {
+                        "zh": "王春景"
+                    }
+                }
+            }
+        },
+        {
+            "literal": "余本祺",
+            "multi": {
+                "_key": {
+                    "literal": {
+                        "zh": "余本祺"
+                    }
+                }
+            }
+        }
+    ],
+    "container-title": "ACTA BOTANICA YUNNANICA",
+    "volume": "27",
+    "issue": "5",
+    "page": "509-516",
+    "ISSN": [
+        "0253-2700"
+    ],
+    "alternative-id": [
+        "DOI:10.3969/j.issn.2095-0845.2005.05.006",
+        "http://med.wanfangdata.com.cn/Paper/Detail?id=PeriodicalPaper_ynzwyj200505006"
+    ],
+    "DOI": "10.3969/j.issn.2095-0845.2005.05.006",
+    "URL": "http://med.wanfangdata.com.cn/Paper/Detail?id=PeriodicalPaper_ynzwyj200505006"
+}	
+}	
+
+
+{
+"_id": "https://doi.org/10.1186/s12862-017-0974-3",
+  "_rev": "1-85ea52a40f846f1f91f0d0a018b5ac25",
+  "message-format": "application/vnd.crossref-api-message+json",
+  "message-source": "https://api.crossref.org/v1/works/http://dx.doi.org/10.1186/s12862-017-0974-3",
+  "message":
+
+{ "id": "ITEM-1", "unstructured": "王文采 (2016) 毛茛科二新种. 植物研究, 36(1): 1-3",
+"title": "毛茛科二新种", "abstract": "描述了分别自甘肃和四川发现的毛茛科二新种，永登翠雀花和攀枝花唐松草，并分别给出此二种与近缘种之间的形态区别特征。",
+"multi": { "_key": { "abstract": { "zh": "描述了分别自甘肃和四川发现的毛茛科二新种，永登翠雀花和攀枝花唐松草，并分别给出此二种与近缘种之间的形态区别特征。"
+}, "title": { "en": "Two New Species of Ranunculaceae from China", "zh":
+"毛茛科二新种" }, "container-title": { "zh": "植物研究" } } }, "type": "article-journal",
+"issued": { "date-parts": [ [ 2016, 1, 15 ] ] }, "author": [ { "literal":
+"王文采", "multi": { "_key": { "literal": { "en": "WANG Wen-Tsai", "zh": "王文采"
+} } } } ], "container-title": "植物研究", "volume": "36", "issue": "1", "page":
+"1-3", "ISSN": [ "1673-5102" ], "alternative-id": [ "DOI:10.7525/j.issn.1673-5102.2016.01.001",
+"http://bbr.nefu.edu.cn/CN/abstract/abstract1449.shtml", "http://bbr.nefu.edu.cn/CN/article/downloadArticleFile.do?attachType=PDF&id=1449"
+], "DOI": "10.7525/j.issn.1673-5102.2016.01.001", "link": [ { "URL": "http://bbr.nefu.edu.cn/CN/article/downloadArticleFile.do?attachType=PDF&id=1449",
+"content-type": "application/pdf" } ], "URL": "http://bbr.nefu.edu.cn/CN/abstract/abstract1449.shtml"
+}
+
+}	
+
+			
+{
+  "_id": "https://doi.org/10.1186/s12862-017-0974-3",
+  "_rev": "1-85ea52a40f846f1f91f0d0a018b5ac25",
+  "message-format": "application/vnd.crossref-api-message+json",
+  "message-source": "https://api.crossref.org/v1/works/http://dx.doi.org/10.1186/s12862-017-0974-3",
+  "message": {
+    "indexed": {
+      "date-parts": [
+        [
+          2019,
+          2,
+          18
+        ]
+      ],
+      "date-time": "2019-02-18T02:45:31Z",
+      "timestamp": 1550457931052
+    },
+    "reference-count": 92,
+    "publisher": "Springer Nature",
+    "issue": "1",
+    "funder": [
+      {
+        "DOI": "10.13039/501100006733",
+        "name": "Commission on Higher Education",
+        "doi-asserted-by": "publisher",
+        "award": []
+      },
+      {
+        "DOI": "10.13039/501100001655",
+        "name": "Deutscher Akademischer Austauschdienst",
+        "doi-asserted-by": "crossref",
+        "award": []
+      },
+      {
+        "DOI": "10.13039/501100004049",
+        "name": "Katholischer Akademischer Ausländer-Dienst",
+        "doi-asserted-by": "crossref",
+        "award": []
+      },
+      {
+        "DOI": "10.13039/501100002428",
+        "name": "Austrian Science Fund",
+        "doi-asserted-by": "publisher",
+        "award": [
+          "M1751-B16"
+        ]
+      },
+      {
+        "name": "Department of Science and Technology (PH)",
+        "award": []
+      },
+      {
+        "name": "Nagao Natural Environment Foundation (NEF)",
+        "award": []
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "link.springer.com"
+      ],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "BMC Evol Biol"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2017,
+          12
+        ]
+      ]
+    },
+    "DOI": "10.1186/s12862-017-0974-3",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2017,
+          6,
+          7
+        ]
+      ],
+      "date-time": "2017-06-07T12:19:53Z",
+      "timestamp": 1496837993000
+    },
+    "update-policy": "http://dx.doi.org/10.1007/springer_crossmark_policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+      "Ixora (Rubiaceae) on the Philippines - crossroad or cradle?"
+    ],
+    "prefix": "10.1186",
+    "volume": "17",
+    "author": [
+      {
+        "given": "Cecilia I.",
+        "family": "Banag",
+        "sequence": "first",
+        "affiliation": []
+      },
+      {
+        "given": "Arnaud",
+        "family": "Mouly",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Grecebio Jonathan D.",
+        "family": "Alejandro",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Birgitta",
+        "family": "Bremer",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Ulrich",
+        "family": "Meve",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Guido W.",
+        "family": "Grimm",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "ORCID": "http://orcid.org/0000-0003-2707-0335",
+        "authenticated-orcid": false,
+        "given": "Sigrid",
+        "family": "Liede-Schumann",
+        "sequence": "additional",
+        "affiliation": []
+      }
+    ],
+    "member": "297",
+    "published-online": {
+      "date-parts": [
+        [
+          2017,
+          6,
+          7
+        ]
+      ]
+    },
+    "reference": [
+      {
+        "key": "974_CR1",
+        "doi-asserted-by": "crossref",
+        "first-page": "172",
+        "DOI": "10.1111/j.1096-3642.1860.tb00090.x",
+        "volume": "4",
+        "author": "AR Wallace",
+        "year": "1860",
+        "unstructured": "Wallace AR. On the zoological geography of the Malay Archipelago. J Proc Linn Soc. 1860;4:172–84.",
+        "journal-title": "J Proc Linn Soc"
+      },
+      {
+        "key": "974_CR2",
+        "first-page": "217",
+        "volume": "33",
+        "author": "AR Wallace",
+        "year": "1863",
+        "unstructured": "Wallace AR. On the physical geography of the Malay Archipelago. J R Geogr Soc. 1863;33:217–34.",
+        "journal-title": "J R Geogr Soc"
+      },
+      {
+        "key": "974_CR3",
+        "author": "AR Wallace",
+        "year": "1876",
+        "unstructured": "Wallace AR. The geographical distribution of animals, vol. 1 and 2. London: Macmillan; 1876.",
+        "volume-title": "The geographical distribution of animals"
+      },
+      {
+        "key": "974_CR4",
+        "doi-asserted-by": "crossref",
+        "first-page": "853",
+        "DOI": "10.1038/35002501",
+        "volume": "403",
+        "author": "N Myers",
+        "year": "2000",
+        "unstructured": "Myers N, Mittermeier RA, Mittermeier CG, GABd F, Kent J. Biodiversity hotspots for conservation priorities. Nature. 2000;403:853–8.",
+        "journal-title": "Nature"
+      },
+      {
+        "key": "974_CR5",
+        "doi-asserted-by": "crossref",
+        "first-page": "353",
+        "DOI": "10.1016/S1367-9120(01)00069-4",
+        "volume": "20",
+        "author": "R Hall",
+        "year": "2002",
+        "unstructured": "Hall R. Cenozoic geological and plate tectonic evolution of SE Asia and the SW Pacific: computer-based reconstructions, model and animations. J Asian Earth Sci. 2002;20:353–431.",
+        "journal-title": "J Asian Earth Sci"
+      },
+      {
+        "key": "974_CR6",
+        "doi-asserted-by": "crossref",
+        "first-page": "411",
+        "DOI": "10.1146/annurev-ecolsys-110411-160323",
+        "volume": "44",
+        "author": "RM Brown",
+        "year": "2013",
+        "unstructured": "Brown RM, Siler CD, Oliveros CH, Esselstyn JA, Diesmos AC, Hosner PA, et al. Evolutionary processes of diversification in a model island archipelago. Ann Rev Ecol Evol Syst. 2013;44:411–35.",
+        "journal-title": "Ann Rev Ecol Evol Syst"
+      },
+      {
+        "key": "974_CR7",
+        "doi-asserted-by": "crossref",
+        "first-page": "53",
+        "DOI": "10.1016/j.ympev.2010.12.019",
+        "volume": "59",
+        "author": "CD Siler",
+        "year": "2011",
+        "unstructured": "Siler CD, Diesmos AC, Alcala AC, Brown RM. Phylogeny of Philippine slender skinks (Scincidae: Brachymeles) reveals underestimated species diversity, complex biogeographical relationships, and cryptic patterns of lineage diversification. Mol Phylogenet Evol. 2011;59:53–65.",
+        "journal-title": "Mol Phylogenet Evol"
+      },
+      {
+        "key": "974_CR8",
+        "author": "JA Esselstyn",
+        "volume": "6",
+        "year": "2011",
+        "unstructured": "Esselstyn JA, Maher SP, Brown RM. Species interactions during diversification and community assembly in an island radiation of shrews. PLoS One. 2011;6:e21885.",
+        "journal-title": "PLoS One",
+        "DOI": "10.1371/journal.pone.0021885",
+        "doi-asserted-by": "crossref"
+      },
+      {
+        "key": "974_CR9",
+        "author": "RM Brown",
+        "first-page": "723",
+        "year": "2009",
+        "unstructured": "Brown RM, Diesmos AC. Philippines, Biology. In: Gillespie RG, Clague DA, editors. Encyclopedia of Islands. Berkeley: University of California Press; 2009. p. 723–32.",
+        "volume-title": "Encyclopedia of Islands"
+      },
+      {
+        "key": "974_CR10",
+        "doi-asserted-by": "crossref",
+        "first-page": "753",
+        "DOI": "10.1111/j.1365-2699.2007.01692.x",
+        "volume": "34",
+        "author": "LR Heaney",
+        "year": "2007",
+        "unstructured": "Heaney LR. Is a new paradigm emerging for oceanic island biogeography? J Biogeogr. 2007;34:753–7.",
+        "journal-title": "J Biogeogr"
+      },
+      {
+        "key": "974_CR11",
+        "first-page": "143",
+        "volume": "72",
+        "author": "H Atkins",
+        "year": "2001",
+        "unstructured": "Atkins H, Preston J, Cronk QCB. A molecular test of Huxley’s line: Cyrtandra (Gesneriaceae) in Borneo and the Philippines. Biol J Linn Soc. 2001;72:143–59.",
+        "journal-title": "Biol J Linn Soc"
+      },
+      {
+        "key": "974_CR12",
+        "doi-asserted-by": "crossref",
+        "first-page": "329",
+        "DOI": "10.1071/SB05019",
+        "volume": "19",
+        "author": "GK Brown",
+        "year": "2006",
+        "unstructured": "Brown GK, Craven LA, Udovicic F, Ladiges PY. Phylogenetic relationships of Rhododendron section Vireya (Ericaceae) inferred from the ITS nrDNA region. Aust Syst Bot. 2006;19:329–42.",
+        "journal-title": "Aust Syst Bot"
+      },
+      {
+        "key": "974_CR13",
+        "doi-asserted-by": "crossref",
+        "first-page": "695",
+        "DOI": "10.3732/ajb.1400428",
+        "volume": "102",
+        "author": "M Hughes",
+        "year": "2015",
+        "unstructured": "Hughes M, Rubite RR, Blanc P, Chung K, Peng C. The Miocene to Pleistocene colonization of the Philippine Archipelago by Begonia sect. Baryandra (Begoniaceae). Am J Bot. 2015;102:695–706.",
+        "journal-title": "Am J Bot"
+      },
+      {
+        "key": "974_CR14",
+        "doi-asserted-by": "crossref",
+        "first-page": "98",
+        "DOI": "10.1111/j.1365-2699.2011.02596.x",
+        "volume": "39",
+        "author": "DC Thomas",
+        "year": "2012",
+        "unstructured": "Thomas DC, Hughes M, Phutthai T, Ardi WH, Rajbhandary S, Rubite R, et al. West to east dispersal and subsequent rapid diversification of the mega-diverse genus Begonia (Begoniaceae) in the Malesian archipelago. J Biogeogr. 2012;39:98–113.",
+        "journal-title": "J Biogeogr"
+      },
+      {
+        "key": "974_CR15",
+        "doi-asserted-by": "crossref",
+        "first-page": "1149",
+        "DOI": "10.1111/jbi.12280",
+        "volume": "41",
+        "author": "M Grudinski",
+        "year": "2014",
+        "unstructured": "Grudinski M, Wanntorp L, Pannell CM, Muellner-Riehl AN. West to east dispersal in a widespread animal-dispersed woody angiosperm genus (Aglaia, Meliaceae) across the Indo-Australian Archipelago. J Biogeogr. 2014;41:1149–59.",
+        "journal-title": "J Biogeogr"
+      },
+      {
+        "key": "974_CR16",
+        "doi-asserted-by": "crossref",
+        "first-page": "68",
+        "DOI": "10.3417/2006205",
+        "volume": "96",
+        "author": "AP Davis",
+        "year": "2009",
+        "unstructured": "Davis AP, Govaerts R, Bridson DM, Ruhsam M, Moat J. A global assessment of distribution, diversity, endemism, and taxonomic effort in the Rubiaceae. Ann Missouri Bot Gard. 2009;96:68–78.",
+        "journal-title": "Ann Missouri Bot Gard"
+      },
+      {
+        "key": "974_CR17",
+        "first-page": "1547",
+        "volume": "59",
+        "author": "GJD Alejandro",
+        "year": "2010",
+        "unstructured": "Alejandro GJD, Meve U, Uy M, Mouly A, Thiv M, Liede-Schumann S. Molecular support of the classification of Greeniopsis Merr. in Aleisanthieae (Rubiaceae), with a revision of the genus. Taxon. 2010;59:1547–64.",
+        "journal-title": "Taxon"
+      },
+      {
+        "key": "974_CR18",
+        "first-page": "4",
+        "volume": "3",
+        "author": "JJA Obico",
+        "year": "2012",
+        "unstructured": "Obico JJA, GJD A. Molecular phylogeny of the Philippine endemic genus Antherostele Bremek. (Rubiaceae) inferred from ITS data (nrDNA) and its conservation status. Am J Plant Sci. 2012;3:4.",
+        "journal-title": "Am J Plant Sci"
+      },
+      {
+        "key": "974_CR19",
+        "doi-asserted-by": "crossref",
+        "first-page": "1",
+        "DOI": "10.1007/s00606-011-0472-9",
+        "volume": "296",
+        "author": "GJD Alejandro",
+        "year": "2011",
+        "unstructured": "Alejandro GJD, Meve U, Mouly A, Thiv M, Liede-Schumann S. Molecular phylogeny and taxonomic revision of the Philippine endemic Villaria Rolfe (Rubiaceae). Plant Syst Evol. 2011;296:1–20.",
+        "journal-title": "Plant Syst Evol"
+      },
+      {
+        "key": "974_CR20",
+        "doi-asserted-by": "crossref",
+        "first-page": "1731",
+        "DOI": "10.2307/2656750",
+        "volume": "87",
+        "author": "K Andreasen",
+        "year": "2000",
+        "unstructured": "Andreasen K, Bremer B. Combined phylogenetic analysis in the Rubiaceae-Ixoroideae: morphology, nuclear and chloroplast DNA data. Am J Bot. 2000;87:1731–48.",
+        "journal-title": "Am J Bot"
+      },
+      {
+        "key": "974_CR21",
+        "first-page": "1",
+        "volume": "9",
+        "author": "P De Block",
+        "year": "1998",
+        "unstructured": "De Block P. The African species of Ixora (Rubiaceae - Pavetteae). Opera Bot Belg. 1998;9:1–217.",
+        "journal-title": "Opera Bot Belg"
+      },
+      {
+        "key": "974_CR22",
+        "first-page": "313",
+        "volume": "32",
+        "author": "M Sivadasan",
+        "year": "1991",
+        "unstructured": "Sivadasan M, Mohanan N. Ixora agasthyamalayaría, a new species of Rubiaceae from India. Bot Bull Acad Sin. 1991;32:313–6.",
+        "journal-title": "Bot Bull Acad Sin"
+      },
+      {
+        "key": "974_CR23",
+        "first-page": "4",
+        "volume": "34",
+        "author": "V Chamchumroon",
+        "year": "2014",
+        "unstructured": "Chamchumroon V. A checklist of the genus Ixora L. (Rubiaceae) in Thailand. Thai Forest Bulletin (Botany). 2014;34:4–24.",
+        "journal-title": "Thai Forest Bulletin (Botany)"
+      },
+      {
+        "key": "974_CR24",
+        "first-page": "197",
+        "volume": "14",
+        "author": "CEB Bremekamp",
+        "year": "1937",
+        "unstructured": "Bremekamp CEB. The Malaysian species of the genus Ixora (Rubiaceae). Bull Jard Bot Buitenzorg Ser 3. 1937;14:197–367.",
+        "journal-title": "Bull Jard Bot Buitenzorg Ser 3"
+      },
+      {
+        "key": "974_CR25",
+        "doi-asserted-by": "crossref",
+        "first-page": "237",
+        "DOI": "10.5091/plecevo.2014.927",
+        "volume": "147",
+        "author": "P De Block",
+        "year": "2014",
+        "unstructured": "De Block P. Eight new species of Ixora (Ixoreae - Rubiaceae) from Madagascar. Plant Ecol Evol. 2014;147:237–55.",
+        "journal-title": "Plant Ecol Evol"
+      },
+      {
+        "key": "974_CR26",
+        "unstructured": "Lorence DH, Wagner WL, Mouly A, Florence J. Revision of Ixora  (Rubiaceae) in the Marquesas Islands (French Polynesia). Bot J Linn Soc. 2007;155:581–97."
+      },
+      {
+        "key": "974_CR27",
+        "first-page": "253",
+        "volume": "7",
+        "author": "ST Reynolds",
+        "year": "2006",
+        "unstructured": "Reynolds ST, Forster PI. A taxonomic revision of Ixora L. (Rubiaceae: Ixoroideae) in Australia. Austrobaileya. 2006;7:253–78.",
+        "journal-title": "Austrobaileya"
+      },
+      {
+        "key": "974_CR28",
+        "doi-asserted-by": "crossref",
+        "first-page": "457",
+        "DOI": "10.1080/12538078.2008.10516125",
+        "volume": "155",
+        "author": "A Mouly",
+        "year": "2008",
+        "unstructured": "Mouly A. Systématique de la tribu des Ixoreae A. Gray (Rubiaceae): phylogénie, biogéographie et taxinomie. Acta Bot Gall. 2008;155:457–64.",
+        "journal-title": "Acta Bot Gall"
+      },
+      {
+        "key": "974_CR29",
+        "first-page": "119",
+        "volume": "7",
+        "author": "K Andreasen",
+        "year": "1996",
+        "unstructured": "Andreasen K, Bremer B. Phylogeny of the subfamily Ixoroideae (Rubiaceae). Opera Bot Belg. 1996;7:119–38.",
+        "journal-title": "Opera Bot Belg"
+      },
+      {
+        "key": "974_CR30",
+        "doi-asserted-by": "crossref",
+        "first-page": "146",
+        "DOI": "10.3417/2006194",
+        "volume": "96",
+        "author": "A Mouly",
+        "year": "2009",
+        "unstructured": "Mouly A, Razafimandimbison S, Florence J, Jérémie J, Bremer B. Paraphyly of Ixora and new tribal delimitation of Ixoreae (Rubiaceae): inference from combined chloroplast (rps16, rbcL, and trnT-F) sequence data. Ann Missouri Bot Gard. 2009;96:146–60.",
+        "journal-title": "Ann Missouri Bot Gard"
+      },
+      {
+        "key": "974_CR31",
+        "doi-asserted-by": "crossref",
+        "first-page": "686",
+        "DOI": "10.3732/ajb.0800235",
+        "volume": "96",
+        "author": "A Mouly",
+        "year": "2009",
+        "unstructured": "Mouly A, Razafimandimbison S, Khodabandeh A, Bremer B. Phylogeny and classification of the species-rich pantropical showy genus Ixora (Rubiaceae-Ixoreae) with indications of geographical monophyletic units and hybrids. Am J Bot. 2009;96:686–706.",
+        "journal-title": "Am J Bot"
+      },
+      {
+        "key": "974_CR32",
+        "doi-asserted-by": "crossref",
+        "first-page": "1723",
+        "DOI": "10.1093/aob/mct222",
+        "volume": "112",
+        "author": "J Tosh",
+        "year": "2013",
+        "unstructured": "Tosh J, Dessein S, Buerki S, Groeninckx I, Mouly A, Bremer B, et al. Evolutionary history of the Afro-Madagascan Ixora species (Rubiaceae): species diversification and distribution of key morphological traits inferred from dated molecular phylogenetic trees. Ann Bot. 2013;112:1723–42.",
+        "journal-title": "Ann Bot"
+      },
+      {
+        "key": "974_CR33",
+        "unstructured": "Cohen KM, Finney SC, Gibbard PL, Fan J-X. The ICS International Chronostratigraphic Chart. Episodes. 2013;36:199–204."
+      },
+      {
+        "key": "974_CR34",
+        "first-page": "47",
+        "volume": "1",
+        "author": "GJD Alejandro",
+        "year": "2007",
+        "unstructured": "Alejandro GJD. The current status of the Philippine Rubiaceae. Philipp J Syst Biol. 2007;1:47–60.",
+        "journal-title": "Philipp J Syst Biol"
+      },
+      {
+        "key": "974_CR35",
+        "author": "CI Banag",
+        "year": "2014",
+        "unstructured": "Banag CI. Systematics of the Philippine endemic Ixora L. (Rubiaceae, Ixoreae). Ph.D. Bayreuth: University of Bayreuth; 2014.",
+        "volume-title": "Systematics of the Philippine endemic Ixora L. (Rubiaceae, Ixoreae). Ph.D"
+      },
+      {
+        "key": "974_CR36",
+        "author": "ED Merrill",
+        "year": "1923",
+        "unstructured": "Merrill ED. An enumeration of Philippine Flowering Plants, vol. 3. Bureau of Printing: Manila; 1923.",
+        "volume-title": "An enumeration of Philippine Flowering Plants"
+      },
+      {
+        "key": "974_CR37",
+        "doi-asserted-by": "crossref",
+        "first-page": "261",
+        "DOI": "10.3767/000651903X674964",
+        "volume": "48",
+        "author": "GJD Alejandro",
+        "year": "2003",
+        "unstructured": "Alejandro GJD, Liede S. The Philippine Rubiaceae genera. Updated synopsis in INTKEY databases of the DELTA system. Blumea. 2003;48:261–77.",
+        "journal-title": "Blumea"
+      },
+      {
+        "key": "974_CR38",
+        "first-page": "85",
+        "volume": "76",
+        "author": "E Robbrecht",
+        "year": "2006",
+        "unstructured": "Robbrecht E, Manen JF. The major evolutionary lineages of the coffee family (Rubiaceae, angiosperms). Combined analysis (nDNA and cpDNA) to infer the position of Coptosapelta and Luculia, and supertree construction based on rbcL, rps16, trnL-trnF and atpB-rbcL data. A new classification in two subfamilies, Cinchonoideae and Rubioideae. Syst Geogr Plants. 2006;76:85–146.",
+        "journal-title": "Syst Geogr Plants"
+      },
+      {
+        "key": "974_CR39",
+        "doi-asserted-by": "crossref",
+        "first-page": "766",
+        "DOI": "10.1086/599077",
+        "volume": "170",
+        "author": "B Bremer",
+        "year": "2009",
+        "unstructured": "Bremer B, Eriksson T. Time tree of Rubiaceae: phylogeny and dating the family, subfamilies, and tribes. Int J Plant Sci. 2009;170:766–93.",
+        "journal-title": "Int J Plant Sci"
+      },
+      {
+        "key": "974_CR40",
+        "author": "JF Wendel",
+        "first-page": "265",
+        "year": "1998",
+        "unstructured": "Wendel JF, Doyle JJ. Phylogenetic incongruence: window into genome history and molecular evolution. In: Soltis PS, Soltis DE, Doyle JJ, editors. Molecular systematics of plants, vol. 2. Boston: Kluwer; 1998. p. 265–96.",
+        "volume-title": "Molecular systematics of plants",
+        "DOI": "10.1007/978-1-4615-5419-6_10",
+        "doi-asserted-by": "crossref"
+      },
+      {
+        "key": "974_CR41",
+        "doi-asserted-by": "crossref",
+        "first-page": "156",
+        "DOI": "10.1016/j.ympev.2014.11.003",
+        "volume": "83",
+        "author": "M Sun",
+        "year": "2015",
+        "unstructured": "Sun M, Soltis DE, Soltis PS, Zhu X, Burleigh JG, Chen ZD. Deep phylogenetic incongruence in the angiosperm clade Rosidae. Molec Phyl Evol. 2015;83:156–66.",
+        "journal-title": "Molec Phyl Evol"
+      },
+      {
+        "key": "974_CR42",
+        "first-page": "8",
+        "volume": "1",
+        "author": "ADE Elmer",
+        "year": "1906",
+        "unstructured": "Elmer ADE. New and noteworthy Rubiaceae. Leafl Philipp Bot. 1906;1:8–9.",
+        "journal-title": "Leafl Philipp Bot"
+      },
+      {
+        "key": "974_CR43",
+        "first-page": "320",
+        "volume": "17",
+        "author": "ED Merrill",
+        "year": "1921",
+        "unstructured": "Merrill ED. New or noteworthy Philippine Plants, XVI. Philipp J Sci C (Bot). 1921;17:320–1.",
+        "journal-title": "Philipp J Sci C (Bot)"
+      },
+      {
+        "key": "974_CR44",
+        "unstructured": "Banag CI, Manalastas NMB, Alejandro GJD: Synonymy of Philippine Ixora (Ixoreae, Rubiaceace) and Ixora silagoensis sp. nov. Nord J Botany. 2014;32:761–764."
+      },
+      {
+        "key": "974_CR45",
+        "doi-asserted-by": "crossref",
+        "first-page": "155",
+        "DOI": "10.11646/phytotaxa.202.2.8",
+        "volume": "202",
+        "author": "CI Banag",
+        "year": "2015",
+        "unstructured": "Banag CI, Tandang D, Meve U, Liede-Schumann S. Two new species of Ixora (Ixoroideae, Rubiaceae) endemic to the Philippines. Phytotaxa. 2015;202:155–60.",
+        "journal-title": "Phytotaxa"
+      },
+      {
+        "key": "974_CR46",
+        "doi-asserted-by": "crossref",
+        "first-page": "112",
+        "DOI": "10.5091/plecevo.2016.1038",
+        "volume": "149",
+        "author": "A Mouly",
+        "year": "2016",
+        "unstructured": "Mouly A, Deroin T, Verhaegen D, Munzinger J. The emblematic “Captaincookia” in New Caledonia (Rubiaceae), a divergent Ixora species showing adaptative variability from humid to sclerophyll forests. Plant Ecol Evol. 2016;149:112–22.",
+        "journal-title": "Plant Ecol Evol"
+      },
+      {
+        "key": "974_CR47",
+        "doi-asserted-by": "crossref",
+        "first-page": "1700",
+        "DOI": "10.3732/ajb.91.10.1700",
+        "volume": "91",
+        "author": "CR Linder",
+        "year": "2004",
+        "unstructured": "Linder CR, Rieseberg L. Reconstructing patterns of reticulate evolution in plants. Am J Bot. 2004;91:1700–8.",
+        "journal-title": "Am J Bot"
+      },
+      {
+        "key": "974_CR48",
+        "doi-asserted-by": "crossref",
+        "first-page": "620",
+        "DOI": "10.1111/j.1095-8312.2008.01073.x",
+        "volume": "95",
+        "author": "AW Jones",
+        "year": "2008",
+        "unstructured": "Jones AW, Kennedy RS. Evolution in a tropical archipelago: comparative phylogeography of Philippine fauna and flora reveals complex patterns of colonization and diversification. Biol J Linn Soc. 2008;95:620–39.",
+        "journal-title": "Biol J Linn Soc"
+      },
+      {
+        "key": "974_CR49",
+        "first-page": "152",
+        "volume": "62",
+        "author": "IM Turner",
+        "year": "2013",
+        "unstructured": "Turner IM. Robinson a century on: the nomenclatural relevance of Roxburgh’s Hortus Bengalensis. Taxon. 2013;62:152–72.",
+        "journal-title": "Taxon"
+      },
+      {
+        "key": "974_CR50",
+        "doi-asserted-by": "crossref",
+        "first-page": "531",
+        "DOI": "10.1111/j.1095-8312.2011.01647.x",
+        "volume": "103",
+        "author": "PC Van Welzen",
+        "year": "2011",
+        "unstructured": "Van Welzen PC, Parnell JAN, Ferry Slik JW. Wallace's Line and plant distributions: two or three phytogeographical areas and where to group Java? Biol J Linn Soc. 2011;103:531–45.",
+        "journal-title": "Biol J Linn Soc"
+      },
+      {
+        "key": "974_CR51",
+        "doi-asserted-by": "crossref",
+        "first-page": "623",
+        "DOI": "10.1007/s10342-010-0454-4",
+        "volume": "130",
+        "author": "C Neophytou",
+        "year": "2011",
+        "unstructured": "Neophytou C, Aravanopoulos FA, Fink S, Dounavi A. Interfertile oaks in an island environment: II. Limited hybridization Quercus alnifolia Poech and Q. coccifera L. in a mixed stand. Eur J For Res. 2011;130:623–35.",
+        "journal-title": "Eur J For Res"
+      },
+      {
+        "key": "974_CR52",
+        "doi-asserted-by": "crossref",
+        "first-page": "2026",
+        "DOI": "10.1016/j.foreco.2010.02.013",
+        "volume": "259",
+        "author": "C Neophytou",
+        "year": "2010",
+        "unstructured": "Neophytou C, Aravanopoulos FA, Fink S, Dounavi A. Detecting interspecific and geographic differentiation pattern in two interfertile oak species (Quercus petraea (Matt.) Liebl. and Quercus robur L.). For Ecol Manag. 2010;259:2026–35.",
+        "journal-title": "For Ecol Manag"
+      },
+      {
+        "key": "974_CR53",
+        "doi-asserted-by": "crossref",
+        "first-page": "543",
+        "DOI": "10.1007/s10342-010-0442-8",
+        "volume": "130",
+        "author": "C Neophytou",
+        "year": "2010",
+        "unstructured": "Neophytou C, Dounavi A, Fink S, Aravanopoulos FA. Interfertile oaks in an island environment: I. High nuclear genetic differentiation and high degree of chloroplast DNA sharing between Q. alnifolia and Q. coccifera in Cyprus. A multipopulation study. Eur J For Res. 2010;130:543–55.",
+        "journal-title": "Eur J For Res"
+      },
+      {
+        "key": "974_CR54",
+        "first-page": "351",
+        "volume": "59",
+        "author": "T Denk",
+        "year": "2010",
+        "unstructured": "Denk T, Grimm GW. The oaks of western Eurasia: traditional classifications and evidence from two nuclear markers. Taxon. 2010;59:351–66.",
+        "journal-title": "Taxon"
+      },
+      {
+        "key": "974_CR55",
+        "author": "MC Simeone",
+        "volume": "4",
+        "year": "2016",
+        "unstructured": "Simeone MC, Grimm GW, Papini A, Vessella F, Cardoni S, Tordoni E, et al. Plastome data reveal multiple geographic origins of Quercus Group Ilex. PeerJ. 2016;4:e1897.",
+        "journal-title": "PeerJ",
+        "DOI": "10.7717/peerj.1897",
+        "doi-asserted-by": "crossref"
+      },
+      {
+        "key": "974_CR56",
+        "doi-asserted-by": "crossref",
+        "first-page": "3",
+        "DOI": "10.1007/s11295-016-1086-8",
+        "volume": "13",
+        "author": "M Vitelli",
+        "year": "2017",
+        "unstructured": "Vitelli M, Vessella F, Cardoni S, Pollegioni P, Denk T, Grimm GW, et al. Phylogeographic structuring of plastome diversity in Mediterranean oaks (Quercus Group Ilex, Fagaceae). Tree Genet Genomes. 2017;13:3. [e-Pub]",
+        "journal-title": "Tree Genet Genomes"
+      },
+      {
+        "key": "974_CR57",
+        "doi-asserted-by": "crossref",
+        "first-page": "235",
+        "DOI": "10.1016/j.ympev.2009.08.008",
+        "volume": "54",
+        "author": "MC Acosta",
+        "year": "2010",
+        "unstructured": "Acosta MC, Premoli AC. Evidence of chloroplast capture in South American Nothofagus (subgenus Nothofagus, Nothofagaceae). Mol Phylogenet Evol. 2010;54:235–42.",
+        "journal-title": "Mol Phylogenet Evol"
+      },
+      {
+        "key": "974_CR58",
+        "doi-asserted-by": "crossref",
+        "first-page": "261",
+        "DOI": "10.1111/j.1469-8137.2011.03861.x",
+        "volume": "193",
+        "author": "AC Premoli",
+        "year": "2012",
+        "unstructured": "Premoli AC, Mathiasen P, Acosta MC, Ramos VA. Phylogeographically concordant chloroplast DNA divergence in sympatric Nothofagus s.s. How deep can it be? New Phytol. 2012;193:261–75.",
+        "journal-title": "New Phytol"
+      },
+      {
+        "key": "974_CR59",
+        "doi-asserted-by": "crossref",
+        "first-page": "301",
+        "DOI": "10.2307/3544090",
+        "volume": "41",
+        "author": "JM Diamond",
+        "year": "1983",
+        "unstructured": "Diamond JM, Gilpin ME. Biogeographic umbilici and the origin of Philippines avifauna. Oikos. 1983;41:301–21.",
+        "journal-title": "Oikos"
+      },
+      {
+        "key": "974_CR60",
+        "doi-asserted-by": "crossref",
+        "first-page": "1325",
+        "DOI": "10.1007/s11258-015-0512-6",
+        "volume": "216",
+        "author": "CI Banag",
+        "year": "2015",
+        "unstructured": "Banag CI, Thrippleton T, Alejandro GJD, Reineking B, Liede-Schumann S. Bioclimatic niches of selected endemic Ixora species on the Philippines: predicting habitat suitability due to climate change. Plant Ecol. 2015;216:1325–40.",
+        "journal-title": "Plant Ecol"
+      },
+      {
+        "key": "974_CR61",
+        "first-page": "294",
+        "volume": "1868",
+        "author": "TH Huxley",
+        "year": "1868",
+        "unstructured": "Huxley TH. On the classification and distribution of the Alectoromorphae and Heteromorphae. Proc Zool Soc London. 1868;1868:294–319.",
+        "journal-title": "Proc Zool Soc London"
+      },
+      {
+        "key": "974_CR62",
+        "doi-asserted-by": "crossref",
+        "first-page": "89",
+        "DOI": "10.12705/631.3",
+        "volume": "63",
+        "author": "L Wanntorp",
+        "year": "2014",
+        "unstructured": "Wanntorp L, Grudinski M, Forster PI, Muellner-Riehl AN, Grimm GW. Wax plants (Hoya, Apocynaceae) evolution: epiphytism drives successful radiation. Taxon. 2014;63:89–102.",
+        "journal-title": "Taxon"
+      },
+      {
+        "key": "974_CR63",
+        "doi-asserted-by": "crossref",
+        "first-page": "215",
+        "DOI": "10.2307/1222975",
+        "volume": "40",
+        "author": "MW Chase",
+        "year": "1991",
+        "unstructured": "Chase MW, Hills HH. Silica gel: An ideal material for field preservation of leaf samples for DNA studies. Taxon. 1991;40:215–20.",
+        "journal-title": "Taxon"
+      },
+      {
+        "key": "974_CR64",
+        "doi-asserted-by": "crossref",
+        "first-page": "449",
+        "DOI": "10.1006/mpev.1998.0545",
+        "volume": "10",
+        "author": "BG Baldwin",
+        "year": "1998",
+        "unstructured": "Baldwin BG, Markos S. Phylogenetic utility of the external transcribed spacer (ETS) of 18S-26S rDNA: congruence of ETS and ITS trees of Calycadenia (Compositae). Mol Phylogenet Evol. 1998;10:449–63.",
+        "journal-title": "Mol Phylogenet Evol"
+      },
+      {
+        "key": "974_CR65",
+        "doi-asserted-by": "crossref",
+        "first-page": "161",
+        "DOI": "10.3417/2006191",
+        "volume": "96",
+        "author": "SG Razafimandimbison",
+        "year": "2009",
+        "unstructured": "Razafimandimbison SG, Lantz H, Mouly A, Bremer B. Evolutionary trends, major lineages, and new generic limits in the dioecious group of the tribe Vanguerieae (Rubiaceae): Insights into the evolution of functional dioecy. Ann Missouri Bot Gard. 2009;96:161–81.",
+        "journal-title": "Ann Missouri Bot Gard"
+      },
+      {
+        "key": "974_CR66",
+        "author": "TJ White",
+        "first-page": "315",
+        "year": "1990",
+        "unstructured": "White TJ, Bruns T, Lee S, Taylor J. Amplification and direct sequencing of fungal ribosomal RNA genes for phylogenetics. In: Innis MA, Gelfand DH, Sninsky JJ, White TJ, editors. PCR protocols: a guide to methods and applications. San Diego: Academic Press; 1990. p. 315–22.",
+        "volume-title": "PCR protocols: a guide to methods and applications"
+      },
+      {
+        "key": "974_CR67",
+        "doi-asserted-by": "crossref",
+        "first-page": "539",
+        "DOI": "10.2307/2666695",
+        "volume": "25",
+        "author": "LE Urbatsch",
+        "year": "2000",
+        "unstructured": "Urbatsch LE, Baldwin BG, Donoghue MJ. Phylogeny of the coneflowers and relatives (Heliantheae: Asteraceae) based on nuclear rDNA internal transcribed spacer (ITS) sequences and chloroplast DNA restriction site data. Syst Bot. 2000;25:539–65.",
+        "journal-title": "Syst Bot"
+      },
+      {
+        "key": "974_CR68",
+        "unstructured": "Oxelman B, Liden M, Berglund D. Chloroplast rps16 intron phylogeny of the tribe Sileneae (Caryophyllaceae). Plant Syst Evol. 1997;206:393–410."
+      },
+      {
+        "key": "974_CR69",
+        "doi-asserted-by": "crossref",
+        "first-page": "257",
+        "DOI": "10.1111/j.1095-8339.2004.00338.x",
+        "volume": "146",
+        "author": "H Lantz",
+        "year": "2004",
+        "unstructured": "Lantz H, Bremer B. Phylogeny inferred from morphology and DNA data: characterizing well-supported groups in Vanguerieae (Rubiaceae). Bot J Linn Soc. 2004;146:257–83.",
+        "journal-title": "Bot J Linn Soc"
+      },
+      {
+        "key": "974_CR70",
+        "doi-asserted-by": "crossref",
+        "first-page": "274",
+        "DOI": "10.1016/S1055-7903(02)00240-3",
+        "volume": "24",
+        "author": "B Bremer",
+        "year": "2002",
+        "unstructured": "Bremer B, Bremer K, Heidari N, Erixon P, Olmstead RG, Anderberg AA, et al. Phylogenetics of asterids based on 3 coding and 3 non-coding chloroplast DNA markers and the utility of non-coding DNA at higher taxonomic levels. Mol Phylogenet Evol. 2002;24:274–301.",
+        "journal-title": "Mol Phylogenet Evol"
+      },
+      {
+        "key": "974_CR71",
+        "doi-asserted-by": "crossref",
+        "first-page": "1105",
+        "DOI": "10.1007/BF00037152",
+        "volume": "17",
+        "author": "PL Taberlet",
+        "year": "1991",
+        "unstructured": "Taberlet PL, Gielly L, Patou G, Bouvet J. Universal primers for amplification of three noncoding regions of chloroplast DNA. Plant Mol Biol. 1991;17:1105–9.",
+        "journal-title": "Plant Mol Biol"
+      },
+      {
+        "key": "974_CR72",
+        "doi-asserted-by": "crossref",
+        "first-page": "221",
+        "DOI": "10.1093/molbev/msp259",
+        "volume": "27",
+        "author": "M Gouy",
+        "year": "2010",
+        "unstructured": "Gouy M, Guindon S, Gascuel O. SeaView version 4 : a multiplatform graphical user interface for sequence alignment and phylogenetic tree building. Mol Biol Evol. 2010;27:221–4.",
+        "journal-title": "Mol Biol Evol"
+      },
+      {
+        "key": "974_CR73",
+        "doi-asserted-by": "crossref",
+        "first-page": "i559",
+        "DOI": "10.1093/bioinformatics/btm226",
+        "volume": "23",
+        "author": "TJ Wheeler",
+        "year": "2007",
+        "unstructured": "Wheeler TJ, Kececioglu JD. Multiple alignments by aligning alignments. Bioinformatics. 2007;23:i559–68.",
+        "journal-title": "Bioinformatics"
+      },
+      {
+        "key": "974_CR74",
+        "author": "WP Maddison",
+        "year": "2011",
+        "unstructured": "Maddison WP, Maddison DR: Mesquite: a modular system for evolutionary analysis. Version 2.75 \nhttp://mesquiteproject.org\n\n. 2011.",
+        "volume-title": "Mesquite: a modular system for evolutionary analysis. Version 2.75"
+      },
+      {
+        "key": "974_CR75",
+        "doi-asserted-by": "crossref",
+        "first-page": "482",
+        "DOI": "10.2307/2666142",
+        "volume": "87",
+        "author": "SA Kelchner",
+        "year": "2000",
+        "unstructured": "Kelchner SA. The Evolution of non-coding chloroplast DNA and its application in plant systematics. Ann Missouri Bot Gard. 2000;87:482–98.",
+        "journal-title": "Ann Missouri Bot Gard"
+      },
+      {
+        "key": "974_CR76",
+        "doi-asserted-by": "crossref",
+        "first-page": "1312",
+        "DOI": "10.1093/bioinformatics/btu033",
+        "volume": "30",
+        "author": "A Stamatakis",
+        "year": "2014",
+        "unstructured": "Stamatakis A. RAxML version 8: a tool for phylogenetic analysis and post-analysis of large phylogenies. Bioinformatics. 2014;30:1312–3.",
+        "journal-title": "Bioinformatics"
+      },
+      {
+        "key": "974_CR77",
+        "doi-asserted-by": "crossref",
+        "first-page": "717",
+        "DOI": "10.1093/oxfordjournals.molbev.a025811",
+        "volume": "14",
+        "author": "Z Yang",
+        "year": "1997",
+        "unstructured": "Yang Z, Rannala B. Bayesian phylogenetic inference using DNA sequences: a Markov chain Monte Carlo method. Mol Biol Evol. 1997;14:717–24.",
+        "journal-title": "Mol Biol Evol"
+      },
+      {
+        "key": "974_CR78",
+        "doi-asserted-by": "crossref",
+        "first-page": "1572",
+        "DOI": "10.1093/bioinformatics/btg180",
+        "volume": "19",
+        "author": "F Ronquist",
+        "year": "2003",
+        "unstructured": "Ronquist F, Huelsenbeck JP. MrBayes 3: Bayesian phylogenetic inference under mixed models. Bioinformatics. 2003;19:1572–4.",
+        "journal-title": "Bioinformatics"
+      },
+      {
+        "key": "974_CR79",
+        "author": "ND Pattengale",
+        "first-page": "184",
+        "year": "2009",
+        "unstructured": "Pattengale ND, Masoud A, Bininda-Emonds ORP, Moret BME, Stamatakis A. How many bootstrap replicates are necessary? In: Batzoglou S, editor. RECOMB 2009, vol. 5541. Berlin: Springer-Verlag; 2009. p. 184–200.",
+        "volume-title": "RECOMB 2009"
+      },
+      {
+        "key": "974_CR80",
+        "first-page": "279",
+        "volume": "2",
+        "author": "GW Grimm",
+        "year": "2006",
+        "unstructured": "Grimm GW, Renner SS, Stamatakis A, Hemleben V. A nuclear ribosomal DNA phylogeny of Acer inferred with maximum likelihood, splits graphs, and motif analyses of 606 sequences. Evol Bioinforma. 2006;2:279–94.",
+        "journal-title": "Evol Bioinforma"
+      },
+      {
+        "key": "974_CR81",
+        "author": "B Holland",
+        "first-page": "165",
+        "year": "2003",
+        "unstructured": "Holland B, Moulton V. Consensus networks: a method for visualising incompatibilities in collections of trees. In: Benson G, Page R, editors. Algorithms in Bioinformatics: Third International Workshop, WABI, Budapest, Hungary Proceedings, vol. 2812. Berlin: Stuttgart: Springer Verlag; 2003. p. 165–76.",
+        "volume-title": "Algorithms in Bioinformatics: Third International Workshop, WABI, Budapest, Hungary Proceedings",
+        "DOI": "10.1007/978-3-540-39763-2_13",
+        "doi-asserted-by": "crossref"
+      },
+      {
+        "key": "974_CR82",
+        "unstructured": "Schliep K, Potts AJ, Morrison DA, Grimm GW. Intertwining phylogenetic trees and networks. Methods Evol Evol. 2017. doi:\n10.1111/2041-210X.12760\n\n.",
+        "DOI": "10.1111/2041-210X.12760",
+        "doi-asserted-by": "publisher"
+      },
+      {
+        "issue": "1",
+        "key": "974_CR83",
+        "doi-asserted-by": "crossref",
+        "first-page": "68",
+        "DOI": "10.1093/bioinformatics/14.1.68",
+        "volume": "14",
+        "author": "DH Huson",
+        "year": "1998",
+        "unstructured": "Huson DH. SplitsTree: analyzing and visualizing evolutionary data. Bioinformatics. 1998;14(1):68–73.",
+        "journal-title": "Bioinformatics"
+      },
+      {
+        "issue": "2",
+        "key": "974_CR84",
+        "doi-asserted-by": "crossref",
+        "first-page": "254",
+        "DOI": "10.1093/molbev/msj030",
+        "volume": "23",
+        "author": "DH Huson",
+        "year": "2006",
+        "unstructured": "Huson DH, Bryant D. Application of phylogenetic networks in evolutionary studies. Mol Biol Evol. 2006;23(2):254–67.",
+        "journal-title": "Mol Biol Evol"
+      },
+      {
+        "key": "974_CR85",
+        "unstructured": "Huson DH, Dezulian T, Rausch C, Richter D, Rupp R. Dendroscope: visualization of large trees. Tübingen: University of Tübingen, ZBIT, Department Algorithms in Bioinformatics; 2007."
+      },
+      {
+        "key": "974_CR86",
+        "doi-asserted-by": "crossref",
+        "first-page": "1061",
+        "DOI": "10.1093/sysbio/sys062",
+        "volume": "61",
+        "author": "DH Huson",
+        "year": "2012",
+        "unstructured": "Huson DH, Scornavacca C. Dendroscope 3: an interactive tool for rooted phylogenetic trees and networks. Syst Biol. 2012;61:1061–7.",
+        "journal-title": "Syst Biol"
+      },
+      {
+        "key": "974_CR87",
+        "doi-asserted-by": "crossref",
+        "first-page": "37",
+        "DOI": "10.1093/oxfordjournals.molbev.a026036",
+        "volume": "16",
+        "author": "H-J Bandelt",
+        "year": "1999",
+        "unstructured": "Bandelt H-J, Forster P, Röhl A. Median-joining networks for inferring intraspecific phylogenies. Mol Biol Evol. 1999;16:37–48.",
+        "journal-title": "Mol Biol Evol"
+      },
+      {
+        "key": "974_CR88",
+        "first-page": "743",
+        "volume": "141",
+        "author": "H-J Bandelt",
+        "year": "1995",
+        "unstructured": "Bandelt H-J, Forster P, Sykes BC, Richards MB. Mitochondrial portraits of human populations using median networks. Genetics. 1995;141:743–53.",
+        "journal-title": "Genetics"
+      },
+      {
+        "key": "974_CR89",
+        "first-page": "134",
+        "volume": "59",
+        "author": "GW Grimm",
+        "year": "2010",
+        "unstructured": "Grimm GW, Denk T. The reticulate origin of modern plane trees (Platanus, Platanaceae) - a nuclear marker puzzle. Taxon. 2010;59:134–47.",
+        "journal-title": "Taxon"
+      },
+      {
+        "key": "974_CR90",
+        "doi-asserted-by": "crossref",
+        "first-page": "1081",
+        "DOI": "10.1111/jbi.12276",
+        "volume": "41",
+        "author": "C Christe",
+        "year": "2014",
+        "unstructured": "Christe C, Kozlowski G, Frey D, Bétrisey S, Maharramova E, Garfi G, et al. Footprints of past intensive diversification and structuring in the genus Zelkova (Ulmaceae) in south-western Eurasia. J Biogeogr. 2014;41:1081–93.",
+        "journal-title": "J Biogeogr"
+      },
+      {
+        "key": "974_CR91",
+        "unstructured": "Swofford DL: PAUP*: Phylogenetic Analysis Using Parsimony (and Other Methods). Sunderland: Sinauer Associates; 2002."
+      },
+      {
+        "key": "974_CR92",
+        "unstructured": "Pelser PB, Barcelona JF, Nickrent DL. Co's Digital Flora of the Philippines. 2011 onwards. \nwww.philippineplants.org\n\n."
+      }
+    ],
+    "container-title": [
+      "BMC Evolutionary Biology"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+      {
+        "URL": "http://link.springer.com/content/pdf/10.1186/s12862-017-0974-3.pdf",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2018,
+          5,
+          18
+        ]
+      ],
+      "date-time": "2018-05-18T15:27:50Z",
+      "timestamp": 1526657270000
+    },
+    "score": 1,
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2017,
+          6,
+          7
+        ]
+      ]
+    },
+    "references-count": 92,
+    "journal-issue": {
+      "published-print": {
+        "date-parts": [
+          [
+            2017,
+            12
+          ]
+        ]
+      },
+      "issue": "1"
+    },
+    "alternative-id": [
+      "974"
+    ],
+    "URL": "http://dx.doi.org/10.1186/s12862-017-0974-3",
+    "relation": {
+      "cites": []
+    },
+    "ISSN": [
+      "1471-2148"
+    ],
+    "issn-type": [
+      {
+        "value": "1471-2148",
+        "type": "electronic"
+      }
+    ],
+    "article-number": "131"
+  },
+  "links": [
+    "https://orcid.org/0000-0003-2707-0335"
+  ]
+}	
+}
+
+-->			
+			
+			<br />
+			<button onclick="convert()">Convert JSON to RDF</button>
+	</div>
+	<div style="clear:both;"></div>
+	
+	<div style="width:100%;">
+		<h2>Triples</h2>
+		<div id="output" style="width:100%;background-color:#FF7;color:#222;overflow:auto;"></div>
+		<h2>Graph</h2>
+		<div id="graph" style="width:100%;overflow:auto;"></div>
+		<h2>JSON-LD</h2>
+		<div id="jsonld" style="width:100%;white-space:pre;background-color:#333;color:white;overflow:auto;"></div>
+
+</div>			
+			
+		
+		
+		
+<script>
+	
+//----------------------------------------------------------------------------------------
+// START COUCHDB VIEW
+function message(doc) {
+  if (doc.message) {
+
+    var subject_id = '';
+    
+    if (subject_id == '')
+    {
+		if (doc.message.DOI) {    	
+			subject_id = 'https://doi.org/' + doc.message.DOI.toLowerCase();
+		}
+	}
+
+    if (subject_id == '')
+    {
+		if (doc.message.URL) {    	
+			subject_id = doc.message.URL;
+		}
+	}
+    
+    var triples = [];
+    var type = '';
+    
+    // handle multilingual keys first so we don't duplicate them
+    
+    // title -----------------------------------------------------------------------------
+    var have_title = false;
+    if (doc.message.multi) {
+    	if (doc.message.multi._key['title']) {
+    		have_title = true;
+    		for (var k in doc.message.multi._key['title']) {
+    			triples.push(triple(subject_id,
+						'http://schema.org/name',
+						doc.message.multi._key['title'][k], k));
+    		}    	
+    	}
+    }
+    
+    if (!have_title) {
+    	if (doc.message.title) {
+    	  have_title = true;
+          if (Array.isArray(doc.message.title)) {
+            for (var j in doc.message.title) {
+
+              var lang = detect_language(doc.message.title[j]);
+
+              triples.push(triple(subject_id,
+                'http://schema.org/name',
+                doc.message.title[j], lang));
+            }
+          } else {
+            triples.push(triple(subject_id,
+              'http://schema.org/name',
+              doc.message.title));
+          }
+        }
+    }
+ 
+    // abstract --------------------------------------------------------------------------
+    var have_abstract = false;
+    if (doc.message.multi) {
+    	if (doc.message.multi._key['abstract']) {
+    		have_abstract = true;
+    		for (var k in doc.message.multi._key['abstract']) {
+    			triples.push(triple(subject_id,
+						'http://schema.org/description',
+						doc.message.multi._key['abstract'][k], k));
+    		}    	
+    	}
+    }
+    
+    if (!have_abstract) {
+    	if (doc.message['abstract']) {
+    		have_abstract = true;
+            triples.push(triple(subject_id,
+              'http://schema.org/description',
+              doc.message['abstract']));
+        }
+    }
+ 	
+	
+    // container -------------------------------------------------------------------------
+    var container_id = '';    
+       
+    if (doc.message.ISSN) {
+    	container_id = 'http://worldcat.org/issn/' + doc.message.ISSN[0];
+    	
+	  triples.push(triple(container_id,
+		'http://www.w3.org/1999/02/22-rdf-syntax-ns#type',
+		'http://schema.org/Periodical'));
+    	
+    } else {
+    	container_id = $subject_id + '#container';
+    }
+    
+    
+    if (container_id != '') {
+    	triples.push(triple(subject_id,
+              'http://schema.org/isPartOf',
+              container_id));
+              
+        var have_container_title = false;      
+           
+          
+		if (doc.message.multi) {
+			if (doc.message.multi._key['container-title']) {
+				have_container_title = true;
+				for (var k in doc.message.multi._key['container-title']) {
+					triples.push(triple(container_id,
+							'http://schema.org/name',
+							doc.message.multi._key['container-title'][k], k));
+				}    	
+			}
+		}
+	    
+		if (!have_container_title) {
+			if (doc.message['container-title']) {
+				have_container_title = true;
+				
+				if (Array.isArray(doc.message['container-title'])) {
+           			for (var j in doc.message['container-title']) {
+ 	          			triples.push(triple(container_id,
+						  'http://schema.org/name',
+						  doc.message['container-title'][j]));  
+           			}
+           		} else {
+					triples.push(triple(container_id,
+					  'http://schema.org/name',
+					  doc.message['container-title']));           		
+           		}
+			}
+		} 
+		            
+    }
+
+    for (var i in doc.message) {
+      switch (i) {
+      
+      	// identifiers
+        case 'DOI':
+      		var identifier_id = subject_id + '#doi';
+      		
+      		triples.push(triple(subject_id,
+              'http://schema.org/identifier',
+              identifier_id));
+
+      		triples.push(triple(identifier_id,
+              'http://www.w3.org/1999/02/22-rdf-syntax-ns#type',
+              'http://schema.org/PropertyValue'));
+
+      		triples.push(triple(identifier_id,
+              'http://schema.org/propertyID',
+              'doi'));
+ 
+      		triples.push(triple(identifier_id,
+              'http://schema.org/value',
+              doc.message[i].toLowerCase()));
+			break;   
+			
+		// Handle, JSTOR, etc.   
+
+/*
+        case 'DOI':
+          triples.push(triple(subject_id,
+            'http://schema.org/identifier',
+            'http://identifiers.org/doi/' + doc.message[i].toLowerCase()));
+          break;
+
+        case 'URL':
+          triples.push(triple(subject_id,
+            'http://schema.org/url',
+            doc.message[i]));
+          break;
+          
+        case 'alternative-id':
+			for (var j in doc.message[i]) {
+			  triples.push(triple(subject_id,
+				'http://schema.org/identifier',
+				doc.message[i][j]));
+			}
+			break;  
+*/			    
+			
+		case 'type':
+			switch (doc.message[i]) {
+			  case 'article-journal':
+			  case 'journal-article':
+			    type = 'http://schema.org/ScholarlyArticle';
+				break;
+			  default:
+				break;
+			}
+			break;
+
+			// article metadata
+		  case 'issue':
+			triples.push(triple(subject_id,
+			  'http://schema.org/issueNumber',
+			  doc.message[i]));
+			break;
+
+		  case 'pages':
+			triples.push(triple(subject_id,
+			  'http://schema.org/pagination',
+			  doc.message[i]));
+			break;
+
+		  case 'volume':
+			triples.push(triple(subject_id,
+			  'http://schema.org/volumeNumber',
+			  doc.message[i]));
+			break;
+		
+		  case 'page':
+			var parts = doc.message[i].match(/^(.*)\-(.*)$/);
+			if (parts) {
+			  triples.push(triple(subject_id,
+				'http://schema.org/pageStart',
+				parts[1]));
+			  triples.push(triple(subject_id,
+				'http://schema.org/pageEnd',
+				parts[2]));
+			} else {
+			  triples.push(triple(subject_id,
+				'http://schema.org/pagination',
+				doc.message[i]));
+			}
+			break;
+		
+	  case 'issued':
+	     var date = '';
+	     var dateparts = doc.message[i]['date-parts'][0];
+	     
+	     switch (dateparts.length) {
+	        case 1:
+	           date = dateparts[0];
+	           break;
+	        case 2:
+	           date = dateparts[0] + '-' + ("00" + dateparts[1]).slice(-2) + '-00';
+	           break;
+	        case 3:
+	           date = dateparts[0] + '-' + ("00" + dateparts[1]).slice(-2) + '-' + ("00" + dateparts[2]).slice(-2);	           
+	           break;
+	        default:
+	        	break;
+	    }
+	    triples.push(triple(subject_id,
+          'http://schema.org/datePublished',
+          date.toString()));	    
+	    break;
+                   
+			// tags
+		  case 'subject':
+			for (var j in doc.message[i]) {
+			  triples.push(triple(subject_id,
+				'http://schema.org/keywords',
+				doc.message[i][j]));
+			}
+			break;
+			
+			// license
+		  case 'license':
+			for (var j in doc.message[i]) {
+			  if (doc.message[i][j].URL) {
+				triples.push(triple(subject_id,
+				  'http://schema.org/license',
+				  doc.message[i][j].URL));
+			  }
+			}
+			break;
+			
+			// publisher
+			// should this be linked to journal rather than article?
+			// should this be an object rather than a string?
+		  case 'publisher':
+			triples.push(triple(subject_id,
+			  'http://schema.org/publisher',
+			  doc.message[i]));
+			break;
+			
+		  case 'ISSN':
+			  // ISSNs
+			for (var j in doc.message[i]) {
+			  // issn
+			  triples.push(triple(container_id,
+				'http://schema.org/issn',
+				doc.message[i][j]));
+			}
+			break;
+						
+			// authors (may include ORCIDs or possibly other identifiers)
+			// create an identifier to make this addressable
+		  case 'author':
+			var n = doc.message[i].length;
+						
+			for (var j = 0; j < n; j++) {
+				var index = parseInt(j) + 1;
+            	var role_id    = subject_id + '#role/' + index;            	
+            	var creator_id = subject_id + '#creator/' + index;
+            	
+            	// role
+				triples.push(triple(
+					subject_id,
+					'http://schema.org/creator',
+					role_id)
+					);
+
+				triples.push(triple(
+					role_id,
+					'http://www.w3.org/1999/02/22-rdf-syntax-ns#type',
+					'http://schema.org/Role')
+					);
+
+				triples.push(triple(
+					role_id,
+					'http://schema.org/roleName',
+					String(index)
+					));
+
+				triples.push(triple(
+					role_id,
+					'http://schema.org/creator',
+					creator_id
+					));            	
+				
+				 // creator 
+				
+				  // type, need to handle organisations as authors
+				  triples.push(triple(
+					creator_id,
+					'http://www.w3.org/1999/02/22-rdf-syntax-ns#type',
+					'http://schema.org/Person'));
+								
+				  // name, which may be multilingual                
+					if (doc.message[i][j]['multi']) {
+					  if (doc.message[i][j]['multi']._key['literal']) {
+						for (var k in doc.message[i][j]['multi']._key['literal']) {				  
+						  triples.push(triple(creator_id,
+							'http://schema.org/name',
+							doc.message[i][j]['multi']._key['literal'][k], k));  
+						}
+					  }
+					} else {
+						// one or more strings
+						
+					   var person_name;
+						if (doc.message[i][j].literal) {
+						  person_name = doc.message[i][j].literal;
+						} else {
+						  var parts = [];
+						  if (doc.message[i][j].given) {
+							parts.push(doc.message[i][j].given); 
+							
+							triples.push(triple(creator_id,
+				  				'http://schema.org/givenName', // ?
+				  				doc.message[i][j].given));
+														
+						  }
+						  if (doc.message[i][j].family) {
+							parts.push(doc.message[i][j].family); 
+							
+							triples.push(triple(creator_id,
+				  				'http://schema.org/familyName', // ?
+				  				doc.message[i][j].family));
+							
+						  }
+						  person_name = parts.join(' ');
+						}
+
+					  triples.push(triple(
+						creator_id,
+						'http://schema.org/name',
+						person_name));						
+					
+					} 
+					
+					// identifier(s)
+					if (doc.message[i][j].ORCID) {
+						var identifier_id = creator_id + '-orcid';
+	           			var orcid = doc.message[i][j].ORCID;
+            			orcid = orcid.replace(/https?:\/\/orcid.org\//, '');
+            			
+						triples.push(triple(
+						  creator_id,
+						  'http://schema.org/identifier',
+						  identifier_id));
+						
+						triples.push(triple(
+						  identifier_id,
+						  'http://www.w3.org/1999/02/22-rdf-syntax-ns#type',
+						  'http://schema.org/PropertyValue'));
+
+						triples.push(triple(
+						  identifier_id,
+						  'http://schema.org/propertyID',
+						  'orcid'));
+
+						triples.push(triple(
+						  identifier_id,
+						  'http://schema.org/value',
+						  orcid
+						));                          			            			
+            		}
+	
+			}
+			break;	
+				
+			
+          /*
+			// funding
+		  case 'funder':
+			var n = doc.message[i].length;
+			for (var j = 0; j < n; j++) {
+			  var funder_id = '';
+
+			  // create identifier for funder
+			  if (doc.message[i][j].DOI) {
+				funder_id = 'http://identifiers.org/doi/' + doc.message[i][j].DOI;
+			  } else {
+				// #hash identifier 
+				funder_id = subject_id + '#funder_' + (j + 1);
+			  }
+
+			  // create funder 
+			  triples.push(triple(funder_id,
+				'http://www.w3.org/1999/02/22-rdf-syntax-ns#type',
+				'http://schema.org/Organisation'));
+
+			  triples.push(triple(funder_id,
+				'http://schema.org/name',
+				doc.message[i][j].name));
+
+			  // role
+			  var m = doc.message[i][j].award.length;
+
+			  if (m == 0) {
+				// funder but award not known
+				var award_id = funder_id + '/award';
+
+				triples.push(triple(award_id,
+				  'http://www.w3.org/1999/02/22-rdf-syntax-ns#type',
+				  'http://schema.org/Role'));
+
+				// link to funder 
+				triples.push(triple(award_id,
+				  'http://schema.org/funder',
+				  funder_id));
+
+				// link role to work         
+				triples.push(triple(subject_id,
+				  'http://schema.org/funder',
+				  award_id));
+			  } else {
+				// we have one or more awards
+				for (var a = 0; a < m; a++) {
+				  var award_id = funder_id + '/award_' + (a+1);
+
+				  triples.push(triple(award_id,
+					'http://www.w3.org/1999/02/22-rdf-syntax-ns#type',
+					'http://schema.org/Role'));
+
+				  triples.push(triple(award_id,
+					'http://schema.org/roleName',
+					doc.message[i][j].award[a]
+				  ));
+
+				  // link to funder 
+				  triples.push(triple(award_id,
+					'http://schema.org/funder',
+					funder_id));
+
+				  // link role to work         
+				  triples.push(triple(subject_id,
+					'http://schema.org/funder',
+					award_id));
+				}
+			  }
+			}
+			break;
+			*/
+			
+			/*
+
+			// links to representions such as PDFs, XML, HTML, etc.
+			// may be links to text mining sources
+		  case 'link':
+			var n = doc.message[i].length;
+			for (var j = 0; j < n; j++) {
+			  var link_id = subject_id + '#link_' + (j + 1);
+
+			  // type
+			  triples.push(triple(link_id,
+				'http://www.w3.org/1999/02/22-rdf-syntax-ns#type',
+				'http://schema.org/CreativeWork'));
+
+			  if (doc.message[i][j].URL) {
+				triples.push(triple(link_id,
+				  'http://schema.org/url',
+				  doc.message[i][j].URL));
+
+				if (doc.message[i][j]['content-type']) {
+				  triples.push(triple(link_id,
+					'http://schema.org/fileFormat',
+					doc.message[i][j]['content-type']));
+				}
+
+				// link to work
+				triples.push(triple(subject_id,
+				  'http://schema.org/workExample',
+				  link_id));
+			  }
+			}
+			break;
+			
+		*/
+
+
+/*
+      "reference": [
+           {
+               "key": "11192_B1",
+               "first-page": "119",
+               "article-title": "Pseudocrangonyx, a new genus of subterranean amphipods from Japan.",
+               "volume": "10",
+               "author": "Akatsuka",
+               "year": "1922",
+               "journal-title": "Annotationes Zoologicae Japonenses"
+           },
+ */
+ 
+ 
+ 		  case 'reference':
+			var n = doc.message[i].length;
+			for (var j = 0; j < n; j++) {
+			  
+			  // use key as identifier, but clean first
+			  var key = doc.message[i][j].key;
+			  
+                key = key.replace(/\t/g, '');
+                key = key.replace(/\n/g, '');
+
+                // replace characters not allowed
+                key = key.replace(/\|/g, '-');
+                key = key.replace(/\//g, '-');
+                key = key.replace(/\./g, '-');
+                key = key.replace(/\s/g, '-');
+	
+			
+			  var reference_id = subject_id + '#' + key;
+			  
+ 				// link to work
+				triples.push(triple(subject_id,
+				  'http://schema.org/citation',
+				  reference_id));
+			  
+			  // type
+			  triples.push(triple(reference_id,
+				'http://www.w3.org/1999/02/22-rdf-syntax-ns#type',
+				'http://schema.org/CreativeWork'));
+
+
+               // DOI?
+               if (doc.message[i][j].DOI) {
+ 				  // DOI cleaning (sigh)
+				  /* Sometimes publishes make a mess of this, e.g. 
+				  http://dx.doi.org/10.1111/j.1096-0031.2007.00176.x
+				  {
+					key: "b129_103",
+					DOI: "10.1636/H05-14 SC.1",
+					doi-asserted-by: "publisher"
+				  }
+				  */
+				  var doi = doc.message[i][j].DOI;
+				  doi = doi.replace(/sc.1?/g, '');
+				  doi = doi.replace(/\s/g, ''); 
+				  doi = doi.toLowerCase(); 
+				  
+                 var identifier_id = reference_id + '#doi';
+                              
+				  triples.push(triple(reference_id,
+					'http://schema.org/identifier',
+					identifier_id));
+					
+				 triples.push(triple(identifier_id,
+					'http://www.w3.org/1999/02/22-rdf-syntax-ns#type',
+					'http://schema.org/PropertyValue'));
+
+				  triples.push(triple(identifier_id,
+					'http://schema.org/propertyID',
+					'doi'));
+
+				  triples.push(triple(identifier_id,
+					'http://schema.org/value',
+					doc.message[i][j].DOI.toLowerCase()
+				  ));
+				              
+				  
+					
+				 			  						
+				}  
+				
+				// unstructured?
+                if (doc.message[i][j].unstructured) {
+                	var text = doc.message[i][j].unstructured;
+                	text = text.replace(/\n/g, '');
+				  triples.push(triple(reference_id,
+					'http://schema.org/description',
+					text
+					));
+				}               
+				
+				// metadata
+               if (doc.message[i][j].author) {
+				  triples.push(triple(reference_id,
+					'http://schema.org/creator',
+					doc.message[i][j].author));
+				}               
+				
+				
+               if (doc.message[i][j]['article-title']) {
+				  triples.push(triple(reference_id,
+					'http://schema.org/name',
+					doc.message[i][j]['article-title']));
+				}               
+				
+               if (doc.message[i][j]['journal-title']) {
+               		var container_id = reference_id + '-container';
+               		
+  				  triples.push(triple(reference_id,
+					'http://schema.org/isPartOf',
+					container_id));
+
+ 				  triples.push(triple(container_id,
+					'http://schema.org/name',
+					doc.message[i][j]['journal-title']
+					));
+				} 
+				 
+                if (doc.message[i][j].volume) {
+				  triples.push(triple(reference_id,
+					'http://schema.org/volumeNumber',
+					doc.message[i][j].volume));
+				} 
+				              				             
+               if (doc.message[i][j]['first-page']) {
+				  triples.push(triple(reference_id,
+					'http://schema.org/pageStart',
+					doc.message[i][j]['first-page']));
+				}  
+				             
+               if (doc.message[i][j].year) {
+               		var year = doc.message[i][j].year;
+                	year = year.replace(/[a-z]$/, '');
+				  triples.push(triple(reference_id,
+					'http://schema.org/datePublished',
+					year));
+				}               
+				             
+			  }
+			
+			break;
+  
+			
+
+        default:
+          break;
+      }
+    }
+
+    if (type == '') {
+      type = 'http://schema.org/CreativeWork';
+    }
+    
+
+    // defaults
+    triples.push(triple(subject_id,
+      'http://www.w3.org/1999/02/22-rdf-syntax-ns#type',
+      type));
+
+    output(doc, triples);
+  }
+}
+
+function couchdb(doc) {
+  if (doc['message-format']) {
+    if (doc['message-format'] == 'application/vnd.crossref-api-message+json') {
+      message(doc);
+    }
+  }
+}
+// END COUCHDB VIEW
+
+		
+//----------------------------------------------------------------------------------------
+function convert() {
+	var json = $('#json').val();
+	var doc = JSON.parse(json);
+	
+	console.log(JSON.stringify(doc, null, 2));
+	
+	couchdb(doc);
+}
+
+	
+	</script>		
+			
+
+</div>
+</body>
+</html>			
