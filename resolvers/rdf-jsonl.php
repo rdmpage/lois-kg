@@ -98,7 +98,10 @@ function rdf_to_triples($xml, $url = '')
 	
 	if (0)
 	{
+		echo "bnodes\n";
+		print_r($bnodes);
 		print_r($cleaned_triples);
+		
 	}
 	
 	$nt = $parser->toNTriples($cleaned_triples);
@@ -200,7 +203,7 @@ function indexfungorum_lsid($lsid, $cache_dir = '', $format = 'jsonld')
 			//echo $xml;
 		
 			// convert
-			$nt = rdf_to_triples($xml);
+			$nt = rdf_to_triples($xml, $lsid);
 			
 			if ($format == 'jsonld')
 			{
@@ -767,9 +770,9 @@ function resolve_url($url, $caches = null, $format='jsonld')
 	// Import RDF XML and convert to JSON-LD
 	if (!$done)
 	{
-		if (preg_match('/urn:lsid:indexfungorum.org:names:/', $url, $format))
+		if (preg_match('/urn:lsid:indexfungorum.org:names:/', $url))
 		{
-			$data = indexfungorum_lsid($url, $caches['indexfungorum']);
+			$data = indexfungorum_lsid($url, $caches['indexfungorum'], $format);
 
 			if ($data)
 			{

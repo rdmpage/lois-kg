@@ -1,0 +1,44 @@
+<urn:lsid:indexfungorum.org:names:553579> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rs.tdwg.org/ontology/voc/TaxonName#TaxonName> .
+<urn:lsid:indexfungorum.org:names:553579> <http://purl.org/dc/elements/1.1/title> "Taphrina veronaerambellii (Á. Fonseca, J. Inácio & M.G. Rodrigues) Selbmann & Cecchini2017" .
+<urn:lsid:indexfungorum.org:names:553579> <http://www.w3.org/2002/07/owl#versionInfo> "1.1.2.1" .
+<urn:lsid:indexfungorum.org:names:553579> <http://rs.tdwg.org/ontology/voc/TaxonName#nameComplete> "Taphrina veronaerambellii" .
+<urn:lsid:indexfungorum.org:names:553579> <http://rs.tdwg.org/ontology/voc/TaxonName#genusPart> "Taphrina" .
+<urn:lsid:indexfungorum.org:names:553579> <http://rs.tdwg.org/ontology/voc/TaxonName#specificEpithet> "veronaerambellii" .
+<urn:lsid:indexfungorum.org:names:553579> <http://rs.tdwg.org/ontology/voc/TaxonName#authorship> "(Á. Fonseca, J. Inácio & M.G. Rodrigues) Selbmann & Cecchini" .
+<urn:lsid:indexfungorum.org:names:553579> <http://rs.tdwg.org/ontology/voc/TaxonName#basionymAuthorship> "Á. Fonseca, J. Inácio & M.G. Rodrigues" .
+<urn:lsid:indexfungorum.org:names:553579> <http://rs.tdwg.org/ontology/voc/TaxonName#combinationAuthorship> "Selbmann & Cecchini" .
+<urn:lsid:indexfungorum.org:names:553579> <http://rs.tdwg.org/ontology/voc/TaxonName#year> "2017" .
+<urn:lsid:indexfungorum.org:names:553579> <http://rs.tdwg.org/ontology/voc/TaxonName#microReference> "10.1007/s13225-017-0386-0, [462]" .
+<urn:lsid:indexfungorum.org:names:553579> <http://rs.tdwg.org/ontology/voc/Common#publishedInCitation> <urn:lsid:indexfungorum.org:names:553579#1> .
+<urn:lsid:indexfungorum.org:names:553579> <http://rs.tdwg.org/ontology/voc/TaxonName#rankString> "sp." .
+<urn:lsid:indexfungorum.org:names:553579> <http://rs.tdwg.org/ontology/voc/TaxonName#nomenclaturalCode> <http://rs.tdwg.org/ontology/voc/TaxonName#ICBN> .
+<urn:lsid:indexfungorum.org:names:553579> <http://rs.tdwg.org/ontology/voc/TaxonName#hasBasionym> <urn:lsid:indexfungorum.org:names:368566> .
+<urn:lsid:indexfungorum.org:names:553579#1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rs.tdwg.org/ontology/voc/PublicationCitation#PublicationCitation> .
+<urn:lsid:indexfungorum.org:names:553579#1> <http://rs.tdwg.org/ontology/voc/PublicationCitation#year> "2017" .
+<urn:lsid:indexfungorum.org:names:553579#1> <http://rs.tdwg.org/ontology/voc/PublicationCitation#title> "Fungal Diversity" .
+<urn:lsid:indexfungorum.org:names:553579#1> <http://rs.tdwg.org/ontology/voc/PublicationCitation#pages> "10.1007/s13225-017-0386-0, [462]" .
+<http://rs.tdwg.org/ontology/voc/TaxonName#ICBN> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rs.tdwg.org/ontology/voc/TaxonName#NomenclaturalCodeTerm> .
+<urn:lsid:indexfungorum.org:names:368566> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rs.tdwg.org/ontology/voc/TaxonName#TaxonName> .
+
+<urn:lsid:indexfungorum.org:names:368566> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rs.tdwg.org/ontology/voc/TaxonName#TaxonName> .
+<urn:lsid:indexfungorum.org:names:368566> <http://purl.org/dc/elements/1.1/title> "Lalaria veronaerambellii Á. Fonseca, J. Inácio & M.G. Rodrigues 2004" .
+<urn:lsid:indexfungorum.org:names:368566> <http://www.w3.org/2002/07/owl#versionInfo> "1.1.2.1" .
+<urn:lsid:indexfungorum.org:names:368566> <http://rs.tdwg.org/ontology/voc/TaxonName#nameComplete> "Lalaria veronaerambellii" .
+<urn:lsid:indexfungorum.org:names:368566> <http://rs.tdwg.org/ontology/voc/TaxonName#genusPart> "Lalaria" .
+<urn:lsid:indexfungorum.org:names:368566> <http://rs.tdwg.org/ontology/voc/TaxonName#specificEpithet> "veronaerambellii" .
+<urn:lsid:indexfungorum.org:names:368566> <http://rs.tdwg.org/ontology/voc/TaxonName#authorship> "Á. Fonseca, J. Inácio & M.G. Rodrigues" .
+<urn:lsid:indexfungorum.org:names:368566> <http://rs.tdwg.org/ontology/voc/TaxonName#basionymAuthorship> "Á. Fonseca, J. Inácio & M.G. Rodrigues" .
+<urn:lsid:indexfungorum.org:names:368566> <http://rs.tdwg.org/ontology/voc/TaxonName#year> "2004" .
+<urn:lsid:indexfungorum.org:names:368566> <http://rs.tdwg.org/ontology/voc/Common#publishedIn> "FEMS Yeast Res. 4(4-5): 553 (2004)" .
+<urn:lsid:indexfungorum.org:names:368566> <http://rs.tdwg.org/ontology/voc/TaxonName#publication> <urn:lsid:indexfungorum.org:names:368566#1> .
+<urn:lsid:indexfungorum.org:names:368566> <http://rs.tdwg.org/ontology/voc/TaxonName#rankString> "sp." .
+<urn:lsid:indexfungorum.org:names:368566> <http://rs.tdwg.org/ontology/voc/TaxonName#nomenclaturalCode> <http://rs.tdwg.org/ontology/voc/TaxonName#ICBN> .
+<urn:lsid:indexfungorum.org:names:368566#1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rs.tdwg.org/ontology/voc/PublicationCitation#PublicationCitation> .
+<urn:lsid:indexfungorum.org:names:368566#1> <http://purl.org/dc/elements/1.1/identifier> "100471" .
+<urn:lsid:indexfungorum.org:names:368566#1> <http://rs.tdwg.org/ontology/voc/PublicationCitation#year> "2004" .
+<urn:lsid:indexfungorum.org:names:368566#1> <http://rs.tdwg.org/ontology/voc/PublicationCitation#title> "FEMS Yeast Res." .
+<urn:lsid:indexfungorum.org:names:368566#1> <http://rs.tdwg.org/ontology/voc/PublicationCitation#volume> "4" .
+<urn:lsid:indexfungorum.org:names:368566#1> <http://rs.tdwg.org/ontology/voc/PublicationCitation#number> "4-5" .
+<urn:lsid:indexfungorum.org:names:368566#1> <http://rs.tdwg.org/ontology/voc/PublicationCitation#pages> "553" .
+<http://rs.tdwg.org/ontology/voc/TaxonName#ICBN> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rs.tdwg.org/ontology/voc/TaxonName#NomenclaturalCodeTerm> .
+
