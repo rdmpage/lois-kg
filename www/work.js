@@ -270,7 +270,7 @@ item = data;
 
 <% if (item.description) { %>	
 	<h2>Abstract</h2>
-	<%= get_literal(item.description) %>
+	<%- get_literal(item.description) %>
 <%} %>
 </div> 
 
