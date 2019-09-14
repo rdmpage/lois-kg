@@ -128,9 +128,7 @@ item = data;
 
 <!-- container -->
 <% if (item.isPartOf) {%>
-	<u>
-		<%= get_literal(item.isPartOf.name) %>
-	</u>
+	<%= get_literal(item.isPartOf.name) %>
 <% } %>
 
 <!-- date -->
@@ -191,18 +189,18 @@ item = data;
 			    	}
 			    }
 			    		
-				string += '<u>' + get_literal(item.creator[i].creator[0].name) + '</u>';
+				string += get_literal(item.creator[i].creator[0].name);
 				authors.push(string);
 			}
 
 			// person
 			if (item.creator[i]['@type'] == 'Person') { 
-			    var string = '<u>' + get_literal(item.creator[i].name) + '</u>';
+			    var string = get_literal(item.creator[i].name);
 				authors.push(string);
 			}
 		
 		}
-		var author_string = authors.join(', ');
+		var author_string = authors.join('; ');
 		%>
 		<%- author_string %>
 		<%  
@@ -215,15 +213,25 @@ item = data;
 <div>
 
 <% if (item.keywords) {
-	var keywords = [];
+
+	var keywords_string = '';
+	
+	if (typeof item.keywords === 'string') {
+		keywords_string = item.keywords ;
+	}
+	
+	if (Array.isArray(item.keywords )) {
+		var keywords = [];
 		for (var i in item.keywords) {
 			keywords.push(item.keywords[i]);
 		}
-		var keywords_string = keywords.join('; ');
-		%>
-		<b>KEYWORDS:</b>
-		<%- keywords_string %>
-		<%  
+		keywords_string = keywords.join('; ');
+	}
+	%>
+	
+	<spanclass="heading">KEYWORDS:</span>
+	<%- keywords_string %>
+	<%  
 } %>
 </div>
 
@@ -269,7 +277,7 @@ item = data;
 <div>
 
 <% if (item.description) { %>	
-	<h2>Abstract</h2>
+	<span class="heading">Abstract</span>
 	<%- get_literal(item.description) %>
 <%} %>
 </div> 
