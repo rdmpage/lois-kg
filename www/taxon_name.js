@@ -211,7 +211,7 @@ item = data;
 <!-- publishedIn -->
 <div>
 	<% if (item['tcom:publishedIn']) {  %>
-		Published in:
+		<span class="heading">Published in</span>
 		<%= get_literal(item['tcom:publishedIn']) %>
 
 		<% if (item['tcom:microreference']) { %>
@@ -231,7 +231,7 @@ item = data;
 <!-- need to handle native IF and my augmented versions -->
 <div>
 	<% if (item['tcom:publishedInCitation']) {  %>
-		Published in:
+		<span class="heading">Published in</span>
 		<%
 		// Index Fungorum
 		if (item['tcom:publishedInCitation']['@type'] 
@@ -269,7 +269,7 @@ item = data;
 <!-- identifiers -->
 <div>
 
-		LSID:
+		<span class="heading">Unique identifier</span>
 		<a href="http://www.lsid.info/<%=item['@id']%>">
 		<%= item['@id'] %>
 		</a>
@@ -281,14 +281,14 @@ item = data;
 <div>
 
 	<% if (item['dwc:nomenclaturalCode']) { %>
-		Code:
+		<span class="heading">Nomenclatural code</span>
 		<%= get_literal(item['dwc:nomenclaturalCode']) %>
 	<% } %>
 
 	<% if (item['tn:nomenclaturalCode']) { 
 		var code = item['tn:nomenclaturalCode']['@id'];
 		code = code.replace('tn:', ''); %>
-		Code:
+		<span class="heading">Nomenclatural code</span>
 		<%= code %>
 	<% } %>
 	
@@ -298,7 +298,7 @@ item = data;
 <!-- basionym -->
 <div>
 		<% if (item['tn:hasBasionym']) { %>
-			Basionym:
+			<span class="heading">Original combination</span>
 			<a href="?uri=<%= item['tn:hasBasionym']['@id'] %>">
 			<%= item['tn:hasBasionym']['dc:title'] %>
 			</a>
@@ -311,7 +311,7 @@ item = data;
 <div>
 
 		<% if (item['tn:typifiedBy']) { %>
-			Type(s):
+			<span class="heading">Types</span>
 			<ul>
 			<% for (var i in item['tn:typifiedBy']) { %>
 			
@@ -337,7 +337,7 @@ item = data;
 <div>
 
 	<% if (item['tc:hasInformation']) { %>
-	More information:
+	<span class="heading">More information</span>
 	<a href="<%= item['tc:hasInformation']['@id'] %>">
 	<%= item['tc:hasInformation']['@id'] %>
 	</a>

@@ -215,6 +215,9 @@ function render(template) {
   			text-decoration: none;
 		}
 		
+		/* heading */
+		.heading { font-weight:bold; }
+		
 	</style>
 ';
 
