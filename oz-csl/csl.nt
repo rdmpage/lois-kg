@@ -1357,16 +1357,451 @@
 <https://doi.org/10.1016/s1567-1356(03)00226-5> <http://schema.org/publisher> "Oxford University Press (OUP)" .
 <https://doi.org/10.1016/s1567-1356(03)00226-5> <http://schema.org/volumeNumber> "4" .
 <https://doi.org/10.1016/s1567-1356(03)00226-5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ScholarlyArticle> .
-<https://doi.org/10.1080/00837792.1905.10669551#creator/1> <http://schema.org/givenName> "ODOARDO" .
-<https://doi.org/10.1080/00837792.1905.10669551#creator/1> <http://schema.org/familyName> "BECCARI" .
-<https://doi.org/10.1080/00837792.1905.10669551#CIT0002> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
-<https://doi.org/10.1080/00837792.1905.10669551#CIT0002> <http://schema.org/description> "Nel mio scritto sui Trackycarpus (inserito in questo medesimo volume) nelle note anatomiche sul loro frutto ho inavvertentemente detto a pag. 70 che le masse cristalline contenute nelle cellule a coroncina esistenti aU'esterno dei fasci fibro-vascolari del frutto di T1. Martiana sonollidi ossalato di calce, mentre Ia!oro particolarita essenziale e d'essere silicee. A tale riguardo, oltre Ia Memoria di Licopoli citata, si veda anche quanto ha scritto R. F. Solla; sui «Cristalli di'silice in serie perifasciali nelle Palme», nel Nuovo Giom. bot. italiano, vol. XVI (1884), pag. so, ed in Wiesner, Elementi di Bot. scientijica, trad. italiana, vol. I, pag. 289." .
-<https://doi.org/10.1080/00837792.1905.10669551#CIT0001> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
-<https://doi.org/10.1080/00837792.1905.10669551#CIT0001> <http://schema.org/description> "Il materiale che mi ha servito per lo studio delle Palme papuane qui adesso per la prima volta descritte mi è stato in parte gentilmente comunicato dal prof. A. Engler, ed appartiene all'Erbario di Berlino; in parte fu a me donato varî anni addietro dal mio compianto amico il Barone Ferdinando von Mueller, al quale era stato comunicato da Sir William Mac Gregor, e proviene dalle esplorazioni di questi o da quelle eseguite dietro sua iniziativa; infine in parte è il frutto delle ricerche del dott. Lamberto Loria e del signor Amedeo Giulia-netti nelle vicinanze di Port Moresby e della catena centrale di montagne della Nuova Guinea inglese" .
-<http://worldcat.org/issn/0083-7792> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
-<http://worldcat.org/issn/0083-7792> <http://schema.org/name> "Webbia" .
-<http://worldcat.org/issn/0083-7792> <http://schema.org/issn> "2169-4060" .
+<https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref10> <http://schema.org/datePublished> "2003" .
+<https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref10> <http://schema.org/creator> "Elvebakk" .
+<https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref10-container> <http://schema.org/name> "Australasian Lichenologist" .
+<https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref10-container> <http://schema.org/issn> "1096-1135" .
+<https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref10-container> <http://schema.org/issn> "0024-2829" .
+<https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref1#doi> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref1#doi> <http://schema.org/value> "10.1016/j.ympev.2014.04.024" .
+<https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref1#doi> <http://schema.org/propertyID> "doi" .
+<http://worldcat.org/issn/0024-2829> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://worldcat.org/issn/0024-2829> <http://schema.org/name> "The Lichenologist" .
+<https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref10> <http://schema.org/isPartOf> <https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref10-container> .
+<https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref10> <http://schema.org/name> "Notes on the heterogeneous genus Psoroma s. lat. in New Zealand" .
+<https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref10> <http://schema.org/pageStart> "4" .
+<https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref10> <http://schema.org/volumeNumber> "53" .
+<https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref11#doi> <http://schema.org/propertyID> "doi" .
+<https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref11#doi> <http://schema.org/value> "10.1017/s0024282910000083" .
+<https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref11#doi> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref11> <http://schema.org/identifier> <https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref11#doi> .
+<https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref12#doi> <http://schema.org/propertyID> "doi" .
+<https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref12#doi> <http://schema.org/value> "10.1080/10635150390235520" .
+<https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref12#doi> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref12> <http://schema.org/identifier> <https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref12#doi> .
+<https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref13#doi> <http://schema.org/propertyID> "doi" .
+<https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref13#doi> <http://schema.org/value> "10.11646/phytotaxa.146.1.1" .
+<https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref13#doi> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref13> <http://schema.org/identifier> <https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref13#doi> .
+<https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref13> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref14-container> <http://schema.org/name> "Bulletin de la Societé Botanique de France" .
+<https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref14> <http://schema.org/creator> "Hue" .
+<https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref14> <http://schema.org/datePublished> "1902" .
+<https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref14> <http://schema.org/isPartOf> <https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref14-container> .
+<https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref14> <http://schema.org/name> "Causerie sur les Pannaria" .
+<https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref14> <http://schema.org/pageStart> "31" .
+<https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref14> <http://schema.org/volumeNumber> "48" .
+<https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref14> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref15-container> <http://schema.org/name> "Nouvelles Archives du Muséum d’Histoire Naturelle de Paris" .
+<https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref15> <http://schema.org/creator> "Hue" .
+<https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref15> <http://schema.org/datePublished> "1906" .
+<https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref15> <http://schema.org/isPartOf> <https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref15-container> .
+<https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref15> <http://schema.org/name> "Lichenes morphologice et anatomice disposuit" .
+<https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref15> <http://schema.org/pageStart> "237" .
+<https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref15> <http://schema.org/volumeNumber> "8" .
+<https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref15> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref16#doi> <http://schema.org/propertyID> "doi" .
+<https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref16#doi> <http://schema.org/value> "10.1017/s0024282975000199" .
+<https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref16#doi> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref16> <http://schema.org/identifier> <https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref16#doi> .
+<https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref16> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref17-container> <http://schema.org/name> "Australian Journal of Botany Supplementary Series" .
+<https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref17> <http://schema.org/creator> "Jørgensen" .
+<https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref17> <http://schema.org/datePublished> "1983" .
+<https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref17> <http://schema.org/isPartOf> <https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref17-container> .
+<https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref17> <http://schema.org/name> "Distribution patterns of lichens in the Pacific region" .
+<https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref17> <http://schema.org/pageStart> "43" .
+<https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref17> <http://schema.org/volumeNumber> "10" .
+<https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref17> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref18#doi> <http://schema.org/propertyID> "doi" .
+<https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref18#doi> <http://schema.org/value> "10.1639/0007-2745(2000)103[0670:sotlfp]2.0.co;2" .
+<https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref18#doi> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref18> <http://schema.org/identifier> <https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref18#doi> .
+<https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref18> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref19-container> <http://schema.org/name> "Ilicifolia" .
+<https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref19> <http://schema.org/creator> "Jørgensen" .
+<https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref19> <http://schema.org/datePublished> "2003" .
+<https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref19> <http://schema.org/isPartOf> <https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref19-container> .
+<https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref19> <http://schema.org/name> "Conspectus familiae Pannariaceae (Ascomycetes lichenosae)" .
+<https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref19> <http://schema.org/pageStart> "1" .
+<https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref19> <http://schema.org/volumeNumber> "4" .
+<https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref19> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref1> <http://schema.org/identifier> <https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref1#doi> .
+<https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref2#doi> <http://schema.org/propertyID> "doi" .
+<https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref2#doi> <http://schema.org/value> "10.1039/b203399b" .
+<https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref2#doi> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref20-container> <http://schema.org/name> "Australasian Lichenologist" .
+<https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref20> <http://schema.org/creator> "Jørgensen" .
+<https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref20> <http://schema.org/datePublished> "2015" .
+<https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref20> <http://schema.org/isPartOf> <https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref20-container> .
+<https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref20> <http://schema.org/name> "Pannaria reflectens, a misunderstood lichen of the Australian mangroves, with an annotated key to the Australian species of the Pannaria lurida group" .
+<https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref20> <http://schema.org/pageStart> "13" .
+<https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref20> <http://schema.org/volumeNumber> "76" .
+<https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref20> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref21-container> <http://schema.org/name> "Pannariaceae. Flora of Australia" .
+<https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref21> <http://schema.org/creator> "Jørgensen" .
+<https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref21> <http://schema.org/datePublished> "1992" .
+<https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref21> <http://schema.org/isPartOf> <https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref21-container> .
+<https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref21> <http://schema.org/pageStart> "246" .
+<https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref21> <http://schema.org/volumeNumber> "54" .
+<https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref21> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref22-container> <http://schema.org/name> "Årbok for Universitetsmuseet i Bergen" .
+<https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref22> <http://schema.org/creator> "Jørgensen" .
+<https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref22> <http://schema.org/datePublished> "2012" .
+<https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref22> <http://schema.org/isPartOf> <https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref22-container> .
+<https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref22> <http://schema.org/name> "Lav – vekster med flere ansikter" .
+<https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref22> <http://schema.org/pageStart> "83" .
+<https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref22> <http://schema.org/volumeNumber> "2012" .
+<https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref22> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref23#doi> <http://schema.org/propertyID> "doi" .
+<https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref23#doi> <http://schema.org/value> "10.1007/bf01731581" .
+<https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref23#doi> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref23> <http://schema.org/identifier> <https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref23#doi> .
+<https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref23> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref24-container> <http://schema.org/name> "Bulletin of the National Science Museum of Tokyo" .
+<https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref24> <http://schema.org/creator> "Kurokawa" .
+<https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref24> <http://schema.org/datePublished> "1969" .
+<https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref24> <http://schema.org/isPartOf> <https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref24-container> .
+<https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref24> <http://schema.org/name> "Lichens of the Chichijima Island of the Bonin Islands collected by Dr. H. Inoue" .
+<https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref24> <http://schema.org/pageStart> "685" .
+<https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref24> <http://schema.org/volumeNumber> "12" .
+<https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref24> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref25#doi> <http://schema.org/propertyID> "doi" .
+<https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref25#doi> <http://schema.org/value> "10.1007/bf02101990" .
+<https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref25#doi> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref25> <http://schema.org/identifier> <https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref25#doi> .
+<https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref25> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref26#doi> <http://schema.org/propertyID> "doi" .
+<https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref26#doi> <http://schema.org/value> "10.1093/bioinformatics/btm404" .
+<https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref26#doi> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref26> <http://schema.org/identifier> <https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref26#doi> .
+<https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref26> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref27#doi> <http://schema.org/propertyID> "doi" .
+<https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref27#doi> <http://schema.org/value> "10.1111/j.1096-3642.1870.tb00210.x" .
+<https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref27#doi> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref27> <http://schema.org/identifier> <https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref27#doi> .
+<https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref27> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref28#doi> <http://schema.org/propertyID> "doi" .
+<https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref28#doi> <http://schema.org/value> "10.1111/nph.12900" .
+<https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref28#doi> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref28> <http://schema.org/identifier> <https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref28#doi> .
+<https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref28> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref29#doi> <http://schema.org/propertyID> "doi" .
+<https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref29#doi> <http://schema.org/value> "10.11646/phytotaxa.18.1.1" .
+<https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref29#doi> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref29> <http://schema.org/identifier> <https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref29#doi> .
+<https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref2> <http://schema.org/identifier> <https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref2#doi> .
+<https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref3#doi> <http://schema.org/propertyID> "doi" .
+<https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref3#doi> <http://schema.org/value> "10.1016/0021-9673(72)80013-x" .
+<https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref3#doi> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref30#doi> <http://schema.org/propertyID> "doi" .
+<https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref30#doi> <http://schema.org/value> "10.1371/journal.pone.0089876" .
+<https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref30#doi> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref30> <http://schema.org/identifier> <https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref30#doi> .
+<https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref30> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref31#doi> <http://schema.org/propertyID> "doi" .
+<https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref31#doi> <http://schema.org/value> "10.12705/633.2" .
+<https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref31#doi> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref31> <http://schema.org/identifier> <https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref31#doi> .
+<https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref31> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref32#doi> <http://schema.org/propertyID> "doi" .
+<https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref32#doi> <http://schema.org/value> "10.3732/ajb.1100046" .
+<https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref32#doi> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref32> <http://schema.org/identifier> <https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref32#doi> .
+<https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref32> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref33-container> <http://schema.org/name> "Symbolae Botanicae Upsalienses" .
+<https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref33> <http://schema.org/creator> "Nordin" .
+<https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref33> <http://schema.org/datePublished> "1997" .
+<https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref33> <http://schema.org/isPartOf> <https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref33-container> .
+<https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref33> <http://schema.org/name> "Ascospore structures in Physciaceae: an ultrastructural study" .
+<https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref33> <http://schema.org/pageStart> "195" .
+<https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref33> <http://schema.org/volumeNumber> "32" .
+<https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref33> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref34-container> <http://schema.org/name> "Annales des Sciences Naturelles, Botanique, Séries 12" .
+<https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref34> <http://schema.org/creator> "Nylander" .
+<https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref34> <http://schema.org/datePublished> "1859" .
+<https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref34> <http://schema.org/isPartOf> <https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref34-container> .
+<https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref34> <http://schema.org/name> "Dispositio Psoromatum et Pannariarum" .
+<https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref34> <http://schema.org/pageStart> "293" .
+<https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref34> <http://schema.org/volumeNumber> "4" .
+<https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref34> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref35> <http://schema.org/creator> "Orange" .
+<https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref35> <http://schema.org/datePublished> "2001" .
+<https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref35> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref36#doi> <http://schema.org/propertyID> "doi" .
+<https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref36#doi> <http://schema.org/value> "10.3852/09-114" .
+<https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref36#doi> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref36> <http://schema.org/identifier> <https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref36#doi> .
+<https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref36> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref37#doi> <http://schema.org/propertyID> "doi" .
+<https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref37#doi> <http://schema.org/value> "10.1126/science.1110063" .
+<https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref37#doi> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref37> <http://schema.org/identifier> <https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref37#doi> .
+<https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref37> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref38#doi> <http://schema.org/propertyID> "doi" .
+<https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref38#doi> <http://schema.org/value> "10.1017/s0024282906005688" .
+<https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref38#doi> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref38> <http://schema.org/identifier> <https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref38#doi> .
+<https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref38> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref39-container> <http://schema.org/name> "Mycotaxon" .
+<https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref39> <http://schema.org/creator> "Passo" .
+<https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref39> <http://schema.org/datePublished> "2004" .
+<https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref39> <http://schema.org/isPartOf> <https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref39-container> .
+<https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref39> <http://schema.org/name> "Taxonomic notes on Pannaria pallida from southern South America and New Zealand" .
+<https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref39> <http://schema.org/pageStart> "355" .
+<https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref39> <http://schema.org/volumeNumber> "90" .
+<https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref39> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref3> <http://schema.org/identifier> <https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref3#doi> .
+<https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref4#doi> <http://schema.org/propertyID> "doi" .
+<https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref4#doi> <http://schema.org/value> "10.1038/nmeth.2109" .
+<https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref4#doi> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref40#doi> <http://schema.org/propertyID> "doi" .
+<https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref40#doi> <http://schema.org/value> "10.1016/j.mycres.2008.06.025" .
+<https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref40#doi> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref40> <http://schema.org/identifier> <https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref40#doi> .
+<https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref40> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref41#doi> <http://schema.org/propertyID> "doi" .
+<https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref41#doi> <http://schema.org/value> "10.1371/journal.pone.0065576" .
+<https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref41#doi> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref41> <http://schema.org/identifier> <https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref41#doi> .
+<https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref41> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref42#doi> <http://schema.org/propertyID> "doi" .
+<https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref42#doi> <http://schema.org/value> "10.1093/sysbio/sys029" .
+<https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref42#doi> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref42> <http://schema.org/identifier> <https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref42#doi> .
+<https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref42> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref43#doi> <http://schema.org/propertyID> "doi" .
+<https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref43#doi> <http://schema.org/value> "10.1007/s13225-012-0206-5" .
+<https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref43#doi> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref43> <http://schema.org/identifier> <https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref43#doi> .
+<https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref43> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref44#doi> <http://schema.org/propertyID> "doi" .
+<https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref44#doi> <http://schema.org/value> "10.1007/s10267-004-0187-7" .
+<https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref44#doi> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref44> <http://schema.org/identifier> <https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref44#doi> .
+<https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref44> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref45#doi> <http://schema.org/propertyID> "doi" .
+<https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref45#doi> <http://schema.org/value> "10.1093/molbev/mst197" .
+<https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref45#doi> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref45> <http://schema.org/identifier> <https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref45#doi> .
+<https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref45> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref46-container> <http://schema.org/name> "Annales Academiae Scientiae Fennicae, ser. A" .
+<https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref46> <http://schema.org/creator> "Vainio" .
+<https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref46> <http://schema.org/datePublished> "1920" .
+<https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref46> <http://schema.org/isPartOf> <https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref46-container> .
+<https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref46> <http://schema.org/name> "Lichenes Insularum Philippinarum III" .
+<https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref46> <http://schema.org/pageStart> "1" .
+<https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref46> <http://schema.org/volumeNumber> "15" .
+<https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref46> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref47#doi> <http://schema.org/propertyID> "doi" .
+<https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref47#doi> <http://schema.org/value> "10.13158/heia.24.2.2011.325" .
+<https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref47#doi> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref47> <http://schema.org/identifier> <https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref47#doi> .
+<https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref47> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref48-container> <http://schema.org/name> "Acta Botanica Fennica" .
+<https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref48> <http://schema.org/creator> "Verdon" .
+<https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref48> <http://schema.org/datePublished> "1994" .
+<https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref48> <http://schema.org/isPartOf> <https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref48-container> .
+<https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref48> <http://schema.org/name> "A new species and new records of Physma from Australia" .
+<https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref48> <http://schema.org/pageStart> "209" .
+<https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref48> <http://schema.org/volumeNumber> "150" .
+<https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref48> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref49#doi> <http://schema.org/propertyID> "doi" .
+<https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref49#doi> <http://schema.org/value> "10.1017/s002428290700655x" .
+<https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref49#doi> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref49> <http://schema.org/identifier> <https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref49#doi> .
+<https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref49> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref4> <http://schema.org/identifier> <https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref4#doi> .
+<https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref5-container> <http://schema.org/name> "Bothalia" .
+<https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref50#doi> <http://schema.org/propertyID> "doi" .
+<https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref50#doi> <http://schema.org/value> "10.1016/j.ympev.2009.08.013" .
+<https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref50#doi> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref50> <http://schema.org/identifier> <https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref50#doi> .
+<https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref50> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref51#doi> <http://schema.org/propertyID> "doi" .
+<https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref51#doi> <http://schema.org/value> "10.1017/s0024282910000642" .
+<https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref51#doi> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref51> <http://schema.org/identifier> <https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref51#doi> .
+<https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref51> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref52#doi> <http://schema.org/propertyID> "doi" .
+<https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref52#doi> <http://schema.org/value> "10.1016/j.ympev.2014.03.018" .
+<https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref52#doi> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref52-container> <http://schema.org/name> "Molecular Phylogenetics and Evolution" .
+<https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref52> <http://schema.org/creator> "Yu" .
+<https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref52> <http://schema.org/datePublished> "2014" .
+<https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref52> <http://schema.org/identifier> <https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref52#doi> .
+<https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref52> <http://schema.org/isPartOf> <https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref52-container> .
+<https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref52> <http://schema.org/name> "Transantarctic disjunctions in Schistochilaceae (Marchantiophyta) explained by early extinction events, post-Gondwanan radiations and palaeoclimatic changes" .
+<https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref52> <http://schema.org/pageStart> "189" .
+<https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref52> <http://schema.org/volumeNumber> "76" .
+<https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref52> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref53> <http://schema.org/creator> "Zahlbruckner" .
+<https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref53> <http://schema.org/datePublished> "1907" .
+<https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref53> <http://schema.org/pageStart> "26" .
+<https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref53> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref54#doi> <http://schema.org/propertyID> "doi" .
+<https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref54#doi> <http://schema.org/value> "10.1002/fedr.19330311108" .
+<https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref54#doi> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref54> <http://schema.org/identifier> <https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref54#doi> .
+<https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref54> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref5> <http://schema.org/creator> "Doidge" .
+<https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref5> <http://schema.org/datePublished> "1950" .
+<https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref5> <http://schema.org/isPartOf> <https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref5-container> .
+<https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref5> <http://schema.org/name> "The South African fungi and lichens to the end of 1945" .
+<https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref5> <http://schema.org/pageStart> "1" .
+<https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref5> <http://schema.org/volumeNumber> "5" .
+<https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref6#doi> <http://schema.org/propertyID> "doi" .
+<https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref6#doi> <http://schema.org/value> "10.1139/b02-043" .
+<https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref6#doi> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref6> <http://schema.org/identifier> <https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref6#doi> .
+<https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref7#doi> <http://schema.org/propertyID> "doi" .
+<https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref7#doi> <http://schema.org/value> "10.1017/s002428291400019x" .
+<https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref7#doi> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref7> <http://schema.org/identifier> <https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref7#doi> .
+<https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref8-container> <http://schema.org/name> "Cryptogamie, Mycologie" .
+<https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref8> <http://schema.org/creator> "Elvebakk" .
+<https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref8> <http://schema.org/datePublished> "2007" .
+<https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref8> <http://schema.org/isPartOf> <https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref8-container> .
+<https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref8> <http://schema.org/name> "The panaustral lichen Pannaria sphinctrina (Mont.) Tuck. and the related new species P. lobulifera from New Caledonia" .
+<https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref8> <http://schema.org/pageStart> "225" .
+<https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref8> <http://schema.org/volumeNumber> "28" .
+<https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref9#doi> <http://schema.org/propertyID> "doi" .
+<https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref9#doi> <http://schema.org/value> "10.1127/0029-5035/2011/0093-0443" .
+<https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref9#doi> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref9> <http://schema.org/identifier> <https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref9#doi> .
+<https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<https://doi.org/10.1017/s0024282915000328#creator/1> <http://schema.org/familyName> "ELVEBAKK" .
+<https://doi.org/10.1017/s0024282915000328#creator/1> <http://schema.org/givenName> "Arve" .
+<https://doi.org/10.1017/s0024282915000328#creator/1> <http://schema.org/name> "Arve ELVEBAKK" .
+<https://doi.org/10.1017/s0024282915000328#creator/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+<https://doi.org/10.1017/s0024282915000328#creator/2> <http://schema.org/familyName> "HONG" .
+<https://doi.org/10.1017/s0024282915000328#creator/2> <http://schema.org/givenName> "Soon Gyu" .
+<https://doi.org/10.1017/s0024282915000328#creator/2> <http://schema.org/name> "Soon Gyu HONG" .
+<https://doi.org/10.1017/s0024282915000328#creator/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+<https://doi.org/10.1017/s0024282915000328#creator/3> <http://schema.org/familyName> "PARK" .
+<https://doi.org/10.1017/s0024282915000328#creator/3> <http://schema.org/givenName> "Chae Haeng" .
+<https://doi.org/10.1017/s0024282915000328#creator/3> <http://schema.org/name> "Chae Haeng PARK" .
+<https://doi.org/10.1017/s0024282915000328#creator/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+<https://doi.org/10.1017/s0024282915000328#creator/4> <http://schema.org/familyName> "ROBERTSEN" .
+<https://doi.org/10.1017/s0024282915000328#creator/4> <http://schema.org/givenName> "Eli Helene" .
+<https://doi.org/10.1017/s0024282915000328#creator/4> <http://schema.org/name> "Eli Helene ROBERTSEN" .
+<https://doi.org/10.1017/s0024282915000328#creator/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+<https://doi.org/10.1017/s0024282915000328#creator/5> <http://schema.org/familyName> "JØRGENSEN" .
+<https://doi.org/10.1017/s0024282915000328#creator/5> <http://schema.org/givenName> "Per Magnus" .
+<https://doi.org/10.1017/s0024282915000328#creator/5> <http://schema.org/name> "Per Magnus JØRGENSEN" .
+<https://doi.org/10.1017/s0024282915000328#creator/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+<https://doi.org/10.1017/s0024282915000328#doi> <http://schema.org/propertyID> "doi" .
+<https://doi.org/10.1017/s0024282915000328#doi> <http://schema.org/value> "10.1017/s0024282915000328" .
+<https://doi.org/10.1017/s0024282915000328#doi> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<https://doi.org/10.1017/s0024282915000328#role/1> <http://schema.org/creator> <https://doi.org/10.1017/s0024282915000328#creator/1> .
+<https://doi.org/10.1017/s0024282915000328#role/1> <http://schema.org/roleName> "1" .
+<https://doi.org/10.1017/s0024282915000328#role/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Role> .
+<https://doi.org/10.1017/s0024282915000328#role/2> <http://schema.org/creator> <https://doi.org/10.1017/s0024282915000328#creator/2> .
+<https://doi.org/10.1017/s0024282915000328#role/2> <http://schema.org/roleName> "2" .
+<https://doi.org/10.1017/s0024282915000328#role/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Role> .
+<https://doi.org/10.1017/s0024282915000328#role/3> <http://schema.org/creator> <https://doi.org/10.1017/s0024282915000328#creator/3> .
+<https://doi.org/10.1017/s0024282915000328#role/3> <http://schema.org/roleName> "3" .
+<https://doi.org/10.1017/s0024282915000328#role/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Role> .
+<https://doi.org/10.1017/s0024282915000328#role/4> <http://schema.org/creator> <https://doi.org/10.1017/s0024282915000328#creator/4> .
+<https://doi.org/10.1017/s0024282915000328#role/4> <http://schema.org/roleName> "4" .
+<https://doi.org/10.1017/s0024282915000328#role/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Role> .
+<https://doi.org/10.1017/s0024282915000328#role/5> <http://schema.org/creator> <https://doi.org/10.1017/s0024282915000328#creator/5> .
+<https://doi.org/10.1017/s0024282915000328#role/5> <http://schema.org/roleName> "5" .
+<https://doi.org/10.1017/s0024282915000328#role/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Role> .
+<https://doi.org/10.1017/s0024282915000328> <http://schema.org/citation> <https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref10> .
+<https://doi.org/10.1017/s0024282915000328> <http://schema.org/citation> <https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref11> .
+<https://doi.org/10.1017/s0024282915000328> <http://schema.org/citation> <https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref12> .
+<https://doi.org/10.1017/s0024282915000328> <http://schema.org/citation> <https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref13> .
+<https://doi.org/10.1017/s0024282915000328> <http://schema.org/citation> <https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref14> .
+<https://doi.org/10.1017/s0024282915000328> <http://schema.org/citation> <https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref15> .
+<https://doi.org/10.1017/s0024282915000328> <http://schema.org/citation> <https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref16> .
+<https://doi.org/10.1017/s0024282915000328> <http://schema.org/citation> <https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref17> .
+<https://doi.org/10.1017/s0024282915000328> <http://schema.org/citation> <https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref18> .
+<https://doi.org/10.1017/s0024282915000328> <http://schema.org/citation> <https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref19> .
+<https://doi.org/10.1017/s0024282915000328> <http://schema.org/citation> <https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref1> .
+<https://doi.org/10.1017/s0024282915000328> <http://schema.org/citation> <https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref20> .
+<https://doi.org/10.1017/s0024282915000328> <http://schema.org/citation> <https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref21> .
+<https://doi.org/10.1017/s0024282915000328> <http://schema.org/citation> <https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref22> .
+<https://doi.org/10.1017/s0024282915000328> <http://schema.org/citation> <https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref23> .
+<https://doi.org/10.1017/s0024282915000328> <http://schema.org/citation> <https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref24> .
+<https://doi.org/10.1017/s0024282915000328> <http://schema.org/citation> <https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref25> .
+<https://doi.org/10.1017/s0024282915000328> <http://schema.org/citation> <https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref26> .
+<https://doi.org/10.1017/s0024282915000328> <http://schema.org/citation> <https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref27> .
+<https://doi.org/10.1017/s0024282915000328> <http://schema.org/citation> <https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref28> .
+<https://doi.org/10.1017/s0024282915000328> <http://schema.org/citation> <https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref29> .
+<https://doi.org/10.1017/s0024282915000328> <http://schema.org/citation> <https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref2> .
+<https://doi.org/10.1017/s0024282915000328> <http://schema.org/citation> <https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref30> .
+<https://doi.org/10.1017/s0024282915000328> <http://schema.org/citation> <https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref31> .
+<https://doi.org/10.1017/s0024282915000328> <http://schema.org/citation> <https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref32> .
+<https://doi.org/10.1017/s0024282915000328> <http://schema.org/citation> <https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref33> .
+<https://doi.org/10.1017/s0024282915000328> <http://schema.org/citation> <https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref34> .
+<https://doi.org/10.1017/s0024282915000328> <http://schema.org/citation> <https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref35> .
+<https://doi.org/10.1017/s0024282915000328> <http://schema.org/citation> <https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref36> .
+<https://doi.org/10.1017/s0024282915000328> <http://schema.org/citation> <https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref37> .
+<https://doi.org/10.1017/s0024282915000328> <http://schema.org/citation> <https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref38> .
+<https://doi.org/10.1017/s0024282915000328> <http://schema.org/citation> <https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref39> .
+<https://doi.org/10.1017/s0024282915000328> <http://schema.org/citation> <https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref3> .
+<https://doi.org/10.1017/s0024282915000328> <http://schema.org/citation> <https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref40> .
+<https://doi.org/10.1017/s0024282915000328> <http://schema.org/citation> <https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref41> .
+<https://doi.org/10.1017/s0024282915000328> <http://schema.org/citation> <https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref42> .
+<https://doi.org/10.1017/s0024282915000328> <http://schema.org/citation> <https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref43> .
+<https://doi.org/10.1017/s0024282915000328> <http://schema.org/citation> <https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref44> .
+<https://doi.org/10.1017/s0024282915000328> <http://schema.org/citation> <https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref45> .
+<https://doi.org/10.1017/s0024282915000328> <http://schema.org/citation> <https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref46> .
+<https://doi.org/10.1017/s0024282915000328> <http://schema.org/citation> <https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref47> .
+<https://doi.org/10.1017/s0024282915000328> <http://schema.org/citation> <https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref48> .
+<https://doi.org/10.1017/s0024282915000328> <http://schema.org/citation> <https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref49> .
+<https://doi.org/10.1017/s0024282915000328> <http://schema.org/citation> <https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref4> .
+<https://doi.org/10.1017/s0024282915000328> <http://schema.org/citation> <https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref50> .
+<https://doi.org/10.1017/s0024282915000328> <http://schema.org/citation> <https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref51> .
+<https://doi.org/10.1017/s0024282915000328> <http://schema.org/citation> <https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref52> .
+<https://doi.org/10.1017/s0024282915000328> <http://schema.org/citation> <https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref53> .
+<https://doi.org/10.1017/s0024282915000328> <http://schema.org/citation> <https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref54> .
+<https://doi.org/10.1017/s0024282915000328> <http://schema.org/citation> <https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref5> .
+<https://doi.org/10.1017/s0024282915000328> <http://schema.org/citation> <https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref6> .
+<https://doi.org/10.1017/s0024282915000328> <http://schema.org/citation> <https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref7> .
+<https://doi.org/10.1017/s0024282915000328> <http://schema.org/citation> <https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref8> .
+<https://doi.org/10.1017/s0024282915000328> <http://schema.org/citation> <https://doi.org/10.1017/s0024282915000328#S0024282915000328_ref9> .
+<https://doi.org/10.1017/s0024282915000328> <http://schema.org/creator> <https://doi.org/10.1017/s0024282915000328#role/1> .
+<https://doi.org/10.1017/s0024282915000328> <http://schema.org/creator> <https://doi.org/10.1017/s0024282915000328#role/2> .
+<https://doi.org/10.1017/s0024282915000328> <http://schema.org/creator> <https://doi.org/10.1017/s0024282915000328#role/3> .
+<https://doi.org/10.1017/s0024282915000328> <http://schema.org/creator> <https://doi.org/10.1017/s0024282915000328#role/4> .
+<https://doi.org/10.1017/s0024282915000328> <http://schema.org/creator> <https://doi.org/10.1017/s0024282915000328#role/5> .
+<https://doi.org/10.1017/s0024282915000328> <http://schema.org/datePublished> "2016-01-00" .
+<https://doi.org/10.1017/s0024282915000328> <http://schema.org/description> "<jats:title>Abstract</jats:title><jats:p>Reports of ‘<jats:italic>Psoroma sphinctrinum</jats:italic>’ from Palaeotropical areas are shown to represent instead species of the genus <jats:italic>Gibbosporina,</jats:italic> which is described here as new to science. This genus is superficially similar to tripartite, austral <jats:italic>Pannaria</jats:italic> species, such as the species now referred to as <jats:italic>Pannaria sphinctrina</jats:italic> (Mont.) Tuck. ex Hue. A phylogram based on an analysis of the nuclear large subunit rDNA (LSU) locus shows that <jats:italic>Gibbosporina</jats:italic> is instead a clade in a <jats:italic>Pannariaceae</jats:italic> branch referred to as the ‘<jats:italic>Physma</jats:italic> group’, a most unexpected addition to <jats:italic>Pannariaceae</jats:italic> dealt with by several previous studies. Genera assigned to this group have very contrasting general appearances. However, this diverse group shares distinctly ring-like thalline excipular margins; strongly amyloid internal ascus structures; well-developed perispores which have irregular gibbae and/or nodulose or acuminate apical extensions, but not verrucae; lacks TLC-detectable secondary compounds and have tropical distributions. <jats:italic>Gibbosporina</jats:italic> is the only tripartite genus in the group, with distinct, nodulose, placodioid, mini-fruticose to mini-foliose cephalodia with a high diversity of <jats:italic>Nostoc</jats:italic> cyanobionts. The cyanomorphs can apparently exist independently in some cases, although the apothecia on such cephalodia on a specimen from Réunion were unexpectedly found to belong to the chloromorph. The genus and related genera forming the ‘<jats:italic>Physma</jats:italic> group’ are probably evolutionarily old, and their weak affinity to the remaining part of <jats:italic>Pannariaceae</jats:italic>, concentrated in the Southern Hemisphere, is discussed. The genus includes 13 known species, and the generitype is <jats:italic>Gibbosporina boninensis</jats:italic> from the Japanese Ogasawara Islands, originally described as <jats:italic>Psoroma boninense</jats:italic> and recombined here. The following 12 species are described here as new to science, seven of them with molecular support in an LSU and ITS-based phylogram: <jats:italic>Gibbosporina acuminata</jats:italic> (Australia, the Philippines), <jats:italic>G. amphorella</jats:italic> (New Caledonia), <jats:italic>G. bifrons</jats:italic> (Malaysia, New Caledonia, the Philippines, Solomon Islands), <jats:italic>G. didyma</jats:italic> (Mauritius, Réunion), <jats:italic>G. elixii</jats:italic> (Australia), <jats:italic>G. leptospora</jats:italic> (Australia, Papua New Guinea), <jats:italic>G. nitida</jats:italic> (Australia, Papua New Guinea, the Philippines), <jats:italic>G. mascarena</jats:italic> (Mauritius, Réunion, Sri Lanka), <jats:italic>G. papillospora</jats:italic> (the Philippines), <jats:italic>G. phyllidiata</jats:italic> (Solomon Islands), <jats:italic>G. sphaerospora</jats:italic> (Australia, Indonesia, Malaysia, the Philippines, Samoa, and with <jats:italic>Psoroma sphinctrinum</jats:italic> var. <jats:italic>endoxanthellum</jats:italic> as a new synonym), and <jats:italic>G. thamnophora</jats:italic> (Australia and the Philippines). Except for the phyllidiate <jats:italic>G. phyllidiata</jats:italic> and for <jats:italic>G. thamnophora</jats:italic> which has cephalodia adapted for vegetative propagation, the species are all primarily fertile. A key for determining the species is provided.</jats:p>" .
+<https://doi.org/10.1017/s0024282915000328> <http://schema.org/identifier> <https://doi.org/10.1017/s0024282915000328#doi> .
+<https://doi.org/10.1017/s0024282915000328> <http://schema.org/isPartOf> <http://worldcat.org/issn/0024-2829> .
+<https://doi.org/10.1017/s0024282915000328> <http://schema.org/issueNumber> "1" .
+<https://doi.org/10.1017/s0024282915000328> <http://schema.org/keywords> "Ecology, Evolution, Behavior and Systematics" .
+<https://doi.org/10.1017/s0024282915000328> <http://schema.org/license> <https://www.cambridge.org/core/terms> .
+<https://doi.org/10.1017/s0024282915000328> <http://schema.org/name> "Gibbosporina, a new genus for foliose and tripartite, Palaeotropic Pannariaceae species previously assigned to Psoroma" .
+<https://doi.org/10.1017/s0024282915000328> <http://schema.org/pageEnd> "52" .
+<https://doi.org/10.1017/s0024282915000328> <http://schema.org/pageStart> "13" .
+<https://doi.org/10.1017/s0024282915000328> <http://schema.org/publisher> "Cambridge University Press (CUP)" .
+<https://doi.org/10.1017/s0024282915000328> <http://schema.org/volumeNumber> "48" .
+<https://doi.org/10.1017/s0024282915000328> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ScholarlyArticle> .
 <http://worldcat.org/issn/0083-7792> <http://schema.org/issn> "0083-7792" .
+<http://worldcat.org/issn/0083-7792> <http://schema.org/issn> "2169-4060" .
+<http://worldcat.org/issn/0083-7792> <http://schema.org/name> "Webbia" .
+<http://worldcat.org/issn/0083-7792> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<https://doi.org/10.1080/00837792.1905.10669551#CIT0001> <http://schema.org/description> "Il materiale che mi ha servito per lo studio delle Palme papuane qui adesso per la prima volta descritte mi è stato in parte gentilmente comunicato dal prof. A. Engler, ed appartiene all'Erbario di Berlino; in parte fu a me donato varî anni addietro dal mio compianto amico il Barone Ferdinando von Mueller, al quale era stato comunicato da Sir William Mac Gregor, e proviene dalle esplorazioni di questi o da quelle eseguite dietro sua iniziativa; infine in parte è il frutto delle ricerche del dott. Lamberto Loria e del signor Amedeo Giulia-netti nelle vicinanze di Port Moresby e della catena centrale di montagne della Nuova Guinea inglese" .
+<https://doi.org/10.1080/00837792.1905.10669551#CIT0001> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<https://doi.org/10.1080/00837792.1905.10669551#CIT0002> <http://schema.org/description> "Nel mio scritto sui Trackycarpus (inserito in questo medesimo volume) nelle note anatomiche sul loro frutto ho inavvertentemente detto a pag. 70 che le masse cristalline contenute nelle cellule a coroncina esistenti aU'esterno dei fasci fibro-vascolari del frutto di T1. Martiana sonollidi ossalato di calce, mentre Ia!oro particolarita essenziale e d'essere silicee. A tale riguardo, oltre Ia Memoria di Licopoli citata, si veda anche quanto ha scritto R. F. Solla; sui «Cristalli di'silice in serie perifasciali nelle Palme», nel Nuovo Giom. bot. italiano, vol. XVI (1884), pag. so, ed in Wiesner, Elementi di Bot. scientijica, trad. italiana, vol. I, pag. 289." .
+<https://doi.org/10.1080/00837792.1905.10669551#CIT0002> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<https://doi.org/10.1080/00837792.1905.10669551#creator/1> <http://schema.org/familyName> "BECCARI" .
+<https://doi.org/10.1080/00837792.1905.10669551#creator/1> <http://schema.org/givenName> "ODOARDO" .
 <https://doi.org/10.1080/00837792.1905.10669551#creator/1> <http://schema.org/name> "ODOARDO BECCARI" .
 <https://doi.org/10.1080/00837792.1905.10669551#creator/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
 <https://doi.org/10.1080/00837792.1905.10669551#doi> <http://schema.org/propertyID> "doi" .

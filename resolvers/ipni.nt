@@ -1,0 +1,216 @@
+<urn:lsid:ipni.org:names:20007946-1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rs.tdwg.org/ontology/voc/TaxonName#TaxonName> .
+<urn:lsid:ipni.org:names:20007946-1> <http://rs.tdwg.org/ontology/voc/Common#versionedAs> <urn:lsid:ipni.org:names:20007946-1:1.1> .
+<urn:lsid:ipni.org:names:20007946-1> <http://rs.tdwg.org/ontology/voc/TaxonName#nomenclaturalCode> <http://rs.tdwg.org/ontology/voc/TaxonName#botanical> .
+<urn:lsid:ipni.org:names:20007946-1> <http://www.w3.org/2002/07/owl#versionInfo> "1.1" .
+<urn:lsid:ipni.org:names:20007946-1> <http://purl.org/dc/elements/1.1/title> "Ditassa bifurcata Rapini" .
+<urn:lsid:ipni.org:names:20007946-1> <http://purl.org/dc/terms/created> "2003-07-02 00:00:00.0" .
+<urn:lsid:ipni.org:names:20007946-1> <http://purl.org/dc/terms/modified> "2003-07-02 00:00:00.0" .
+<urn:lsid:ipni.org:names:20007946-1> <http://rs.tdwg.org/ontology/voc/TaxonName#rankString> "spec." .
+<urn:lsid:ipni.org:names:20007946-1> <http://rs.tdwg.org/ontology/voc/TaxonName#nameComplete> "Ditassa bifurcata" .
+<urn:lsid:ipni.org:names:20007946-1> <http://rs.tdwg.org/ontology/voc/TaxonName#genusPart> "Ditassa" .
+<urn:lsid:ipni.org:names:20007946-1> <http://rs.tdwg.org/ontology/voc/TaxonName#specificEpithet> "bifurcata" .
+<urn:lsid:ipni.org:names:20007946-1> <http://rs.tdwg.org/ontology/voc/TaxonName#authorship> "Rapini" .
+<urn:lsid:ipni.org:names:20007946-1> <http://rs.tdwg.org/ontology/voc/TaxonName#authorteam> <urn:lsid:ipni.org:names:20007946-1#1> .
+<urn:lsid:ipni.org:names:20007946-1> <http://rs.tdwg.org/ontology/voc/Common#publishedIn> "Kew Bull. 57(3): 571 (2002). " .
+<urn:lsid:ipni.org:names:20007946-1> <http://rs.tdwg.org/ontology/voc/TaxonName#year> "2002" .
+<urn:lsid:ipni.org:names:20007946-1> <http://rs.tdwg.org/ontology/voc/TaxonName#typifiedBy> <urn:lsid:ipni.org:names:20007946-1#3> .
+<urn:lsid:ipni.org:names:20007946-1> <http://rs.tdwg.org/ontology/voc/TaxonName#typifiedBy> <urn:lsid:ipni.org:names:20007946-1#4> .
+<urn:lsid:ipni.org:names:20007946-1> <http://rs.tdwg.org/ontology/voc/TaxonName#typifiedBy> <urn:lsid:ipni.org:names:20007946-1#5> .
+<urn:lsid:ipni.org:names:20007946-1> <http://rs.tdwg.org/ontology/voc/TaxonName#typifiedBy> <urn:lsid:ipni.org:names:20007946-1#6> .
+<urn:lsid:ipni.org:names:20007946-1> <http://rs.tdwg.org/ontology/voc/TaxonName#typifiedBy> <urn:lsid:ipni.org:names:20007946-1#7> .
+<urn:lsid:ipni.org:names:20007946-1#1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rs.tdwg.org/ontology/voc/Team#Team> .
+<urn:lsid:ipni.org:names:20007946-1#1> <http://rs.tdwg.org/ontology/voc/Team#name> "Rapini" .
+<urn:lsid:ipni.org:names:20007946-1#1> <http://rs.tdwg.org/ontology/voc/Team#hasMember> <urn:lsid:ipni.org:names:20007946-1#2> .
+<urn:lsid:ipni.org:names:20007946-1#2> <http://rs.tdwg.org/ontology/voc/Team#index> "1" .
+<urn:lsid:ipni.org:names:20007946-1#2> <http://rs.tdwg.org/ontology/voc/Team#role> "Publishing Author" .
+<urn:lsid:ipni.org:names:20007946-1#2> <http://rs.tdwg.org/ontology/voc/Team#member> <urn:lsid:ipni.org:authors:39541-1> .
+<urn:lsid:ipni.org:names:20007946-1#3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rs.tdwg.org/ontology/voc/TaxonName#NomenclaturalType> .
+<urn:lsid:ipni.org:names:20007946-1#3> <http://purl.org/dc/elements/1.1/title> "Irwin; Fonseca; Souza; Santos; Ramos 27896a, MBM (holo)" .
+<urn:lsid:ipni.org:names:20007946-1#3> <http://rs.tdwg.org/ontology/voc/TaxonName#typeSpecimen> "Irwin; Fonseca; Souza; Santos; Ramos 27896a, MBM" .
+<urn:lsid:ipni.org:names:20007946-1#3> <http://rs.tdwg.org/ontology/voc/TaxonName#typeOfType> <http://rs.tdwg.org/ontology/voc/TaxonName#holo> .
+<urn:lsid:ipni.org:names:20007946-1#4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rs.tdwg.org/ontology/voc/TaxonName#NomenclaturalType> .
+<urn:lsid:ipni.org:names:20007946-1#4> <http://purl.org/dc/elements/1.1/title> "Irwin; Fonseca; Souza; Santos; Ramos 27896a, F (iso)" .
+<urn:lsid:ipni.org:names:20007946-1#4> <http://rs.tdwg.org/ontology/voc/TaxonName#typeSpecimen> "Irwin; Fonseca; Souza; Santos; Ramos 27896a, F" .
+<urn:lsid:ipni.org:names:20007946-1#4> <http://rs.tdwg.org/ontology/voc/TaxonName#typeOfType> <http://rs.tdwg.org/ontology/voc/TaxonName#iso> .
+<urn:lsid:ipni.org:names:20007946-1#5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rs.tdwg.org/ontology/voc/TaxonName#NomenclaturalType> .
+<urn:lsid:ipni.org:names:20007946-1#5> <http://purl.org/dc/elements/1.1/title> "Irwin; Fonseca; Souza; Santos; Ramos 27896a, MO (iso)" .
+<urn:lsid:ipni.org:names:20007946-1#5> <http://rs.tdwg.org/ontology/voc/TaxonName#typeSpecimen> "Irwin; Fonseca; Souza; Santos; Ramos 27896a, MO" .
+<urn:lsid:ipni.org:names:20007946-1#5> <http://rs.tdwg.org/ontology/voc/TaxonName#typeOfType> <http://rs.tdwg.org/ontology/voc/TaxonName#iso> .
+<urn:lsid:ipni.org:names:20007946-1#6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rs.tdwg.org/ontology/voc/TaxonName#NomenclaturalType> .
+<urn:lsid:ipni.org:names:20007946-1#6> <http://purl.org/dc/elements/1.1/title> "Irwin; Fonseca; Souza; Santos; Ramos 27896a, NY (iso)" .
+<urn:lsid:ipni.org:names:20007946-1#6> <http://rs.tdwg.org/ontology/voc/TaxonName#typeSpecimen> "Irwin; Fonseca; Souza; Santos; Ramos 27896a, NY" .
+<urn:lsid:ipni.org:names:20007946-1#6> <http://rs.tdwg.org/ontology/voc/TaxonName#typeOfType> <http://rs.tdwg.org/ontology/voc/TaxonName#iso> .
+<urn:lsid:ipni.org:names:20007946-1#7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rs.tdwg.org/ontology/voc/TaxonName#NomenclaturalType> .
+<urn:lsid:ipni.org:names:20007946-1#7> <http://purl.org/dc/elements/1.1/title> "Irwin; Fonseca; Souza; Santos; Ramos 27896a, R (iso)" .
+<urn:lsid:ipni.org:names:20007946-1#7> <http://rs.tdwg.org/ontology/voc/TaxonName#typeSpecimen> "Irwin; Fonseca; Souza; Santos; Ramos 27896a, R" .
+<urn:lsid:ipni.org:names:20007946-1#7> <http://rs.tdwg.org/ontology/voc/TaxonName#typeOfType> <http://rs.tdwg.org/ontology/voc/TaxonName#iso> .
+<urn:lsid:ipni.org:names:77074582-1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rs.tdwg.org/ontology/voc/TaxonName#TaxonName> .
+<urn:lsid:ipni.org:names:77074582-1> <http://rs.tdwg.org/ontology/voc/Common#versionedAs> <urn:lsid:ipni.org:names:77074582-1:1.2> .
+<urn:lsid:ipni.org:names:77074582-1> <http://rs.tdwg.org/ontology/voc/TaxonName#nomenclaturalCode> <http://rs.tdwg.org/ontology/voc/TaxonName#botanical> .
+<urn:lsid:ipni.org:names:77074582-1> <http://www.w3.org/2002/07/owl#versionInfo> "1.2" .
+<urn:lsid:ipni.org:names:77074582-1> <http://purl.org/dc/elements/1.1/title> "Minaria T.U.P.Konno & Rapini" .
+<urn:lsid:ipni.org:names:77074582-1> <http://purl.org/dc/terms/created> "2006-12-11 10:12:24.0" .
+<urn:lsid:ipni.org:names:77074582-1> <http://purl.org/dc/terms/modified> "2006-12-11 10:30:27.0" .
+<urn:lsid:ipni.org:names:77074582-1> <http://rs.tdwg.org/ontology/voc/TaxonName#rankString> "gen." .
+<urn:lsid:ipni.org:names:77074582-1> <http://rs.tdwg.org/ontology/voc/TaxonName#nameComplete> "Minaria" .
+<urn:lsid:ipni.org:names:77074582-1> <http://rs.tdwg.org/ontology/voc/TaxonName#uninomial> "Minaria" .
+<urn:lsid:ipni.org:names:77074582-1> <http://rs.tdwg.org/ontology/voc/TaxonName#authorship> "T.U.P.Konno & Rapini" .
+<urn:lsid:ipni.org:names:77074582-1> <http://rs.tdwg.org/ontology/voc/TaxonName#authorteam> <urn:lsid:ipni.org:names:77074582-1#1> .
+<urn:lsid:ipni.org:names:77074582-1> <http://rs.tdwg.org/ontology/voc/Common#publishedIn> "Taxon 55(2): 424 (423-425, 427; fig. 4). 2006 [22 Jun 2006] " .
+<urn:lsid:ipni.org:names:77074582-1> <http://rs.tdwg.org/ontology/voc/TaxonName#year> "2006" .
+<urn:lsid:ipni.org:names:77074582-1> <http://rs.tdwg.org/ontology/voc/TaxonName#typifiedBy> <urn:lsid:ipni.org:names:77074582-1#4> .
+<urn:lsid:ipni.org:names:77074582-1> <http://rs.tdwg.org/ontology/voc/TaxonName#typifiedBy> <urn:lsid:ipni.org:names:77074582-1#5> .
+<urn:lsid:ipni.org:names:77074582-1#1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rs.tdwg.org/ontology/voc/Team#Team> .
+<urn:lsid:ipni.org:names:77074582-1#1> <http://rs.tdwg.org/ontology/voc/Team#name> "T.U.P.Konno & Rapini" .
+<urn:lsid:ipni.org:names:77074582-1#1> <http://rs.tdwg.org/ontology/voc/Team#hasMember> <urn:lsid:ipni.org:names:77074582-1#2> .
+<urn:lsid:ipni.org:names:77074582-1#1> <http://rs.tdwg.org/ontology/voc/Team#hasMember> <urn:lsid:ipni.org:names:77074582-1#3> .
+<urn:lsid:ipni.org:names:77074582-1#2> <http://rs.tdwg.org/ontology/voc/Team#index> "1" .
+<urn:lsid:ipni.org:names:77074582-1#2> <http://rs.tdwg.org/ontology/voc/Team#role> "Publishing Author" .
+<urn:lsid:ipni.org:names:77074582-1#2> <http://rs.tdwg.org/ontology/voc/Team#member> <urn:lsid:ipni.org:authors:40176-1> .
+<urn:lsid:ipni.org:names:77074582-1#3> <http://rs.tdwg.org/ontology/voc/Team#index> "2" .
+<urn:lsid:ipni.org:names:77074582-1#3> <http://rs.tdwg.org/ontology/voc/Team#role> "Publishing Author" .
+<urn:lsid:ipni.org:names:77074582-1#3> <http://rs.tdwg.org/ontology/voc/Team#member> <urn:lsid:ipni.org:authors:39541-1> .
+<urn:lsid:ipni.org:names:77074582-1#4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rs.tdwg.org/ontology/voc/TaxonName#NomenclaturalType> .
+<urn:lsid:ipni.org:names:77074582-1#4> <http://purl.org/dc/elements/1.1/title> "Minaria grazielae (Fontella & Marquete) T.U.P.Konno & Rapini" .
+<urn:lsid:ipni.org:names:77074582-1#4> <http://rs.tdwg.org/ontology/voc/TaxonName#typeName> <urn:lsid:ipni.org:names:77074583-1> .
+<urn:lsid:ipni.org:names:77074582-1#5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rs.tdwg.org/ontology/voc/TaxonName#NomenclaturalType> .
+<urn:lsid:ipni.org:names:77074582-1#5> <http://purl.org/dc/elements/1.1/title> "Minaria grazielae (Fontella & Marquete) T.U.P.Konno & Rapini" .
+<urn:lsid:ipni.org:names:77074583-1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rs.tdwg.org/ontology/voc/TaxonName#TaxonName> .
+<urn:lsid:ipni.org:names:77074583-1> <http://rs.tdwg.org/ontology/voc/Common#versionedAs> <urn:lsid:ipni.org:names:77074583-1:1.1> .
+<urn:lsid:ipni.org:names:77074583-1> <http://rs.tdwg.org/ontology/voc/TaxonName#nomenclaturalCode> <http://rs.tdwg.org/ontology/voc/TaxonName#botanical> .
+<urn:lsid:ipni.org:names:77074583-1> <http://www.w3.org/2002/07/owl#versionInfo> "1.1" .
+<urn:lsid:ipni.org:names:77074583-1> <http://purl.org/dc/elements/1.1/title> "Minaria grazielae (Fontella & Marquete) T.U.P.Konno & Rapini" .
+<urn:lsid:ipni.org:names:77074583-1> <http://purl.org/dc/terms/created> "2006-12-11 10:27:08.0" .
+<urn:lsid:ipni.org:names:77074583-1> <http://purl.org/dc/terms/modified> "2006-12-11 10:27:08.0" .
+<urn:lsid:ipni.org:names:77074583-1> <http://rs.tdwg.org/ontology/voc/TaxonName#rankString> "spec." .
+<urn:lsid:ipni.org:names:77074583-1> <http://rs.tdwg.org/ontology/voc/TaxonName#nameComplete> "Minaria grazielae" .
+<urn:lsid:ipni.org:names:77074583-1> <http://rs.tdwg.org/ontology/voc/TaxonName#genusPart> "Minaria" .
+<urn:lsid:ipni.org:names:77074583-1> <http://rs.tdwg.org/ontology/voc/TaxonName#specificEpithet> "grazielae" .
+<urn:lsid:ipni.org:names:77074583-1> <http://rs.tdwg.org/ontology/voc/TaxonName#authorship> "(Fontella & Marquete) T.U.P.Konno & Rapini" .
+<urn:lsid:ipni.org:names:77074583-1> <http://rs.tdwg.org/ontology/voc/TaxonName#basionymAuthorship> "Fontella & Marquete" .
+<urn:lsid:ipni.org:names:77074583-1> <http://rs.tdwg.org/ontology/voc/TaxonName#combinationAuthorship> "T.U.P.Konno & Rapini" .
+<urn:lsid:ipni.org:names:77074583-1> <http://rs.tdwg.org/ontology/voc/TaxonName#authorteam> <urn:lsid:ipni.org:names:77074583-1#1> .
+<urn:lsid:ipni.org:names:77074583-1> <http://rs.tdwg.org/ontology/voc/Common#publishedIn> "Taxon 55(2): 429. 2006 [22 Jun 2006] " .
+<urn:lsid:ipni.org:names:77074583-1> <http://rs.tdwg.org/ontology/voc/TaxonName#year> "2006" .
+<urn:lsid:ipni.org:names:77074583-1> <http://rs.tdwg.org/ontology/voc/TaxonName#hasBasionym> <urn:lsid:ipni.org:names:94792-1> .
+<urn:lsid:ipni.org:names:77074583-1#1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rs.tdwg.org/ontology/voc/Team#Team> .
+<urn:lsid:ipni.org:names:77074583-1#1> <http://rs.tdwg.org/ontology/voc/Team#name> "(Fontella & Marquete) T.U.P.Konno & Rapini" .
+<urn:lsid:ipni.org:names:77074583-1#1> <http://rs.tdwg.org/ontology/voc/Team#hasMember> <urn:lsid:ipni.org:names:77074583-1#2> .
+<urn:lsid:ipni.org:names:77074583-1#1> <http://rs.tdwg.org/ontology/voc/Team#hasMember> <urn:lsid:ipni.org:names:77074583-1#3> .
+<urn:lsid:ipni.org:names:77074583-1#1> <http://rs.tdwg.org/ontology/voc/Team#hasMember> <urn:lsid:ipni.org:names:77074583-1#4> .
+<urn:lsid:ipni.org:names:77074583-1#1> <http://rs.tdwg.org/ontology/voc/Team#hasMember> <urn:lsid:ipni.org:names:77074583-1#5> .
+<urn:lsid:ipni.org:names:77074583-1#2> <http://rs.tdwg.org/ontology/voc/Team#index> "1" .
+<urn:lsid:ipni.org:names:77074583-1#2> <http://rs.tdwg.org/ontology/voc/Team#role> "Combination Author" .
+<urn:lsid:ipni.org:names:77074583-1#2> <http://rs.tdwg.org/ontology/voc/Team#member> <urn:lsid:ipni.org:authors:40176-1> .
+<urn:lsid:ipni.org:names:77074583-1#3> <http://rs.tdwg.org/ontology/voc/Team#index> "2" .
+<urn:lsid:ipni.org:names:77074583-1#3> <http://rs.tdwg.org/ontology/voc/Team#role> "Combination Author" .
+<urn:lsid:ipni.org:names:77074583-1#3> <http://rs.tdwg.org/ontology/voc/Team#member> <urn:lsid:ipni.org:authors:39541-1> .
+<urn:lsid:ipni.org:names:77074583-1#4> <http://rs.tdwg.org/ontology/voc/Team#index> "1" .
+<urn:lsid:ipni.org:names:77074583-1#4> <http://rs.tdwg.org/ontology/voc/Team#role> "Basionym Author" .
+<urn:lsid:ipni.org:names:77074583-1#4> <http://rs.tdwg.org/ontology/voc/Team#member> <urn:lsid:ipni.org:authors:2808-1> .
+<urn:lsid:ipni.org:names:77074583-1#5> <http://rs.tdwg.org/ontology/voc/Team#index> "2" .
+<urn:lsid:ipni.org:names:77074583-1#5> <http://rs.tdwg.org/ontology/voc/Team#role> "Basionym Author" .
+<urn:lsid:ipni.org:names:77074583-1#5> <http://rs.tdwg.org/ontology/voc/Team#member> <urn:lsid:ipni.org:authors:6125-1> .
+<urn:lsid:ipni.org:names:94792-1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rs.tdwg.org/ontology/voc/TaxonName#TaxonName> .
+<urn:lsid:ipni.org:names:94792-1> <http://rs.tdwg.org/ontology/voc/Common#versionedAs> <urn:lsid:ipni.org:names:94792-1:1.1.2.1.1.4> .
+<urn:lsid:ipni.org:names:94792-1> <http://rs.tdwg.org/ontology/voc/TaxonName#nomenclaturalCode> <http://rs.tdwg.org/ontology/voc/TaxonName#botanical> .
+<urn:lsid:ipni.org:names:94792-1> <http://www.w3.org/2002/07/owl#versionInfo> "1.1.2.1.1.4" .
+<urn:lsid:ipni.org:names:94792-1> <http://purl.org/dc/elements/1.1/title> "Astephanus grazielae Fontella & Marquete" .
+<urn:lsid:ipni.org:names:94792-1> <http://purl.org/dc/terms/created> "2003-07-02 00:00:00.0" .
+<urn:lsid:ipni.org:names:94792-1> <http://purl.org/dc/terms/modified> "2013-07-10 09:58:41.0" .
+<urn:lsid:ipni.org:names:94792-1> <http://rs.tdwg.org/ontology/voc/TaxonName#rankString> "spec." .
+<urn:lsid:ipni.org:names:94792-1> <http://rs.tdwg.org/ontology/voc/TaxonName#nameComplete> "Astephanus grazielae" .
+<urn:lsid:ipni.org:names:94792-1> <http://rs.tdwg.org/ontology/voc/TaxonName#genusPart> "Astephanus" .
+<urn:lsid:ipni.org:names:94792-1> <http://rs.tdwg.org/ontology/voc/TaxonName#specificEpithet> "grazielae" .
+<urn:lsid:ipni.org:names:94792-1> <http://rs.tdwg.org/ontology/voc/TaxonName#authorship> "Fontella & Marquete" .
+<urn:lsid:ipni.org:names:94792-1> <http://rs.tdwg.org/ontology/voc/TaxonName#authorteam> <urn:lsid:ipni.org:names:94792-1#1> .
+<urn:lsid:ipni.org:names:94792-1> <http://rs.tdwg.org/ontology/voc/Common#publishedIn> "Bradea 2(3): 9. 1975 " .
+<urn:lsid:ipni.org:names:94792-1> <http://rs.tdwg.org/ontology/voc/TaxonName#year> "1975" .
+<urn:lsid:ipni.org:names:94792-1#1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rs.tdwg.org/ontology/voc/Team#Team> .
+<urn:lsid:ipni.org:names:94792-1#1> <http://rs.tdwg.org/ontology/voc/Team#name> "Fontella & Marquete" .
+<urn:lsid:ipni.org:names:94792-1#1> <http://rs.tdwg.org/ontology/voc/Team#hasMember> <urn:lsid:ipni.org:names:94792-1#2> .
+<urn:lsid:ipni.org:names:94792-1#1> <http://rs.tdwg.org/ontology/voc/Team#hasMember> <urn:lsid:ipni.org:names:94792-1#3> .
+<urn:lsid:ipni.org:names:94792-1#2> <http://rs.tdwg.org/ontology/voc/Team#index> "1" .
+<urn:lsid:ipni.org:names:94792-1#2> <http://rs.tdwg.org/ontology/voc/Team#role> "Publishing Author" .
+<urn:lsid:ipni.org:names:94792-1#2> <http://rs.tdwg.org/ontology/voc/Team#member> <urn:lsid:ipni.org:authors:2808-1> .
+<urn:lsid:ipni.org:names:94792-1#3> <http://rs.tdwg.org/ontology/voc/Team#index> "2" .
+<urn:lsid:ipni.org:names:94792-1#3> <http://rs.tdwg.org/ontology/voc/Team#role> "Publishing Author" .
+<urn:lsid:ipni.org:names:94792-1#3> <http://rs.tdwg.org/ontology/voc/Team#member> <urn:lsid:ipni.org:authors:6125-1> .
+<urn:lsid:ipni.org:authors:6125-1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rs.tdwg.org/ontology/voc/Person#Person> .
+<urn:lsid:ipni.org:authors:6125-1> <http://purl.org/dc/elements/1.1/title> "Nilda Marquete Ferreira da Silva" .
+<urn:lsid:ipni.org:authors:6125-1> <http://www.w3.org/2002/07/owl#versionInfo> "1.1" .
+<urn:lsid:ipni.org:authors:6125-1> <http://purl.org/dc/terms/created> "2003-07-02 00:00:00.0" .
+<urn:lsid:ipni.org:authors:6125-1> <http://purl.org/dc/terms/modified> "2003-07-02 00:00:00.0" .
+<urn:lsid:ipni.org:authors:6125-1> <http://rs.tdwg.org/ontology/voc/Person#alias> <urn:lsid:ipni.org:authors:6125-1#1> .
+<urn:lsid:ipni.org:authors:6125-1> <http://rs.tdwg.org/ontology/voc/Person#alias> <urn:lsid:ipni.org:authors:6125-1#2> .
+<urn:lsid:ipni.org:authors:6125-1> <http://rs.tdwg.org/ontology/voc/Person#alias> <urn:lsid:ipni.org:authors:6125-1#3> .
+<urn:lsid:ipni.org:authors:6125-1> <http://rs.tdwg.org/ontology/voc/Person#lifeSpan> "fl. 1972-1987" .
+<urn:lsid:ipni.org:authors:6125-1> <http://rs.tdwg.org/ontology/voc/Person#subjectScope> "Botany" .
+<urn:lsid:ipni.org:authors:6125-1> <http://rs.tdwg.org/ontology/voc/Person#subjectScope> "Spermatophytes" .
+<urn:lsid:ipni.org:authors:6125-1> <http://rs.tdwg.org/ontology/voc/Person#geographicScope> "Brazil" .
+<urn:lsid:ipni.org:authors:6125-1#1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rs.tdwg.org/ontology/voc/Person#PersonNameAlias> .
+<urn:lsid:ipni.org:authors:6125-1#1> <http://rs.tdwg.org/ontology/voc/Person#isPreferred> "true" .
+<urn:lsid:ipni.org:authors:6125-1#1> <http://rs.tdwg.org/ontology/voc/Person#standardForm> "Marquete" .
+<urn:lsid:ipni.org:authors:6125-1#1> <http://rs.tdwg.org/ontology/voc/Person#forenames> "Nilda" .
+<urn:lsid:ipni.org:authors:6125-1#1> <http://rs.tdwg.org/ontology/voc/Person#surname> "Marquete Ferreira da Silva" .
+<urn:lsid:ipni.org:authors:6125-1#2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rs.tdwg.org/ontology/voc/Person#PersonNameAlias> .
+<urn:lsid:ipni.org:authors:6125-1#2> <http://rs.tdwg.org/ontology/voc/Person#isPreferred> "false" .
+<urn:lsid:ipni.org:authors:6125-1#2> <http://rs.tdwg.org/ontology/voc/Person#forenames> "Nilda" .
+<urn:lsid:ipni.org:authors:6125-1#2> <http://rs.tdwg.org/ontology/voc/Person#surname> "Marquete" .
+<urn:lsid:ipni.org:authors:6125-1#3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rs.tdwg.org/ontology/voc/Person#PersonNameAlias> .
+<urn:lsid:ipni.org:authors:6125-1#3> <http://rs.tdwg.org/ontology/voc/Person#isPreferred> "false" .
+<urn:lsid:ipni.org:authors:6125-1#3> <http://rs.tdwg.org/ontology/voc/Person#forenames> "Nilda Marquete Ferreira da" .
+<urn:lsid:ipni.org:authors:6125-1#3> <http://rs.tdwg.org/ontology/voc/Person#surname> "Silva" .
+<urn:lsid:ipni.org:authors:2808-1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rs.tdwg.org/ontology/voc/Person#Person> .
+<urn:lsid:ipni.org:authors:2808-1> <http://purl.org/dc/elements/1.1/title> "Jorge Fontella" .
+<urn:lsid:ipni.org:authors:2808-1> <http://www.w3.org/2002/07/owl#versionInfo> "1.1" .
+<urn:lsid:ipni.org:authors:2808-1> <http://purl.org/dc/terms/created> "2003-07-02 00:00:00.0" .
+<urn:lsid:ipni.org:authors:2808-1> <http://purl.org/dc/terms/modified> "2003-07-02 00:00:00.0" .
+<urn:lsid:ipni.org:authors:2808-1> <http://rs.tdwg.org/ontology/voc/Person#alias> <urn:lsid:ipni.org:authors:2808-1#1> .
+<urn:lsid:ipni.org:authors:2808-1> <http://rs.tdwg.org/ontology/voc/Person#alias> <urn:lsid:ipni.org:authors:2808-1#2> .
+<urn:lsid:ipni.org:authors:2808-1> <http://rs.tdwg.org/ontology/voc/Person#alias> <urn:lsid:ipni.org:authors:2808-1#3> .
+<urn:lsid:ipni.org:authors:2808-1> <http://rs.tdwg.org/ontology/voc/Person#lifeSpan> "1936-" .
+<urn:lsid:ipni.org:authors:2808-1> <http://rs.tdwg.org/ontology/voc/Person#subjectScope> "Botany" .
+<urn:lsid:ipni.org:authors:2808-1> <http://rs.tdwg.org/ontology/voc/Person#subjectScope> "Spermatophytes" .
+<urn:lsid:ipni.org:authors:2808-1> <http://rs.tdwg.org/ontology/voc/Person#geographicScope> "Brazil" .
+<urn:lsid:ipni.org:authors:2808-1#1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rs.tdwg.org/ontology/voc/Person#PersonNameAlias> .
+<urn:lsid:ipni.org:authors:2808-1#1> <http://rs.tdwg.org/ontology/voc/Person#isPreferred> "true" .
+<urn:lsid:ipni.org:authors:2808-1#1> <http://rs.tdwg.org/ontology/voc/Person#standardForm> "Fontella" .
+<urn:lsid:ipni.org:authors:2808-1#1> <http://rs.tdwg.org/ontology/voc/Person#forenames> "Jorge" .
+<urn:lsid:ipni.org:authors:2808-1#1> <http://rs.tdwg.org/ontology/voc/Person#surname> "Fontella" .
+<urn:lsid:ipni.org:authors:2808-1#2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rs.tdwg.org/ontology/voc/Person#PersonNameAlias> .
+<urn:lsid:ipni.org:authors:2808-1#2> <http://rs.tdwg.org/ontology/voc/Person#isPreferred> "false" .
+<urn:lsid:ipni.org:authors:2808-1#2> <http://rs.tdwg.org/ontology/voc/Person#forenames> "Jorge" .
+<urn:lsid:ipni.org:authors:2808-1#2> <http://rs.tdwg.org/ontology/voc/Person#surname> "Fontella Pereira" .
+<urn:lsid:ipni.org:authors:2808-1#3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rs.tdwg.org/ontology/voc/Person#PersonNameAlias> .
+<urn:lsid:ipni.org:authors:2808-1#3> <http://rs.tdwg.org/ontology/voc/Person#isPreferred> "false" .
+<urn:lsid:ipni.org:authors:2808-1#3> <http://rs.tdwg.org/ontology/voc/Person#forenames> "Jorge Fontella" .
+<urn:lsid:ipni.org:authors:2808-1#3> <http://rs.tdwg.org/ontology/voc/Person#surname> "Pereira" .
+<urn:lsid:ipni.org:authors:40176-1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rs.tdwg.org/ontology/voc/Person#Person> .
+<urn:lsid:ipni.org:authors:40176-1> <http://purl.org/dc/elements/1.1/title> "Tatiana Ungaretti Paleo Konno" .
+<urn:lsid:ipni.org:authors:40176-1> <http://www.w3.org/2002/07/owl#versionInfo> "1.1" .
+<urn:lsid:ipni.org:authors:40176-1> <http://purl.org/dc/terms/created> "2003-07-02 00:00:00.0" .
+<urn:lsid:ipni.org:authors:40176-1> <http://purl.org/dc/terms/modified> "2003-07-02 00:00:00.0" .
+<urn:lsid:ipni.org:authors:40176-1> <http://rs.tdwg.org/ontology/voc/Person#alias> <urn:lsid:ipni.org:authors:40176-1#1> .
+<urn:lsid:ipni.org:authors:40176-1> <http://rs.tdwg.org/ontology/voc/Person#lifeSpan> "fl. 2002" .
+<urn:lsid:ipni.org:authors:40176-1> <http://rs.tdwg.org/ontology/voc/Person#subjectScope> "Botany" .
+<urn:lsid:ipni.org:authors:40176-1> <http://rs.tdwg.org/ontology/voc/Person#subjectScope> "Spermatophytes" .
+<urn:lsid:ipni.org:authors:40176-1#1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rs.tdwg.org/ontology/voc/Person#PersonNameAlias> .
+<urn:lsid:ipni.org:authors:40176-1#1> <http://rs.tdwg.org/ontology/voc/Person#isPreferred> "true" .
+<urn:lsid:ipni.org:authors:40176-1#1> <http://rs.tdwg.org/ontology/voc/Person#standardForm> "T.U.P.Konno" .
+<urn:lsid:ipni.org:authors:40176-1#1> <http://rs.tdwg.org/ontology/voc/Person#forenames> "Tatiana Ungaretti Paleo" .
+<urn:lsid:ipni.org:authors:40176-1#1> <http://rs.tdwg.org/ontology/voc/Person#surname> "Konno" .
+<urn:lsid:ipni.org:authors:39541-1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rs.tdwg.org/ontology/voc/Person#Person> .
+<urn:lsid:ipni.org:authors:39541-1> <http://purl.org/dc/elements/1.1/title> "Alessandro Rapini" .
+<urn:lsid:ipni.org:authors:39541-1> <http://www.w3.org/2002/07/owl#versionInfo> "1.1" .
+<urn:lsid:ipni.org:authors:39541-1> <http://purl.org/dc/terms/created> "2003-07-02 00:00:00.0" .
+<urn:lsid:ipni.org:authors:39541-1> <http://purl.org/dc/terms/modified> "2003-07-02 00:00:00.0" .
+<urn:lsid:ipni.org:authors:39541-1> <http://rs.tdwg.org/ontology/voc/Person#alias> <urn:lsid:ipni.org:authors:39541-1#1> .
+<urn:lsid:ipni.org:authors:39541-1> <http://rs.tdwg.org/ontology/voc/Person#lifeSpan> "fl. 2001" .
+<urn:lsid:ipni.org:authors:39541-1> <http://rs.tdwg.org/ontology/voc/Person#subjectScope> "Botany" .
+<urn:lsid:ipni.org:authors:39541-1> <http://rs.tdwg.org/ontology/voc/Person#subjectScope> "Spermatophytes" .
+<urn:lsid:ipni.org:authors:39541-1#1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rs.tdwg.org/ontology/voc/Person#PersonNameAlias> .
+<urn:lsid:ipni.org:authors:39541-1#1> <http://rs.tdwg.org/ontology/voc/Person#isPreferred> "true" .
+<urn:lsid:ipni.org:authors:39541-1#1> <http://rs.tdwg.org/ontology/voc/Person#standardForm> "Rapini" .
+<urn:lsid:ipni.org:authors:39541-1#1> <http://rs.tdwg.org/ontology/voc/Person#forenames> "Alessandro" .
+<urn:lsid:ipni.org:authors:39541-1#1> <http://rs.tdwg.org/ontology/voc/Person#surname> "Rapini" .

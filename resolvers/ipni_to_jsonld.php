@@ -28,10 +28,14 @@ $urls = array(
 
 $urls = array(
 'urn:lsid:ipni.org:names:20007946-1',
-'urn:lsid:ipni.org:names:324597-2',
+'urn:lsid:ipni.org:names:77074582-1',
+'urn:lsid:ipni.org:names:77074583-1',
+'urn:lsid:ipni.org:names:94792-1',
+'urn:lsid:ipni.org:authors:6125-1',
+'urn:lsid:ipni.org:authors:2808-1',
+'urn:lsid:ipni.org:authors:40176-1',
 'urn:lsid:ipni.org:authors:39541-1',
 );
-
 /*
 $urls = array(
  'urn:lsid:marinespecies.org:taxname:1259280'

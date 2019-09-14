@@ -19,6 +19,10 @@ $urls = array(
 	'urn:lsid:indexfungorum.org:names:814035',
 );
 
+$urls = array(
+	'urn:lsid:indexfungorum.org:names:811978',
+);
+
 
 
 foreach ($urls as $url)

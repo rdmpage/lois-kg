@@ -169,9 +169,9 @@ item = data;
 %>
 
 <!-- title -->
-<div style="font-size:24px;font-weight:bold;margin-top:0.5em;">
+<h1>
 	<%= get_literal(item['dc:title']) %>
-</div>
+</h1>
 
 
 <!-- parsed taxonomic name -->
@@ -210,26 +210,29 @@ item = data;
 
 <!-- publishedIn -->
 <div>
-	<%= get_literal(item['tcom:publishedIn']) %>
+	<% if (item['tcom:publishedIn']) {  %>
+		Published in:
+		<%= get_literal(item['tcom:publishedIn']) %>
 
-	<% if (item['tcom:microreference']) { %>
-	(see page <%= get_literal(item['tcom:microreference']) %> )
-	<% } %>
+		<% if (item['tcom:microreference']) { %>
+		(see page <%= get_literal(item['tcom:microreference']) %> )
+		<% } %>
 
 
-	<%- get_literal(item['dwc:namePublishedIn']) %>
+		<%- get_literal(item['dwc:namePublishedIn']) %>
 	
-	<% if (item['nmbe:publishedOnPage']) { %>
-	(see page <%= get_literal(item['nmbe:publishedOnPage']) %> )
+		<% if (item['nmbe:publishedOnPage']) { %>
+		(see page <%= get_literal(item['nmbe:publishedOnPage']) %> )
+		<% } %>
 	<% } %>
-	
 </div>
 
 <!-- publishedInCitation -->
 <!-- need to handle native IF and my augmented versions -->
 <div>
-	
-	<% if (item['tcom:publishedInCitation']) { 
+	<% if (item['tcom:publishedInCitation']) {  %>
+		Published in:
+		<%
 		// Index Fungorum
 		if (item['tcom:publishedInCitation']['@type'] 
 			&& item['tcom:publishedInCitation']['@type'] == 'tpc:PublicationCitation') {
@@ -292,16 +295,40 @@ item = data;
 	
 </div>
 
-<!-- types -->
+<!-- basionym -->
+<div>
+		<% if (item['tn:hasBasionym']) { %>
+			Basionym:
+			<a href="?uri=<%= item['tn:hasBasionym']['@id'] %>">
+			<%= item['tn:hasBasionym']['dc:title'] %>
+			</a>
+		<%} %>
+</div>			
 
+</div>
+
+<!-- types -->
 <div>
 
-		<% if (item['typifiedBy']) { %>
+		<% if (item['tn:typifiedBy']) { %>
 			Type(s):
-			<% for (var i in item['typifiedBy']) { %>
-				<%= item['typifiedBy'][i]['dc:title'] %>
-			<% }
-		} %>
+			<ul>
+			<% for (var i in item['tn:typifiedBy']) { %>
+			
+				<!-- typeName is id of name (e.g., species) that is type of higher taxon -->
+				<% if (item['tn:typifiedBy'][i]['tn:typeName']) { %>
+					<a href="?uri=<%= item['tn:typifiedBy'][i]['tn:typeName']['@id'] %>">
+				<% } %>
+			
+				<li><%= item['tn:typifiedBy'][i]['dc:title'] %></li>
+				
+				<% if (item['tn:typifiedBy'][i]['tn:typeName']) { %>
+					</a>
+				<% } %>
+				
+			<% } %>
+			</ul>
+		<%} %>
 </div>
 
 

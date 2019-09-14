@@ -163,8 +163,22 @@ CONSTRUCT
                  
 
 ?item :isPartOf ?container .
-     ?container <http://schema.org/name> ?container_name .               
+     ?container <http://schema.org/name> ?container_name . 
+     
+?item <http://rs.tdwg.org/ontology/voc/TaxonName#hasBasionym> ?hasBasionym .	
+		?hasBasionym <http://purl.org/dc/elements/1.1/title> ?basionym  .               
+                   
+?item <http://rs.tdwg.org/ontology/voc/TaxonName#typifiedBy> ?typifiedBy .	
+		?typifiedBy <http://purl.org/dc/elements/1.1/title> ?type_name  .
+		?typifiedBy <http://rs.tdwg.org/ontology/voc/TaxonName#typeName> ?typeName .                
 
+?item <http://rs.tdwg.org/ontology/voc/Common#publishedInCitation> ?publishedInCitation .	
+		?publishedInCitation a ?tpc_type .
+		?publishedInCitation <http://rs.tdwg.org/ontology/voc/PublicationCitation#title> ?tpc_title  .
+		?publishedInCitation <http://rs.tdwg.org/ontology/voc/PublicationCitation#volume> ?tpc_volume  .
+		?publishedInCitation <http://rs.tdwg.org/ontology/voc/PublicationCitation#number> ?tpc_number  .
+		?publishedInCitation <http://rs.tdwg.org/ontology/voc/PublicationCitation#pages> ?tpc_pages  .
+		?publishedInCitation <http://rs.tdwg.org/ontology/voc/PublicationCitation#year> ?tpc_year  .
 
 }
 WHERE {
@@ -209,7 +223,30 @@ WHERE {
 		?container rdf:type <http://schema.org/Periodical> .
         ?container <http://schema.org/name> ?container_name . 
  	}  
+
+	OPTIONAL {
+		?item <http://rs.tdwg.org/ontology/voc/TaxonName#typifiedBy> ?typifiedBy .	
+		?typifiedBy <http://purl.org/dc/elements/1.1/title> ?type_name . 
+		OPTIONAL {
+			?typifiedBy <http://rs.tdwg.org/ontology/voc/TaxonName#typeName> ?typeName . 
+		}
+ 	}  
  	
+	OPTIONAL {
+ 		?item <http://rs.tdwg.org/ontology/voc/TaxonName#hasBasionym> ?hasBasionym .	
+		?hasBasionym <http://purl.org/dc/elements/1.1/title> ?basionym  .               
+	}
+	
+	OPTIONAL {
+		?item <http://rs.tdwg.org/ontology/voc/Common#publishedInCitation> ?publishedInCitation .	
+		?publishedInCitation a ?tpc_type .
+		?publishedInCitation <http://rs.tdwg.org/ontology/voc/PublicationCitation#title> ?tpc_title  .
+		OPTIONAL { ?publishedInCitation <http://rs.tdwg.org/ontology/voc/PublicationCitation#volume> ?tpc_volume  . }
+		OPTIONAL { ?publishedInCitation <http://rs.tdwg.org/ontology/voc/PublicationCitation#number> ?tpc_number  . }
+		OPTIONAL { ?publishedInCitation <http://rs.tdwg.org/ontology/voc/PublicationCitation#pages> ?tpc_pages  . }
+		OPTIONAL { ?publishedInCitation <http://rs.tdwg.org/ontology/voc/PublicationCitation#year> ?tpc_year  . }
+	
+	}
 
 
 }

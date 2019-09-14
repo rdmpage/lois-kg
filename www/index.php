@@ -94,16 +94,26 @@ function display_entity($uri)
 		
 	// JSON-LD for structured data in HTML
 	$script = "\n" . '<script type="application/ld+json">' . "\n"
-		. json_encode($entity, JSON_PRETTY_PRINT | JSON_UNESCAPED_SLASHES)
+		. 	json_encode($entity, JSON_PRETTY_PRINT | JSON_UNESCAPED_SLASHES | JSON_UNESCAPED_UNICODE)
     	. "\n" . '</script>';
     	
     $script .= "\n" . '<script>' . "\n"
-		. 'var data = ' . json_encode($entity, JSON_PRETTY_PRINT | JSON_UNESCAPED_SLASHES)
+		. 'var data = ' . json_encode($entity, JSON_PRETTY_PRINT | JSON_UNESCAPED_SLASHES | JSON_UNESCAPED_UNICODE)
     	. ";\n" . '</script>';
     	
  	display_html_start($title, $meta, $script);
  	
- 		echo '<div id="output">xxx</div>';
+ 	echo '<ul>';
+ 	echo '<li><a href="?uri=https://doi.org/10.13346/j.mycosystema.130120">A new species and a new record of Cylindrosporium in China / 我国柱盘孢属一新种和一新记录种</a></li>';
+	echo '<li><a href="?uri=https://doi.org/10.1017/s0024282915000328">Gibbosporina, a new genus for foliose and tripartite, Palaeotropic Pannariaceae species previously assigned to Psoroma</a></li>';
+ 	echo '<li><a href="?uri=urn:lsid:indexfungorum.org:names:553579"><i>Taphrina veronaerambellii</i> (Á. Fonseca, J. Inácio & M.G. Rodrigues) Selbmann & Cecchini2017</a></li>';
+ 	echo '<li><a href="?uri=urn:lsid:ipni.org:names:20007946-1"><i>Ditassa bifurcata</i> Rapini</a></li>'; 	
+ 	echo '<li><a href="?uri=urn:lsid:ipni.org:names:77074582-1"><i>Minaria</i> T.U.P.Konno & Rapini</a></li>';
+
+ 	echo '</ul>';
+ 	
+ 	
+ 		echo '<div id="output">Stuff goes here</div>';
 
 	
 	
