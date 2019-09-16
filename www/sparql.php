@@ -359,6 +359,13 @@ ORDER BY ?roleName
 			$creator->{'@container'} = "@set";
 			
 			$context->{'creator'} = $creator;
+
+			// publishedInCitation is always an array (because we may have more than one, esp in Index Fungorum)
+			$publishedInCitation = new stdclass;
+			$publishedInCitation->{'@id'} = "tcom:publishedInCitation";
+			$publishedInCitation->{'@container'} = "@set";
+			
+			$context->{'tcom:publishedInCitation'} = $publishedInCitation;
 			
 	
 	

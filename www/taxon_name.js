@@ -232,50 +232,67 @@ item = data;
 <div>
 	<% if (item['tcom:publishedInCitation']) {  %>
 		<span class="heading">Published in</span>
-		<%
-		if (item['tcom:publishedInCitation']['@type'] 
-			&& item['tcom:publishedInCitation']['@type'] == 'tpc:PublicationCitation') {
-				var parts = [];
-				
-				if (item['tcom:publishedInCitation']['tpc:title']) {
-					parts.push (item['tcom:publishedInCitation']['tpc:title']);
-				}
-
-				if (item['tcom:publishedInCitation']['tpc:volume']) {
-					parts.push (item['tcom:publishedInCitation']['tpc:volume']);
-				}
-
-				if (item['tcom:publishedInCitation']['tpc:number']) {
-					parts.push (item['tcom:publishedInCitation']['tpc:number']);
-				}
-
-				if (item['tcom:publishedInCitation']['tpc:pages']) {
-					parts.push (item['tcom:publishedInCitation']['tpc:pages']);
-				}
-
-				if (item['tcom:publishedInCitation']['tpc:year']) {
-					parts.push (item['tcom:publishedInCitation']['tpc:year']);
-				}
-				
-				if (parts.length > 0) {
-					var citation = parts.join(' '); %>
-					<%= citation %>
-				<% }			
-		}
+		<% 
+		var publishedInCitation_html = '<ul>';
+		for (var i in item['tcom:publishedInCitation']) {	
 		
-		// schema.org (will need to handle types as array)
-		if (item['tcom:publishedInCitation']['@type'] 
-			&& item['tcom:publishedInCitation']['@type'] == 'ScholarlyArticle') {
+			// IF
+			if (item['tcom:publishedInCitation'][i]['@type'] 
+				&& item['tcom:publishedInCitation'][i]['@type'] == 'tpc:PublicationCitation') {
+					var parts = [];
+										
+					if (item['tcom:publishedInCitation'][i]['tpc:title']) {
+						parts.push (item['tcom:publishedInCitation'][i]['tpc:title']);
+					}
+
+					if (item['tcom:publishedInCitation'][i]['tpc:volume']) {
+						parts.push (item['tcom:publishedInCitation'][i]['tpc:volume']);
+					}
+
+					if (item['tcom:publishedInCitation'][i]['tpc:number']) {
+						parts.push (item['tcom:publishedInCitation'][i]['tpc:number']);
+					}
+
+					if (item['tcom:publishedInCitation'][i]['tpc:pages']) {
+						parts.push (item['tcom:publishedInCitation'][i]['tpc:pages']);
+					}
+
+					if (item['tcom:publishedInCitation'][i]['tpc:year']) {
+						parts.push (item['tcom:publishedInCitation'][i]['tpc:year']);
+					}
+
+					if (parts.length > 0) {
+						var citation = parts.join(' ');
+						publishedInCitation_html += '<li>' + citation + '</li>';
+					}	
+						
+			}
+	
+			// schema.org (will need to handle types as array)
+			if (item['tcom:publishedInCitation'][i]['@type'] 
+				&& item['tcom:publishedInCitation'][i]['@type'] == 'ScholarlyArticle') {
+			
+					if (item['tcom:publishedInCitation'][i]['name']) { 
+						publishedInCitation_html += '<li>';
+						publishedInCitation_html += '<a href="?uri=' + item['tcom:publishedInCitation'][i]['@id'] + '">';
+						publishedInCitation_html += item['tcom:publishedInCitation'][i]['name'];
+						publishedInCitation_html += '</a>';
+						publishedInCitation_html += '</li>';
 				
-				if (item['tcom:publishedInCitation']['name']) { %>
-					<a href="?uri=<%=item['tcom:publishedInCitation']['@id']%>">				
-					<%- item['tcom:publishedInCitation']['name'] %>
-					</a>
-					
-				<%}			
-		}		
+					}			
+			}
+		}	
 		
-	} %>
+		publishedInCitation_html += '</ul>';	
+		%>		
+		
+		
+		
+		<%- publishedInCitation_html %>	
+		
+		
+			
+	<%	} %>
 </div>
 
 <!-- identifiers -->
