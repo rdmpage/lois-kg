@@ -213,6 +213,25 @@ if (1)
 	'10.1017/s0024282915000328'
 	);
 	
+	$dois=array(
+	'10.1002/tax.12017' // ORCID 0000-0002-3604-6532 Per Magnus Jørgensen
+	);
+	
+	$dois=array(
+	'10.1007/s13225-017-0386-0', //
+	);
+	
+	// rebuild
+	$dois=array(
+	'10.1002/tax.12017', // ORCID 0000-0002-3604-6532 Per Magnus Jørgensen
+	'10.1017/s0024282915000328',
+	);
+	
+	$dois=array(
+	'10.1007/s13225-017-0386-0' // huge number of references
+	);
+	
+	
 	$force = true;
 	$force = false;
 	

@@ -5,6 +5,7 @@
 	<key>HierarchyData</key>
 	<array>
 		<string>101AEF5C-EDC8-4921-A5E7-041B40AF0FB6</string>
+		<string>DCB2E8B6-384D-47A1-BC26-CB42519199E0</string>
 		<string>E60F80A2-C229-493A-AB92-55105DF8CC3C</string>
 		<string>98B80A82-0936-49A5-8A97-A70F4FC5CC99</string>
 		<string>2E8C4F5A-10C3-41D7-9A6F-9F48FF715F2E</string>
@@ -252,6 +253,55 @@
 			<string>oz-orcid</string>
 			<key>ItemType</key>
 			<string>FolderReference</string>
+			<key>UserOverrideItemName</key>
+			<true/>
+		</dict>
+		<key>DCB2E8B6-384D-47A1-BC26-CB42519199E0</key>
+		<dict>
+			<key>ItemData</key>
+			<dict>
+				<key>BookmarkData</key>
+				<data>
+				Ym9vaxgDAAAAAAQQMAAAADSHCRzZtpB4k8jfTsGaJVDT
+				dIoBut2ppzXGUv7jBykTCAIAAAQAAAADAwAAAAgAKAUA
+				AAABAQAAVXNlcnMAAAAFAAAAAQEAAHJwYWdlAAAABQAA
+				AAEBAABTaXRlcwAAAAcAAAABAQAAbG9pcy1rZwAHAAAA
+				AQEAAGdsdWUubnQAFAAAAAEGAAAQAAAAIAAAADAAAABA
+				AAAAUAAAAAgAAAAEAwAAEGcCAAAAAAAIAAAABAMAAIV0
+				DQAAAAAACAAAAAQDAAAEVkwAAAAAAAgAAAAEAwAAwZ7Z
+				AQMAAAAIAAAABAMAAHPp2wEDAAAAFAAAAAEGAAB8AAAA
+				jAAAAJwAAACsAAAAvAAAAAgAAAAABAAAQcGXxaJFH2IY
+				AAAAAQIAAAEAAAAAAAAADwAAAAAAAAAAAAAAAAAAAAgA
+				AAAEAwAAAwAAAAAAAAAEAAAAAwMAAPUBAAAIAAAAAQkA
+				AGZpbGU6Ly8vDAAAAAEBAABNYWNpbnRvc2ggSEQIAAAA
+				BAMAAADgBANpAAAACAAAAAAEAABBvt1dYgAAACQAAAAB
+				AQAAMjVFNDI4NkQtNzEyQy0zODk5LUI0M0YtNUQzRjZB
+				OEJEMTIxGAAAAAECAACBAAAAAQAAAO8TAAABAAAAAAAA
+				AAAAAAABAAAAAQEAAC8AAAAAAAAAAQUAABoAAAABAQAA
+				TlNVUkxEb2N1bWVudElkZW50aWZpZXJLZXkAAAQAAAAD
+				AwAAK/4AANgAAAD+////AQAAAAAAAAARAAAABBAAAGAA
+				AAAAAAAABRAAAMwAAAAAAAAAEBAAAPgAAAAAAAAAQBAA
+				AOgAAAAAAAAAAiAAAMQBAAAAAAAABSAAADQBAAAAAAAA
+				ECAAAEQBAAAAAAAAESAAAHgBAAAAAAAAEiAAAFgBAAAA
+				AAAAEyAAAGgBAAAAAAAAICAAAKQBAAAAAAAAMCAAANAB
+				AAAAAAAAAcAAABgBAAAAAAAAEcAAACAAAAAAAAAAEsAA
+				ACgBAAAAAAAAENAAAAQAAAAAAAAA2AEAgPwBAAAAAAAA
+				</data>
+				<key>FileURL</key>
+				<string>file:///Users/rpage/Sites/lois-kg/glue.nt</string>
+				<key>HasSecurityScope</key>
+				<true/>
+				<key>RelativePath</key>
+				<string>./glue.nt</string>
+				<key>TypeID</key>
+				<string>_CFileLocator</string>
+				<key>Version</key>
+				<integer>1</integer>
+			</dict>
+			<key>ItemName</key>
+			<string>glue.nt</string>
+			<key>ItemType</key>
+			<string>FileReference</string>
 			<key>UserOverrideItemName</key>
 			<true/>
 		</dict>

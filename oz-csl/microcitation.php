@@ -215,6 +215,19 @@ if (1)
 	'10.13346/j.mycosystema.130120'
 	);
 	
+	$guids=array(
+	'10.2307/4110986' // Kew JSTOR
+	);
+	
+	// rebuilt
+	$guids=array(
+	'10.2307/4110986', // Kew JSTOR
+	'10.13346/j.mycosystema.130120',
+	'10.6165/tai.1983.28.146',
+	'10.13346/j.mycosystema.130120',
+	);
+	
+	
 
 	$force = true;
 	$force = false;

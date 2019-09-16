@@ -155,15 +155,17 @@ CONSTRUCT
 	?author_identifier <http://schema.org/value> ?orcid .
      
              
-?item :citation ?cites .
-     ?cites <http://schema.org/name> ?bibliographicCitation .   
-	?cites <http://schema.org/identifier> ?cites_identifier .		
-	?cites_identifier <http://schema.org/propertyID> "doi" .
-	?cites_identifier <http://schema.org/value> ?cites_doi .
+#?item :citation ?cites .
+#     ?cites <http://schema.org/name> ?bibliographicCitation .   
+#	?cites <http://schema.org/identifier> ?cites_identifier .		
+#	?cites_identifier <http://schema.org/propertyID> "doi" .
+#	?cites_identifier <http://schema.org/value> ?cites_doi .
                  
 
 ?item :isPartOf ?container .
      ?container <http://schema.org/name> ?container_name . 
+     ?container a ?container_type .
+     ?container <http://schema.org/issn> ?issn . 
      
 ?item <http://rs.tdwg.org/ontology/voc/TaxonName#hasBasionym> ?hasBasionym .	
 		?hasBasionym <http://purl.org/dc/elements/1.1/title> ?basionym  .               
@@ -179,6 +181,18 @@ CONSTRUCT
 		?publishedInCitation <http://rs.tdwg.org/ontology/voc/PublicationCitation#number> ?tpc_number  .
 		?publishedInCitation <http://rs.tdwg.org/ontology/voc/PublicationCitation#pages> ?tpc_pages  .
 		?publishedInCitation <http://rs.tdwg.org/ontology/voc/PublicationCitation#year> ?tpc_year  .
+		
+		?publishedInCitation <http://schema.org/name> ?pub_title  . 
+
+
+
+	?item <http://rs.tdwg.org/ontology/voc/Person#alias> ?alias .	
+		?alias a ?alias_type .
+		 ?alias <http://rs.tdwg.org/ontology/voc/Person#forenames> ?alias_forenames  . 
+		 ?alias <http://rs.tdwg.org/ontology/voc/Person#isPreferred> ?alias_isPreferred  . 
+		 ?alias <http://rs.tdwg.org/ontology/voc/Person#standardForm> ?alias_standardForm  . 
+		 ?alias <http://rs.tdwg.org/ontology/voc/Person#surname> ?alias_surname  . 
+
 
 }
 WHERE {
@@ -206,21 +220,26 @@ WHERE {
         
 	} 
   
-	OPTIONAL {
-		?item <http://schema.org/citation> ?cites .	
-         { ?cites <http://schema.org/description> ?bibliographicCitation . } UNION { ?cites <http://schema.org/name> ?bibliographicCitation . } 
-         OPTIONAL
-         {
-	?cites <http://schema.org/identifier> ?cites_identifier .		
-	?cites_identifier <http://schema.org/propertyID> "doi" .
-	?cites_identifier <http://schema.org/value> ?cites_doi .
-         
-         }
- 	}  
+#	OPTIONAL {
+#		?item <http://schema.org/citation> ?cites .	
+#         { ?cites <http://schema.org/description> ?bibliographicCitation . } UNION { ?cites <http://schema.org/name> ?bibliographicCitation . } 
+#         OPTIONAL
+#         {
+#	?cites <http://schema.org/identifier> ?cites_identifier .		
+#	?cites_identifier <http://schema.org/propertyID> "doi" .
+#	?cites_identifier <http://schema.org/value> ?cites_doi .
+#         
+#         }
+# 	}  
  	
 	OPTIONAL {
 		?item <http://schema.org/isPartOf> ?container .	
-		?container rdf:type <http://schema.org/Periodical> .
+		OPTIONAL {
+			?container rdf:type ?container_type . 
+		}
+		OPTIONAL {
+			?container <http://schema.org/issn> ?issn . 
+		}
         ?container <http://schema.org/name> ?container_name . 
  	}  
 
@@ -240,13 +259,29 @@ WHERE {
 	OPTIONAL {
 		?item <http://rs.tdwg.org/ontology/voc/Common#publishedInCitation> ?publishedInCitation .	
 		?publishedInCitation a ?tpc_type .
-		?publishedInCitation <http://rs.tdwg.org/ontology/voc/PublicationCitation#title> ?tpc_title  .
+		
+		# tdwg
+		OPTIONAL {?publishedInCitation <http://rs.tdwg.org/ontology/voc/PublicationCitation#title> ?tpc_title  . }
 		OPTIONAL { ?publishedInCitation <http://rs.tdwg.org/ontology/voc/PublicationCitation#volume> ?tpc_volume  . }
 		OPTIONAL { ?publishedInCitation <http://rs.tdwg.org/ontology/voc/PublicationCitation#number> ?tpc_number  . }
 		OPTIONAL { ?publishedInCitation <http://rs.tdwg.org/ontology/voc/PublicationCitation#pages> ?tpc_pages  . }
 		OPTIONAL { ?publishedInCitation <http://rs.tdwg.org/ontology/voc/PublicationCitation#year> ?tpc_year  . }
+		
+		# schema
+		OPTIONAL { ?publishedInCitation <http://schema.org/name> ?pub_title  . }
 	
 	}
+	
+	OPTIONAL {
+		?item <http://rs.tdwg.org/ontology/voc/Person#alias> ?alias .	
+		?alias a ?alias_type .
+		OPTIONAL { ?alias <http://rs.tdwg.org/ontology/voc/Person#forenames> ?alias_forenames  . }
+		OPTIONAL { ?alias <http://rs.tdwg.org/ontology/voc/Person#isPreferred> ?alias_isPreferred  . }
+		OPTIONAL { ?alias <http://rs.tdwg.org/ontology/voc/Person#standardForm> ?alias_standardForm  . }
+		OPTIONAL { ?alias <http://rs.tdwg.org/ontology/voc/Person#surname> ?alias_surname  . }
+	
+	}
+	
 
 
 }

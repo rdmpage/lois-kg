@@ -233,7 +233,6 @@ item = data;
 	<% if (item['tcom:publishedInCitation']) {  %>
 		<span class="heading">Published in</span>
 		<%
-		// Index Fungorum
 		if (item['tcom:publishedInCitation']['@type'] 
 			&& item['tcom:publishedInCitation']['@type'] == 'tpc:PublicationCitation') {
 				var parts = [];
@@ -263,6 +262,19 @@ item = data;
 					<%= citation %>
 				<% }			
 		}
+		
+		// schema.org (will need to handle types as array)
+		if (item['tcom:publishedInCitation']['@type'] 
+			&& item['tcom:publishedInCitation']['@type'] == 'ScholarlyArticle') {
+				
+				if (item['tcom:publishedInCitation']['name']) { %>
+					<a href="?uri=<%=item['tcom:publishedInCitation']['@id']%>">				
+					<%- item['tcom:publishedInCitation']['name'] %>
+					</a>
+					
+				<%}			
+		}		
+		
 	} %>
 </div>
 

@@ -106,10 +106,12 @@ function display_entity($uri)
  	echo '<ul>';
  	echo '<li><a href="?uri=https://doi.org/10.13346/j.mycosystema.130120">A new species and a new record of Cylindrosporium in China / 我国柱盘孢属一新种和一新记录种</a></li>';
 	echo '<li><a href="?uri=https://doi.org/10.1017/s0024282915000328">Gibbosporina, a new genus for foliose and tripartite, Palaeotropic Pannariaceae species previously assigned to Psoroma</a></li>';
+	echo '<li><a href="?uri=https://doi.org/10.1002/tax.12017">On the typification of the lichen genus Lepra Scop.</a></li>';
  	echo '<li><a href="?uri=urn:lsid:indexfungorum.org:names:553579"><i>Taphrina veronaerambellii</i> (Á. Fonseca, J. Inácio & M.G. Rodrigues) Selbmann & Cecchini2017</a></li>';
  	echo '<li><a href="?uri=urn:lsid:ipni.org:names:20007946-1"><i>Ditassa bifurcata</i> Rapini</a></li>'; 	
  	echo '<li><a href="?uri=urn:lsid:ipni.org:names:77074582-1"><i>Minaria</i> T.U.P.Konno & Rapini</a></li>';
-
+	echo '<li><a href="?uri=urn:lsid:ipni.org:authors:39541-1">Alessandro Rapini</a></li>';
+	echo '<li><a href="?uri=http://worldcat.org/issn/1672-6472">Mycosystema / 菌物学报</a></li>';
  	echo '</ul>';
  	
  	
@@ -144,6 +146,14 @@ function display_entity($uri)
 				echo '<script>render(template_taxon_name);</script>';			
 				break;
 				
+			case 'tp:Person':
+			case 'Person':
+				echo '<script>render(template_person);</script>';			
+				break;
+
+			case 'Periodical':
+				echo '<script>render(template_container);</script>';			
+				break;
 				
 			default:
 				echo 'Unknown type' . $types[$i];
@@ -176,9 +186,12 @@ function display_html_start($title = '', $meta = '', $script = '', $onload = '')
     <link href="https://fonts.googleapis.com/css?family=Open+Sans&display=swap" rel="stylesheet">';
 
 
+	echo '<!-- templates -->';
 	echo '<script src="js/ejs.js"></script>';
 	echo '<script src="taxon_name.js"></script>';
 	echo '<script src="work.js"></script>';
+	echo '<script src="person.js"></script>';
+	echo '<script src="container.js"></script>';
 	
 	echo '<script>
 function render(template) {
