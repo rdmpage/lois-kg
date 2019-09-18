@@ -193,6 +193,11 @@ CONSTRUCT
 		 ?alias <http://rs.tdwg.org/ontology/voc/Person#standardForm> ?alias_standardForm  . 
 		 ?alias <http://rs.tdwg.org/ontology/voc/Person#surname> ?alias_surname  . 
 
+	?item <http://rs.tdwg.org/dwc/terms/associatedMedia> ?media .	
+		?media a ?media_type .
+		?media <http://purl.org/dc/terms/identifier> ?media_identifier  . 
+
+
 
 }
 WHERE {
@@ -282,6 +287,12 @@ WHERE {
 	
 	}
 	
+	OPTIONAL {
+		?item <http://rs.tdwg.org/dwc/terms/associatedMedia> ?media .	
+		?media a ?media_type .
+		OPTIONAL { ?media <http://purl.org/dc/terms/identifier> ?media_identifier  . }	
+	}	
+	
 
 
 }
@@ -336,21 +347,20 @@ ORDER BY ?roleName
 		
 		$context = (object)array(
 			'@vocab' => 'http://schema.org/',			
-			'dwc' => 'http://rs.tdwg.org/dwc/terms/',			
 			'rdfs' => 'http://www.w3.org/2000/01/rdf-schema#',			
 			'owl' => 'http://www.w3.org/2002/07/owl#',
 			
 			'dc' => 'http://purl.org/dc/elements/1.1/',
 			'dcterms' => 'http://purl.org/dc/terms/',
+			
 			'tn' => 'http://rs.tdwg.org/ontology/voc/TaxonName#',
 			'tc' => 'http://rs.tdwg.org/ontology/voc/TaxonConcept#',						
 			'tcom' => 'http://rs.tdwg.org/ontology/voc/Common#',
 			'tm' => 'http://rs.tdwg.org/ontology/voc/Team#',
 			'tp' => 'http://rs.tdwg.org/ontology/voc/Person#',
 			'tpc' => 'http://rs.tdwg.org/ontology/voc/PublicationCitation#',
-
 			
-
+			'dwc' => 'http://rs.tdwg.org/dwc/terms/',			
 		);
 	
 			// creator is always an array
@@ -366,6 +376,13 @@ ORDER BY ?roleName
 			$publishedInCitation->{'@container'} = "@set";
 			
 			$context->{'tcom:publishedInCitation'} = $publishedInCitation;
+
+			// dwc:associatedMedia is always an array
+			$associatedMedia = new stdclass;
+			$associatedMedia->{'@id'} = "dwc:associatedMedia";
+			$associatedMedia->{'@container'} = "@set";
+			
+			$context->{'dwc:associatedMedia'} = $associatedMedia;
 			
 	
 	

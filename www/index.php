@@ -155,6 +155,10 @@ function display_entity($uri)
 				echo '<script>render(template_container);</script>';			
 				break;
 				
+			case 'dwc:Occurrence':
+				echo '<script>render(template_occurrence);</script>';			
+				break;
+				
 			default:
 				echo 'Unknown type' . $types[$i];
 				break;		
@@ -192,6 +196,7 @@ function display_html_start($title = '', $meta = '', $script = '', $onload = '')
 	echo '<script src="work.js"></script>';
 	echo '<script src="person.js"></script>';
 	echo '<script src="container.js"></script>';
+	echo '<script src="occurrence.js"></script>';
 	
 	echo '<script>
 function render(template) {

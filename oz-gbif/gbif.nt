@@ -1,0 +1,162 @@
+<https://www.gbif.org/occurrence/1095415394> <http://rs.tdwg.org/dwc/terms/elevation> "1100" .
+<https://www.gbif.org/occurrence/1095415394> <http://rs.tdwg.org/dwc/terms/day> "19" .
+<https://www.gbif.org/occurrence/1095415394> <http://rs.tdwg.org/dwc/terms/countryCode> "BR" .
+<https://www.gbif.org/occurrence/1095415394> <http://rs.tdwg.org/dwc/terms/country> "Brazil" .
+<https://www.gbif.org/occurrence/1095415394> <http://rs.tdwg.org/dwc/terms/continent> "SOUTH_AMERICA" .
+<https://www.gbif.org/occurrence/1095415394> <http://rs.tdwg.org/dwc/terms/collectionCode> "MBM" .
+<https://www.gbif.org/occurrence/1095415394> <http://rs.tdwg.org/dwc/terms/class> "Magnoliopsida" .
+<https://www.gbif.org/occurrence/1095415394> <http://rs.tdwg.org/dwc/terms/catalogNumber> "50370" .
+<https://www.gbif.org/occurrence/1095415394> <http://purl.org/dc/terms/title> "MBM MBM 50370" .
+<https://www.gbif.org/occurrence/1095415394> <http://rs.tdwg.org/dwc/terms/eventDate> "1970-03-19T00:00:00" .
+<https://www.gbif.org/occurrence/1095415394> <http://rs.tdwg.org/dwc/terms/family> "Apocynaceae" .
+<https://www.gbif.org/occurrence/1095415394> <http://rs.tdwg.org/dwc/terms/genus> "Minaria" .
+<https://www.gbif.org/occurrence/1095415394> <http://rs.tdwg.org/dwc/terms/identifiedBy> "Rapini, A" .
+<https://www.gbif.org/occurrence/1095415394> <http://rs.tdwg.org/dwc/terms/institutionCode> "MBM" .
+<https://www.gbif.org/occurrence/1095415394> <http://rs.tdwg.org/dwc/terms/kingdom> "Plantae" .
+<https://www.gbif.org/occurrence/1095415394> <http://rs.tdwg.org/dwc/terms/locality> "Serra do Espinhaço, Ca. 18km E de Diamantina" .
+<https://www.gbif.org/occurrence/1095415394> <http://rs.tdwg.org/dwc/terms/month> "3" .
+<https://www.gbif.org/occurrence/1095415394> <http://rs.tdwg.org/dwc/terms/occurrenceID> "BRA:MBM:MBM:0000050370" .
+<https://www.gbif.org/occurrence/1095415394> <http://rs.tdwg.org/dwc/terms/occurrenceRemarks> "Rocky summits with soil-filled crevices and small areas of white sand.; Rocky summits with soil-filled crevices and small areas of white sand." .
+<https://www.gbif.org/occurrence/1095415394> <http://rs.tdwg.org/dwc/terms/order> "Gentianales" .
+<https://www.gbif.org/occurrence/1095415394> <http://rs.tdwg.org/dwc/terms/phylum> "Tracheophyta" .
+<https://www.gbif.org/occurrence/1095415394> <http://rs.tdwg.org/dwc/terms/recordNumber> "27896a" .
+<https://www.gbif.org/occurrence/1095415394> <http://rs.tdwg.org/dwc/terms/recordedBy> "Irwin, HS" .
+<https://www.gbif.org/occurrence/1095415394> <http://rs.tdwg.org/dwc/terms/scientificName> "Ditassa bifurcata Rapini" .
+<https://www.gbif.org/occurrence/1095415394> <http://rs.tdwg.org/dwc/terms/species> "Minaria bifurcata" .
+<https://www.gbif.org/occurrence/1095415394> <http://rs.tdwg.org/dwc/terms/stateProvince> "Minas Gerais" .
+<https://www.gbif.org/occurrence/1095415394> <http://rs.tdwg.org/dwc/terms/typeStatus> "HOLOTYPE" .
+<https://www.gbif.org/occurrence/1095415394> <http://rs.tdwg.org/dwc/terms/year> "1970" .
+<https://www.gbif.org/occurrence/1095415394> <http://schema.org/alternateName> "27896a" .
+<https://www.gbif.org/occurrence/1095415394> <http://schema.org/alternateName> "50370" .
+<https://www.gbif.org/occurrence/1095415394> <http://schema.org/alternateName> "Irwin, HS 27896a" .
+<https://www.gbif.org/occurrence/1095415394> <http://schema.org/alternateName> "MBM 50370" .
+<https://www.gbif.org/occurrence/1095415394> <http://schema.org/name> "MBM MBM 50370" .
+<https://www.gbif.org/occurrence/1095415394> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rs.tdwg.org/dwc/terms/Occurrence> .
+<https://www.gbif.org/occurrence/1228498019> <http://rs.tdwg.org/dwc/terms/catalogNumber> "V0048890F" .
+<https://www.gbif.org/occurrence/1228498019> <http://rs.tdwg.org/dwc/terms/associatedMedia> <http://fm-digital-assets.fieldmuseum.org/47/692/V0048890F.jpg> .
+<https://www.gbif.org/occurrence/1228498019> <http://purl.org/dc/terms/title> "F Botany V0048890F" .
+<http://fm-digital-assets.fieldmuseum.org/47/692/V0048890F.jpg> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/StillImage> .
+<http://fm-digital-assets.fieldmuseum.org/47/692/V0048890F.jpg> <http://purl.org/dc/terms/title> "V0048890F" .
+<http://fm-digital-assets.fieldmuseum.org/47/692/V0048890F.jpg> <http://purl.org/dc/terms/license> "[Copyright] Field Museum of Natural History - CC BY-NC" .
+<http://fm-digital-assets.fieldmuseum.org/47/692/V0048890F.jpg> <http://purl.org/dc/terms/identifier> <http://fm-digital-assets.fieldmuseum.org/47/692/V0048890F.jpg> .
+<http://fm-digital-assets.fieldmuseum.org/47/692/V0048890F.jpg> <http://purl.org/dc/terms/format> "image/jpeg" .
+<http://fm-digital-assets.fieldmuseum.org/47/692/V0048890F.jpg> <http://purl.org/dc/terms/description> "Ditassa bifurcata Rapini, BRAZIL, H. S. Irwin 27896a, Isotype, F" .
+<http://fm-digital-assets.fieldmuseum.org/47/692/V0048890F.jpg> <http://purl.org/dc/terms/creator> "Field Museum of Natural History - Botany Department | NSF/Mellon - GPI" .
+<https://www.gbif.org/occurrence/1228498019> <http://rs.tdwg.org/dwc/terms/class> "Magnoliopsida" .
+<https://www.gbif.org/occurrence/1228498019> <http://rs.tdwg.org/dwc/terms/collectionCode> "Botany" .
+<https://www.gbif.org/occurrence/1228498019> <http://rs.tdwg.org/dwc/terms/collectionID> "Botany" .
+<https://www.gbif.org/occurrence/1228498019> <http://rs.tdwg.org/dwc/terms/continent> "SOUTH_AMERICA" .
+<https://www.gbif.org/occurrence/1228498019> <http://rs.tdwg.org/dwc/terms/country> "Brazil" .
+<https://www.gbif.org/occurrence/1228498019> <http://rs.tdwg.org/dwc/terms/countryCode> "BR" .
+<https://www.gbif.org/occurrence/1228498019> <http://rs.tdwg.org/dwc/terms/day> "19" .
+<https://www.gbif.org/occurrence/1228498019> <http://rs.tdwg.org/dwc/terms/decimalLatitude> "-10.8339" .
+<https://www.gbif.org/occurrence/1228498019> <http://rs.tdwg.org/dwc/terms/decimalLongitude> "-52.8731" .
+<https://www.gbif.org/occurrence/1228498019> <http://rs.tdwg.org/dwc/terms/eventDate> "1970-03-19T00:00:00" .
+<https://www.gbif.org/occurrence/1228498019> <http://rs.tdwg.org/dwc/terms/family> "Apocynaceae" .
+<https://www.gbif.org/occurrence/1228498019> <http://rs.tdwg.org/dwc/terms/genus> "Minaria" .
+<https://www.gbif.org/occurrence/1228498019> <http://rs.tdwg.org/dwc/terms/geodeticDatum> "WGS84" .
+<https://www.gbif.org/occurrence/1228498019> <http://rs.tdwg.org/dwc/terms/higherGeography> "South America, BRAZIL" .
+<https://www.gbif.org/occurrence/1228498019> <http://rs.tdwg.org/dwc/terms/institutionCode> "F" .
+<https://www.gbif.org/occurrence/1228498019> <http://rs.tdwg.org/dwc/terms/institutionID> "F" .
+<https://www.gbif.org/occurrence/1228498019> <http://rs.tdwg.org/dwc/terms/kingdom> "Plantae" .
+<https://www.gbif.org/occurrence/1228498019> <http://rs.tdwg.org/dwc/terms/month> "3" .
+<https://www.gbif.org/occurrence/1228498019> <http://rs.tdwg.org/dwc/terms/occurrenceID> "87fb2285-6d24-45e5-8c31-5fe0ad41f110" .
+<https://www.gbif.org/occurrence/1228498019> <http://rs.tdwg.org/dwc/terms/order> "Gentianales" .
+<https://www.gbif.org/occurrence/1228498019> <http://rs.tdwg.org/dwc/terms/phylum> "Tracheophyta" .
+<https://www.gbif.org/occurrence/1228498019> <http://rs.tdwg.org/dwc/terms/recordNumber> "27896a" .
+<https://www.gbif.org/occurrence/1228498019> <http://rs.tdwg.org/dwc/terms/recordedBy> "H. S. Irwin et al." .
+<https://www.gbif.org/occurrence/1228498019> <http://rs.tdwg.org/dwc/terms/scientificName> "Ditassa bifurcata Rapini" .
+<https://www.gbif.org/occurrence/1228498019> <http://rs.tdwg.org/dwc/terms/species> "Minaria bifurcata" .
+<https://www.gbif.org/occurrence/1228498019> <http://rs.tdwg.org/dwc/terms/typeStatus> "ISOTYPE" .
+<https://www.gbif.org/occurrence/1228498019> <http://rs.tdwg.org/dwc/terms/year> "1970" .
+<https://www.gbif.org/occurrence/1228498019> <http://schema.org/alternateName> "27896a" .
+<https://www.gbif.org/occurrence/1228498019> <http://schema.org/alternateName> "F V0048890F" .
+<https://www.gbif.org/occurrence/1228498019> <http://schema.org/alternateName> "H. S. Irwin et al. 27896a" .
+<https://www.gbif.org/occurrence/1228498019> <http://schema.org/alternateName> "V0048890F" .
+<https://www.gbif.org/occurrence/1228498019> <http://schema.org/name> "F Botany V0048890F" .
+<https://www.gbif.org/occurrence/1228498019> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rs.tdwg.org/dwc/terms/Occurrence> .
+<http://www.tropicos.org/ImageDownload.aspx?imageid=16517> <http://purl.org/dc/terms/description> "isotype 2101782" .
+<http://www.tropicos.org/ImageDownload.aspx?imageid=16517> <http://purl.org/dc/terms/creator> "MBG" .
+<http://www.tropicos.org/ImageDownload.aspx?imageid=100465523> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/StillImage> .
+<http://www.tropicos.org/ImageDownload.aspx?imageid=100465523> <http://purl.org/dc/terms/title> "Irwin - 27896A - Brazil" .
+<http://www.tropicos.org/ImageDownload.aspx?imageid=100465523> <http://purl.org/dc/terms/subject> <http://www.tropicos.org/ImageFullView.aspx?imageid=100465523> .
+<http://www.tropicos.org/ImageDownload.aspx?imageid=100465523> <http://purl.org/dc/terms/license> <http://creativecommons.org/licenses/by-nc-sa/3.0/> .
+<http://www.tropicos.org/ImageDownload.aspx?imageid=100465523> <http://purl.org/dc/terms/identifier> <http://www.tropicos.org/ImageDownload.aspx?imageid=100465523> .
+<http://www.tropicos.org/ImageDownload.aspx?imageid=100465523> <http://purl.org/dc/terms/format> "image/jpeg" .
+<http://www.tropicos.org/ImageDownload.aspx?imageid=100465523> <http://purl.org/dc/terms/description> "Type Specimen - Isotype 2101782" .
+<http://www.tropicos.org/ImageDownload.aspx?imageid=100465523> <http://purl.org/dc/terms/creator> "MBG" .
+<http://www.tropicos.org/ImageDownload.aspx?imageid=16517> <http://purl.org/dc/terms/format> "image/jpeg" .
+<http://www.tropicos.org/ImageDownload.aspx?imageid=16517> <http://purl.org/dc/terms/identifier> <http://www.tropicos.org/ImageDownload.aspx?imageid=16517> .
+<http://www.tropicos.org/ImageDownload.aspx?imageid=16517> <http://purl.org/dc/terms/license> <http://creativecommons.org/licenses/by-nc-sa/3.0/> .
+<http://www.tropicos.org/ImageDownload.aspx?imageid=16517> <http://purl.org/dc/terms/subject> <http://www.tropicos.org/ImageFullView.aspx?imageid=16517> .
+<http://www.tropicos.org/ImageDownload.aspx?imageid=16517> <http://purl.org/dc/terms/title> "Irwin - 27896A - Brazil" .
+<http://www.tropicos.org/ImageDownload.aspx?imageid=16517> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/StillImage> .
+<https://www.gbif.org/occurrence/1258918210> <http://purl.org/dc/terms/title> "MO MO 1679423" .
+<https://www.gbif.org/occurrence/1258918210> <http://rs.tdwg.org/dwc/terms/associatedMedia> <http://www.tropicos.org/ImageDownload.aspx?imageid=100465523> .
+<https://www.gbif.org/occurrence/1258918210> <http://rs.tdwg.org/dwc/terms/associatedMedia> <http://www.tropicos.org/ImageDownload.aspx?imageid=16517> .
+<https://www.gbif.org/occurrence/1258918210> <http://rs.tdwg.org/dwc/terms/catalogNumber> "1679423" .
+<https://www.gbif.org/occurrence/1258918210> <http://rs.tdwg.org/dwc/terms/class> "Magnoliopsida" .
+<https://www.gbif.org/occurrence/1258918210> <http://rs.tdwg.org/dwc/terms/collectionCode> "MO" .
+<https://www.gbif.org/occurrence/1258918210> <http://rs.tdwg.org/dwc/terms/collectionID> <http://biocol.org/urn:lsid:biocol.org:col:15859> .
+<https://www.gbif.org/occurrence/1258918210> <http://rs.tdwg.org/dwc/terms/continent> "SOUTH_AMERICA" .
+<https://www.gbif.org/occurrence/1258918210> <http://rs.tdwg.org/dwc/terms/country> "Brazil" .
+<https://www.gbif.org/occurrence/1258918210> <http://rs.tdwg.org/dwc/terms/countryCode> "BR" .
+<https://www.gbif.org/occurrence/1258918210> <http://rs.tdwg.org/dwc/terms/day> "19" .
+<https://www.gbif.org/occurrence/1258918210> <http://rs.tdwg.org/dwc/terms/elevation> "1100" .
+<https://www.gbif.org/occurrence/1258918210> <http://rs.tdwg.org/dwc/terms/eventDate> "1970-03-19T00:00:00" .
+<https://www.gbif.org/occurrence/1258918210> <http://rs.tdwg.org/dwc/terms/family> "Apocynaceae" .
+<https://www.gbif.org/occurrence/1258918210> <http://rs.tdwg.org/dwc/terms/genus> "Minaria" .
+<https://www.gbif.org/occurrence/1258918210> <http://rs.tdwg.org/dwc/terms/institutionCode> "MO" .
+<https://www.gbif.org/occurrence/1258918210> <http://rs.tdwg.org/dwc/terms/kingdom> "Plantae" .
+<https://www.gbif.org/occurrence/1258918210> <http://rs.tdwg.org/dwc/terms/locality> "18 km E of Diamantina, rocky summits with soil filled crevices and small areas of white sand" .
+<https://www.gbif.org/occurrence/1258918210> <http://rs.tdwg.org/dwc/terms/month> "3" .
+<https://www.gbif.org/occurrence/1258918210> <http://rs.tdwg.org/dwc/terms/occurrenceID> <urn:catalog:MO:Tropicos:1679423> .
+<https://www.gbif.org/occurrence/1258918210> <http://rs.tdwg.org/dwc/terms/order> "Gentianales" .
+<https://www.gbif.org/occurrence/1258918210> <http://rs.tdwg.org/dwc/terms/phylum> "Tracheophyta" .
+<https://www.gbif.org/occurrence/1258918210> <http://rs.tdwg.org/dwc/terms/recordNumber> "Irwin 27896A" .
+<https://www.gbif.org/occurrence/1258918210> <http://rs.tdwg.org/dwc/terms/recordedBy> "Howard S. Irwin|S.F. da Fonsêca|R. Souza|R. Reis dos Santos|J. Ramos" .
+<https://www.gbif.org/occurrence/1258918210> <http://rs.tdwg.org/dwc/terms/scientificName> "Ditassa bifurcata Rapini" .
+<https://www.gbif.org/occurrence/1258918210> <http://rs.tdwg.org/dwc/terms/species> "Minaria bifurcata" .
+<https://www.gbif.org/occurrence/1258918210> <http://rs.tdwg.org/dwc/terms/stateProvince> "Minas Gerais" .
+<https://www.gbif.org/occurrence/1258918210> <http://rs.tdwg.org/dwc/terms/taxonID> "50282937" .
+<https://www.gbif.org/occurrence/1258918210> <http://rs.tdwg.org/dwc/terms/typeStatus> "ISOTYPE" .
+<https://www.gbif.org/occurrence/1258918210> <http://rs.tdwg.org/dwc/terms/year> "1970" .
+<https://www.gbif.org/occurrence/1258918210> <http://schema.org/alternateName> "1679423" .
+<https://www.gbif.org/occurrence/1258918210> <http://schema.org/alternateName> "Howard S. Irwin|S.F. da Fonsêca|R. Souza|R. Reis dos Santos|J. Ramos Irwin 27896A" .
+<https://www.gbif.org/occurrence/1258918210> <http://schema.org/alternateName> "Irwin 27896A" .
+<https://www.gbif.org/occurrence/1258918210> <http://schema.org/alternateName> "MO 1679423" .
+<https://www.gbif.org/occurrence/1258918210> <http://schema.org/name> "MO MO 1679423" .
+<https://www.gbif.org/occurrence/1258918210> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rs.tdwg.org/dwc/terms/Occurrence> .
+<https://www.gbif.org/occurrence/1803100344> <http://rs.tdwg.org/dwc/terms/eventDate> "1970-03-19T00:00:00" .
+<https://www.gbif.org/occurrence/1803100344> <http://rs.tdwg.org/dwc/terms/elevation> "1100" .
+<https://www.gbif.org/occurrence/1803100344> <http://rs.tdwg.org/dwc/terms/day> "19" .
+<https://www.gbif.org/occurrence/1803100344> <http://rs.tdwg.org/dwc/terms/dateIdentified> "2001-04-01T00:00:00" .
+<https://www.gbif.org/occurrence/1803100344> <http://rs.tdwg.org/dwc/terms/countryCode> "BR" .
+<https://www.gbif.org/occurrence/1803100344> <http://rs.tdwg.org/dwc/terms/country> "Brazil" .
+<https://www.gbif.org/occurrence/1803100344> <http://rs.tdwg.org/dwc/terms/collectionCode> "R-TIPOS" .
+<https://www.gbif.org/occurrence/1803100344> <http://rs.tdwg.org/dwc/terms/class> "Magnoliopsida" .
+<https://www.gbif.org/occurrence/1803100344> <http://rs.tdwg.org/dwc/terms/catalogNumber> "211996" .
+<https://www.gbif.org/occurrence/1803100344> <http://purl.org/dc/terms/title> "MN R-TIPOS 211996" .
+<https://www.gbif.org/occurrence/1803100344> <http://rs.tdwg.org/dwc/terms/family> "Apocynaceae" .
+<https://www.gbif.org/occurrence/1803100344> <http://rs.tdwg.org/dwc/terms/genus> "Minaria" .
+<https://www.gbif.org/occurrence/1803100344> <http://rs.tdwg.org/dwc/terms/identifiedBy> "Konno, T." .
+<https://www.gbif.org/occurrence/1803100344> <http://rs.tdwg.org/dwc/terms/institutionCode> "MN" .
+<https://www.gbif.org/occurrence/1803100344> <http://rs.tdwg.org/dwc/terms/kingdom> "Plantae" .
+<https://www.gbif.org/occurrence/1803100344> <http://rs.tdwg.org/dwc/terms/month> "3" .
+<https://www.gbif.org/occurrence/1803100344> <http://rs.tdwg.org/dwc/terms/municipality> "Serra do Espinhaço" .
+<https://www.gbif.org/occurrence/1803100344> <http://rs.tdwg.org/dwc/terms/occurrenceID> "BRA:MN:R-TIPOS:0000211996" .
+<https://www.gbif.org/occurrence/1803100344> <http://rs.tdwg.org/dwc/terms/order> "Gentianales" .
+<https://www.gbif.org/occurrence/1803100344> <http://rs.tdwg.org/dwc/terms/phylum> "Tracheophyta" .
+<https://www.gbif.org/occurrence/1803100344> <http://rs.tdwg.org/dwc/terms/recordNumber> "27896 a" .
+<https://www.gbif.org/occurrence/1803100344> <http://rs.tdwg.org/dwc/terms/recordedBy> "Irwin, H.S. ; Fonseca, S.F.; Souza, R.; Santos, R.R. & Ramos, J." .
+<https://www.gbif.org/occurrence/1803100344> <http://rs.tdwg.org/dwc/terms/scientificName> "Ditassa bifurcata Rapini" .
+<https://www.gbif.org/occurrence/1803100344> <http://rs.tdwg.org/dwc/terms/species> "Minaria bifurcata" .
+<https://www.gbif.org/occurrence/1803100344> <http://rs.tdwg.org/dwc/terms/stateProvince> "Minas Gerais" .
+<https://www.gbif.org/occurrence/1803100344> <http://rs.tdwg.org/dwc/terms/typeStatus> "ISOTYPE" .
+<https://www.gbif.org/occurrence/1803100344> <http://rs.tdwg.org/dwc/terms/year> "1970" .
+<https://www.gbif.org/occurrence/1803100344> <http://schema.org/alternateName> "211996" .
+<https://www.gbif.org/occurrence/1803100344> <http://schema.org/alternateName> "27896 a" .
+<https://www.gbif.org/occurrence/1803100344> <http://schema.org/alternateName> "Irwin, H.S. ; Fonseca, S.F.; Souza, R.; Santos, R.R. & Ramos, J. 27896 a" .
+<https://www.gbif.org/occurrence/1803100344> <http://schema.org/alternateName> "MN 211996" .
+<https://www.gbif.org/occurrence/1803100344> <http://schema.org/name> "MN R-TIPOS 211996" .
+<https://www.gbif.org/occurrence/1803100344> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rs.tdwg.org/dwc/terms/Occurrence> .
