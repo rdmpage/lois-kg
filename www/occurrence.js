@@ -171,7 +171,35 @@ item = data;
 
 <!-- title -->
 <h1>
-	<%= get_literal(item['dcterms:title']) %>
+	<% 
+	var title = '';
+	if (item['dcterms:title']) {
+    	// use existing title (if any)
+		title = get_literal(item['dcterms:title']);
+   } else {
+   		// make a nice title for display
+   		var parts = [];
+   		
+	    if (item['dwc:typeStatus']) {
+	    	parts.push(item['dwc:typeStatus'] + ' of');
+	    }
+
+	    if (item['dwc:scientificName']) {
+	    	parts.push(item['dwc:scientificName']);
+	    }
+	    
+	    if (item['dwc:family']) {
+	    	parts.push('[family ' + item['dwc:family'].toUpperCase() + ']');
+	    }
+
+	    if (item['dwc:institutionCode']) {
+	    	parts.push('(' + item['dwc:institutionCode'] + ')');
+	    }
+	    
+	    title = parts.join(' ');
+   }
+   %>
+   <%= title %>
 </h1>
 
 <!-- identifiers -->
@@ -184,6 +212,7 @@ item = data;
 
 <!-- other names -->
 <div>
+	<span class="heading">Alternate names</span>
 	<% if (item['alternateName']) { %>
 		<%- item['alternateName'].join('; '); %>		
 	<% }%>
@@ -194,7 +223,11 @@ item = data;
 <div>
 	<% if (item['dwc:occurrenceID']) { %>
 		<span class="heading">Occurrence ID</span>
-		<%= get_literal(item['dwc:occurrenceID']) %>
+		<% if (item['dwc:occurrenceID']['@id']) { %>
+			<%= item['dwc:occurrenceID']['@id'] %>		
+		<% } else { %>
+			<%= get_literal(item['dwc:occurrenceID']) %>
+		<% } %>
 	<% }%>		
 </div>
 
@@ -206,6 +239,16 @@ item = data;
 	<% }%>		
 </div>
 
+
+
+<div>
+	<% if (item['dwc:eventDate']) { %>
+		<span class="heading">Event date</span>
+		<%= isodate_to_string(item['dwc:eventDate']) %>
+	<% }%>		
+</div>
+
+
 <div>
 	<% if (item['dwc:scientificName']) { %>
 		<span class="heading">Scientific name</span>
@@ -214,7 +257,7 @@ item = data;
 </div>
 
 <div>
-	<% if (item['dwc:recordedBy']) { %>
+	<% if (item['dwc:typeStatus']) { %>
 		<span class="heading">Type status</span>
 		<%= get_literal(item['dwc:typeStatus']) %>
 	<% }%>		

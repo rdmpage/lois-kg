@@ -112,6 +112,7 @@ function display_entity($uri)
  	echo '<li><a href="?uri=urn:lsid:ipni.org:names:77074582-1"><i>Minaria</i> T.U.P.Konno & Rapini</a></li>';
 	echo '<li><a href="?uri=urn:lsid:ipni.org:authors:39541-1">Alessandro Rapini</a></li>';
 	echo '<li><a href="?uri=http://worldcat.org/issn/1672-6472">Mycosystema / 菌物学报</a></li>';
+	echo '<li><a href="?uri=https://www.gbif.org/occurrence/1258918210">ISOTYPE of Ditassa bifurcata Rapini [family APOCYNACEAE]</a></li>';
  	echo '</ul>';
  	
  	
@@ -234,7 +235,10 @@ function render(template) {
 		}
 		
 		/* heading */
-		.heading { font-weight:bold; }
+		.heading { 
+			font-weight:bold; 
+			color:black;
+		}
 		
 	</style>
 ';
@@ -244,9 +248,11 @@ function render(template) {
 			padding:20px; 
 			font-family: "Open Sans", sans-serif; 
 			line-height:1.5em;
+			color: rgb(128,128,128);
 		}
 		h1 { 
 			line-height:1.2em;
+			color: black;
 		}
 	</style>	
 	</head>';
