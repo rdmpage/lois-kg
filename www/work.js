@@ -229,7 +229,7 @@ item = data;
 	}
 	%>
 	
-	<spanclass="heading">KEYWORDS:</span>
+	<span class="heading">KEYWORDS:</span>
 	<%- keywords_string %>
 	<%  
 } %>
