@@ -28,7 +28,11 @@ get_literal = function(key) {
 			
 			var strings = [];
 			for (var i in key) {
-				strings.push(key[i]['@value']);
+				if (typeof key[i] === 'object') {
+					strings.push(key[i]['@value']);
+				} else {
+					strings.push(key[i]);
+				}
 			}
 			literal = strings.join(' / ');			
 		}
@@ -127,8 +131,17 @@ item = data;
 <div>
 
 <!-- container -->
-<% if (item.isPartOf) {%>
+<% if (item.isPartOf) { %>
+	<% if (item.isPartOf['@id']) { %>
+		<a href="?uri=<%= item.isPartOf['@id'] %>">
+	<% } %>
+
 	<%= get_literal(item.isPartOf.name) %>
+	
+	<% if (item.isPartOf['@id']) { %>
+		</a>
+	<% } %>
+	
 <% } %>
 
 <!-- date -->
@@ -244,7 +257,7 @@ item = data;
 	// DOI
 	id = get_property_value(item.identifier, 'doi');	  
 	if (id != '') {  %>	
-		DOI:
+		<span class="heading">DOI</span>
 		<a href="https://doi.org/<%=id%>">
 		<%= id %>
 		</a>
@@ -253,7 +266,7 @@ item = data;
 	// Handle
 	id = get_property_value(item.identifier, 'handle');	  
 	if (id != '') {  %>	
-		Handle:
+		<span class="heading">Handle</span>
 		<a href="https://hdl.handle.net/<%=id%>">
 		<%= id %>
 		</a>
@@ -263,7 +276,7 @@ item = data;
 	// PMID
 	id = get_property_value(item.identifier, 'pmid');	  
 	if (id != '') {  %>	
-		PMID:
+		<span class="heading">PMID</span>
 		<a href="https://www.ncbi.nlm.nih.gov/pubmed/<%=id%>">
 		<%= id %>
 		</a>

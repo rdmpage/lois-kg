@@ -26,7 +26,11 @@ get_literal = function(key) {
 			
 			var strings = [];
 			for (var i in key) {
-				strings.push(key[i]['@value']);
+				if (typeof key[i] === 'object') {
+					strings.push(key[i]['@value']);
+				} else {
+					strings.push(key[i]);
+				}
 			}
 			literal = strings.join(' / ');			
 		}
