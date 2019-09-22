@@ -1,0 +1,744 @@
+var data = {
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+
+            "@id": "http://www.archive.org/zoologische-verhandelingen-91-001-034/manifest.json",
+            "@type": "sc:manifest",
+            "sequences": [
+                {
+                    "@id": "http://www.archive.org/zoologische-verhandelingen-91-001-034/canvas/default",
+                    "@type": "sc:Sequence",
+                    "canvases": [
+                        {
+                            "@id": "http://www.archive.org/zoologische-verhandelingen-91-001-034/canvas/c0",
+                            "@type": "sc:Canvas",
+                            "images": [
+                                {
+                                    "@id": "http://www.archive.org/zoologische-verhandelingen-91-001-034/canvas/c0/annotation",
+                                    "@type": "oa:Annotation",
+                                    "resource": {
+                                        "@id": "http://www.archive.org/download/zoologische-verhandelingen-91-001-034/zoologische-verhandelingen-91-001-034/page/n0_medium.jpg",
+                                        "@type": "dctypes:Image",
+                                        "format": "image/jpeg",
+                                        "height": "6190",
+                                        "width": "4490"
+                                    },
+                                    "on": "http://www.archive.org/zoologische-verhandelingen-91-001-034/canvas/c0",
+                                    "motivation": "sc:painting"
+                                }
+                            ],
+                            "label": "0",
+                            "height": "6190",
+                            "width": "4490"
+                        },
+                        {
+                            "@id": "http://www.archive.org/zoologische-verhandelingen-91-001-034/canvas/c1",
+                            "@type": "sc:Canvas",
+                            "images": [
+                                {
+                                    "@id": "http://www.archive.org/zoologische-verhandelingen-91-001-034/canvas/c1/annotation",
+                                    "@type": "oa:Annotation",
+                                    "resource": {
+                                        "@id": "http://www.archive.org/download/zoologische-verhandelingen-91-001-034/zoologische-verhandelingen-91-001-034/page/n1_medium.jpg",
+                                        "@type": "dctypes:Image",
+                                        "format": "image/jpeg",
+                                        "height": "6196",
+                                        "width": "4498"
+                                    },
+                                    "on": "http://www.archive.org/zoologische-verhandelingen-91-001-034/canvas/c1",
+                                    "motivation": "sc:painting"
+                                }
+                            ],
+                            "label": "1",
+                            "height": "6196",
+                            "width": "4498"
+                        },
+                        {
+                            "@id": "http://www.archive.org/zoologische-verhandelingen-91-001-034/canvas/c2",
+                            "@type": "sc:Canvas",
+                            "images": [
+                                {
+                                    "@id": "http://www.archive.org/zoologische-verhandelingen-91-001-034/canvas/c2/annotation",
+                                    "@type": "oa:Annotation",
+                                    "resource": {
+                                        "@id": "http://www.archive.org/download/zoologische-verhandelingen-91-001-034/zoologische-verhandelingen-91-001-034/page/n2_medium.jpg",
+                                        "@type": "dctypes:Image",
+                                        "format": "image/jpeg",
+                                        "height": "6190",
+                                        "width": "4490"
+                                    },
+                                    "on": "http://www.archive.org/zoologische-verhandelingen-91-001-034/canvas/c2",
+                                    "motivation": "sc:painting"
+                                }
+                            ],
+                            "label": "2",
+                            "height": "6190",
+                            "width": "4490"
+                        },
+                        {
+                            "@id": "http://www.archive.org/zoologische-verhandelingen-91-001-034/canvas/c3",
+                            "@type": "sc:Canvas",
+                            "images": [
+                                {
+                                    "@id": "http://www.archive.org/zoologische-verhandelingen-91-001-034/canvas/c3/annotation",
+                                    "@type": "oa:Annotation",
+                                    "resource": {
+                                        "@id": "http://www.archive.org/download/zoologische-verhandelingen-91-001-034/zoologische-verhandelingen-91-001-034/page/n3_medium.jpg",
+                                        "@type": "dctypes:Image",
+                                        "format": "image/jpeg",
+                                        "height": "6190",
+                                        "width": "4490"
+                                    },
+                                    "on": "http://www.archive.org/zoologische-verhandelingen-91-001-034/canvas/c3",
+                                    "motivation": "sc:painting"
+                                }
+                            ],
+                            "label": "3",
+                            "height": "6190",
+                            "width": "4490"
+                        },
+                        {
+                            "@id": "http://www.archive.org/zoologische-verhandelingen-91-001-034/canvas/c4",
+                            "@type": "sc:Canvas",
+                            "images": [
+                                {
+                                    "@id": "http://www.archive.org/zoologische-verhandelingen-91-001-034/canvas/c4/annotation",
+                                    "@type": "oa:Annotation",
+                                    "resource": {
+                                        "@id": "http://www.archive.org/download/zoologische-verhandelingen-91-001-034/zoologische-verhandelingen-91-001-034/page/n4_medium.jpg",
+                                        "@type": "dctypes:Image",
+                                        "format": "image/jpeg",
+                                        "height": "6196",
+                                        "width": "4497"
+                                    },
+                                    "on": "http://www.archive.org/zoologische-verhandelingen-91-001-034/canvas/c4",
+                                    "motivation": "sc:painting"
+                                }
+                            ],
+                            "label": "4",
+                            "height": "6196",
+                            "width": "4497"
+                        },
+                        {
+                            "@id": "http://www.archive.org/zoologische-verhandelingen-91-001-034/canvas/c5",
+                            "@type": "sc:Canvas",
+                            "images": [
+                                {
+                                    "@id": "http://www.archive.org/zoologische-verhandelingen-91-001-034/canvas/c5/annotation",
+                                    "@type": "oa:Annotation",
+                                    "resource": {
+                                        "@id": "http://www.archive.org/download/zoologische-verhandelingen-91-001-034/zoologische-verhandelingen-91-001-034/page/n5_medium.jpg",
+                                        "@type": "dctypes:Image",
+                                        "format": "image/jpeg",
+                                        "height": "6195",
+                                        "width": "4497"
+                                    },
+                                    "on": "http://www.archive.org/zoologische-verhandelingen-91-001-034/canvas/c5",
+                                    "motivation": "sc:painting"
+                                }
+                            ],
+                            "label": "5",
+                            "height": "6195",
+                            "width": "4497"
+                        },
+                        {
+                            "@id": "http://www.archive.org/zoologische-verhandelingen-91-001-034/canvas/c6",
+                            "@type": "sc:Canvas",
+                            "images": [
+                                {
+                                    "@id": "http://www.archive.org/zoologische-verhandelingen-91-001-034/canvas/c6/annotation",
+                                    "@type": "oa:Annotation",
+                                    "resource": {
+                                        "@id": "http://www.archive.org/download/zoologische-verhandelingen-91-001-034/zoologische-verhandelingen-91-001-034/page/n6_medium.jpg",
+                                        "@type": "dctypes:Image",
+                                        "format": "image/jpeg",
+                                        "height": "6190",
+                                        "width": "4490"
+                                    },
+                                    "on": "http://www.archive.org/zoologische-verhandelingen-91-001-034/canvas/c6",
+                                    "motivation": "sc:painting"
+                                }
+                            ],
+                            "label": "6",
+                            "height": "6190",
+                            "width": "4490"
+                        },
+                        {
+                            "@id": "http://www.archive.org/zoologische-verhandelingen-91-001-034/canvas/c7",
+                            "@type": "sc:Canvas",
+                            "images": [
+                                {
+                                    "@id": "http://www.archive.org/zoologische-verhandelingen-91-001-034/canvas/c7/annotation",
+                                    "@type": "oa:Annotation",
+                                    "resource": {
+                                        "@id": "http://www.archive.org/download/zoologische-verhandelingen-91-001-034/zoologische-verhandelingen-91-001-034/page/n7_medium.jpg",
+                                        "@type": "dctypes:Image",
+                                        "format": "image/jpeg",
+                                        "height": "6195",
+                                        "width": "4495"
+                                    },
+                                    "on": "http://www.archive.org/zoologische-verhandelingen-91-001-034/canvas/c7",
+                                    "motivation": "sc:painting"
+                                }
+                            ],
+                            "label": "7",
+                            "height": "6195",
+                            "width": "4495"
+                        },
+                        {
+                            "@id": "http://www.archive.org/zoologische-verhandelingen-91-001-034/canvas/c8",
+                            "@type": "sc:Canvas",
+                            "images": [
+                                {
+                                    "@id": "http://www.archive.org/zoologische-verhandelingen-91-001-034/canvas/c8/annotation",
+                                    "@type": "oa:Annotation",
+                                    "resource": {
+                                        "@id": "http://www.archive.org/download/zoologische-verhandelingen-91-001-034/zoologische-verhandelingen-91-001-034/page/n8_medium.jpg",
+                                        "@type": "dctypes:Image",
+                                        "format": "image/jpeg",
+                                        "height": "6190",
+                                        "width": "4490"
+                                    },
+                                    "on": "http://www.archive.org/zoologische-verhandelingen-91-001-034/canvas/c8",
+                                    "motivation": "sc:painting"
+                                }
+                            ],
+                            "label": "8",
+                            "height": "6190",
+                            "width": "4490"
+                        },
+                        {
+                            "@id": "http://www.archive.org/zoologische-verhandelingen-91-001-034/canvas/c9",
+                            "@type": "sc:Canvas",
+                            "images": [
+                                {
+                                    "@id": "http://www.archive.org/zoologische-verhandelingen-91-001-034/canvas/c9/annotation",
+                                    "@type": "oa:Annotation",
+                                    "resource": {
+                                        "@id": "http://www.archive.org/download/zoologische-verhandelingen-91-001-034/zoologische-verhandelingen-91-001-034/page/n9_medium.jpg",
+                                        "@type": "dctypes:Image",
+                                        "format": "image/jpeg",
+                                        "height": "6190",
+                                        "width": "4490"
+                                    },
+                                    "on": "http://www.archive.org/zoologische-verhandelingen-91-001-034/canvas/c9",
+                                    "motivation": "sc:painting"
+                                }
+                            ],
+                            "label": "9",
+                            "height": "6190",
+                            "width": "4490"
+                        },
+                        {
+                            "@id": "http://www.archive.org/zoologische-verhandelingen-91-001-034/canvas/c10",
+                            "@type": "sc:Canvas",
+                            "images": [
+                                {
+                                    "@id": "http://www.archive.org/zoologische-verhandelingen-91-001-034/canvas/c10/annotation",
+                                    "@type": "oa:Annotation",
+                                    "resource": {
+                                        "@id": "http://www.archive.org/download/zoologische-verhandelingen-91-001-034/zoologische-verhandelingen-91-001-034/page/n10_medium.jpg",
+                                        "@type": "dctypes:Image",
+                                        "format": "image/jpeg",
+                                        "height": "6190",
+                                        "width": "4490"
+                                    },
+                                    "on": "http://www.archive.org/zoologische-verhandelingen-91-001-034/canvas/c10",
+                                    "motivation": "sc:painting"
+                                }
+                            ],
+                            "label": "10",
+                            "height": "6190",
+                            "width": "4490"
+                        },
+                        {
+                            "@id": "http://www.archive.org/zoologische-verhandelingen-91-001-034/canvas/c11",
+                            "@type": "sc:Canvas",
+                            "images": [
+                                {
+                                    "@id": "http://www.archive.org/zoologische-verhandelingen-91-001-034/canvas/c11/annotation",
+                                    "@type": "oa:Annotation",
+                                    "resource": {
+                                        "@id": "http://www.archive.org/download/zoologische-verhandelingen-91-001-034/zoologische-verhandelingen-91-001-034/page/n11_medium.jpg",
+                                        "@type": "dctypes:Image",
+                                        "format": "image/jpeg",
+                                        "height": "6190",
+                                        "width": "4490"
+                                    },
+                                    "on": "http://www.archive.org/zoologische-verhandelingen-91-001-034/canvas/c11",
+                                    "motivation": "sc:painting"
+                                }
+                            ],
+                            "label": "11",
+                            "height": "6190",
+                            "width": "4490"
+                        },
+                        {
+                            "@id": "http://www.archive.org/zoologische-verhandelingen-91-001-034/canvas/c12",
+                            "@type": "sc:Canvas",
+                            "images": [
+                                {
+                                    "@id": "http://www.archive.org/zoologische-verhandelingen-91-001-034/canvas/c12/annotation",
+                                    "@type": "oa:Annotation",
+                                    "resource": {
+                                        "@id": "http://www.archive.org/download/zoologische-verhandelingen-91-001-034/zoologische-verhandelingen-91-001-034/page/n12_medium.jpg",
+                                        "@type": "dctypes:Image",
+                                        "format": "image/jpeg",
+                                        "height": "6190",
+                                        "width": "4490"
+                                    },
+                                    "on": "http://www.archive.org/zoologische-verhandelingen-91-001-034/canvas/c12",
+                                    "motivation": "sc:painting"
+                                }
+                            ],
+                            "label": "12",
+                            "height": "6190",
+                            "width": "4490"
+                        },
+                        {
+                            "@id": "http://www.archive.org/zoologische-verhandelingen-91-001-034/canvas/c13",
+                            "@type": "sc:Canvas",
+                            "images": [
+                                {
+                                    "@id": "http://www.archive.org/zoologische-verhandelingen-91-001-034/canvas/c13/annotation",
+                                    "@type": "oa:Annotation",
+                                    "resource": {
+                                        "@id": "http://www.archive.org/download/zoologische-verhandelingen-91-001-034/zoologische-verhandelingen-91-001-034/page/n13_medium.jpg",
+                                        "@type": "dctypes:Image",
+                                        "format": "image/jpeg",
+                                        "height": "6195",
+                                        "width": "4495"
+                                    },
+                                    "on": "http://www.archive.org/zoologische-verhandelingen-91-001-034/canvas/c13",
+                                    "motivation": "sc:painting"
+                                }
+                            ],
+                            "label": "13",
+                            "height": "6195",
+                            "width": "4495"
+                        },
+                        {
+                            "@id": "http://www.archive.org/zoologische-verhandelingen-91-001-034/canvas/c14",
+                            "@type": "sc:Canvas",
+                            "images": [
+                                {
+                                    "@id": "http://www.archive.org/zoologische-verhandelingen-91-001-034/canvas/c14/annotation",
+                                    "@type": "oa:Annotation",
+                                    "resource": {
+                                        "@id": "http://www.archive.org/download/zoologische-verhandelingen-91-001-034/zoologische-verhandelingen-91-001-034/page/n14_medium.jpg",
+                                        "@type": "dctypes:Image",
+                                        "format": "image/jpeg",
+                                        "height": "6190",
+                                        "width": "4490"
+                                    },
+                                    "on": "http://www.archive.org/zoologische-verhandelingen-91-001-034/canvas/c14",
+                                    "motivation": "sc:painting"
+                                }
+                            ],
+                            "label": "14",
+                            "height": "6190",
+                            "width": "4490"
+                        },
+                        {
+                            "@id": "http://www.archive.org/zoologische-verhandelingen-91-001-034/canvas/c15",
+                            "@type": "sc:Canvas",
+                            "images": [
+                                {
+                                    "@id": "http://www.archive.org/zoologische-verhandelingen-91-001-034/canvas/c15/annotation",
+                                    "@type": "oa:Annotation",
+                                    "resource": {
+                                        "@id": "http://www.archive.org/download/zoologische-verhandelingen-91-001-034/zoologische-verhandelingen-91-001-034/page/n15_medium.jpg",
+                                        "@type": "dctypes:Image",
+                                        "format": "image/jpeg",
+                                        "height": "6195",
+                                        "width": "4495"
+                                    },
+                                    "on": "http://www.archive.org/zoologische-verhandelingen-91-001-034/canvas/c15",
+                                    "motivation": "sc:painting"
+                                }
+                            ],
+                            "label": "15",
+                            "height": "6195",
+                            "width": "4495"
+                        },
+                        {
+                            "@id": "http://www.archive.org/zoologische-verhandelingen-91-001-034/canvas/c16",
+                            "@type": "sc:Canvas",
+                            "images": [
+                                {
+                                    "@id": "http://www.archive.org/zoologische-verhandelingen-91-001-034/canvas/c16/annotation",
+                                    "@type": "oa:Annotation",
+                                    "resource": {
+                                        "@id": "http://www.archive.org/download/zoologische-verhandelingen-91-001-034/zoologische-verhandelingen-91-001-034/page/n16_medium.jpg",
+                                        "@type": "dctypes:Image",
+                                        "format": "image/jpeg",
+                                        "height": "6190",
+                                        "width": "4490"
+                                    },
+                                    "on": "http://www.archive.org/zoologische-verhandelingen-91-001-034/canvas/c16",
+                                    "motivation": "sc:painting"
+                                }
+                            ],
+                            "label": "16",
+                            "height": "6190",
+                            "width": "4490"
+                        },
+                        {
+                            "@id": "http://www.archive.org/zoologische-verhandelingen-91-001-034/canvas/c17",
+                            "@type": "sc:Canvas",
+                            "images": [
+                                {
+                                    "@id": "http://www.archive.org/zoologische-verhandelingen-91-001-034/canvas/c17/annotation",
+                                    "@type": "oa:Annotation",
+                                    "resource": {
+                                        "@id": "http://www.archive.org/download/zoologische-verhandelingen-91-001-034/zoologische-verhandelingen-91-001-034/page/n17_medium.jpg",
+                                        "@type": "dctypes:Image",
+                                        "format": "image/jpeg",
+                                        "height": "6190",
+                                        "width": "4490"
+                                    },
+                                    "on": "http://www.archive.org/zoologische-verhandelingen-91-001-034/canvas/c17",
+                                    "motivation": "sc:painting"
+                                }
+                            ],
+                            "label": "17",
+                            "height": "6190",
+                            "width": "4490"
+                        },
+                        {
+                            "@id": "http://www.archive.org/zoologische-verhandelingen-91-001-034/canvas/c18",
+                            "@type": "sc:Canvas",
+                            "images": [
+                                {
+                                    "@id": "http://www.archive.org/zoologische-verhandelingen-91-001-034/canvas/c18/annotation",
+                                    "@type": "oa:Annotation",
+                                    "resource": {
+                                        "@id": "http://www.archive.org/download/zoologische-verhandelingen-91-001-034/zoologische-verhandelingen-91-001-034/page/n18_medium.jpg",
+                                        "@type": "dctypes:Image",
+                                        "format": "image/jpeg",
+                                        "height": "6190",
+                                        "width": "4490"
+                                    },
+                                    "on": "http://www.archive.org/zoologische-verhandelingen-91-001-034/canvas/c18",
+                                    "motivation": "sc:painting"
+                                }
+                            ],
+                            "label": "18",
+                            "height": "6190",
+                            "width": "4490"
+                        },
+                        {
+                            "@id": "http://www.archive.org/zoologische-verhandelingen-91-001-034/canvas/c19",
+                            "@type": "sc:Canvas",
+                            "images": [
+                                {
+                                    "@id": "http://www.archive.org/zoologische-verhandelingen-91-001-034/canvas/c19/annotation",
+                                    "@type": "oa:Annotation",
+                                    "resource": {
+                                        "@id": "http://www.archive.org/download/zoologische-verhandelingen-91-001-034/zoologische-verhandelingen-91-001-034/page/n19_medium.jpg",
+                                        "@type": "dctypes:Image",
+                                        "format": "image/jpeg",
+                                        "height": "6195",
+                                        "width": "4496"
+                                    },
+                                    "on": "http://www.archive.org/zoologische-verhandelingen-91-001-034/canvas/c19",
+                                    "motivation": "sc:painting"
+                                }
+                            ],
+                            "label": "19",
+                            "height": "6195",
+                            "width": "4496"
+                        },
+                        {
+                            "@id": "http://www.archive.org/zoologische-verhandelingen-91-001-034/canvas/c20",
+                            "@type": "sc:Canvas",
+                            "images": [
+                                {
+                                    "@id": "http://www.archive.org/zoologische-verhandelingen-91-001-034/canvas/c20/annotation",
+                                    "@type": "oa:Annotation",
+                                    "resource": {
+                                        "@id": "http://www.archive.org/download/zoologische-verhandelingen-91-001-034/zoologische-verhandelingen-91-001-034/page/n20_medium.jpg",
+                                        "@type": "dctypes:Image",
+                                        "format": "image/jpeg",
+                                        "height": "6190",
+                                        "width": "4490"
+                                    },
+                                    "on": "http://www.archive.org/zoologische-verhandelingen-91-001-034/canvas/c20",
+                                    "motivation": "sc:painting"
+                                }
+                            ],
+                            "label": "20",
+                            "height": "6190",
+                            "width": "4490"
+                        },
+                        {
+                            "@id": "http://www.archive.org/zoologische-verhandelingen-91-001-034/canvas/c21",
+                            "@type": "sc:Canvas",
+                            "images": [
+                                {
+                                    "@id": "http://www.archive.org/zoologische-verhandelingen-91-001-034/canvas/c21/annotation",
+                                    "@type": "oa:Annotation",
+                                    "resource": {
+                                        "@id": "http://www.archive.org/download/zoologische-verhandelingen-91-001-034/zoologische-verhandelingen-91-001-034/page/n21_medium.jpg",
+                                        "@type": "dctypes:Image",
+                                        "format": "image/jpeg",
+                                        "height": "6190",
+                                        "width": "4490"
+                                    },
+                                    "on": "http://www.archive.org/zoologische-verhandelingen-91-001-034/canvas/c21",
+                                    "motivation": "sc:painting"
+                                }
+                            ],
+                            "label": "21",
+                            "height": "6190",
+                            "width": "4490"
+                        },
+                        {
+                            "@id": "http://www.archive.org/zoologische-verhandelingen-91-001-034/canvas/c22",
+                            "@type": "sc:Canvas",
+                            "images": [
+                                {
+                                    "@id": "http://www.archive.org/zoologische-verhandelingen-91-001-034/canvas/c22/annotation",
+                                    "@type": "oa:Annotation",
+                                    "resource": {
+                                        "@id": "http://www.archive.org/download/zoologische-verhandelingen-91-001-034/zoologische-verhandelingen-91-001-034/page/n22_medium.jpg",
+                                        "@type": "dctypes:Image",
+                                        "format": "image/jpeg",
+                                        "height": "6190",
+                                        "width": "4490"
+                                    },
+                                    "on": "http://www.archive.org/zoologische-verhandelingen-91-001-034/canvas/c22",
+                                    "motivation": "sc:painting"
+                                }
+                            ],
+                            "label": "22",
+                            "height": "6190",
+                            "width": "4490"
+                        },
+                        {
+                            "@id": "http://www.archive.org/zoologische-verhandelingen-91-001-034/canvas/c23",
+                            "@type": "sc:Canvas",
+                            "images": [
+                                {
+                                    "@id": "http://www.archive.org/zoologische-verhandelingen-91-001-034/canvas/c23/annotation",
+                                    "@type": "oa:Annotation",
+                                    "resource": {
+                                        "@id": "http://www.archive.org/download/zoologische-verhandelingen-91-001-034/zoologische-verhandelingen-91-001-034/page/n23_medium.jpg",
+                                        "@type": "dctypes:Image",
+                                        "format": "image/jpeg",
+                                        "height": "6190",
+                                        "width": "4490"
+                                    },
+                                    "on": "http://www.archive.org/zoologische-verhandelingen-91-001-034/canvas/c23",
+                                    "motivation": "sc:painting"
+                                }
+                            ],
+                            "label": "23",
+                            "height": "6190",
+                            "width": "4490"
+                        },
+                        {
+                            "@id": "http://www.archive.org/zoologische-verhandelingen-91-001-034/canvas/c24",
+                            "@type": "sc:Canvas",
+                            "images": [
+                                {
+                                    "@id": "http://www.archive.org/zoologische-verhandelingen-91-001-034/canvas/c24/annotation",
+                                    "@type": "oa:Annotation",
+                                    "resource": {
+                                        "@id": "http://www.archive.org/download/zoologische-verhandelingen-91-001-034/zoologische-verhandelingen-91-001-034/page/n24_medium.jpg",
+                                        "@type": "dctypes:Image",
+                                        "format": "image/jpeg",
+                                        "height": "6190",
+                                        "width": "4490"
+                                    },
+                                    "on": "http://www.archive.org/zoologische-verhandelingen-91-001-034/canvas/c24",
+                                    "motivation": "sc:painting"
+                                }
+                            ],
+                            "label": "24",
+                            "height": "6190",
+                            "width": "4490"
+                        },
+                        {
+                            "@id": "http://www.archive.org/zoologische-verhandelingen-91-001-034/canvas/c25",
+                            "@type": "sc:Canvas",
+                            "images": [
+                                {
+                                    "@id": "http://www.archive.org/zoologische-verhandelingen-91-001-034/canvas/c25/annotation",
+                                    "@type": "oa:Annotation",
+                                    "resource": {
+                                        "@id": "http://www.archive.org/download/zoologische-verhandelingen-91-001-034/zoologische-verhandelingen-91-001-034/page/n25_medium.jpg",
+                                        "@type": "dctypes:Image",
+                                        "format": "image/jpeg",
+                                        "height": "6190",
+                                        "width": "4490"
+                                    },
+                                    "on": "http://www.archive.org/zoologische-verhandelingen-91-001-034/canvas/c25",
+                                    "motivation": "sc:painting"
+                                }
+                            ],
+                            "label": "25",
+                            "height": "6190",
+                            "width": "4490"
+                        },
+                        {
+                            "@id": "http://www.archive.org/zoologische-verhandelingen-91-001-034/canvas/c26",
+                            "@type": "sc:Canvas",
+                            "images": [
+                                {
+                                    "@id": "http://www.archive.org/zoologische-verhandelingen-91-001-034/canvas/c26/annotation",
+                                    "@type": "oa:Annotation",
+                                    "resource": {
+                                        "@id": "http://www.archive.org/download/zoologische-verhandelingen-91-001-034/zoologische-verhandelingen-91-001-034/page/n26_medium.jpg",
+                                        "@type": "dctypes:Image",
+                                        "format": "image/jpeg",
+                                        "height": "6190",
+                                        "width": "4490"
+                                    },
+                                    "on": "http://www.archive.org/zoologische-verhandelingen-91-001-034/canvas/c26",
+                                    "motivation": "sc:painting"
+                                }
+                            ],
+                            "label": "26",
+                            "height": "6190",
+                            "width": "4490"
+                        },
+                        {
+                            "@id": "http://www.archive.org/zoologische-verhandelingen-91-001-034/canvas/c27",
+                            "@type": "sc:Canvas",
+                            "images": [
+                                {
+                                    "@id": "http://www.archive.org/zoologische-verhandelingen-91-001-034/canvas/c27/annotation",
+                                    "@type": "oa:Annotation",
+                                    "resource": {
+                                        "@id": "http://www.archive.org/download/zoologische-verhandelingen-91-001-034/zoologische-verhandelingen-91-001-034/page/n27_medium.jpg",
+                                        "@type": "dctypes:Image",
+                                        "format": "image/jpeg",
+                                        "height": "6190",
+                                        "width": "4490"
+                                    },
+                                    "on": "http://www.archive.org/zoologische-verhandelingen-91-001-034/canvas/c27",
+                                    "motivation": "sc:painting"
+                                }
+                            ],
+                            "label": "27",
+                            "height": "6190",
+                            "width": "4490"
+                        },
+                        {
+                            "@id": "http://www.archive.org/zoologische-verhandelingen-91-001-034/canvas/c28",
+                            "@type": "sc:Canvas",
+                            "images": [
+                                {
+                                    "@id": "http://www.archive.org/zoologische-verhandelingen-91-001-034/canvas/c28/annotation",
+                                    "@type": "oa:Annotation",
+                                    "resource": {
+                                        "@id": "http://www.archive.org/download/zoologische-verhandelingen-91-001-034/zoologische-verhandelingen-91-001-034/page/n28_medium.jpg",
+                                        "@type": "dctypes:Image",
+                                        "format": "image/jpeg",
+                                        "height": "6195",
+                                        "width": "4496"
+                                    },
+                                    "on": "http://www.archive.org/zoologische-verhandelingen-91-001-034/canvas/c28",
+                                    "motivation": "sc:painting"
+                                }
+                            ],
+                            "label": "28",
+                            "height": "6195",
+                            "width": "4496"
+                        },
+                        {
+                            "@id": "http://www.archive.org/zoologische-verhandelingen-91-001-034/canvas/c29",
+                            "@type": "sc:Canvas",
+                            "images": [
+                                {
+                                    "@id": "http://www.archive.org/zoologische-verhandelingen-91-001-034/canvas/c29/annotation",
+                                    "@type": "oa:Annotation",
+                                    "resource": {
+                                        "@id": "http://www.archive.org/download/zoologische-verhandelingen-91-001-034/zoologische-verhandelingen-91-001-034/page/n29_medium.jpg",
+                                        "@type": "dctypes:Image",
+                                        "format": "image/jpeg",
+                                        "height": "6190",
+                                        "width": "4490"
+                                    },
+                                    "on": "http://www.archive.org/zoologische-verhandelingen-91-001-034/canvas/c29",
+                                    "motivation": "sc:painting"
+                                }
+                            ],
+                            "label": "29",
+                            "height": "6190",
+                            "width": "4490"
+                        },
+                        {
+                            "@id": "http://www.archive.org/zoologische-verhandelingen-91-001-034/canvas/c30",
+                            "@type": "sc:Canvas",
+                            "images": [
+                                {
+                                    "@id": "http://www.archive.org/zoologische-verhandelingen-91-001-034/canvas/c30/annotation",
+                                    "@type": "oa:Annotation",
+                                    "resource": {
+                                        "@id": "http://www.archive.org/download/zoologische-verhandelingen-91-001-034/zoologische-verhandelingen-91-001-034/page/n30_medium.jpg",
+                                        "@type": "dctypes:Image",
+                                        "format": "image/jpeg",
+                                        "height": "6190",
+                                        "width": "4490"
+                                    },
+                                    "on": "http://www.archive.org/zoologische-verhandelingen-91-001-034/canvas/c30",
+                                    "motivation": "sc:painting"
+                                }
+                            ],
+                            "label": "30",
+                            "height": "6190",
+                            "width": "4490"
+                        },
+                        {
+                            "@id": "http://www.archive.org/zoologische-verhandelingen-91-001-034/canvas/c31",
+                            "@type": "sc:Canvas",
+                            "images": [
+                                {
+                                    "@id": "http://www.archive.org/zoologische-verhandelingen-91-001-034/canvas/c31/annotation",
+                                    "@type": "oa:Annotation",
+                                    "resource": {
+                                        "@id": "http://www.archive.org/download/zoologische-verhandelingen-91-001-034/zoologische-verhandelingen-91-001-034/page/n31_medium.jpg",
+                                        "@type": "dctypes:Image",
+                                        "format": "image/jpeg",
+                                        "height": "6197",
+                                        "width": "4498"
+                                    },
+                                    "on": "http://www.archive.org/zoologische-verhandelingen-91-001-034/canvas/c31",
+                                    "motivation": "sc:painting"
+                                }
+                            ],
+                            "label": "31",
+                            "height": "6197",
+                            "width": "4498"
+                        },
+                        {
+                            "@id": "http://www.archive.org/zoologische-verhandelingen-91-001-034/canvas/c32",
+                            "@type": "sc:Canvas",
+                            "images": [
+                                {
+                                    "@id": "http://www.archive.org/zoologische-verhandelingen-91-001-034/canvas/c32/annotation",
+                                    "@type": "oa:Annotation",
+                                    "resource": {
+                                        "@id": "http://www.archive.org/download/zoologische-verhandelingen-91-001-034/zoologische-verhandelingen-91-001-034/page/n32_medium.jpg",
+                                        "@type": "dctypes:Image",
+                                        "format": "image/jpeg",
+                                        "height": "6190",
+                                        "width": "4490"
+                                    },
+                                    "on": "http://www.archive.org/zoologische-verhandelingen-91-001-034/canvas/c32",
+                                    "motivation": "sc:painting"
+                                }
+                            ],
+                            "label": "32",
+                            "height": "6190",
+                            "width": "4490"
+                        }
+                    ]
+                }
+            ],
+            "label": "zoologische-verhandelingen-91-001-034"
+        }
+ 
+
+;

@@ -6,7 +6,9 @@
 	<array>
 		<string>101AEF5C-EDC8-4921-A5E7-041B40AF0FB6</string>
 		<string>DCB2E8B6-384D-47A1-BC26-CB42519199E0</string>
+		<string>6EEC66AB-DF5B-4895-9A23-1A5C75DC5498</string>
 		<string>E60F80A2-C229-493A-AB92-55105DF8CC3C</string>
+		<string>D61B6C6C-4EA1-4E5A-9D5C-22191A94BE4A</string>
 		<string>98B80A82-0936-49A5-8A97-A70F4FC5CC99</string>
 		<string>2E8C4F5A-10C3-41D7-9A6F-9F48FF715F2E</string>
 		<string>8EF02EF0-35EB-473F-A929-7D95AE972FA2</string>
@@ -109,6 +111,54 @@
 			<string>README.md</string>
 			<key>ItemType</key>
 			<string>FileReference</string>
+			<key>UserOverrideItemName</key>
+			<true/>
+		</dict>
+		<key>6EEC66AB-DF5B-4895-9A23-1A5C75DC5498</key>
+		<dict>
+			<key>ItemData</key>
+			<dict>
+				<key>BookmarkData</key>
+				<data>
+				Ym9va9gCAAAAAAQQMAAAAC0gSfno0kxvYh9gn1N64aaB
+				9vYlRCJFxSbpHeA8lJcT1AEAAAQAAAADAwAAAAgAKAUA
+				AAABAQAAVXNlcnMAAAAFAAAAAQEAAHJwYWdlAAAABQAA
+				AAEBAABTaXRlcwAAAAcAAAABAQAAbG9pcy1rZwAEAAAA
+				AQEAAGlmZmYUAAAAAQYAABAAAAAgAAAAMAAAAEAAAABQ
+				AAAACAAAAAQDAAAQZwIAAAAAAAgAAAAEAwAAhXQNAAAA
+				AAAIAAAABAMAAARWTAAAAAAACAAAAAQDAADBntkBAwAA
+				AAgAAAAEAwAA68HkAQMAAAAUAAAAAQYAAHgAAACIAAAA
+				mAAAAKgAAAC4AAAACAAAAAAEAABBwZqSCjtcbRgAAAAB
+				AgAAAgAAAAAAAAAPAAAAAAAAAAAAAAAAAAAACAAAAAQD
+				AAADAAAAAAAAAAQAAAADAwAA9QEAAAgAAAABCQAAZmls
+				ZTovLy8MAAAAAQEAAE1hY2ludG9zaCBIRAgAAAAEAwAA
+				AOAEA2kAAAAIAAAAAAQAAEG+3V1iAAAAJAAAAAEBAAAy
+				NUU0Mjg2RC03MTJDLTM4OTktQjQzRi01RDNGNkE4QkQx
+				MjEYAAAAAQIAAIEAAAABAAAA7xMAAAEAAAAAAAAAAAAA
+				AAEAAAABAQAALwAAAAAAAAABBQAAzAAAAP7///8BAAAA
+				AAAAABAAAAAEEAAAXAAAAAAAAAAFEAAAyAAAAAAAAAAQ
+				EAAA9AAAAAAAAABAEAAA5AAAAAAAAAACIAAAwAEAAAAA
+				AAAFIAAAMAEAAAAAAAAQIAAAQAEAAAAAAAARIAAAdAEA
+				AAAAAAASIAAAVAEAAAAAAAATIAAAZAEAAAAAAAAgIAAA
+				oAEAAAAAAAAwIAAAzAEAAAAAAAABwAAAFAEAAAAAAAAR
+				wAAAIAAAAAAAAAASwAAAJAEAAAAAAAAQ0AAABAAAAAAA
+				AAA=
+				</data>
+				<key>FileURL</key>
+				<string>file:///Users/rpage/Sites/lois-kg/iiif/</string>
+				<key>HasSecurityScope</key>
+				<true/>
+				<key>RelativePath</key>
+				<string>./iiif</string>
+				<key>TypeID</key>
+				<string>_CFileLocator</string>
+				<key>Version</key>
+				<integer>1</integer>
+			</dict>
+			<key>ItemName</key>
+			<string>iiif</string>
+			<key>ItemType</key>
+			<string>FolderReference</string>
 			<key>UserOverrideItemName</key>
 			<true/>
 		</dict>
@@ -251,6 +301,54 @@
 			</dict>
 			<key>ItemName</key>
 			<string>oz-orcid</string>
+			<key>ItemType</key>
+			<string>FolderReference</string>
+			<key>UserOverrideItemName</key>
+			<true/>
+		</dict>
+		<key>D61B6C6C-4EA1-4E5A-9D5C-22191A94BE4A</key>
+		<dict>
+			<key>ItemData</key>
+			<dict>
+				<key>BookmarkData</key>
+				<data>
+				Ym9va9wCAAAAAAQQMAAAADqnV/6SjpYpOCmIhwLdJ6dd
+				/jOlhqaQeDDtaSAt8Coe2AEAAAQAAAADAwAAAAgAKAUA
+				AAABAQAAVXNlcnMAAAAFAAAAAQEAAHJwYWdlAAAABQAA
+				AAEBAABTaXRlcwAAAAcAAAABAQAAbG9pcy1rZwAHAAAA
+				AQEAAG96LWdiaWYAFAAAAAEGAAAQAAAAIAAAADAAAABA
+				AAAAUAAAAAgAAAAEAwAAEGcCAAAAAAAIAAAABAMAAIV0
+				DQAAAAAACAAAAAQDAAAEVkwAAAAAAAgAAAAEAwAAwZ7Z
+				AQMAAAAIAAAABAMAAPG03gEDAAAAFAAAAAEGAAB8AAAA
+				jAAAAJwAAACsAAAAvAAAAAgAAAAABAAAQcGYo6fQtsUY
+				AAAAAQIAAAIAAAAAAAAADwAAAAAAAAAAAAAAAAAAAAgA
+				AAAEAwAAAwAAAAAAAAAEAAAAAwMAAPUBAAAIAAAAAQkA
+				AGZpbGU6Ly8vDAAAAAEBAABNYWNpbnRvc2ggSEQIAAAA
+				BAMAAADgBANpAAAACAAAAAAEAABBvt1dYgAAACQAAAAB
+				AQAAMjVFNDI4NkQtNzEyQy0zODk5LUI0M0YtNUQzRjZB
+				OEJEMTIxGAAAAAECAACBAAAAAQAAAO8TAAABAAAAAAAA
+				AAAAAAABAAAAAQEAAC8AAAAAAAAAAQUAAMwAAAD+////
+				AQAAAAAAAAAQAAAABBAAAGAAAAAAAAAABRAAAMwAAAAA
+				AAAAEBAAAPgAAAAAAAAAQBAAAOgAAAAAAAAAAiAAAMQB
+				AAAAAAAABSAAADQBAAAAAAAAECAAAEQBAAAAAAAAESAA
+				AHgBAAAAAAAAEiAAAFgBAAAAAAAAEyAAAGgBAAAAAAAA
+				ICAAAKQBAAAAAAAAMCAAANABAAAAAAAAAcAAABgBAAAA
+				AAAAEcAAACAAAAAAAAAAEsAAACgBAAAAAAAAENAAAAQA
+				AAAAAAAA
+				</data>
+				<key>FileURL</key>
+				<string>file:///Users/rpage/Sites/lois-kg/oz-gbif/</string>
+				<key>HasSecurityScope</key>
+				<true/>
+				<key>RelativePath</key>
+				<string>./oz-gbif</string>
+				<key>TypeID</key>
+				<string>_CFileLocator</string>
+				<key>Version</key>
+				<integer>1</integer>
+			</dict>
+			<key>ItemName</key>
+			<string>oz-gbif</string>
 			<key>ItemType</key>
 			<string>FolderReference</string>
 			<key>UserOverrideItemName</key>
