@@ -382,6 +382,11 @@ $orcids = array(
 '0000-0003-3926-0478', // Manuel Rodrigues
 );
 
+$orcids = array(
+'0000-0002-8758-9326', // Alessandro Rapini
+'0000-0001-9036-0912', // Tatiana Konno
+);
+
 // from file
 if (0)
 {
