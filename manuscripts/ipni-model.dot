@@ -1,0 +1,50 @@
+digraph g {
+	
+		subgraph name {
+		/* style=filled;
+		color=lightgrey;
+		node [style=filled,color=white]; */
+
+		label = "Taxon name";
+		
+		
+		taxon_name [label="Taxon name"] ;
+		taxon_team [label="tm:Team"] ;
+		
+		bnode1 [label=""] ;
+		index1 [label="1",shape=box] ;
+		role1 [label = "Publishing author",shape=box]
+
+		author1 [label="Author 1"];
+
+		bnode2 [label=""] ;
+		index2 [label="2",shape=box] ;
+		role2 [label = "Publishing author",shape=box]
+		
+		
+		author2 [label="Author 2"];
+		
+		author2name [label="Tatiana Ungaretti Paleo Konno",shape=box]
+		
+		taxon_name -> taxon_team [label="tn:authorteam"];
+		
+		taxon_team -> bnode1 [label="tm:hasMember"];
+		taxon_team -> bnode2 [label="tm:hasMember"];
+		
+		bnode1 ->index1 [label="tm:index"];
+		bnode2 ->index2 [label="tm:index"];
+
+		bnode1 ->role1 [label="tm:role"];
+		bnode2 ->role2 [label="tm:role"];
+
+		bnode1 ->author1 [label="tm:member"];
+		bnode2 ->author2 [label="tm:member"];
+		
+		
+		author2 -> author2name [label="dc:title"];
+		
+			
+	}
+
+
+}
