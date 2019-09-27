@@ -100,7 +100,6 @@
 //----------------------------------------------------------------------------------------
 // START COUCHDB VIEW
 function message(doc) {
-  if (doc['message-format'] == 'application/vnd.citationstyles.csl+json') {
     if (doc.message.DOI) {
     
     	// use ORCID work id
@@ -113,12 +112,36 @@ function message(doc) {
           if (doc.message.author[i].literal.match(/ and /)) {
             go = false;
           }
+          // et al.
+          if (doc.message.author[i].literal.match(/ et al/)) {
+            go = false;
+          }
+          
           if (go) {
 
             // we want simple triples linking name to position in author list
             var triples = [];
+            var type = '';
             
-                        
+            // type of work
+            if (doc.message.type) {
+				switch (doc.message.type) {
+				  case 'article-journal':
+				  case 'journal-article':
+					type = 'http://schema.org/ScholarlyArticle';
+					break;
+				  default:
+					break;
+				}
+			} 
+			
+            if (doc.message.title) {
+				triples.push(triple(
+				  subject_id,
+				  'http://schema.org/name',
+				  doc.message.title));
+			}
+			                        
             // identifier 
 			var identifier_id = subject_id + '#doi';
 
@@ -136,15 +159,19 @@ function message(doc) {
 			  identifier_id,
 			  'http://schema.org/propertyID',
 			  'doi'));
+			  
+			var doi = doc.message.DOI.toLowerCase();
+			
+			// clean up badness
+			// e.g. 0000-0002-4662-0227/work/29262377
+			doi = doi.replace(/https?:\/\/dx.doi.org\/\s*/, '');
+			doi = doi.replace(/\s+$/, '');
 
 			triples.push(triple(
 			  identifier_id,
 			  'http://schema.org/value',
 			  doc.message.DOI.toLowerCase()
 			));                
-            
-            
-            
             
             var index = parseInt(i) + 1;
             var role_id    = subject_id + '#role/' + index;
@@ -209,6 +236,16 @@ function message(doc) {
 				  doc.message.author[i].ORCID
 				));                
 			
+			if (type == '') {
+			  type = 'http://schema.org/CreativeWork';
+			}
+	
+
+			// defaults
+			triples.push(triple(subject_id,
+			  'http://www.w3.org/1999/02/22-rdf-syntax-ns#type',
+			  type));
+			
                 
                 
             output(doc, triples);
@@ -217,11 +254,13 @@ function message(doc) {
         }
       }
     }
-  }
+  
 }
 
 function couchdb(doc) {
-	message(doc);
+   if (doc['message-format'] == 'application/vnd.citationstyles.csl+json') {
+      message(doc);
+    }
 }
 // END COUCHDB VIEW
 
