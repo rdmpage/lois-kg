@@ -113,6 +113,7 @@ function display_entity($uri)
 	echo '<li><a href="?uri=urn:lsid:ipni.org:authors:39541-1">Alessandro Rapini</a></li>';
 	echo '<li><a href="?uri=http://worldcat.org/issn/1672-6472">Mycosystema / 菌物学报</a></li>';
 	echo '<li><a href="?uri=https://www.gbif.org/occurrence/1258918210">ISOTYPE of Ditassa bifurcata Rapini [family APOCYNACEAE]</a></li>';
+	echo '<li><a href="?uri=https://orcid.org/0000-0003-3926-0478">Manuel G. Rodrigues 0000-0003-3926-0478</a></li>';
  	echo '</ul>';
  	
  	

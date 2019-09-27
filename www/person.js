@@ -194,11 +194,21 @@ item = data;
 
 <!-- identifiers -->
 <div>
-
 		<span class="heading">Unique identifier</span>
-		<a href="http://www.lsid.info/<%=item['@id']%>">
-		<%= item['@id'] %>
-		</a>
+		
+		<% if (item['@id'].match(/^urn/)) { %>
+			<a href="http://www.lsid.info/<%=item['@id']%>">
+			<%= item['@id'] %>
+			</a>		
+		<% } %>
+
+		<% if (item['@id'].match(/orcid.org/)) { %>
+			<!-- <img src="images/orcid_16x16.png"> -->
+			<a href="<%=item['@id']%>">
+			<%= item['@id'] %>
+			</a>
+		<% } %>
+		
 </div>
 
 <!-- other names -->
@@ -227,10 +237,12 @@ item = data;
 </div>
 
 <!-- lifespan -->
-<div>
-	<span class="heading">Lifespan</span>
-	<%= get_literal(item['tp:lifeSpan']) %>
-</div>
+<% if (item['tp:lifeSpan']) { %>
+	<div>
+		<span class="heading">Lifespan</span>
+		<%= get_literal(item['tp:lifeSpan']) %>
+	</div>
+<% } %>
 
 <!-- subjectScope -->
 <div>
