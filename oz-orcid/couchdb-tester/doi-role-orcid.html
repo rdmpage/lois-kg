@@ -175,7 +175,8 @@ function message(doc) {
             
             var index = parseInt(i) + 1;
             var role_id    = subject_id + '#role/' + index;
-            var creator_id = 'https://orcid.org/' + doc.message.author[i].ORCID;
+            // var creator_id = 'https://orcid.org/' + doc.message.author[i].ORCID;
+            var creator_id = subject_id + '#creator' + index;
             
             triples.push(triple(
             	subject_id,
@@ -213,7 +214,7 @@ function message(doc) {
 				doc.message.author[i].literal));
 
                 
-				identifier_id = creator_id + '#orcid';
+				identifier_id = creator_id + '-orcid';
 
 				triples.push(triple(
 				  creator_id,

@@ -1,0 +1,106 @@
+<https://orcid.org/0000-0001-6367-9784#orcid> <http://schema.org/propertyID> "orcid" .
+<https://orcid.org/0000-0001-6367-9784#orcid> <http://schema.org/value> "0000-0001-6367-9784" .
+<https://orcid.org/0000-0001-6367-9784#orcid> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<https://orcid.org/0000-0001-6367-9784> <http://schema.org/alternateName> "Philips, AJL" .
+<https://orcid.org/0000-0001-6367-9784> <http://schema.org/alternateName> "Phillips, AJL" .
+<https://orcid.org/0000-0001-6367-9784> <http://schema.org/alternateName> "Phillips, Alan" .
+<https://orcid.org/0000-0001-6367-9784> <http://schema.org/familyName> "Phillips" .
+<https://orcid.org/0000-0001-6367-9784> <http://schema.org/givenName> "Alan" .
+<https://orcid.org/0000-0001-6367-9784> <http://schema.org/identifier> <https://orcid.org/0000-0001-6367-9784#orcid> .
+<https://orcid.org/0000-0001-6367-9784> <http://schema.org/name> "Alan Phillips" .
+<https://orcid.org/0000-0001-6367-9784> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+<https://orcid.org/0000-0001-7047-412X> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+<https://orcid.org/0000-0001-7047-412X> <http://schema.org/name> "Gabriela Heredia" .
+<https://orcid.org/0000-0001-7047-412X> <http://schema.org/identifier> <https://orcid.org/0000-0001-7047-412X#orcid> .
+<https://orcid.org/0000-0001-7047-412X> <http://schema.org/givenName> "Gabriela" .
+<https://orcid.org/0000-0001-7047-412X> <http://schema.org/familyName> "Heredia" .
+<https://orcid.org/0000-0001-7047-412X#orcid> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<https://orcid.org/0000-0001-7047-412X#orcid> <http://schema.org/value> "0000-0001-7047-412X" .
+<https://orcid.org/0000-0001-7047-412X#orcid> <http://schema.org/propertyID> "orcid" .
+<https://orcid.org/0000-0001-9036-0912> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+<https://orcid.org/0000-0001-9036-0912> <http://schema.org/name> "Tatiana Konno" .
+<https://orcid.org/0000-0001-9036-0912> <http://schema.org/identifier> <https://orcid.org/0000-0001-9036-0912#orcid> .
+<https://orcid.org/0000-0001-9036-0912> <http://schema.org/givenName> "Tatiana" .
+<https://orcid.org/0000-0001-9036-0912> <http://schema.org/familyName> "Konno" .
+<https://orcid.org/0000-0001-9036-0912#orcid> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<https://orcid.org/0000-0001-9036-0912#orcid> <http://schema.org/value> "0000-0001-9036-0912" .
+<https://orcid.org/0000-0001-9036-0912#orcid> <http://schema.org/propertyID> "orcid" .
+<https://orcid.org/0000-0001-9127-0783#orcid> <http://schema.org/value> "0000-0001-9127-0783" .
+<https://orcid.org/0000-0001-9127-0783#orcid> <http://schema.org/propertyID> "orcid" .
+<https://orcid.org/0000-0001-9127-0783#orcid> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<https://orcid.org/0000-0001-9127-0783> <http://schema.org/familyName> "maharachchikumbura" .
+<https://orcid.org/0000-0001-9127-0783> <http://schema.org/givenName> "sajeewa" .
+<https://orcid.org/0000-0001-9127-0783> <http://schema.org/identifier> <https://orcid.org/0000-0001-9127-0783#orcid> .
+<https://orcid.org/0000-0001-9127-0783> <http://schema.org/name> "sajeewa maharachchikumbura" .
+<https://orcid.org/0000-0001-9127-0783> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+<https://orcid.org/0000-0001-9793-2303> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+<https://orcid.org/0000-0001-9793-2303> <http://schema.org/name> "Laura Zucconi" .
+<https://orcid.org/0000-0001-9793-2303> <http://schema.org/identifier> <https://orcid.org/0000-0001-9793-2303#orcid> .
+<https://orcid.org/0000-0001-9793-2303> <http://schema.org/givenName> "Laura" .
+<https://orcid.org/0000-0001-9793-2303> <http://schema.org/familyName> "Zucconi" .
+<https://orcid.org/0000-0001-9793-2303#orcid> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<https://orcid.org/0000-0001-9793-2303#orcid> <http://schema.org/value> "0000-0001-9793-2303" .
+<https://orcid.org/0000-0001-9793-2303#orcid> <http://schema.org/propertyID> "orcid" .
+<https://orcid.org/0000-0002-1717-9532#orcid> <http://schema.org/value> "0000-0002-1717-9532" .
+<https://orcid.org/0000-0002-1717-9532#orcid> <http://schema.org/propertyID> "orcid" .
+<https://orcid.org/0000-0002-1717-9532#orcid> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<https://orcid.org/0000-0002-1717-9532> <http://schema.org/familyName> "Monteiro" .
+<https://orcid.org/0000-0002-1717-9532> <http://schema.org/givenName> "Josiane" .
+<https://orcid.org/0000-0002-1717-9532> <http://schema.org/identifier> <https://orcid.org/0000-0002-1717-9532#orcid> .
+<https://orcid.org/0000-0002-1717-9532> <http://schema.org/name> "Josiane Monteiro" .
+<https://orcid.org/0000-0002-1717-9532> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+<https://orcid.org/0000-0002-3176-8675#orcid> <http://schema.org/propertyID> "orcid" .
+<https://orcid.org/0000-0002-3176-8675#orcid> <http://schema.org/value> "0000-0002-3176-8675" .
+<https://orcid.org/0000-0002-3176-8675#orcid> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<https://orcid.org/0000-0002-3176-8675> <http://schema.org/familyName> "Abdel-Wahab" .
+<https://orcid.org/0000-0002-3176-8675> <http://schema.org/givenName> "Mohamed" .
+<https://orcid.org/0000-0002-3176-8675> <http://schema.org/identifier> <https://orcid.org/0000-0002-3176-8675#orcid> .
+<https://orcid.org/0000-0002-3176-8675> <http://schema.org/name> "Mohamed Abdel-Wahab" .
+<https://orcid.org/0000-0002-3176-8675> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+<https://orcid.org/0000-0002-3604-6532> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+<https://orcid.org/0000-0002-3604-6532> <http://schema.org/name> "Per Magnus Jørgensen" .
+<https://orcid.org/0000-0002-3604-6532> <http://schema.org/identifier> <https://orcid.org/0000-0002-3604-6532#orcid> .
+<https://orcid.org/0000-0002-3604-6532> <http://schema.org/givenName> "Per Magnus" .
+<https://orcid.org/0000-0002-3604-6532> <http://schema.org/familyName> "Jørgensen" .
+<https://orcid.org/0000-0002-3604-6532#orcid> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<https://orcid.org/0000-0002-3604-6532#orcid> <http://schema.org/value> "0000-0002-3604-6532" .
+<https://orcid.org/0000-0002-3604-6532#orcid> <http://schema.org/propertyID> "orcid" .
+<https://orcid.org/0000-0002-6424-0834> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+<https://orcid.org/0000-0002-6424-0834> <http://schema.org/name> "Danny Haelewaters" .
+<https://orcid.org/0000-0002-6424-0834> <http://schema.org/identifier> <https://orcid.org/0000-0002-6424-0834#orcid> .
+<https://orcid.org/0000-0002-6424-0834> <http://schema.org/givenName> "Danny" .
+<https://orcid.org/0000-0002-6424-0834> <http://schema.org/familyName> "Haelewaters" .
+<https://orcid.org/0000-0002-6424-0834#orcid> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<https://orcid.org/0000-0002-6424-0834#orcid> <http://schema.org/value> "0000-0002-6424-0834" .
+<https://orcid.org/0000-0002-6424-0834#orcid> <http://schema.org/propertyID> "orcid" .
+<https://orcid.org/0000-0002-8758-9326> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+<https://orcid.org/0000-0002-8758-9326> <http://schema.org/name> "Alessandro Rapini" .
+<https://orcid.org/0000-0002-8758-9326> <http://schema.org/identifier> <https://orcid.org/0000-0002-8758-9326#orcid> .
+<https://orcid.org/0000-0002-8758-9326> <http://schema.org/givenName> "Alessandro" .
+<https://orcid.org/0000-0002-8758-9326> <http://schema.org/familyName> "Rapini" .
+<https://orcid.org/0000-0002-8758-9326#orcid> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<https://orcid.org/0000-0002-8758-9326#orcid> <http://schema.org/value> "0000-0002-8758-9326" .
+<https://orcid.org/0000-0002-8758-9326#orcid> <http://schema.org/propertyID> "orcid" .
+<https://orcid.org/0000-0002-9638-0532> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+<https://orcid.org/0000-0002-9638-0532> <http://schema.org/name> "Mohammad Ali" .
+<https://orcid.org/0000-0002-9638-0532> <http://schema.org/identifier> <https://orcid.org/0000-0002-9638-0532#orcid> .
+<https://orcid.org/0000-0002-9638-0532> <http://schema.org/givenName> "Mohammad Ali" .
+<https://orcid.org/0000-0002-9638-0532#orcid> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<https://orcid.org/0000-0002-9638-0532#orcid> <http://schema.org/value> "0000-0002-9638-0532" .
+<https://orcid.org/0000-0002-9638-0532#orcid> <http://schema.org/propertyID> "orcid" .
+<https://orcid.org/0000-0003-3288-3971> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+<https://orcid.org/0000-0003-3288-3971> <http://schema.org/name> "luis fernando pascholati gusmao" .
+<https://orcid.org/0000-0003-3288-3971> <http://schema.org/identifier> <https://orcid.org/0000-0003-3288-3971#orcid> .
+<https://orcid.org/0000-0003-3288-3971> <http://schema.org/givenName> "luis fernando" .
+<https://orcid.org/0000-0003-3288-3971> <http://schema.org/familyName> "pascholati gusmao" .
+<https://orcid.org/0000-0003-3288-3971#orcid> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<https://orcid.org/0000-0003-3288-3971#orcid> <http://schema.org/value> "0000-0003-3288-3971" .
+<https://orcid.org/0000-0003-3288-3971#orcid> <http://schema.org/propertyID> "orcid" .
+<https://orcid.org/0000-0003-3926-0478> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+<https://orcid.org/0000-0003-3926-0478> <http://schema.org/name> "Manuel Rodrigues" .
+<https://orcid.org/0000-0003-3926-0478> <http://schema.org/identifier> <https://orcid.org/0000-0003-3926-0478#orcid> .
+<https://orcid.org/0000-0003-3926-0478> <http://schema.org/givenName> "Manuel" .
+<https://orcid.org/0000-0003-3926-0478> <http://schema.org/familyName> "Rodrigues" .
+<https://orcid.org/0000-0003-3926-0478#orcid> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<https://orcid.org/0000-0003-3926-0478#orcid> <http://schema.org/value> "0000-0003-3926-0478" .
+<https://orcid.org/0000-0003-3926-0478#orcid> <http://schema.org/propertyID> "orcid" .
