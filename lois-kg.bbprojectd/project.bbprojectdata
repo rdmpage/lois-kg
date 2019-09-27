@@ -14,6 +14,7 @@
 		<string>2E8C4F5A-10C3-41D7-9A6F-9F48FF715F2E</string>
 		<string>8EF02EF0-35EB-473F-A929-7D95AE972FA2</string>
 		<string>78B855C2-3F32-449F-ABB4-FCD57B63729D</string>
+		<string>872A35B1-12E3-460A-A10A-EBE54E8774D8</string>
 	</array>
 	<key>ProjectItems</key>
 	<dict>
@@ -206,6 +207,54 @@
 			</dict>
 			<key>ItemName</key>
 			<string>www</string>
+			<key>ItemType</key>
+			<string>FolderReference</string>
+			<key>UserOverrideItemName</key>
+			<true/>
+		</dict>
+		<key>872A35B1-12E3-460A-A10A-EBE54E8774D8</key>
+		<dict>
+			<key>ItemData</key>
+			<dict>
+				<key>BookmarkData</key>
+				<data>
+				Ym9va9wCAAAAAAQQMAAAAOLxax8MSShClK+WM4yZQbQW
+				qERS0QlGmjuVoM+kofJo2AEAAAQAAAADAwAAAAgAKAUA
+				AAABAQAAVXNlcnMAAAAFAAAAAQEAAHJwYWdlAAAABQAA
+				AAEBAABTaXRlcwAAAAcAAAABAQAAbG9pcy1rZwAHAAAA
+				AQEAAHd3dy1tYXQAFAAAAAEGAAAQAAAAIAAAADAAAABA
+				AAAAUAAAAAgAAAAEAwAAEGcCAAAAAAAIAAAABAMAAIV0
+				DQAAAAAACAAAAAQDAAAEVkwAAAAAAAgAAAAEAwAAwZ7Z
+				AQMAAAAIAAAABAMAAHQxJQIDAAAAFAAAAAEGAAB8AAAA
+				jAAAAJwAAACsAAAAvAAAAAgAAAAABAAAQcGfIe1IeFMY
+				AAAAAQIAAAIAAAAAAAAADwAAAAAAAAAAAAAAAAAAAAgA
+				AAAEAwAAAwAAAAAAAAAEAAAAAwMAAPUBAAAIAAAAAQkA
+				AGZpbGU6Ly8vDAAAAAEBAABNYWNpbnRvc2ggSEQIAAAA
+				BAMAAADgBANpAAAACAAAAAAEAABBvt1dYgAAACQAAAAB
+				AQAAMjVFNDI4NkQtNzEyQy0zODk5LUI0M0YtNUQzRjZB
+				OEJEMTIxGAAAAAECAACBAAAAAQAAAO8TAAABAAAAAAAA
+				AAAAAAABAAAAAQEAAC8AAAAAAAAAAQUAAMwAAAD+////
+				AQAAAAAAAAAQAAAABBAAAGAAAAAAAAAABRAAAMwAAAAA
+				AAAAEBAAAPgAAAAAAAAAQBAAAOgAAAAAAAAAAiAAAMQB
+				AAAAAAAABSAAADQBAAAAAAAAECAAAEQBAAAAAAAAESAA
+				AHgBAAAAAAAAEiAAAFgBAAAAAAAAEyAAAGgBAAAAAAAA
+				ICAAAKQBAAAAAAAAMCAAANABAAAAAAAAAcAAABgBAAAA
+				AAAAEcAAACAAAAAAAAAAEsAAACgBAAAAAAAAENAAAAQA
+				AAAAAAAA
+				</data>
+				<key>FileURL</key>
+				<string>file:///Users/rpage/Sites/lois-kg/www-mat/</string>
+				<key>HasSecurityScope</key>
+				<true/>
+				<key>RelativePath</key>
+				<string>./www-mat</string>
+				<key>TypeID</key>
+				<string>_CFileLocator</string>
+				<key>Version</key>
+				<integer>1</integer>
+			</dict>
+			<key>ItemName</key>
+			<string>www-mat</string>
 			<key>ItemType</key>
 			<string>FolderReference</string>
 			<key>UserOverrideItemName</key>

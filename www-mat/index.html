@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8" />
+	<title>New Look</title>	
+
+	<style>
+
+
+	</style>
+
+	<!--Import Google Icon Font-->
+	<!-- 
+	<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+	-->
+	
+	<style>
+	
+	
+	/* fallback */
+	@font-face {
+	  font-family: 'Material Icons';
+	  font-style: normal;
+	  font-weight: 400;
+	  src: url(fonts/flUhRq6tzZclQEJ-Vdg-IuiaDsNcIhQ8tQ.woff2) format('woff2');
+	}
+
+	.material-icons {
+	  font-family: 'Material Icons';
+	  font-weight: normal;
+	  font-style: normal;
+	  font-size: 24px;
+	  line-height: 1;
+	  letter-spacing: normal;
+	  text-transform: none;
+	  display: inline-block;
+	  white-space: nowrap;
+	  word-wrap: normal;
+	  direction: ltr;
+	  text-rendering: optimizeLegibility;
+	  -webkit-font-smoothing: antialiased;
+	}	
+	</style>
+
+	<script type="text/javascript" src="js/jquery.js"></script>
+	<script type="text/javascript" src="js/materialize.js"></script>
+	<link rel="stylesheet" type="text/css" href="css/materialize.css">
+
+
+	<!--Let browser know website is optimized for mobile-->
+	<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+
+	<script src="js/ejs.min.js"></script>	
+	
+    <script> 
+        //--------------------------------------------------------------------------------
+		// http://stackoverflow.com/a/11407464
+		$(document).keypress(function(event){		
+			var keycode = (event.keyCode ? event.keyCode : event.which);			
+			if(keycode == '13'){
+				search();   
+			}
+		});    
+		
+        //--------------------------------------------------------------------------------
+		//http://stackoverflow.com/a/25359264
+		$.urlParam = function(name){
+			var results = new RegExp('[\?&]' + name + '=([^&#]*)').exec(window.location.href);
+			if (results==null){
+			   return null;
+			}
+			else{
+			   return results[1] || 0;
+			}
+		}        
+		
+        //--------------------------------------------------------------------------------
+		function search() {      
+      		document.activeElement.blur();
+      
+			var text = document.getElementById('query').value;
+			
+			alert(text);
+		}		
+    
+	</script>
+
+
+  	<script type="text/javascript">
+		window.onload=function(){      
+			$(document).ready(function() {
+			  $('#modal').modal();  
+			});
+    }
+	</script>
+	
+</head>
+
+<body>
+	<div class="container">
+
+	<!-- search box -->
+	<div class="row">
+		<div class="input-field col s12">
+			<i class="material-icons prefix">search</i>
+			<input style="font-size:2em;" type="text" id="query"  placeholder="Search">
+		</div>
+		<!-- <button class="btn-large type="submit" style="font-size:2em;" id="search" onclick="search();">Find</button> -->
+	</div>
+	
+   
+	<!-- Modal popup -->
+	<div id="modal" class="modal" style="z-index: 1003; display: none; opacity: 0; transform: scaleX(0.7); top: 4%;">
+	  <div class="modal-content">    
+		<div id="modal-content">Content</div>
+	  </div>
+	  <div class="modal-footer">
+		<a href="#!" class=" modal-action modal-close btn-flat"><i class="material-icons left">clear</i>Close</a>
+	  </div>
+	</div>
+	
+	<div id="results">
+	</div>
+	
+	<div id="output">
+	</div>
+	
+	</div>
+  
+  <script>
+  		// do we have a URL parameter?
+		var query = $.urlParam('q');
+		if (query) {
+		   query = decodeURIComponent(query);
+		   $('#query').val(query); 
+		   search();
+		}
+  </script>
+  
+</body>
+</html>
+
