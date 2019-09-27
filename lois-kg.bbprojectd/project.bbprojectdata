@@ -5,6 +5,7 @@
 	<key>HierarchyData</key>
 	<array>
 		<string>101AEF5C-EDC8-4921-A5E7-041B40AF0FB6</string>
+		<string>ABEEB9C6-82AA-4DB5-9953-D180B5615BE0</string>
 		<string>DCB2E8B6-384D-47A1-BC26-CB42519199E0</string>
 		<string>6EEC66AB-DF5B-4895-9A23-1A5C75DC5498</string>
 		<string>E60F80A2-C229-493A-AB92-55105DF8CC3C</string>
@@ -303,6 +304,56 @@
 			<string>oz-orcid</string>
 			<key>ItemType</key>
 			<string>FolderReference</string>
+			<key>UserOverrideItemName</key>
+			<true/>
+		</dict>
+		<key>ABEEB9C6-82AA-4DB5-9953-D180B5615BE0</key>
+		<dict>
+			<key>ItemData</key>
+			<dict>
+				<key>BookmarkData</key>
+				<data>
+				Ym9vaxwDAAAAAAQQMAAAALX4RwZGKgKlqyVFmp9rkXTY
+				9Iv/nooFw0CR0N0sCuztDAIAAAQAAAADAwAAAAgAKAUA
+				AAABAQAAVXNlcnMAAAAFAAAAAQEAAHJwYWdlAAAABQAA
+				AAEBAABTaXRlcwAAAAcAAAABAQAAbG9pcy1rZwALAAAA
+				AQEAAEV4YW1wbGVzLm1kABQAAAABBgAAEAAAACAAAAAw
+				AAAAQAAAAFAAAAAIAAAABAMAABBnAgAAAAAACAAAAAQD
+				AACFdA0AAAAAAAgAAAAEAwAABFZMAAAAAAAIAAAABAMA
+				AMGe2QEDAAAACAAAAAQDAAAvsSQCAwAAABQAAAABBgAA
+				gAAAAJAAAACgAAAAsAAAAMAAAAAIAAAAAAQAAEHBnw0v
+				RKMDGAAAAAECAAABAAAAAAAAAA8AAAAAAAAAAAAAAAAA
+				AAAIAAAABAMAAAMAAAAAAAAABAAAAAMDAAD1AQAACAAA
+				AAEJAABmaWxlOi8vLwwAAAABAQAATWFjaW50b3NoIEhE
+				CAAAAAQDAAAA4AQDaQAAAAgAAAAABAAAQb7dXWIAAAAk
+				AAAAAQEAADI1RTQyODZELTcxMkMtMzg5OS1CNDNGLTVE
+				M0Y2QThCRDEyMRgAAAABAgAAgQAAAAEAAADvEwAAAQAA
+				AAAAAAAAAAAAAQAAAAEBAAAvAAAAAAAAAAEFAAAaAAAA
+				AQEAAE5TVVJMRG9jdW1lbnRJZGVudGlmaWVyS2V5AAAE
+				AAAAAwMAAM8BAQDYAAAA/v///wEAAAAAAAAAEQAAAAQQ
+				AABkAAAAAAAAAAUQAADQAAAAAAAAABAQAAD8AAAAAAAA
+				AEAQAADsAAAAAAAAAAIgAADIAQAAAAAAAAUgAAA4AQAA
+				AAAAABAgAABIAQAAAAAAABEgAAB8AQAAAAAAABIgAABc
+				AQAAAAAAABMgAABsAQAAAAAAACAgAACoAQAAAAAAADAg
+				AADUAQAAAAAAAAHAAAAcAQAAAAAAABHAAAAgAAAAAAAA
+				ABLAAAAsAQAAAAAAABDQAAAEAAAAAAAAANwBAIAAAgAA
+				AAAAAA==
+				</data>
+				<key>FileURL</key>
+				<string>file:///Users/rpage/Sites/lois-kg/Examples.md</string>
+				<key>HasSecurityScope</key>
+				<true/>
+				<key>RelativePath</key>
+				<string>./Examples.md</string>
+				<key>TypeID</key>
+				<string>_CFileLocator</string>
+				<key>Version</key>
+				<integer>1</integer>
+			</dict>
+			<key>ItemName</key>
+			<string>Examples.md</string>
+			<key>ItemType</key>
+			<string>FileReference</string>
 			<key>UserOverrideItemName</key>
 			<true/>
 		</dict>
