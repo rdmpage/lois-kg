@@ -138,7 +138,7 @@ function display_entity($uri)
 	{
 		switch ($types[$i])
 		{
-		
+			case 'CreativeWork':
 			case 'ScholarlyArticle':
 				echo '<script>render(template_work);</script>';			
 				break;
