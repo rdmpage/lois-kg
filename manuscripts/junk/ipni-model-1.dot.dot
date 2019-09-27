@@ -1,0 +1,156 @@
+digraph g {
+	graph [bb="0,0,668,439",
+		newrank=true
+	];
+	node [label="\N"];
+	{
+		graph [rank=same];
+		taxon_name		 [color=white,
+			height=0.5,
+			label="Taxon name",
+			pos="245,382",
+			style=filled,
+			width=1.2457];
+		ScholarlyArticle1		 [color=white,
+			height=0.5,
+			label=ScholarlyArticle,
+			pos="472,382",
+			style=filled,
+			width=1.5526];
+	}
+	subgraph cluster1 {
+		graph [bb="8,95,336,431",
+			color=lightgrey,
+			label="Taxon name",
+			lheight=0.21,
+			lp="172,419.5",
+			lwidth=0.74,
+			style=filled
+		];
+		node [color=white,
+			style=filled
+		];
+		taxon_name;
+		taxon_team		 [color=white,
+			height=0.5,
+			label="tm:Team",
+			pos="234,295",
+			style=filled,
+			width=0.97491];
+		taxon_name -> taxon_team		 [label="tn:authorteam",
+			lp="269.5,338.5",
+			pos="e,236.28,313 242.72,363.97 241.23,352.19 239.25,336.56 237.56,323.16"];
+		bnode1		 [color=white,
+			height=0.5,
+			label="",
+			pos="229,208",
+			style=filled,
+			width=0.75];
+		taxon_team -> bnode1		 [label="tm:hasMember",
+			lp="263,251.5",
+			pos="e,230.03,226 232.96,276.97 232.29,265.19 231.39,249.56 230.62,236.16"];
+		role1		 [color=white,
+			height=0.5,
+			label="Publishing author",
+			pos="62,121",
+			shape=box,
+			style=filled,
+			width=1.2639];
+		bnode1 -> role1		 [label="tm:role",
+			lp="171.5,164.5",
+			pos="e,96.775,139.12 207.51,196.8 181.9,183.46 138.47,160.84 105.71,143.77"];
+		author1		 [color=white,
+			height=0.5,
+			label="urn:lsid:ipni.org:authors:40176-1",
+			pos="227,121",
+			style=filled,
+			width=2.8164];
+		bnode1 -> author1		 [label="tm:member",
+			lp="252.5,164.5",
+			pos="e,227.41,139 228.59,189.97 228.31,178.19 227.96,162.56 227.65,149.16"];
+	}
+	subgraph cluster2 {
+		graph [bb="408,8,660,431",
+			color=lightgrey,
+			label=ORCID,
+			lheight=0.21,
+			lp="534,419.5",
+			lwidth=0.46,
+			style=filled
+		];
+		node [color=white,
+			style=filled
+		];
+		ScholarlyArticle1;
+		orcid_role		 [color=white,
+			height=0.5,
+			label=Role,
+			pos="445,208",
+			style=filled,
+			width=0.75];
+		ScholarlyArticle1 -> orcid_role		 [label=creator,
+			lp="469,295",
+			pos="e,445.63,226.33 466.41,364.02 462.34,350.21 457.02,330.57 454,313 449.59,287.36 447.3,257.8 446.14,236.59"];
+		orcid_identifier		 [color=white,
+			height=0.5,
+			label=propertyValue,
+			pos="543,295",
+			style=filled,
+			width=1.3902];
+		ScholarlyArticle1 -> orcid_identifier		 [label=identifier,
+			lp="530,338.5",
+			pos="e,528.9,312.28 486.37,364.39 496.73,351.69 510.88,334.36 522.44,320.2"];
+		creator1		 [color=white,
+			height=0.5,
+			label=Person,
+			pos="447,121",
+			style=filled,
+			width=0.81243];
+		orcid_role -> creator1		 [label=creator,
+			lp="461,164.5",
+			pos="e,446.59,139 445.41,189.97 445.69,178.19 446.04,162.56 446.35,149.16"];
+		"https://orcid.org/0000-0001-9036-0912"		 [color=white,
+			height=0.5,
+			pos="534,34",
+			style=filled,
+			width=3.2678];
+		creator1 -> "https://orcid.org/0000-0001-9036-0912"		 [label="@id",
+			lp="504,77.5",
+			pos="e,516.18,51.819 462.55,105.45 475.37,92.627 493.81,74.193 508.74,59.26"];
+		doi		 [color=white,
+			height=0.5,
+			label="10.2307/25065588",
+			pos="543,208",
+			shape=box,
+			style=filled,
+			width=1.3333];
+		orcid_identifier -> doi		 [label=value,
+			lp="554.5,251.5",
+			pos="e,543,226 543,276.97 543,265.19 543,249.56 543,236.16"];
+	}
+	taxon_name -> ScholarlyArticle1	 [label="tcom:publishedInCitation",
+		lp="352.98,392.5",
+		pos="e,415.98,382 289.85,382 322.92,382 368.44,382 405.7,382"];
+	index1	 [height=0.5,
+		label=1,
+		pos="373,121",
+		shape=box,
+		width=0.75];
+	bnode1 -> index1	 [label="tm:index",
+		lp="328,164.5",
+		pos="e,345.78,137.45 249.02,195.9 271.76,182.17 309.29,159.49 337.12,142.68"];
+	author1name	 [height=0.5,
+		label="Tatiana Ungaretti Paleo Konno",
+		pos="289,34",
+		shape=box,
+		width=2.0417];
+	author1 -> author1name	 [label="dc:title",
+		lp="276,77.5",
+		pos="e,276.17,52.003 239.85,102.97 248.66,90.609 260.49,74.004 270.34,60.185"];
+	orcid_role -> index1	 [label=roleName,
+		lp="420,164.5",
+		pos="e,379.93,139.14 425.03,195.29 416.28,189.04 406.35,180.92 399,172 393.19,164.94 388.19,156.37 384.18,148.29"];
+	creator1 -> author1name	 [label=name,
+		lp="400.5,77.5",
+		pos="e,327.78,52.129 427.98,107.28 422.01,103.16 415.33,98.751 409,95 385.87,81.286 359.29,67.577 337.03,56.639"];
+}

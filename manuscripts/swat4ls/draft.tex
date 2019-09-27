@@ -1,0 +1,175 @@
+%
+\documentclass[runningheads]{llncs}
+%
+\usepackage{graphicx}
+% Used for displaying a sample figure. If possible, figure files should
+% be included in EPS format.
+%
+\usepackage{listings}
+
+% If you use the hyperref package, please uncomment the following line
+% to display URLs in blue roman font according to Springer's eBook style:
+% \renewcommand\UrlFont{\color{blue}\rmfamily}
+
+\begin{document}
+%
+\title{Reconciling author names in taxonomic and publication databases}
+%
+%\titlerunning{Plant taxonomy}
+%
+\author{Roderic D. M. Page\inst{1}\orcidID{0000-0002-7101-9767}}
+%
+\authorrunning{R. D. M. Page}
+
+\institute{IBAHCM, MVLS, University of Glasgow, Glasgow G12 8QQ, UK
+\email{Roderic.Page@glasgow.ac.uk}}
+%
+\maketitle              % typeset the header of the contribution
+%
+\begin{abstract}
+Taxonomic names remain fundamental to linking biodiversity data, but information on these names resides in separate silos. Despite often making their contents available in RDF, records in these taxonomic databases are rarely linked to identifiers in external databases, such as DOIs for publications, or ORCIDs for people. This paper explores how author names in publication databases such as CrossRef and ORCID can be reconciled with author names in a taxonomic database using existing vocabularies and SPARQL queries.
+
+\keywords{taxonomy  \and identifiers \and knowledge graph}
+\end{abstract}
+
+\section{Linking taxonomic names}
+
+We can represent ``core" biodiversity data as a network of connected entities, such as taxa and their names, publications, people, species, macromolecular sequences, images, and natural history collections \cite{page_towards_2016}. Creating a “biodiversity knowledge graph” is an implicit goal of several initiatives in biodiversity informatics. Indeed, taxonomic databases were early adopters of the Resource Description Framework (RDF) for describing entities and their interrelationships. From 2005 onwards, major databases of taxonomic names (“nomenclators”) for plants, animals, and fungi have used Life Science Identifiers (LSIDs) \cite{clark_globally_2004} to uniquely identify those names. LSIDs can be dereferenced to return metadata in RDF \cite{page_lsid_2008}, and several databases used the same vocabulary (developed by TDWG) to encode information about taxonomic names, their status (e.g., were the names in current use), and where the names were published. The use of globally unique identifiers that can be dereferenced, and which return data in a consistent, machine-readable format would seem to satisfy the preconditions for creating biodiversity knowledge graph \cite{page_towards_2016}. 
+
+Despite the obvious desirability of linking biodiversity data together (\cite{bik_lets_2017}), the biodiversity knowledge graph as yet to spontaneously assemble itself. Arguably the biggest reason is that there were few, if any, connections between taxonomic information and external data sources. For example, taxonomic databases typically cite the taxonomic literature using text strings, rather than persistent identifiers. Hence, we still have silos, albeit silos available in linked data formats.
+
+Breaking those silos requires making links between taxonomic names and other entities of interest, such as the taxonomic literature, specimens, and taxonomists themselves. Creating these links is currently labour intensive, hence early efforts at constructing knowledge graphs have either had modest taxonomic and geographic scope (Ozymandias, \cite{page_ozymandias:_2019}), or are closing linked to the output of one science publisher (OpenBioDiv, \cite{penev_openbiodiv:_2019}).
+
+In this paper I discuss some ways to combine data from taxonomic and publication databases to help seed a biodiversity knowledge graph. In this paper the focus is on plant names, but the ideas apply to names for other taxonomic groups, such as animals and fungi.
+
+\section{Populating the knowledge graph}
+\subsection{Plant names}
+
+The Index of Plant Names Index (IPNI\footnote{http://www.ipni.org}) is an international register of published plant names based at the Royal Botanic Gardens, Kew but which has contributions from the Harvard Gray Index and the Australian Plant Name Index \cite{croft_plant_1999}. Both new taxonomic names (e.g., for newly described species) and new combinations (e.g., reflecting transfers of species from one genus to another) are recorded in IPNI, together with a citation to the scientific work that published that name. Increasingly these names are being submitted to IPNI during the publication process for a paper, rather than simply being captured after the fact \cite{penev_common_2016}. Each name in the IPNI database has a LSID that uniquely identifies that name. I used the IPNI API to retrieve the corresponding RDF (in XML), fixed a small bug in the XML, then convert it to \textit{n}-triples and uploaded it to a triple store (Blazegraph\footnote{https://blazegraph.com}).
+
+\subsection{Publications}
+
+IPNI contains terse citations for the publication of each name in its database. For some records the IPNI curators have added a link to the corresponding page in the Biodiversity Heritage Library (BHL\footnote{https://biodiversitylibrary.org}), and for some recently added records the IPNI web site may give the DOI for a publication, but the majority of IPNI records are not linked to a digital identifier for the publication associated with each name.
+
+As part of ongoing work to match citation strings for taxonomic names to persistent identifiers for the corresponding publications (\cite{page_liberating_2018}), I developed a set of scripts to matching the text string citations to digital identifiers such as DOIs, Handles, JSTOR links, etc. The difficult part of this work is mapping the page-level citations stored in IPNI to work-level bibliographic data. Given a complete bibliography of the taxonomic literature, this would be a relatively straightforward task, in that we could treat each work as comprising a set of pages, and we simply ask which works include the page in the IPNI citation. However, as yet we don’t have a comprehensive bibliography of life (\cite{king_towards_2011}), hence much of the work in making the mapping involves scouring the web for sources of bibliographic information in the hope that these will include works containing the IPNI citations. This mapping between IPNI names is periodically uploaded to a GitHub repository\footnote{https://github.com/rdmpage/ipni-names}, and has also been published as a "datasette" \cite{page_liberating_2018}. For this project I took this mapping and exported it in RDF. 
+
+Metadata about the publications themselves publications was harvested from CrossRef\footnote{https://crossref.org} and ORCID \footnote{https://orcid.org}, expressed as RDF using terms from the Schema.org\footnote{http://schema.org} vocabulary, and added to the knowledge graph. 
+
+\subsection{People}
+
+I used the same approach to modelling authors employed in Ozymandias \cite{page_ozymandias:_2019}, namely using the schema:Role type \cite{holland_introducing_2014}. Inserting a Role node between two entities enables us to annotate that relationship, for example specifying the time period during which the relationship applies. Rather than directly connect a publication to its creator, the creator of a work is a Role, which in turn has the author as its creator property. We can then store the position of author in the list of authors using the schema:roleName property (e.g., ``1", ``2", etc.).
+
+\begin{figure}
+\includegraphics[width=\textwidth]{author.eps}
+\caption{Matching metadata from CrossRef and ORCID for the article with the DOI 10.2307/25065588. The author ``Tatiana U. P. Konno" in CrossRef has the ORCID identifier ``0000-0001-9036-0912".} \label{figauthor}
+\end{figure}
+
+
+Although CrossRef does include some author ORCIDs, in many cases it does not. We can match CrossRef and ORCID records using DOIs for publications, and augment CrossRef records with ORCIDs (see Fig.~\ref{figauthor}). Using a SPARQL query (see Listing \ref{sparql1}) and a DOI we can match the same author names and order of authorship (role) from CrossRef with those for the same record in ORCID. This query assumes that the author names are identical in the CrossRef and ORCID, an obvious refinement would be to accept approximate matches.
+
+
+IPNI has a similar, if more complex notion of ``roles". For each taxonomic name there is a ``team” of one or more authors, each of whom may have various roles, such as author of the original name, or author of a subsequent version (``combination") of the name (for example, the change in name that results when a species moves from one genus to another). IPNI records the role of each team member (e.g., were they a ``publishing author" or a ``combination author") and their position in an ordered list of team members. Hence one approach to matching publication authors (and associated identifiers) to IPNI authors (and their IPNI identifiers) is by matching on roles (Fig.~\ref{figipni}). Given this model we can find candidates for matching IPNI team members to publication authors using a SPARQL query (Listing \ref{sparql}).
+
+\begin{figure}
+\includegraphics[width=\textwidth]{ipni.eps}
+\caption{Matching a member of the author team for a plant name to the author of the paper publishing that name.} \label{figipni}
+\end{figure}
+
+This query finds matches between the first author of the paper with DOI 10.2307 / 25065588 \cite{konno_new_2006} and the first member of the team that coined a plant name  \textit{Minaria cordata} (Turcz.) T.U.P.Konno \& Rapini (LSID urn:lsid:ipni.org:names:77074588-1). The author is Tatiana Ungaretti Paleo Konno (ORCID 0000-0001-9036-0912).
+
+As with the previous example, this query is over-simplified in that it depends on exact string matching. Also note that the order of an author in a team and in a publication might be different. Frequently in ORCID there is only one author listed for a publication (the profile author), and IPNI only records authors who actually name the plant, which may not be all authors of paper. In the example above, only the first two authors of the paper are also authors of the name \textit{Minaria cordata}.
+
+The results of mapping authors to identifiers could be used to augment existing database records, such as Wikidata\footnote{https://www.wikidata.org} \cite{vrandecic_wikidata_2014}. At the time of writing (24 Sep 2019), there is a Wikidata item Q16300981 (revision 880704436) for Tatiana Ungaretti Paleo Konno. This item has IPNI author id 40176-1 as an attribute, but not an ORCID id. Alessandro Rapini has two Wikidata entries (Q54703172 and Q5574227). The current revision of Q54703172 (revision 1009574566) lists the IPNI author ID for Alessandro Rapini, but not the ORCID, whereas Q54703172 (revision 974791158) has an ORCID but not an IPNI id. For the above example we know that these entities represent the same person, and hence those entites should be merged. Wikidata is an obvious venue for storing author identifiers, however many of these identifiers are added to Wikidata using automated “bots” which speed up data entry but don’t necessarily ensure that the entity they are adding is not already in Wikidata.
+
+\section{Summary and future directions}
+
+The approach outlined here is merely a first step in fleshing out a knowledge graph of plant names. By connecting names to publications we provide more details on the provenance of those names. Taxonomic publications, especially recent ones, are likely to have details on aspects of the morphology, ecology, and even genomics of the  species being considered. By converting text string citations into identifiers such as DOIs, we also open up the possibility of linking the paper to citing literature, or to additional data from that publication, such as DNA sequences stored in GenBank\footnote{https://www.ncbi.nlm.nih.gov/genbank/}, and evolutionary trees stored in TreeBASE\footnote{https://treebase.org}.
+
+There are extensive programs to digitise natural history collections, and the results of digitisation are being aggregated into global databases such as the Global Biodiversity Information Facility (GBIF)\footnote{https://gbif.org}. However, data aggregators have been criticised for not giving attribution and credit to individual researchers such as taxonomists \cite{franz_increase_2018}.  By associating author names with identifiers such as ORCIDs we can link taxonomists additional outputs of their research, such as new species descriptions or new taxonomic classifications. Generating lists of taxonomists and associated identifiers can also facilitate linking those researchers to specimens in natural history collections that they have collected or identified, further enhancing our ability to document the activities of taxonomists \cite{shorthouse_quantifying_2019}.
+
+
+%
+% ---- Bibliography ----
+%
+% BibTeX users should specify bibliography style 'splncs04'.
+% References will then be sorted and formatted in the correct style.
+%
+\bibliographystyle{splncs04}
+\bibliography{mybib}
+%
+
+\section{Listings}
+
+\begin{lstlisting}[captionpos=b, caption=SPARQL query to match authors in CrossRef and ORCID, label=sparql1,
+   basicstyle=\ttfamily,frame=single]
+PREFIX schema: <http://schema.org/>
+SELECT *
+WHERE
+{
+  VALUES ?identifier_value { "10.2307/25065588" }
+  
+  GRAPH <https://crossref.org> {
+    ?identifier schema:value  ?identifier_value .
+    ?work schema:identifier> ?identifier .
+    ?work schema:creator ?role  . 
+    ?role schema:roleName ?roleName  .    
+    ?role schema:creator ?creator  .    
+    ?creator schema:name ?name .     
+  }
+    
+ GRAPH <https://orcid.org> {
+    ?orcid_identifier schema:value  ?identifier_value .
+    ?orcid_work schema:identifier ?orcid_identifier .
+    ?orcid_work schema:creator ?orcid_role  . 
+    ?orcid_role schema:roleName ?orcid_roleName  .    
+    ?orcid_role schema:creator ?orcid_creator  .    
+    ?orcid_creator schema:name ?orcid_name .
+  }
+        
+  FILTER(?roleName = ?orcid_roleName) 
+  FILTER(?name = ?orcid_name) 
+}   
+\end{lstlisting}
+
+\begin{lstlisting}[captionpos=b, caption=SPARQL query to match author in IPNI and ORCID, label=sparql,
+   basicstyle=\ttfamily,frame=single]
+PREFIX tn: <http://rs.tdwg.org/ontology/voc/TaxonName#>
+PREFIX tm: <http://rs.tdwg.org/ontology/voc/Team#>
+PREFIX schema: <http://schema.org/>
+PREFIX dc: <http://purl.org/dc/elements/1.1/>
+
+SELECT ?pub_creator ?pub_name ?pub_roleName 
+   ?ipni_role_name ?ipni_member_name 
+   ?ipni_member ?orcid
+WHERE
+{
+    VALUES ?identifier_value {"10.2307/25065588"}
+    VALUES ?ipni {<urn:lsid:ipni.org:names:77074588-1>} 
+ 
+    ?pub_identifier schema:value ?identifier_value .
+    ?pub_work schema:identifier ?pub_identifier .
+    ?pub_work schema:creator ?pub_role  . 
+    ?pub_role schema:roleName ?pub_roleName  .    
+    ?pub_role schema:creator ?pub_creator  .    
+    ?pub_creator schema:name ?pub_name .
+  
+    OPTIONAL {
+      ?pub_creator schema:identifier ?person_identifier .
+      ?person_identifier schema:propertyID "orcid" .
+      ?person_identifier schema:value ?orcid .
+      }
+  
+    ?ipni tn:authorteam ?ipni_team .
+    ?ipni_team tm:hasMember ?ipni_team_member .
+    ?ipni_team_member tm:role ?ipni_role .
+    ?ipni_team_member tm:index ?pub_roleName .
+    ?ipni_team_member tm:member ?ipni_member .
+    ?ipni_member dc:title ?ipni_member_name .
+
+    FILTER (?pub_name =  ?ipni_member_name)
+}
+\end{lstlisting}
+
+
+
+\end{document}

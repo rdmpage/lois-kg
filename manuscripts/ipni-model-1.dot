@@ -1,0 +1,98 @@
+digraph g {
+	
+	
+	newrank=true;
+
+	
+		subgraph cluster1 {
+		style=filled;
+		color=lightgrey;
+		node [style=filled,color=white]; 
+
+		label = "Taxon name";
+		
+		
+		taxon_name [label="Taxon name"] ;
+		taxon_team [label="tm:Team"] ;
+		
+		bnode1 [label=""] ;
+		
+		role1 [label = "Publishing author",shape=box]
+
+		
+		author1 [label="urn:lsid:ipni.org:authors:40176-1"];
+		
+		
+		taxon_name -> taxon_team [label="tn:authorteam"];
+		
+		taxon_team -> bnode1 [label="tm:hasMember"];
+		
+		
+
+		bnode1 ->role1 [label="tm:role"];
+
+		bnode1 ->author1 [label="tm:member"];
+		
+		
+		
+		
+			
+	}
+	
+	subgraph cluster2 {
+	
+	style=filled;
+		color=lightgrey;
+		node [style=filled,color=white]; 
+	
+		label = "Publication";
+		
+		label = "ORCID";
+		
+		
+		
+		
+		
+		
+		ScholarlyArticle1 -> orcid_role [label="creator"];
+		
+		ScholarlyArticle1 [label="ScholarlyArticle"] ;
+		creator1 [label="Person"] ;
+		orcid_role [label="Role"] ;
+		
+		
+		
+		
+		
+		orcid_role -> creator1 [label="creator"] ;
+		
+		
+		creator1 -> "https://orcid.org/0000-0001-9036-0912" [label="@id"];
+		
+		
+		ScholarlyArticle1 -> orcid_identifier [label="identifier"] ;
+				orcid_identifier [label="propertyValue"] ;
+		orcid_identifier->doi [label="value"];
+doi [label="10.2307/25065588",shape=box] ; 
+		
+	}
+	
+	{ rank=same; taxon_name; ScholarlyArticle1; }
+
+	author1name [label="Tatiana Ungaretti Paleo Konno",shape=box] ;
+creator1 -> author1name [label="name"];
+author1 -> author1name [label="dc:title"];
+
+	index1 [label="1",shape=box] ;
+	bnode1 ->index1 [label="tm:index"];
+orcid_role -> index1 [label="roleName"];
+
+taxon_name -> ScholarlyArticle1 [label="tcom:publishedInCitation"];
+
+
+
+
+	
+
+
+}

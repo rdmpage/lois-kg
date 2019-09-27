@@ -1,0 +1,49 @@
+This is BibTeX, Version 0.99d (TeX Live 2019)
+Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
+The top-level auxiliary file: /Users/rpage/Sites/lois-kg/manuscripts/swat4ls/.texpadtmp/draft.aux
+The style file: ../splncs04.bst
+Database file #1: ../mybib.bib
+Warning--there's a number but no volume in page_liberating_2018
+Warning--there's a number but no volume in penev_common_2016
+You've used 15 entries,
+            2850 wiz_defined-function locations,
+            695 strings with 7658 characters,
+and the built_in function-call counts, 9725 in all, are:
+= -- 814
+> -- 280
+< -- 24
++ -- 117
+- -- 100
+* -- 671
+:= -- 1220
+add.period$ -- 28
+call.type$ -- 15
+change.case$ -- 95
+chr.to.int$ -- 0
+cite$ -- 17
+duplicate$ -- 883
+empty$ -- 841
+format.name$ -- 110
+if$ -- 2114
+int.to.chr$ -- 0
+int.to.str$ -- 15
+missing$ -- 162
+newline$ -- 51
+num.names$ -- 30
+pop$ -- 261
+preamble$ -- 1
+purify$ -- 80
+quote$ -- 0
+skip$ -- 259
+stack$ -- 0
+substring$ -- 626
+swap$ -- 551
+text.length$ -- 24
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 60
+warning$ -- 2
+while$ -- 75
+width$ -- 17
+write$ -- 182
+(There were 2 warnings)

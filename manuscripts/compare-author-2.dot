@@ -1,0 +1,87 @@
+digraph G {
+	rankdir=LR;
+	
+	newrank=true;
+
+	subgraph cluster_0 {
+		style=filled;
+		color=lightgrey;
+		node [style=filled,color=white];
+
+		label = "ORCID";
+		
+		
+		orcid_identifier [label="propertyValue"] ;
+		
+		
+		ScholarlyArticle1 -> orcid_identifier [label="identifier"] ;
+		
+		ScholarlyArticle1 -> role1 [label="creator"];
+		
+		ScholarlyArticle1 [label="ScholarlyArticle"] ;
+		creator1 [label="Person"] ;
+		role1 [label="Role"] ;
+		
+		name1 [label="Alessandro Rapini",shape=box] ;
+		
+		role1 -> creator1 [label="creator"] ;
+		creator1 -> name1 [label="name"];
+		
+		creator1 -> "https://orcid.org/0000-0002-8758-9326" [label="@id"];
+		
+	}
+
+	
+    subgraph cluster_1 {
+		style=filled;
+		color=lightgrey;
+		node [style=filled,color=white];
+
+		label = "CrossRef";
+		
+		oz_identifier [label="propertyValue"] ;
+		
+		
+		ScholarlyArticle2 -> oz_identifier [label="identifier"] ;
+		
+		
+		ScholarlyArticle2 [label="ScholarlyArticle"] ;
+		creator2 [label="Person"] ;
+		role2 [label="Role"] ;
+		
+		name2 [label="Alessandro Rapini",shape=box] ;
+		
+
+		ScholarlyArticle2 -> role2 [label="creator"];
+		role2 -> creator2 [label="creator"];
+		creator2 -> name2 [label="name"];
+
+	}
+	
+	{ rank=same; oz_identifier; orcid_identifier; }
+
+	{ rank=same; ScholarlyArticle1; ScholarlyArticle2; }
+	{ rank=same; name1; name2; }
+	
+	roleone [label="2",shape=box];
+	
+	doi [label="10.2307/25065588",shape=box] ;
+	
+	doi -> orcid_identifier  [label="value"] ;
+	doi -> oz_identifier [label="value"] ;
+
+role1 -> roleone [label="roleName"];	
+role2 -> roleone [label="roleName"];	
+
+/*
+ name1 -> name2 [label="match"];	
+ name2 -> name1 [label="match"];	
+ */
+ 
+/*  ScholarlyArticle2 -> ScholarlyArticle1 [label="same"];	
+   ScholarlyArticle1 -> ScholarlyArticle2 [label="same"];	*/
+
+	
+
+
+}

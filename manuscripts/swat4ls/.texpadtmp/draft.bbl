@@ -1,0 +1,82 @@
+\begin{thebibliography}{10}
+\providecommand{\url}[1]{\texttt{#1}}
+\providecommand{\urlprefix}{URL }
+\providecommand{\doi}[1]{https://doi.org/#1}
+
+\bibitem{bik_lets_2017}
+Bik, H.M.: Let's rise up to unite taxonomy and technology. PLOS Biology
+  \textbf{15}(8),  e2002231 (Aug 2017). \doi{10.1371/journal.pbio.2002231}
+
+\bibitem{clark_globally_2004}
+Clark, T., Martin, S., Liefeld, T.: Globally distributed object identification
+  for biological knowledgebases. Briefings in Bioinformatics  \textbf{5}(1),
+  59--70 (Mar 2004). \doi{10.1093/bib/5.1.59}
+
+\bibitem{croft_plant_1999}
+Croft, J., Cross, N., Hinchcliffe, S., Lughadha, E.N., Stevens, P.F., West,
+  J.G., Whitbread, G.: Plant names for the 21st century: the {International}
+  {Plant} {Names} {Index}, a distributed data source of general accessibility.
+  TAXON  \textbf{48}(2),  317--324 (1999). \doi{10.2307/1224436}
+
+\bibitem{franz_increase_2018}
+Franz, N.M., Sterner, B.W.: To increase trust, change the social design behind
+  aggregated biodiversity data. Database  \textbf{2018} (Jan 2018).
+  \doi{10.1093/database/bax100}
+
+\bibitem{holland_introducing_2014}
+Holland, V.T., Johnson, J.: Introducing '{Role}' (2014),
+  \url{http://blog.schema.org/2014/06/introducing-role.html}
+
+\bibitem{king_towards_2011}
+King, D., Morse, D., Willis, A., Dil, A.: Towards the bibliography of life.
+  ZooKeys  \textbf{150},  151--166 (Nov 2011). \doi{10.3897/zookeys.150.2167},
+  \url{https://zookeys.pensoft.net/article/3035/}
+
+\bibitem{konno_new_2006}
+Konno, T.U.P., Rapini, A., Goyder, D.J., Chase, M.W.: The new genus {Minaria}
+  ({Asclepiadoideae}, {Apocynaceae}). TAXON  \textbf{55}(2),  421--430 (2006).
+  \doi{10.2307/25065588}
+
+\bibitem{page_lsid_2008}
+Page, R.D.M.: {LSID} {Tester}, a tool for testing {Life} {Science} {Identifier}
+  resolution services. Source Code for Biology and Medicine  \textbf{3}(1), ~2
+  (Feb 2008). \doi{10.1186/1751-0473-3-2}
+
+\bibitem{page_towards_2016}
+Page, R.D.M.: Towards a biodiversity knowledge graph. Research Ideas and
+  Outcomes  \textbf{2},  e8767 (Apr 2016). \doi{10.3897/rio.2.e8767}
+
+\bibitem{page_liberating_2018}
+Page, R.D.M.: Liberating links between datasets using lightweight data
+  publishing: an example using plant names and the taxonomic literature.
+  Biodiversity Data Journal (6) (Jul 2018). \doi{10.3897/BDJ.6.e27539}
+
+\bibitem{page_ozymandias:_2019}
+Page, R.D.M.: Ozymandias: a biodiversity knowledge graph. PeerJ  \textbf{7},
+  e6739 (Apr 2019). \doi{10.7717/peerj.6739}
+
+\bibitem{penev_openbiodiv:_2019}
+Penev, L., Dimitrova, M., Senderov, V., Zhelezov, G., Georgiev, T., Stoev, P.,
+  Simov, K.: {OpenBiodiv}: {A} {Knowledge} {Graph} for {Literature}-{Extracted}
+  {Linked} {Open} {Data} in {Biodiversity} {Science}. Publications
+  \textbf{7}(2), ~38 (May 2019). \doi{10.3390/publications7020038}
+
+\bibitem{penev_common_2016}
+Penev, L., Paton, A., Nicolson, N., Kirk, P., Pyle, R.L., Whitton, R.,
+  Georgiev, T., Barker, C., Hopkins, C., Robert, V., Biserkov, J., Stoev, P.: A
+  common registration-to-publication automated pipeline for nomenclatural acts
+  for higher plants ({International} {Plant} {Names} {Index}, {IPNI}), fungi
+  ({Index} {Fungorum}, {MycoBank}) and animals ({ZooBank}). ZooKeys (550),
+  233--246 (Jan 2016). \doi{10.3897/zookeys.550.9551}
+
+\bibitem{shorthouse_quantifying_2019}
+Shorthouse, D., Page, R.D.M.: Quantifying {Institutional} {Reach} {Through} the
+  {Human} {Network} in {Natural} {History} {Collections}. Biodiversity
+  Information Science and Standards  \textbf{3},  e35243 (Aug 2019).
+  \doi{10.3897/biss.3.35243}
+
+\bibitem{vrandecic_wikidata_2014}
+Vrande{\v c}i{\'c}, D., Kr{\"o}tzsch, M.: Wikidata. Communications of the ACM
+  \textbf{57}(10),  78--85 (Sep 2014). \doi{10.1145/2629489}
+
+\end{thebibliography}
