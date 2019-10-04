@@ -4,3 +4,6 @@ vendor/
 
 manuscripts/examples
 oz-csl/csl.nt
+resolvers/ipni.nt
+oz-orcid/people.nt
+oz-orcid/orcid.nt

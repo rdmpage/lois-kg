@@ -1,12 +1,20 @@
-<https://orcid.org/0000-0001-6367-9784#orcid> <http://schema.org/propertyID> "orcid" .
-<https://orcid.org/0000-0001-6367-9784#orcid> <http://schema.org/value> "0000-0001-6367-9784" .
-<https://orcid.org/0000-0001-6367-9784#orcid> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
-<https://orcid.org/0000-0001-6367-9784> <http://schema.org/alternateName> "Philips, AJL" .
-<https://orcid.org/0000-0001-6367-9784> <http://schema.org/alternateName> "Phillips, AJL" .
-<https://orcid.org/0000-0001-6367-9784> <http://schema.org/alternateName> "Phillips, Alan" .
-<https://orcid.org/0000-0001-6367-9784> <http://schema.org/familyName> "Phillips" .
-<https://orcid.org/0000-0001-6367-9784> <http://schema.org/givenName> "Alan" .
+<https://orcid.org/0000-0001-5028-0686> <http://schema.org/familyName> "van den Berg" .
+<https://orcid.org/0000-0001-5028-0686#orcid> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<https://orcid.org/0000-0001-5028-0686#orcid> <http://schema.org/value> "0000-0001-5028-0686" .
+<https://orcid.org/0000-0001-5028-0686#orcid> <http://schema.org/propertyID> "orcid" .
+<https://orcid.org/0000-0001-5028-0686> <http://schema.org/givenName> "Cassio" .
+<https://orcid.org/0000-0001-5028-0686> <http://schema.org/identifier> <https://orcid.org/0000-0001-5028-0686#orcid> .
+<https://orcid.org/0000-0001-5028-0686> <http://schema.org/name> "Cassio van den Berg" .
+<https://orcid.org/0000-0001-5028-0686> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
 <https://orcid.org/0000-0001-6367-9784> <http://schema.org/identifier> <https://orcid.org/0000-0001-6367-9784#orcid> .
+<https://orcid.org/0000-0001-6367-9784> <http://schema.org/givenName> "Alan" .
+<https://orcid.org/0000-0001-6367-9784> <http://schema.org/familyName> "Phillips" .
+<https://orcid.org/0000-0001-6367-9784> <http://schema.org/alternateName> "Phillips, Alan" .
+<https://orcid.org/0000-0001-6367-9784> <http://schema.org/alternateName> "Phillips, AJL" .
+<https://orcid.org/0000-0001-6367-9784> <http://schema.org/alternateName> "Philips, AJL" .
+<https://orcid.org/0000-0001-6367-9784#orcid> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<https://orcid.org/0000-0001-6367-9784#orcid> <http://schema.org/value> "0000-0001-6367-9784" .
+<https://orcid.org/0000-0001-6367-9784#orcid> <http://schema.org/propertyID> "orcid" .
 <https://orcid.org/0000-0001-6367-9784> <http://schema.org/name> "Alan Phillips" .
 <https://orcid.org/0000-0001-6367-9784> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
 <https://orcid.org/0000-0001-7047-412X> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
@@ -41,6 +49,22 @@
 <https://orcid.org/0000-0001-9793-2303#orcid> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
 <https://orcid.org/0000-0001-9793-2303#orcid> <http://schema.org/value> "0000-0001-9793-2303" .
 <https://orcid.org/0000-0001-9793-2303#orcid> <http://schema.org/propertyID> "orcid" .
+<https://orcid.org/0000-0002-1370-044X> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+<https://orcid.org/0000-0002-1370-044X> <http://schema.org/name> "Aristônio Teles" .
+<https://orcid.org/0000-0002-1370-044X> <http://schema.org/identifier> <https://orcid.org/0000-0002-1370-044X#orcid> .
+<https://orcid.org/0000-0002-1370-044X> <http://schema.org/givenName> "Aristônio" .
+<https://orcid.org/0000-0002-1370-044X> <http://schema.org/familyName> "Teles" .
+<https://orcid.org/0000-0002-1370-044X#orcid> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<https://orcid.org/0000-0002-1370-044X#orcid> <http://schema.org/value> "0000-0002-1370-044X" .
+<https://orcid.org/0000-0002-1370-044X#orcid> <http://schema.org/propertyID> "orcid" .
+<https://orcid.org/0000-0002-1440-4810> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+<https://orcid.org/0000-0002-1440-4810> <http://schema.org/name> "Elder Paiva" .
+<https://orcid.org/0000-0002-1440-4810> <http://schema.org/identifier> <https://orcid.org/0000-0002-1440-4810#orcid> .
+<https://orcid.org/0000-0002-1440-4810> <http://schema.org/givenName> "Elder" .
+<https://orcid.org/0000-0002-1440-4810> <http://schema.org/familyName> "Paiva" .
+<https://orcid.org/0000-0002-1440-4810#orcid> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<https://orcid.org/0000-0002-1440-4810#orcid> <http://schema.org/value> "0000-0002-1440-4810" .
+<https://orcid.org/0000-0002-1440-4810#orcid> <http://schema.org/propertyID> "orcid" .
 <https://orcid.org/0000-0002-1717-9532#orcid> <http://schema.org/value> "0000-0002-1717-9532" .
 <https://orcid.org/0000-0002-1717-9532#orcid> <http://schema.org/propertyID> "orcid" .
 <https://orcid.org/0000-0002-1717-9532#orcid> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
@@ -57,6 +81,14 @@
 <https://orcid.org/0000-0002-3176-8675> <http://schema.org/identifier> <https://orcid.org/0000-0002-3176-8675#orcid> .
 <https://orcid.org/0000-0002-3176-8675> <http://schema.org/name> "Mohamed Abdel-Wahab" .
 <https://orcid.org/0000-0002-3176-8675> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+<https://orcid.org/0000-0002-3179-4005> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+<https://orcid.org/0000-0002-3179-4005> <http://schema.org/name> "Steven Dessein" .
+<https://orcid.org/0000-0002-3179-4005> <http://schema.org/identifier> <https://orcid.org/0000-0002-3179-4005#orcid> .
+<https://orcid.org/0000-0002-3179-4005> <http://schema.org/givenName> "Steven" .
+<https://orcid.org/0000-0002-3179-4005> <http://schema.org/familyName> "Dessein" .
+<https://orcid.org/0000-0002-3179-4005#orcid> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<https://orcid.org/0000-0002-3179-4005#orcid> <http://schema.org/value> "0000-0002-3179-4005" .
+<https://orcid.org/0000-0002-3179-4005#orcid> <http://schema.org/propertyID> "orcid" .
 <https://orcid.org/0000-0002-3604-6532> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
 <https://orcid.org/0000-0002-3604-6532> <http://schema.org/name> "Per Magnus Jørgensen" .
 <https://orcid.org/0000-0002-3604-6532> <http://schema.org/identifier> <https://orcid.org/0000-0002-3604-6532#orcid> .
@@ -73,14 +105,56 @@
 <https://orcid.org/0000-0002-6424-0834#orcid> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
 <https://orcid.org/0000-0002-6424-0834#orcid> <http://schema.org/value> "0000-0002-6424-0834" .
 <https://orcid.org/0000-0002-6424-0834#orcid> <http://schema.org/propertyID> "orcid" .
-<https://orcid.org/0000-0002-8758-9326> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
-<https://orcid.org/0000-0002-8758-9326> <http://schema.org/name> "Alessandro Rapini" .
-<https://orcid.org/0000-0002-8758-9326> <http://schema.org/identifier> <https://orcid.org/0000-0002-8758-9326#orcid> .
-<https://orcid.org/0000-0002-8758-9326> <http://schema.org/givenName> "Alessandro" .
-<https://orcid.org/0000-0002-8758-9326> <http://schema.org/familyName> "Rapini" .
-<https://orcid.org/0000-0002-8758-9326#orcid> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<https://orcid.org/0000-0002-7204-0744#orcid> <http://schema.org/value> "0000-0002-7204-0744" .
+<https://orcid.org/0000-0002-7204-0744#orcid> <http://schema.org/propertyID> "orcid" .
+<https://orcid.org/0000-0002-7204-0744#orcid> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<https://orcid.org/0000-0002-7204-0744> <http://schema.org/familyName> "Mansano" .
+<https://orcid.org/0000-0002-7204-0744> <http://schema.org/givenName> "Vidal" .
+<https://orcid.org/0000-0002-7204-0744> <http://schema.org/identifier> <https://orcid.org/0000-0002-7204-0744#orcid> .
+<https://orcid.org/0000-0002-7204-0744> <http://schema.org/name> "Vidal Mansano" .
+<https://orcid.org/0000-0002-7204-0744> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+<https://orcid.org/0000-0002-7423-899X> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+<https://orcid.org/0000-0002-7423-899X> <http://schema.org/name> "Ricarda Riina" .
+<https://orcid.org/0000-0002-7423-899X> <http://schema.org/identifier> <https://orcid.org/0000-0002-7423-899X#orcid> .
+<https://orcid.org/0000-0002-7423-899X> <http://schema.org/givenName> "Ricarda" .
+<https://orcid.org/0000-0002-7423-899X> <http://schema.org/familyName> "Riina" .
+<https://orcid.org/0000-0002-7423-899X#orcid> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<https://orcid.org/0000-0002-7423-899X#orcid> <http://schema.org/value> "0000-0002-7423-899X" .
+<https://orcid.org/0000-0002-7423-899X#orcid> <http://schema.org/propertyID> "orcid" .
+<https://orcid.org/0000-0002-7570-2811> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+<https://orcid.org/0000-0002-7570-2811> <http://schema.org/name> "Regina Hirai" .
+<https://orcid.org/0000-0002-7570-2811> <http://schema.org/identifier> <https://orcid.org/0000-0002-7570-2811#orcid> .
+<https://orcid.org/0000-0002-7570-2811> <http://schema.org/givenName> "Regina" .
+<https://orcid.org/0000-0002-7570-2811> <http://schema.org/familyName> "Hirai" .
+<https://orcid.org/0000-0002-7570-2811> <http://schema.org/alternateName> "Regina Yoshie Hirai" .
+<https://orcid.org/0000-0002-7570-2811#orcid> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<https://orcid.org/0000-0002-7570-2811#orcid> <http://schema.org/value> "0000-0002-7570-2811" .
+<https://orcid.org/0000-0002-7570-2811#orcid> <http://schema.org/propertyID> "orcid" .
+<https://orcid.org/0000-0002-7887-9954> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+<https://orcid.org/0000-0002-7887-9954> <http://schema.org/name> "Rogério Ribeiro" .
+<https://orcid.org/0000-0002-7887-9954> <http://schema.org/identifier> <https://orcid.org/0000-0002-7887-9954#orcid> .
+<https://orcid.org/0000-0002-7887-9954> <http://schema.org/givenName> "Rogério" .
+<https://orcid.org/0000-0002-7887-9954> <http://schema.org/familyName> "Ribeiro" .
+<https://orcid.org/0000-0002-7887-9954#orcid> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<https://orcid.org/0000-0002-7887-9954#orcid> <http://schema.org/value> "0000-0002-7887-9954" .
+<https://orcid.org/0000-0002-7887-9954#orcid> <http://schema.org/propertyID> "orcid" .
+<https://orcid.org/0000-0002-8726-3561#orcid> <http://schema.org/propertyID> "orcid" .
+<https://orcid.org/0000-0002-8726-3561#orcid> <http://schema.org/value> "0000-0002-8726-3561" .
+<https://orcid.org/0000-0002-8726-3561#orcid> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<https://orcid.org/0000-0002-8726-3561> <http://schema.org/alternateName> "Faria, A.D." .
+<https://orcid.org/0000-0002-8726-3561> <http://schema.org/familyName> "Faria" .
+<https://orcid.org/0000-0002-8726-3561> <http://schema.org/givenName> "Aparecida" .
+<https://orcid.org/0000-0002-8726-3561> <http://schema.org/identifier> <https://orcid.org/0000-0002-8726-3561#orcid> .
+<https://orcid.org/0000-0002-8726-3561> <http://schema.org/name> "Aparecida Faria" .
+<https://orcid.org/0000-0002-8726-3561> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
 <https://orcid.org/0000-0002-8758-9326#orcid> <http://schema.org/value> "0000-0002-8758-9326" .
 <https://orcid.org/0000-0002-8758-9326#orcid> <http://schema.org/propertyID> "orcid" .
+<https://orcid.org/0000-0002-8758-9326#orcid> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<https://orcid.org/0000-0002-8758-9326> <http://schema.org/familyName> "Rapini" .
+<https://orcid.org/0000-0002-8758-9326> <http://schema.org/givenName> "Alessandro" .
+<https://orcid.org/0000-0002-8758-9326> <http://schema.org/identifier> <https://orcid.org/0000-0002-8758-9326#orcid> .
+<https://orcid.org/0000-0002-8758-9326> <http://schema.org/name> "Alessandro Rapini" .
+<https://orcid.org/0000-0002-8758-9326> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
 <https://orcid.org/0000-0002-9638-0532> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
 <https://orcid.org/0000-0002-9638-0532> <http://schema.org/name> "Mohammad Ali" .
 <https://orcid.org/0000-0002-9638-0532> <http://schema.org/identifier> <https://orcid.org/0000-0002-9638-0532#orcid> .
@@ -88,14 +162,30 @@
 <https://orcid.org/0000-0002-9638-0532#orcid> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
 <https://orcid.org/0000-0002-9638-0532#orcid> <http://schema.org/value> "0000-0002-9638-0532" .
 <https://orcid.org/0000-0002-9638-0532#orcid> <http://schema.org/propertyID> "orcid" .
-<https://orcid.org/0000-0003-3288-3971> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
-<https://orcid.org/0000-0003-3288-3971> <http://schema.org/name> "luis fernando pascholati gusmao" .
-<https://orcid.org/0000-0003-3288-3971> <http://schema.org/identifier> <https://orcid.org/0000-0003-3288-3971#orcid> .
-<https://orcid.org/0000-0003-3288-3971> <http://schema.org/givenName> "luis fernando" .
-<https://orcid.org/0000-0003-3288-3971> <http://schema.org/familyName> "pascholati gusmao" .
-<https://orcid.org/0000-0003-3288-3971#orcid> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<https://orcid.org/0000-0003-1540-0165> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+<https://orcid.org/0000-0003-1540-0165> <http://schema.org/name> "Ana Luiza Côrtes" .
+<https://orcid.org/0000-0003-1540-0165> <http://schema.org/identifier> <https://orcid.org/0000-0003-1540-0165#orcid> .
+<https://orcid.org/0000-0003-1540-0165> <http://schema.org/givenName> "Ana Luiza" .
+<https://orcid.org/0000-0003-1540-0165> <http://schema.org/familyName> "Côrtes" .
+<https://orcid.org/0000-0003-1540-0165#orcid> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<https://orcid.org/0000-0003-1540-0165#orcid> <http://schema.org/value> "0000-0003-1540-0165" .
+<https://orcid.org/0000-0003-1540-0165#orcid> <http://schema.org/propertyID> "orcid" .
 <https://orcid.org/0000-0003-3288-3971#orcid> <http://schema.org/value> "0000-0003-3288-3971" .
 <https://orcid.org/0000-0003-3288-3971#orcid> <http://schema.org/propertyID> "orcid" .
+<https://orcid.org/0000-0003-3288-3971#orcid> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<https://orcid.org/0000-0003-3288-3971> <http://schema.org/familyName> "pascholati gusmao" .
+<https://orcid.org/0000-0003-3288-3971> <http://schema.org/givenName> "luis fernando" .
+<https://orcid.org/0000-0003-3288-3971> <http://schema.org/identifier> <https://orcid.org/0000-0003-3288-3971#orcid> .
+<https://orcid.org/0000-0003-3288-3971> <http://schema.org/name> "luis fernando pascholati gusmao" .
+<https://orcid.org/0000-0003-3288-3971> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+<https://orcid.org/0000-0003-3891-9904> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+<https://orcid.org/0000-0003-3891-9904> <http://schema.org/name> "Eric Schuettpelz" .
+<https://orcid.org/0000-0003-3891-9904> <http://schema.org/identifier> <https://orcid.org/0000-0003-3891-9904#orcid> .
+<https://orcid.org/0000-0003-3891-9904> <http://schema.org/givenName> "Eric" .
+<https://orcid.org/0000-0003-3891-9904> <http://schema.org/familyName> "Schuettpelz" .
+<https://orcid.org/0000-0003-3891-9904#orcid> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<https://orcid.org/0000-0003-3891-9904#orcid> <http://schema.org/value> "0000-0003-3891-9904" .
+<https://orcid.org/0000-0003-3891-9904#orcid> <http://schema.org/propertyID> "orcid" .
 <https://orcid.org/0000-0003-3926-0478> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
 <https://orcid.org/0000-0003-3926-0478> <http://schema.org/name> "Manuel Rodrigues" .
 <https://orcid.org/0000-0003-3926-0478> <http://schema.org/identifier> <https://orcid.org/0000-0003-3926-0478#orcid> .
@@ -104,3 +194,14 @@
 <https://orcid.org/0000-0003-3926-0478#orcid> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
 <https://orcid.org/0000-0003-3926-0478#orcid> <http://schema.org/value> "0000-0003-3926-0478" .
 <https://orcid.org/0000-0003-3926-0478#orcid> <http://schema.org/propertyID> "orcid" .
+<https://orcid.org/0000-0003-4783-3125> <http://schema.org/name> "Jefferson  Prado" .
+<https://orcid.org/0000-0003-4783-3125> <http://schema.org/identifier> <https://orcid.org/0000-0003-4783-3125#orcid> .
+<https://orcid.org/0000-0003-4783-3125> <http://schema.org/givenName> "Jefferson " .
+<https://orcid.org/0000-0003-4783-3125> <http://schema.org/familyName> "Prado" .
+<https://orcid.org/0000-0003-4783-3125> <http://schema.org/alternateName> "J. Prado" .
+<https://orcid.org/0000-0003-4783-3125> <http://schema.org/alternateName> " Prado, Jefferson" .
+<https://orcid.org/0000-0003-4783-3125> <http://schema.org/alternateName> " Jefferson Prado " .
+<https://orcid.org/0000-0003-4783-3125#orcid> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<https://orcid.org/0000-0003-4783-3125#orcid> <http://schema.org/value> "0000-0003-4783-3125" .
+<https://orcid.org/0000-0003-4783-3125#orcid> <http://schema.org/propertyID> "orcid" .
+<https://orcid.org/0000-0003-4783-3125> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
