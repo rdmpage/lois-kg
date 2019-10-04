@@ -227,6 +227,14 @@ if (1)
 	'10.13346/j.mycosystema.130120',
 	);
 	
+	$guids = array(
+	'https://www.zin.ru/journals/parazitologiya/content/1996/prz_1996_2_2_Yankovsky.pdf'
+	);
+	
+	$guids = array(
+	'http://www.jstor.org/stable/24529694',
+	);
+	
 	
 
 	$force = true;
