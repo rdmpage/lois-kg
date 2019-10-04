@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+<rdf:RDF
+    xmlns:dc="http://purl.org/dc/terms/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:owl="http://www.w3.org/2002/07/owl/"
+    xmlns:dwc="http://rs.tdwg.org/dwc/terms/"
+    xmlns:dwciri="http://rs.tdwg.org/dwc/iri/" > 
+  <rdf:Description rdf:about="https://www.wikidata.org/wiki/Q28913658">
+    <owl:sameAs rdf:resource="https://orcid.org/0000-0002-0596-5376"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.botanicalcollections.behttp://botanical-collections-prd.appspot.comhttp://botanical-collections-prd.appspot.com/specimen/BR0000027428382V">
+    <dc:language>EN</dc:language>
+    <dwc:day>27</dwc:day>
+    <dc:creator>Groom Q.</dc:creator>
+    <dwc:recordedBy>Groom Q.</dwc:recordedBy>
+    <dwc:family>Rosaceae</dwc:family>
+    <dwc:eventDate>2017-09-27</dwc:eventDate>
+    <dwc:catalogNumber>BR0000027428382V</dwc:catalogNumber>
+    <dwc:InstitutionCode>Botanic Garden Meise</dwc:InstitutionCode>
+    <dwc:recordNumber>1708</dwc:recordNumber>
+    <dc:created>2017-09-27</dc:created>
+    <dc:license>https://creativecommons.org/licenses/by/4.0/legalcode</dc:license>
+    <dwc:year>2017</dwc:year>
+    <dwc:nomenclaturalCode>ICBN</dwc:nomenclaturalCode>
+    <dwc:typeStatus></dwc:typeStatus>
+    <dc:title>Rubus setosus Bigelow</dc:title>
+    <dwc:occurrenceID>http://www.botanicalcollections.behttp://botanical-collections-prd.appspot.comhttp://botanical-collections-prd.appspot.com/specimen/BR0000027428382V</dwc:occurrenceID>
+    <dwc:month>09</dwc:month>
+    <dc:rightsHolder>Agentschap Plantentuin Meise</dc:rightsHolder>
+    <dwciri:recordedBy rdf:resource="https://www.wikidata.org/wiki/Q28913658"/>
+    <dwc:country>Canada</dwc:country>
+    <dwc:countryCode>CA</dwc:countryCode>
+    <dwc:basisOfRecord>PRESERVED_SPECIMEN</dwc:basisOfRecord>
+    <dwc:informationWithheld>location information,determination details,habitat,georeferencing</dwc:informationWithheld>
+    <dwc:scientificName>Rubus setosus Bigelow</dwc:scientificName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.botanicalcollections.be/specimen/BR0000027428382V/rdf">
+    <dc:created>Wed Oct 02 19:38:51 UTC 2019</dc:created>
+    <dc:creator>Botanical Garden Meise</dc:creator>
+    <dc:subject rdf:resource="http://www.botanicalcollections.behttp://botanical-collections-prd.appspot.comhttp://botanical-collections-prd.appspot.com/specimen/BR0000027428382V"/>
+  </rdf:Description>
+</rdf:RDF>

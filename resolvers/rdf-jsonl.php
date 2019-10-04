@@ -745,6 +745,121 @@ function worms_lsid($lsid, $cache_dir = '')
 	return $data;	
 }
 
+//----------------------------------------------------------------------------------------
+// CETAF RDF
+// 
+function cetaf_rdf($url, $cache_dir = '', $format='jsonld')
+{
+	$data = null;
+	
+	$parts = parse_url($url);
+	
+	$id = 'cetaf';
+	
+	if (preg_match('/\/(?<id>[^\/]+)$/', $parts['path'], $m))
+	{
+		$id = $m['id'];
+	}
+
+	// Either use an existing cache (e.g., on external hard drive)
+	// or cache locally
+	if ($cache_dir != '')
+	{
+	}
+	else
+	{
+		$cache_dir = dirname(__FILE__) . "/cache";
+		if (!file_exists($cache_dir))
+		{
+			$oldumask = umask(0); 
+			mkdir($cache_dir, 0777);
+			umask($oldumask);
+		}
+	
+		$cache_dir .= '/cetaf';
+	
+		if (!file_exists($cache_dir))
+		{
+			$oldumask = umask(0); 
+			mkdir($cache_dir, 0777);
+			umask($oldumask);
+		}
+		
+		$cache_dir .= '/' . $parts['host'];
+	
+		if (!file_exists($cache_dir))
+		{
+			$oldumask = umask(0); 
+			mkdir($cache_dir, 0777);
+			umask($oldumask);
+		}
+
+	}
+		
+	$dir = $cache_dir;
+	
+	$filename = $dir . '/' . $id . '.xml';
+
+	if (!file_exists($filename))
+	{
+		$xml = get($url, '', 'application/rdf+xml');
+		
+		file_put_contents($filename, $xml);	
+	}
+	
+	$xml = file_get_contents($filename);
+	
+	if (($xml != '') && preg_match('/<\?xml/', $xml))
+	{
+		// clean coldb.mnhn.fr crap
+		$xml = preg_replace('/<!DOCTYPE rdf:RDF \[([^\]]+)\]>/', '', $xml);	
+		
+		// fix up be mess 
+		$xml = str_replace(
+		'http://www.botanicalcollections.behttp://botanical-collections-prd.appspot.comhttp://botanical-collections-prd.appspot.com/specimen/',
+		'http://www.botanicalcollections.be/specimen/',
+		$xml);
+	
+		// convert
+		$nt = rdf_to_triples($xml, $url);
+		
+		if ($format == 'jsonld')
+		{
+
+				
+			$doc = jsonld_from_rdf($nt, array('format' => 'application/nquads'));
+
+			// Context 
+			$context = new stdclass;
+
+			$context->{'@vocab'} 	= "http://rs.tdwg.org/dwc/terms/";
+			
+			$context->dwciri		= "http://rs.tdwg.org/dwc/iri/";
+			
+			$context->dcterms 		= "http://purl.org/dc/terms/";
+		
+			$context->rdfs			= "http://www.w3.org/TR/2014/REC-rdf-schema-20140225/";
+			$context->foaf			= "http://xmlns.com/foaf/spec/";
+			$context->ma			= "https://www.w3.org/ns/ma-ont#";
+			$context->geo			= "http://www.w3.org/2003/01/geo/wgs84_pos#";
+			
+			// .be
+			$context->owl			= "http://www.w3.org/2002/07/owl/";
+			// .rbge 
+			$context->owl			= "http://www.w3.org/2002/07/owl#";
+		
+			$data = jsonld_compact($doc, $context);
+		}
+		else
+		{
+			$data = $nt;
+		}
+
+	}
+	
+	return $data;	
+}
+
 
 	
 //----------------------------------------------------------------------------------------
@@ -859,6 +974,35 @@ function resolve_url($url, $caches = null, $format='jsonld')
 		}
 	}
 	
+	// CETAF specimen---------------------------------------------------------------------
+	// http://data.rbge.org.uk/herb/E00435919
+	if (!$done)
+	{
+		if (preg_match('/
+			https?:\/\/
+			(
+			data.rbge.org.uk
+			|herbarium.bgbm.org
+			|coldb.mnhn.fr
+			|www.botanicalcollections.be
+			)
+			/x', $url))
+		{
+			$data = cetaf_rdf($url);
+
+			if ($data)
+			{
+				$doc = new stdclass;
+				$doc->{'message-source'} = $url . '.rdf';
+				$doc->{'message-format'} = 'application/ld+json';
+				$doc->message = $data;
+			}
+			
+			$done = true;
+		}
+	}
+	
+	
 		
 	
 	return $doc;
@@ -961,4 +1105,24 @@ if (0)
 
 	}
 }
+
+if (0)
+{
+	$url = 'http://data.rbge.org.uk/herb/E00435919';
+	//$url = 'http://herbarium.bgbm.org/object/B100241392';
+	//$url = 'http://coldb.mnhn.fr/catalognumber/mnhn/p/p05036298';
+	
+	//$url = 'http://www.botanicalcollections.be/specimen/BR0000027428382V/rdf';
+	
+	$doc = resolve_url($url);	
+	
+	echo json_encode($doc, JSON_PRETTY_PRINT | JSON_UNESCAPED_SLASHES | JSON_UNESCAPED_UNICODE);
+	echo "\n";
+	
+	
+	
+
+}
+
+
 ?>
