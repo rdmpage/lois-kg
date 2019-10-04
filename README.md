@@ -3,6 +3,12 @@
 Building a knowledge graph of taxonomic data.
 
 
+## Issues
+
+###
+
+http://localhost/~rpage/lois-kg/www/?uri=https://doi.org/10.1640/0002-8444-103.1.21 has authors with ORCIDs, e.g.
+http://localhost/~rpage/lois-kg/www/?uri=https://orcid.org/0000-0003-3891-9904, why don’t these appear when we show reference (check whether author order is same in CrossREf and ORCID).
 
 ## Setup
 
@@ -31,6 +37,12 @@ ORCID | https://orcid.org
 
 ## Sources
 
+### Belgium
+
+http://www.botanicalcollections.be/specimen/BR0000027428382V/rdf
+
+RDF has ORCID!
+
 ### IPNI
 
 ```
@@ -49,6 +61,12 @@ Catchall demo examples, e.g. linking names to publications, etc.
 
 ```
 curl http://167.71.255.145:9999/blazegraph/sparql?context-uri=https://bionames.org -H 'Content-Type: text/rdf+n3' --data-binary '@glue.nt'  --progress-bar | tee /dev/null
+```
+
+### The Plant List
+
+```
+curl http://167.71.255.145:9999/blazegraph/sparql?context-uri=http://theplantlist.org -H 'Content-Type: text/rdf+n3' --data-binary '@theplantlist.nt'  --progress-bar | tee /dev/null
 ```
 
 
