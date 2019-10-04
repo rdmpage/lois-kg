@@ -147,7 +147,7 @@ item = data;
 <!-- container -->
 <% if (item.isPartOf) { %>
 	<% if (item.isPartOf['@id']) { %>
-		<a href="?uri=<%= item.isPartOf['@id'] %>">
+		<a href="?uri=<%= item.isPartOf['@id'].replace('#', '%23') %>">
 	<% } %>
 
 	<%= get_literal(item.isPartOf.name) %>
@@ -190,7 +190,7 @@ item = data;
 
 <!-- title -->
 <h1>
-	<%= get_literal(item.name) %>
+	<%- get_literal(item.name) %>
 </h1>
 
 <!-- authors -->
@@ -209,14 +209,24 @@ item = data;
 			
 				var string ='';
 				
+				var orcid = '';
+				
 			    if (item.creator[i].creator[0].identifier) {
-			    	var orcid = get_property_value(item.creator[i].creator[0].identifier, 'orcid');
-			    	if (orcid != '') {
-			    		string += '<a href="https://orcid.org/' + orcid + '"><img src="images/orcid_16x16.png"></a>&nbsp;';
-			    	}
+			    	orcid = get_property_value(item.creator[i].creator[0].identifier, 'orcid');
 			    }
-			    		
+			    
+				if (orcid != '') {
+					//string += '<a href="https://orcid.org/' + orcid + '"><img src="images/orcid_16x16.png"></a>&nbsp;';
+					string += '<img src="images/orcid_16x16.png"></a>&nbsp;';
+					string += '<a href="?uri=https://orcid.org/' + orcid + '">';
+			    }
+			   
 				string += get_literal(item.creator[i].creator[0].name);
+				
+				if (orcid != '') {
+					string += '</a>';
+				}
+				
 				authors.push(string);
 			}
 
