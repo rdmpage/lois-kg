@@ -128,14 +128,9 @@ get_property_value = function(key, propertyID) {
 	return value;
 }
 
-
-if (data['@graph']) {
-	data = data['@graph'][0];
+if (item['@graph']) {
+	item = data['@graph'][0];
 }
-
-var item = null;
-
-item = data;
 
 
 %>

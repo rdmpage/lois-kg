@@ -133,9 +133,7 @@ get_property_value = function(key, propertyID) {
 
 <%
 
-var item = null;
-
-item = feed['@graph'][0];
+item = item['@graph'][0];
 
 %>
 

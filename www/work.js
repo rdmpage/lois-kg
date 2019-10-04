@@ -130,13 +130,9 @@ get_property_value = function(key, propertyID) {
 }
 
 
-if (data['@graph']) {
-	data = data['@graph'][0];
+if (item['@graph']) {
+	item = item['@graph'][0];
 }
-
-var item = null;
-
-item = data;
 
 
 %>
@@ -295,7 +291,15 @@ item = data;
 		<%= id %>
 		</a>
 	<% }
-	
+
+	// JSTOR
+	id = get_property_value(item.identifier, 'jstor');	  
+	if (id != '') {  %>	
+		<span class="heading">JSTOR</span>
+		<a href="https://www.jstor.org/stable/<%=id%>">
+		<%= id %>
+		</a>
+	<% }	
 	
 	// PMID
 	id = get_property_value(item.identifier, 'pmid');	  
