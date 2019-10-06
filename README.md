@@ -2,14 +2,6 @@
 
 Building a knowledge graph of taxonomic data.
 
-
-## Issues
-
-###
-
-http://localhost/~rpage/lois-kg/www/?uri=https://doi.org/10.1640/0002-8444-103.1.21 has authors with ORCIDs, e.g.
-http://localhost/~rpage/lois-kg/www/?uri=https://orcid.org/0000-0003-3891-9904, why don’t these appear when we show reference (check whether author order is same in CrossREf and ORCID).
-
 ## Setup
 
 ```

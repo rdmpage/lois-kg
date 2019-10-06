@@ -1,6 +1,7 @@
 <?php
 
-error_reporting(E_ALL);
+//error_reporting(E_ALL);
+error_reporting(0); // there is an unexplained error in json-ld php
 
 require_once('../vendor/digitalbazaar/json-ld/jsonld.php');
 
@@ -183,7 +184,8 @@ CONSTRUCT
 		?publishedInCitation <http://rs.tdwg.org/ontology/voc/PublicationCitation#year> ?tpc_year  .
 		
 		?publishedInCitation <http://schema.org/name> ?pub_title  . 
-
+		
+		
 
 
 	?item <http://rs.tdwg.org/ontology/voc/Person#alias> ?alias .	
@@ -197,6 +199,11 @@ CONSTRUCT
 		?media a ?media_type .
 		?media <http://purl.org/dc/terms/identifier> ?media_identifier  . 
 
+	?item <http://schema.org/scientificName> ?tn .	
+	?tn <http://purl.org/dc/elements/1.1/title> ?tnn  .  
+
+		?item <http://schema.org/parentTaxon> ?parent  .	
+		?parent <http://schema.org/name> ?parent_name  .  
 
 
 }
@@ -293,10 +300,19 @@ WHERE {
 		OPTIONAL { ?media <http://purl.org/dc/terms/identifier> ?media_identifier  . }	
 	}	
 	
+	# taxon
+	OPTIONAL {
+		?item <http://schema.org/scientificName> ?tn .	
+		?tn <http://purl.org/dc/elements/1.1/title> ?tnn  .  
+	}
+
+	OPTIONAL {
+		?item <http://schema.org/parentTaxon> ?parent  .	
+		?parent <http://schema.org/name> ?parent_name  .  
+	}
 
 
 }
-ORDER BY ?roleName
 
 ';
 
@@ -382,7 +398,22 @@ ORDER BY ?roleName
 			$associatedMedia->{'@id'} = "dwc:associatedMedia";
 			$associatedMedia->{'@container'} = "@set";
 			
+			// tn:typifiedBy is always an array
+			$typifiedBy = new stdclass;
+			$typifiedBy->{'@id'} = "tn:typifiedBy";
+			$typifiedBy->{'@container'} = "@set";
+			
+			$context->{'tn:typifiedBy'} = $typifiedBy;
+
+			
 			$context->{'dwc:associatedMedia'} = $associatedMedia;
+			
+			$scientificName = new stdclass;
+			$scientificName->{'@id'} = "scientificName";
+			$scientificName->{'@container'} = "@set";
+			
+			$context->{'scientificName'} = $scientificName;
+			
 			
 	
 	
@@ -457,6 +488,90 @@ function sparql_query($sparql_endpoint, $query, $format='application/json')
 	return $response;
 }
 
+//----------------------------------------------------------------------------------------
+// CONSTRUCT a stream, by default return as JSON-LD
+function sparql_construct_stream($sparql_endpoint, $query, $format='application/ld+json')
+{
+	$url = $sparql_endpoint;
+
+	$data = 'query=' . urlencode($query);
+	
+	$ch = curl_init();
+	curl_setopt($ch, CURLOPT_URL, $url);
+	curl_setopt($ch, CURLOPT_POST, 1);
+	curl_setopt($ch, CURLOPT_HEADER, 0);
+	curl_setopt($ch, CURLOPT_RETURNTRANSFER, 1);   
+	curl_setopt($ch, CURLOPT_HTTPHEADER, array("Accept: " . $format));
+	curl_setopt($ch, CURLOPT_POSTFIELDS, $data);
+
+	$response = curl_exec($ch);
+	if($response == FALSE) 
+	{
+		$errorText = curl_error($ch);
+		curl_close($ch);
+		die($errorText);
+	}
+	
+	$info = curl_getinfo($ch);
+	$http_code = $info['http_code'];
+	
+	if ($http_code != 200)
+	{
+		echo $response;	
+		die ("Triple store returned $http_code\n");
+	}
+	
+	curl_close($ch);
+	
+	//echo '<pre>' . $response . '<pre>';exit();
+	
+	// Fuseki returns nicely formatted JSON-LD, Blazegraph returns array of horrible JSON-LD
+	// as first element of an array
+	
+	$obj = json_decode($response);
+	if (is_array($obj))
+	{
+		$doc = $obj[0];
+		
+		$doc = $obj;
+		
+		//echo '<pre>' . print_r($obj) . '<pre>';
+		
+		
+		$context = (object)array(
+			'@vocab' => 'http://schema.org/'	,
+			'rdfs' => 'http://www.w3.org/2000/01/rdf-schema#',			
+			'dc' => 'http://purl.org/dc/elements/1.1/',
+			'dcterms' => 'http://purl.org/dc/terms/',			
+			'tn' => 'http://rs.tdwg.org/ontology/voc/TaxonName#',
+			'tc' => 'http://rs.tdwg.org/ontology/voc/TaxonConcept#',						
+			'tcom' => 'http://rs.tdwg.org/ontology/voc/Common#',
+			'dwc' => 'http://rs.tdwg.org/dwc/terms/',							
+		);
+		
+			// dataFeedElement is always an array
+			$dataFeedElement = new stdclass;
+			$dataFeedElement->{'@id'} = "dataFeedElement";
+			$dataFeedElement->{'@container'} = "@set";
+			
+			$context->{'dataFeedElement'} = $dataFeedElement;
+	
+	
+		$frame = (object)array(
+			'@context' => $context,
+			'@type' => 'http://schema.org/DataFeed'
+		);
+			
+		$data = jsonld_frame($doc, $frame);
+	
+		
+		$response = json_encode($data, JSON_PRETTY_PRINT | JSON_UNESCAPED_SLASHES);		
+	}
+	
+
+	return $response;
+}
+
 
 // test
 
@@ -490,6 +605,90 @@ if (0)
 	$response = sparql_query(
 	'http://localhost:32779/blazegraph/sparql',
 	'SELECT * WHERE { ?s ?p ?o . } LIMIT 5'
+	);
+	
+	echo $response;
+		
+}
+
+if (0)
+{
+	$stream_query = '';
+	
+	$stream_query = 'PREFIX tn: <http://rs.tdwg.org/ontology/voc/TaxonName#>
+PREFIX tm: <http://rs.tdwg.org/ontology/voc/Team#>
+PREFIX tcom: <http://rs.tdwg.org/ontology/voc/Common#>
+PREFIX tp: <http://rs.tdwg.org/ontology/voc/Person#>
+PREFIX wdt: <http://www.wikidata.org/prop/direct/>
+PREFIX wd: <http://www.wikidata.org/entity/>	
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX schema: <http://schema.org/>
+PREFIX dc: <http://purl.org/dc/elements/1.1/>
+
+SELECT *
+WHERE
+{
+  ?creator_identifier schema:value "0000-0001-9036-0912" .
+  ?role schema:identifier ?creator_identifier .
+  ?creator schema:creator ?role .
+  ?work schema:creator ?creator .
+  
+  # work details
+  ?work schema:name ?name . 
+  OPTIONAL {
+    ?work schema:datePublished ?datePublished .
+  }
+  OPTIONAL {
+    ?work schema:identifier ?doi_identifier .
+    ?doi_identifier schema:propertyID "doi" .
+    ?doi_identifier schema:value ?doi .
+  }  
+  
+}';
+
+/*
+<http://example.rss>
+    a :DataFeed ;
+    :name "Test RSS Feed" ;
+    :url "http://example.rss" ;
+    :description "Dependent on the input data or the where condition ( here all datasets with alimayilov )";
+    :dataFeedElement ?item .
+?item
+    a :DataFeedItem;
+    a ?type;
+*/
+
+$stream_query = 'PREFIX schema: <http://schema.org/>
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+CONSTRUCT 
+{
+<http://example.rss>
+	rdf:type schema:DataFeed;
+	schema:dataFeedElement ?item .
+	
+	?item 
+		rdf:type schema:DataFeedItem;
+		rdf:type ?item_type;
+		schema:name ?name;
+}
+WHERE
+{
+	?creator_identifier schema:value "0000-0001-9036-0912" .
+  	?role schema:identifier ?creator_identifier .
+  	?creator schema:creator ?role .
+  	?item schema:creator ?creator .
+  	
+  	?item schema:name ?name .
+  	?item rdf:type ?item_type .
+
+}';
+
+
+
+	$response = sparql_construct_stream(
+	'http://167.71.255.145:9999/blazegraph/sparql',
+	$stream_query
+	
 	);
 	
 	echo $response;
