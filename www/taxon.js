@@ -1,9 +1,8 @@
-var template_datafeed = `
+var template_taxon = `
 
 <%
 
 // Define functions in template, see https://stackoverflow.com/a/40968695/9684
-
 
 //----------------------------------------------------------------------------------------
 // https://stackoverflow.com/a/57963934/9684
@@ -128,90 +127,107 @@ get_property_value = function(key, propertyID) {
 	return value;
 }
 
+//----------------------------------------------------------------------------------------
+// https://codepen.io/goker/pen/yBEGD
+
+    var templates = {
+        prefix: "",
+        suffix: " ago",
+        seconds: "less than a minute",
+        minute: "about a minute",
+        minutes: "%d minutes",
+        hour: "about an hour",
+        hours: "about %d hours",
+        day: "a day",
+        days: "%d days",
+        month: "about a month",
+        months: "%d months",
+        year: "about a year",
+        years: "%d years"
+    };
+    var template = function (t, n) {
+        return templates[t] && templates[t].replace(/%d/i, Math.abs(Math.round(n)));
+    };
+
+    var timer = function (time) {
+        if (!time) return;
+               
+        time = time.replace(/\\.\\d+/, ""); // remove milliseconds
+        time = time.replace(/-/, "/").replace(/-/, "/");
+        time = time.replace(/T/, " ").replace(/Z/, " UTC");
+        time = time.replace(/([\\+\\-]\\d\\d)\\:?(\\d\\d)/, " $1$2"); // -04:00 -> -0400        
+        
+        time = new Date(time * 1000 || time);
+        
+        var now = new Date();
+        var seconds = ((now.getTime() - time) * .001) >> 0;
+        var minutes = seconds / 60;
+        var hours = minutes / 60;
+        var days = hours / 24;
+        var years = days / 365;
+
+        return templates.prefix + (
+        seconds < 45 && template('seconds', seconds) || seconds < 90 && template('minute', 1) || minutes < 45 && template('minutes', minutes) || minutes < 90 && template('hour', 1) || hours < 24 && template('hours', hours) || hours < 42 && template('day', 1) || days < 30 && template('days', days) || days < 45 && template('month', 1) || days < 365 && template('months', days / 30) || years < 1.5 && template('year', 1) || template('years', years)) + templates.suffix;
+    };
+
+
+
+
+if (item['@graph']) {
+	item = item['@graph'][0];
+}
+
+
 %>
-
-
-<%
-
-item = item['@graph'][0];
-
-%>
-
-<div class="text_container hidden" onclick="show_hide(this)">
 
 <!-- title -->
-<% if (item.name) { %>
-	<h3>
-		<%= get_literal(item.name) %>
-		(<%= item.dataFeedElement.length %>)
-	</h3>
-<% } %>
+<h1>
+	<%= get_literal(item['name']) %>
+</h1>
 
-
-<!-- data feed items -->
-<div class="feed" style="font-size:0.8em;line-height:1.4em;">
-	<% for (var i in item.dataFeedElement) { %>
-		<div style="padding-bottom:12px;border-top:1px dotted rgb(222,222,222);">
-		
-		<!--
-		<% if (item.dataFeedElement[i].url) { %>
-			<a href="<%= item.dataFeedElement[i].url %>">
-		<% } %>
-				
-		<strong>
-		<%= get_literal(item.dataFeedElement[i].name) %>
-		</strong>
-		
-		<% if (item.dataFeedElement[i].url) { %>
-			</a>
-		<% } %>
-		-->
-		
-		<a href="?uri=<%= item.dataFeedElement[i]['@id'].replace('#', '%23') %>" onclick="event.stopPropagation()">
-		<h3>
-		<%- get_literal(item.dataFeedElement[i].name) %>
-		</h3>
+<!-- parent -->
+<div>
+	<% if (item['parentTaxon']) { %>
+		<span class="heading">Parent</span>
+		<a href="?uri=<%= item['parentTaxon']['@id'] %>">
+		<%= get_literal(item['parentTaxon']['name']) %>
 		</a>
-		
-		<% if (item.dataFeedElement[i].description) { %>
-			<%- get_literal(item.dataFeedElement[i].description) %>
-		<% } %>
-		
-		
-		<!-- date -->
-		<% if (item.dataFeedElement[i].datePublished) {%>
-			<div>
-			<%= isodate_to_string(item.dataFeedElement[i].datePublished) %>
-			</div>
-		<% } %>
-		
-		<!-- identifiers -->
-		<div>
-		<% if (item.dataFeedElement[i].identifier) {
-			 var id = '';
-	 
-			// DOI
-			id = get_property_value(item.dataFeedElement[i].identifier, 'doi');	  
-			if (id != '') {  %>	
-				DOI:
-				<a href="https://doi.org/<%=id%>">
-				<%= id %>
-				</a>
-			<% }
-	
-			}
-		 %>	
-		 </div>			
-
-
-		
-		</div>
 	<% } %>
-
-
 </div>
 
+<!-- scientificName -->
+<div>
+	<% if (item['scientificName']) { 
+		for (var i in item['scientificName']) { %>
+			<span class="heading">Scientific name</span>
+			<a href="?uri=<%= item['scientificName'][i]['@id'] %>">
+			<%= get_literal(item['scientificName'][i]['dc:title']) %>
+			</a>
+		<% }
+	 } %>
 </div>
+
+
+
+<!-- identifiers -->
+<div>
+<% if (item.identifier) {
+	 var id = '';
+	 
+	// Plant List
+	id = get_property_value(item.identifier, 'https://www.wikidata.org/wiki/Property:P1070');	  
+	if (id != '') {  %>	
+		<span class="heading">Plant List</span>
+		<a href="http://www.theplantlist.org/tpl1.1/record/<%=id%>">
+		<%= id %>
+		</a>
+	<% }
+	
+
+	}
+ %>	
+ </div>	
+
 
 
 
