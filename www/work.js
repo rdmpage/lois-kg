@@ -61,6 +61,11 @@ get_literal = function(key) {
 // Date so we need to set the options appropriately
 isodate_to_string = function (datestring) {
 
+	if (Array.isArray(datestring)) {
+		datestring = datestring[0];
+	}
+
+
 	// By default assume datestring is a year only
 	var options = {};
 	options.year = 'numeric';

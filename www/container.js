@@ -60,6 +60,10 @@ get_literal = function(key) {
 // Date so we need to set the options appropriately
 isodate_to_string = function (datestring) {
 
+	if (Array.isArray(datestring)) {
+		datestring = datestring[0];
+	}
+
 	// By default assume datestring is a year only
 	var options = {};
 	options.year = 'numeric';
@@ -138,6 +142,7 @@ if (item['@graph']) {
 
 <!-- title -->
 <h1>
+	<img src="images/noun_Book_498533.svg" height="48" align="center">
 	<%= get_literal(item.name) %>
 </h1>
 

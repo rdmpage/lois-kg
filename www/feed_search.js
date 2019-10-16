@@ -1,8 +1,9 @@
-var template_occurrence = `
+var template_searchfeed = `
 
 <%
 
 // Define functions in template, see https://stackoverflow.com/a/40968695/9684
+
 
 //----------------------------------------------------------------------------------------
 // https://stackoverflow.com/a/57963934/9684
@@ -16,8 +17,6 @@ function convertToAscii(string) {
 // Get a single string from a literal that may have multilingual values
 get_literal = function(key) {
 	var literal = '';
-	
-	console.log("get_literal key = " + JSON.stringify(key));
 	
 	// literal is a simple string
 	if (typeof key === 'string') {
@@ -115,10 +114,11 @@ isodate_to_string = function (datestring) {
 get_property_value = function(key, propertyID) {
 	var value = '';
 	
-	if (typeof key === 'object' && !Array.isArray(key)) {
+	if (typeof key === 'object' && !Array.isArray(key)) {	
 		if (key.propertyID === propertyID) {	
 			value = key.value;
 		}
+
 	} else {
 		if (Array.isArray(key)) {
 			for (var i in key) {
@@ -132,183 +132,96 @@ get_property_value = function(key, propertyID) {
 	return value;
 }
 
-//----------------------------------------------------------------------------------------
-// https://codepen.io/goker/pen/yBEGD
-
-    var templates = {
-        prefix: "",
-        suffix: " ago",
-        seconds: "less than a minute",
-        minute: "about a minute",
-        minutes: "%d minutes",
-        hour: "about an hour",
-        hours: "about %d hours",
-        day: "a day",
-        days: "%d days",
-        month: "about a month",
-        months: "%d months",
-        year: "about a year",
-        years: "%d years"
-    };
-    var template = function (t, n) {
-        return templates[t] && templates[t].replace(/%d/i, Math.abs(Math.round(n)));
-    };
-
-    var timer = function (time) {
-        if (!time) return;
-               
-        time = time.replace(/\\.\\d+/, ""); // remove milliseconds
-        time = time.replace(/-/, "/").replace(/-/, "/");
-        time = time.replace(/T/, " ").replace(/Z/, " UTC");
-        time = time.replace(/([\\+\\-]\\d\\d)\\:?(\\d\\d)/, " $1$2"); // -04:00 -> -0400        
-        
-        time = new Date(time * 1000 || time);
-        
-        var now = new Date();
-        var seconds = ((now.getTime() - time) * .001) >> 0;
-        var minutes = seconds / 60;
-        var hours = minutes / 60;
-        var days = hours / 24;
-        var years = days / 365;
-
-        return templates.prefix + (
-        seconds < 45 && template('seconds', seconds) || seconds < 90 && template('minute', 1) || minutes < 45 && template('minutes', minutes) || minutes < 90 && template('hour', 1) || hours < 24 && template('hours', hours) || hours < 42 && template('day', 1) || days < 30 && template('days', days) || days < 45 && template('month', 1) || days < 365 && template('months', days / 30) || years < 1.5 && template('year', 1) || template('years', years)) + templates.suffix;
-    };
-
-
-
-
-if (item['@graph']) {
-	item = item['@graph'][0];
-}
-
-
 %>
 
 
+<%
+
+item = item['@graph'][0];
+
+%>
+
+<div class="text_container visible" onclick="show_hide(this)">
+
 <!-- title -->
-<h1>
-	<% 
-	var title = '';
-	if (item['dcterms:title']) {
-    	// use existing title (if any)
-		title = get_literal(item['dcterms:title']);
-   } else {
-   		// make a nice title for display
-   		var parts = [];
-   		
-	    if (item['dwc:typeStatus']) {
-	    	parts.push(item['dwc:typeStatus'] + ' of');
-	    }
+<% if (item.name) { %>
+	<h3>
+		<%= get_literal(item.name) %>
+		(<%= item.dataFeedElement.length %>)
+	</h3>
+<% } %>
 
-	    if (item['dwc:scientificName']) {
-	    	parts.push(item['dwc:scientificName']);
-	    }
-	    
-	    if (item['dwc:family']) {
-	    	parts.push('[family ' + item['dwc:family'].toUpperCase() + ']');
-	    }
 
-	    if (item['dwc:institutionCode']) {
-	    	parts.push('(' + item['dwc:institutionCode'] + ')');
-	    }
-	    
-	    title = parts.join(' ');
-   }
-   %>
-   <%= title %>
-</h1>
-
-<!-- identifiers -->
-<div>
-		<span class="heading">Unique identifier</span>
-		<a href="<%=item['@id']%>">
-		<%= item['@id'] %>
-		</a>
-</div>
-
-<!-- other names -->
-<div>
-	<span class="heading">Alternate names</span>
-	<% if (item['alternateName']) { %>
-		<%- item['alternateName'].join('; '); %>		
-	<% }%>
-</div>
-
-<!-- Darwin Core -->
-
-<div>
-	<% if (item['dwc:occurrenceID']) { %>
-		<span class="heading">Occurrence ID</span>
-		<% if (item['dwc:occurrenceID']['@id']) { %>
-			<%= item['dwc:occurrenceID']['@id'] %>		
-		<% } else { %>
-			<%= get_literal(item['dwc:occurrenceID']) %>
+<!-- data feed items -->
+<div class="feed" style="font-size:0.8em;line-height:1.4em;">
+	<% for (var i in item.dataFeedElement) { %>
+		<div style="padding-bottom:12px;border-top:1px dotted rgb(222,222,222);">
+		
+		<!--
+		<% if (item.dataFeedElement[i].url) { %>
+			<a href="<%= item.dataFeedElement[i].url %>">
 		<% } %>
-	<% }%>		
-</div>
-
-
-<div>
-	<% if (item['dwc:recordedBy']) { %>
-		<span class="heading">Recorded by</span>
-		<%= get_literal(item['dwc:recordedBy']) %>
-	<% }%>		
-</div>
-
-
-
-<div>
-	<% if (item['dwc:eventDate']) { %>
-		<span class="heading">Event date</span>
-		<%= isodate_to_string(item['dwc:eventDate']) %>
-	<% }%>		
-</div>
-
-
-<div>
-	<% if (item['dwc:scientificName']) { %>
-		<span class="heading">Scientific name</span>
-		<%= get_literal(item['dwc:scientificName']) %>
-	<% }%>		
-</div>
-
-<div>
-	<% if (item['dwc:typeStatus']) { %>
-		<span class="heading">Type status</span>
-		<%= get_literal(item['dwc:typeStatus']) %>
-	<% }%>		
-</div>
-
-
-
-
-<!-- record info -->
-<div>
-<% if (item['dcterms:modified']) {%>
-	Record last updated <%= timer(item['dcterms:modified']) %>
-<%}%>
-</div>
-
-<!-- images -->
-
-
-<div>
-	<% if (item['dwc:associatedMedia']) {
-		for (var i in item['dwc:associatedMedia']) { 
-			var image_url = '';
-			if (item['dwc:associatedMedia'][i]['dcterms:identifier']['@id']) {
-				image_url = item['dwc:associatedMedia'][i]['dcterms:identifier']['@id'];				
-			}
-			
-			if (image_url != '') { %>
-				<img style="border:1px solid rgb(192,192,192);" src="http://exeg5le.cloudimg.io/crop/100x100/n/<%=image_url%>">
+		
+		
+		
+				
+		<strong>
+		<%= get_literal(item.dataFeedElement[i].name) %>
+		</strong>
+		
+		<% if (item.dataFeedElement[i].url) { %>
+			</a>
+		<% } %>
+		-->
+		
+		
+		
+		<a href="?uri=<%= item.dataFeedElement[i]['@id'].replace('#', '%23') %>" onclick="event.stopPropagation()">
+		<h3>
+		<!-- <img src="images/noun_Book_498533.svg" height="48" align="center"> -->
+		<%- get_literal(item.dataFeedElement[i].name) %>
+		</h3>
+		</a>
+		
+		<% if (item.dataFeedElement[i].description) { %>
+			<%- get_literal(item.dataFeedElement[i].description) %>
+		<% } %>
+		
+		
+		<!-- date -->
+		<% if (item.dataFeedElement[i].datePublished) {%>
+			<div>
+			<%= isodate_to_string(item.dataFeedElement[i].datePublished) %>
+			</div>
+		<% } %>
+		
+		<!-- identifiers -->
+		<div>
+		<% if (item.dataFeedElement[i].identifier) {
+			 var id = '';
+	 
+			// DOI
+			id = get_property_value(item.dataFeedElement[i].identifier, 'doi');	  
+			if (id != '') {  %>	
+				DOI:
+				<a href="https://doi.org/<%=id%>">
+				<%= id %>
+				</a>
 			<% }
-		 }	
-	 }%>		
+	
+			}
+		 %>	
+		 </div>			
+
+
+		
+		</div>
+	<% } %>
+
+
 </div>
 
-
+</div>
 
 
 
