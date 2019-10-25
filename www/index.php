@@ -118,29 +118,43 @@ PREFIX tcom: <http://rs.tdwg.org/ontology/voc/Common#>
 			WHERE
 			{
               VALUES ?this {  <' . $taxon_name_id . '> } .
+              
+              # this has a basionym
               {
                 ?this tn:hasBasionym ?item .
               }
+              # this is a basionym 
               UNION
-                {
-              		?item tn:hasBasionym ?this .	
-              	}
+              {
+              	?item tn:hasBasionym ?this .	
+              }
+              # other names that share a basionym
               UNION
               {
               	?this tn:hasBasionym ?b .
                 ?item tn:hasBasionym ?b .
+                # exclude IPNI bugs
+                FILTER (?b != <urn:lsid:ipni.org:names:0-0>)
+                
+              }
+              # name has been replaced
+              UNION
+              {
+                ?annotation tn:objectTaxonName ?this .
+                ?annotation tn:noteType tn:replacementNameFor .
+                ?item tn:hasAnnotation ?annotation .
               }
               
-				?item dc:title ?name .
-				?item rdf:type ?item_type .
-				
-               	OPTIONAL
-				{
-                  	?item tcom:publishedIn ?description .
-                }
+			 ?item dc:title ?name .
+			 ?item rdf:type ?item_type .
+			
+			 OPTIONAL
+			 {
+				?item tcom:publishedIn ?description .
+			 }		  
               
-              FILTER (?item != ?this)
-              FILTER (?b != <urn:lsid:ipni.org:names:0-0>)
+             # ensure no returning self
+             FILTER (?item != ?this)
 			}';
 			
 			$json = sparql_construct_stream(
@@ -1102,7 +1116,7 @@ function display_html_start($title = '', $meta = '', $script = '', $onload = '')
 	  flex-direction:row;
   
 	  /* This bit draws the box around it */
-	  border:1px solid blue; 
+	  border:1px solid rgb(192,192,192); 
 	  background-color:white;
 	  padding:2px;
 	}
@@ -1118,8 +1132,8 @@ function display_html_start($title = '', $meta = '', $script = '', $onload = '')
 
 	.search_button {
 	  /* Just a little styling to make it pretty */
-	  border:1px solid blue;
-	  background:blue;
+	  border:1px solid rgb(192,192,192);
+	  background:rgb(64,64,64);
 	  color:white;
 	}			
 	</style>	

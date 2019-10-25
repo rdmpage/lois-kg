@@ -156,5 +156,12 @@ SELECT * WHERE {
 ORDER BY ?name
 ```
 
+## Replacement names
+
+Can now show replacement names in both directions
+
+See http://localhost/~rpage/lois-kg/www/?uri=urn:lsid:ipni.org:names:15507-1
+
+
 
 
