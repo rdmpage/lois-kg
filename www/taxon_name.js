@@ -174,8 +174,23 @@ get_property_value = function(key, propertyID) {
         seconds < 45 && template('seconds', seconds) || seconds < 90 && template('minute', 1) || minutes < 45 && template('minutes', minutes) || minutes < 90 && template('hour', 1) || hours < 24 && template('hours', hours) || hours < 42 && template('day', 1) || days < 30 && template('days', days) || days < 45 && template('month', 1) || days < 365 && template('months', days / 30) || years < 1.5 && template('year', 1) || template('years', years)) + templates.suffix;
     };
 
+//----------------------------------------------------------------------------------------
+has_type = function(item, typeName) {
+	var found = false;
 
+	// literal is a simple string
+	if (typeof item['@type'] === 'string') {
+		found = (item['@type'] == typeName);
+	} else {
+		if (Array.isArray(item['@type'])) {
+			found = (item['@type'].indexOf(typeName) !== -1);		
+		}	
+	}
+	
+	return found;
+}
 
+//----------------------------------------------------------------------------------------
 
 if (item['@graph']) {
 	item = item['@graph'][0];
@@ -186,6 +201,8 @@ if (item['@graph']) {
 
 <!-- title -->
 <h1>
+	<img src="images/noun_Tag_1015039.svg" height="48" align="center">
+
 	<%= get_literal(item['dc:title']) %>
 </h1>
 
@@ -286,7 +303,7 @@ if (item['@graph']) {
 	
 			// schema.org (will need to handle types as array)
 			if (item['tcom:publishedInCitation'][i]['@type'] 
-				&& item['tcom:publishedInCitation'][i]['@type'] == 'ScholarlyArticle') {
+				&& has_type(item['tcom:publishedInCitation'][i], 'ScholarlyArticle')) {
 			
 					if (item['tcom:publishedInCitation'][i]['name']) { 
 						publishedInCitation_html += '<li>';
@@ -315,7 +332,7 @@ if (item['@graph']) {
 <div>
 
 		<span class="heading">Unique identifier</span>
-		<a href="http://www.lsid.info/<%=item['@id']%>">
+		<a class="external" href="http://www.lsid.info/<%=item['@id']%>" target="_new">
 		<%= item['@id'] %>
 		</a>
 	
@@ -374,6 +391,36 @@ if (item['@graph']) {
 			<% } %>
 			</ul>
 		<%} %>
+</div>
+
+<!-- annotations -->
+<div>
+	<% if (item['tn:hasAnnotation']) { %>
+		<span class="heading">Annotation</span>
+		<ul>
+			<% for (var i in item['tn:hasAnnotation']) {
+				switch (item['tn:hasAnnotation'][i]['tn:noteType']['@id']) {
+				
+						case 'tn:publicationStatus': %>
+							<li><%= item['tn:hasAnnotation'][i]['tn:note'] %></li>							
+					<% 		break;
+					
+						case 'tn:replacementNameFor': %>
+							<li>Replacement for 
+							<a href="?uri=<%= item['tn:hasAnnotation'][i]['tn:objectTaxonName']['@id'] %>">
+							<%= item['tn:hasAnnotation'][i]['tn:objectTaxonName']['dc:title'] %>
+							</a>
+							</li>	
+					<% 		break;
+					
+							default:
+							break;
+					} %>
+				</li>			
+			<% } %>
+		</ul>
+	<% } %>
+	
 </div>
 
 

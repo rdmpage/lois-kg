@@ -106,6 +106,8 @@ function rdf_to_triples($xml, $url = '')
 	
 	$nt = $parser->toNTriples($cleaned_triples);
 	
+	unset($parser);
+	
 	//echo $nt ;
 	
 	// https://stackoverflow.com/a/2934602/9684

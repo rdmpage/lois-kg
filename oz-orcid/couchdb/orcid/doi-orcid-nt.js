@@ -29,8 +29,7 @@ function triple(subject, predicate, object, language) {
   triple[1] = predicate;
   triple[2] = object;
 
-  if (typeof language === 'undefined') {}
-  else {
+  if (typeof language === 'undefined') {} else {
     triple[3] = language;
   }
 
@@ -51,12 +50,10 @@ function wrap(s, html) {
 
       if (html) {
         s = '&lt;' + s + '&gt;';
-      }
-      else {
+      } else {
         s = '<' + s + '>';
       }
-    }
-    else {
+    } else {
       s = '"' + s.replace(/"/g, '\\"') + '"';
     }
   }
@@ -132,166 +129,178 @@ function output(doc, triples) {
 //----------------------------------------------------------------------------------------
 // START COUCHDB VIEW
 function message(doc) {
-  if (doc.message.DOI) {
+    if (doc.message.DOI) {
+    
+		var doi = doc.message.DOI.toLowerCase();
+		
+		// clean up badness
+		// e.g. 0000-0002-4662-0227/work/29262377
+		doi = doi.replace(/https?:\/\/dx.doi.org\/\s*/, '');
+		doi = doi.replace(/doi:\s*/, '');
+		doi = doi.replace(/\[pii\]/, '');
+		doi = doi.replace(/\s+$/, '');		
+		
 
-    // use ORCID work id
-    var subject_id = 'https://orcid.org/' + doc._id;
-
-    for (var i in doc.message.author) {
-      if (doc.message.author[i].ORCID) {
-        // ignore cases where author is actually all the authors
-        var go = true;
-        if (doc.message.author[i].literal.match(/ and /)) {
-          go = false;
-        }
-        // et al.
-        if (doc.message.author[i].literal.match(/ et al/)) {
-          go = false;
-        }
-
-        if (go) {
-
-          // we want simple triples linking name to position in author list
-          var triples = [];
-          var type = '';
-
-          // type of work
-          if (doc.message.type) {
-            switch (doc.message.type) {
-              case 'article-journal':
-              case 'journal-article':
-                type = 'http://schema.org/ScholarlyArticle';
-                break;
-              default:
-                break;
-            }
+    
+    	// use ORCID work id
+      var subject_id = 'https://orcid.org/' + doc._id;
+      
+      // use DOI
+      if (1) {
+        subject_id = 'https://doi.org/' + doi;
+      }
+    
+      for (var i in doc.message.author) {
+        if (doc.message.author[i].ORCID) {
+          // ignore cases where author is actually all the authors
+          var go = true;
+          if (doc.message.author[i].literal.match(/ and /)) {
+            go = false;
           }
+          // et al.
+          if (doc.message.author[i].literal.match(/ et al/)) {
+            go = false;
+          }
+          
+          if (go) {
 
-          if (doc.message.title) {
+            // we want simple triples linking name to position in author list
+            var triples = [];
+            var type = '';
+            
+            // type of work
+            if (doc.message.type) {
+				switch (doc.message.type) {
+				  case 'article-journal':
+				  case 'journal-article':
+					type = 'http://schema.org/ScholarlyArticle';
+					break;
+				  default:
+					break;
+				}
+			} 
+			
+            if (doc.message.title) {
+				triples.push(triple(
+				  subject_id,
+				  'http://schema.org/name',
+				  doc.message.title));
+			}
+			                        
+            // identifier 
+			var identifier_id = subject_id + '#doi';
+
+			triples.push(triple(
+			  subject_id,
+			  'http://schema.org/identifier',
+			  identifier_id));
+
+			triples.push(triple(
+			  identifier_id,
+			  'http://www.w3.org/1999/02/22-rdf-syntax-ns#type',
+			  'http://schema.org/PropertyValue'));
+
+			triples.push(triple(
+			  identifier_id,
+			  'http://schema.org/propertyID',
+			  'doi'));
+			  
+
+			triples.push(triple(
+			  identifier_id,
+			  'http://schema.org/value',
+			  doc.message.DOI.toLowerCase()
+			));                
+            
+            var index = parseInt(i) + 1;
+            var role_id    = subject_id + '#role-' + index;
+            //var creator_id = 'https://orcid.org/' + doc.message.author[i].ORCID;
+            var creator_id = subject_id + '#creator-' + index;            
+ 
             triples.push(triple(
-              subject_id,
-              'http://schema.org/name',
-              doc.message.title));
+            	subject_id,
+                'http://schema.org/creator',
+                role_id)
+                );
+
+            triples.push(triple(
+            	role_id,
+                'http://www.w3.org/1999/02/22-rdf-syntax-ns#type',
+                'http://schema.org/Role')
+                );
+
+            triples.push(triple(
+            	role_id,
+                'http://schema.org/roleName',
+                String(index)
+                ));
+
+            triples.push(triple(
+            	role_id,
+                'http://schema.org/creator',
+                creator_id
+                ));
+                                
+			  // type, need to handle organisations as authors
+			  triples.push(triple(
+			  	creator_id,
+				'http://www.w3.org/1999/02/22-rdf-syntax-ns#type',
+				'http://schema.org/Person'));
+
+			  triples.push(triple(
+			  	creator_id,
+				'http://schema.org/name',
+				doc.message.author[i].literal));
+
+                
+				identifier_id = creator_id + '-orcid';
+
+				triples.push(triple(
+				  creator_id,
+				  'http://schema.org/identifier',
+				  identifier_id));
+
+				triples.push(triple(
+				  identifier_id,
+				  'http://www.w3.org/1999/02/22-rdf-syntax-ns#type',
+				  'http://schema.org/PropertyValue'));
+
+				triples.push(triple(
+				  identifier_id,
+				  'http://schema.org/propertyID',
+				  'orcid'));
+
+				triples.push(triple(
+				  identifier_id,
+				  'http://schema.org/value',
+				  doc.message.author[i].ORCID
+				));                
+			
+			if (type == '') {
+			  type = 'http://schema.org/CreativeWork';
+			}
+	
+
+			// defaults
+			triples.push(triple(subject_id,
+			  'http://www.w3.org/1999/02/22-rdf-syntax-ns#type',
+			  type));
+			
+                
+                
+            output(doc, triples);
+
           }
-
-          // identifier 
-          var identifier_id = subject_id + '#doi';
-
-          triples.push(triple(
-            subject_id,
-            'http://schema.org/identifier',
-            identifier_id));
-
-          triples.push(triple(
-            identifier_id,
-            'http://www.w3.org/1999/02/22-rdf-syntax-ns#type',
-            'http://schema.org/PropertyValue'));
-
-          triples.push(triple(
-            identifier_id,
-            'http://schema.org/propertyID',
-            'doi'));
-
-          var doi = doc.message.DOI.toLowerCase();
-
-          // clean up badness
-          // e.g. 0000-0002-4662-0227/work/29262377
-          doi = doi.replace(/https?:\/\/dx.doi.org\/\s*/, '');
-          doi = doi.replace(/\s+$/, '');
-
-          triples.push(triple(
-            identifier_id,
-            'http://schema.org/value',
-            doc.message.DOI.toLowerCase()
-          ));
-
-          var index = parseInt(i) + 1;
-          var role_id = subject_id + '#role/' + index;
-          //var creator_id = 'https://orcid.org/' + doc.message.author[i].ORCID;
-          var creator_id = subject_id + '#creator' + index;
-
-          triples.push(triple(
-            subject_id,
-            'http://schema.org/creator',
-            role_id));
-
-          triples.push(triple(
-            role_id,
-            'http://www.w3.org/1999/02/22-rdf-syntax-ns#type',
-            'http://schema.org/Role'));
-
-          triples.push(triple(
-            role_id,
-            'http://schema.org/roleName',
-            String(index)
-          ));
-
-          triples.push(triple(
-            role_id,
-            'http://schema.org/creator',
-            creator_id
-          ));
-
-          // type, need to handle organisations as authors
-          triples.push(triple(
-            creator_id,
-            'http://www.w3.org/1999/02/22-rdf-syntax-ns#type',
-            'http://schema.org/Person'));
-
-          triples.push(triple(
-            creator_id,
-            'http://schema.org/name',
-            doc.message.author[i].literal));
-
-
-          identifier_id = creator_id + '-orcid';
-
-          triples.push(triple(
-            creator_id,
-            'http://schema.org/identifier',
-            identifier_id));
-
-          triples.push(triple(
-            identifier_id,
-            'http://www.w3.org/1999/02/22-rdf-syntax-ns#type',
-            'http://schema.org/PropertyValue'));
-
-          triples.push(triple(
-            identifier_id,
-            'http://schema.org/propertyID',
-            'orcid'));
-
-          triples.push(triple(
-            identifier_id,
-            'http://schema.org/value',
-            doc.message.author[i].ORCID
-          ));
-
-          if (type == '') {
-            type = 'http://schema.org/CreativeWork';
-          }
-
-
-          // defaults
-          triples.push(triple(subject_id,
-            'http://www.w3.org/1999/02/22-rdf-syntax-ns#type',
-            type));
-
-
-
-          output(doc, triples);
-
         }
       }
     }
-  }
-
+  
 }
 
 
-function(doc) {
-  if (doc['message-format'] == 'application/vnd.citationstyles.csl+json') {
-    message(doc);
-  }
+function (doc) {
+   if (doc['message-format'] == 'application/vnd.citationstyles.csl+json') {
+      message(doc);
+    }
 }
 // END COUCHDB VIEW

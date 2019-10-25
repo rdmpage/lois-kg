@@ -183,6 +183,7 @@ if (item['@graph']) {
 
 <!-- title -->
 <h1>
+	<img src="images/noun_User_2283219.svg" height="48" align="center">
 	<%= get_literal(item.name) %>
 	<%= get_literal(item['dc:title']) %>
 </h1>
@@ -192,14 +193,14 @@ if (item['@graph']) {
 		<span class="heading">Unique identifier</span>
 		
 		<% if (item['@id'].match(/^urn/)) { %>
-			<a href="http://www.lsid.info/<%=item['@id']%>">
+			<a class="external" href="http://www.lsid.info/<%=item['@id']%>" target="_new">
 			<%= item['@id'] %>
 			</a>		
 		<% } %>
 
 		<% if (item['@id'].match(/orcid.org/)) { %>
 			<!-- <img src="images/orcid_16x16.png"> -->
-			<a href="<%=item['@id']%>">
+			<a class="external" href="<%=item['@id']%>" target="_new">
 			<%= item['@id'] %>
 			</a>
 		<% } %>

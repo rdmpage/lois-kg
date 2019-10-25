@@ -175,6 +175,36 @@ get_property_value = function(key, propertyID) {
         seconds < 45 && template('seconds', seconds) || seconds < 90 && template('minute', 1) || minutes < 45 && template('minutes', minutes) || minutes < 90 && template('hour', 1) || hours < 24 && template('hours', hours) || hours < 42 && template('day', 1) || days < 30 && template('days', days) || days < 45 && template('month', 1) || days < 365 && template('months', days / 30) || years < 1.5 && template('year', 1) || template('years', years)) + templates.suffix;
     };
 
+//----------------------------------------------------------------------------------------
+// Get one or more URIs from key that may have a mixture of strings and URIs
+get_uri = function(key) {
+	var uris = [];
+	
+	console.log("get_uri key = " + JSON.stringify(key));
+	
+	// literal is a simple string
+	if (typeof key === 'string') {
+		// ignore
+	}
+	
+	// name is an object so we have one URI stored in @id
+	if (typeof key === 'object' && !Array.isArray(key)) {	
+		uris.push(key['@id']);
+	} else {
+		// value is an array of objects and/or strings 
+		if (Array.isArray(key)) {					
+			for (var i in key) {
+				if (typeof key[i] === 'object') {
+					uris.push(key[i]['@id']);
+				} else {
+					// ignore string key[i]
+				}
+			}
+		}
+	}
+	
+	return uris;
+}
 
 
 
@@ -188,6 +218,7 @@ if (item['@graph']) {
 
 <!-- title -->
 <h1>
+	<img src="images/noun_Mosquito_2733177.svg" height="48" align="center">
 	<% 
 	var title = '';
 	if (item['dcterms:title']) {
@@ -222,7 +253,7 @@ if (item['@graph']) {
 <!-- identifiers -->
 <div>
 		<span class="heading">Unique identifier</span>
-		<a href="<%=item['@id']%>">
+		<a class="external" href="<%=item['@id']%>" target="_new">
 		<%= item['@id'] %>
 		</a>
 </div>
@@ -277,6 +308,23 @@ if (item['@graph']) {
 	<% if (item['dwc:typeStatus']) { %>
 		<span class="heading">Type status</span>
 		<%= get_literal(item['dwc:typeStatus']) %>
+	<% }%>		
+</div>
+
+<div>
+	<% if (item['dwc:taxonID']) { %>
+		<span class="heading">TaxonID</span>
+		
+		<% var uris = get_uri(item['dwc:taxonID']);
+			if (uris.length == 1) {  %>
+				<a href="<%= uris[0] %>"><%= uris[0] %></a>
+		<% 	} else { %>
+				<ul>
+					<% for (var i in uris) { %>
+						<li><a href="<%= uris[0] %>"><%= uris[0] %></a></li>
+					<% }%>					
+				</ul>
+		<% }%>			
 	<% }%>		
 </div>
 

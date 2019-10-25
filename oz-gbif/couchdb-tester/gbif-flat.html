@@ -960,8 +960,10 @@ function message(doc) {
 	}
 
 	var subject_id = 'https://www.gbif.org/occurrence/' + gbifID;
+	
+	
 
-
+	/*
 	var name = [];
 	if (doc.message.institutionCode) {
 		name.push(doc.message.institutionCode);
@@ -979,12 +981,34 @@ function message(doc) {
 		}
 	}
 	
-	// schema.org
+	*/
+	
+	
 
+	// make a nice title for display
+	var name = [];
+	
+	if (doc.message.typeStatus) {
+		name.push(doc.message.typeStatus + ' of');
+	}
+
+	if (doc.message.scientificName) {
+		name.push(doc.message.scientificName);
+	}
+	
+	if (doc.message.family) {
+		name.push('[family ' + doc.message.family.toUpperCase() + ']');
+	}
+
+	if (doc.message.institutionCode) {
+		name.push('(' + doc.message.institutionCode + ')');
+	}
+		
+	// schema.org
+	
 	triples.push(triple(subject_id,
 		'http://schema.org/name',
 		String(name.join(' ')) ));
-		
 
 	  // post processing
 
@@ -996,6 +1020,46 @@ function message(doc) {
 		  String(codes[i])));
 	  }    
 		
+		
+	// GBIF taxonomy	
+	if (doc.message.acceptedTaxonKey) {
+		var taxon_id = 'https://www.gbif.org/species/' + doc.message.acceptedTaxonKey;
+	
+		// link to GBIF taxon
+		triples.push(triple(subject_id,
+			'http://rs.tdwg.org/dwc/terms/taxonID',
+			taxon_id
+		  ));
+		  
+		// Add identifier so we can link
+		var taxon_identifier = taxon_id + '#gbif';
+		
+		triples.push(triple(taxon_id,
+			'http://schema.org/identifier',
+			taxon_identifier
+		  ));
+		  
+		triples.push(triple(taxon_identifier,
+			'http://www.w3.org/1999/02/22-rdf-syntax-ns#type',
+			'http://schema.org/PropertyValue'
+		  ));
+		  
+
+		triples.push(triple(taxon_identifier,
+			'http://schema.org/propertyID',
+			'"https://www.wikidata.org/wiki/Property:P846"'
+		  ));
+		  
+		triples.push(triple(taxon_identifier,
+			'http://schema.org/name',
+			'GBIF'
+		  ));
+
+		triples.push(triple(taxon_identifier,
+			'http://schema.org/value',
+			doc.message.acceptedTaxonKey.toString()
+		  ));
+	}	
 		
 		
 	// Dublin Core and Darwin Core from here	
@@ -1032,7 +1096,6 @@ function message(doc) {
 			case 'occurrenceStatus':
 			case 'preparations':
 			case 'disposition':
-			case 'otherCatalogNumbers':
 			case 'recordNumber':
 			case 'occurrenceRemarks':
 			case 'occurrenceID':
@@ -1041,6 +1104,11 @@ function message(doc) {
 				'http://rs.tdwg.org/dwc/terms/' + i,
 				String(doc.message[i])));
 			  break;
+			  
+			  // may be URI or string, of concatenation of both types
+			case 'otherCatalogNumbers':				
+				break;
+
 			  
          // Darwin Core locality-----------------------------------------------------------
         case 'continent':
@@ -1303,6 +1371,8 @@ function message(doc) {
        		}
     	}
 	}
+	
+	
 		    
 
                 

@@ -186,8 +186,15 @@ if (item['@graph']) {
 
 <!-- title -->
 <h1>
+	<img src="images/noun_Evolution_2369127.svg" height="48" align="center">
 	<%= get_literal(item['name']) %>
 </h1>
+
+<div>
+	<% if (item['image']) { %>
+		<img style="width:100px;height:100px;object-fit: contain;"   src="<%= item['image']%>">
+	<% } %>
+</div>
 
 <!-- parent -->
 <div>
@@ -222,11 +229,19 @@ if (item['@graph']) {
 	id = get_property_value(item.identifier, 'https://www.wikidata.org/wiki/Property:P1070');	  
 	if (id != '') {  %>	
 		<span class="heading">Plant List</span>
-		<a href="http://www.theplantlist.org/tpl1.1/record/<%=id%>">
+		<a class="external" href="http://www.theplantlist.org/tpl1.1/record/<%=id%>" target="_new">
 		<%= id %>
 		</a>
 	<% }
 	
+	// GBIF
+	id = get_property_value(item.identifier, 'https://www.wikidata.org/wiki/Property:P846');	  
+	if (id != '') {  %>	
+		<span class="heading">GBIF</span>
+		<a class="external" href="https://www.gbif.org/species/<%=id%>" target="_new">
+		<%= id %>
+		</a>
+	<% }
 
 	}
  %>	

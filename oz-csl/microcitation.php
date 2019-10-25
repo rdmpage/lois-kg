@@ -236,6 +236,59 @@ if (1)
 	);
 	
 	
+	$guids = array(
+"http://www.jstor.org/stable/41425212",
+"http://www.jstor.org/stable/43405868",
+"http://www.jstor.org/stable/25129830",
+"http://www.jstor.org/stable/23490783",
+"http://www.jstor.org/stable/20020833",
+"http://www.jstor.org/stable/23496761",
+"http://www.jstor.org/stable/41740500",
+"http://www.jstor.org/stable/23654075",
+"http://www.jstor.org/stable/41750939",
+"http://www.jstor.org/stable/3393337",
+"http://www.jstor.org/stable/3393472",
+"http://www.jstor.org/stable/3393473",
+"http://www.jstor.org/stable/23493366",
+"http://www.jstor.org/stable/25138721",
+"http://www.jstor.org/stable/25138435"
+	);
+	
+$guids=array(
+"10.6165/tai.2018.63.1",
+"10.6165/tai.2018.63.106",
+"10.6165/tai.2018.63.119",
+"10.6165/tai.2018.63.139",
+"10.6165/tai.2018.63.163",
+"10.6165/tai.2018.63.183",
+"10.6165/tai.2018.63.188",
+"10.6165/tai.2018.63.195",
+"10.6165/tai.2018.63.220",
+"10.6165/tai.2018.63.232",
+"10.6165/tai.2018.63.235",
+"10.6165/tai.2018.63.241",
+"10.6165/tai.2018.63.248",
+"10.6165/tai.2018.63.25",
+"10.6165/tai.2018.63.287",
+"10.6165/tai.2018.63.305",
+"10.6165/tai.2018.63.32",
+"10.6165/tai.2018.63.321",
+"10.6165/tai.2018.63.327",
+"10.6165/tai.2018.63.351",
+"10.6165/tai.2018.63.360",
+"10.6165/tai.2018.63.366",
+"10.6165/tai.2018.63.37",
+"10.6165/tai.2018.63.389",
+"10.6165/tai.2018.63.393",
+"10.6165/tai.2018.63.397",
+"10.6165/tai.2018.63.54",
+"10.6165/tai.2018.63.61",
+);	
+
+$guids=array(
+'10.3969/j.issn.2095-0845.2000.02.003',
+'10.7525/j.issn.1673-5102.2010.04.003',
+);
 
 	$force = true;
 	$force = false;

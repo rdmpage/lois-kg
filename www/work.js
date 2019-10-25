@@ -191,6 +191,7 @@ if (item['@graph']) {
 
 <!-- title -->
 <h1>
+	<img src="images/noun_File_498570.svg" height="48" align="center">
 	<%- get_literal(item.name) %>
 </h1>
 
@@ -283,7 +284,7 @@ if (item['@graph']) {
 	id = get_property_value(item.identifier, 'doi');	  
 	if (id != '') {  %>	
 		<span class="heading">DOI</span>
-		<a href="https://doi.org/<%=id%>">
+		<a class="external" href="https://doi.org/<%=id%>" target="_new">
 		<%= id %>
 		</a>
 	<% }
@@ -292,7 +293,7 @@ if (item['@graph']) {
 	id = get_property_value(item.identifier, 'handle');	  
 	if (id != '') {  %>	
 		<span class="heading">Handle</span>
-		<a href="https://hdl.handle.net/<%=id%>">
+		<a class="external" href="https://hdl.handle.net/<%=id%>" target="_new">
 		<%= id %>
 		</a>
 	<% }
@@ -301,7 +302,7 @@ if (item['@graph']) {
 	id = get_property_value(item.identifier, 'jstor');	  
 	if (id != '') {  %>	
 		<span class="heading">JSTOR</span>
-		<a href="https://www.jstor.org/stable/<%=id%>">
+		<a class="external" href="https://www.jstor.org/stable/<%=id%>" target="_new">
 		<%= id %>
 		</a>
 	<% }	
@@ -310,7 +311,7 @@ if (item['@graph']) {
 	id = get_property_value(item.identifier, 'pmid');	  
 	if (id != '') {  %>	
 		<span class="heading">PMID</span>
-		<a href="https://www.ncbi.nlm.nih.gov/pubmed/<%=id%>">
+		<a class="external" href="https://www.ncbi.nlm.nih.gov/pubmed/<%=id%>" target="_new">
 		<%= id %>
 		</a>
 	<% }

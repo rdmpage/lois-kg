@@ -79,6 +79,8 @@ function display_entity($uri)
 	$feed_name = '';
 	$feed_works = '';
 	$feed_children = '';
+	$feed_basionym = '';
+	$feed_taxa = '';
 	
 	$feeds = array();
 	
@@ -87,6 +89,202 @@ function display_entity($uri)
 	if ($ok)
 	{
 		// Get one or more streams of related content for this entity
+		
+		//--------------------------------------------------------------------------------
+		if (in_array('tn:TaxonName', $types))
+		{
+			$taxon_name_id  = $entity->{'@graph'}[0]->{'@id'};
+		
+			// list of names that share basionym with this name
+			$stream_query = 'PREFIX schema: <http://schema.org/>
+PREFIX tn: <http://rs.tdwg.org/ontology/voc/TaxonName#>
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX dc: <http://purl.org/dc/elements/1.1/>
+PREFIX tcom: <http://rs.tdwg.org/ontology/voc/Common#>
+			CONSTRUCT 
+			{
+			<http://example.rss>
+				rdf:type schema:DataFeed;
+				schema:name "Other names";
+				schema:dataFeedElement ?item .
+	
+				?item 
+					rdf:type schema:DataFeedItem;
+					rdf:type ?item_type;
+					schema:name ?name;
+					schema:description ?description;
+										
+			}
+			WHERE
+			{
+              VALUES ?this {  <' . $taxon_name_id . '> } .
+              {
+                ?this tn:hasBasionym ?item .
+              }
+              UNION
+                {
+              		?item tn:hasBasionym ?this .	
+              	}
+              UNION
+              {
+              	?this tn:hasBasionym ?b .
+                ?item tn:hasBasionym ?b .
+              }
+              
+				?item dc:title ?name .
+				?item rdf:type ?item_type .
+				
+               	OPTIONAL
+				{
+                  	?item tcom:publishedIn ?description .
+                }
+              
+              FILTER (?item != ?this)
+              FILTER (?b != <urn:lsid:ipni.org:names:0-0>)
+			}';
+			
+			$json = sparql_construct_stream(
+				$config['sparql_endpoint'],
+				$stream_query);
+				
+			$feed = json_decode($json);
+			
+			if (isset($feed->{'@graph'}) && count($feed->{'@graph'}) > 0)
+			{
+				$feeds['basionym'] = $feed;
+			} 		
+			
+			
+			// taxa with this name 
+			$stream_query = 'PREFIX schema: <http://schema.org/>
+			PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+			CONSTRUCT 
+			{
+			<http://example.rss>
+				rdf:type schema:DataFeed;
+				schema:name "Taxa with this name";
+				schema:dataFeedElement ?item .
+	
+				?item rdf:type schema:DataFeedItem .
+              
+                ?item schema:name ?name .
+              	?item schema:description ?description .
+                ?item rdf:type ?type .
+ 					
+			}
+			WHERE
+			{
+              	?item schema:scientificName <' . $taxon_name_id . '> .
+              	?item rdf:type  ?type .             
+                ?item schema:name ?name .
+ 			}
+ 			';
+ 			
+			$json = sparql_construct_stream(
+				$config['sparql_endpoint'],
+				$stream_query);
+				
+			$feed = json_decode($json);
+			if (isset($feed->{'@graph'}) && count($feed->{'@graph'}) > 0)
+			{
+				$feeds['taxa'] = $feed;
+			} 
+			
+			// occurrences for this name (via taxon) (e.g., looking for types) 
+			$stream_query = 'PREFIX schema: <http://schema.org/>
+			PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+			PREFIX dwc: <http://rs.tdwg.org/dwc/terms/>
+			CONSTRUCT 
+			{
+			<http://example.rss>
+				rdf:type schema:DataFeed;
+				schema:name "Occurrences for taxa with this name";
+				schema:dataFeedElement ?item .
+	
+				?item rdf:type schema:DataFeedItem .
+              
+                ?item schema:name ?name .
+              	?item schema:description ?description .
+                ?item rdf:type ?type .
+ 					
+			}
+			WHERE
+{
+   # name
+   ?taxon schema:scientificName <' . $taxon_name_id . '> .
+  
+   # taxon for name
+   ?taxon schema:identifier ?identifier .   
+   ?identifier schema:propertyID "https://www.wikidata.org/wiki/Property:P846" .
+   ?identifier schema:value ?value .
+  
+   # taxon for occurrence
+   ?occurrence_taxon_identifier schema:value ?value .
+   ?occurrence_taxon schema:identifier ?occurrence_taxon_identifier .
+   
+   # occurrences
+   ?item dwc:taxonID ?occurrence_taxon .
+   ?item schema:name ?name .
+   ?item rdf:type ?type .
+}
+ 			';
+ 			
+			$json = sparql_construct_stream(
+				$config['sparql_endpoint'],
+				$stream_query);
+				
+			$feed = json_decode($json);
+			if (isset($feed->{'@graph'}) && count($feed->{'@graph'}) > 0)
+			{
+				$feeds['occurrence'] = $feed;
+			} 				
+				
+			/*	
+			// annotations for this name
+			// to do: this needs to be improved as we need to handle multile data types,
+			// links to names, text, etc.
+			$stream_query = 'PREFIX schema: <http://schema.org/>
+			PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+			PREFIX tn: <http://rs.tdwg.org/ontology/voc/TaxonName#>
+			CONSTRUCT 
+			{
+			<http://example.rss>
+				rdf:type schema:DataFeed;
+				schema:name "Annotations";
+				schema:dataFeedElement ?item .
+	
+				?item rdf:type schema:DataFeedItem .
+              
+                ?item schema:name ?name .
+              	?item schema:description ?description .
+                ?item rdf:type ?type .
+ 					
+			}
+			WHERE
+			{
+				<' .  $taxon_name_id . '> tn:hasAnnotation ?item
+				{	
+					?item <http://rs.tdwg.org/ontology/voc/TaxonName#objectTaxonName> ?objectTaxonName .	
+					?objectTaxonName <http://purl.org/dc/elements/1.1/title> ?name  .  	
+				}
+				UNION {	
+					?item <http://rs.tdwg.org/ontology/voc/TaxonName#note> ?name .		
+				}			
+			}
+ 			';
+ 			
+			$json = sparql_construct_stream(
+				$config['sparql_endpoint'],
+				$stream_query);
+				
+			$feed = json_decode($json);
+			if (isset($feed->{'@graph'}) && count($feed->{'@graph'}) > 0)
+			{
+				$feeds['annotation'] = $feed;
+			} 	
+			*/						
+				
+		}		
 		
 		//--------------------------------------------------------------------------------
 		if (in_array('Person', $types))
@@ -437,7 +635,10 @@ PREFIX tn: <http://rs.tdwg.org/ontology/voc/TaxonName#>
 			if (isset($feed->{'@graph'}) && count($feed->{'@graph'}) > 0)
 			{
 				$feeds['children'] = $feed;
-			} 			
+			} 
+			
+		
+						
  
 
 		}			
@@ -468,6 +669,8 @@ PREFIX tn: <http://rs.tdwg.org/ontology/voc/TaxonName#>
     	
  	display_html_start($title, $meta, $script);
  	
+ 	/*
+ 	
  	echo '<ul>';
  	echo '<li><a href="?uri=https://doi.org/10.13346/j.mycosystema.130120">A new species and a new record of Cylindrosporium in China / 我国柱盘孢属一新种和一新记录种</a></li>';
 	echo '<li><a href="?uri=https://doi.org/10.1017/s0024282915000328">Gibbosporina, a new genus for foliose and tripartite, Palaeotropic Pannariaceae species previously assigned to Psoroma</a></li>';
@@ -486,11 +689,13 @@ PREFIX tn: <http://rs.tdwg.org/ontology/voc/TaxonName#>
  
  	echo '<li><a href="?uri=https://www.jstor.org/stable/24529694">New Acanthaceae from Guatemala (JSTOR)</a></li>';
  	
- 	echo '<li><a href="?uri=http://www.theplantlist.org/1.1/browse/A/Compositae/Lessingianthus/">Lessingianthus (taxon)</a></li>';
+ 	echo '<li><a href="?uri=http://www.wikidata.org/entity/Q5811470">Ditassa (taxon)</a></li>';
+
+ 	echo '<li><a href="?q=10.2307/25065588">10.2307/25065588 (search)</a></li>';
  
  	echo '</ul>';
  	
- 	/*
+ 	
  	echo '<div style="border:1px solid rgb(192,192,192);">';
 	foreach (range('A', 'Z') as $char) 
 	{
@@ -509,6 +714,7 @@ PREFIX tn: <http://rs.tdwg.org/ontology/voc/TaxonName#>
 	} 	
 	echo '<div style="clear:both;"></div>';
 	echo '</div>';
+	
 	*/
  	
  	
@@ -519,6 +725,19 @@ PREFIX tn: <http://rs.tdwg.org/ontology/voc/TaxonName#>
  		echo '<div id="feed_cites"></div>';
  		echo '<div id="feed_citedby"></div>';
 		echo '<div id="feed_children"></div>';
+		echo '<div id="feed_taxa"></div>';
+		echo '<div id="feed_basionym"></div>';
+		echo '<div id="feed_occurrence"></div>';
+		echo '<div id="feed_annotation"></div>';
+		
+		
+		
+		echo '<div class="text_container hidden" onclick="show_hide(this)">';		
+		echo '<h3>JSON-LD</h3>';
+		echo '<div style="font-family:monospace;white-space:pre;line-height:1em;">';
+		echo json_encode($entity, JSON_PRETTY_PRINT | JSON_UNESCAPED_SLASHES | JSON_UNESCAPED_UNICODE);
+		echo '</div>';		
+		echo '</div>';
 
 	
 	
@@ -571,7 +790,38 @@ PREFIX tn: <http://rs.tdwg.org/ontology/voc/TaxonName#>
 				break;
 		
 			case 'tn:TaxonName':
-				echo '<script>render(template_taxon_name, { item: data }, "output");</script>';			
+				echo '<script>render(template_taxon_name, { item: data }, "output");</script>';	
+				
+				if (isset($feeds['basionym']))
+				{				
+					echo '<script>';
+					echo 'render(template_datafeed, { item: feed_basionym }, "feed_basionym");';
+					echo '</script>';
+				}	
+				
+				if (isset($feeds['taxa']))
+				{				
+					echo '<script>';
+					echo 'render(template_datafeed, { item: feed_taxa }, "feed_taxa");';
+					echo '</script>';
+				}							
+
+				if (isset($feeds['occurrence']))
+				{				
+					echo '<script>';
+					echo 'render(template_datafeed, { item: feed_occurrence }, "feed_occurrence");';
+					echo '</script>';
+				}		
+				
+				if (isset($feeds['annotation']))
+				{				
+					echo '<script>';
+					echo 'render(template_datafeed, { item: feed_annotation }, "feed_annotation");';
+					echo '</script>';
+				}							
+									
+										
+						
 				break;
 				
 			case 'tp:Person':
@@ -655,6 +905,7 @@ function display_html_start($title = '', $meta = '', $script = '', $onload = '')
 	echo '<script src="container.js"></script>';
 	echo '<script src="occurrence.js"></script>';
 	echo '<script src="feed.js"></script>';
+	echo '<script src="feed_search.js"></script>';
 	echo '<script src="taxon.js"></script>';
 	
 	echo '<script>
@@ -751,6 +1002,22 @@ function display_html_start($title = '', $meta = '', $script = '', $onload = '')
 			border-radius:8px;
 		}		
 		
+		/* links */
+.external:after {
+  /*content: "\f35d";
+  font-family: "Font Awesome 5 Free";
+  font-weight: normal;
+  font-style: normal; 
+  display: inline-block;
+  text-decoration: none; */
+  
+  content: url("images/external.png");
+  vertical-align: middle;
+
+  
+  padding-left: 3px;
+}
+		
 		
 	</style>
 ';
@@ -796,18 +1063,65 @@ function display_html_start($title = '', $meta = '', $script = '', $onload = '')
 		}
 	</script>
 	';
+	
+	echo '<script>
+	
+ 		// http://stackoverflow.com/a/11407464
+		document.addEventListener("keypress", function(event){
+			var keycode = (event.keyCode ? event.keyCode : event.which);
+			if(keycode == "13"){
+				document.getElementById("search_button").click();   
+			}
+		});    
+	
+	
+	function search() {
+		var query = document.getElementById("search").value;  
+		//alert(query);
+		window.location = "?q=" + query;
+	}
+	
+	</script>';
 
 	echo '<style type="text/css">
 		body { 
 			padding:20px; 
 			font-family: "Open Sans", sans-serif; 
 			line-height:1.5em;
-			color: rgb(128,128,128);
+			/* color: rgb(128,128,128); */
 		}
 		h1 { 
 			line-height:1.2em;
 			color: black;
 		}
+		
+	/* based on https://stackoverflow.com/a/43936462/9684 */
+	.search_form {
+	  /* This bit sets up the horizontal layout */
+	  display:flex;
+	  flex-direction:row;
+  
+	  /* This bit draws the box around it */
+	  border:1px solid blue; 
+	  background-color:white;
+	  padding:2px;
+	}
+
+	.search_input {
+	  /* Tell the input to use all the available space */
+	  flex-grow:2;
+	  /* And hide the input\'s outline, so the form looks like the outline */
+	  border:none;
+	  
+	  font-size:18px;
+	}
+
+	.search_button {
+	  /* Just a little styling to make it pretty */
+	  border:1px solid blue;
+	  background:blue;
+	  color:white;
+	}			
 	</style>	
 	</head>';
 	
@@ -819,6 +1133,13 @@ function display_html_start($title = '', $meta = '', $script = '', $onload = '')
 	{
 		echo '<body onload="' . $onload . '">';
 	}
+	
+	echo '<div class="search_form">
+  <input id="search" class="search_input" value=""/>
+  <button id="search_button" class="search_button" onclick="search()">Search</button>
+</div>';
+	
+	
 }
 
 
@@ -861,10 +1182,51 @@ function default_display($error_msg = '')
 }
 
 //----------------------------------------------------------------------------------------
+// Search
+function display_search($query)
+{
+	global $config;
+	
+	$title = $config['site_name'];
+	$meta = '';
+	$script = '';
+	
+	$feed = '';
+		
+	// Use a generic CONSTRUCT to get information on this entity
+	$json = sparql_search($config['sparql_endpoint'], $query);
+
+	if ($json != '')
+	{
+		$feed = json_decode($json);
+	}
+
+	// JSON-LD for structured data in HTML
+	$script = "\n" . '<script type="application/ld+json">' . "\n"
+		. 	json_encode($feed, JSON_PRETTY_PRINT | JSON_UNESCAPED_SLASHES | JSON_UNESCAPED_UNICODE)
+    	. "\n" . '</script>';
+    	
+    $script .= "\n" . '<script>' . "\n"
+		. 'var feed_search=' . json_encode($feed, JSON_PRETTY_PRINT | JSON_UNESCAPED_SLASHES | JSON_UNESCAPED_UNICODE) . ';'
+    	. "\n" . '</script>';
+        
+    	
+ 	display_html_start($title, $meta, $script);	
+ 	
+ 	echo '<div id="feed"></feed>';
+	
+	echo '<script>';
+	echo 'render(template_searchfeed, { item: feed_search }, "feed");';
+	echo '</script>';
+	
+	display_html_end();
+}
+
+//----------------------------------------------------------------------------------------
 function main()
 {
 	$query = '';
-		
+	
 	// If no query parameters 
 	if (count($_GET) == 0)
 	{
@@ -890,7 +1252,7 @@ function main()
 		exit(0);
 	}
 		
-	/*
+	
 	// Show search
 	if (isset($_GET['q']))
 	{	
@@ -898,7 +1260,6 @@ function main()
 		display_search($query);
 		exit(0);
 	}
-	*/	
 	
 }
 

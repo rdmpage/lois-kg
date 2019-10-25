@@ -1,0 +1,14 @@
+id	parent	name	image	rank	status	basionym	wikipedia	bold	eol	fossilworks	gbif	indexfungorum	inat	irming	itis	ipni	mycobank	ncbi	powo	tpl	tropicos	worms	wsc	zoobank
+Q40408045	Q6011736	Morilloa		genus	accepted									11905398					urn:lsid:ipni.org:names:77147475-1					
+Q2840817	Q6011736	Nautonia		genus	accepted		Nautonia				7312163		575514	1385164		3523-1		157426	urn:lsid:ipni.org:names:3523-1		40025531			
+Q5711928	Q6011736	Hemipogon		genus	accepted		Hemipogon_(plant)				3230992		575496	1282209		3410-1		219244	urn:lsid:ipni.org:names:3410-1		40023718			
+Q5719613	Q6011736	Barjonia	http://commons.wikimedia.org/wiki/Special:FilePath/Flickr%20-%20Jo%C3%A3o%20de%20Deus%20Medeiros%20-%20Barjonia%20cymosa.jpg	genus	accepted		Barjonia				7311684		575462	1358771		3223-1		219226	urn:lsid:ipni.org:names:3223-1		40024860			
+Q5730232	Q6011736	Blepharodon	http://commons.wikimedia.org/wiki/Special:FilePath/Blepharodon%20pictum.jpg	genus	accepted		Blepharodon				7312650		83503	1315399		3236-1		126742	urn:lsid:ipni.org:names:3236-1		40028250			
+Q5811470	Q6011736	Ditassa	http://commons.wikimedia.org/wiki/Special:FilePath/Flickr%20-%20BioDivLibrary%20-%20n31%20w1150%20%281%29.jpg	genus	accepted		Ditassa				7312403		183681	1289893				85035	urn:lsid:ipni.org:names:3334-1		40034175			
+Q5905801	Q6011736	Hypolobus		genus	accepted		Hypolobus				7312702		575501	1272376		3440-1			urn:lsid:ipni.org:names:3440-1		40030017			
+Q6071926	Q6011736	Peplonia	http://commons.wikimedia.org/wiki/Special:FilePath/Peplonia%20bradeana%20%28Fontella%20%26%20E.A.Schwarz%29%20Fontella%20%26%20Rapini%20%287852095022%29.jpg	genus	accepted		Peplonia				3570819		575528	1298940		3584-1		276821	urn:lsid:ipni.org:names:3584-1		40004217			
+Q6073290	Q6011736	Petalostelma		genus	accepted		Petalostelma				7312322		575530	1090929		3592-1		185090	urn:lsid:ipni.org:names:3592-1		40005318			
+Q6107852	Q6011736	Rhyssostelma	http://commons.wikimedia.org/wiki/Special:FilePath/Rhyssostelma%20nigricans.jpg	genus	accepted		Rhyssostelma				7311850		575541	1088284		3657-1					40025600			
+Q6823254	Q6011736	Metastelma	http://commons.wikimedia.org/wiki/Special:FilePath/Metastelma%20schlechtendalii-flower.jpg	genus	accepted		Metastelma		2516082		6416392		185979	1016734	30390			157419	urn:lsid:ipni.org:names:30384004-2		40018013		30390	
+Q15088175	Q6011736	Nephradenia		genus	accepted		Nephradenia				7312130		575515	1067468		30056552-2		219258	urn:lsid:ipni.org:names:30056552-2		40027465			
+Q15972256	Q6011736	Minaria		genus	accepted		Minaria		6154202		7312220			1268022		77074582-1		593428	urn:lsid:ipni.org:names:77074582-1		50298816			

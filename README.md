@@ -24,6 +24,7 @@ Source | Graph URI
 --|--
 IPNI | https://www.ipni.org
 ORCID | https://orcid.org
+CrossRef | https://crossref.org
 
 ## Applications
 
@@ -52,6 +53,12 @@ curl http://167.71.255.145:9999/blazegraph/sparql?context-uri=http://indexfungor
 Catchall demo examples, e.g. linking names to publications, etc.
 
 ```
+SELECT CONCAT('<urn:lsid:ipni.org:names:', Id, '> <http://rs.tdwg.org/ontology/voc/Common#publishedInCitation> <https://doi.org/', doi, '> . ') 
+FROM names 
+WHERE doi IS NOT NULL;
+```
+
+```
 curl http://167.71.255.145:9999/blazegraph/sparql?context-uri=https://bionames.org -H 'Content-Type: text/rdf+n3' --data-binary '@glue.nt'  --progress-bar | tee /dev/null
 ```
 
@@ -65,9 +72,12 @@ curl http://167.71.255.145:9999/blazegraph/sparql?context-uri=http://theplantlis
 ## DigitalOcean
 
 ```
-docker-machine create --digitalocean-size "s-2vcpu-4gb" --driver digitalocean --digitalocean-access-token c26a347b6ba7f96e7378ca4736cbf9a2aadb86a0b0997ea4632547484e9476d9 kg
+docker-machine create --digitalocean-size "s-2vcpu-4gb" --driver digitalocean --digitalocean-access-token xxx kg
 ```
 
+### May need bigger droplet
+```
+docker-machine create --digitalocean-size "s-4vcpu-8gb" --driver digitalocean --digitalocean-access-token xxxxx kg
 ```
 eval $(docker-machine env kg)
 ```

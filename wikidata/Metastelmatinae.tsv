@@ -1,0 +1,442 @@
+id	parent	name	image	rank	status	basionym	wikipedia	bold	eol	fossilworks	gbif	indexfungorum	inat	irming	itis	ipni	mycobank	ncbi	powo	tpl	tropicos	worms	wsc	zoobank
+Q40408045	Q6011736	Morilloa		genus	accepted									11905398					urn:lsid:ipni.org:names:77147475-1					
+Q2840817	Q6011736	Nautonia		genus	accepted		Nautonia				7312163		575514	1385164		3523-1		157426	urn:lsid:ipni.org:names:3523-1		40025531			
+Q5711928	Q6011736	Hemipogon		genus	accepted		Hemipogon_(plant)				3230992		575496	1282209		3410-1		219244	urn:lsid:ipni.org:names:3410-1		40023718			
+Q5719613	Q6011736	Barjonia	http://commons.wikimedia.org/wiki/Special:FilePath/Flickr%20-%20Jo%C3%A3o%20de%20Deus%20Medeiros%20-%20Barjonia%20cymosa.jpg	genus	accepted		Barjonia				7311684		575462	1358771		3223-1		219226	urn:lsid:ipni.org:names:3223-1		40024860			
+Q5730232	Q6011736	Blepharodon	http://commons.wikimedia.org/wiki/Special:FilePath/Blepharodon%20pictum.jpg	genus	accepted		Blepharodon				7312650		83503	1315399		3236-1		126742	urn:lsid:ipni.org:names:3236-1		40028250			
+Q5811470	Q6011736	Ditassa	http://commons.wikimedia.org/wiki/Special:FilePath/Flickr%20-%20BioDivLibrary%20-%20n31%20w1150%20%281%29.jpg	genus	accepted		Ditassa				7312403		183681	1289893				85035	urn:lsid:ipni.org:names:3334-1		40034175			
+Q5905801	Q6011736	Hypolobus		genus	accepted		Hypolobus				7312702		575501	1272376		3440-1			urn:lsid:ipni.org:names:3440-1		40030017			
+Q6071926	Q6011736	Peplonia	http://commons.wikimedia.org/wiki/Special:FilePath/Peplonia%20bradeana%20%28Fontella%20%26%20E.A.Schwarz%29%20Fontella%20%26%20Rapini%20%287852095022%29.jpg	genus	accepted		Peplonia				3570819		575528	1298940		3584-1		276821	urn:lsid:ipni.org:names:3584-1		40004217			
+Q6073290	Q6011736	Petalostelma		genus	accepted		Petalostelma				7312322		575530	1090929		3592-1		185090	urn:lsid:ipni.org:names:3592-1		40005318			
+Q6107852	Q6011736	Rhyssostelma	http://commons.wikimedia.org/wiki/Special:FilePath/Rhyssostelma%20nigricans.jpg	genus	accepted		Rhyssostelma				7311850		575541	1088284		3657-1					40025600			
+Q6823254	Q6011736	Metastelma	http://commons.wikimedia.org/wiki/Special:FilePath/Metastelma%20schlechtendalii-flower.jpg	genus	accepted		Metastelma		2516082		6416392		185979	1016734	30390			157419	urn:lsid:ipni.org:names:30384004-2		40018013		30390	
+Q15088175	Q6011736	Nephradenia		genus	accepted		Nephradenia				7312130		575515	1067468		30056552-2		219258	urn:lsid:ipni.org:names:30056552-2		40027465			
+Q15972256	Q6011736	Minaria		genus	accepted		Minaria		6154202		7312220			1268022		77074582-1		593428	urn:lsid:ipni.org:names:77074582-1		50298816			
+Q10330213	Q15972256	Minaria hemipogonoides		species	accepted	Q38457022					3577034					77074592-1		1197370	urn:lsid:ipni.org:names:77074592-1	kew-2358450	50298826			
+Q15367141	Q15972256	Minaria ditassoides		species	accepted	Q38456988					3577047					77074591-1		1197369	urn:lsid:ipni.org:names:77074591-1	kew-2358448	50298824			
+Q15367229	Q15972256	Minaria grazielae		species	accepted	Q38457005					3577040					77074583-1		157412	urn:lsid:ipni.org:names:77074583-1	kew-2358458	50298825			
+Q15367361	Q15972256	Minaria inconspicua		species	accepted	Q38457038					3577024					77074593-1			urn:lsid:ipni.org:names:77074593-1	kew-2358442	50298827			
+Q15367424	Q15972256	Minaria lourteigiae		species	accepted	Q38457052					3577015					77074594-1		1197371	urn:lsid:ipni.org:names:77074594-1	kew-2358452	50298828			
+Q15367523	Q15972256	Minaria magisteriana		species	accepted	Q38457066					3577008					77074595-1		219236	urn:lsid:ipni.org:names:77074595-1	kew-2358453	50298829			
+Q15367607	Q15972256	Minaria micromeria		species	accepted	Q38457084					3577002					77074596-1		276801	urn:lsid:ipni.org:names:77074596-1	kew-2358454	50298830			
+Q15367695	Q15972256	Minaria monocoronata		species	accepted	Q38457103					3576991					77074597-1			urn:lsid:ipni.org:names:77074597-1	kew-2358455	50298831			
+Q15367746	Q15972256	Minaria abortiva		species	accepted	Q38456889					3577100					77074584-1		1197366	urn:lsid:ipni.org:names:77074584-1	kew-2358399	50298817			
+Q15367797	Q15972256	Minaria parva		species	accepted	Q38457119					3576983					77074598-1		1197372	urn:lsid:ipni.org:names:77074598-1	kew-2358456	50298832			
+Q15367820	Q15972256	Minaria acerosa		species	accepted	Q38456907					3577092					77074585-1		219230	urn:lsid:ipni.org:names:77074585-1	kew-2358424	50298818			
+Q15367882	Q15972256	Minaria polygaloides		species	accepted	Q38457137					3576974					77074599-1		1197373	urn:lsid:ipni.org:names:77074599-1	kew-2358434	50298833			
+Q15367911	Q15972256	Minaria bifurcata		species	accepted	Q38456923					3577084					77074586-1			urn:lsid:ipni.org:names:77074586-1	kew-2358443	50298819			
+Q15367968	Q15972256	Minaria refractifolia		species	accepted	Q38457152					3576967					77074600-1		1197374	urn:lsid:ipni.org:names:77074600-1	kew-2358451	50298834			
+Q15368021	Q15972256	Minaria cordata		species	accepted	Q38456937					3577070					77074588-1		276799	urn:lsid:ipni.org:names:77074588-1	kew-2358445	50298821			
+Q15368033	Q15972256	Minaria semirii		species	accepted	Q38457168					3576955					77074601-1		1197375	urn:lsid:ipni.org:names:77074601-1	kew-2358449	50298835			
+Q15368133	Q15972256	Minaria decussata		species	accepted	Q38456953					3577062					77074589-1		219233	urn:lsid:ipni.org:names:77074589-1	kew-2358446	50298822			
+Q15461524	Q15972256	Minaria diamantinensis		species	accepted	Q38456969			23998652		3577056					77074590-1		1197368	urn:lsid:ipni.org:names:77074590-1	kew-2358447	50298823			
+Q18074138	Q15972256	Minaria volubilis		species	accepted											77130383-1			urn:lsid:ipni.org:names:77130383-1					
+Q18176723	Q15972256	Minaria campanuliflora		species	accepted						3577078					77074587-1		1197367	urn:lsid:ipni.org:names:77074587-1	kew-2358444	50298820			
+Q18176724	Q15972256	Minaria harleyi		species	accepted											77130382-1			urn:lsid:ipni.org:names:77130382-1		100392845			
+Q15368116	Q15088175	Nephradenia asparagoides		species	accepted	Q38457453					3576093					99839-1		219260	urn:lsid:ipni.org:names:99839-1	kew-2379595	2601892			
+Q15368191	Q15088175	Nephradenia filipes		species	accepted						3576085					169226-2		1197376	urn:lsid:ipni.org:names:169226-2	kew-2379594	2600583			
+Q15368282	Q15088175	Nephradenia linearis		species	accepted						3576036					99845-1			urn:lsid:ipni.org:names:99845-1	kew-2379599	2609127			
+Q18076785	Q15088175	Nephradenia pendula		species	accepted						3576012													
+Q18083722	Q15088175	Nephradenia acerosa		species	accepted						3576101					99838-1		219259	urn:lsid:ipni.org:names:99838-1	kew-2379596	2601891			
+Q38453896	Q15088175	Nephradenia fruticosa		species	not accepted						3576066					169227-2				tro-2604537	2604537			
+Q5473528	Q6823254	Metastelma purpurascens		species	accepted		Metastelma_purpurascens				3578261		440478			99718-1			urn:lsid:ipni.org:names:99718-1	tro-2600550	2600550			
+Q5487565	Q6823254	Metastelma anegadense		species	accepted		Metastelma_anegadense		591054		3170401		185980	11082501	517063	158481-2		1254468	urn:lsid:ipni.org:names:158481-2				517063	
+Q18072614	Q6823254	Metastelma picardae		species	accepted						3578345					158570-2			urn:lsid:ipni.org:names:158570-2		2605380			
+Q18072615	Q6823254	Metastelma pullidum		species	accepted						3578268													
+Q18072617	Q6823254	Metastelma myrtifolium		species	accepted						3578726					99693-1		277964	urn:lsid:ipni.org:names:99693-1	kew-2358817	2600540			
+Q18072620	Q6823254	Metastelma infimicola		species	accepted						3579152													
+Q18072628	Q6823254	Metastelma rupicola		species	accepted						3578085					158580-2			urn:lsid:ipni.org:names:158580-2	tro-2608398	2608398			
+Q18072629	Q6823254	Metastelma jamaicense		species	accepted						3579144													
+Q18072634	Q6823254	Metastelma priorii		species	accepted						3578308					158572-2			urn:lsid:ipni.org:names:158572-2		2609125			
+Q18072636	Q6823254	Metastelma salinarum		species	accepted						3578064													
+Q18072637	Q6823254	Metastelma quitense		species	accepted						3578244					994859-1			urn:lsid:ipni.org:names:994859-1	tro-50093484				
+Q18072640	Q6823254	Metastelma freemani		species	accepted						3579490													
+Q18072654	Q6823254	Metastelma fusculum		species	accepted						3579475					99651-1		1755013	urn:lsid:ipni.org:names:99651-1		2606135			
+Q18072657	Q6823254	Metastelma leptocladon		species	accepted				488030		3170365			10857703	565653								565653	
+Q18072672	Q6823254	Metastelma readii		species	accepted						3578195					158575-2			urn:lsid:ipni.org:names:158575-2		2605381			
+Q18072677	Q6823254	Metastelma selerianum		species	accepted						3577960													
+Q18072683	Q6823254	Metastelma retinaculatum		species	accepted						3578183													
+Q18072696	Q6823254	Metastelma linearifolium		species	accepted						3579004					99678-1		185223	urn:lsid:ipni.org:names:99678-1		2601855			
+Q18072703	Q6823254	Metastelma rodriguezii		species	accepted											77100431-1			urn:lsid:ipni.org:names:77100431-1					
+Q18072807	Q6823254	Metastelma martinicense		species	accepted						3578899					280820-2			urn:lsid:ipni.org:names:280820-2		2605377			
+Q18072810	Q6823254	Metastelma sigmoideum		species	accepted											77116841-1			urn:lsid:ipni.org:names:77116841-1		100378979			
+Q18072828	Q6823254	Metastelma spruceanum		species	accepted						3577895					994860-1			urn:lsid:ipni.org:names:994860-1	tro-50093488				
+Q18072859	Q6823254	Metastelma stenoglossum		species	accepted						3577872					158587-2			urn:lsid:ipni.org:names:158587-2		2605383			
+Q18176705	Q6823254	Metastelma tylophoroides		species	accepted						3577639					158596-2			urn:lsid:ipni.org:names:158596-2		2605384			
+Q18176706	Q6823254	Metastelma urbanianum		species	accepted						3577610					158597-2			urn:lsid:ipni.org:names:158597-2		2605385			
+Q18176707	Q6823254	Metastelma woodsonii		species	accepted																			
+Q21317635	Q6823254	Metastelma lineare		species	accepted				488034		3170394			10210779	517069	99677-1		1254460	urn:lsid:ipni.org:names:99677-1		2601854		517069	
+Q21317639	Q6823254	Metastelma leptocladum		species	accepted				5333269		3579063					1058554-2					2605375			
+Q38445543	Q6823254	Metastelma latipes		species	not accepted						3579085					99675-1					2601853			
+Q38445648	Q6823254	Metastelma aemulans		species	not accepted						3580582					158480-2			urn:lsid:ipni.org:names:158480-2		2605361			
+Q38445666	Q6823254	Metastelma anegadensis		species	accepted																2608394			
+Q38445951	Q6823254	Metastelma filisepalum		species	accepted						3579514					158524-2					2600528			
+Q38445967	Q6823254	Metastelma freemanii		species	accepted											158523-2		1848353	urn:lsid:ipni.org:names:158523-2	tro-2608619	2608619			
+Q38445990	Q6823254	Metastelma glaberrimum		species	not accepted						3579439					158526-2				tro-2604736	2604736			
+Q38446185	Q6823254	Metastelma northropiae		species	not accepted						3578712				893821	290001-2		1254457	urn:lsid:ipni.org:names:290001-2		2600541		893821	
+Q38446260	Q6823254	Metastelma paralias		species	accepted						3578534					99703-1				tro-2600546	2600546			
+Q38446828	Q6823254	Metastelma australe		species	not accepted						3580366										2609122			
+Q38447160	Q6823254	Metastelma longisepalum		species	not accepted						3578958					158547-2					2605683			
+Q38447239	Q6823254	Metastelma obscurum		species	not accepted						3578688					99695-1					2601858			
+Q38447257	Q6823254	Metastelma rotundifolium		species	not accepted																2600554			
+Q38447312	Q6823254	Metastelma tomentosum		species	not accepted						7312286										2600562			
+Q38449197	Q6823254	Metastelma acuminatum		species	accepted						3580603		185978			99587-1					2601828			
+Q38449227	Q6823254	Metastelma odoratum		species	accepted						3578659					99696-1					2601859			
+Q38450718	Q6823254	Metastelma hatschbachii		species	not accepted											158534-2					2610106			
+Q38450734	Q6823254	Metastelma hemipogonoides		species	not accepted						3579263					158535-2					2600530			
+Q38454027	Q6823254	Metastelma sessilifolium		species	not accepted						3577909										2601869			
+Q38456937	Q6823254	Metastelma cordatum		species	not accepted						3579934					280815-2					2601840			
+Q38458315	Q6823254	Metastelma dusenii		species	not accepted						3579700										2600524			
+Q38460348	Q6823254	Metastelma organense		species	not accepted											99699-1					2601860			
+Q38460365	Q6823254	Metastelma riedelii		species	not accepted						3578176					99722-1					2600553			
+Q38460483	Q6823254	Metastelma bracteolatum		species	not accepted						3580131					99611-1					2600515			
+Q38460498	Q6823254	Metastelma calcaratum		species	not accepted						3580080					99613-1					2601837			
+Q38460517	Q6823254	Metastelma martianum		species	not accepted						3578931					99682-1					2601856			
+Q49436643	Q6823254	Metastelma albiflora		species	accepted						3580566		185976											
+Q49436647	Q6823254	Metastelma anagadense		species	accepted						4940150		185981											
+Q49519701	Q6823254	Metastelma macropodum		species	accepted								277525			158548-2		1255248		tro-2605376	2605376			
+Q49523189	Q6823254	Metastelma angustifolium		species	accepted						3580494		284427			99592-1				tro-2601831	2601831			
+Q49523918	Q6823254	Metastelma angustifolia		species	accepted						3580524		286682											
+Q49600222	Q6823254	Metastelma macropoda		species	accepted						3578940		345665											
+Q50846101	Q6823254	Metastelma fallax		species	accepted						3170408			10910465	565652	158520-2					2605371		565652	
+Q50846103	Q6823254	Metastelma suberosum		species	accepted									11242982	196100	99743-1					2601872		196100	
+Q55882480	Q6823254	Metastelma eulaxiflorum		species	accepted						3579607					994849-1				kew-2363802				
+Q15366619	Q6823254	Metastelma californicum		species	accepted						6021906		284429			99614-1		1254482	urn:lsid:ipni.org:names:99614-1	tro-2601838	2601838			
+Q15366711	Q6823254	Metastelma pauciflorum		species	accepted						3578439					158565-2			urn:lsid:ipni.org:names:158565-2	tro-2605379	2605379			
+Q15366724	Q6823254	Metastelma calycinum		species	not accepted						3580040					308465-2				tro-2607666	2607666			
+Q15366747	Q6823254	Metastelma huberi		species	accepted	Q38456521					3579179					994852-1			urn:lsid:ipni.org:names:994852-1	kew-2363846	50093475			
+Q15366819	Q6823254	Metastelma chiapense		species	accepted						3580017		284430			158501-2			urn:lsid:ipni.org:names:158501-2		2600517			
+Q15366821	Q6823254	Metastelma pedunculare		species	accepted						3578417					99711-1			urn:lsid:ipni.org:names:99711-1	tro-2600548	2600548			
+Q15366823	Q6823254	Metastelma subcordatum		species	accepted								277529							tro-50219594				
+Q15366839	Q6823254	Metastelma lanceolatum		species	accepted						3579116		284432			158541-2			urn:lsid:ipni.org:names:158541-2	tro-2606137	2606137			
+Q15366897	Q6823254	Metastelma peruvianum		species	accepted						3578364					308324-2				tro-2600549	2600549			
+Q15366917	Q6823254	Metastelma thalamosiphon		species	accepted						3577743		277530			60441026-2		1254484	urn:lsid:ipni.org:names:60441026-2	tro-50282745	50282745			
+Q15366923	Q6823254	Metastelma chimantense		species	accepted	Q38456432					3580001					994848-1			urn:lsid:ipni.org:names:994848-1	kew-2363908	50090344			
+Q15366939	Q6823254	Metastelma latifolium		species	accepted						3579098		284433			158542-2		1254464	urn:lsid:ipni.org:names:158542-2	tro-2604527	2604527			
+Q15366988	Q6823254	Metastelma pringlei		species	accepted				488014		3170417		284436	10517068	517072	280823-2		1254465	urn:lsid:ipni.org:names:280823-2	tro-2604529	2604529		517072	
+Q15367003	Q6823254	Metastelma thysanotum		species	accepted						3577735					60441027-2			urn:lsid:ipni.org:names:60441027-2	tro-50282746	50282746			
+Q15367020	Q6823254	Metastelma leptophyllum		species	accepted	Q38456542					3579047					280819-2			urn:lsid:ipni.org:names:280819-2	tro-2610556	2610556			
+Q15367021	Q6823254	Metastelma costatum		species	accepted	Q18080147					3579925					99622-1				tro-2601841	2601841			
+Q15367072	Q6823254	Metastelma cuneatum		species	accepted						3579869		284431			158507-2		1254467	urn:lsid:ipni.org:names:158507-2	tro-2605682	2605682			
+Q15367081	Q6823254	Metastelma pubescens		species	accepted	Q38456663					3578294		284437			912805-1				tro-2610246	2610246			
+Q15367110	Q6823254	Metastelma liesnerianum		species	accepted	Q38456561					3579033					994853-1			urn:lsid:ipni.org:names:994853-1	tro-50093477	50093477			
+Q15367115	Q6823254	Metastelma trichophyllum		species	accepted						3577694		284440			280829-2		1254473	urn:lsid:ipni.org:names:280829-2		2610374			
+Q15367169	Q6823254	Metastelma pubipetalum		species	accepted	Q38456680					3578276					994858-1		1254474	urn:lsid:ipni.org:names:994858-1	tro-50093483	50093483			
+Q15367185	Q6823254	Metastelma decaisneanum		species	accepted						3170412			10669914	517066					kew-2363830			517066	
+Q15367199	Q6823254	Metastelma triodontum		species	accepted						3577676					60441028-2			urn:lsid:ipni.org:names:60441028-2	tro-50282747	50282747			
+Q15367201	Q6823254	Metastelma longicoronatum		species	accepted	Q38456578					3578973		277524			994854-1			urn:lsid:ipni.org:names:994854-1	tro-50093478	50093478			
+Q15367239	Q6823254	Metastelma acerosum		species	accepted						3580622													
+Q15367261	Q6823254	Metastelma diffusum		species	accepted						3579784					99632-1				tro-2601845	2601845			
+Q15367269	Q6823254	Metastelma rariflorum		species	accepted						3578230					158574-2				tro-2600551	2600551			
+Q15367287	Q6823254	Metastelma tubatum		species	accepted						3577666					99746-1		1254463		tro-2601873	2601873			
+Q15367312	Q6823254	Metastelma mexicanum		species	accepted	Q38443782			488020		3170404		284434	10499486	565655	1000788-1		1254475	urn:lsid:ipni.org:names:1000788-1	tro-50124616	50124616		565655	
+Q15367335	Q6823254	Metastelma rugosum		species	accepted						3578101					99725-1				kew-2358725	2600555			
+Q15367346	Q6823254	Metastelma dorrii		species	accepted	Q38456449					3579723					1030209-2			urn:lsid:ipni.org:names:1030209-2	kew-2363828	50194083			
+Q15367356	Q6823254	Metastelma aristatum		species	accepted						3580463					158483-2		1254471	urn:lsid:ipni.org:names:158483-2	tro-2609887	2609887			
+Q15367381	Q6823254	Metastelma turneri		species	accepted						3577662		284441			60433419-2		1254480	urn:lsid:ipni.org:names:60433419-2	tro-50256273	50256273			
+Q15367384	Q6823254	Metastelma microgynostegia		species	accepted						3578834					158551-2				tro-2610000	2610000			
+Q15367438	Q6823254	Metastelma schaffneri		species	accepted						3578049		284438			158581-2		167888	urn:lsid:ipni.org:names:158581-2	tro-2604530	2604530			
+Q15367440	Q6823254	Metastelma eliasianum		species	accepted						3579652					158517-2			urn:lsid:ipni.org:names:158517-2	tro-2609888	2609888			
+Q15367471	Q6823254	Metastelma arizonicum		species	accepted				488024		3170406		284428	11426774	30391	99596-1		1254478	urn:lsid:ipni.org:names:99596-1	kew-2358784	2601091		30391	
+Q15367485	Q6823254	Metastelma warmingii		species	accepted						3577560					158599-2			urn:lsid:ipni.org:names:158599-2	kew-2358758	2600568			
+Q15367492	Q6823254	Metastelma minutiflorum		species	accepted						3578820		277526			158552-2		1254469	urn:lsid:ipni.org:names:158552-2	tro-2609124	2609124			
+Q15367520	Q6823254	Metastelma exasperatum		species	accepted	Q38456466					3579593					994850-1			urn:lsid:ipni.org:names:994850-1	kew-2363803	50093472			
+Q15367530	Q6823254	Metastelma schlechtendalii		species	accepted						7312320		284439			158582-2		1254598	urn:lsid:ipni.org:names:158582-2	kew-2358720	2601868			
+Q15367552	Q6823254	Metastelma barbigerum		species	not accepted				488027		3170384		277522	11405922	517064	99605-1		1254459	urn:lsid:ipni.org:names:99605-1	tro-2601834	2601834		517064	
+Q15367558	Q6823254	Metastelma yucatanense		species	accepted						3579450		284442			60441029-2		1254485	urn:lsid:ipni.org:names:60441029-2	tro-50282749	50282749			
+Q15367585	Q6823254	Metastelma mirifolium		species	accepted						3578806					158553-2			urn:lsid:ipni.org:names:158553-2	kew-2358769	2608781			
+Q15367621	Q6823254	Metastelma schlechteri		species	accepted						3577990					99732-1			urn:lsid:ipni.org:names:99732-1	tro-2608782	2608782			
+Q15367629	Q6823254	Metastelma fiebrigii		species	accepted						3579548					158522-2		1254454	urn:lsid:ipni.org:names:158522-2	tro-2600527	2600527			
+Q15367630	Q6823254	Metastelma brachymischum		species	accepted						3580156		277523			60441025-2			urn:lsid:ipni.org:names:60441025-2	tro-50282744	50282744			
+Q15367673	Q6823254	Metastelma nubicola		species	accepted	Q38456614					3578698					994855-1				kew-2358828	50093480			
+Q15367706	Q6823254	Metastelma burchellii		species	accepted	Q38456400					3580089					1019223-1			urn:lsid:ipni.org:names:1019223-1	kew-2358778	50161393			
+Q15367717	Q6823254	Metastelma filiforme		species	accepted						3579525					99647-1				tro-2606134	2606134			
+Q15367724	Q6823254	Metastelma sepicola		species	accepted						3577943					158585-2		1254458	urn:lsid:ipni.org:names:158585-2	tro-2600556	2600556			
+Q15367736	Q6823254	Metastelma occidentale		species	accepted	Q38446201					3578675					280822-2			urn:lsid:ipni.org:names:280822-2	tro-2610557	2610557			
+Q15367778	Q6823254	Metastelma calcicola		species	accepted	Q38456417					3580067					280814-2			urn:lsid:ipni.org:names:280814-2	tro-2610555	2610555			
+Q15367809	Q6823254	Metastelma sepium		species	accepted	Q38456721					3577926		277527			945468-1			urn:lsid:ipni.org:names:945468-1	kew-2358702	2610372			
+Q15367824	Q6823254	Metastelma giuliettianum		species	accepted						3579455					280816-2		1197364	urn:lsid:ipni.org:names:280816-2	kew-2363848	2610309			
+Q15367839	Q6823254	Metastelma ovalifolium		species	accepted	Q38456630					3578616					994856-1				tro-50093481	50093481			
+Q15367871	Q6823254	Metastelma stenomeres		species	accepted	Q38456742					3577844		277528			945469-1			urn:lsid:ipni.org:names:280828-2	tro-2610373	2610373			
+Q15367921	Q6823254	Metastelma guanchezii		species	accepted	Q38456483					3579365					1033018-2				kew-2363863	50194084			
+Q15367948	Q6823254	Metastelma stipitatum		species	accepted	Q38456760					3577811					994861-1			urn:lsid:ipni.org:names:994861-1	tro-50093489	50093489			
+Q15367960	Q6823254	Metastelma palmeri		species	accepted				488037		3170370		284435	10210780	517071	99701-1		1254461	urn:lsid:ipni.org:names:99701-1	tro-2601861	2601861		517071	
+Q15368005	Q6823254	Metastelma hirtellum		species	accepted	Q38456503					3579189					994851-1			urn:lsid:ipni.org:names:994851-1	kew-2363836	50093474			
+Q15368028	Q6823254	Metastelma strictum		species	accepted						3577785					158590-2				kew-2358736	2608783			
+Q15368047	Q6823254	Metastelma paraquense		species	accepted	Q38456646					3578522					994857-1			urn:lsid:ipni.org:names:994857-1	kew-2358798	50093482			
+Q15368173	Q6823254	Metastelma parviflorum		species	accepted	Q15398579			488039		3170374			11209169	182225	99708-1		219256	urn:lsid:ipni.org:names:99708-1	kew-2358803	2601864		182225	
+Q18072522	Q6823254	Metastelma abietoides		species	accepted						3580646													
+Q18072524	Q6823254	Metastelma atrovirens		species	accepted						3580390					158487-2			urn:lsid:ipni.org:names:158487-2		2600511			
+Q18072525	Q6823254	Metastelma bahamense		species	accepted						3580336								urn:lsid:ipni.org:names:158489-2		2601833			
+Q18072528	Q6823254	Metastelma alainii		species	accepted																			
+Q18072530	Q6823254	Metastelma barbadense		species	accepted						3580303					158491-2			urn:lsid:ipni.org:names:158491-2		2605363			
+Q18072532	Q6823254	Metastelma blodgettii		species	accepted				488026		3170362		637250	10210778	517065	99607-1		2511803	urn:lsid:ipni.org:names:99607-1		2601835		517065	
+Q18072534	Q6823254	Metastelma boldinghii		species	accepted						3580192					158496-2			urn:lsid:ipni.org:names:158496-2		2607400			
+Q18072539	Q6823254	Metastelma astephanoides		species	accepted						3580424					158485-2			urn:lsid:ipni.org:names:158485-2					
+Q18072540	Q6823254	Metastelma bonplandianum		species	accepted						3580165													
+Q18072541	Q6823254	Metastelma atrorubens		species	accepted						3580400										2605362			
+Q18072542	Q6823254	Metastelma brachystephanum		species	accepted						3580137					99610-1			urn:lsid:ipni.org:names:99610-1		2601836			
+Q18072543	Q6823254	Metastelma crassiusculum		species	accepted						3579903					158505-2			urn:lsid:ipni.org:names:158505-2		2605365			
+Q18072544	Q6823254	Metastelma columbianum		species	accepted						3579965					158503-2			urn:lsid:ipni.org:names:158503-2					
+Q18072545	Q6823254	Metastelma broadwayi		species	accepted						3580102					947306-1			urn:lsid:ipni.org:names:947306-1		100369275			
+Q18072547	Q6823254	Metastelma cubense		species	accepted						3579882							1254453	urn:lsid:ipni.org:names:158506-2					
+Q18072549	Q6823254	Metastelma glabrius		species	accepted						3579426					158527-2			urn:lsid:ipni.org:names:158527-2		2608620			
+Q18072552	Q6823254	Metastelma gracile		species	accepted						3579413					99655-1			urn:lsid:ipni.org:names:99655-1		2600529			
+Q18072554	Q6823254	Metastelma decipiens		species	accepted				488028		3170409			11193824	517067			1254466	urn:lsid:ipni.org:names:158510-2				517067	
+Q18072555	Q6823254	Metastelma grisebachianum		species	accepted				488031		3170411			10593394	565654	158529-2					2606141		565654	
+Q18072556	Q6823254	Metastelma hamatum		species	accepted						3579335					99660-1			urn:lsid:ipni.org:names:99660-1					
+Q18072562	Q6823254	Metastelma ditassoides		species	accepted						3579755					158511-2			urn:lsid:ipni.org:names:158511-2	tro-2600523				
+Q18072566	Q6823254	Metastelma mathewsii		species	accepted						3578883					318191-2		1254456	urn:lsid:ipni.org:names:318191-2	tro-2600537	2600537			
+Q18072570	Q6823254	Metastelma harleyi		species	accepted						3579321					280817-2		1197365	urn:lsid:ipni.org:names:280817-2	kew-2363858	2610310			
+Q18072571	Q6823254	Metastelma domingense		species	accepted						3579735					158513-2			urn:lsid:ipni.org:names:158513-2		2605368			
+Q18072572	Q6823254	Metastelma oranensis		species	accepted						3578640													
+Q18072574	Q6823254	Metastelma harrisii		species	accepted						3579303					158532-2			urn:lsid:ipni.org:names:158532-2		2605373			
+Q18072585	Q6823254	Metastelma hartii		species	accepted						3579291					158533-2					2605374			
+Q18072587	Q6823254	Metastelma ovatum		species	accepted						3578599													
+Q18072588	Q6823254	Metastelma eggersii		species	accepted						3579680					158515-2		1257083	urn:lsid:ipni.org:names:158515-2		2605369			
+Q18072591	Q6823254	Metastelma herzogii		species	accepted						3579236					158536-2				tro-2600532				
+Q18072592	Q6823254	Metastelma ekmanii		species	accepted						3579667					158516-2			urn:lsid:ipni.org:names:158516-2					
+Q18072595	Q6823254	Metastelma penicillatum		species	accepted						7312366					99712-1		1254462	urn:lsid:ipni.org:names:99712-1		2601866			
+Q18072599	Q6823254	Metastelma monense		species	accepted				488036		3170414			10425263	517070	158554-2			urn:lsid:ipni.org:names:158554-2		2608396		517070	
+Q18072605	Q6823254	Metastelma myrianthum		species	accepted						3578732					311353-2				tro-2600539	2600539			
+Q18072607	Q6823254	Metastelma inaguense		species	accepted						3579165					158539-2		1254455	urn:lsid:ipni.org:names:158539-2		2600534			
+Q18072610	Q6823254	Metastelma fawcettii		species	accepted						3579561										2605372			
+Q15613606	Q6107852	Rhyssostelma nigricans	http://commons.wikimedia.org/wiki/Special:FilePath/Rhyssostelma%20nigricans.jpg	species	not accepted						3572750					100844-1				tro-2602187	2602187			
+Q15371554	Q6073290	Petalostelma martianum		species	accepted	Q38460517					3578051					100522-1		1197377	urn:lsid:ipni.org:names:100522-1	tro-2602100	2602100			
+Q15371678	Q6073290	Petalostelma robertii		species	accepted	Q38446395					3578025					1021461-1		1254476		tro-50194085	50194085			
+Q15371770	Q6073290	Petalostelma sarcostemma		species	accepted	Q38460533					3578009					1021462-1		185091	urn:lsid:ipni.org:names:1021462-1	tro-50194086	50194086			
+Q15373019	Q6073290	Petalostelma bracteolatum		species	accepted	Q38460483					3578088					976963-1			urn:lsid:ipni.org:names:976963-1	tro-50172409	50172409			
+Q15373116	Q6073290	Petalostelma calcaratum		species	accepted	Q38460498					3578079					976962-1			urn:lsid:ipni.org:names:976962-1	tro-50172408	50172408			
+Q18075637	Q6073290	Petalostelma cearense		species	accepted						3578065					191029-2			urn:lsid:ipni.org:names:191029-2	tro-2608649	2608649			
+Q18075719	Q6073290	Petalostelma dardanoi		species	accepted						3578059					976961-1			urn:lsid:ipni.org:names:976961-1	tro-50172410	50172410			
+Q15371052	Q6071926	Peplonia asteria		species	accepted	Q38460331					3579717					913149-1		276822	urn:lsid:ipni.org:names:189981-2	tro-2610385	2610385			
+Q15371149	Q6071926	Peplonia organensis		species	accepted	Q38460348					3579674					77064985-1		329041	urn:lsid:ipni.org:names:77064985-1	kew-2404343	100001458			
+Q15371212	Q6071926	Peplonia riedelii		species	accepted	Q38460365					3579668					77064986-1			urn:lsid:ipni.org:names:77064986-1	kew-2404342	100364115			
+Q18074594	Q6071926	Peplonia adnata		species	accepted											77130384-1		1197360	urn:lsid:ipni.org:names:77130384-1					
+Q18074777	Q6071926	Peplonia axillaris		species	accepted	Q38449211					3579711					77064982-1			urn:lsid:ipni.org:names:77064982-1	tro-100364038	100364038			
+Q18074927	Q6071926	Peplonia bradeana		species	accepted						3579702					77064983-1			urn:lsid:ipni.org:names:77064983-1	tro-100373390	100373390			
+Q18074997	Q6071926	Peplonia hatschbachii		species	accepted						3579696					77064984-1			urn:lsid:ipni.org:names:77064984-1	kew-2404346				
+Q18081841	Q6071926	Peplonia macrophylla		species	accepted											77130385-1		1197362	urn:lsid:ipni.org:names:77130385-1					
+Q38443864	Q6071926	Peplonia amazonica		species	not accepted						3579737					189980-2					2602044			
+Q15357643	Q5905801	Hypolobus infractus		species	accepted						3582339					98846-1			urn:lsid:ipni.org:names:98846-1	kew-2859532	2601627			
+Q15401002	Q5811470	Ditassa auriflora		species	accepted				5337062		3581258					324596-2		277962	urn:lsid:ipni.org:names:324596-2	kew-2773343	50282932			
+Q15401008	Q5811470	Ditassa racemosa		species	accepted						3579569					82479-2			urn:lsid:ipni.org:names:82479-2	kew-2773479	2605298			
+Q15401081	Q5811470	Ditassa auyantepuiensis		species	accepted	Q38446992			5330639		3581242					946449-1			urn:lsid:ipni.org:names:275989-2	kew-2773344	2610437			
+Q15401118	Q5811470	Ditassa ramosa		species	accepted				5337199		3579562					97185-1			urn:lsid:ipni.org:names:97185-1	kew-2773480	2600328			
+Q15401143	Q5811470	Ditassa ayangannensis		species	accepted				5337064		3581227					306168-2			urn:lsid:ipni.org:names:306168-2	kew-2773345	50120525			
+Q15401192	Q5811470	Ditassa retusa		species	accepted				5337202		3579540					97188-1		276803	urn:lsid:ipni.org:names:97188-1	kew-2773483	2600974			
+Q15401211	Q5811470	Ditassa banksii		species	accepted				5337065		3581222					97098-1		219231	urn:lsid:ipni.org:names:97098-1	kew-2773346	2600950			
+Q15401251	Q5811470	Ditassa roraimensis		species	accepted				5337204		3579515					276006-2			urn:lsid:ipni.org:names:276006-2	kew-2773485	2600331			
+Q15401267	Q5811470	Ditassa bicolor		species	accepted				5337067		3581205					97100-1			urn:lsid:ipni.org:names:97100-1	kew-2773348	2600290			
+Q15401315	Q5811470	Ditassa rotundifolia		species	accepted	Q38447257			5337206		3579479					97192-1		276804	urn:lsid:ipni.org:names:82483-2	kew-2773487	2604248			
+Q15401320	Q5811470	Ditassa blanchetii		species	accepted				5337069		3581181					97101-1		1197348	urn:lsid:ipni.org:names:97101-1	kew-2773350	2600951			
+Q15401350	Q5811470	Ditassa salzmannii		species	accepted											97195-1			urn:lsid:ipni.org:names:97195-1	kew-2773490	2600977			
+Q15401370	Q5811470	Ditassa schlechteri		species	accepted						3579414					296039-2				kew-2773492	2608758			
+Q15401397	Q5811470	Ditassa sillensis		species	accepted				5337215		3579386					303131-2			urn:lsid:ipni.org:names:303131-2	kew-2773494	50120526			
+Q15401409	Q5811470	Ditassa silveirae		species	accepted						3579374					82487-2			urn:lsid:ipni.org:names:82487-2	kew-2773495	2609778			
+Q15401419	Q5811470	Ditassa sipapoana		species	accepted				5337217		3579361					276007-2			urn:lsid:ipni.org:names:276007-2	kew-2773496	2610446			
+Q18079566	Q5811470	Ditassa angustifolia		species	accepted						3581350		183686					276797						
+Q18080088	Q5811470	Ditassa thymifolia		species	accepted											77132775-1		1114846	urn:lsid:ipni.org:names:77132775-1					
+Q18081215	Q5811470	Ditassa guilleminiana		species	accepted						3580486													
+Q18081912	Q5811470	Ditassa oxypetala		species	accepted						3579716													
+Q18082021	Q5811470	Ditassa olivaestevae		species	accepted																			
+Q18082143	Q5811470	Ditassa oxyphylla		species	accepted						3579701		83288			317524-2			urn:lsid:ipni.org:names:317524-2	kew-2773466	2600970			
+Q18082604	Q5811470	Ditassa emmerichii		species	accepted						3580721					940998-1				tro-2610353	2610353			
+Q18083545	Q5811470	Ditassa tatei		species	accepted						3579208					82493-2				kew-2773508				
+Q18083599	Q5811470	Ditassa mexicana		species	accepted						3579950													
+Q18469339	Q5811470	Ditassa arianeae		species	accepted						3581289					275988-2		1254472			2610211			
+Q38443877	Q5811470	Ditassa glaucescens		species	not accepted						3580553					97129-1					2600960			
+Q38443920	Q5811470	Ditassa manicata		species	not accepted						3580052										2600317			
+Q38445748	Q5811470	Ditassa bonariensis		species	not accepted						3581131					97103-1					2600952			
+Q38452354	Q5811470	Ditassa adnata		species	not accepted						3581417					82437-2					2600948			
+Q38452371	Q5811470	Ditassa grandiflora		species	not accepted						3580505					97134-1			urn:lsid:ipni.org:names:97134-1		2600308			
+Q38452390	Q5811470	Ditassa lagoensis		species	not accepted						3580310					97146-1			urn:lsid:ipni.org:names:97146-1		2600963			
+Q38452412	Q5811470	Ditassa cucullata		species	accepted						3580840					317019-2					2600299			
+Q38452449	Q5811470	Ditassa melantha		species	not accepted						3579966					82469-2					2600318			
+Q38456400	Q5811470	Ditassa burchellii		species	not accepted						7312598							276798			2600953			
+Q38456889	Q5811470	Ditassa abortiva		species	not accepted						3581460										2600281			
+Q38456907	Q5811470	Ditassa acerosa		species	not accepted						3581432		183685								2600282			
+Q38456923	Q5811470	Ditassa bifurcata		species	not accepted						3581189					20007946-1				kew-2773349	50282937			
+Q38456953	Q5811470	Ditassa decussata		species	not accepted						3580822										2600955			
+Q38456969	Q5811470	Ditassa diamantinensis		species	not accepted																50097953			
+Q38457022	Q5811470	Ditassa hemipogonoides		species	not accepted						3580471					97137-1					2600310			
+Q38457038	Q5811470	Ditassa inconspicua		species	not accepted						3580391					324599-2				kew-2773415	50282939			
+Q38457052	Q5811470	Ditassa lourteigiae		species	not accepted											275999-2					2611120			
+Q38457066	Q5811470	Ditassa magisteriana		species	not accepted						3580090					324600-2				kew-2773436	50282931			
+Q38457084	Q5811470	Ditassa micromeria		species	not accepted						3579940					97160-1					2600966			
+Q38457103	Q5811470	Ditassa monocoronata		species	not accepted						3579926					324598-2				kew-2773447	50282943			
+Q38457137	Q5811470	Ditassa polygaloides		species	not accepted						3579586					82478-2					2608584			
+Q38457152	Q5811470	Ditassa refractifolia		species	not accepted						3579544					82480-2					2600330			
+Q38459110	Q5811470	Ditassa humilis		species	not accepted						3580411					82460-2					2604246			
+Q38463201	Q5811470	Ditassa aristata		species	not accepted											82442-2					2600288			
+Q49435412	Q5811470	Ditassa anomala		species	accepted						7312623		183683											
+Q55847313	Q5811470	Ditassa blepharodontoides		species	accepted						3581173					97102-1				kew-2773351				
+Q15397222	Q5811470	Ditassa bolivarensis		species	accepted	Q38447008			5330667		3581149					1002773-2			urn:lsid:ipni.org:names:1002773-2	kew-2773352	2610569			
+Q15397240	Q5811470	Ditassa capillaris		species	accepted				5337078		3581071					97106-1		1197349	urn:lsid:ipni.org:names:97106-1	kew-2773358	2600292			
+Q15397292	Q5811470	Ditassa fasciculata		species	accepted				5337111		3580653					97125-1		1197353	urn:lsid:ipni.org:names:97125-1	kew-2773391	2600304			
+Q15397317	Q5811470	Ditassa jahnii		species	accepted	Q38447142			5337138		3580353					994864-1			urn:lsid:ipni.org:names:994864-1	kew-2773418	50093493			
+Q15397322	Q5811470	Ditassa buntingii		species	accepted	Q38447024			5337074		3581113					994862-1			urn:lsid:ipni.org:names:994862-1	kew-2773354	50093490			
+Q15397323	Q5811470	Ditassa sobradoi		species	accepted	Q38447275			5337218		3579350					994865-1			urn:lsid:ipni.org:names:994865-1	kew-2773497	50093494			
+Q15397354	Q5811470	Ditassa carnevalii		species	accepted	Q38447040			5337079		3581058					946450-1			urn:lsid:ipni.org:names:275990-2	kew-2773359	2610435			
+Q15397362	Q5811470	Ditassa maricaensis		species	accepted				5337160		3580026					276001-2			urn:lsid:ipni.org:names:276001-2	kew-2773440	2610213			
+Q15397366	Q5811470	Ditassa cipoensis		species	accepted	Q38447072					3580992					1086340-2			urn:lsid:ipni.org:names:1019225-1	kew-2773363	50249382			
+Q15397398	Q5811470	Ditassa subulata		species	accepted						3579299					82490-2			urn:lsid:ipni.org:names:82490-2	kew-2773500	2605616			
+Q15397418	Q5811470	Ditassa subalpina		species	accepted				5337219		3579328					82488-2			urn:lsid:ipni.org:names:82488-2	kew-2773498	2607221			
+Q15397440	Q5811470	Ditassa juliani		species	accepted						3580337					946453-1			urn:lsid:ipni.org:names:275997-2	kew-2773419				
+Q15397444	Q5811470	Ditassa fiebrigii		species	accepted				5337112		3580637					82454-2			urn:lsid:ipni.org:names:82454-2	kew-2773392	2608982			
+Q15397469	Q5811470	Ditassa caucana		species	accepted				5337081		3581027					82446-2			urn:lsid:ipni.org:names:82446-2	kew-2773361	2605996			
+Q15397506	Q5811470	Ditassa xeroneura		species	accepted						3579039					97217-1			urn:lsid:ipni.org:names:82499-2	kew-2773522	2606000			
+Q15397549	Q5811470	Ditassa mattogrossensis		species	accepted						3579995					97156-1			urn:lsid:ipni.org:names:82468-2	kew-2773442	2608986			
+Q15397554	Q5811470	Ditassa subumbellata		species	accepted				5337222		3579283					82491-2			urn:lsid:ipni.org:names:82491-2	kew-2773502	2608989			
+Q15397575	Q5811470	Ditassa ciliata		species	accepted	Q38447057			5330798		3581008					946451-1			urn:lsid:ipni.org:names:275991-2	kew-2773362	2610438			
+Q15397580	Q5811470	Ditassa laevis		species	accepted				5337141		3580319					97145-1			urn:lsid:ipni.org:names:97145-1	kew-2773421	2600314			
+Q15397607	Q5811470	Ditassa foldatsii		species	accepted				5337113		3580623					275996-2			urn:lsid:ipni.org:names:275996-2	kew-2773393	2610440			
+Q15397622	Q5811470	Ditassa colellae		species	accepted	Q38447088			5330736		3580978					946452-1			urn:lsid:ipni.org:names:275992-2	kew-2773364	2610439			
+Q15397644	Q5811470	Ditassa megapotamica		species	accepted	Q38447180					3579979					97157-1			urn:lsid:ipni.org:names:97157-1	kew-2773443	2608362			
+Q15397661	Q5811470	Ditassa succedanea		species	accepted				5337223		3579270					320960-2		1254477	urn:lsid:ipni.org:names:320960-2	kew-2773503	50249463			
+Q15397712	Q5811470	Ditassa lanceolata		species	accepted						3580287					97147-1			urn:lsid:ipni.org:names:97147-1	kew-2773423	2600964			
+Q15397734	Q5811470	Ditassa fontellae		species	accepted				5337114		3580604					305861-2			urn:lsid:ipni.org:names:305861-2	kew-2773394	100325903			
+Q15397771	Q5811470	Ditassa mucronata		species	accepted				5337170		3579883					97164-1		276802	urn:lsid:ipni.org:names:97164-1	kew-2773450	2600967			
+Q15397777	Q5811470	Ditassa sucrensis		species	accepted	Q38447294					3579256					974117-1			urn:lsid:ipni.org:names:974117-1	kew-2773504	100325905			
+Q15397796	Q5811470	Ditassa conceptionis		species	accepted				5337085		3580972					940785-1		1197350	urn:lsid:ipni.org:names:940785-1	kew-2773365	2610302			
+Q15397822	Q5811470	Ditassa lenheirensis		species	accepted				5337144		3580272					82462-2		375933	urn:lsid:ipni.org:names:82462-2	kew-2773424	2608581			
+Q15397828	Q5811470	Ditassa pauciflora		species	accepted				5337190		3579653					97178-1			urn:lsid:ipni.org:names:97178-1	kew-2773471	2600326			
+Q15397834	Q5811470	Ditassa franciscoi		species	accepted	Q38447106					3580591					994863-1			urn:lsid:ipni.org:names:994863-1	kew-2773395	50093492			
+Q15397868	Q5811470	Ditassa surinamensis		species	accepted				5337225		3579248					940559-1			urn:lsid:ipni.org:names:940559-1	kew-2773505	2610563			
+Q15397906	Q5811470	Ditassa multinervia		species	accepted	Q38447200			5331091		3579862					946454-1			urn:lsid:ipni.org:names:276002-2	kew-2773451	2610443			
+Q15397950	Q5811470	Ditassa leonii		species	accepted				5337145		3580254					324257-2			urn:lsid:ipni.org:names:324257-2	kew-2773425	50291752			
+Q15397966	Q5811470	Ditassa tamayoi		species	accepted				5337226		3579237					303977-2			urn:lsid:ipni.org:names:303977-2	kew-2773506	2610546			
+Q15397980	Q5811470	Ditassa fulva		species	accepted						3580583					97127-1			urn:lsid:ipni.org:names:97127-1	kew-2773396	2600958			
+Q15398016	Q5811470	Ditassa congesta		species	accepted				5337086		3580963					97109-1			urn:lsid:ipni.org:names:97109-1	kew-2773366	2600293			
+Q15398027	Q5811470	Ditassa myrtilloides		species	accepted				5337173		3579841					97166-1				kew-2773453	2600321			
+Q15398085	Q5811470	Ditassa tassadioides	http://commons.wikimedia.org/wiki/Special:FilePath/Flickr%20-%20Jo%C3%A3o%20de%20Deus%20Medeiros%20-%20Macroditassa%20adnata%20%281%29.jpg	species	accepted						3579222					82492-2				kew-2773507	2604249			
+Q15398100	Q5811470	Ditassa liesneri		species	accepted				5337146		3580229					275998-2			urn:lsid:ipni.org:names:275998-2	kew-2773426	2610442			
+Q15398124	Q5811470	Ditassa gardneri		species	accepted						3580574					97128-1			urn:lsid:ipni.org:names:97128-1	kew-2773397	2600959			
+Q15398147	Q5811470	Ditassa nigrescens		species	accepted	Q38447218			5333849		3579834					60440834-2		1254486	urn:lsid:ipni.org:names:60440834-2	kew-2773454	50286924			
+Q15398209	Q5811470	Ditassa cordeiroana		species	accepted				5337091		3580890					302519-2		219232	urn:lsid:ipni.org:names:302519-2	kew-2773371	50097958			
+Q15398229	Q5811470	Ditassa taxifolia		species	accepted				5331320		3579196					97208-1		1254452	urn:lsid:ipni.org:names:97208-1	kew-2773509	2600337			
+Q15398242	Q5811470	Ditassa lindemanii		species	accepted				5337147		3580218					940558-1			urn:lsid:ipni.org:names:940558-1	kew-2773427	2610562			
+Q15398247	Q5811470	Ditassa gillespieae		species	accepted				5337118		3580560					305687-2			urn:lsid:ipni.org:names:305687-2	kew-2773398	2610544			
+Q15398302	Q5811470	Ditassa niruri		species	accepted				5337175		3579825					97167-1		185082		kew-2773455	2600322			
+Q15398333	Q5811470	Ditassa tomentosa		species	accepted	Q38447312			5337230		7312418					82495-2		219237	urn:lsid:ipni.org:names:82495-2	kew-2773510	2610214			
+Q15398346	Q5811470	Ditassa linearis		species	accepted						3580207					97149-1			urn:lsid:ipni.org:names:97149-1	kew-2773428	2600315			
+Q15398400	Q5811470	Ditassa glaziovii		species	accepted				5337120		3580547					97130-1				kew-2773400	2600305			
+Q15398427	Q5811470	Ditassa crassa		species	accepted				5337092		3580872					82447-2			urn:lsid:ipni.org:names:82447-2	kew-2773372	2600295			
+Q15398429	Q5811470	Ditassa nitida		species	accepted				5337176		3579818					97168-1			urn:lsid:ipni.org:names:97168-1	kew-2773456	2600968			
+Q15398449	Q5811470	Ditassa umbellata		species	accepted				5337233		3579153					97210-1				kew-2773513	2600979			
+Q15398473	Q5811470	Ditassa lisae		species	accepted				5337149		3580193					300290-2			urn:lsid:ipni.org:names:300290-2	kew-2773429	50154152			
+Q15398559	Q5811470	Ditassa velutina		species	accepted						3579145					97211-1			urn:lsid:ipni.org:names:97211-1	kew-2773514	2600980			
+Q15398592	Q5811470	Ditassa longicaulis		species	accepted						3580175					1036692-2			urn:lsid:ipni.org:names:1019224-1	kew-2773430	100325904			
+Q15398594	Q5811470	Ditassa obcordata		species	accepted				42606557		3579808					97169-1		1197354	urn:lsid:ipni.org:names:97169-1	kew-2773457	2600323			
+Q15398602	Q5811470	Ditassa gracilipes		species	accepted				5337122		3580517					82456-2			urn:lsid:ipni.org:names:82456-2	kew-2773402	2600306			
+Q15398606	Q5811470	Ditassa pedunculata		species	accepted				5337191		3579642					82477-2			urn:lsid:ipni.org:names:82477-2	kew-2773472	2608988			
+Q15398654	Q5811470	Ditassa venamensis		species	accepted				5337235		3579132					276008-2			urn:lsid:ipni.org:names:276008-2	kew-2773515	2610447			
+Q15398680	Q5811470	Ditassa crassifolia		species	accepted				5337093		3580868					97112-1		1197351	urn:lsid:ipni.org:names:97112-1	kew-2773373	2600296			
+Q15398707	Q5811470	Ditassa longiloba		species	accepted				5337151		3580166		712333			97150-1			urn:lsid:ipni.org:names:97150-1	kew-2773431	2600965			
+Q15398712	Q5811470	Ditassa gracilis		species	accepted				5337123		3580509					97133-1			urn:lsid:ipni.org:names:97133-1	kew-2773403				
+Q15398735	Q5811470	Ditassa oberdanii		species	accepted				5337178		3579796					316441-2			urn:lsid:ipni.org:names:316441-2	kew-2773458	50130796			
+Q15398768	Q5811470	Ditassa verticillata		species	accepted				5337237		3579107					304919-2			urn:lsid:ipni.org:names:304919-2	kew-2773517	2610568			
+Q15398866	Q5811470	Ditassa hastata		species	accepted				5337127		3580476					97136-1		219235	urn:lsid:ipni.org:names:97136-1	kew-2773407	2600309			
+Q15398878	Q5811470	Ditassa longisepala		species	accepted	Q38447160			5337152		3580146					908694-1			urn:lsid:ipni.org:names:82463-2	kew-2773432	2610212			
+Q15398893	Q5811470	Ditassa obovata		species	accepted						3579768					946455-1			urn:lsid:ipni.org:names:276003-2	kew-2773460	2610444			
+Q15398904	Q5811470	Ditassa violascens		species	accepted						3579092					82497-2			urn:lsid:ipni.org:names:82497-2	kew-2773518	2605998			
+Q15398918	Q5811470	Ditassa dardanoi		species	accepted				5337096		3580832					77069375-1			urn:lsid:ipni.org:names:77069375-1	kew-2773376	100325901			
+Q15399006	Q5811470	Ditassa hispida		species	accepted	Q38447122			5337131		3580436					82458-2		277963	urn:lsid:ipni.org:names:82458-2	kew-2773411	2608252			
+Q15399012	Q5811470	Ditassa obscura		species	accepted	Q38447239					3579759					60439304-2			urn:lsid:ipni.org:names:60439304-2	kew-2773461	100001457			
+Q15399023	Q5811470	Ditassa macarenae		species	accepted						3580117					301477-2			urn:lsid:ipni.org:names:301477-2	kew-2773434	50154140			
+Q15399041	Q5811470	Ditassa warmingii		species	accepted				5337240		3579069					97215-1				kew-2773520	2600339			
+Q15399141	Q5811470	Ditassa dolichoglossa		species	accepted				5337101		3580774					82449-2			urn:lsid:ipni.org:names:82449-2	kew-2773381	2600300			
+Q15399146	Q5811470	Ditassa weberbaueri		species	accepted				5337241		3579055					82498-2			urn:lsid:ipni.org:names:82498-2	kew-2773521	2605999			
+Q15399156	Q5811470	Ditassa imbricata		species	accepted				5337134		3580401					97143-1			urn:lsid:ipni.org:names:97143-1	kew-2773414	2600313			
+Q15399164	Q5811470	Ditassa oliva-estevae		species	accepted				5337183		3579736					276004-2			urn:lsid:ipni.org:names:276004-2	kew-2773463	2610445			
+Q15399176	Q5811470	Ditassa mandonii		species	accepted											82465-2			urn:lsid:ipni.org:names:82465-2	kew-2773437	2607612			
+Q15399316	Q5811470	Ditassa ottohuberi		species	accepted				5337184		3579724					304918-2			urn:lsid:ipni.org:names:304918-2	kew-2773464	2610567			
+Q15399321	Q5811470	Ditassa maranhensis		species	accepted				5337159		3580041					82466-2				kew-2773439	2609871			
+Q15399330	Q5811470	Ditassa insignis		species	accepted						3580380					60435878-2			urn:lsid:ipni.org:names:60435878-2	kew-2773416	50268075			
+Q15399372	Q5811470	Ditassa duartei		species	accepted				5337102		3580758					324258-2			urn:lsid:ipni.org:names:324258-2	kew-2773382	50291753			
+Q15399414	Q5811470	Ditassa perijensis		species	accepted				5337192		3579631					305755-2			urn:lsid:ipni.org:names:305755-2	kew-2773473	2610545			
+Q15399423	Q5811470	Ditassa paranensis		species	accepted						3579688					82475-2				kew-2773467	2608583			
+Q15399508	Q5811470	Ditassa itambensis		species	accepted				5337137		3580367					324601-2			urn:lsid:ipni.org:names:324601-2	kew-2773417	50282941			
+Q15399577	Q5811470	Ditassa duidae		species	accepted				5337103		3580747					82450-2			urn:lsid:ipni.org:names:82450-2	kew-2773383	2608757			
+Q15399759	Q5811470	Ditassa edmundoi		species	accepted				5337104		3580729					97120-1			urn:lsid:ipni.org:names:82451-2	kew-2773384	2609870			
+Q15399955	Q5811470	Ditassa emmerichae		species	accepted															kew-2773385				
+Q15400094	Q5811470	Ditassa acerifolia		species	accepted						3581444		183684			82436-2			urn:lsid:ipni.org:names:82436-2	kew-2773329	2609346			
+Q15400125	Q5811470	Ditassa peruviana		species	accepted				5337193		3579616					276005-2			urn:lsid:ipni.org:names:276005-2	kew-2773474	2610588			
+Q15400163	Q5811470	Ditassa endoleuca		species	accepted						3580715					82452-2		1114833	urn:lsid:ipni.org:names:82452-2	kew-2773386	2600301			
+Q15400289	Q5811470	Ditassa eximia		species	accepted				5337059		3580685					97123-1		1197352	urn:lsid:ipni.org:names:97123-1	kew-2773388	2600302			
+Q15400349	Q5811470	Ditassa aequicymosa		species	accepted				5337052		3581402		183682			320958-2			urn:lsid:ipni.org:names:320958-2	kew-2773332	2600949			
+Q15400419	Q5811470	Ditassa farneyi		species	accepted				5337110		3580659					992223-1				kew-2773390	100325902			
+Q15400554	Q5811470	Ditassa albiflora		species	accepted				5337053		3581387					82438-2			urn:lsid:ipni.org:names:82438-2	kew-2773333	2600283			
+Q15400684	Q5811470	Ditassa poeppigii		species	accepted						3579608					97180-1			urn:lsid:ipni.org:names:97180-1	kew-2773475	2600972			
+Q15400715	Q5811470	Ditassa albonerva		species	accepted	Q38446976					3581376					974114-1			urn:lsid:ipni.org:names:974114-1	kew-2773334	50120524			
+Q15400859	Q5811470	Ditassa pohliana		species	accepted				5337195		3579600					97181-1		1197355	urn:lsid:ipni.org:names:97181-1	kew-2773476	2600973			
+Q15400915	Q5811470	Ditassa anderssonii		species	accepted				5337055		3581366		191681			303084-2		1114832	urn:lsid:ipni.org:names:303084-2	kew-2773335	50007194			
+Q38447072	Q15398333	Ditassa tomentosa var. cipoensis		variety	not accepted											324602-2					50108292			
+Q15394536	Q5730232	Blepharodon grandiflorum		species	accepted				5334954		7312688					94917-1		126743	urn:lsid:ipni.org:names:94917-1	kew-2677520	2603145			
+Q15394664	Q5730232	Blepharodon harlingii		species	accepted	Q25653311					3582103					1157121-2				kew-2677522	50194080			
+Q15394693	Q5730232	Blepharodon tillettii		species	accepted				5334996		3581666					273348-2			urn:lsid:ipni.org:names:273348-2	kew-2677556	2610159			
+Q15394793	Q5730232	Blepharodon hatschbachii		species	accepted				5334957		3582097					94918-1			urn:lsid:ipni.org:names:33866-2	kew-2677523	2609909			
+Q15394810	Q5730232	Blepharodon ulei		species	accepted						3581609					33894-2			urn:lsid:ipni.org:names:33894-2	kew-2677560	2600217			
+Q15394916	Q5730232	Blepharodon hirsutum		species	accepted				5334959		3582072					304510-2				kew-2677524	50153841			
+Q15394997	Q5730232	Blepharodon juliani		species	accepted											33877-2			urn:lsid:ipni.org:names:33877-2	kew-2677527				
+Q15395101	Q5730232	Blepharodon lineare		species	accepted	Q38443907			5334964		3581999		743034					219228	urn:lsid:ipni.org:names:1100266-2	kew-2677529	2603146			
+Q15395185	Q5730232	Blepharodon maigualidae		species	accepted				5334967		3581977					305406-2			urn:lsid:ipni.org:names:305406-2	kew-2677532	50120355			
+Q15395318	Q5730232	Blepharodon manicatum		species	accepted	Q38443920			5334968		3581963					1004425-1		1197347	urn:lsid:ipni.org:names:1004425-1	kew-2677533	50108361			
+Q15395441	Q5730232	Blepharodon amazonicum		species	accepted	Q38443864			5334925		3582397		83502			33863-2			urn:lsid:ipni.org:names:33863-2	kew-2677498	50079943			
+Q15395452	Q5730232	Blepharodon mucronatum		species	accepted	Q38443935			5328979		3581942		284351			94927-1		126744	urn:lsid:ipni.org:names:94927-1	kew-2677535	2600206			
+Q15395565	Q5730232	Blepharodon angustifolium		species	accepted				5335006							33862-2			urn:lsid:ipni.org:names:33862-2	kew-2677500	2600196			
+Q15395575	Q5730232	Blepharodon perijaense		species	accepted				5334979		3581864								urn:lsid:ipni.org:names:273347-2	kew-2677541	2610158			
+Q15395708	Q5730232	Blepharodon philibertioides		species	accepted				5334982		3581826					33884-2			urn:lsid:ipni.org:names:33884-2	kew-2677543	2607097			
+Q15395750	Q5730232	Blepharodon bicolor		species	accepted				5334933		3582324					94903-1			urn:lsid:ipni.org:names:94903-1	kew-2677505	2603142			
+Q15395850	Q5730232	Blepharodon pictum	http://commons.wikimedia.org/wiki/Special:FilePath/Blepharodon%20pictum.jpg	species	accepted	Q38443948			5331108		3581813		83494			1016293-1		219229	urn:lsid:ipni.org:names:1016293-1	kew-2677544	50176193			
+Q15395883	Q5730232	Blepharodon bicuspidatum		species	accepted				5335005							320969-2		1197345	urn:lsid:ipni.org:names:320969-2	kew-2677506	2600199			
+Q15395968	Q5730232	Blepharodon polydori		species	accepted				5334984		3581799					303979-2			urn:lsid:ipni.org:names:303979-2	kew-2677545	50153842			
+Q15396009	Q5730232	Blepharodon colombianum		species	accepted				5334944		3582221					33871-2			urn:lsid:ipni.org:names:33871-2	kew-2677512	2610042			
+Q15396116	Q5730232	Blepharodon reflexum	http://commons.wikimedia.org/wiki/Special:FilePath/Botanica%20BHL4310304.jpg	species	accepted											94937-1			urn:lsid:ipni.org:names:33886-2	kew-2677548	2600210			
+Q15396118	Q5730232	Blepharodon costae		species	accepted				5334945		3582208					305982-2		1197346	urn:lsid:ipni.org:names:305982-2	kew-2677513	50153769			
+Q15396283	Q5730232	Blepharodon salicinum		species	accepted						7312663					318413-2			urn:lsid:ipni.org:names:318413-2	kew-2677550	2603150			
+Q15396313	Q5730232	Blepharodon cuatrecasasii		species	accepted				5334947		3582171					33873-2			urn:lsid:ipni.org:names:33873-2	kew-2677515	2610043			
+Q15396405	Q5730232	Blepharodon suberectum		species	accepted				5334994		3581688					33891-2			urn:lsid:ipni.org:names:33891-2	kew-2677555	2600214			
+Q15396441	Q5730232	Blepharodon glaucescens		species	accepted	Q38443877			5334951		3582149					94915-1		348056	urn:lsid:ipni.org:names:94915-1	kew-2677518	2609908			
+Q15396578	Q5730232	Blepharodon gomphocarpoides		species	accepted						3582131					33874-2				kew-2677519	2603760			
+Q18078701	Q5730232	Blepharodon hatschbachli		species	accepted						3582088													
+Q18078840	Q5730232	Blepharodon julianii		species	accepted						3582029													
+Q18078893	Q5730232	Blepharodon magualidae		species	accepted																			
+Q18079255	Q5730232	Blepharodon minimum		species	accepted											33878-2				kew-2677534				
+Q18079694	Q5730232	Blepharodon ampliflorum		species	accepted						3582390		83504			94897-1		1197344	urn:lsid:ipni.org:names:94897-1	kew-2677499	2600195			
+Q18080570	Q5730232	Blepharodon bolivianum		species	accepted																			
+Q18083776	Q5730232	Blepharodon crabronum		species	accepted						3582202					77098652-1			urn:lsid:ipni.org:names:77098652-1	kew-2895597	100000705			
+Q38443891	Q5730232	Blepharodon crassifolium		species	accepted											33872-2				kew-2677514	2600202			
+Q38447057	Q5730232	Blepharodon ciliatum		species	not accepted						3582246										2608694			
+Q38452429	Q5730232	Blepharodon laurifolium		species	not accepted						3582013										2600205			
+Q38457453	Q5730232	Blepharodon asparagoides		species	not accepted						3582357					94900-1					2600197			
+Q43290050	Q5730232	Blepharodon hirsutus		species	accepted											970730-1								
+Q55823513	Q5730232	Blepharodon adenopogon		species	accepted						3582406					33861-2				kew-2677497				
+Q55823515	Q5730232	Blepharodon bifidus		species	accepted											33868-2				kew-2677508				
+Q55823517	Q5730232	Blepharodon hitchcockii		species	accepted						3582059					33875-2				kew-2677525				
+Q15394672	Q5719613	Barjonia cymosa	http://commons.wikimedia.org/wiki/Special:FilePath/Barjonia%20cymosa%20%285437107557%29.jpg	species	accepted				5334844		3571304					94840-1		1197339	urn:lsid:ipni.org:names:94840-1	kew-2669799	2603126			
+Q15394747	Q5719613	Barjonia erecta		species	accepted	Q38443723			5334847		3571265					29541-2		1197340	urn:lsid:ipni.org:names:29541-2	kew-2669802	2603759			
+Q15394868	Q5719613	Barjonia glazioui		species	accepted				5334848		3571253					94844-1		1197341	urn:lsid:ipni.org:names:29542-2	kew-2669803	2610039			
+Q15394944	Q5719613	Barjonia grazielae		species	accepted				5334849		3571243					29543-2			urn:lsid:ipni.org:names:29543-2	kew-2669805	2600809			
+Q15395049	Q5719613	Barjonia harleyi		species	accepted				5334850		3571231					273072-2		1197342		kew-2669806	2610315			
+Q15395152	Q5719613	Barjonia laxa		species	accepted				5334851		3571216					29544-2		1197343	urn:lsid:ipni.org:names:29544-2	kew-2669807	2600188			
+Q18176725	Q5719613	Barjonia chlorifolia		species	accepted						3571311					94839-1		219227	urn:lsid:ipni.org:names:94839-1		2600186			
+Q38456988	Q5719613	Barjonia ditassoides		species	not accepted						3571282					29540-2					2600187			
+Q38457119	Q5719613	Barjonia parva		species	not accepted						3571185										2608526			
+Q10294631	Q5711928	Hemipogon abietoides		species	accepted											278106-2		1197356	urn:lsid:ipni.org:names:278106-2	kew-2845337	2608520			
+Q15356328	Q5711928	Hemipogon acerosus		species	accepted											98261-1		219245	urn:lsid:ipni.org:names:98261-1					
+Q15356354	Q5711928	Hemipogon carassensis		species	accepted	Q38450667										1127526-2		219246		kew-2845343	50161290			
+Q15356388	Q5711928	Hemipogon furlanii		species	accepted	Q38450684										1193738-2				kew-2845346	50179391			
+Q15356421	Q5711928	Hemipogon harleyi		species	accepted	Q38450702										77063109-1		1197357		kew-2845347	50278667			
+Q15356461	Q5711928	Hemipogon hatschbachii		species	accepted	Q38450718										1121888-2		1197358	urn:lsid:ipni.org:names:1019233-1	kew-2845349	50180706			
+Q15356496	Q5711928	Hemipogon peruvianus		species	accepted											98266-1			urn:lsid:ipni.org:names:98266-1	tro-2608523	2608523			
+Q15356560	Q5711928	Hemipogon piranii		species	accepted	Q38450751										1126766-2				kew-2845357	50203926			
+Q15356600	Q5711928	Hemipogon setaceus		species	accepted											98267-1			urn:lsid:ipni.org:names:98267-1	kew-2845358	2609045			
+Q18081347	Q5711928	Hemipogon sprucei		species	accepted											278107-2		276808	urn:lsid:ipni.org:names:278107-2		2608524			
+Q18081429	Q5711928	Hemipogon williamsii		species	accepted																			
+Q18082957	Q5711928	Hemipogon andinum		species	accepted																			
+Q18083728	Q5711928	Hemipogon hemipogonoides		species	accepted	Q38450734										1108141-2		1197359	urn:lsid:ipni.org:names:1019232-1	kew-2845351	50161288			
+Q18083988	Q5711928	Hemipogon irwinii		species	accepted											303367-2			urn:lsid:ipni.org:names:303367-2	tro-50097976	50097976			
+Q18084241	Q5711928	Hemipogon luteus		species	accepted											98265-1		219247		tro-2608522	2608522			
+Q38443616	Q5711928	Hemipogon laxifolius		species	accepted											120074-2					50097832			
+Q15613581	Q2840817	Nautonia nummularia		species	accepted						3576253					99833-1		157427	urn:lsid:ipni.org:names:99833-1	kew-2379645	2601889			

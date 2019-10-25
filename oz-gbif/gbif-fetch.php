@@ -110,7 +110,7 @@ function gbif_fetch($id)
 
 
 // test cases
-if (0)
+if (1)
 {
 
 	$force = true;
@@ -123,6 +123,33 @@ if (0)
 	912179069
 	);
 	
+	$ids=array(
+	1424263254
+	);
+	
+	$ids=array(
+	1259102626,
+	218946109,
+	
+	1087225434,
+	);
+	
+	$ids=array(
+	1087247105,
+	1213645870,
+	1087246970,
+	);
+	
+	$ids=array(
+	1096785870,
+	1096785885
+	);
+	
+	$ids=array(
+	1426114122,
+	1261856943,
+	);
+	
 	
 	foreach ($ids as $id)
 	{
@@ -132,13 +159,15 @@ if (0)
 
 // use API to search for specific records
 
-if (1)
+if (0)
 {
 	$force = false;
 	
 	$species = array(
 		3581189, // Ditassa bifurcata	
 	);
+
+
 
 	// 
 	foreach ($species as $taxonKey)

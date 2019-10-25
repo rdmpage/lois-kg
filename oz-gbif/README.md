@@ -18,5 +18,14 @@ curl http://167.71.255.145:5984/oz-gbif/_design/ld/_list/triples/nt-flat > gbif.
 curl http://167.71.255.145:9999/blazegraph/sparql?context-uri=https://gbif.org -H 'Content-Type: text/rdf+n3' --data-binary '@gbif.nt'  --progress-bar | tee /dev/null
 ```
 
+## Examples
+
+### Types not labelled
+
+#### Barjonia laxa
+https://www.gbif.org/occurrence/1096785885
+https://www.gbif.org/occurrence/1096785870
+
+Both have typeStatus in raw but not parsed by GBIF
 
 

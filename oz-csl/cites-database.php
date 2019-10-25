@@ -114,10 +114,25 @@ if (1)
 	$guids=array(
 	"10.11646/phytotaxa.186.4.4"
 	);
+	
+	$guids=array(
+	'10.11646/phytotaxa.369.3.1',
+	'10.11646/phytotaxa.349.3.1',
+	'10.1186/s12862-017-0974-3'
+	);	
+	
+	$guids=array(
+//	'10.11646/phytotaxa.26.1.2',
+	'10.11646/phytotaxa.159.3.2',
+	);
+	
+	$guids=array(
+	'10.11646/phytotaxa.405.3.3'
+	);
 
 
 	$force = true;
-	$force = false;
+	//$force = false;
 	
 	foreach ($guids as $guid)
 	{

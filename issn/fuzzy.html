@@ -723,39 +723,39 @@ if (typeof module !== 'undefined' && module.exports) {
 ]
 	);
 	
-	function finger_print(s) {
-		s = s.toLowerCase();
+function finger_print(s) {
+	s = s.toLowerCase();
 
-		// stop words
-		// en
-		s = s.replace(/\bfor\b/g, '');
-		s = s.replace(/\band\b/g, '')
-		s = s.replace(/\bof\b/g, '');
-		s = s.replace(/\bthe\b/g, '');
-		s = s.replace(/\bin\b/g, '');
+	// stop words
+	// en
+	s = s.replace(/\bfor\b/g, '');
+	s = s.replace(/\band\b/g, '')
+	s = s.replace(/\bof\b/g, '');
+	s = s.replace(/\bthe\b/g, '');
+	s = s.replace(/\bin\b/g, '');
 
-		// fr
-		s = s.replace(/\bde\b/g, '');
-		s = s.replace(/\bla\b/g, '');
-		s = s.replace(/\bet\b/g, '');
+	// fr
+	s = s.replace(/\bde\b/g, '');
+	s = s.replace(/\bla\b/g, '');
+	s = s.replace(/\bet\b/g, '');
 
-		// de
-		s = s.replace(/\bdas\b/g, '');
-		s = s.replace(/\bder\b/g, '');
-		s = s.replace(/\bfur\b/g, '');
+	// de
+	s = s.replace(/\bdas\b/g, '');
+	s = s.replace(/\bder\b/g, '');
+	s = s.replace(/\bfur\b/g, '');
 
-		// numbers
-		s = s.replace(/\d+/g, '');
+	// numbers
+	s = s.replace(/\d+/g, '');
 
 
-		// white space
-		s = s.replace(/\s\s*/g, '');
+	// white space
+	s = s.replace(/\s\s*/g, '');
 
-		// punctuation
-		s = s.replace(/[\.|,|\'|\(|\)|"|:|-|&|-]+/g, '');
+	// punctuation
+	s = s.replace(/[\.|,|\'|\(|\)|"|:|-|&|-]+/g, '');
 
-		return s;
-	}
+	return s;
+}
 	
 	var q;
 	

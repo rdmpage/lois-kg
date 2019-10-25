@@ -1,9 +1,11 @@
 .DS_Store
 
+Keys.md
+
 vendor/
 
 manuscripts/examples
-oz-csl/csl.nt
-resolvers/ipni.nt
-oz-orcid/people.nt
-oz-orcid/orcid.nt
+oz-csl/*.nt
+oz-gbif/*.nt
+oz-orcid/*.nt
+resolvers/*.nt

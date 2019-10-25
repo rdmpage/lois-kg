@@ -19,7 +19,7 @@ curl http://167.71.255.145:5984/oz-orcid/_design/orcid/_list/triples/doi-orcid-n
 ### People
 
 ```
-curl http://167.71.255.145:5984/oz-orcid/_design/orcid/_list/triples/person > people.nt
+curl http://167.71.255.145:5984/oz-orcid/_design/orcid/_list/triples/person-nt > people.nt
 ```
 
 ## Upload triples
