@@ -53,7 +53,7 @@ curl http://167.71.255.145:9999/blazegraph/sparql?context-uri=http://indexfungor
 Catchall demo examples, e.g. linking names to publications, etc.
 
 ```
-SELECT CONCAT('<urn:lsid:ipni.org:names:', Id, '> <http://rs.tdwg.org/ontology/voc/Common#publishedInCitation> <https://doi.org/', doi, '> . ') 
+SELECT CONCAT('<urn:lsid:ipni.org:names:', Id, '> <http://rs.tdwg.org/ontology/voc/Common#publishedInCitation> <https://doi.org/', LOWER(doi), '> . ') 
 FROM names 
 WHERE doi IS NOT NULL;
 ```

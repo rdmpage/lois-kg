@@ -163,5 +163,10 @@ Can now show replacement names in both directions
 See http://localhost/~rpage/lois-kg/www/?uri=urn:lsid:ipni.org:names:15507-1
 
 
+## Examples to show/expore
+
+### Lots of authors with ORCIDs
+
+http://localhost/~rpage/lois-kg/www/?uri=https://doi.org/10.1002/fedr.201700018. (three authors all with ORCIDs)
 
 
