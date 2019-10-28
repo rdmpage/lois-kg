@@ -1,0 +1,47 @@
+<html>
+<body>
+
+<div id="input">
+</div>
+
+<pre id="output">
+</pre>
+
+<script>
+	var string = "Leeuwenberg, A.J.M. (1994) Taxa of the Apocynaceae above the genus level. Series of revisions of Apocynaceae. XXXVIII. Wageningen Agricultural University Papers 94: 45–60.";
+	
+	string = 'Raynal, J. 1968. Notes cypérologique: XV. LesHypolytrum “mapanioides” d\'Afrique Equatoriale. Adansonia, sér. 3, 8: 423–430.';
+	
+	string = 'Greene, C.W. 1984. Sexual and apomictic reproduction inCalamagrostis (Gramineae) from eastern North America. Amer. J. Bot.71: 285–293.';
+	
+	string = 'Haccius, B. 1950. Weitere Untersuchungen zum Verständnis der zerstreuten Blattstellungen bei den Dicotylen. Sitzungsber. Heidelb. Akad. Wiss. Math. -Naturw. Kl.6: 289–337';
+	
+	string = '— 1970.Archiclematis, a precursory genus ofClematis. Acta Phytotax. Geobot.24: 146–152 (in Japanese with English summary).';
+	
+	document.getElementById('input').innerHTML = string;
+	
+	
+	// special cases to improve parsing
+	//string = string.replace(/sér\./, 'sér');
+	
+	
+	var m = null;
+	
+	// title with multiple '.'
+	m = string.match(/(.*)\s+\(?([0-9]{4})\)?[\.]?\s+(([^\.]+)\.(\s+[^\.]+\.)*)\s+(.*)\s*(\d+):\s+(\d+)[-|–](\d+)\b/);
+	
+	// title with 1 '.'
+	m = string.match(/(.*)\s+\(?([0-9]{4})\)?[\.]?\s+([^\.]+)\.\s+(.*)\s*(\d+):\s+(\d+)[-|–](\d+)\b/);
+	
+	
+	
+	if (m) {
+		document.getElementById('output').innerHTML = JSON.stringify(m, null, 2);
+	}
+
+
+</script>
+
+
+</body>
+</html>
