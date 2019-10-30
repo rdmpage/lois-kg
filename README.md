@@ -59,6 +59,12 @@ WHERE doi IS NOT NULL;
 ```
 
 ```
+SELECT CONCAT('<urn:lsid:ipni.org:names:', Id, '> <http://rs.tdwg.org/ontology/voc/Common#publishedInCitation> <https://www.jstor.org/stable/', jstor, '> . ') 
+FROM names 
+WHERE jstor IS NOT NULL AND doi IS NULL;
+```
+
+```
 curl http://167.71.255.145:9999/blazegraph/sparql?context-uri=https://bionames.org -H 'Content-Type: text/rdf+n3' --data-binary '@glue.nt'  --progress-bar | tee /dev/null
 ```
 

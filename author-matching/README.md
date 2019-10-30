@@ -39,6 +39,53 @@ hasBhlLinks: false
 }
 ```
 
+## ORCID to IPNI author id
+
+```
+PREFIX schema: <http://schema.org/>
+PREFIX tn: <http://rs.tdwg.org/ontology/voc/TaxonName#>
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX dc: <http://purl.org/dc/elements/1.1/>
+PREFIX tcom: <http://rs.tdwg.org/ontology/voc/Common#>
+PREFIX tm: <http://rs.tdwg.org/ontology/voc/Team#>
+
+select *
+WHERE
+{
+  	# ORCID
+    VALUES ?orcid_iri { <https://orcid.org/0000-0002-5685-9338> }
+
+    # person
+    ?orcid_iri schema:name ?orcid_name .
+  
+  	# works linked to this ORCID 
+    BIND(REPLACE(STR(?orcid_iri), 'https://orcid.org/', '') AS ?orcid) .
+    ?person_identifier schema:value ?orcid .
+    ?person_identifier schema:propertyID "orcid" .
+    ?orcid_work_creator schema:identifier ?person_identifier .
+    ?orcid_work_creator_role schema:creator ?orcid_work_creator .
+    ?orcid_work_creator_role schema:roleName  ?orcid_work_creator_roleName  .
+    ?orcid_work schema:creator ?orcid_work_creator_role .
+  
+  	# taxonomic names 
+  	?ipni tcom:publishedInCitation ?orcid_work .
+  
+    # team
+	?ipni tn:authorteam ?ipni_team .
+    ?ipni_team tm:hasMember ?ipni_team_member .
+    ?ipni_team_member tm:role ?ipni_role .
+    ?ipni_team_member tm:index ?ipni_roleName .
+    ?ipni_team_member tm:member ?ipni_member .
+  
+  	# these queries require that we have authors in triplestore (may be misisng more recent ones)
+   	?ipni_member dc:title ?ipni_member_name .  
+    BIND(REPLACE(STR(?ipni_member), "urn:lsid:ipni.org:authors:", "", "i") AS ?ipni_author_id)  
+
+  	
+    FILTER (?ipni_roleName = ?orcid_work_creator_roleName)
+    FILTER (?ipni_role != 'Basionym Author')
+} 
+```
 
 ## IPNI name to publication plus ORCID profile (debug for one)
 

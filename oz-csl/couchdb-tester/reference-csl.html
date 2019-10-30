@@ -486,8 +486,15 @@ function to_csl(doc) {
 		csl.ISSN[doc.ISSN];
 	}
 	
+	// volume
+	if (doc.volume) {
+		csl.volume = doc.volume;
+	}
+	
 	// page
-	csl.page = doc['first-page'];
+	if (doc['first-page']) {
+		csl.page = doc['first-page'];
+	}
  	
  	// date
 	if (doc.year) {

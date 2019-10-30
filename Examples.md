@@ -169,4 +169,34 @@ See http://localhost/~rpage/lois-kg/www/?uri=urn:lsid:ipni.org:names:15507-1
 
 http://localhost/~rpage/lois-kg/www/?uri=https://doi.org/10.1002/fedr.201700018. (three authors all with ORCIDs)
 
+http://localhost/~rpage/lois-kg/www/?uri=https://doi.org/10.1007/s00606-018-1504-5  (three authors all with ORCIDs)
+
+### Interesting people
+
+Keooudone Souvannakhoummane 0000-0003-4875-8307 
+
+
+
+### Authors with empty ORCID profiles but ORCIDs in publications
+
+http://localhost/~rpage/lois-kg/www/?uri=https://orcid.org/0000-0002-0585-5513 Van Truong Do
+
+http://localhost/~rpage/lois-kg/www/?uri=https://orcid.org/0000-0002-8195-6738 Xiaofeng Jin
+
+http://localhost/~rpage/lois-kg/www/?uri=https://orcid.org/0000-0001-8464-8688 Lin Bai
+
+http://localhost/~rpage/lois-kg/www/?uri=https://orcid.org/0000-0001-9197-9805 Jia-chen Hao
+
+http://localhost/~rpage/lois-kg/www/?uri=https://orcid.org/0000-0001-8026-6631 Arjun Tiwari
+
+http://localhost/~rpage/lois-kg/www/?uri=https://orcid.org/0000-0002-5994-8117 Haidar Ali
+
+http://localhost/~rpage/lois-kg/www/?uri=https://orcid.org/0000-0001-9060-0891 Pu Zou
+
+https://orcid.org/0000-0002-6331-3456 Ian (WTF!)
+
+
+
+
+
 

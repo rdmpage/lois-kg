@@ -129,6 +129,12 @@ if (1)
 	$guids=array(
 	'10.11646/phytotaxa.405.3.3'
 	);
+	
+	$guids=array(
+	'10.1600/036364412x616639'
+	);
+	
+	$guids=array('10.11646/phytotaxa.376.6.2');
 
 
 	$force = true;

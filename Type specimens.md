@@ -24,3 +24,14 @@ http://localhost/~rpage/lois-kg/www/?uri=urn:lsid:ipni.org:names:77115370-1
 
 In GBIF at least twice (BOLD mined from GenBank and Mexican dataset), GenBank sequence FN645940 linked to publication (but no identifier).
 
+## Hollandaea diabolica A.J.Ford & P.H.Weston
+
+http://localhost/~rpage/lois-kg/www/?uri=urn:lsid:ipni.org:names:77124882-1
+
+B.Hyland 25914RFK
+
+B.Hyland 25914RFK, BRI (holo) https://www.gbif.org/occurrence/2418843057 (not labelled as type)
+B.Hyland 25914RFK, CNS (iso) https://www.gbif.org/occurrence/994070942 (not labelled)
+B.Hyland 25914RFK, NSW (iso) ?
+
+

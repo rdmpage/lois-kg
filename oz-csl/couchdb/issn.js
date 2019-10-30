@@ -1,6 +1,6 @@
 {
   "_id": "_design/issn",
-  "_rev": "14-f0142822d5fa55fa31bc5e708fa0cd1a",
+  "_rev": "1-e08ed682f8f656d50a6d71c63d638faa",
   "views": {
     "work-issn": {
       "map": "function (doc) {\n  if (doc['message-format']) {\n    if (doc['message-format'] == 'application/vnd.crossref-api-message+json') {\n\n\t    var csl = doc.message;\n\t  \n\t    if (csl['container-title']) {\n\t      var title = '';\n\t      if (Array.isArray(csl['container-title'])) {\n\t        title = csl['container-title'][0];\n\t      } else {\n\t        title = csl['container-title'];\n\t      }\n\t      \n\t      var issn = '';\n\t      \n\t      /*\n\"issn-type\": [\n      {\n        \"value\": \"0370-6583\",\n        \"type\": \"print\"\n      },\n      {\n        \"value\": \"2175-7860\",\n        \"type\": \"electronic\"\n      }\n    ]\n    */\n    \n        if (csl['issn-type']) {\n          for (var i in csl['issn-type']) {\n            if (csl['issn-type'][i].type == \"print\") {\n              issn = csl['issn-type'][i].value; \n            }\n            \n          }\n          \n        }\n\t      \n\t      if (issn == '') {\n\t        if (csl.ISSN) {\n\t          issn = csl.ISSN[0];\n\t        }\n\t      }\n\t      \n\t      if (issn != '') {\n\t        emit([title, issn], 1);\n\t        \n\t      }\n\t     \n\t    }\n    }\n  }\n}\n\n",

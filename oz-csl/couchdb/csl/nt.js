@@ -1503,6 +1503,13 @@ function message(doc) {
 			subject_id = 'https://hdl.handle.net/' + doc.message.HANDLE.toLowerCase();
 		}
 	}	
+	
+    if (subject_id == '')
+    {
+		if (doc.message.JSTOR) {    	
+			subject_id = 'https://www.jstor.org/stable/' + doc.message.JSTOR;
+		}
+	}		
 
     if (subject_id == '')
     {
@@ -2224,6 +2231,10 @@ function message(doc) {
                 if (doc.message[i][j].unstructured) {
                 	var text = doc.message[i][j].unstructured;
                 	text = text.replace(/\n/g, '');
+                	
+                	if (text.match(/^http/)) {
+                	  text = '"' + text + '"';
+                	}
 				  triples.push(triple(reference_id,
 					'http://schema.org/description',
 					text
@@ -2330,7 +2341,11 @@ function message(doc) {
 function (doc) {
   if (doc['message-format']) {
     if (doc['message-format'] == 'application/vnd.crossref-api-message+json') {
-      message(doc);
+      if (doc.message.stack) {
+        // CrossRef error
+      } else {
+        message(doc);
+      }
     }
   }
 }
