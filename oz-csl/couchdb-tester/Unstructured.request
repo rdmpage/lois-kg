@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>baseURL</key>
-	<string>http://167.71.255.145:5984/oz-orcid/_design/orcid/_view/doi-orcid-nt</string>
+	<string>http://167.71.255.145:5984/oz-csl/_design/references/_view/unstructured</string>
 	<key>followRedirect</key>
 	<true/>
 	<key>handleJSONPCallbacks</key>
@@ -17,24 +17,7 @@
 	<key>paramBodyUIChoice</key>
 	<integer>0</integer>
 	<key>parameters</key>
-	<array>
-		<dict>
-			<key>inUse</key>
-			<false/>
-			<key>parameter</key>
-			<string>key</string>
-			<key>value</key>
-			<string>"0000-0003-1559-4449/work/54920267"</string>
-		</dict>
-		<dict>
-			<key>inUse</key>
-			<true/>
-			<key>parameter</key>
-			<string>key</string>
-			<key>value</key>
-			<string>"0000-0003-2659-3396/work/24173157"</string>
-		</dict>
-	</array>
+	<array/>
 	<key>parametersType</key>
 	<integer>0</integer>
 	<key>presentBeforeChallenge</key>
