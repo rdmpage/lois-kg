@@ -1,0 +1,83 @@
+<http://experiment.worldcat.org/entity/work/data/2864131627#Topic/arboreta> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/2864131627#Topic/arboreta> <http://schema.org/name> "arboreta" .
+<http://experiment.worldcat.org/entity/work/data/2864131627#Topic/belgium> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/2864131627#Topic/belgium> <http://schema.org/name> "belgium" .
+<http://experiment.worldcat.org/entity/work/data/2864131627#Topic/systematiek_algemeen> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/2864131627#Topic/systematiek_algemeen> <http://schema.org/name> "Systematiek (algemeen)" .
+<http://worldcat.org/issn/1374-7886> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://worldcat.org/issn/1374-7886> <http://schema.org/name> "Systematics and geography of plants." .
+<http://worldcat.org/issn/1374-7886> <http://schema.org/issn> "1374-7886" .
+<http://worldcat.org/issn/1374-7886> <http://umbel.org/umbel#isLike> <http://worldcat.org/entity/work/id/2864131627> .
+<http://experiment.worldcat.org/entity/work/data/2864131627#Place/meise> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://experiment.worldcat.org/entity/work/data/2864131627#Place/meise> <http://schema.org/name> "Meise" .
+<http://experiment.worldcat.org/entity/work/data/2864131627#Agent/national_botanic_garden_of_belgium> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bibliograph.net/Agent> .
+<http://experiment.worldcat.org/entity/work/data/2864131627#Agent/national_botanic_garden_of_belgium> <http://schema.org/name> "National Botanic Garden of Belgium" .
+<http://experiment.worldcat.org/entity/work/data/2864131627#Topic/plantengeografie> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/2864131627#Topic/plantengeografie> <http://schema.org/name> "Plantengeografie" .
+<http://experiment.worldcat.org/entity/work/data/2864131627#Topic/botanische_tuinen> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/2864131627#Topic/botanische_tuinen> <http://schema.org/name> "botanische tuinen" .
+<http://experiment.worldcat.org/entity/work/data/2864131627#Topic/plantkunde> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/2864131627#Topic/plantkunde> <http://schema.org/name> "Plantkunde" .
+<http://experiment.worldcat.org/entity/work/data/2864131627#Topic/plantkunde> <http://schema.org/name> "plantkunde" .
+<http://experiment.worldcat.org/entity/work/data/2864131627#Topic/phytogeography> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/2864131627#Topic/phytogeography> <http://schema.org/name> "Phytogeography" .
+<http://www.worldcat.org/title/-/oclc/213362621> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#ContentTypeGenericResource> .
+<http://www.worldcat.org/title/-/oclc/213362621> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#InformationResource> .
+<http://www.worldcat.org/title/-/oclc/213362621> <http://schema.org/about> <http://www.worldcat.org/oclc/213362621> .
+<http://www.worldcat.org/title/-/oclc/213362621> <http://schema.org/dateModified> "2019-08-19" .
+<http://www.worldcat.org/title/-/oclc/213362621> <http://rdfs.org/ns/void#inDataset> <http://purl.oclc.org/dataset/WorldCat> .
+<http://www.worldcat.org/title/-/oclc/213362621#PublicationEvent/meise_national_botanic_garden_of_belgium_200> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PublicationEvent> .
+<http://www.worldcat.org/title/-/oclc/213362621#PublicationEvent/meise_national_botanic_garden_of_belgium_200> <http://schema.org/location> <http://experiment.worldcat.org/entity/work/data/2864131627#Place/meise> .
+<http://www.worldcat.org/title/-/oclc/213362621#PublicationEvent/meise_national_botanic_garden_of_belgium_200> <http://schema.org/organizer> <http://experiment.worldcat.org/entity/work/data/2864131627#Agent/national_botanic_garden_of_belgium> .
+<http://www.worldcat.org/title/-/oclc/213362621#PublicationEvent/meise_national_botanic_garden_of_belgium_200> <http://schema.org/startDate> "-" .
+<http://experiment.worldcat.org/entity/work/data/2864131627#Topic/plant_taxonomy> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/2864131627#Topic/plant_taxonomy> <http://schema.org/name> "Plant Taxonomy" .
+<http://experiment.worldcat.org/entity/work/data/2864131627#Topic/fytogeografie> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/2864131627#Topic/fytogeografie> <http://schema.org/name> "Fytogeografie" .
+<http://worldcat.org/entity/work/data/2864131627#CreativeWork/systematics_and_geography_of_plants> <http://schema.org/isSimilarTo> <http://www.worldcat.org/oclc/213362621> .
+<http://worldcat.org/entity/work/data/2864131627#CreativeWork/systematics_and_geography_of_plants> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://worldcat.org/entity/work/data/2864131627#CreativeWork/systematics_and_geography_of_plants> <http://www.w3.org/2000/01/rdf-schema#label> "Systematics and geography of plants" .
+<http://www.worldcat.org/oclc/213362621> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/MediaObject> .
+<http://www.worldcat.org/oclc/213362621> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/2864131627#Topic/arboreta> .
+<http://www.worldcat.org/oclc/213362621> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/2864131627#Topic/phytogeography> .
+<http://www.worldcat.org/oclc/213362621> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/2864131627#Topic/botanical_gardens> .
+<http://www.worldcat.org/oclc/213362621> <http://schema.org/publisher> <http://experiment.worldcat.org/entity/work/data/2864131627#Agent/national_botanic_garden_of_belgium> .
+<http://www.worldcat.org/oclc/213362621> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/2864131627#Topic/taxonomy> .
+<http://www.worldcat.org/oclc/213362621> <http://purl.org/library/placeOfPublication> <http://id.loc.gov/vocabulary/countries/be> .
+<http://www.worldcat.org/oclc/213362621> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/2864131627#Topic/belgium> .
+<http://www.worldcat.org/oclc/213362621> <http://schema.org/publication> <http://www.worldcat.org/title/-/oclc/213362621#PublicationEvent/meise_national_botanic_garden_of_belgium_200> .
+<http://www.worldcat.org/oclc/213362621> <http://purl.org/library/placeOfPublication> <http://experiment.worldcat.org/entity/work/data/2864131627#Place/meise> .
+<http://www.worldcat.org/oclc/213362621> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/2864131627#Topic/botany> .
+<http://www.worldcat.org/oclc/213362621> <http://www.w3.org/2007/05/powder-s#describedby> <http://www.worldcat.org/title/-/oclc/213362621> .
+<http://www.worldcat.org/oclc/213362621> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/2864131627#Topic/systematiek_algemeen> .
+<http://www.worldcat.org/oclc/213362621> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/2864131627#Topic/taxonomie> .
+<http://www.worldcat.org/oclc/213362621> <http://schema.org/workExample> <http://worldcat.org/issn/1374-7886> .
+<http://www.worldcat.org/oclc/213362621> <http://schema.org/url> <http://www.jstor.org/journals/13747886.html> .
+<http://www.worldcat.org/oclc/213362621> <http://schema.org/inLanguage> "en" .
+<http://www.worldcat.org/oclc/213362621> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://www.worldcat.org/oclc/213362621> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/2864131627#Topic/botanische_tuinen> .
+<http://www.worldcat.org/oclc/213362621> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/2864131627#Topic/plantentaxonomie> .
+<http://www.worldcat.org/oclc/213362621> <http://purl.org/library/oclcnum> "213362621" .
+<http://www.worldcat.org/oclc/213362621> <http://schema.org/exampleOfWork> <http://worldcat.org/entity/work/id/2864131627> .
+<http://www.worldcat.org/oclc/213362621> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/2864131627#Topic/fytogeografie> .
+<http://www.worldcat.org/oclc/213362621> <http://schema.org/name> "Systematics and geography of plants." .
+<http://www.worldcat.org/oclc/213362621> <http://schema.org/productID> "213362621" .
+<http://www.worldcat.org/oclc/213362621> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/2864131627#Topic/plant_taxonomy> .
+<http://www.worldcat.org/oclc/213362621> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://www.worldcat.org/oclc/213362621> <http://schema.org/isSimilarTo> <http://worldcat.org/entity/work/data/2864131627#CreativeWork/systematics_and_geography_of_plants> .
+<http://www.worldcat.org/oclc/213362621> <http://schema.org/datePublished> "200u/9999" .
+<http://www.worldcat.org/oclc/213362621> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/2864131627#Topic/plantkunde> .
+<http://www.worldcat.org/oclc/213362621> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/2864131627#Topic/plantengeografie> .
+<http://experiment.worldcat.org/entity/work/data/2864131627#Topic/taxonomie> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/2864131627#Topic/taxonomie> <http://schema.org/name> "taxonomie" .
+<http://id.loc.gov/vocabulary/countries/be> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://id.loc.gov/vocabulary/countries/be> <http://purl.org/dc/terms/identifier> "be" .
+<http://experiment.worldcat.org/entity/work/data/2864131627#Topic/botanical_gardens> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/2864131627#Topic/botanical_gardens> <http://schema.org/name> "botanical gardens" .
+<http://worldcat.org/entity/work/id/2864131627> <http://umbel.org/umbel#isLike> <http://worldcat.org/issn/1374-7886> .
+<http://experiment.worldcat.org/entity/work/data/2864131627#Topic/plantentaxonomie> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/2864131627#Topic/plantentaxonomie> <http://schema.org/name> "Plantentaxonomie" .
+<http://experiment.worldcat.org/entity/work/data/2864131627#Topic/botany> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/2864131627#Topic/botany> <http://schema.org/name> "botany" .
+<http://experiment.worldcat.org/entity/work/data/2864131627#Topic/taxonomy> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/2864131627#Topic/taxonomy> <http://schema.org/name> "taxonomy" .

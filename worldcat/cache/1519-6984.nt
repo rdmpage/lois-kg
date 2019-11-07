@@ -1,0 +1,64 @@
+<http://experiment.worldcat.org/entity/work/data/500376974#Thing/medecine> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> .
+<http://experiment.worldcat.org/entity/work/data/500376974#Thing/medecine> <http://schema.org/name> "MÉDECINE" .
+<http://sfx.ethz.ch/sfx_locater?sid=ALEPH:EBI01&genre=journal&issn=1519-6984> <http://www.w3.org/2000/01/rdf-schema#comment> "Online via SFX" .
+<http://experiment.worldcat.org/entity/work/data/500376974#Thing/biologie> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> .
+<http://experiment.worldcat.org/entity/work/data/500376974#Thing/biologie> <http://schema.org/name> "BIOLOGIE" .
+<http://www.worldcat.org/title/-/oclc/637425813#PublicationEvent/rio_de_janeiro_instituto_internacional_de_ecologia> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PublicationEvent> .
+<http://www.worldcat.org/title/-/oclc/637425813#PublicationEvent/rio_de_janeiro_instituto_internacional_de_ecologia> <http://schema.org/location> <http://experiment.worldcat.org/entity/work/data/500376974#Place/rio_de_janeiro> .
+<http://www.worldcat.org/title/-/oclc/637425813#PublicationEvent/rio_de_janeiro_instituto_internacional_de_ecologia> <http://schema.org/organizer> <http://experiment.worldcat.org/entity/work/data/500376974#Agent/instituto_internacional_de_ecologia> .
+<http://experiment.worldcat.org/entity/work/data/500376974#Thing/biology> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> .
+<http://experiment.worldcat.org/entity/work/data/500376974#Thing/biology> <http://schema.org/name> "BIOLOGY" .
+<http://viaf.org/viaf/142517184> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+<http://viaf.org/viaf/142517184> <http://schema.org/name> "Academia Brasileira de Ciências (Rio de Janeiro)" .
+<http://experiment.worldcat.org/entity/work/data/500376974#Thing/periodiques_electroniques_+_series_electroniques_types_des_documents> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> .
+<http://experiment.worldcat.org/entity/work/data/500376974#Thing/periodiques_electroniques_+_series_electroniques_types_des_documents> <http://schema.org/name> "PÉRIODIQUES ÉLECTRONIQUES + SÉRIES ÉLECTRONIQUES (TYPES DES DOCUMENTS)" .
+<http://experiment.worldcat.org/entity/work/data/500376974#Thing/medizin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> .
+<http://experiment.worldcat.org/entity/work/data/500376974#Thing/medizin> <http://schema.org/name> "MEDIZIN" .
+<http://id.loc.gov/vocabulary/countries/bl> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://id.loc.gov/vocabulary/countries/bl> <http://purl.org/dc/terms/identifier> "bl" .
+<http://worldcat.org/entity/work/id/500376974> <http://umbel.org/umbel#isLike> <http://worldcat.org/issn/1519-6984> .
+<http://www.worldcat.org/title/-/oclc/637425813> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#ContentTypeGenericResource> .
+<http://www.worldcat.org/title/-/oclc/637425813> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#InformationResource> .
+<http://www.worldcat.org/title/-/oclc/637425813> <http://schema.org/about> <http://www.worldcat.org/oclc/637425813> .
+<http://www.worldcat.org/title/-/oclc/637425813> <http://schema.org/dateModified> "2018-11-08" .
+<http://www.worldcat.org/title/-/oclc/637425813> <http://rdfs.org/ns/void#inDataset> <http://purl.oclc.org/dataset/WorldCat> .
+<http://experiment.worldcat.org/entity/work/data/500376974#Place/rio_de_janeiro> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://experiment.worldcat.org/entity/work/data/500376974#Place/rio_de_janeiro> <http://schema.org/name> "Rio de Janeiro" .
+<http://viaf.org/viaf/1669145857051222921336> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+<http://viaf.org/viaf/1669145857051222921336> <http://schema.org/name> "Sociedade de Biologia (Brasil)" .
+<http://experiment.worldcat.org/entity/work/data/500376974#Agent/instituto_internacional_de_ecologia> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bibliograph.net/Agent> .
+<http://experiment.worldcat.org/entity/work/data/500376974#Agent/instituto_internacional_de_ecologia> <http://schema.org/name> "Instituto Internacional de Ecologia." .
+<http://experiment.worldcat.org/entity/work/data/500376974#Thing/medicine> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> .
+<http://experiment.worldcat.org/entity/work/data/500376974#Thing/medicine> <http://schema.org/name> "MEDICINE" .
+<http://www.worldcat.org/oclc/637425813> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://www.worldcat.org/oclc/637425813> <http://schema.org/productID> "637425813" .
+<http://www.worldcat.org/oclc/637425813> <http://purl.org/library/placeOfPublication> <http://id.loc.gov/vocabulary/countries/bl> .
+<http://www.worldcat.org/oclc/637425813> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/500376974#Thing/biologie> .
+<http://www.worldcat.org/oclc/637425813> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/500376974#Thing/medizin> .
+<http://www.worldcat.org/oclc/637425813> <http://schema.org/contributor> <http://viaf.org/viaf/142517184> .
+<http://www.worldcat.org/oclc/637425813> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/500376974#Thing/elektronische_zeitschriften_+_elektronische_schriftenreihen_dokumententyp> .
+<http://www.worldcat.org/oclc/637425813> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/500376974#Thing/periodiques_electroniques_+_series_electroniques_types_des_documents> .
+<http://www.worldcat.org/oclc/637425813> <http://schema.org/url> <http://sfx.ethz.ch/sfx_locater?sid=ALEPH:EBI01&genre=journal&issn=1519-6984> .
+<http://www.worldcat.org/oclc/637425813> <http://purl.org/library/oclcnum> "637425813" .
+<http://www.worldcat.org/oclc/637425813> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/500376974#Thing/biology> .
+<http://www.worldcat.org/oclc/637425813> <http://schema.org/publisher> <http://experiment.worldcat.org/entity/work/data/500376974#Agent/instituto_internacional_de_ecologia> .
+<http://www.worldcat.org/oclc/637425813> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://www.worldcat.org/oclc/637425813> <http://purl.org/library/placeOfPublication> <http://experiment.worldcat.org/entity/work/data/500376974#Place/rio_de_janeiro> .
+<http://www.worldcat.org/oclc/637425813> <http://schema.org/inLanguage> "en" .
+<http://www.worldcat.org/oclc/637425813> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/500376974#Thing/medecine> .
+<http://www.worldcat.org/oclc/637425813> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/500376974#Thing/electronic_journals_+_online_serials_document_types> .
+<http://www.worldcat.org/oclc/637425813> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/500376974#Thing/medicine> .
+<http://www.worldcat.org/oclc/637425813> <http://www.w3.org/2007/05/powder-s#describedby> <http://www.worldcat.org/title/-/oclc/637425813> .
+<http://www.worldcat.org/oclc/637425813> <http://schema.org/contributor> <http://viaf.org/viaf/1669145857051222921336> .
+<http://www.worldcat.org/oclc/637425813> <http://schema.org/name> "Brazilian journal of biology : the international journal on neotropical biology = Revista brasileira de biologia" .
+<http://www.worldcat.org/oclc/637425813> <http://schema.org/workExample> <http://worldcat.org/issn/1519-6984> .
+<http://www.worldcat.org/oclc/637425813> <http://schema.org/publication> <http://www.worldcat.org/title/-/oclc/637425813#PublicationEvent/rio_de_janeiro_instituto_internacional_de_ecologia> .
+<http://www.worldcat.org/oclc/637425813> <http://schema.org/exampleOfWork> <http://worldcat.org/entity/work/id/500376974> .
+<http://experiment.worldcat.org/entity/work/data/500376974#Thing/elektronische_zeitschriften_+_elektronische_schriftenreihen_dokumententyp> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> .
+<http://experiment.worldcat.org/entity/work/data/500376974#Thing/elektronische_zeitschriften_+_elektronische_schriftenreihen_dokumententyp> <http://schema.org/name> "ELEKTRONISCHE ZEITSCHRIFTEN + ELEKTRONISCHE SCHRIFTENREIHEN (DOKUMENTENTYP)" .
+<http://worldcat.org/issn/1519-6984> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://worldcat.org/issn/1519-6984> <http://schema.org/name> "Brazilian journal of biology : the international journal on neotropical biology = Revista brasileira de biologia" .
+<http://worldcat.org/issn/1519-6984> <http://schema.org/issn> "1519-6984" .
+<http://worldcat.org/issn/1519-6984> <http://umbel.org/umbel#isLike> <http://worldcat.org/entity/work/id/500376974> .
+<http://experiment.worldcat.org/entity/work/data/500376974#Thing/electronic_journals_+_online_serials_document_types> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> .
+<http://experiment.worldcat.org/entity/work/data/500376974#Thing/electronic_journals_+_online_serials_document_types> <http://schema.org/name> "ELECTRONIC JOURNALS + ONLINE SERIALS (DOCUMENT TYPES)" .

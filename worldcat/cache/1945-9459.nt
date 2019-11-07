@@ -1,0 +1,46 @@
+<http://dewey.info/class/506/a14/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/1909491816#Agent/john_wiley_&_sons> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bibliograph.net/Agent> .
+<http://experiment.worldcat.org/entity/work/data/1909491816#Agent/john_wiley_&_sons> <http://schema.org/name> "John Wiley & Sons." .
+<http://www.worldcat.org/oclc/1604630> <http://schema.org/isSimilarTo> <http://www.worldcat.org/oclc/317594111> .
+<http://www.worldcat.org/oclc/1604630> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://www.worldcat.org/oclc/1604630> <http://www.w3.org/2000/01/rdf-schema#label> "Transactions of the Linnean Society of London. Botany" .
+<http://www.worldcat.org/oclc/1604630> <http://schema.org/description> "Print version: Linnean Society of London." .
+<http://www.worldcat.org/oclc/317594111> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://www.worldcat.org/oclc/317594111> <http://purl.org/library/oclcnum> "317594111" .
+<http://www.worldcat.org/oclc/317594111> <http://schema.org/url> <http://mclink.library.mcgill.ca/sfx?url_ver=Z39.88-2004&ctx_ver=Z39.88-2004&ctx_enc=info:ofi/enc:UTF-8&rfr_id=info:sid/sfxit.com:opac_856&url_ctx_fmt=info:ofi/fmt:kev:mtx:ctx&sfx.ignore_date_threshold=1&rft.object_id=1000000000529209&svc_val_fmt=info:ofi/fmt:kev:mtx:sch_svc&> .
+<http://www.worldcat.org/oclc/317594111> <http://schema.org/workExample> <http://worldcat.org/issn/1945-9459> .
+<http://www.worldcat.org/oclc/317594111> <http://schema.org/inLanguage> "en" .
+<http://www.worldcat.org/oclc/317594111> <http://schema.org/exampleOfWork> <http://worldcat.org/entity/work/id/1909491816> .
+<http://www.worldcat.org/oclc/317594111> <http://schema.org/publisher> <http://experiment.worldcat.org/entity/work/data/1909491816#Agent/john_wiley_&_sons> .
+<http://www.worldcat.org/oclc/317594111> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/MediaObject> .
+<http://www.worldcat.org/oclc/317594111> <http://schema.org/productID> "317594111" .
+<http://www.worldcat.org/oclc/317594111> <http://schema.org/publication> <http://www.worldcat.org/title/-/oclc/317594111#PublicationEvent/hoboken_nj_john_wiley_&_sons> .
+<http://www.worldcat.org/oclc/317594111> <http://www.w3.org/2007/05/powder-s#describedby> <http://www.worldcat.org/title/-/oclc/317594111> .
+<http://www.worldcat.org/oclc/317594111> <http://purl.org/library/placeOfPublication> <http://id.loc.gov/vocabulary/countries/nju> .
+<http://www.worldcat.org/oclc/317594111> <http://schema.org/about> <http://dewey.info/class/506/a14/> .
+<http://www.worldcat.org/oclc/317594111> <http://schema.org/contributor> <http://viaf.org/viaf/148721817> .
+<http://www.worldcat.org/oclc/317594111> <http://schema.org/datePublished> "2009/9999" .
+<http://www.worldcat.org/oclc/317594111> <http://schema.org/name> "Transactions of the Linnean Society of London. Botany."@en .
+<http://www.worldcat.org/oclc/317594111> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://www.worldcat.org/oclc/317594111> <http://schema.org/isSimilarTo> <http://www.worldcat.org/oclc/1604630> .
+<http://www.worldcat.org/oclc/317594111> <http://purl.org/library/placeOfPublication> <http://experiment.worldcat.org/entity/work/data/1909491816#Place/hoboken_nj> .
+<http://www.worldcat.org/oclc/317594111> <http://schema.org/alternateName> "Transaxtions of the Linnean Society of London." .
+<http://www.worldcat.org/title/-/oclc/317594111#PublicationEvent/hoboken_nj_john_wiley_&_sons> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PublicationEvent> .
+<http://www.worldcat.org/title/-/oclc/317594111#PublicationEvent/hoboken_nj_john_wiley_&_sons> <http://schema.org/location> <http://experiment.worldcat.org/entity/work/data/1909491816#Place/hoboken_nj> .
+<http://www.worldcat.org/title/-/oclc/317594111#PublicationEvent/hoboken_nj_john_wiley_&_sons> <http://schema.org/organizer> <http://experiment.worldcat.org/entity/work/data/1909491816#Agent/john_wiley_&_sons> .
+<http://worldcat.org/entity/work/id/1909491816> <http://umbel.org/umbel#isLike> <http://worldcat.org/issn/1945-9459> .
+<http://id.loc.gov/vocabulary/countries/nju> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://id.loc.gov/vocabulary/countries/nju> <http://purl.org/dc/terms/identifier> "nju" .
+<http://www.worldcat.org/title/-/oclc/317594111> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#ContentTypeGenericResource> .
+<http://www.worldcat.org/title/-/oclc/317594111> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#InformationResource> .
+<http://www.worldcat.org/title/-/oclc/317594111> <http://schema.org/about> <http://www.worldcat.org/oclc/317594111> .
+<http://www.worldcat.org/title/-/oclc/317594111> <http://schema.org/dateModified> "2019-08-25" .
+<http://www.worldcat.org/title/-/oclc/317594111> <http://rdfs.org/ns/void#inDataset> <http://purl.oclc.org/dataset/WorldCat> .
+<http://viaf.org/viaf/148721817> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+<http://viaf.org/viaf/148721817> <http://schema.org/name> "Linnean Society of London." .
+<http://worldcat.org/issn/1945-9459> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://worldcat.org/issn/1945-9459> <http://schema.org/name> "Transactions of the Linnean Society of London. Botany."@en .
+<http://worldcat.org/issn/1945-9459> <http://schema.org/issn> "1945-9459" .
+<http://worldcat.org/issn/1945-9459> <http://umbel.org/umbel#isLike> <http://worldcat.org/entity/work/id/1909491816> .
+<http://experiment.worldcat.org/entity/work/data/1909491816#Place/hoboken_nj> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://experiment.worldcat.org/entity/work/data/1909491816#Place/hoboken_nj> <http://schema.org/name> "Hoboken, NJ" .

@@ -1,0 +1,46 @@
+<http://experiment.worldcat.org/entity/work/data/9616459874#Topic/natural_history_southwest_new> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/9616459874#Topic/natural_history_southwest_new> <http://schema.org/name> "Natural history--Southwest, New"@en .
+<http://id.loc.gov/vocabulary/countries/txu> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://id.loc.gov/vocabulary/countries/txu> <http://purl.org/dc/terms/identifier> "txu" .
+<http://www.worldcat.org/title/-/oclc/1126254787> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#ContentTypeGenericResource> .
+<http://www.worldcat.org/title/-/oclc/1126254787> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#InformationResource> .
+<http://www.worldcat.org/title/-/oclc/1126254787> <http://schema.org/about> <http://www.worldcat.org/oclc/1126254787> .
+<http://www.worldcat.org/title/-/oclc/1126254787> <http://schema.org/dateModified> "2019-11-03" .
+<http://www.worldcat.org/title/-/oclc/1126254787> <http://rdfs.org/ns/void#inDataset> <http://purl.oclc.org/dataset/WorldCat> .
+<http://experiment.worldcat.org/entity/work/data/9616459874#Place/lubbock_tx_etc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://experiment.worldcat.org/entity/work/data/9616459874#Place/lubbock_tx_etc> <http://schema.org/name> "Lubbock, TX, etc." .
+<http://www.worldcat.org/oclc/1606304> <http://schema.org/isSimilarTo> <http://www.worldcat.org/oclc/1126254787> .
+<http://www.worldcat.org/oclc/1606304> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://www.worldcat.org/title/-/oclc/1126254787#PublicationEvent/lubbock_tx_etc_southwestern_association_of_naturalists> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PublicationEvent> .
+<http://www.worldcat.org/title/-/oclc/1126254787#PublicationEvent/lubbock_tx_etc_southwestern_association_of_naturalists> <http://schema.org/location> <http://experiment.worldcat.org/entity/work/data/9616459874#Place/lubbock_tx_etc> .
+<http://www.worldcat.org/title/-/oclc/1126254787#PublicationEvent/lubbock_tx_etc_southwestern_association_of_naturalists> <http://schema.org/organizer> <http://experiment.worldcat.org/entity/work/data/9616459874#Agent/southwestern_association_of_naturalists> .
+<http://experiment.worldcat.org/entity/work/data/9616459874#Topic/natural_history> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/9616459874#Topic/natural_history> <http://schema.org/name> "Natural history"@en .
+<http://experiment.worldcat.org/entity/work/data/9616459874#Place/new_southwest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://experiment.worldcat.org/entity/work/data/9616459874#Place/new_southwest> <http://schema.org/name> "New Southwest." .
+<http://experiment.worldcat.org/entity/work/data/9616459874#Organization/southwestern_association_of_naturalists> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+<http://experiment.worldcat.org/entity/work/data/9616459874#Organization/southwestern_association_of_naturalists> <http://schema.org/name> "Southwestern Association of Naturalists." .
+<http://experiment.worldcat.org/entity/work/data/9616459874#Agent/southwestern_association_of_naturalists> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bibliograph.net/Agent> .
+<http://experiment.worldcat.org/entity/work/data/9616459874#Agent/southwestern_association_of_naturalists> <http://schema.org/name> "[Southwestern Association of Naturalists" .
+<http://www.worldcat.org/oclc/1126254787> <http://www.w3.org/2007/05/powder-s#describedby> <http://www.worldcat.org/title/-/oclc/1126254787> .
+<http://www.worldcat.org/oclc/1126254787> <http://schema.org/name> "The Southwestern naturalist."@en .
+<http://www.worldcat.org/oclc/1126254787> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/9616459874#Topic/natural_history> .
+<http://www.worldcat.org/oclc/1126254787> <http://purl.org/library/placeOfPublication> <http://id.loc.gov/vocabulary/countries/txu> .
+<http://www.worldcat.org/oclc/1126254787> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/MediaObject> .
+<http://www.worldcat.org/oclc/1126254787> <http://schema.org/genre> "Computer network resources"@en .
+<http://www.worldcat.org/oclc/1126254787> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/9616459874#Topic/natural_history_southwest_new> .
+<http://www.worldcat.org/oclc/1126254787> <http://schema.org/inLanguage> "en" .
+<http://www.worldcat.org/oclc/1126254787> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://www.worldcat.org/oclc/1126254787> <http://schema.org/productID> "1126254787" .
+<http://www.worldcat.org/oclc/1126254787> <http://schema.org/isSimilarTo> <http://www.worldcat.org/oclc/1606304> .
+<http://www.worldcat.org/oclc/1126254787> <http://purl.org/library/oclcnum> "1126254787" .
+<http://www.worldcat.org/oclc/1126254787> <http://schema.org/url> <http://catalog.hathitrust.org/api/volumes/oclc/1606304.html> .
+<http://www.worldcat.org/oclc/1126254787> <http://schema.org/genre> "Periodicals"@en .
+<http://www.worldcat.org/oclc/1126254787> <http://schema.org/contributor> <http://experiment.worldcat.org/entity/work/data/9616459874#Organization/southwestern_association_of_naturalists> .
+<http://www.worldcat.org/oclc/1126254787> <http://schema.org/publisher> <http://experiment.worldcat.org/entity/work/data/9616459874#Agent/southwestern_association_of_naturalists> .
+<http://www.worldcat.org/oclc/1126254787> <http://schema.org/publication> <http://www.worldcat.org/title/-/oclc/1126254787#PublicationEvent/lubbock_tx_etc_southwestern_association_of_naturalists> .
+<http://www.worldcat.org/oclc/1126254787> <http://schema.org/exampleOfWork> <http://worldcat.org/entity/work/id/9616459874> .
+<http://www.worldcat.org/oclc/1126254787> <http://schema.org/datePublished> "1956/9999" .
+<http://www.worldcat.org/oclc/1126254787> <http://purl.org/library/placeOfPublication> <http://experiment.worldcat.org/entity/work/data/9616459874#Place/lubbock_tx_etc> .
+<http://www.worldcat.org/oclc/1126254787> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/9616459874#Place/new_southwest> .
+<http://www.worldcat.org/oclc/1126254787> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .

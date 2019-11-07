@@ -1,0 +1,48 @@
+<http://www.worldcat.org/title/-/oclc/804802352#PublicationEvent/amsterdam_elsevier_science_2000> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PublicationEvent> .
+<http://www.worldcat.org/title/-/oclc/804802352#PublicationEvent/amsterdam_elsevier_science_2000> <http://schema.org/location> <http://experiment.worldcat.org/entity/work/data/5620359055#Place/amsterdam> .
+<http://www.worldcat.org/title/-/oclc/804802352#PublicationEvent/amsterdam_elsevier_science_2000> <http://schema.org/organizer> <http://experiment.worldcat.org/entity/work/data/5620359055#Agent/elsevier_science> .
+<http://www.worldcat.org/title/-/oclc/804802352#PublicationEvent/amsterdam_elsevier_science_2000> <http://schema.org/startDate> "2000-" .
+<http://experiment.worldcat.org/entity/work/data/5620359055#Topic/micologia_revistes> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/5620359055#Topic/micologia_revistes> <http://schema.org/name> "Micologia--Revistes" .
+<http://experiment.worldcat.org/entity/work/data/5620359055#CreativeWork/sciencedirect_e_journals> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://experiment.worldcat.org/entity/work/data/5620359055#CreativeWork/sciencedirect_e_journals> <http://schema.org/name> "ScienceDirect e-journals." .
+<http://experiment.worldcat.org/entity/work/data/5620359055#Agent/elsevier_science> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bibliograph.net/Agent> .
+<http://experiment.worldcat.org/entity/work/data/5620359055#Agent/elsevier_science> <http://schema.org/name> "Elsevier Science" .
+<http://experiment.worldcat.org/entity/work/data/5620359055#Topic/fongs> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/5620359055#Topic/fongs> <http://schema.org/name> "Fongs" .
+<http://www.worldcat.org/oclc/804802352> <http://schema.org/inLanguage> "en" .
+<http://www.worldcat.org/oclc/804802352> <http://schema.org/datePublished> "2000/9999" .
+<http://www.worldcat.org/oclc/804802352> <http://schema.org/genre> "Revistes electròniques" .
+<http://www.worldcat.org/oclc/804802352> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/5620359055#Topic/fongs_revistes> .
+<http://www.worldcat.org/oclc/804802352> <http://schema.org/name> "Field mycology" .
+<http://www.worldcat.org/oclc/804802352> <http://schema.org/productID> "804802352" .
+<http://www.worldcat.org/oclc/804802352> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/MediaObject> .
+<http://www.worldcat.org/oclc/804802352> <http://purl.org/library/oclcnum> "804802352" .
+<http://www.worldcat.org/oclc/804802352> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://www.worldcat.org/oclc/804802352> <http://schema.org/publication> <http://www.worldcat.org/title/-/oclc/804802352#PublicationEvent/amsterdam_elsevier_science_2000> .
+<http://www.worldcat.org/oclc/804802352> <http://schema.org/exampleOfWork> <http://worldcat.org/entity/work/id/5620359055> .
+<http://www.worldcat.org/oclc/804802352> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/5620359055#Topic/fongs> .
+<http://www.worldcat.org/oclc/804802352> <http://schema.org/publisher> <http://experiment.worldcat.org/entity/work/data/5620359055#Agent/elsevier_science> .
+<http://www.worldcat.org/oclc/804802352> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/5620359055#Topic/micologia> .
+<http://www.worldcat.org/oclc/804802352> <http://purl.org/library/placeOfPublication> <http://id.loc.gov/vocabulary/countries/ne> .
+<http://www.worldcat.org/oclc/804802352> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://www.worldcat.org/oclc/804802352> <http://schema.org/datePublished> "2000/" .
+<http://www.worldcat.org/oclc/804802352> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/5620359055#Topic/micologia_revistes> .
+<http://www.worldcat.org/oclc/804802352> <http://purl.org/library/placeOfPublication> <http://experiment.worldcat.org/entity/work/data/5620359055#Place/amsterdam> .
+<http://www.worldcat.org/oclc/804802352> <http://schema.org/url> <http://www.sciencedirect.com/science/journal/14681641> .
+<http://www.worldcat.org/oclc/804802352> <http://www.w3.org/2007/05/powder-s#describedby> <http://www.worldcat.org/title/-/oclc/804802352> .
+<http://www.worldcat.org/oclc/804802352> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://experiment.worldcat.org/entity/work/data/5620359055#CreativeWork/sciencedirect_e_journals> .
+<http://experiment.worldcat.org/entity/work/data/5620359055#Topic/fongs_revistes> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/5620359055#Topic/fongs_revistes> <http://schema.org/name> "Fongs--Revistes" .
+<http://id.loc.gov/vocabulary/countries/ne> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://id.loc.gov/vocabulary/countries/ne> <http://purl.org/dc/terms/identifier> "ne" .
+<http://www.worldcat.org/title/-/oclc/804802352> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#ContentTypeGenericResource> .
+<http://www.worldcat.org/title/-/oclc/804802352> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#InformationResource> .
+<http://www.worldcat.org/title/-/oclc/804802352> <http://schema.org/about> <http://www.worldcat.org/oclc/804802352> .
+<http://www.worldcat.org/title/-/oclc/804802352> <http://schema.org/dateModified> "2019-08-31" .
+<http://www.worldcat.org/title/-/oclc/804802352> <http://rdfs.org/ns/void#inDataset> <http://purl.oclc.org/dataset/WorldCat> .
+<http://experiment.worldcat.org/entity/work/data/5620359055#Place/amsterdam> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://experiment.worldcat.org/entity/work/data/5620359055#Place/amsterdam> <http://schema.org/name> "Amsterdam" .
+<http://experiment.worldcat.org/entity/work/data/5620359055#Topic/micologia> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/5620359055#Topic/micologia> <http://schema.org/name> "Micologia" .
+<http://www.sciencedirect.com/science/journal/14681641> <http://www.w3.org/2000/01/rdf-schema#comment> "Accés restringit als usuaris de la UB, UAB, UPF, UPC, UdG, UdL, URV, UOC, BC, UJI i UVIC" .

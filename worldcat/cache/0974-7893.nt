@@ -1,0 +1,30 @@
+<http://worldcat.org/issn/0974-7907> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://worldcat.org/issn/0974-7907> <http://schema.org/name> "Journal of Threatened Taxa" .
+<http://worldcat.org/issn/0974-7907> <http://schema.org/issn> "0974-7907" .
+<http://worldcat.org/issn/0974-7907> <http://umbel.org/umbel#isLike> <http://worldcat.org/entity/work/id/375581690> .
+<http://experiment.worldcat.org/entity/work/data/375581690#Topic/life_sciences_biology> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/375581690#Topic/life_sciences_biology> <http://schema.org/name> "Life Sciences--Biology" .
+<http://worldcat.org/entity/work/id/375581690> <http://umbel.org/umbel#isLike> <http://worldcat.org/issn/0974-7907> .
+<http://id.loc.gov/vocabulary/countries/ii> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://id.loc.gov/vocabulary/countries/ii> <http://purl.org/dc/terms/identifier> "ii" .
+<http://www.worldcat.org/title/-/oclc/1076661364> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#ContentTypeGenericResource> .
+<http://www.worldcat.org/title/-/oclc/1076661364> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#InformationResource> .
+<http://www.worldcat.org/title/-/oclc/1076661364> <http://schema.org/about> <http://www.worldcat.org/oclc/1076661364> .
+<http://www.worldcat.org/title/-/oclc/1076661364> <http://schema.org/dateModified> "2019-02-15" .
+<http://www.worldcat.org/title/-/oclc/1076661364> <http://rdfs.org/ns/void#inDataset> <http://purl.oclc.org/dataset/WorldCat> .
+<http://worldcat.org/entity/work/data/375581690#CreativeWork/journal_of_threatened_taxa_print> <http://schema.org/isSimilarTo> <http://www.worldcat.org/oclc/1076661364> .
+<http://worldcat.org/entity/work/data/375581690#CreativeWork/journal_of_threatened_taxa_print> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://worldcat.org/entity/work/data/375581690#CreativeWork/journal_of_threatened_taxa_print> <http://www.w3.org/2000/01/rdf-schema#label> "Journal of Threatened Taxa (Print)" .
+<http://www.worldcat.org/oclc/1076661364> <http://schema.org/exampleOfWork> <http://worldcat.org/entity/work/id/375581690> .
+<http://www.worldcat.org/oclc/1076661364> <http://purl.org/library/placeOfPublication> <http://id.loc.gov/vocabulary/countries/ii> .
+<http://www.worldcat.org/oclc/1076661364> <http://schema.org/inLanguage> "en" .
+<http://www.worldcat.org/oclc/1076661364> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://www.worldcat.org/oclc/1076661364> <http://www.w3.org/2007/05/powder-s#describedby> <http://www.worldcat.org/title/-/oclc/1076661364> .
+<http://www.worldcat.org/oclc/1076661364> <http://schema.org/productID> "1076661364" .
+<http://www.worldcat.org/oclc/1076661364> <http://schema.org/datePublished> "2009/9999" .
+<http://www.worldcat.org/oclc/1076661364> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://www.worldcat.org/oclc/1076661364> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/375581690#Topic/life_sciences_biology> .
+<http://www.worldcat.org/oclc/1076661364> <http://purl.org/library/oclcnum> "1076661364" .
+<http://www.worldcat.org/oclc/1076661364> <http://schema.org/workExample> <http://worldcat.org/issn/0974-7907> .
+<http://www.worldcat.org/oclc/1076661364> <http://schema.org/isSimilarTo> <http://worldcat.org/entity/work/data/375581690#CreativeWork/journal_of_threatened_taxa_print> .
+<http://www.worldcat.org/oclc/1076661364> <http://schema.org/name> "Journal of Threatened Taxa" .

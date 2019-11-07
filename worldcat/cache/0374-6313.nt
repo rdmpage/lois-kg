@@ -1,0 +1,40 @@
+<http://www.worldcat.org/title/-/oclc/855370664#PublicationEvent/bruxellesministere_de_l_agriculture> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PublicationEvent> .
+<http://www.worldcat.org/title/-/oclc/855370664#PublicationEvent/bruxellesministere_de_l_agriculture> <http://schema.org/location> <http://experiment.worldcat.org/entity/work/data/5218442236#Place/bruxelles> .
+<http://www.worldcat.org/title/-/oclc/855370664#PublicationEvent/bruxellesministere_de_l_agriculture> <http://schema.org/organizer> <http://experiment.worldcat.org/entity/work/data/5218442236#Agent/ministere_de_l_agriculture> .
+<http://experiment.worldcat.org/entity/work/data/5218442236#Place/bruxelles> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://experiment.worldcat.org/entity/work/data/5218442236#Place/bruxelles> <http://schema.org/name> "Bruxelles" .
+<http://experiment.worldcat.org/entity/work/data/5218442236#CreativeWork/bulletin_du_jardin_botanique_de_l_etat_a_bruxelles_online> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://experiment.worldcat.org/entity/work/data/5218442236#CreativeWork/bulletin_du_jardin_botanique_de_l_etat_a_bruxelles_online> <http://schema.org/name> "Bulletin du Jardin botanique de l'Etat à Bruxelles (Online)" .
+<http://www.worldcat.org/title/-/oclc/855370664> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#ContentTypeGenericResource> .
+<http://www.worldcat.org/title/-/oclc/855370664> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#InformationResource> .
+<http://www.worldcat.org/title/-/oclc/855370664> <http://schema.org/about> <http://www.worldcat.org/oclc/855370664> .
+<http://www.worldcat.org/title/-/oclc/855370664> <http://schema.org/dateModified> "2019-10-09" .
+<http://www.worldcat.org/title/-/oclc/855370664> <http://rdfs.org/ns/void#inDataset> <http://purl.oclc.org/dataset/WorldCat> .
+<http://worldcat.org/entity/work/id/5218442236> <http://umbel.org/umbel#isLike> <http://worldcat.org/issn/0374-6313> .
+<http://experiment.worldcat.org/entity/work/data/5218442236#Topic/ejournals_uml> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/5218442236#Topic/ejournals_uml> <http://schema.org/name> "Ejournals--UML"@en .
+<http://worldcat.org/issn/0374-6313> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://worldcat.org/issn/0374-6313> <http://schema.org/name> "Bulletin du Jardin botanique de l'Etat à Bruxelles."@en .
+<http://worldcat.org/issn/0374-6313> <http://schema.org/issn> "0374-6313" .
+<http://worldcat.org/issn/0374-6313> <http://umbel.org/umbel#isLike> <http://worldcat.org/entity/work/id/5218442236> .
+<http://id.loc.gov/vocabulary/countries/be> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://id.loc.gov/vocabulary/countries/be> <http://purl.org/dc/terms/identifier> "be" .
+<http://www.worldcat.org/oclc/855370664> <http://www.w3.org/2007/05/powder-s#describedby> <http://www.worldcat.org/title/-/oclc/855370664> .
+<http://www.worldcat.org/oclc/855370664> <http://purl.org/library/oclcnum> "855370664" .
+<http://www.worldcat.org/oclc/855370664> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://experiment.worldcat.org/entity/work/data/5218442236#CreativeWork/bulletin_du_jardin_botanique_de_l_etat_a_bruxelles_online> .
+<http://www.worldcat.org/oclc/855370664> <http://schema.org/productID> "855370664" .
+<http://www.worldcat.org/oclc/855370664> <http://schema.org/publisher> <http://experiment.worldcat.org/entity/work/data/5218442236#Agent/ministere_de_l_agriculture> .
+<http://www.worldcat.org/oclc/855370664> <http://schema.org/publication> <http://www.worldcat.org/title/-/oclc/855370664#PublicationEvent/bruxellesministere_de_l_agriculture> .
+<http://www.worldcat.org/oclc/855370664> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/5218442236#Topic/ejournals_uml> .
+<http://www.worldcat.org/oclc/855370664> <http://purl.org/library/placeOfPublication> <http://experiment.worldcat.org/entity/work/data/5218442236#Place/bruxelles> .
+<http://www.worldcat.org/oclc/855370664> <http://schema.org/url> <http://sfxhosted.exlibrisgroup.com/umanitoba?url_ver=Z39.88-2004&ctx_ver=Z39.88-2004&ctx_enc=info:ofi/enc:UTF-8&rfr_id=info:sid/sfxit.com:opac_856&url_ctx_fmt=info:ofi/fmt:kev:mtx:ctx&sfx.ignore_date_threshold=1&rft.object_id=110992357325738&svc_val_fmt=info:ofi/fmt:kev:mtx:sch_svc&> .
+<http://www.worldcat.org/oclc/855370664> <http://schema.org/name> "Bulletin du Jardin botanique de l'Etat à Bruxelles."@en .
+<http://www.worldcat.org/oclc/855370664> <http://schema.org/exampleOfWork> <http://worldcat.org/entity/work/id/5218442236> .
+<http://www.worldcat.org/oclc/855370664> <http://schema.org/datePublished> "uuuu/9999" .
+<http://www.worldcat.org/oclc/855370664> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://www.worldcat.org/oclc/855370664> <http://purl.org/library/placeOfPublication> <http://id.loc.gov/vocabulary/countries/be> .
+<http://www.worldcat.org/oclc/855370664> <http://schema.org/workExample> <http://worldcat.org/issn/0374-6313> .
+<http://www.worldcat.org/oclc/855370664> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://www.worldcat.org/oclc/855370664> <http://schema.org/inLanguage> "en" .
+<http://experiment.worldcat.org/entity/work/data/5218442236#Agent/ministere_de_l_agriculture> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bibliograph.net/Agent> .
+<http://experiment.worldcat.org/entity/work/data/5218442236#Agent/ministere_de_l_agriculture> <http://schema.org/name> "Ministère de l'agriculture." .

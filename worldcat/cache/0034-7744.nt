@@ -1,0 +1,31 @@
+<http://worldcat.org/entity/work/id/119488512> <http://umbel.org/umbel#isLike> <http://worldcat.org/issn/0034-7744> .
+<http://worldcat.org/issn/0034-7744> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://worldcat.org/issn/0034-7744> <http://schema.org/name> "Revista de biologia tropical."@en .
+<http://worldcat.org/issn/0034-7744> <http://schema.org/issn> "0034-7744" .
+<http://worldcat.org/issn/0034-7744> <http://umbel.org/umbel#isLike> <http://worldcat.org/entity/work/id/119488512> .
+<http://www.worldcat.org/title/-/oclc/1096663359#PublicationEvent/s_l_multiple_vendors> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PublicationEvent> .
+<http://www.worldcat.org/title/-/oclc/1096663359#PublicationEvent/s_l_multiple_vendors> <http://schema.org/location> <http://experiment.worldcat.org/entity/work/data/119488512#Place/s_l> .
+<http://www.worldcat.org/title/-/oclc/1096663359#PublicationEvent/s_l_multiple_vendors> <http://schema.org/organizer> <http://experiment.worldcat.org/entity/work/data/119488512#Agent/multiple_vendors> .
+<http://www.worldcat.org/oclc/1096663359> <http://schema.org/exampleOfWork> <http://worldcat.org/entity/work/id/119488512> .
+<http://www.worldcat.org/oclc/1096663359> <http://purl.org/library/oclcnum> "1096663359" .
+<http://www.worldcat.org/oclc/1096663359> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://www.worldcat.org/oclc/1096663359> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/MediaObject> .
+<http://www.worldcat.org/oclc/1096663359> <http://www.w3.org/2007/05/powder-s#describedby> <http://www.worldcat.org/title/-/oclc/1096663359> .
+<http://www.worldcat.org/oclc/1096663359> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://www.worldcat.org/oclc/1096663359> <http://schema.org/name> "Revista de biologia tropical."@en .
+<http://www.worldcat.org/oclc/1096663359> <http://schema.org/publication> <http://www.worldcat.org/title/-/oclc/1096663359#PublicationEvent/s_l_multiple_vendors> .
+<http://www.worldcat.org/oclc/1096663359> <http://schema.org/workExample> <http://worldcat.org/issn/0034-7744> .
+<http://www.worldcat.org/oclc/1096663359> <http://schema.org/publisher> <http://experiment.worldcat.org/entity/work/data/119488512#Agent/multiple_vendors> .
+<http://www.worldcat.org/oclc/1096663359> <http://schema.org/inLanguage> "en" .
+<http://www.worldcat.org/oclc/1096663359> <http://schema.org/datePublished> "2013/9999" .
+<http://www.worldcat.org/oclc/1096663359> <http://purl.org/library/placeOfPublication> <http://experiment.worldcat.org/entity/work/data/119488512#Place/s_l> .
+<http://www.worldcat.org/oclc/1096663359> <http://schema.org/productID> "1096663359" .
+<http://experiment.worldcat.org/entity/work/data/119488512#Agent/multiple_vendors> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bibliograph.net/Agent> .
+<http://experiment.worldcat.org/entity/work/data/119488512#Agent/multiple_vendors> <http://schema.org/name> "Multiple Vendors." .
+<http://www.worldcat.org/title/-/oclc/1096663359> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#ContentTypeGenericResource> .
+<http://www.worldcat.org/title/-/oclc/1096663359> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#InformationResource> .
+<http://www.worldcat.org/title/-/oclc/1096663359> <http://schema.org/about> <http://www.worldcat.org/oclc/1096663359> .
+<http://www.worldcat.org/title/-/oclc/1096663359> <http://schema.org/dateModified> "2019-05-09" .
+<http://www.worldcat.org/title/-/oclc/1096663359> <http://rdfs.org/ns/void#inDataset> <http://purl.oclc.org/dataset/WorldCat> .
+<http://experiment.worldcat.org/entity/work/data/119488512#Place/s_l> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://experiment.worldcat.org/entity/work/data/119488512#Place/s_l> <http://schema.org/name> "S.l." .

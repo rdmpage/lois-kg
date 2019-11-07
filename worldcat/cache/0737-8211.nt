@@ -1,0 +1,43 @@
+<http://viaf.org/viaf/125348383> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+<http://viaf.org/viaf/125348383> <http://schema.org/name> "American Society of Plant Taxonomists." .
+<http://www.worldcat.org/title/-/oclc/317587558> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#ContentTypeGenericResource> .
+<http://www.worldcat.org/title/-/oclc/317587558> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#InformationResource> .
+<http://www.worldcat.org/title/-/oclc/317587558> <http://schema.org/about> <http://www.worldcat.org/oclc/317587558> .
+<http://www.worldcat.org/title/-/oclc/317587558> <http://schema.org/dateModified> "2019-02-09" .
+<http://www.worldcat.org/title/-/oclc/317587558> <http://rdfs.org/ns/void#inDataset> <http://purl.oclc.org/dataset/WorldCat> .
+<http://worldcat.org/entity/work/id/3856144270> <http://umbel.org/umbel#isLike> <http://worldcat.org/issn/0737-8211> .
+<http://experiment.worldcat.org/entity/work/data/3856144270#Place/ann_arbor_mi> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://experiment.worldcat.org/entity/work/data/3856144270#Place/ann_arbor_mi> <http://schema.org/name> "Ann Arbor, MI" .
+<http://www.worldcat.org/oclc/317587558> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://www.worldcat.org/oclc/317587558> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/MediaObject> .
+<http://www.worldcat.org/oclc/317587558> <http://schema.org/inLanguage> "en" .
+<http://www.worldcat.org/oclc/317587558> <http://purl.org/library/placeOfPublication> <http://experiment.worldcat.org/entity/work/data/3856144270#Place/ann_arbor_mi> .
+<http://www.worldcat.org/oclc/317587558> <http://schema.org/publisher> <http://experiment.worldcat.org/entity/work/data/3856144270#Agent/american_society_of_plant_taxonomists> .
+<http://www.worldcat.org/oclc/317587558> <http://schema.org/datePublished> "200u/9999" .
+<http://www.worldcat.org/oclc/317587558> <http://schema.org/isSimilarTo> <http://worldcat.org/entity/work/data/3856144270#CreativeWork/systematic_botany_monographs> .
+<http://www.worldcat.org/oclc/317587558> <http://schema.org/productID> "317587558" .
+<http://www.worldcat.org/oclc/317587558> <http://purl.org/library/placeOfPublication> <http://id.loc.gov/vocabulary/countries/miu> .
+<http://www.worldcat.org/oclc/317587558> <http://schema.org/exampleOfWork> <http://worldcat.org/entity/work/id/3856144270> .
+<http://www.worldcat.org/oclc/317587558> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://www.worldcat.org/oclc/317587558> <http://schema.org/url> <http://www.jstor.org/journals/07378211.html> .
+<http://www.worldcat.org/oclc/317587558> <http://www.w3.org/2007/05/powder-s#describedby> <http://www.worldcat.org/title/-/oclc/317587558> .
+<http://www.worldcat.org/oclc/317587558> <http://schema.org/workExample> <http://worldcat.org/issn/0737-8211> .
+<http://www.worldcat.org/oclc/317587558> <http://schema.org/publication> <http://www.worldcat.org/title/-/oclc/317587558#PublicationEvent/ann_arbor_mi_american_society_of_plant_taxonomists_200> .
+<http://www.worldcat.org/oclc/317587558> <http://schema.org/contributor> <http://viaf.org/viaf/125348383> .
+<http://www.worldcat.org/oclc/317587558> <http://schema.org/name> "Systematic botany monographs : monographic series of the American Society of Plant Taxonomists." .
+<http://www.worldcat.org/oclc/317587558> <http://purl.org/library/oclcnum> "317587558" .
+<http://www.worldcat.org/title/-/oclc/317587558#PublicationEvent/ann_arbor_mi_american_society_of_plant_taxonomists_200> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PublicationEvent> .
+<http://www.worldcat.org/title/-/oclc/317587558#PublicationEvent/ann_arbor_mi_american_society_of_plant_taxonomists_200> <http://schema.org/location> <http://experiment.worldcat.org/entity/work/data/3856144270#Place/ann_arbor_mi> .
+<http://www.worldcat.org/title/-/oclc/317587558#PublicationEvent/ann_arbor_mi_american_society_of_plant_taxonomists_200> <http://schema.org/organizer> <http://experiment.worldcat.org/entity/work/data/3856144270#Agent/american_society_of_plant_taxonomists> .
+<http://www.worldcat.org/title/-/oclc/317587558#PublicationEvent/ann_arbor_mi_american_society_of_plant_taxonomists_200> <http://schema.org/startDate> "-" .
+<http://id.loc.gov/vocabulary/countries/miu> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://id.loc.gov/vocabulary/countries/miu> <http://purl.org/dc/terms/identifier> "miu" .
+<http://worldcat.org/entity/work/data/3856144270#CreativeWork/systematic_botany_monographs> <http://schema.org/isSimilarTo> <http://www.worldcat.org/oclc/317587558> .
+<http://worldcat.org/entity/work/data/3856144270#CreativeWork/systematic_botany_monographs> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://worldcat.org/entity/work/data/3856144270#CreativeWork/systematic_botany_monographs> <http://www.w3.org/2000/01/rdf-schema#label> "Systematic botany monographs" .
+<http://worldcat.org/issn/0737-8211> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://worldcat.org/issn/0737-8211> <http://schema.org/name> "Systematic botany monographs : monographic series of the American Society of Plant Taxonomists." .
+<http://worldcat.org/issn/0737-8211> <http://schema.org/issn> "0737-8211" .
+<http://worldcat.org/issn/0737-8211> <http://umbel.org/umbel#isLike> <http://worldcat.org/entity/work/id/3856144270> .
+<http://experiment.worldcat.org/entity/work/data/3856144270#Agent/american_society_of_plant_taxonomists> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bibliograph.net/Agent> .
+<http://experiment.worldcat.org/entity/work/data/3856144270#Agent/american_society_of_plant_taxonomists> <http://schema.org/name> "American Society of Plant Taxonomists" .

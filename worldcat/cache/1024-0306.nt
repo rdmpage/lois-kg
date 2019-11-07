@@ -1,0 +1,70 @@
+<http://experiment.worldcat.org/entity/work/data/500605608#Thing/systematics_taxonomy_and_relationship_botany_and_palaeobotany> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> .
+<http://experiment.worldcat.org/entity/work/data/500605608#Thing/systematics_taxonomy_and_relationship_botany_and_palaeobotany> <http://schema.org/name> "SYSTEMATICS, TAXONOMY AND RELATIONSHIP (BOTANY AND PALAEOBOTANY)" .
+<http://id.loc.gov/vocabulary/countries/au> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://id.loc.gov/vocabulary/countries/au> <http://purl.org/dc/terms/identifier> "au" .
+<http://experiment.worldcat.org/entity/work/data/500605608#Thing/systematique_taxonomie_et_affinite_botanique_et_paleobotanique> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> .
+<http://experiment.worldcat.org/entity/work/data/500605608#Thing/systematique_taxonomie_et_affinite_botanique_et_paleobotanique> <http://schema.org/name> "SYSTÉMATIQUE, TAXONOMIE ET AFFINITÉ (BOTANIQUE ET PALÉOBOTANIQUE)" .
+<http://experiment.worldcat.org/entity/work/data/500605608#Thing/floristische_geobotanik> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> .
+<http://experiment.worldcat.org/entity/work/data/500605608#Thing/floristische_geobotanik> <http://schema.org/name> "FLORISTISCHE GEOBOTANIK" .
+<http://experiment.worldcat.org/entity/work/data/500605608#Thing/systematik_taxonomie_und_verwandtschaft_botanik_und_palaobotanik> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> .
+<http://experiment.worldcat.org/entity/work/data/500605608#Thing/systematik_taxonomie_und_verwandtschaft_botanik_und_palaobotanik> <http://schema.org/name> "SYSTEMATIK, TAXONOMIE UND VERWANDTSCHAFT (BOTANIK UND PALÄOBOTANIK)" .
+<http://www.worldcat.org/oclc/973873717> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/500605608#Thing/sciences_vegetales> .
+<http://www.worldcat.org/oclc/973873717> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/500605608#Thing/systematics_taxonomy_and_relationship_botany_and_palaeobotany> .
+<http://www.worldcat.org/oclc/973873717> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/500605608#Thing/systematique_taxonomie_et_affinite_botanique_et_paleobotanique> .
+<http://www.worldcat.org/oclc/973873717> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/500605608#Thing/floristische_geobotanik> .
+<http://www.worldcat.org/oclc/973873717> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/500605608#Thing/korperschaftspublikationen_dokumententyp> .
+<http://www.worldcat.org/oclc/973873717> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/MediaObject> .
+<http://www.worldcat.org/oclc/973873717> <http://purl.org/library/oclcnum> "973873717" .
+<http://www.worldcat.org/oclc/973873717> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/500605608#Thing/floristics_+_floristic_geobotany> .
+<http://www.worldcat.org/oclc/973873717> <http://schema.org/url> <http://sfx.ethz.ch/sfx_locater?sid=ALEPH:EBI01&genre=journal&issn=1024-0306> .
+<http://www.worldcat.org/oclc/973873717> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/500605608#Thing/pflanzenwissenschaften> .
+<http://www.worldcat.org/oclc/973873717> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/500605608#Thing/publications_des_collectivites_type_de_document> .
+<http://www.worldcat.org/oclc/973873717> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/500605608#Thing/plant_sciences> .
+<http://www.worldcat.org/oclc/973873717> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/500605608#Thing/floristique_+_geobotanique_floristique> .
+<http://www.worldcat.org/oclc/973873717> <http://schema.org/genre> "Zeitschrift" .
+<http://www.worldcat.org/oclc/973873717> <http://schema.org/exampleOfWork> <http://worldcat.org/entity/work/id/500605608> .
+<http://www.worldcat.org/oclc/973873717> <http://purl.org/library/placeOfPublication> <http://id.loc.gov/vocabulary/countries/au> .
+<http://www.worldcat.org/oclc/973873717> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://www.worldcat.org/oclc/973873717> <http://schema.org/name> "Fritschiana : Veröffentlichungen aus dem Institut für Pflanzenwissenschaften der Karl-Franzens-Universität Graz." .
+<http://www.worldcat.org/oclc/973873717> <http://schema.org/workExample> <http://worldcat.org/issn/1024-0306> .
+<http://www.worldcat.org/oclc/973873717> <http://schema.org/contributor> <http://experiment.worldcat.org/entity/work/data/500605608#Organization/karl_franzens_universitat_institut_fur_pflanzenwissenschaften> .
+<http://www.worldcat.org/oclc/973873717> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/500605608#Thing/systematik_taxonomie_und_verwandtschaft_botanik_und_palaobotanik> .
+<http://www.worldcat.org/oclc/973873717> <http://schema.org/productID> "973873717" .
+<http://www.worldcat.org/oclc/973873717> <http://www.w3.org/2007/05/powder-s#describedby> <http://www.worldcat.org/title/-/oclc/973873717> .
+<http://www.worldcat.org/oclc/973873717> <http://schema.org/inLanguage> "en" .
+<http://www.worldcat.org/oclc/973873717> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/500605608#Thing/karl_franzens_universitat> .
+<http://www.worldcat.org/oclc/973873717> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://www.worldcat.org/oclc/973873717> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/500605608#Thing/publications_of_organizations_document_type> .
+<http://www.worldcat.org/oclc/973873717> <http://schema.org/datePublished> "1994/9999" .
+<http://worldcat.org/entity/work/id/500605608> <http://umbel.org/umbel#isLike> <http://worldcat.org/issn/1024-0306> .
+<http://experiment.worldcat.org/entity/work/data/500605608#Thing/floristique_+_geobotanique_floristique> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> .
+<http://experiment.worldcat.org/entity/work/data/500605608#Thing/floristique_+_geobotanique_floristique> <http://schema.org/name> "FLORISTIQUE + GÉOBOTANIQUE FLORISTIQUE" .
+<http://experiment.worldcat.org/entity/work/data/500605608#Thing/karl_franzens_universitat> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> .
+<http://experiment.worldcat.org/entity/work/data/500605608#Thing/karl_franzens_universitat> <http://schema.org/name> "Karl-Franzens-Universität" .
+<http://experiment.worldcat.org/entity/work/data/500605608#Thing/plant_sciences> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> .
+<http://experiment.worldcat.org/entity/work/data/500605608#Thing/plant_sciences> <http://schema.org/name> "PLANT SCIENCES" .
+<http://experiment.worldcat.org/entity/work/data/500605608#Thing/pflanzenwissenschaften> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> .
+<http://experiment.worldcat.org/entity/work/data/500605608#Thing/pflanzenwissenschaften> <http://schema.org/name> "PFLANZENWISSENSCHAFTEN" .
+<http://experiment.worldcat.org/entity/work/data/500605608#Thing/floristics_+_floristic_geobotany> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> .
+<http://experiment.worldcat.org/entity/work/data/500605608#Thing/floristics_+_floristic_geobotany> <http://schema.org/name> "FLORISTICS + FLORISTIC GEOBOTANY" .
+<http://experiment.worldcat.org/entity/work/data/500605608#Thing/publications_des_collectivites_type_de_document> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> .
+<http://experiment.worldcat.org/entity/work/data/500605608#Thing/publications_des_collectivites_type_de_document> <http://schema.org/name> "PUBLICATIONS DES COLLECTIVITÉS (TYPE DE DOCUMENT)" .
+<http://experiment.worldcat.org/entity/work/data/500605608#Thing/korperschaftspublikationen_dokumententyp> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> .
+<http://experiment.worldcat.org/entity/work/data/500605608#Thing/korperschaftspublikationen_dokumententyp> <http://schema.org/name> "KÖRPERSCHAFTSPUBLIKATIONEN (DOKUMENTENTYP)" .
+<http://worldcat.org/issn/1024-0306> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://worldcat.org/issn/1024-0306> <http://schema.org/name> "Fritschiana : Veröffentlichungen aus dem Institut für Pflanzenwissenschaften der Karl-Franzens-Universität Graz." .
+<http://worldcat.org/issn/1024-0306> <http://schema.org/issn> "1024-0306" .
+<http://worldcat.org/issn/1024-0306> <http://umbel.org/umbel#isLike> <http://worldcat.org/entity/work/id/500605608> .
+<http://experiment.worldcat.org/entity/work/data/500605608#Thing/publications_of_organizations_document_type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> .
+<http://experiment.worldcat.org/entity/work/data/500605608#Thing/publications_of_organizations_document_type> <http://schema.org/name> "PUBLICATIONS OF ORGANIZATIONS (DOCUMENT TYPE)" .
+<http://www.worldcat.org/title/-/oclc/973873717> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#ContentTypeGenericResource> .
+<http://www.worldcat.org/title/-/oclc/973873717> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#InformationResource> .
+<http://www.worldcat.org/title/-/oclc/973873717> <http://schema.org/about> <http://www.worldcat.org/oclc/973873717> .
+<http://www.worldcat.org/title/-/oclc/973873717> <http://schema.org/dateModified> "2019-02-09" .
+<http://www.worldcat.org/title/-/oclc/973873717> <http://rdfs.org/ns/void#inDataset> <http://purl.oclc.org/dataset/WorldCat> .
+<http://sfx.ethz.ch/sfx_locater?sid=ALEPH:EBI01&genre=journal&issn=1024-0306> <http://www.w3.org/2000/01/rdf-schema#comment> "Online via SFX" .
+<http://experiment.worldcat.org/entity/work/data/500605608#Organization/karl_franzens_universitat_institut_fur_pflanzenwissenschaften> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+<http://experiment.worldcat.org/entity/work/data/500605608#Organization/karl_franzens_universitat_institut_fur_pflanzenwissenschaften> <http://schema.org/name> "Karl-Franzens-Universität Institut für Pflanzenwissenschaften" .
+<http://experiment.worldcat.org/entity/work/data/500605608#Organization/karl_franzens_universitat_institut_fur_pflanzenwissenschaften> <http://schema.org/sameAs> <http://d-nb.info/gnd/1088276660,> .
+<http://experiment.worldcat.org/entity/work/data/500605608#Thing/sciences_vegetales> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> .
+<http://experiment.worldcat.org/entity/work/data/500605608#Thing/sciences_vegetales> <http://schema.org/name> "SCIENCES VÉGÉTALES" .

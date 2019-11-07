@@ -1,0 +1,34 @@
+<http://experiment.worldcat.org/entity/work/data/505904158#Agent/instituto_de_ecologia_a_c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bibliograph.net/Agent> .
+<http://experiment.worldcat.org/entity/work/data/505904158#Agent/instituto_de_ecologia_a_c> <http://schema.org/name> "Instituto de Ecologia A.C" .
+<http://experiment.worldcat.org/entity/work/data/505904158#Place/patzcuaro> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://experiment.worldcat.org/entity/work/data/505904158#Place/patzcuaro> <http://schema.org/name> "Patzcuaro" .
+<http://experiment.worldcat.org/entity/work/data/505904158#Thing/biovidenskab> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> .
+<http://experiment.worldcat.org/entity/work/data/505904158#Thing/biovidenskab> <http://schema.org/name> "Biovidenskab" .
+<http://www.worldcat.org/title/-/oclc/848284604> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#ContentTypeGenericResource> .
+<http://www.worldcat.org/title/-/oclc/848284604> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#InformationResource> .
+<http://www.worldcat.org/title/-/oclc/848284604> <http://schema.org/about> <http://www.worldcat.org/oclc/848284604> .
+<http://www.worldcat.org/title/-/oclc/848284604> <http://schema.org/dateModified> "2019-09-07" .
+<http://www.worldcat.org/title/-/oclc/848284604> <http://rdfs.org/ns/void#inDataset> <http://purl.oclc.org/dataset/WorldCat> .
+<http://id.loc.gov/vocabulary/countries/mx> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://id.loc.gov/vocabulary/countries/mx> <http://purl.org/dc/terms/identifier> "mx" .
+<http://www.worldcat.org/oclc/848284604> <http://schema.org/exampleOfWork> <http://worldcat.org/entity/work/id/505904158> .
+<http://www.worldcat.org/oclc/848284604> <http://purl.org/library/placeOfPublication> <http://experiment.worldcat.org/entity/work/data/505904158#Place/patzcuaro> .
+<http://www.worldcat.org/oclc/848284604> <http://schema.org/productID> "848284604" .
+<http://www.worldcat.org/oclc/848284604> <http://schema.org/genre> "Periodicals" .
+<http://www.worldcat.org/oclc/848284604> <http://schema.org/name> "Acta botanica mexicana" .
+<http://www.worldcat.org/oclc/848284604> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://www.worldcat.org/oclc/848284604> <http://purl.org/library/placeOfPublication> <http://id.loc.gov/vocabulary/countries/mx> .
+<http://www.worldcat.org/oclc/848284604> <http://schema.org/url> <http://www.cabdirect.org/search.html?q=sn:%280187-7151%29+and+sc:ft> .
+<http://www.worldcat.org/oclc/848284604> <http://schema.org/publisher> <http://experiment.worldcat.org/entity/work/data/505904158#Agent/instituto_de_ecologia_a_c> .
+<http://www.worldcat.org/oclc/848284604> <http://schema.org/datePublished> "uuuu/9999" .
+<http://www.worldcat.org/oclc/848284604> <http://schema.org/genre> "Electronic journals" .
+<http://www.worldcat.org/oclc/848284604> <http://schema.org/publication> <http://www.worldcat.org/title/-/oclc/848284604#PublicationEvent/patzcuaro_instituto_de_ecologia_a_c> .
+<http://www.worldcat.org/oclc/848284604> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/505904158#Thing/biovidenskab> .
+<http://www.worldcat.org/oclc/848284604> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://www.worldcat.org/oclc/848284604> <http://purl.org/library/oclcnum> "848284604" .
+<http://www.worldcat.org/oclc/848284604> <http://schema.org/inLanguage> "en" .
+<http://www.worldcat.org/oclc/848284604> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/MediaObject> .
+<http://www.worldcat.org/oclc/848284604> <http://www.w3.org/2007/05/powder-s#describedby> <http://www.worldcat.org/title/-/oclc/848284604> .
+<http://www.worldcat.org/title/-/oclc/848284604#PublicationEvent/patzcuaro_instituto_de_ecologia_a_c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PublicationEvent> .
+<http://www.worldcat.org/title/-/oclc/848284604#PublicationEvent/patzcuaro_instituto_de_ecologia_a_c> <http://schema.org/location> <http://experiment.worldcat.org/entity/work/data/505904158#Place/patzcuaro> .
+<http://www.worldcat.org/title/-/oclc/848284604#PublicationEvent/patzcuaro_instituto_de_ecologia_a_c> <http://schema.org/organizer> <http://experiment.worldcat.org/entity/work/data/505904158#Agent/instituto_de_ecologia_a_c> .

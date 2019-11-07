@@ -1,0 +1,37 @@
+<http://worldcat.org/issn/0723-2020> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://worldcat.org/issn/0723-2020> <http://schema.org/name> "Systematic and applied microbiology."@en .
+<http://worldcat.org/issn/0723-2020> <http://schema.org/issn> "0723-2020" .
+<http://worldcat.org/issn/0723-2020> <http://umbel.org/umbel#isLike> <http://worldcat.org/entity/work/id/43650412> .
+<http://experiment.worldcat.org/entity/work/data/43650412#Place/basinstoke_england> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://experiment.worldcat.org/entity/work/data/43650412#Place/basinstoke_england> <http://schema.org/name> "Basinstoke, England" .
+<http://worldcat.org/entity/work/id/43650412> <http://umbel.org/umbel#isLike> <http://worldcat.org/issn/0723-2020> .
+<http://www.worldcat.org/oclc/729764372> <http://purl.org/library/oclcnum> "729764372" .
+<http://www.worldcat.org/oclc/729764372> <http://schema.org/inLanguage> "en" .
+<http://www.worldcat.org/oclc/729764372> <http://schema.org/publisher> <http://experiment.worldcat.org/entity/work/data/43650412#Agent/macmillan_magazines_ltd> .
+<http://www.worldcat.org/oclc/729764372> <http://schema.org/productID> "729764372" .
+<http://www.worldcat.org/oclc/729764372> <http://schema.org/exampleOfWork> <http://worldcat.org/entity/work/id/43650412> .
+<http://www.worldcat.org/oclc/729764372> <http://schema.org/publication> <http://www.worldcat.org/title/-/oclc/729764372#PublicationEvent/basinstoke_england_macmillan_magazines_ltd> .
+<http://www.worldcat.org/oclc/729764372> <http://schema.org/genre> "Periodicals"@en .
+<http://www.worldcat.org/oclc/729764372> <http://purl.org/library/placeOfPublication> <http://experiment.worldcat.org/entity/work/data/43650412#Place/basinstoke_england> .
+<http://www.worldcat.org/oclc/729764372> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/43650412#Topic/microbiology> .
+<http://www.worldcat.org/oclc/729764372> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://www.worldcat.org/oclc/729764372> <http://www.w3.org/2007/05/powder-s#describedby> <http://www.worldcat.org/title/-/oclc/729764372> .
+<http://www.worldcat.org/oclc/729764372> <http://purl.org/library/placeOfPublication> <http://id.loc.gov/vocabulary/countries/mau> .
+<http://www.worldcat.org/oclc/729764372> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://www.worldcat.org/oclc/729764372> <http://schema.org/workExample> <http://worldcat.org/issn/0723-2020> .
+<http://www.worldcat.org/oclc/729764372> <http://schema.org/datePublished> "2002/9999" .
+<http://www.worldcat.org/oclc/729764372> <http://schema.org/name> "Systematic and applied microbiology."@en .
+<http://experiment.worldcat.org/entity/work/data/43650412#Topic/microbiology> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/43650412#Topic/microbiology> <http://schema.org/name> "Microbiology"@en .
+<http://www.worldcat.org/title/-/oclc/729764372> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#ContentTypeGenericResource> .
+<http://www.worldcat.org/title/-/oclc/729764372> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#InformationResource> .
+<http://www.worldcat.org/title/-/oclc/729764372> <http://schema.org/about> <http://www.worldcat.org/oclc/729764372> .
+<http://www.worldcat.org/title/-/oclc/729764372> <http://schema.org/dateModified> "2018-12-01" .
+<http://www.worldcat.org/title/-/oclc/729764372> <http://rdfs.org/ns/void#inDataset> <http://purl.oclc.org/dataset/WorldCat> .
+<http://experiment.worldcat.org/entity/work/data/43650412#Agent/macmillan_magazines_ltd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bibliograph.net/Agent> .
+<http://experiment.worldcat.org/entity/work/data/43650412#Agent/macmillan_magazines_ltd> <http://schema.org/name> "Macmillan magazines Ltd." .
+<http://id.loc.gov/vocabulary/countries/mau> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://id.loc.gov/vocabulary/countries/mau> <http://purl.org/dc/terms/identifier> "mau" .
+<http://www.worldcat.org/title/-/oclc/729764372#PublicationEvent/basinstoke_england_macmillan_magazines_ltd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PublicationEvent> .
+<http://www.worldcat.org/title/-/oclc/729764372#PublicationEvent/basinstoke_england_macmillan_magazines_ltd> <http://schema.org/location> <http://experiment.worldcat.org/entity/work/data/43650412#Place/basinstoke_england> .
+<http://www.worldcat.org/title/-/oclc/729764372#PublicationEvent/basinstoke_england_macmillan_magazines_ltd> <http://schema.org/organizer> <http://experiment.worldcat.org/entity/work/data/43650412#Agent/macmillan_magazines_ltd> .

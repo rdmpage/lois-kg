@@ -1,0 +1,24 @@
+<http://worldcat.org/entity/work/id/138375301> <http://umbel.org/umbel#isLike> <http://worldcat.org/issn/1659-3049> .
+<http://www.worldcat.org/oclc/488382402> <http://schema.org/productID> "488382402" .
+<http://www.worldcat.org/oclc/488382402> <http://schema.org/exampleOfWork> <http://worldcat.org/entity/work/id/138375301> .
+<http://www.worldcat.org/oclc/488382402> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://www.worldcat.org/oclc/488382402> <http://schema.org/workExample> <http://worldcat.org/issn/1659-3049> .
+<http://www.worldcat.org/oclc/488382402> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://www.worldcat.org/oclc/488382402> <http://schema.org/url> <http://www.cibrc.org/MES/MES.html> .
+<http://www.worldcat.org/oclc/488382402> <http://schema.org/inLanguage> "mul" .
+<http://www.worldcat.org/oclc/488382402> <http://purl.org/library/oclcnum> "488382402" .
+<http://www.worldcat.org/oclc/488382402> <http://schema.org/isSimilarTo> <http://worldcat.org/entity/work/data/138375301#CreativeWork/> .
+<http://www.worldcat.org/oclc/488382402> <http://www.w3.org/2007/05/powder-s#describedby> <http://www.worldcat.org/title/-/oclc/488382402> .
+<http://www.worldcat.org/oclc/488382402> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/MediaObject> .
+<http://www.worldcat.org/oclc/488382402> <http://schema.org/name> "Métodos en Ecología y Sistemática." .
+<http://worldcat.org/entity/work/data/138375301#CreativeWork/> <http://schema.org/isSimilarTo> <http://www.worldcat.org/oclc/488382402> .
+<http://worldcat.org/entity/work/data/138375301#CreativeWork/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://worldcat.org/issn/1659-3049> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://worldcat.org/issn/1659-3049> <http://schema.org/name> "Métodos en Ecología y Sistemática." .
+<http://worldcat.org/issn/1659-3049> <http://schema.org/issn> "1659-3049" .
+<http://worldcat.org/issn/1659-3049> <http://umbel.org/umbel#isLike> <http://worldcat.org/entity/work/id/138375301> .
+<http://www.worldcat.org/title/-/oclc/488382402> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#ContentTypeGenericResource> .
+<http://www.worldcat.org/title/-/oclc/488382402> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#InformationResource> .
+<http://www.worldcat.org/title/-/oclc/488382402> <http://schema.org/about> <http://www.worldcat.org/oclc/488382402> .
+<http://www.worldcat.org/title/-/oclc/488382402> <http://schema.org/dateModified> "2019-02-09" .
+<http://www.worldcat.org/title/-/oclc/488382402> <http://rdfs.org/ns/void#inDataset> <http://purl.oclc.org/dataset/WorldCat> .

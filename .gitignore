@@ -4,8 +4,14 @@ Keys.md
 
 vendor/
 
+junk/
 manuscripts/examples
 oz-csl/*.nt
+oz-csl/junk
+
 oz-gbif/*.nt
+
 oz-orcid/*.nt
+oz-orcid/junk
+
 resolvers/*.nt

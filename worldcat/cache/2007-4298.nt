@@ -1,0 +1,38 @@
+<http://www.worldcat.org/title/-/oclc/856903350> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#ContentTypeGenericResource> .
+<http://www.worldcat.org/title/-/oclc/856903350> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#InformationResource> .
+<http://www.worldcat.org/title/-/oclc/856903350> <http://schema.org/about> <http://www.worldcat.org/oclc/856903350> .
+<http://www.worldcat.org/title/-/oclc/856903350> <http://schema.org/dateModified> "2018-11-09" .
+<http://www.worldcat.org/title/-/oclc/856903350> <http://rdfs.org/ns/void#inDataset> <http://purl.oclc.org/dataset/WorldCat> .
+<http://worldcat.org/entity/work/id/1379142387> <http://umbel.org/umbel#isLike> <http://worldcat.org/issn/2007-4298> .
+<http://experiment.worldcat.org/entity/work/data/1379142387#Place/mexico> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://experiment.worldcat.org/entity/work/data/1379142387#Place/mexico> <http://schema.org/name> "México" .
+<http://id.loc.gov/vocabulary/countries/mx> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://id.loc.gov/vocabulary/countries/mx> <http://purl.org/dc/terms/identifier> "mx" .
+<http://www.worldcat.org/oclc/856903350> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://www.worldcat.org/oclc/856903350> <http://schema.org/productID> "856903350" .
+<http://www.worldcat.org/oclc/856903350> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://www.worldcat.org/oclc/856903350> <http://schema.org/exampleOfWork> <http://worldcat.org/entity/work/id/1379142387> .
+<http://www.worldcat.org/oclc/856903350> <http://schema.org/publisher> <http://experiment.worldcat.org/entity/work/data/1379142387#Agent/sociedad_botanica_de_mexico> .
+<http://www.worldcat.org/oclc/856903350> <http://purl.org/library/placeOfPublication> <http://experiment.worldcat.org/entity/work/data/1379142387#Place/mexico> .
+<http://www.worldcat.org/oclc/856903350> <http://schema.org/name> "Botanical Sciences" .
+<http://www.worldcat.org/oclc/856903350> <http://schema.org/datePublished> "2012/9999" .
+<http://www.worldcat.org/oclc/856903350> <http://schema.org/workExample> <http://worldcat.org/issn/2007-4298> .
+<http://www.worldcat.org/oclc/856903350> <http://schema.org/datePublished> "2012/" .
+<http://www.worldcat.org/oclc/856903350> <http://purl.org/library/placeOfPublication> <http://id.loc.gov/vocabulary/countries/mx> .
+<http://www.worldcat.org/oclc/856903350> <http://schema.org/contributor> <http://viaf.org/viaf/157715398> .
+<http://www.worldcat.org/oclc/856903350> <http://www.w3.org/2007/05/powder-s#describedby> <http://www.worldcat.org/title/-/oclc/856903350> .
+<http://www.worldcat.org/oclc/856903350> <http://schema.org/publication> <http://www.worldcat.org/title/-/oclc/856903350#PublicationEvent/mexico_sociedad_botanica_de_mexico_2012> .
+<http://www.worldcat.org/oclc/856903350> <http://purl.org/library/oclcnum> "856903350" .
+<http://www.worldcat.org/oclc/856903350> <http://schema.org/inLanguage> "en" .
+<http://www.worldcat.org/title/-/oclc/856903350#PublicationEvent/mexico_sociedad_botanica_de_mexico_2012> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PublicationEvent> .
+<http://www.worldcat.org/title/-/oclc/856903350#PublicationEvent/mexico_sociedad_botanica_de_mexico_2012> <http://schema.org/location> <http://experiment.worldcat.org/entity/work/data/1379142387#Place/mexico> .
+<http://www.worldcat.org/title/-/oclc/856903350#PublicationEvent/mexico_sociedad_botanica_de_mexico_2012> <http://schema.org/organizer> <http://experiment.worldcat.org/entity/work/data/1379142387#Agent/sociedad_botanica_de_mexico> .
+<http://www.worldcat.org/title/-/oclc/856903350#PublicationEvent/mexico_sociedad_botanica_de_mexico_2012> <http://schema.org/startDate> "2012-" .
+<http://experiment.worldcat.org/entity/work/data/1379142387#Agent/sociedad_botanica_de_mexico> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bibliograph.net/Agent> .
+<http://experiment.worldcat.org/entity/work/data/1379142387#Agent/sociedad_botanica_de_mexico> <http://schema.org/name> "Sociedad Botánica de México" .
+<http://worldcat.org/issn/2007-4298> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://worldcat.org/issn/2007-4298> <http://schema.org/name> "Botanical Sciences" .
+<http://worldcat.org/issn/2007-4298> <http://schema.org/issn> "2007-4298" .
+<http://worldcat.org/issn/2007-4298> <http://umbel.org/umbel#isLike> <http://worldcat.org/entity/work/id/1379142387> .
+<http://viaf.org/viaf/157715398> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+<http://viaf.org/viaf/157715398> <http://schema.org/name> "Sociedad Botánica de México." .

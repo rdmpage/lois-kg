@@ -1,0 +1,41 @@
+<http://experiment.worldcat.org/entity/work/data/29844075#Topic/biology> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/29844075#Topic/biology> <http://schema.org/name> "Biology"@en .
+<http://www.worldcat.org/oclc/1011534732> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/29844075#Topic/biology> .
+<http://www.worldcat.org/oclc/1011534732> <http://schema.org/isSimilarTo> <http://www.worldcat.org/oclc/263079031> .
+<http://www.worldcat.org/oclc/1011534732> <http://schema.org/datePublished> "1918/9999" .
+<http://www.worldcat.org/oclc/1011534732> <http://schema.org/url> <http://catalog.hathitrust.org/api/volumes/oclc/263079031.html> .
+<http://www.worldcat.org/oclc/1011534732> <http://schema.org/publication> <http://www.worldcat.org/title/-/oclc/1011534732#PublicationEvent/washington_d_c> .
+<http://www.worldcat.org/oclc/1011534732> <http://schema.org/contributor> <http://experiment.worldcat.org/entity/work/data/29844075#Organization/biological_society_of_washington> .
+<http://www.worldcat.org/oclc/1011534732> <http://schema.org/name> "Bulletin of the Biological Society of Washington."@en .
+<http://www.worldcat.org/oclc/1011534732> <http://www.w3.org/2007/05/powder-s#describedby> <http://www.worldcat.org/title/-/oclc/1011534732> .
+<http://www.worldcat.org/oclc/1011534732> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://www.worldcat.org/oclc/1011534732> <http://schema.org/exampleOfWork> <http://worldcat.org/entity/work/id/29844075> .
+<http://www.worldcat.org/oclc/1011534732> <http://schema.org/inLanguage> "en" .
+<http://www.worldcat.org/oclc/1011534732> <http://schema.org/genre> "Periodicals"@en .
+<http://www.worldcat.org/oclc/1011534732> <http://purl.org/library/placeOfPublication> <http://id.loc.gov/vocabulary/countries/dcu> .
+<http://www.worldcat.org/oclc/1011534732> <http://schema.org/productID> "1011534732" .
+<http://www.worldcat.org/oclc/1011534732> <http://purl.org/library/oclcnum> "1011534732" .
+<http://www.worldcat.org/oclc/1011534732> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/29844075#Topic/natural_history> .
+<http://www.worldcat.org/oclc/1011534732> <http://purl.org/library/placeOfPublication> <http://experiment.worldcat.org/entity/work/data/29844075#Place/washington_d_c> .
+<http://www.worldcat.org/oclc/1011534732> <http://schema.org/url> <http://books.google.com/books?id=bqcGJ6MYZ8QC> .
+<http://www.worldcat.org/oclc/1011534732> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://www.worldcat.org/oclc/1011534732> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/MediaObject> .
+<http://experiment.worldcat.org/entity/work/data/29844075#Organization/biological_society_of_washington> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+<http://experiment.worldcat.org/entity/work/data/29844075#Organization/biological_society_of_washington> <http://schema.org/name> "Biological Society of Washington." .
+<http://www.worldcat.org/title/-/oclc/1011534732> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#ContentTypeGenericResource> .
+<http://www.worldcat.org/title/-/oclc/1011534732> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#InformationResource> .
+<http://www.worldcat.org/title/-/oclc/1011534732> <http://schema.org/about> <http://www.worldcat.org/oclc/1011534732> .
+<http://www.worldcat.org/title/-/oclc/1011534732> <http://schema.org/dateModified> "2019-07-11" .
+<http://www.worldcat.org/title/-/oclc/1011534732> <http://rdfs.org/ns/void#inDataset> <http://purl.oclc.org/dataset/WorldCat> .
+<http://experiment.worldcat.org/entity/work/data/29844075#Place/washington_d_c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://experiment.worldcat.org/entity/work/data/29844075#Place/washington_d_c> <http://schema.org/name> "Washington D.C." .
+<http://experiment.worldcat.org/entity/work/data/29844075#Topic/natural_history> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/29844075#Topic/natural_history> <http://schema.org/name> "Natural history"@en .
+<http://www.worldcat.org/oclc/263079031> <http://schema.org/isSimilarTo> <http://www.worldcat.org/oclc/1011534732> .
+<http://www.worldcat.org/oclc/263079031> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://www.worldcat.org/oclc/263079031> <http://www.w3.org/2000/01/rdf-schema#label> "Bulletin of the Biological Society of Washington" .
+<http://www.worldcat.org/oclc/263079031> <http://schema.org/description> "Print version:" .
+<http://www.worldcat.org/title/-/oclc/1011534732#PublicationEvent/washington_d_c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PublicationEvent> .
+<http://www.worldcat.org/title/-/oclc/1011534732#PublicationEvent/washington_d_c> <http://schema.org/location> <http://experiment.worldcat.org/entity/work/data/29844075#Place/washington_d_c> .
+<http://id.loc.gov/vocabulary/countries/dcu> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://id.loc.gov/vocabulary/countries/dcu> <http://purl.org/dc/terms/identifier> "dcu" .

@@ -1,0 +1,33 @@
+<http://www.worldcat.org/title/-/oclc/612168862> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#ContentTypeGenericResource> .
+<http://www.worldcat.org/title/-/oclc/612168862> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#InformationResource> .
+<http://www.worldcat.org/title/-/oclc/612168862> <http://schema.org/about> <http://www.worldcat.org/oclc/612168862> .
+<http://www.worldcat.org/title/-/oclc/612168862> <http://schema.org/dateModified> "2019-02-11" .
+<http://www.worldcat.org/title/-/oclc/612168862> <http://rdfs.org/ns/void#inDataset> <http://purl.oclc.org/dataset/WorldCat> .
+<http://experiment.worldcat.org/entity/work/data/1409616814#Place/sarasota_fla> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://experiment.worldcat.org/entity/work/data/1409616814#Place/sarasota_fla> <http://schema.org/name> "Sarasota, Fla." .
+<http://dewey.info/class/581.05/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://www.worldcat.org/title/-/oclc/612168862#PublicationEvent/sarasota_fla> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PublicationEvent> .
+<http://www.worldcat.org/title/-/oclc/612168862#PublicationEvent/sarasota_fla> <http://schema.org/location> <http://experiment.worldcat.org/entity/work/data/1409616814#Place/sarasota_fla> .
+<http://worldcat.org/issn/0361-185X> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://worldcat.org/issn/0361-185X> <http://schema.org/name> "Selbyana : the journal of the Marie Selby Botanical Gardens ; a publication devoted to tropical plants, with emphasis on epiphytic plant families." .
+<http://worldcat.org/issn/0361-185X> <http://schema.org/issn> "0361-185X" .
+<http://worldcat.org/issn/0361-185X> <http://umbel.org/umbel#isLike> <http://worldcat.org/entity/work/id/1409616814> .
+<http://www.worldcat.org/oclc/612168862> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://www.worldcat.org/oclc/612168862> <http://schema.org/publication> <http://www.worldcat.org/title/-/oclc/612168862#PublicationEvent/sarasota_fla> .
+<http://www.worldcat.org/oclc/612168862> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bibliograph.net/PublicationSeries> .
+<http://www.worldcat.org/oclc/612168862> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://www.worldcat.org/oclc/612168862> <http://schema.org/genre> "Zeitschrift" .
+<http://www.worldcat.org/oclc/612168862> <http://www.w3.org/2007/05/powder-s#describedby> <http://www.worldcat.org/title/-/oclc/612168862> .
+<http://www.worldcat.org/oclc/612168862> <http://umbel.org/umbel#isLike> <http://d-nb.info/011087447> .
+<http://www.worldcat.org/oclc/612168862> <http://schema.org/about> <http://dewey.info/class/581.05/> .
+<http://www.worldcat.org/oclc/612168862> <http://schema.org/inLanguage> "en" .
+<http://www.worldcat.org/oclc/612168862> <http://schema.org/exampleOfWork> <http://worldcat.org/entity/work/id/1409616814> .
+<http://www.worldcat.org/oclc/612168862> <http://schema.org/name> "Selbyana : the journal of the Marie Selby Botanical Gardens ; a publication devoted to tropical plants, with emphasis on epiphytic plant families." .
+<http://www.worldcat.org/oclc/612168862> <http://schema.org/workExample> <http://worldcat.org/issn/0361-185X> .
+<http://www.worldcat.org/oclc/612168862> <http://purl.org/library/placeOfPublication> <http://experiment.worldcat.org/entity/work/data/1409616814#Place/sarasota_fla> .
+<http://www.worldcat.org/oclc/612168862> <http://schema.org/productID> "612168862" .
+<http://www.worldcat.org/oclc/612168862> <http://purl.org/library/placeOfPublication> <http://id.loc.gov/vocabulary/countries/flu> .
+<http://www.worldcat.org/oclc/612168862> <http://purl.org/library/oclcnum> "612168862" .
+<http://id.loc.gov/vocabulary/countries/flu> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://id.loc.gov/vocabulary/countries/flu> <http://purl.org/dc/terms/identifier> "flu" .
+<http://worldcat.org/entity/work/id/1409616814> <http://umbel.org/umbel#isLike> <http://worldcat.org/issn/0361-185X> .

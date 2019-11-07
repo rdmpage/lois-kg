@@ -1,0 +1,44 @@
+<http://www.worldcat.org/oclc/715500654> <http://schema.org/publisher> <http://experiment.worldcat.org/entity/work/data/354849479#Agent/international_aroid_society> .
+<http://www.worldcat.org/oclc/715500654> <http://schema.org/name> "Aroideana : journal of the International Aroid Society." .
+<http://www.worldcat.org/oclc/715500654> <http://schema.org/datePublished> "1978/9999" .
+<http://www.worldcat.org/oclc/715500654> <http://schema.org/workExample> <http://worldcat.org/issn/0197-4033> .
+<http://www.worldcat.org/oclc/715500654> <http://schema.org/productID> "715500654" .
+<http://www.worldcat.org/oclc/715500654> <http://purl.org/library/placeOfPublication> <http://id.loc.gov/vocabulary/countries/xxu> .
+<http://www.worldcat.org/oclc/715500654> <http://schema.org/inLanguage> "en" .
+<http://www.worldcat.org/oclc/715500654> <http://schema.org/genre> "[périodique]" .
+<http://www.worldcat.org/oclc/715500654> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://www.worldcat.org/oclc/715500654> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/354849479#Topic/araceae> .
+<http://www.worldcat.org/oclc/715500654> <http://www.w3.org/2007/05/powder-s#describedby> <http://www.worldcat.org/title/-/oclc/715500654> .
+<http://www.worldcat.org/oclc/715500654> <http://schema.org/exampleOfWork> <http://worldcat.org/entity/work/id/354849479> .
+<http://www.worldcat.org/oclc/715500654> <http://schema.org/datePublished> "1978/" .
+<http://www.worldcat.org/oclc/715500654> <http://schema.org/contributor> <http://viaf.org/viaf/142509504> .
+<http://www.worldcat.org/oclc/715500654> <http://purl.org/library/oclcnum> "715500654" .
+<http://www.worldcat.org/oclc/715500654> <http://purl.org/library/placeOfPublication> <http://experiment.worldcat.org/entity/work/data/354849479#Place/south_miama_fla> .
+<http://www.worldcat.org/oclc/715500654> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://www.worldcat.org/oclc/715500654> <http://schema.org/publication> <http://www.worldcat.org/title/-/oclc/715500654#PublicationEvent/south_miama_fla_international_aroid_society_1978> .
+<http://www.worldcat.org/oclc/715500654> <http://schema.org/url> <http://www.aroid.org/aroideana/> .
+<http://experiment.worldcat.org/entity/work/data/354849479#Topic/araceae> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/354849479#Topic/araceae> <http://schema.org/name> "Araceae" .
+<http://www.aroid.org/aroideana/> <http://www.w3.org/2000/01/rdf-schema#comment> "36(2013)-38(2015)" .
+<http://www.worldcat.org/title/-/oclc/715500654> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#ContentTypeGenericResource> .
+<http://www.worldcat.org/title/-/oclc/715500654> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#InformationResource> .
+<http://www.worldcat.org/title/-/oclc/715500654> <http://schema.org/about> <http://www.worldcat.org/oclc/715500654> .
+<http://www.worldcat.org/title/-/oclc/715500654> <http://schema.org/dateModified> "2019-01-17" .
+<http://www.worldcat.org/title/-/oclc/715500654> <http://rdfs.org/ns/void#inDataset> <http://purl.oclc.org/dataset/WorldCat> .
+<http://www.worldcat.org/title/-/oclc/715500654#PublicationEvent/south_miama_fla_international_aroid_society_1978> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PublicationEvent> .
+<http://www.worldcat.org/title/-/oclc/715500654#PublicationEvent/south_miama_fla_international_aroid_society_1978> <http://schema.org/location> <http://experiment.worldcat.org/entity/work/data/354849479#Place/south_miama_fla> .
+<http://www.worldcat.org/title/-/oclc/715500654#PublicationEvent/south_miama_fla_international_aroid_society_1978> <http://schema.org/organizer> <http://experiment.worldcat.org/entity/work/data/354849479#Agent/international_aroid_society> .
+<http://www.worldcat.org/title/-/oclc/715500654#PublicationEvent/south_miama_fla_international_aroid_society_1978> <http://schema.org/startDate> "1978-" .
+<http://experiment.worldcat.org/entity/work/data/354849479#Agent/international_aroid_society> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bibliograph.net/Agent> .
+<http://experiment.worldcat.org/entity/work/data/354849479#Agent/international_aroid_society> <http://schema.org/name> "International Aroid Society" .
+<http://worldcat.org/issn/0197-4033> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://worldcat.org/issn/0197-4033> <http://schema.org/name> "Aroideana : journal of the International Aroid Society." .
+<http://worldcat.org/issn/0197-4033> <http://schema.org/issn> "0197-4033" .
+<http://worldcat.org/issn/0197-4033> <http://umbel.org/umbel#isLike> <http://worldcat.org/entity/work/id/354849479> .
+<http://id.loc.gov/vocabulary/countries/xxu> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://id.loc.gov/vocabulary/countries/xxu> <http://purl.org/dc/terms/identifier> "xxu" .
+<http://viaf.org/viaf/142509504> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+<http://viaf.org/viaf/142509504> <http://schema.org/name> "International Aroid Society." .
+<http://worldcat.org/entity/work/id/354849479> <http://umbel.org/umbel#isLike> <http://worldcat.org/issn/0197-4033> .
+<http://experiment.worldcat.org/entity/work/data/354849479#Place/south_miama_fla> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://experiment.worldcat.org/entity/work/data/354849479#Place/south_miama_fla> <http://schema.org/name> "South Miama Fla." .

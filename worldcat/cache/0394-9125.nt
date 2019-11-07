@@ -1,0 +1,54 @@
+<http://experiment.worldcat.org/entity/work/data/31558751#Organization/universita_degli_studi_di_trieste_universita_degli_studi_di_trieste> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+<http://experiment.worldcat.org/entity/work/data/31558751#Organization/universita_degli_studi_di_trieste_universita_degli_studi_di_trieste> <http://schema.org/name> "Universita degli Studi di Trieste, Universita degli Studi di Trieste." .
+<http://experiment.worldcat.org/entity/work/data/31558751#Topic/plant_ecology> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/31558751#Topic/plant_ecology> <http://schema.org/name> "plant ecology" .
+<http://experiment.worldcat.org/entity/work/data/31558751#Topic/phytogeography> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/31558751#Topic/phytogeography> <http://schema.org/name> "phytogeography" .
+<http://experiment.worldcat.org/entity/work/data/31558751#Topic/phytogeography> <http://schema.org/name> "Phytogeography" .
+<http://worldcat.org/entity/work/id/31558751> <http://umbel.org/umbel#isLike> <http://worldcat.org/issn/0394-9125> .
+<http://experiment.worldcat.org/entity/work/data/31558751#Agent/universita_di_trieste> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bibliograph.net/Agent> .
+<http://experiment.worldcat.org/entity/work/data/31558751#Agent/universita_di_trieste> <http://schema.org/name> "Universita di Trieste" .
+<http://worldcat.org/issn/0394-9125> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://worldcat.org/issn/0394-9125> <http://schema.org/name> "Studia geobotanica : an international journal." .
+<http://worldcat.org/issn/0394-9125> <http://schema.org/issn> "0394-9125" .
+<http://worldcat.org/issn/0394-9125> <http://umbel.org/umbel#isLike> <http://worldcat.org/entity/work/id/31558751> .
+<http://www.worldcat.org/oclc/776651500> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/31558751#Topic/fytogeografie> .
+<http://www.worldcat.org/oclc/776651500> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/31558751#Topic/plant_ecology> .
+<http://www.worldcat.org/oclc/776651500> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/31558751#Topic/plantengeografie> .
+<http://www.worldcat.org/oclc/776651500> <http://schema.org/datePublished> "1980/1980" .
+<http://www.worldcat.org/oclc/776651500> <http://schema.org/productID> "776651500" .
+<http://www.worldcat.org/oclc/776651500> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/31558751#Topic/plantenecologie> .
+<http://www.worldcat.org/oclc/776651500> <http://schema.org/name> "Studia geobotanica : an international journal." .
+<http://www.worldcat.org/oclc/776651500> <http://purl.org/library/oclcnum> "776651500" .
+<http://www.worldcat.org/oclc/776651500> <http://schema.org/datePublished> "1980/" .
+<http://www.worldcat.org/oclc/776651500> <http://schema.org/publication> <http://www.worldcat.org/title/-/oclc/776651500#PublicationEvent/trieste_universita_di_trieste_1980> .
+<http://www.worldcat.org/oclc/776651500> <http://schema.org/exampleOfWork> <http://worldcat.org/entity/work/id/31558751> .
+<http://www.worldcat.org/oclc/776651500> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/31558751#Topic/phytogeography> .
+<http://www.worldcat.org/oclc/776651500> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://www.worldcat.org/oclc/776651500> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/31558751#Topic/flora> .
+<http://www.worldcat.org/oclc/776651500> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://www.worldcat.org/oclc/776651500> <http://schema.org/inLanguage> "en" .
+<http://www.worldcat.org/oclc/776651500> <http://schema.org/workExample> <http://worldcat.org/issn/0394-9125> .
+<http://www.worldcat.org/oclc/776651500> <http://schema.org/publisher> <http://experiment.worldcat.org/entity/work/data/31558751#Agent/universita_di_trieste> .
+<http://www.worldcat.org/oclc/776651500> <http://schema.org/contributor> <http://experiment.worldcat.org/entity/work/data/31558751#Organization/universita_degli_studi_di_trieste_universita_degli_studi_di_trieste> .
+<http://www.worldcat.org/oclc/776651500> <http://www.w3.org/2007/05/powder-s#describedby> <http://www.worldcat.org/title/-/oclc/776651500> .
+<http://www.worldcat.org/oclc/776651500> <http://purl.org/library/placeOfPublication> <http://experiment.worldcat.org/entity/work/data/31558751#Place/trieste> .
+<http://experiment.worldcat.org/entity/work/data/31558751#Place/trieste> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://experiment.worldcat.org/entity/work/data/31558751#Place/trieste> <http://schema.org/name> "Trieste" .
+<http://www.worldcat.org/title/-/oclc/776651500> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#ContentTypeGenericResource> .
+<http://www.worldcat.org/title/-/oclc/776651500> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#InformationResource> .
+<http://www.worldcat.org/title/-/oclc/776651500> <http://schema.org/about> <http://www.worldcat.org/oclc/776651500> .
+<http://www.worldcat.org/title/-/oclc/776651500> <http://schema.org/dateModified> "2019-07-18" .
+<http://www.worldcat.org/title/-/oclc/776651500> <http://rdfs.org/ns/void#inDataset> <http://purl.oclc.org/dataset/WorldCat> .
+<http://www.worldcat.org/title/-/oclc/776651500#PublicationEvent/trieste_universita_di_trieste_1980> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PublicationEvent> .
+<http://www.worldcat.org/title/-/oclc/776651500#PublicationEvent/trieste_universita_di_trieste_1980> <http://schema.org/location> <http://experiment.worldcat.org/entity/work/data/31558751#Place/trieste> .
+<http://www.worldcat.org/title/-/oclc/776651500#PublicationEvent/trieste_universita_di_trieste_1980> <http://schema.org/organizer> <http://experiment.worldcat.org/entity/work/data/31558751#Agent/universita_di_trieste> .
+<http://www.worldcat.org/title/-/oclc/776651500#PublicationEvent/trieste_universita_di_trieste_1980> <http://schema.org/startDate> "1980-" .
+<http://experiment.worldcat.org/entity/work/data/31558751#Topic/plantengeografie> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/31558751#Topic/plantengeografie> <http://schema.org/name> "plantengeografie" .
+<http://experiment.worldcat.org/entity/work/data/31558751#Topic/fytogeografie> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/31558751#Topic/fytogeografie> <http://schema.org/name> "Fytogeografie" .
+<http://experiment.worldcat.org/entity/work/data/31558751#Topic/plantenecologie> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/31558751#Topic/plantenecologie> <http://schema.org/name> "plantenecologie" .
+<http://experiment.worldcat.org/entity/work/data/31558751#Topic/flora> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/31558751#Topic/flora> <http://schema.org/name> "flora" .

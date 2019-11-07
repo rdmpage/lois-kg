@@ -1,0 +1,56 @@
+<http://experiment.worldcat.org/entity/work/data/792944764#Topic/zoologie> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/792944764#Topic/zoologie> <http://schema.org/name> "Zoologie" .
+<http://experiment.worldcat.org/entity/work/data/792944764#Organization/museum_fur_naturkunde_berlin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+<http://experiment.worldcat.org/entity/work/data/792944764#Organization/museum_fur_naturkunde_berlin> <http://schema.org/name> "Museum für Naturkunde (Berlin)" .
+<http://www.worldcat.org/title/-/oclc/230136350> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#ContentTypeGenericResource> .
+<http://www.worldcat.org/title/-/oclc/230136350> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#InformationResource> .
+<http://www.worldcat.org/title/-/oclc/230136350> <http://schema.org/about> <http://www.worldcat.org/oclc/230136350> .
+<http://www.worldcat.org/title/-/oclc/230136350> <http://schema.org/dateModified> "2019-06-08" .
+<http://www.worldcat.org/title/-/oclc/230136350> <http://rdfs.org/ns/void#inDataset> <http://purl.oclc.org/dataset/WorldCat> .
+<http://experiment.worldcat.org/entity/work/data/792944764#Topic/taxonomie_biologie> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/792944764#Topic/taxonomie_biologie> <http://schema.org/name> "Taxonomie (Biologie)" .
+<http://www.pensoft.net/journals/zse> <http://www.w3.org/2000/01/rdf-schema#comment> "kostenfrei" .
+<http://worldcat.org/entity/work/id/792944764> <http://umbel.org/umbel#isLike> <http://worldcat.org/issn/1435-1935> .
+<http://www.worldcat.org/title/-/oclc/230136350#PublicationEvent/weinheim_wiley_vch> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PublicationEvent> .
+<http://www.worldcat.org/title/-/oclc/230136350#PublicationEvent/weinheim_wiley_vch> <http://schema.org/location> <http://experiment.worldcat.org/entity/work/data/792944764#Place/weinheim> .
+<http://www.worldcat.org/title/-/oclc/230136350#PublicationEvent/weinheim_wiley_vch> <http://schema.org/organizer> <http://experiment.worldcat.org/entity/work/data/792944764#Agent/wiley_vch> .
+<http://www.worldcat.org/oclc/230136350> <http://schema.org/url> <http://www.pensoft.net/journals/zse> .
+<http://www.worldcat.org/oclc/230136350> <http://schema.org/name> "Zoosystematics and evolution : Mitteilungen aus dem Museum für Naturkunde in Berlin." .
+<http://www.worldcat.org/oclc/230136350> <http://schema.org/datePublished> "2008/9999" .
+<http://www.worldcat.org/oclc/230136350> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/792944764#Topic/taxonomie_biologie> .
+<http://www.worldcat.org/oclc/230136350> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://www.worldcat.org/oclc/230136350> <http://www.w3.org/2007/05/powder-s#describedby> <http://www.worldcat.org/title/-/oclc/230136350> .
+<http://www.worldcat.org/oclc/230136350> <http://purl.org/library/placeOfPublication> <http://experiment.worldcat.org/entity/work/data/792944764#Place/weinheim> .
+<http://www.worldcat.org/oclc/230136350> <http://schema.org/url> <http://www.bibliothek.uni-regensburg.de/ezeit/?2420116> .
+<http://www.worldcat.org/oclc/230136350> <http://schema.org/exampleOfWork> <http://worldcat.org/entity/work/id/792944764> .
+<http://www.worldcat.org/oclc/230136350> <http://purl.org/library/placeOfPublication> <http://id.loc.gov/vocabulary/countries/gw> .
+<http://www.worldcat.org/oclc/230136350> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://www.worldcat.org/oclc/230136350> <http://schema.org/publication> <http://www.worldcat.org/title/-/oclc/230136350#PublicationEvent/weinheim_wiley_vch> .
+<http://www.worldcat.org/oclc/230136350> <http://schema.org/url> <http://www3.interscience.wiley.com/cgi-bin/jhome/109865047> .
+<http://www.worldcat.org/oclc/230136350> <http://purl.org/library/oclcnum> "230136350" .
+<http://www.worldcat.org/oclc/230136350> <http://schema.org/publisher> <http://experiment.worldcat.org/entity/work/data/792944764#Agent/wiley_vch> .
+<http://www.worldcat.org/oclc/230136350> <http://schema.org/contributor> <http://experiment.worldcat.org/entity/work/data/792944764#Organization/museum_fur_naturkunde_berlin> .
+<http://www.worldcat.org/oclc/230136350> <http://schema.org/url> <https://onlinelibrary.wiley.com/journal/18600743a> .
+<http://www.worldcat.org/oclc/230136350> <http://schema.org/productID> "230136350" .
+<http://www.worldcat.org/oclc/230136350> <http://schema.org/url> <http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1860-0743a> .
+<http://www.worldcat.org/oclc/230136350> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/792944764#Topic/zoologie> .
+<http://www.worldcat.org/oclc/230136350> <http://schema.org/about> <http://dewey.info/class/590.5/e22/ger/> .
+<http://www.worldcat.org/oclc/230136350> <http://schema.org/genre> "Zeitschrift" .
+<http://www.worldcat.org/oclc/230136350> <http://umbel.org/umbel#isLike> <http://d-nb.info/988208016> .
+<http://www.worldcat.org/oclc/230136350> <http://schema.org/workExample> <http://worldcat.org/issn/1435-1935> .
+<http://www.worldcat.org/oclc/230136350> <http://umbel.org/umbel#isLike> <http://d-nb.info/988162660> .
+<http://www.worldcat.org/oclc/230136350> <http://schema.org/url> <http://www.bibliothek.uni-regensburg.de/ezeit/?2187206> .
+<http://www.worldcat.org/oclc/230136350> <http://schema.org/url> <https://doi.org/10.1002/(ISSN)1860-0743a> .
+<http://www.worldcat.org/oclc/230136350> <http://schema.org/alternateName> "Mitteilungen aus dem Museum für Naturkunde in Berlin" .
+<http://www.worldcat.org/oclc/230136350> <http://schema.org/inLanguage> "en" .
+<http://dewey.info/class/590.5/e22/ger/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://worldcat.org/issn/1435-1935> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://worldcat.org/issn/1435-1935> <http://schema.org/name> "Zoosystematics and evolution : Mitteilungen aus dem Museum für Naturkunde in Berlin." .
+<http://worldcat.org/issn/1435-1935> <http://schema.org/issn> "1435-1935" .
+<http://worldcat.org/issn/1435-1935> <http://umbel.org/umbel#isLike> <http://worldcat.org/entity/work/id/792944764> .
+<http://experiment.worldcat.org/entity/work/data/792944764#Place/weinheim> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://experiment.worldcat.org/entity/work/data/792944764#Place/weinheim> <http://schema.org/name> "Weinheim" .
+<http://id.loc.gov/vocabulary/countries/gw> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://id.loc.gov/vocabulary/countries/gw> <http://purl.org/dc/terms/identifier> "gw" .
+<http://experiment.worldcat.org/entity/work/data/792944764#Agent/wiley_vch> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bibliograph.net/Agent> .
+<http://experiment.worldcat.org/entity/work/data/792944764#Agent/wiley_vch> <http://schema.org/name> "Wiley-VCH" .

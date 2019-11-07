@@ -1,0 +1,50 @@
+<http://experiment.worldcat.org/entity/work/data/15773593#Organization/henry_shaw_school_of_botany_graduate_laboratory> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+<http://experiment.worldcat.org/entity/work/data/15773593#Organization/henry_shaw_school_of_botany_graduate_laboratory> <http://schema.org/name> "Henry Shaw School of Botany. Graduate Laboratory." .
+<http://experiment.worldcat.org/entity/work/data/15773593#Topic/botany> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/15773593#Topic/botany> <http://schema.org/name> "Botany"@en .
+<http://experiment.worldcat.org/entity/work/data/15773593#Place/concord_n_h> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://experiment.worldcat.org/entity/work/data/15773593#Place/concord_n_h> <http://schema.org/name> "Concord, N.H." .
+<http://www.worldcat.org/title/-/oclc/973270702#PublicationEvent/concord_n_h_rumford_press_for_the_board_of_trustees_of_the_missouri_botanical_garden_2003_2012> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PublicationEvent> .
+<http://www.worldcat.org/title/-/oclc/973270702#PublicationEvent/concord_n_h_rumford_press_for_the_board_of_trustees_of_the_missouri_botanical_garden_2003_2012> <http://schema.org/location> <http://experiment.worldcat.org/entity/work/data/15773593#Place/concord_n_h> .
+<http://www.worldcat.org/title/-/oclc/973270702#PublicationEvent/concord_n_h_rumford_press_for_the_board_of_trustees_of_the_missouri_botanical_garden_2003_2012> <http://schema.org/organizer> <http://experiment.worldcat.org/entity/work/data/15773593#Agent/rumford_press_for_the_board_of_trustees_of_the_missouri_botanical_garden> .
+<http://www.worldcat.org/title/-/oclc/973270702#PublicationEvent/concord_n_h_rumford_press_for_the_board_of_trustees_of_the_missouri_botanical_garden_2003_2012> <http://schema.org/startDate> "2003-2012" .
+<http://worldcat.org/entity/work/id/15773593> <http://umbel.org/umbel#isLike> <http://worldcat.org/issn/0026-6493> .
+<http://experiment.worldcat.org/entity/work/data/15773593#Organization/missouri_botanical_garden> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+<http://experiment.worldcat.org/entity/work/data/15773593#Organization/missouri_botanical_garden> <http://schema.org/name> "Missouri Botanical Garden." .
+<http://experiment.worldcat.org/entity/work/data/15773593#Agent/rumford_press_for_the_board_of_trustees_of_the_missouri_botanical_garden> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bibliograph.net/Agent> .
+<http://experiment.worldcat.org/entity/work/data/15773593#Agent/rumford_press_for_the_board_of_trustees_of_the_missouri_botanical_garden> <http://schema.org/name> "Rumford Press for the Board of Trustees of the Missouri Botanical Garden" .
+<http://id.loc.gov/vocabulary/countries/mou> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://id.loc.gov/vocabulary/countries/mou> <http://purl.org/dc/terms/identifier> "mou" .
+<http://www.worldcat.org/oclc/973270702> <http://schema.org/contributor> <http://experiment.worldcat.org/entity/work/data/15773593#Organization/henry_shaw_school_of_botany_graduate_laboratory> .
+<http://www.worldcat.org/oclc/973270702> <http://schema.org/exampleOfWork> <http://worldcat.org/entity/work/id/15773593> .
+<http://www.worldcat.org/oclc/973270702> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://www.worldcat.org/oclc/973270702> <http://schema.org/workExample> <http://worldcat.org/issn/0026-6493> .
+<http://www.worldcat.org/oclc/973270702> <http://purl.org/library/oclcnum> "973270702" .
+<http://www.worldcat.org/oclc/973270702> <http://www.w3.org/2007/05/powder-s#describedby> <http://www.worldcat.org/title/-/oclc/973270702> .
+<http://www.worldcat.org/oclc/973270702> <http://schema.org/genre> "Classification"@en .
+<http://www.worldcat.org/oclc/973270702> <http://schema.org/publisher> <http://experiment.worldcat.org/entity/work/data/15773593#Agent/rumford_press_for_the_board_of_trustees_of_the_missouri_botanical_garden> .
+<http://www.worldcat.org/oclc/973270702> <http://schema.org/datePublished> "2003/2012" .
+<http://www.worldcat.org/oclc/973270702> <http://purl.org/library/placeOfPublication> <http://experiment.worldcat.org/entity/work/data/15773593#Place/concord_n_h> .
+<http://www.worldcat.org/oclc/973270702> <http://schema.org/genre> "Periodicals"@en .
+<http://www.worldcat.org/oclc/973270702> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/15773593#Topic/botany> .
+<http://www.worldcat.org/oclc/973270702> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://www.worldcat.org/oclc/973270702> <http://schema.org/productID> "973270702" .
+<http://www.worldcat.org/oclc/973270702> <http://schema.org/name> "Annals of the Missouri Botanical Garden."@en .
+<http://www.worldcat.org/oclc/973270702> <http://schema.org/contributor> <http://experiment.worldcat.org/entity/work/data/15773593#Organization/missouri_botanical_garden> .
+<http://www.worldcat.org/oclc/973270702> <http://schema.org/datePublished> "2003/9999" .
+<http://www.worldcat.org/oclc/973270702> <http://purl.org/library/placeOfPublication> <http://id.loc.gov/vocabulary/countries/mou> .
+<http://www.worldcat.org/oclc/973270702> <http://schema.org/publication> <http://www.worldcat.org/title/-/oclc/973270702#PublicationEvent/concord_n_h_rumford_press_for_the_board_of_trustees_of_the_missouri_botanical_garden_2003_2012> .
+<http://www.worldcat.org/oclc/973270702> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/15773593#Topic/plants> .
+<http://www.worldcat.org/oclc/973270702> <http://schema.org/inLanguage> "en" .
+<http://www.worldcat.org/oclc/973270702> <http://schema.org/description> "Contains scientific contributions from the Missouri Botanical Garden and, from 1914-69, the Graduate Laboratory of the Henry Shaw School of Botany of Washington University."@en .
+<http://experiment.worldcat.org/entity/work/data/15773593#Topic/plants> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/15773593#Topic/plants> <http://schema.org/name> "Plants"@en .
+<http://www.worldcat.org/title/-/oclc/973270702> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#ContentTypeGenericResource> .
+<http://www.worldcat.org/title/-/oclc/973270702> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#InformationResource> .
+<http://www.worldcat.org/title/-/oclc/973270702> <http://schema.org/about> <http://www.worldcat.org/oclc/973270702> .
+<http://www.worldcat.org/title/-/oclc/973270702> <http://schema.org/dateModified> "2019-02-19" .
+<http://www.worldcat.org/title/-/oclc/973270702> <http://rdfs.org/ns/void#inDataset> <http://purl.oclc.org/dataset/WorldCat> .
+<http://worldcat.org/issn/0026-6493> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://worldcat.org/issn/0026-6493> <http://schema.org/name> "Annals of the Missouri Botanical Garden."@en .
+<http://worldcat.org/issn/0026-6493> <http://schema.org/issn> "0026-6493" .
+<http://worldcat.org/issn/0026-6493> <http://umbel.org/umbel#isLike> <http://worldcat.org/entity/work/id/15773593> .

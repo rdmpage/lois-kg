@@ -1,0 +1,46 @@
+<http://id.loc.gov/vocabulary/countries/bu> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://id.loc.gov/vocabulary/countries/bu> <http://purl.org/dc/terms/identifier> "bu" .
+<http://experiment.worldcat.org/entity/work/data/2268512064#Agent/pensoft_publishers> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bibliograph.net/Agent> .
+<http://experiment.worldcat.org/entity/work/data/2268512064#Agent/pensoft_publishers> <http://schema.org/name> "Pensoft Publishers" .
+<http://experiment.worldcat.org/entity/work/data/2268512064#CreativeWork/bdj> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://experiment.worldcat.org/entity/work/data/2268512064#CreativeWork/bdj> <http://schema.org/name> "BDJ" .
+<http://worldcat.org/issn/1314-2828> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://worldcat.org/issn/1314-2828> <http://schema.org/name> "Biodiversity data journal" .
+<http://worldcat.org/issn/1314-2828> <http://schema.org/issn> "1314-2828" .
+<http://worldcat.org/issn/1314-2828> <http://umbel.org/umbel#isLike> <http://worldcat.org/entity/work/id/2268512064> .
+<http://www.worldcat.org/oclc/900259940> <http://schema.org/exampleOfWork> <http://worldcat.org/entity/work/id/2268512064> .
+<http://www.worldcat.org/oclc/900259940> <http://schema.org/inLanguage> "en" .
+<http://www.worldcat.org/oclc/900259940> <http://purl.org/library/placeOfPublication> <http://id.loc.gov/vocabulary/countries/bu> .
+<http://www.worldcat.org/oclc/900259940> <http://schema.org/genre> "Electronic journals" .
+<http://www.worldcat.org/oclc/900259940> <http://purl.org/library/oclcnum> "900259940" .
+<http://www.worldcat.org/oclc/900259940> <http://schema.org/genre> "Periodicals" .
+<http://www.worldcat.org/oclc/900259940> <http://schema.org/datePublished> "2013/9999" .
+<http://www.worldcat.org/oclc/900259940> <http://schema.org/name> "Biodiversity data journal" .
+<http://www.worldcat.org/oclc/900259940> <http://schema.org/url> <http://BD9JX6AS9L.search.serialssolutions.com/?V=1.0&L=BD9JX6AS9L&S=JCs&C=TC0001213419&T=marc&tab=JOURNALS> .
+<http://www.worldcat.org/oclc/900259940> <http://schema.org/workExample> <http://worldcat.org/issn/1314-2828> .
+<http://www.worldcat.org/oclc/900259940> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://www.worldcat.org/oclc/900259940> <http://schema.org/productID> "900259940" .
+<http://www.worldcat.org/oclc/900259940> <http://schema.org/publisher> <http://experiment.worldcat.org/entity/work/data/2268512064#Agent/pensoft_publishers> .
+<http://www.worldcat.org/oclc/900259940> <http://purl.org/library/placeOfPublication> <http://experiment.worldcat.org/entity/work/data/2268512064#Place/sofia> .
+<http://www.worldcat.org/oclc/900259940> <http://schema.org/datePublished> "2013/" .
+<http://www.worldcat.org/oclc/900259940> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://experiment.worldcat.org/entity/work/data/2268512064#CreativeWork/bdj> .
+<http://www.worldcat.org/oclc/900259940> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/MediaObject> .
+<http://www.worldcat.org/oclc/900259940> <http://www.w3.org/2007/05/powder-s#describedby> <http://www.worldcat.org/title/-/oclc/900259940> .
+<http://www.worldcat.org/oclc/900259940> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://www.worldcat.org/oclc/900259940> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/2268512064#Topic/biodiversity> .
+<http://www.worldcat.org/oclc/900259940> <http://schema.org/publication> <http://www.worldcat.org/title/-/oclc/900259940#PublicationEvent/sofia_pensoft_publishers_2013> .
+<http://BD9JX6AS9L.search.serialssolutions.com/?V=1.0&L=BD9JX6AS9L&S=JCs&C=TC0001213419&T=marc&tab=JOURNALS> <http://www.w3.org/2000/01/rdf-schema#comment> "Elektronisk udgave. Adgang fra RUC's netværk" .
+<http://worldcat.org/entity/work/id/2268512064> <http://umbel.org/umbel#isLike> <http://worldcat.org/issn/1314-2828> .
+<http://www.worldcat.org/title/-/oclc/900259940> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#ContentTypeGenericResource> .
+<http://www.worldcat.org/title/-/oclc/900259940> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#InformationResource> .
+<http://www.worldcat.org/title/-/oclc/900259940> <http://schema.org/about> <http://www.worldcat.org/oclc/900259940> .
+<http://www.worldcat.org/title/-/oclc/900259940> <http://schema.org/dateModified> "2019-02-09" .
+<http://www.worldcat.org/title/-/oclc/900259940> <http://rdfs.org/ns/void#inDataset> <http://purl.oclc.org/dataset/WorldCat> .
+<http://experiment.worldcat.org/entity/work/data/2268512064#Place/sofia> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://experiment.worldcat.org/entity/work/data/2268512064#Place/sofia> <http://schema.org/name> "Sofia" .
+<http://experiment.worldcat.org/entity/work/data/2268512064#Topic/biodiversity> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/2268512064#Topic/biodiversity> <http://schema.org/name> "Biodiversity" .
+<http://www.worldcat.org/title/-/oclc/900259940#PublicationEvent/sofia_pensoft_publishers_2013> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PublicationEvent> .
+<http://www.worldcat.org/title/-/oclc/900259940#PublicationEvent/sofia_pensoft_publishers_2013> <http://schema.org/location> <http://experiment.worldcat.org/entity/work/data/2268512064#Place/sofia> .
+<http://www.worldcat.org/title/-/oclc/900259940#PublicationEvent/sofia_pensoft_publishers_2013> <http://schema.org/organizer> <http://experiment.worldcat.org/entity/work/data/2268512064#Agent/pensoft_publishers> .
+<http://www.worldcat.org/title/-/oclc/900259940#PublicationEvent/sofia_pensoft_publishers_2013> <http://schema.org/startDate> "2013-" .

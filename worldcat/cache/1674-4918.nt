@@ -1,0 +1,32 @@
+<http://experiment.worldcat.org/entity/work/data/410562316#Topic/plant_geography> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/410562316#Topic/plant_geography> <http://schema.org/name> "Plant Geography" .
+<http://worldcat.org/entity/work/data/410562316#CreativeWork/journal_of_systematics_and_evolution_jse_print> <http://schema.org/isSimilarTo> <http://www.worldcat.org/oclc/939182247> .
+<http://worldcat.org/entity/work/data/410562316#CreativeWork/journal_of_systematics_and_evolution_jse_print> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://worldcat.org/entity/work/data/410562316#CreativeWork/journal_of_systematics_and_evolution_jse_print> <http://www.w3.org/2000/01/rdf-schema#label> "Journal of systematics and evolution : JSE (Print)" .
+<http://worldcat.org/entity/work/id/410562316> <http://umbel.org/umbel#isLike> <http://worldcat.org/issn/1759-6831> .
+<http://www.worldcat.org/oclc/939182247> <http://schema.org/exampleOfWork> <http://worldcat.org/entity/work/id/410562316> .
+<http://www.worldcat.org/oclc/939182247> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/410562316#Topic/plant_geography> .
+<http://www.worldcat.org/oclc/939182247> <http://schema.org/workExample> <http://worldcat.org/issn/1759-6831> .
+<http://www.worldcat.org/oclc/939182247> <http://schema.org/genre> "Electronic journals" .
+<http://www.worldcat.org/oclc/939182247> <http://www.w3.org/2007/05/powder-s#describedby> <http://www.worldcat.org/title/-/oclc/939182247> .
+<http://www.worldcat.org/oclc/939182247> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/MediaObject> .
+<http://www.worldcat.org/oclc/939182247> <http://schema.org/datePublished> "2009/9999" .
+<http://www.worldcat.org/oclc/939182247> <http://schema.org/productID> "939182247" .
+<http://www.worldcat.org/oclc/939182247> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://www.worldcat.org/oclc/939182247> <http://schema.org/url> <http://link.libris.kb.se/sfxwsok?url_ver=Z39.88-2004&ctx_ver=Z39.88-2004&ctx_enc=info:ofi/enc:UTF-8&rfr_id=info:sid/sfxit.com:opac_856&url_ctx_fmt=info:ofi/fmt:kev:mtx:ctx&sfx.ignore_date_threshold=1&rft.object_id=1000000000565334&svc_val_fmt=info:ofi/fmt:kev:mtx:sch_svc&> .
+<http://www.worldcat.org/oclc/939182247> <http://purl.org/library/oclcnum> "939182247" .
+<http://www.worldcat.org/oclc/939182247> <http://schema.org/inLanguage> "en" .
+<http://www.worldcat.org/oclc/939182247> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://www.worldcat.org/oclc/939182247> <http://schema.org/name> "Journal of systematics and evolution : JSE" .
+<http://www.worldcat.org/oclc/939182247> <http://schema.org/isSimilarTo> <http://worldcat.org/entity/work/data/410562316#CreativeWork/journal_of_systematics_and_evolution_jse_print> .
+<http://www.worldcat.org/title/-/oclc/939182247> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#ContentTypeGenericResource> .
+<http://www.worldcat.org/title/-/oclc/939182247> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#InformationResource> .
+<http://www.worldcat.org/title/-/oclc/939182247> <http://schema.org/about> <http://www.worldcat.org/oclc/939182247> .
+<http://www.worldcat.org/title/-/oclc/939182247> <http://schema.org/dateModified> "2019-02-09" .
+<http://www.worldcat.org/title/-/oclc/939182247> <http://rdfs.org/ns/void#inDataset> <http://purl.oclc.org/dataset/WorldCat> .
+<http://worldcat.org/issn/1759-6831> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://worldcat.org/issn/1759-6831> <http://schema.org/name> "Journal of systematics and evolution : JSE" .
+<http://worldcat.org/issn/1759-6831> <http://schema.org/issn> "1759-6831" .
+<http://worldcat.org/issn/1759-6831> <http://umbel.org/umbel#isLike> <http://worldcat.org/entity/work/id/410562316> .
+<http://link.libris.kb.se/sfxwsok?url_ver=Z39.88-2004&ctx_ver=Z39.88-2004&ctx_enc=info:ofi/enc:UTF-8&rfr_id=info:sid/sfxit.com:opac_856&url_ctx_fmt=info:ofi/fmt:kev:mtx:ctx&sfx.ignore_date_threshold=1&rft.object_id=1000000000565334&svc_val_fmt=info:ofi/fmt:kev:mtx:sch_svc&> <http://www.w3.org/2000/01/rdf-schema#comment> "Fritt tillgänglig via:" .
+<http://link.libris.kb.se/sfxwsok?url_ver=Z39.88-2004&ctx_ver=Z39.88-2004&ctx_enc=info:ofi/enc:UTF-8&rfr_id=info:sid/sfxit.com:opac_856&url_ctx_fmt=info:ofi/fmt:kev:mtx:ctx&sfx.ignore_date_threshold=1&rft.object_id=1000000000565334&svc_val_fmt=info:ofi/fmt:kev:mtx:sch_svc&> <http://www.w3.org/2000/01/rdf-schema#comment> "DOAJ Directory of Open Access Journals:Full Text" .

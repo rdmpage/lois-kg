@@ -1,0 +1,47 @@
+<http://www.worldcat.org/title/-/oclc/909882555> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#ContentTypeGenericResource> .
+<http://www.worldcat.org/title/-/oclc/909882555> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#InformationResource> .
+<http://www.worldcat.org/title/-/oclc/909882555> <http://schema.org/about> <http://www.worldcat.org/oclc/909882555> .
+<http://www.worldcat.org/title/-/oclc/909882555> <http://schema.org/dateModified> "2018-11-08" .
+<http://www.worldcat.org/title/-/oclc/909882555> <http://rdfs.org/ns/void#inDataset> <http://purl.oclc.org/dataset/WorldCat> .
+<http://experiment.worldcat.org/entity/work/data/35685095#Series/directory_of_open_access_journals> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bibliograph.net/PublicationSeries> .
+<http://experiment.worldcat.org/entity/work/data/35685095#Series/directory_of_open_access_journals> <http://schema.org/hasPart> <http://www.worldcat.org/oclc/909882555> .
+<http://experiment.worldcat.org/entity/work/data/35685095#Series/directory_of_open_access_journals> <http://schema.org/name> "Directory of Open Access Journals ;" .
+<http://experiment.worldcat.org/entity/work/data/35685095#Series/directory_of_open_access_journals> <http://schema.org/name> "Directory of Open Access Journals." .
+<http://experiment.worldcat.org/entity/work/data/35685095#Agent/universidad_de_concepcion> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bibliograph.net/Agent> .
+<http://experiment.worldcat.org/entity/work/data/35685095#Agent/universidad_de_concepcion> <http://schema.org/name> "Universidad de Concepción" .
+<http://id.loc.gov/vocabulary/countries/cl> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://id.loc.gov/vocabulary/countries/cl> <http://purl.org/dc/terms/identifier> "cl" .
+<http://www.worldcat.org/title/-/oclc/909882555#PublicationEvent/universidad_de_concepcion_2000> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PublicationEvent> .
+<http://www.worldcat.org/title/-/oclc/909882555#PublicationEvent/universidad_de_concepcion_2000> <http://schema.org/organizer> <http://experiment.worldcat.org/entity/work/data/35685095#Agent/universidad_de_concepcion> .
+<http://www.worldcat.org/title/-/oclc/909882555#PublicationEvent/universidad_de_concepcion_2000> <http://schema.org/startDate> "2000-" .
+<http://experiment.worldcat.org/entity/work/data/35685095#Thing/novenytan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> .
+<http://experiment.worldcat.org/entity/work/data/35685095#Thing/novenytan> <http://schema.org/name> "Növénytan" .
+<http://worldcat.org/entity/work/id/35685095> <http://umbel.org/umbel#isLike> <http://worldcat.org/issn/0717-6643> .
+<http://worldcat.org/entity/work/id/35685095> <http://umbel.org/umbel#isLike> <http://worldcat.org/issn/0016-5301> .
+<http://www.scielo.cl/scielo.php?script=sci_serial&pid=0717-6643&lng=en&nrm=iso> <http://www.w3.org/2000/01/rdf-schema#comment> "Full text: 2000-" .
+<http://www.worldcat.org/oclc/909882555> <http://schema.org/publisher> <http://experiment.worldcat.org/entity/work/data/35685095#Agent/universidad_de_concepcion> .
+<http://www.worldcat.org/oclc/909882555> <http://schema.org/datePublished> "2000/" .
+<http://www.worldcat.org/oclc/909882555> <http://schema.org/publication> <http://www.worldcat.org/title/-/oclc/909882555#PublicationEvent/universidad_de_concepcion_2000> .
+<http://www.worldcat.org/oclc/909882555> <http://www.w3.org/2007/05/powder-s#describedby> <http://www.worldcat.org/title/-/oclc/909882555> .
+<http://www.worldcat.org/oclc/909882555> <http://schema.org/productID> "909882555" .
+<http://www.worldcat.org/oclc/909882555> <http://schema.org/inLanguage> "en" .
+<http://www.worldcat.org/oclc/909882555> <http://purl.org/library/oclcnum> "909882555" .
+<http://www.worldcat.org/oclc/909882555> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://www.worldcat.org/oclc/909882555> <http://schema.org/workExample> <http://worldcat.org/issn/0717-6643> .
+<http://www.worldcat.org/oclc/909882555> <http://schema.org/workExample> <http://worldcat.org/issn/0016-5301> .
+<http://www.worldcat.org/oclc/909882555> <http://schema.org/datePublished> "2000/9999" .
+<http://www.worldcat.org/oclc/909882555> <http://schema.org/name> "Gayana. Botanica" .
+<http://www.worldcat.org/oclc/909882555> <http://purl.org/library/placeOfPublication> <http://id.loc.gov/vocabulary/countries/cl> .
+<http://www.worldcat.org/oclc/909882555> <http://schema.org/url> <http://www.scielo.cl/scielo.php?script=sci_serial&pid=0717-6643&lng=en&nrm=iso> .
+<http://www.worldcat.org/oclc/909882555> <http://schema.org/isPartOf> <http://experiment.worldcat.org/entity/work/data/35685095#Series/directory_of_open_access_journals> .
+<http://www.worldcat.org/oclc/909882555> <http://schema.org/exampleOfWork> <http://worldcat.org/entity/work/id/35685095> .
+<http://www.worldcat.org/oclc/909882555> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://www.worldcat.org/oclc/909882555> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/35685095#Thing/novenytan> .
+<http://worldcat.org/issn/0016-5301> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://worldcat.org/issn/0016-5301> <http://schema.org/name> "Gayana. Botanica" .
+<http://worldcat.org/issn/0016-5301> <http://schema.org/issn> "0016-5301" .
+<http://worldcat.org/issn/0016-5301> <http://umbel.org/umbel#isLike> <http://worldcat.org/entity/work/id/35685095> .
+<http://worldcat.org/issn/0717-6643> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://worldcat.org/issn/0717-6643> <http://schema.org/name> "Gayana. Botanica" .
+<http://worldcat.org/issn/0717-6643> <http://schema.org/issn> "0717-6643" .
+<http://worldcat.org/issn/0717-6643> <http://umbel.org/umbel#isLike> <http://worldcat.org/entity/work/id/35685095> .

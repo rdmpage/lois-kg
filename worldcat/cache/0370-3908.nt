@@ -1,0 +1,39 @@
+<http://www.worldcat.org/title/-/oclc/848523565> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#ContentTypeGenericResource> .
+<http://www.worldcat.org/title/-/oclc/848523565> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#InformationResource> .
+<http://www.worldcat.org/title/-/oclc/848523565> <http://schema.org/about> <http://www.worldcat.org/oclc/848523565> .
+<http://www.worldcat.org/title/-/oclc/848523565> <http://schema.org/dateModified> "2018-11-10" .
+<http://www.worldcat.org/title/-/oclc/848523565> <http://rdfs.org/ns/void#inDataset> <http://purl.oclc.org/dataset/WorldCat> .
+<http://experiment.worldcat.org/entity/work/data/82470#Organization/colombia_ministerio_de_educacion_nacional_academia_colombiana_de_ciencias_exactas_fisicas_y_naturales> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+<http://experiment.worldcat.org/entity/work/data/82470#Organization/colombia_ministerio_de_educacion_nacional_academia_colombiana_de_ciencias_exactas_fisicas_y_naturales> <http://schema.org/name> "Colombia. Ministerio de educacion nacional. Academia colombiana de ciencias exactas, fisicas y naturales." .
+<http://experiment.worldcat.org/entity/work/data/82470#Thing/scienze_naturali> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> .
+<http://experiment.worldcat.org/entity/work/data/82470#Thing/scienze_naturali> <http://schema.org/name> "Scienze naturali" .
+<http://experiment.worldcat.org/entity/work/data/82470#Place/bogota> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://experiment.worldcat.org/entity/work/data/82470#Place/bogota> <http://schema.org/name> "Bogotà" .
+<http://www.worldcat.org/oclc/848523565> <http://schema.org/publication> <http://www.worldcat.org/title/-/oclc/848523565#PublicationEvent/bogota_1936> .
+<http://www.worldcat.org/oclc/848523565> <http://schema.org/workExample> <http://worldcat.org/issn/0370-3908> .
+<http://www.worldcat.org/oclc/848523565> <http://purl.org/library/oclcnum> "848523565" .
+<http://www.worldcat.org/oclc/848523565> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/82470#Thing/scienze_naturali> .
+<http://www.worldcat.org/oclc/848523565> <http://schema.org/exampleOfWork> <http://worldcat.org/entity/work/id/82470> .
+<http://www.worldcat.org/oclc/848523565> <http://schema.org/datePublished> "1936/9999" .
+<http://www.worldcat.org/oclc/848523565> <http://schema.org/productID> "848523565" .
+<http://www.worldcat.org/oclc/848523565> <http://schema.org/datePublished> "1936/" .
+<http://www.worldcat.org/oclc/848523565> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://www.worldcat.org/oclc/848523565> <http://purl.org/library/placeOfPublication> <http://experiment.worldcat.org/entity/work/data/82470#Place/bogota> .
+<http://www.worldcat.org/oclc/848523565> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://www.worldcat.org/oclc/848523565> <http://schema.org/inLanguage> "en" .
+<http://www.worldcat.org/oclc/848523565> <http://schema.org/name> "Revista. Academia colombiana de ciencias exactas, fisicas y naturales." .
+<http://www.worldcat.org/oclc/848523565> <http://schema.org/about> <http://dewey.info/class/500/> .
+<http://www.worldcat.org/oclc/848523565> <http://www.w3.org/2007/05/powder-s#describedby> <http://www.worldcat.org/title/-/oclc/848523565> .
+<http://www.worldcat.org/oclc/848523565> <http://schema.org/contributor> <http://experiment.worldcat.org/entity/work/data/82470#Organization/colombia_ministerio_de_educacion_nacional_academia_colombiana_de_ciencias_exactas_fisicas_y_naturales> .
+<http://www.worldcat.org/oclc/848523565> <http://purl.org/library/placeOfPublication> <http://id.loc.gov/vocabulary/countries/ck> .
+<http://dewey.info/class/500/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://worldcat.org/entity/work/id/82470> <http://umbel.org/umbel#isLike> <http://worldcat.org/issn/0370-3908> .
+<http://id.loc.gov/vocabulary/countries/ck> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://id.loc.gov/vocabulary/countries/ck> <http://purl.org/dc/terms/identifier> "ck" .
+<http://www.worldcat.org/title/-/oclc/848523565#PublicationEvent/bogota_1936> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PublicationEvent> .
+<http://www.worldcat.org/title/-/oclc/848523565#PublicationEvent/bogota_1936> <http://schema.org/location> <http://experiment.worldcat.org/entity/work/data/82470#Place/bogota> .
+<http://www.worldcat.org/title/-/oclc/848523565#PublicationEvent/bogota_1936> <http://schema.org/startDate> "1936-" .
+<http://worldcat.org/issn/0370-3908> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://worldcat.org/issn/0370-3908> <http://schema.org/name> "Revista. Academia colombiana de ciencias exactas, fisicas y naturales." .
+<http://worldcat.org/issn/0370-3908> <http://schema.org/issn> "0370-3908" .
+<http://worldcat.org/issn/0370-3908> <http://umbel.org/umbel#isLike> <http://worldcat.org/entity/work/id/82470> .

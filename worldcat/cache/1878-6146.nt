@@ -1,0 +1,42 @@
+<http://experiment.worldcat.org/entity/work/data/474796955#Agent/published_by_elsevier_copyright_by_british_mycological_society> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bibliograph.net/Agent> .
+<http://experiment.worldcat.org/entity/work/data/474796955#Agent/published_by_elsevier_copyright_by_british_mycological_society> <http://schema.org/name> "Published by Elsevier, copyright by British Mycological Society" .
+<http://www.worldcat.org/title/-/oclc/700197809> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#ContentTypeGenericResource> .
+<http://www.worldcat.org/title/-/oclc/700197809> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#InformationResource> .
+<http://www.worldcat.org/title/-/oclc/700197809> <http://schema.org/about> <http://www.worldcat.org/oclc/700197809> .
+<http://www.worldcat.org/title/-/oclc/700197809> <http://schema.org/dateModified> "2019-10-30" .
+<http://www.worldcat.org/title/-/oclc/700197809> <http://rdfs.org/ns/void#inDataset> <http://purl.oclc.org/dataset/WorldCat> .
+<http://id.loc.gov/vocabulary/countries/enk> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://id.loc.gov/vocabulary/countries/enk> <http://purl.org/dc/terms/identifier> "enk" .
+<http://experiment.worldcat.org/entity/work/data/474796955#Topic/micologia> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/474796955#Topic/micologia> <http://schema.org/name> "Micología" .
+<http://viaf.org/viaf/131979944> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+<http://viaf.org/viaf/131979944> <http://schema.org/name> "British Mycological Society." .
+<http://www.worldcat.org/oclc/700197809> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/474796955#Topic/micologia> .
+<http://www.worldcat.org/oclc/700197809> <http://schema.org/publisher> <http://experiment.worldcat.org/entity/work/data/474796955#Agent/published_by_elsevier_copyright_by_british_mycological_society> .
+<http://www.worldcat.org/oclc/700197809> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://www.worldcat.org/oclc/700197809> <http://purl.org/library/oclcnum> "700197809" .
+<http://www.worldcat.org/oclc/700197809> <http://schema.org/productID> "700197809" .
+<http://www.worldcat.org/oclc/700197809> <http://schema.org/datePublished> "2010/9999" .
+<http://www.worldcat.org/oclc/700197809> <http://schema.org/about> <http://dewey.info/class/589.205/> .
+<http://www.worldcat.org/oclc/700197809> <http://schema.org/exampleOfWork> <http://worldcat.org/entity/work/id/474796955> .
+<http://www.worldcat.org/oclc/700197809> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://www.worldcat.org/oclc/700197809> <http://schema.org/workExample> <http://worldcat.org/issn/1878-6146> .
+<http://www.worldcat.org/oclc/700197809> <http://schema.org/copyrightYear> "2010/" .
+<http://www.worldcat.org/oclc/700197809> <http://purl.org/library/placeOfPublication> <http://experiment.worldcat.org/entity/work/data/474796955#Place/oxford> .
+<http://www.worldcat.org/oclc/700197809> <http://schema.org/inLanguage> "en" .
+<http://www.worldcat.org/oclc/700197809> <http://schema.org/publication> <http://www.worldcat.org/title/-/oclc/700197809#PublicationEvent/oxford_published_by_elsevier_copyright_by_british_mycological_society_2010> .
+<http://www.worldcat.org/oclc/700197809> <http://schema.org/name> "Fungal biology." .
+<http://www.worldcat.org/oclc/700197809> <http://schema.org/contributor> <http://viaf.org/viaf/131979944> .
+<http://www.worldcat.org/oclc/700197809> <http://www.w3.org/2007/05/powder-s#describedby> <http://www.worldcat.org/title/-/oclc/700197809> .
+<http://www.worldcat.org/oclc/700197809> <http://purl.org/library/placeOfPublication> <http://id.loc.gov/vocabulary/countries/enk> .
+<http://experiment.worldcat.org/entity/work/data/474796955#Place/oxford> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://experiment.worldcat.org/entity/work/data/474796955#Place/oxford> <http://schema.org/name> "Oxford" .
+<http://worldcat.org/issn/1878-6146> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://worldcat.org/issn/1878-6146> <http://schema.org/name> "Fungal biology." .
+<http://worldcat.org/issn/1878-6146> <http://schema.org/issn> "1878-6146" .
+<http://worldcat.org/issn/1878-6146> <http://umbel.org/umbel#isLike> <http://worldcat.org/entity/work/id/474796955> .
+<http://www.worldcat.org/title/-/oclc/700197809#PublicationEvent/oxford_published_by_elsevier_copyright_by_british_mycological_society_2010> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PublicationEvent> .
+<http://www.worldcat.org/title/-/oclc/700197809#PublicationEvent/oxford_published_by_elsevier_copyright_by_british_mycological_society_2010> <http://schema.org/location> <http://experiment.worldcat.org/entity/work/data/474796955#Place/oxford> .
+<http://www.worldcat.org/title/-/oclc/700197809#PublicationEvent/oxford_published_by_elsevier_copyright_by_british_mycological_society_2010> <http://schema.org/organizer> <http://experiment.worldcat.org/entity/work/data/474796955#Agent/published_by_elsevier_copyright_by_british_mycological_society> .
+<http://worldcat.org/entity/work/id/474796955> <http://umbel.org/umbel#isLike> <http://worldcat.org/issn/1878-6146> .
+<http://dewey.info/class/589.205/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .

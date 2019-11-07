@@ -1,0 +1,51 @@
+<http://www.worldcat.org/title/-/oclc/7651558#PublicationEvent/lehre_j_cramer_new_york_n_y_stechert_hafner_distributor_1967> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PublicationEvent> .
+<http://www.worldcat.org/title/-/oclc/7651558#PublicationEvent/lehre_j_cramer_new_york_n_y_stechert_hafner_distributor_1967> <http://schema.org/location> <http://experiment.worldcat.org/entity/work/data/503360732#Place/lehre> .
+<http://www.worldcat.org/title/-/oclc/7651558#PublicationEvent/lehre_j_cramer_new_york_n_y_stechert_hafner_distributor_1967> <http://schema.org/location> <http://experiment.worldcat.org/entity/work/data/503360732#Place/new_york_n_y> .
+<http://www.worldcat.org/title/-/oclc/7651558#PublicationEvent/lehre_j_cramer_new_york_n_y_stechert_hafner_distributor_1967> <http://schema.org/organizer> <http://experiment.worldcat.org/entity/work/data/503360732#Agent/j_cramer> .
+<http://www.worldcat.org/title/-/oclc/7651558#PublicationEvent/lehre_j_cramer_new_york_n_y_stechert_hafner_distributor_1967> <http://schema.org/organizer> <http://experiment.worldcat.org/entity/work/data/503360732#Agent/stechert_hafner_distributor> .
+<http://www.worldcat.org/title/-/oclc/7651558#PublicationEvent/lehre_j_cramer_new_york_n_y_stechert_hafner_distributor_1967> <http://schema.org/startDate> "1967-" .
+<http://dewey.info/class/579.505/e21/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/503360732#Place/lehre> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://experiment.worldcat.org/entity/work/data/503360732#Place/lehre> <http://schema.org/name> "Lehre" .
+<http://www.worldcat.org/oclc/7651558> <http://www.w3.org/2007/05/powder-s#describedby> <http://www.worldcat.org/title/-/oclc/7651558> .
+<http://www.worldcat.org/oclc/7651558> <http://schema.org/about> <http://dewey.info/class/579.505/e21/> .
+<http://www.worldcat.org/oclc/7651558> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bibliograph.net/PublicationSeries> .
+<http://www.worldcat.org/oclc/7651558> <http://schema.org/publisher> <http://experiment.worldcat.org/entity/work/data/503360732#Agent/j_cramer> .
+<http://www.worldcat.org/oclc/7651558> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/503360732#Topic/mycology> .
+<http://www.worldcat.org/oclc/7651558> <http://purl.org/library/placeOfPublication> <http://experiment.worldcat.org/entity/work/data/503360732#Place/lehre> .
+<http://www.worldcat.org/oclc/7651558> <http://schema.org/name> "Bibliotheca mycologica."@en .
+<http://www.worldcat.org/oclc/7651558> <http://purl.org/library/oclcnum> "7651558" .
+<http://www.worldcat.org/oclc/7651558> <http://schema.org/datePublished> "1967/" .
+<http://www.worldcat.org/oclc/7651558> <http://purl.org/library/placeOfPublication> <http://experiment.worldcat.org/entity/work/data/503360732#Place/new_york_n_y> .
+<http://www.worldcat.org/oclc/7651558> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://www.worldcat.org/oclc/7651558> <http://purl.org/library/placeOfPublication> <http://id.loc.gov/vocabulary/countries/gw> .
+<http://www.worldcat.org/oclc/7651558> <http://schema.org/productID> "7651558" .
+<http://www.worldcat.org/oclc/7651558> <http://schema.org/publisher> <http://experiment.worldcat.org/entity/work/data/503360732#Agent/stechert_hafner_distributor> .
+<http://www.worldcat.org/oclc/7651558> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/503360732#Topic/fungi> .
+<http://www.worldcat.org/oclc/7651558> <http://schema.org/workExample> <http://worldcat.org/issn/0067-8066> .
+<http://www.worldcat.org/oclc/7651558> <http://schema.org/exampleOfWork> <http://worldcat.org/entity/work/id/503360732> .
+<http://www.worldcat.org/oclc/7651558> <http://schema.org/inLanguage> "en" .
+<http://www.worldcat.org/oclc/7651558> <http://schema.org/publication> <http://www.worldcat.org/title/-/oclc/7651558#PublicationEvent/lehre_j_cramer_new_york_n_y_stechert_hafner_distributor_1967> .
+<http://www.worldcat.org/oclc/7651558> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://www.worldcat.org/title/-/oclc/7651558> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#ContentTypeGenericResource> .
+<http://www.worldcat.org/title/-/oclc/7651558> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#InformationResource> .
+<http://www.worldcat.org/title/-/oclc/7651558> <http://schema.org/about> <http://www.worldcat.org/oclc/7651558> .
+<http://www.worldcat.org/title/-/oclc/7651558> <http://schema.org/dateModified> "2019-02-24" .
+<http://www.worldcat.org/title/-/oclc/7651558> <http://rdfs.org/ns/void#inDataset> <http://purl.oclc.org/dataset/WorldCat> .
+<http://experiment.worldcat.org/entity/work/data/503360732#Place/new_york_n_y> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://experiment.worldcat.org/entity/work/data/503360732#Place/new_york_n_y> <http://schema.org/name> "New York, N.Y." .
+<http://experiment.worldcat.org/entity/work/data/503360732#Topic/fungi> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/503360732#Topic/fungi> <http://schema.org/name> "Fungi"@en .
+<http://experiment.worldcat.org/entity/work/data/503360732#Agent/stechert_hafner_distributor> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bibliograph.net/Agent> .
+<http://experiment.worldcat.org/entity/work/data/503360732#Agent/stechert_hafner_distributor> <http://schema.org/name> "Stechert-Hafner [distributor]" .
+<http://experiment.worldcat.org/entity/work/data/503360732#Topic/mycology> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/503360732#Topic/mycology> <http://schema.org/name> "Mycology"@en .
+<http://worldcat.org/entity/work/id/503360732> <http://umbel.org/umbel#isLike> <http://worldcat.org/issn/0067-8066> .
+<http://worldcat.org/issn/0067-8066> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://worldcat.org/issn/0067-8066> <http://schema.org/name> "Bibliotheca mycologica."@en .
+<http://worldcat.org/issn/0067-8066> <http://schema.org/issn> "0067-8066" .
+<http://worldcat.org/issn/0067-8066> <http://umbel.org/umbel#isLike> <http://worldcat.org/entity/work/id/503360732> .
+<http://id.loc.gov/vocabulary/countries/gw> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://id.loc.gov/vocabulary/countries/gw> <http://purl.org/dc/terms/identifier> "gw" .
+<http://experiment.worldcat.org/entity/work/data/503360732#Agent/j_cramer> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bibliograph.net/Agent> .
+<http://experiment.worldcat.org/entity/work/data/503360732#Agent/j_cramer> <http://schema.org/name> "J. Cramer" .

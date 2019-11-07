@@ -1,0 +1,51 @@
+<http://viaf.org/viaf/140137580> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+<http://viaf.org/viaf/140137580> <http://schema.org/name> "Botanische Arbeitsgemeinschaft am O.Ö. Landesmuseum Linz (Austria)" .
+<http://id.worldcat.org/fast/836869> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://id.worldcat.org/fast/836869> <http://schema.org/name> "Botany" .
+<http://www.worldcat.org/oclc/688511511> <http://purl.org/library/placeOfPublication> <http://id.loc.gov/vocabulary/countries/au> .
+<http://www.worldcat.org/oclc/688511511> <http://schema.org/workExample> <http://worldcat.org/issn/0252-192X> .
+<http://www.worldcat.org/oclc/688511511> <http://schema.org/publisher> <http://experiment.worldcat.org/entity/work/data/9593617519#Agent/biology_centre_of_the_upper_austrian_state_museums> .
+<http://www.worldcat.org/oclc/688511511> <http://schema.org/productID> "688511511" .
+<http://www.worldcat.org/oclc/688511511> <http://schema.org/name> "Stapfia . Reports." .
+<http://www.worldcat.org/oclc/688511511> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://www.worldcat.org/oclc/688511511> <http://schema.org/contributor> <http://viaf.org/viaf/140137580> .
+<http://www.worldcat.org/oclc/688511511> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/9593617519#Topic/botany_austria> .
+<http://www.worldcat.org/oclc/688511511> <http://schema.org/exampleOfWork> <http://worldcat.org/entity/work/id/9593617519> .
+<http://www.worldcat.org/oclc/688511511> <http://www.w3.org/2007/05/powder-s#describedby> <http://www.worldcat.org/title/-/oclc/688511511> .
+<http://www.worldcat.org/oclc/688511511> <http://schema.org/datePublished> "2010/9999" .
+<http://www.worldcat.org/oclc/688511511> <http://purl.org/library/oclcnum> "688511511" .
+<http://www.worldcat.org/oclc/688511511> <http://schema.org/alternateName> "Stapfia reports" .
+<http://www.worldcat.org/oclc/688511511> <http://schema.org/publication> <http://www.worldcat.org/title/-/oclc/688511511#PublicationEvent/linz_austria_biology_centre_of_the_upper_austrian_state_museums_2010> .
+<http://www.worldcat.org/oclc/688511511> <http://schema.org/alternateName> "Reports" .
+<http://www.worldcat.org/oclc/688511511> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://www.worldcat.org/oclc/688511511> <http://schema.org/genre> "Periodicals" .
+<http://www.worldcat.org/oclc/688511511> <http://purl.org/library/placeOfPublication> <http://experiment.worldcat.org/entity/work/data/9593617519#Place/linz_austria> .
+<http://www.worldcat.org/oclc/688511511> <http://schema.org/about> <http://id.worldcat.org/fast/836869> .
+<http://www.worldcat.org/oclc/688511511> <http://schema.org/about> <http://id.worldcat.org/fast/1204901> .
+<http://www.worldcat.org/oclc/688511511> <http://schema.org/datePublished> "2010/" .
+<http://www.worldcat.org/oclc/688511511> <http://schema.org/inLanguage> "de" .
+<http://worldcat.org/issn/0252-192X> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://worldcat.org/issn/0252-192X> <http://schema.org/name> "Stapfia . Reports." .
+<http://worldcat.org/issn/0252-192X> <http://schema.org/issn> "0252-192X" .
+<http://worldcat.org/issn/0252-192X> <http://umbel.org/umbel#isLike> <http://worldcat.org/entity/work/id/9593617519> .
+<http://experiment.worldcat.org/entity/work/data/9593617519#Place/linz_austria> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://experiment.worldcat.org/entity/work/data/9593617519#Place/linz_austria> <http://schema.org/name> "Linz, Austria" .
+<http://id.worldcat.org/fast/1204901> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://id.worldcat.org/fast/1204901> <http://schema.org/name> "Austria." .
+<http://worldcat.org/entity/work/id/9593617519> <http://umbel.org/umbel#isLike> <http://worldcat.org/issn/0252-192X> .
+<http://id.loc.gov/vocabulary/countries/au> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://id.loc.gov/vocabulary/countries/au> <http://purl.org/dc/terms/identifier> "au" .
+<http://experiment.worldcat.org/entity/work/data/9593617519#Agent/biology_centre_of_the_upper_austrian_state_museums> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bibliograph.net/Agent> .
+<http://experiment.worldcat.org/entity/work/data/9593617519#Agent/biology_centre_of_the_upper_austrian_state_museums> <http://schema.org/name> "Biology Centre of the Upper Austrian State Museums" .
+<http://www.worldcat.org/title/-/oclc/688511511#PublicationEvent/linz_austria_biology_centre_of_the_upper_austrian_state_museums_2010> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PublicationEvent> .
+<http://www.worldcat.org/title/-/oclc/688511511#PublicationEvent/linz_austria_biology_centre_of_the_upper_austrian_state_museums_2010> <http://schema.org/location> <http://experiment.worldcat.org/entity/work/data/9593617519#Place/linz_austria> .
+<http://www.worldcat.org/title/-/oclc/688511511#PublicationEvent/linz_austria_biology_centre_of_the_upper_austrian_state_museums_2010> <http://schema.org/organizer> <http://experiment.worldcat.org/entity/work/data/9593617519#Agent/biology_centre_of_the_upper_austrian_state_museums> .
+<http://www.worldcat.org/title/-/oclc/688511511#PublicationEvent/linz_austria_biology_centre_of_the_upper_austrian_state_museums_2010> <http://schema.org/startDate> "2010-" .
+<http://experiment.worldcat.org/entity/work/data/9593617519#Topic/botany_austria> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/9593617519#Topic/botany_austria> <http://schema.org/hasPart> <http://id.loc.gov/authorities/subjects/sh85015976> .
+<http://experiment.worldcat.org/entity/work/data/9593617519#Topic/botany_austria> <http://schema.org/name> "Botany--Austria" .
+<http://www.worldcat.org/title/-/oclc/688511511> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#ContentTypeGenericResource> .
+<http://www.worldcat.org/title/-/oclc/688511511> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#InformationResource> .
+<http://www.worldcat.org/title/-/oclc/688511511> <http://schema.org/about> <http://www.worldcat.org/oclc/688511511> .
+<http://www.worldcat.org/title/-/oclc/688511511> <http://schema.org/dateModified> "2019-10-22" .
+<http://www.worldcat.org/title/-/oclc/688511511> <http://rdfs.org/ns/void#inDataset> <http://purl.oclc.org/dataset/WorldCat> .

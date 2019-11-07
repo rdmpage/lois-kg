@@ -1,0 +1,41 @@
+<http://www.worldcat.org/title/-/oclc/1125311485#PublicationEvent/beijing_kexue_chubanshe_1953_1977> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PublicationEvent> .
+<http://www.worldcat.org/title/-/oclc/1125311485#PublicationEvent/beijing_kexue_chubanshe_1953_1977> <http://schema.org/location> <http://experiment.worldcat.org/entity/work/data/9607858658#Place/beijing> .
+<http://www.worldcat.org/title/-/oclc/1125311485#PublicationEvent/beijing_kexue_chubanshe_1953_1977> <http://schema.org/organizer> <http://experiment.worldcat.org/entity/work/data/9607858658#Agent/kexue_chubanshe> .
+<http://www.worldcat.org/title/-/oclc/1125311485#PublicationEvent/beijing_kexue_chubanshe_1953_1977> <http://schema.org/startDate> "1953-1977" .
+<http://www.worldcat.org/oclc/1125311485> <http://schema.org/alternateName> "Wei sheng wu hsueh pao" .
+<http://www.worldcat.org/oclc/1125311485> <http://schema.org/publication> <http://www.worldcat.org/title/-/oclc/1125311485#PublicationEvent/beijing_kexue_chubanshe_1953_1977> .
+<http://www.worldcat.org/oclc/1125311485> <http://schema.org/workExample> <http://worldcat.org/issn/0001-6209> .
+<http://www.worldcat.org/oclc/1125311485> <http://purl.org/library/oclcnum> "1125311485" .
+<http://www.worldcat.org/oclc/1125311485> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://www.worldcat.org/oclc/1125311485> <http://purl.org/library/placeOfPublication> <http://experiment.worldcat.org/entity/work/data/9607858658#Place/beijing> .
+<http://www.worldcat.org/oclc/1125311485> <http://schema.org/exampleOfWork> <http://worldcat.org/entity/work/id/9607858658> .
+<http://www.worldcat.org/oclc/1125311485> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/9607858658#Topic/microbiologia> .
+<http://www.worldcat.org/oclc/1125311485> <http://schema.org/datePublished> "1953/1977" .
+<http://www.worldcat.org/oclc/1125311485> <http://schema.org/inLanguage> "en" .
+<http://www.worldcat.org/oclc/1125311485> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/9607858658#Topic/microorganismos> .
+<http://www.worldcat.org/oclc/1125311485> <http://purl.org/library/placeOfPublication> <http://id.loc.gov/vocabulary/countries/cc> .
+<http://www.worldcat.org/oclc/1125311485> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://www.worldcat.org/oclc/1125311485> <http://schema.org/productID> "1125311485" .
+<http://www.worldcat.org/oclc/1125311485> <http://schema.org/publisher> <http://experiment.worldcat.org/entity/work/data/9607858658#Agent/kexue_chubanshe> .
+<http://www.worldcat.org/oclc/1125311485> <http://schema.org/name> "Acta microbiologica sinica." .
+<http://www.worldcat.org/oclc/1125311485> <http://www.w3.org/2007/05/powder-s#describedby> <http://www.worldcat.org/title/-/oclc/1125311485> .
+<http://experiment.worldcat.org/entity/work/data/9607858658#Topic/microbiologia> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/9607858658#Topic/microbiologia> <http://schema.org/name> "Microbiología" .
+<http://www.worldcat.org/title/-/oclc/1125311485> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#ContentTypeGenericResource> .
+<http://www.worldcat.org/title/-/oclc/1125311485> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#InformationResource> .
+<http://www.worldcat.org/title/-/oclc/1125311485> <http://schema.org/about> <http://www.worldcat.org/oclc/1125311485> .
+<http://www.worldcat.org/title/-/oclc/1125311485> <http://schema.org/dateModified> "2019-10-30" .
+<http://www.worldcat.org/title/-/oclc/1125311485> <http://rdfs.org/ns/void#inDataset> <http://purl.oclc.org/dataset/WorldCat> .
+<http://worldcat.org/entity/work/id/9607858658> <http://umbel.org/umbel#isLike> <http://worldcat.org/issn/0001-6209> .
+<http://id.loc.gov/vocabulary/countries/cc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://id.loc.gov/vocabulary/countries/cc> <http://purl.org/dc/terms/identifier> "cc" .
+<http://experiment.worldcat.org/entity/work/data/9607858658#Agent/kexue_chubanshe> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bibliograph.net/Agent> .
+<http://experiment.worldcat.org/entity/work/data/9607858658#Agent/kexue_chubanshe> <http://schema.org/name> "Kexue Chubanshe" .
+<http://experiment.worldcat.org/entity/work/data/9607858658#Topic/microorganismos> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/9607858658#Topic/microorganismos> <http://schema.org/name> "Microorganismos" .
+<http://worldcat.org/issn/0001-6209> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://worldcat.org/issn/0001-6209> <http://schema.org/name> "Acta microbiologica sinica." .
+<http://worldcat.org/issn/0001-6209> <http://schema.org/issn> "0001-6209" .
+<http://worldcat.org/issn/0001-6209> <http://umbel.org/umbel#isLike> <http://worldcat.org/entity/work/id/9607858658> .
+<http://experiment.worldcat.org/entity/work/data/9607858658#Place/beijing> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://experiment.worldcat.org/entity/work/data/9607858658#Place/beijing> <http://schema.org/name> "Beijing" .

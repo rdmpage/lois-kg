@@ -1,0 +1,68 @@
+<http://id.worldcat.org/fast/1065823> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://id.worldcat.org/fast/1065823> <http://schema.org/name> "Plants"@en .
+<http://experiment.worldcat.org/entity/work/data/1911200003#Place/leeds> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://experiment.worldcat.org/entity/work/data/1911200003#Place/leeds> <http://schema.org/name> "Leeds" .
+<http://www.worldcat.org/oclc/780326717> <http://schema.org/exampleOfWork> <http://worldcat.org/entity/work/id/1911200003> .
+<http://www.worldcat.org/oclc/780326717> <http://schema.org/alternateName> "Journal of the Botanical Society of the British Isles" .
+<http://www.worldcat.org/oclc/780326717> <http://schema.org/datePublished> "2011/" .
+<http://www.worldcat.org/oclc/780326717> <http://purl.org/library/placeOfPublication> <http://experiment.worldcat.org/entity/work/data/1911200003#Place/leeds> .
+<http://www.worldcat.org/oclc/780326717> <http://schema.org/isSimilarTo> <http://worldcat.org/entity/work/data/1911200003#CreativeWork/new_journal_of_botany> .
+<http://www.worldcat.org/oclc/780326717> <http://schema.org/productID> "780326717" .
+<http://www.worldcat.org/oclc/780326717> <http://schema.org/about> <http://dewey.info/class/580.5/e23/> .
+<http://www.worldcat.org/oclc/780326717> <http://schema.org/genre> "Periodicals"@en .
+<http://www.worldcat.org/oclc/780326717> <http://schema.org/contributor> <http://viaf.org/viaf/138094460> .
+<http://www.worldcat.org/oclc/780326717> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://www.worldcat.org/oclc/780326717> <http://purl.org/library/oclcnum> "780326717" .
+<http://www.worldcat.org/oclc/780326717> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/1911200003#Topic/botany> .
+<http://www.worldcat.org/oclc/780326717> <http://schema.org/about> <http://id.worldcat.org/fast/836869> .
+<http://www.worldcat.org/oclc/780326717> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/1911200003#Topic/plants_great_britain> .
+<http://www.worldcat.org/oclc/780326717> <http://schema.org/inLanguage> "en" .
+<http://www.worldcat.org/oclc/780326717> <http://schema.org/publisher> <http://experiment.worldcat.org/entity/work/data/1911200003#Agent/maney_pub> .
+<http://www.worldcat.org/oclc/780326717> <http://schema.org/name> "New journal of botany : journal of the Botanical Society of the British Isles."@en .
+<http://www.worldcat.org/oclc/780326717> <http://purl.org/library/placeOfPublication> <http://id.loc.gov/vocabulary/countries/enk> .
+<http://www.worldcat.org/oclc/780326717> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/1911200003#Topic/botany_great_britain> .
+<http://www.worldcat.org/oclc/780326717> <http://schema.org/datePublished> "2011/9999" .
+<http://www.worldcat.org/oclc/780326717> <http://umbel.org/umbel#isLike> <http://bnb.data.bl.uk/id/resource/GBB1B4284> .
+<http://www.worldcat.org/oclc/780326717> <http://schema.org/workExample> <http://worldcat.org/issn/2042-3489> .
+<http://www.worldcat.org/oclc/780326717> <http://schema.org/about> <http://id.worldcat.org/fast/1065823> .
+<http://www.worldcat.org/oclc/780326717> <http://schema.org/about> <http://id.worldcat.org/fast/1204623> .
+<http://www.worldcat.org/oclc/780326717> <http://www.w3.org/2007/05/powder-s#describedby> <http://www.worldcat.org/title/-/oclc/780326717> .
+<http://www.worldcat.org/oclc/780326717> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://www.worldcat.org/oclc/780326717> <http://schema.org/publication> <http://www.worldcat.org/title/-/oclc/780326717#PublicationEvent/leeds_maney_pub_2011> .
+<http://id.worldcat.org/fast/836869> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://id.worldcat.org/fast/836869> <http://schema.org/name> "Botany"@en .
+<http://worldcat.org/issn/2042-3489> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://worldcat.org/issn/2042-3489> <http://schema.org/name> "New journal of botany : journal of the Botanical Society of the British Isles."@en .
+<http://worldcat.org/issn/2042-3489> <http://schema.org/issn> "2042-3489" .
+<http://worldcat.org/issn/2042-3489> <http://umbel.org/umbel#isLike> <http://worldcat.org/entity/work/id/1911200003> .
+<http://experiment.worldcat.org/entity/work/data/1911200003#Agent/maney_pub> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bibliograph.net/Agent> .
+<http://experiment.worldcat.org/entity/work/data/1911200003#Agent/maney_pub> <http://schema.org/name> "Maney Pub." .
+<http://experiment.worldcat.org/entity/work/data/1911200003#Topic/plants_great_britain> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/1911200003#Topic/plants_great_britain> <http://schema.org/hasPart> <http://id.loc.gov/authorities/subjects/sh85102839> .
+<http://experiment.worldcat.org/entity/work/data/1911200003#Topic/plants_great_britain> <http://schema.org/name> "Plants--Great Britain"@en .
+<http://id.loc.gov/vocabulary/countries/enk> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://id.loc.gov/vocabulary/countries/enk> <http://purl.org/dc/terms/identifier> "enk" .
+<http://experiment.worldcat.org/entity/work/data/1911200003#Topic/botany> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/1911200003#Topic/botany> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://id.loc.gov/authorities/subjects/sh2007102112> .
+<http://experiment.worldcat.org/entity/work/data/1911200003#Topic/botany> <http://schema.org/name> "Botany"@en .
+<http://worldcat.org/entity/work/data/1911200003#CreativeWork/new_journal_of_botany> <http://schema.org/isSimilarTo> <http://www.worldcat.org/oclc/780326717> .
+<http://worldcat.org/entity/work/data/1911200003#CreativeWork/new_journal_of_botany> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://worldcat.org/entity/work/data/1911200003#CreativeWork/new_journal_of_botany> <http://www.w3.org/2000/01/rdf-schema#label> "New journal of botany" .
+<http://id.worldcat.org/fast/1204623> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://id.worldcat.org/fast/1204623> <http://schema.org/name> "Great Britain." .
+<http://www.worldcat.org/title/-/oclc/780326717> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#ContentTypeGenericResource> .
+<http://www.worldcat.org/title/-/oclc/780326717> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#InformationResource> .
+<http://www.worldcat.org/title/-/oclc/780326717> <http://schema.org/about> <http://www.worldcat.org/oclc/780326717> .
+<http://www.worldcat.org/title/-/oclc/780326717> <http://schema.org/dateModified> "2019-10-03" .
+<http://www.worldcat.org/title/-/oclc/780326717> <http://rdfs.org/ns/void#inDataset> <http://purl.oclc.org/dataset/WorldCat> .
+<http://worldcat.org/entity/work/id/1911200003> <http://umbel.org/umbel#isLike> <http://worldcat.org/issn/2042-3489> .
+<http://viaf.org/viaf/138094460> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+<http://viaf.org/viaf/138094460> <http://schema.org/name> "Botanical Society of the British Isles." .
+<http://dewey.info/class/580.5/e23/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://www.worldcat.org/title/-/oclc/780326717#PublicationEvent/leeds_maney_pub_2011> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PublicationEvent> .
+<http://www.worldcat.org/title/-/oclc/780326717#PublicationEvent/leeds_maney_pub_2011> <http://schema.org/location> <http://experiment.worldcat.org/entity/work/data/1911200003#Place/leeds> .
+<http://www.worldcat.org/title/-/oclc/780326717#PublicationEvent/leeds_maney_pub_2011> <http://schema.org/organizer> <http://experiment.worldcat.org/entity/work/data/1911200003#Agent/maney_pub> .
+<http://www.worldcat.org/title/-/oclc/780326717#PublicationEvent/leeds_maney_pub_2011> <http://schema.org/startDate> "2011-" .
+<http://experiment.worldcat.org/entity/work/data/1911200003#Topic/botany_great_britain> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/1911200003#Topic/botany_great_britain> <http://schema.org/hasPart> <http://id.loc.gov/authorities/subjects/sh85015976> .
+<http://experiment.worldcat.org/entity/work/data/1911200003#Topic/botany_great_britain> <http://schema.org/name> "Botany--Great Britain"@en .

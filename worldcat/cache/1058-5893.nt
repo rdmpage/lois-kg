@@ -1,0 +1,45 @@
+<http://experiment.worldcat.org/entity/work/data/3909951885#Place/chicago_ill> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://experiment.worldcat.org/entity/work/data/3909951885#Place/chicago_ill> <http://schema.org/name> "Chicago, Ill." .
+<http://worldcat.org/entity/work/id/3909951885> <http://umbel.org/umbel#isLike> <http://worldcat.org/issn/1058-5893> .
+<http://www.worldcat.org/title/-/oclc/225158425> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#ContentTypeGenericResource> .
+<http://www.worldcat.org/title/-/oclc/225158425> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#InformationResource> .
+<http://www.worldcat.org/title/-/oclc/225158425> <http://schema.org/about> <http://www.worldcat.org/oclc/225158425> .
+<http://www.worldcat.org/title/-/oclc/225158425> <http://schema.org/dateModified> "2018-12-12" .
+<http://www.worldcat.org/title/-/oclc/225158425> <http://rdfs.org/ns/void#inDataset> <http://purl.oclc.org/dataset/WorldCat> .
+<http://www.worldcat.org/title/-/oclc/225158425#PublicationEvent/chicago_ill_univ_of_chicago_press> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PublicationEvent> .
+<http://www.worldcat.org/title/-/oclc/225158425#PublicationEvent/chicago_ill_univ_of_chicago_press> <http://schema.org/location> <http://experiment.worldcat.org/entity/work/data/3909951885#Place/chicago_ill> .
+<http://www.worldcat.org/title/-/oclc/225158425#PublicationEvent/chicago_ill_univ_of_chicago_press> <http://schema.org/organizer> <http://experiment.worldcat.org/entity/work/data/3909951885#Agent/univ_of_chicago_press> .
+<http://www.worldcat.org/title/-/oclc/225158425#PublicationEvent/jstor> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PublicationEvent> .
+<http://www.worldcat.org/title/-/oclc/225158425#PublicationEvent/jstor> <http://schema.org/organizer> <http://experiment.worldcat.org/entity/work/data/3909951885#Agent/jstor> .
+<http://id.loc.gov/vocabulary/countries/ilu> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://id.loc.gov/vocabulary/countries/ilu> <http://purl.org/dc/terms/identifier> "ilu" .
+<http://worldcat.org/issn/1058-5893> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://worldcat.org/issn/1058-5893> <http://schema.org/name> "International journal of plant sciences IJPS." .
+<http://worldcat.org/issn/1058-5893> <http://schema.org/issn> "1058-5893" .
+<http://worldcat.org/issn/1058-5893> <http://umbel.org/umbel#isLike> <http://worldcat.org/entity/work/id/3909951885> .
+<http://experiment.worldcat.org/entity/work/data/3909951885#Agent/univ_of_chicago_press> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bibliograph.net/Agent> .
+<http://experiment.worldcat.org/entity/work/data/3909951885#Agent/univ_of_chicago_press> <http://schema.org/name> "Univ. of Chicago Press" .
+<http://www.worldcat.org/oclc/225158425> <http://schema.org/publisher> <http://experiment.worldcat.org/entity/work/data/3909951885#Agent/univ_of_chicago_press> .
+<http://www.worldcat.org/oclc/225158425> <http://schema.org/name> "International journal of plant sciences IJPS." .
+<http://www.worldcat.org/oclc/225158425> <http://schema.org/productID> "225158425" .
+<http://www.worldcat.org/oclc/225158425> <http://schema.org/inLanguage> "en" .
+<http://www.worldcat.org/oclc/225158425> <http://umbel.org/umbel#isLike> <http://d-nb.info/021382050> .
+<http://www.worldcat.org/oclc/225158425> <http://purl.org/library/oclcnum> "225158425" .
+<http://www.worldcat.org/oclc/225158425> <http://schema.org/publication> <http://www.worldcat.org/title/-/oclc/225158425#PublicationEvent/jstor> .
+<http://www.worldcat.org/oclc/225158425> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://www.worldcat.org/oclc/225158425> <http://schema.org/publisher> <http://experiment.worldcat.org/entity/work/data/3909951885#Agent/jstor> .
+<http://www.worldcat.org/oclc/225158425> <http://schema.org/publication> <http://www.worldcat.org/title/-/oclc/225158425#PublicationEvent/chicago_ill_univ_of_chicago_press> .
+<http://www.worldcat.org/oclc/225158425> <http://schema.org/url> <http://www.bibliothek.uni-regensburg.de/ezeit/?2038675> .
+<http://www.worldcat.org/oclc/225158425> <http://purl.org/library/placeOfPublication> <http://experiment.worldcat.org/entity/work/data/3909951885#Place/chicago_ill> .
+<http://www.worldcat.org/oclc/225158425> <http://schema.org/alternateName> "IJPS" .
+<http://www.worldcat.org/oclc/225158425> <http://schema.org/exampleOfWork> <http://worldcat.org/entity/work/id/3909951885> .
+<http://www.worldcat.org/oclc/225158425> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://www.worldcat.org/oclc/225158425> <http://schema.org/datePublished> "1992/9999" .
+<http://www.worldcat.org/oclc/225158425> <http://schema.org/url> <http://search.ebscohost.com/> .
+<http://www.worldcat.org/oclc/225158425> <http://purl.org/library/placeOfPublication> <http://id.loc.gov/vocabulary/countries/ilu> .
+<http://www.worldcat.org/oclc/225158425> <http://www.w3.org/2007/05/powder-s#describedby> <http://www.worldcat.org/title/-/oclc/225158425> .
+<http://www.worldcat.org/oclc/225158425> <http://schema.org/url> <http://www.jstor.org/journals/10585893.html> .
+<http://www.worldcat.org/oclc/225158425> <http://schema.org/url> <http://www.journals.uchicago.edu/IJPS/home.html> .
+<http://www.worldcat.org/oclc/225158425> <http://schema.org/workExample> <http://worldcat.org/issn/1058-5893> .
+<http://experiment.worldcat.org/entity/work/data/3909951885#Agent/jstor> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bibliograph.net/Agent> .
+<http://experiment.worldcat.org/entity/work/data/3909951885#Agent/jstor> <http://schema.org/name> "JSTOR" .

@@ -1,0 +1,60 @@
+<http://worldcat.org/issn/0323-5408> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://worldcat.org/issn/0323-5408> <http://schema.org/name> "Archiv für Phytopathologie und Pflanzenschutz."@en .
+<http://worldcat.org/issn/0323-5408> <http://schema.org/issn> "0323-5408" .
+<http://worldcat.org/issn/0323-5408> <http://umbel.org/umbel#isLike> <http://worldcat.org/entity/work/id/1911710821> .
+<http://experiment.worldcat.org/entity/work/data/1911710821#Agent/akademie_verlag> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bibliograph.net/Agent> .
+<http://experiment.worldcat.org/entity/work/data/1911710821#Agent/akademie_verlag> <http://schema.org/name> "Akademie-Verlag." .
+<http://worldcat.org/entity/work/id/1911710821> <http://schema.org/name> "Archiv für Phytopathologie und Pflanzenschutz (Online)"@en .
+<http://worldcat.org/entity/work/id/1911710821> <http://umbel.org/umbel#isLike> <http://worldcat.org/issn/0323-5408> .
+<http://viaf.org/viaf/123871599> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+<http://viaf.org/viaf/123871599> <http://schema.org/name> "Akademie der Landwirtschaftswissenschaften der DDR." .
+<http://www.worldcat.org/title/-/oclc/740952925> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#ContentTypeGenericResource> .
+<http://www.worldcat.org/title/-/oclc/740952925> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#InformationResource> .
+<http://www.worldcat.org/title/-/oclc/740952925> <http://schema.org/about> <http://www.worldcat.org/oclc/740952925> .
+<http://www.worldcat.org/title/-/oclc/740952925> <http://schema.org/dateModified> "2019-02-08" .
+<http://www.worldcat.org/title/-/oclc/740952925> <http://rdfs.org/ns/void#inDataset> <http://purl.oclc.org/dataset/WorldCat> .
+<http://www.worldcat.org/title/-/oclc/740952925#PublicationEvent/berlin_akademie_verlag> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PublicationEvent> .
+<http://www.worldcat.org/title/-/oclc/740952925#PublicationEvent/berlin_akademie_verlag> <http://schema.org/location> <http://experiment.worldcat.org/entity/work/data/1911710821#Place/berlin> .
+<http://www.worldcat.org/title/-/oclc/740952925#PublicationEvent/berlin_akademie_verlag> <http://schema.org/organizer> <http://experiment.worldcat.org/entity/work/data/1911710821#Agent/akademie_verlag> .
+<http://id.loc.gov/vocabulary/countries/enk> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://id.loc.gov/vocabulary/countries/enk> <http://purl.org/dc/terms/identifier> "enk" .
+<http://experiment.worldcat.org/entity/work/data/1911710821#Topic/plant_diseases> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/1911710821#Topic/plant_diseases> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://id.loc.gov/authorities/subjects/sh2008109378> .
+<http://experiment.worldcat.org/entity/work/data/1911710821#Topic/plant_diseases> <http://schema.org/name> "Plant diseases"@en .
+<http://experiment.worldcat.org/entity/work/data/1911710821#Topic/plant_diseases> <http://schema.org/name> "Plant Diseases"@en .
+<http://www.worldcat.org/oclc/3764206> <http://schema.org/isSimilarTo> <http://www.worldcat.org/oclc/740952925> .
+<http://www.worldcat.org/oclc/3764206> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://www.worldcat.org/oclc/3764206> <http://www.w3.org/2000/01/rdf-schema#label> "Archiv für Phytopathologie und Pflanzenschutz" .
+<http://www.worldcat.org/oclc/3764206> <http://schema.org/description> "Print version:" .
+<http://www.worldcat.org/oclc/740952925> <http://www.w3.org/2007/05/powder-s#describedby> <http://www.worldcat.org/title/-/oclc/740952925> .
+<http://www.worldcat.org/oclc/740952925> <http://schema.org/publication> <http://www.worldcat.org/title/-/oclc/740952925#PublicationEvent/berlin_akademie_verlag> .
+<http://www.worldcat.org/oclc/740952925> <http://schema.org/exampleOfWork> <http://worldcat.org/entity/work/id/1911710821> .
+<http://www.worldcat.org/oclc/740952925> <http://schema.org/alternateName> "Archives of phytopathology and plant protection" .
+<http://www.worldcat.org/oclc/740952925> <http://schema.org/about> <http://id.worldcat.org/fast/1065378> .
+<http://www.worldcat.org/oclc/740952925> <http://purl.org/library/oclcnum> "740952925" .
+<http://www.worldcat.org/oclc/740952925> <http://schema.org/name> "Archiv für Phytopathologie und Pflanzenschutz."@en .
+<http://www.worldcat.org/oclc/740952925> <http://schema.org/publisher> <http://experiment.worldcat.org/entity/work/data/1911710821#Agent/akademie_verlag> .
+<http://www.worldcat.org/oclc/740952925> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/MediaObject> .
+<http://www.worldcat.org/oclc/740952925> <http://schema.org/productID> "740952925" .
+<http://www.worldcat.org/oclc/740952925> <http://schema.org/workExample> <http://worldcat.org/issn/0323-5408> .
+<http://www.worldcat.org/oclc/740952925> <http://schema.org/datePublished> "1973/9999" .
+<http://www.worldcat.org/oclc/740952925> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://www.worldcat.org/oclc/740952925> <http://schema.org/contributor> <http://viaf.org/viaf/123871599> .
+<http://www.worldcat.org/oclc/740952925> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/1911710821#Topic/plant_diseases> .
+<http://www.worldcat.org/oclc/740952925> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://www.worldcat.org/oclc/740952925> <http://purl.org/library/placeOfPublication> <http://experiment.worldcat.org/entity/work/data/1911710821#Place/berlin> .
+<http://www.worldcat.org/oclc/740952925> <http://schema.org/about> <http://id.loc.gov/authorities/subjects/sh85103025> .
+<http://www.worldcat.org/oclc/740952925> <http://schema.org/inLanguage> "en" .
+<http://www.worldcat.org/oclc/740952925> <http://schema.org/about> <http://id.worldcat.org/fast/1066223> .
+<http://www.worldcat.org/oclc/740952925> <http://schema.org/genre> "Periodicals"@en .
+<http://www.worldcat.org/oclc/740952925> <http://schema.org/isSimilarTo> <http://www.worldcat.org/oclc/3764206> .
+<http://www.worldcat.org/oclc/740952925> <http://schema.org/genre> "Electronic journals"@en .
+<http://www.worldcat.org/oclc/740952925> <http://purl.org/library/placeOfPublication> <http://id.loc.gov/vocabulary/countries/enk> .
+<http://experiment.worldcat.org/entity/work/data/1911710821#Place/berlin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://experiment.worldcat.org/entity/work/data/1911710821#Place/berlin> <http://schema.org/name> "Berlin" .
+<http://id.loc.gov/authorities/subjects/sh85103025> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://id.loc.gov/authorities/subjects/sh85103025> <http://schema.org/name> "Plants, Protection of"@en .
+<http://id.worldcat.org/fast/1066223> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://id.worldcat.org/fast/1066223> <http://schema.org/name> "Plants, Protection of"@en .
+<http://id.worldcat.org/fast/1065378> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://id.worldcat.org/fast/1065378> <http://schema.org/name> "Plant diseases"@en .

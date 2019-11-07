@@ -1,0 +1,55 @@
+<http://www.worldcat.org/title/-/oclc/615145853> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#ContentTypeGenericResource> .
+<http://www.worldcat.org/title/-/oclc/615145853> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#InformationResource> .
+<http://www.worldcat.org/title/-/oclc/615145853> <http://schema.org/about> <http://www.worldcat.org/oclc/615145853> .
+<http://www.worldcat.org/title/-/oclc/615145853> <http://schema.org/dateModified> "2018-11-10" .
+<http://www.worldcat.org/title/-/oclc/615145853> <http://rdfs.org/ns/void#inDataset> <http://purl.oclc.org/dataset/WorldCat> .
+<http://id.loc.gov/vocabulary/countries/nyu> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://id.loc.gov/vocabulary/countries/nyu> <http://purl.org/dc/terms/identifier> "nyu" .
+<http://experiment.worldcat.org/entity/work/data/481121754#Place/washington_dc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://experiment.worldcat.org/entity/work/data/481121754#Place/washington_dc> <http://schema.org/name> "Washington, DC" .
+<http://experiment.worldcat.org/entity/work/data/481121754#Place/new_york_ny> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://experiment.worldcat.org/entity/work/data/481121754#Place/new_york_ny> <http://schema.org/name> "New York, NY" .
+<http://quod.lib.umich.edu/cgi/t/text/text-idx?page=browse;c=gandf> <http://www.w3.org/2000/01/rdf-schema#comment> "kostenfrei" .
+<http://experiment.worldcat.org/entity/work/data/481121754#Agent/the_garden_and_forest_publ_co> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bibliograph.net/Agent> .
+<http://experiment.worldcat.org/entity/work/data/481121754#Agent/the_garden_and_forest_publ_co> <http://schema.org/name> "The Garden and Forest Publ. Co." .
+<http://experiment.worldcat.org/entity/work/data/481121754#Agent/library_of_congress_preservation_reformatting_division> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bibliograph.net/Agent> .
+<http://experiment.worldcat.org/entity/work/data/481121754#Agent/library_of_congress_preservation_reformatting_division> <http://schema.org/name> "Library of Congress, Preservation Reformatting Division." .
+<http://worldcat.org/entity/work/id/481121754> <http://umbel.org/umbel#isLike> <http://worldcat.org/issn/0889-874X> .
+<http://worldcat.org/entity/work/data/481121754#CreativeWork/garden_and_forest> <http://schema.org/isSimilarTo> <http://www.worldcat.org/oclc/615145853> .
+<http://worldcat.org/entity/work/data/481121754#CreativeWork/garden_and_forest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://worldcat.org/entity/work/data/481121754#CreativeWork/garden_and_forest> <http://www.w3.org/2000/01/rdf-schema#label> "Garden and forest" .
+<http://worldcat.org/entity/work/data/481121754#CreativeWork/garden_and_forest> <http://schema.org/description> "Druckausg." .
+<http://www.worldcat.org/title/-/oclc/615145853#PublicationEvent/new_york_ny_the_garden_and_forest_publ_co_1888_1897> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PublicationEvent> .
+<http://www.worldcat.org/title/-/oclc/615145853#PublicationEvent/new_york_ny_the_garden_and_forest_publ_co_1888_1897> <http://schema.org/location> <http://experiment.worldcat.org/entity/work/data/481121754#Place/new_york_ny> .
+<http://www.worldcat.org/title/-/oclc/615145853#PublicationEvent/new_york_ny_the_garden_and_forest_publ_co_1888_1897> <http://schema.org/organizer> <http://experiment.worldcat.org/entity/work/data/481121754#Agent/the_garden_and_forest_publ_co> .
+<http://www.worldcat.org/title/-/oclc/615145853#PublicationEvent/new_york_ny_the_garden_and_forest_publ_co_1888_1897> <http://schema.org/startDate> "1888-1897" .
+<http://worldcat.org/issn/0889-874X> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://worldcat.org/issn/0889-874X> <http://schema.org/name> "Garden and forest a journal of horticulture, landscape art and forestry." .
+<http://worldcat.org/issn/0889-874X> <http://schema.org/issn> "0889-874X" .
+<http://worldcat.org/issn/0889-874X> <http://umbel.org/umbel#isLike> <http://worldcat.org/entity/work/id/481121754> .
+<http://www.worldcat.org/title/-/oclc/615145853#PublicationEvent/washington_dc_library_of_congress_preservation_reformatting_division> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PublicationEvent> .
+<http://www.worldcat.org/title/-/oclc/615145853#PublicationEvent/washington_dc_library_of_congress_preservation_reformatting_division> <http://schema.org/location> <http://experiment.worldcat.org/entity/work/data/481121754#Place/washington_dc> .
+<http://www.worldcat.org/title/-/oclc/615145853#PublicationEvent/washington_dc_library_of_congress_preservation_reformatting_division> <http://schema.org/organizer> <http://experiment.worldcat.org/entity/work/data/481121754#Agent/library_of_congress_preservation_reformatting_division> .
+<http://www.worldcat.org/oclc/615145853> <http://schema.org/url> <http://www.loc.gov/preserv/prd/gardfor/> .
+<http://www.worldcat.org/oclc/615145853> <http://schema.org/productID> "615145853" .
+<http://www.worldcat.org/oclc/615145853> <http://schema.org/publisher> <http://experiment.worldcat.org/entity/work/data/481121754#Agent/the_garden_and_forest_publ_co> .
+<http://www.worldcat.org/oclc/615145853> <http://umbel.org/umbel#isLike> <http://d-nb.info/022767789> .
+<http://www.worldcat.org/oclc/615145853> <http://purl.org/library/placeOfPublication> <http://experiment.worldcat.org/entity/work/data/481121754#Place/new_york_ny> .
+<http://www.worldcat.org/oclc/615145853> <http://purl.org/library/placeOfPublication> <http://experiment.worldcat.org/entity/work/data/481121754#Place/washington_dc> .
+<http://www.worldcat.org/oclc/615145853> <http://schema.org/url> <http://quod.lib.umich.edu/cgi/t/text/text-idx?page=browse;c=gandf> .
+<http://www.worldcat.org/oclc/615145853> <http://schema.org/datePublished> "1888/1897" .
+<http://www.worldcat.org/oclc/615145853> <http://schema.org/isSimilarTo> <http://worldcat.org/entity/work/data/481121754#CreativeWork/garden_and_forest> .
+<http://www.worldcat.org/oclc/615145853> <http://www.w3.org/2007/05/powder-s#describedby> <http://www.worldcat.org/title/-/oclc/615145853> .
+<http://www.worldcat.org/oclc/615145853> <http://purl.org/library/oclcnum> "615145853" .
+<http://www.worldcat.org/oclc/615145853> <http://schema.org/workExample> <http://worldcat.org/issn/0889-874X> .
+<http://www.worldcat.org/oclc/615145853> <http://schema.org/publication> <http://www.worldcat.org/title/-/oclc/615145853#PublicationEvent/washington_dc_library_of_congress_preservation_reformatting_division> .
+<http://www.worldcat.org/oclc/615145853> <http://schema.org/url> <http://memory.loc.gov/ammem/ndlpcoop/moahtml/title/gndf_vols.html> .
+<http://www.worldcat.org/oclc/615145853> <http://schema.org/name> "Garden and forest a journal of horticulture, landscape art and forestry." .
+<http://www.worldcat.org/oclc/615145853> <http://schema.org/exampleOfWork> <http://worldcat.org/entity/work/id/481121754> .
+<http://www.worldcat.org/oclc/615145853> <http://schema.org/inLanguage> "en" .
+<http://www.worldcat.org/oclc/615145853> <http://schema.org/publisher> <http://experiment.worldcat.org/entity/work/data/481121754#Agent/library_of_congress_preservation_reformatting_division> .
+<http://www.worldcat.org/oclc/615145853> <http://purl.org/library/placeOfPublication> <http://id.loc.gov/vocabulary/countries/nyu> .
+<http://www.worldcat.org/oclc/615145853> <http://schema.org/url> <http://www.bibliothek.uni-regensburg.de/ezeit/?2061180> .
+<http://www.worldcat.org/oclc/615145853> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://www.worldcat.org/oclc/615145853> <http://schema.org/publication> <http://www.worldcat.org/title/-/oclc/615145853#PublicationEvent/new_york_ny_the_garden_and_forest_publ_co_1888_1897> .
+<http://www.worldcat.org/oclc/615145853> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .

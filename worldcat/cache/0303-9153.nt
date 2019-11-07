@@ -1,0 +1,93 @@
+<http://viaf.org/viaf/159423716> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+<http://viaf.org/viaf/159423716> <http://schema.org/name> "Jardin botanique national de Belgique." .
+<http://experiment.worldcat.org/entity/work/data/27159569#Agent/jardin_botanique_national_de_belgique> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bibliograph.net/Agent> .
+<http://experiment.worldcat.org/entity/work/data/27159569#Agent/jardin_botanique_national_de_belgique> <http://schema.org/name> "[Jardin botanique national de Belgique" .
+<http://www.worldcat.org/oclc/2400220> <http://schema.org/isSimilarTo> <http://www.worldcat.org/oclc/712487129> .
+<http://www.worldcat.org/oclc/2400220> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://www.worldcat.org/oclc/2400220> <http://www.w3.org/2000/01/rdf-schema#label> "Bulletin du Jardin botanique national de Belgique" .
+<http://www.worldcat.org/oclc/2400220> <http://schema.org/description> "Print version: Jardin botanique national de Belgique." .
+<http://id.worldcat.org/fast/836869> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://id.worldcat.org/fast/836869> <http://schema.org/name> "Botany"@en .
+<http://www.worldcat.org/oclc/712487129> <http://schema.org/url> <http://books.google.com/books?id=cEUkAQAAMAAJ> .
+<http://www.worldcat.org/oclc/712487129> <http://schema.org/url> <http://books.google.com/books?id=G7z8ABYe8CQC> .
+<http://www.worldcat.org/oclc/712487129> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://www.worldcat.org/oclc/712487129> <http://schema.org/url> <http://books.google.com/books?id=3UckAQAAMAAJ> .
+<http://www.worldcat.org/oclc/712487129> <http://schema.org/url> <http://books.google.com/books?id=Jn5Keydhg_YC> .
+<http://www.worldcat.org/oclc/712487129> <http://schema.org/url> <http://books.google.com/books?id=OetSTduays0C> .
+<http://www.worldcat.org/oclc/712487129> <http://schema.org/url> <http://books.google.com/books?id=nUgkAQAAMAAJ> .
+<http://www.worldcat.org/oclc/712487129> <http://schema.org/contributor> <http://viaf.org/viaf/159423716> .
+<http://www.worldcat.org/oclc/712487129> <http://schema.org/url> <http://books.google.com/books?id=LCkio12CANoC> .
+<http://www.worldcat.org/oclc/712487129> <http://schema.org/alternateName> "Bulletin van de Nationale Plantentuin van België" .
+<http://www.worldcat.org/oclc/712487129> <http://schema.org/exampleOfWork> <http://worldcat.org/entity/work/id/27159569> .
+<http://www.worldcat.org/oclc/712487129> <http://schema.org/genre> "Government publication"@en .
+<http://www.worldcat.org/oclc/712487129> <http://schema.org/creator> <http://viaf.org/viaf/159423716> .
+<http://www.worldcat.org/oclc/712487129> <http://schema.org/url> <http://books.google.com/books?id=w244AQAAMAAJ> .
+<http://www.worldcat.org/oclc/712487129> <http://schema.org/url> <http://books.google.com/books?id=rzUl77Nl8SUC> .
+<http://www.worldcat.org/oclc/712487129> <http://purl.org/library/oclcnum> "712487129" .
+<http://www.worldcat.org/oclc/712487129> <http://schema.org/name> "Bulletin du Jardin botanique national de Belgique."@en .
+<http://www.worldcat.org/oclc/712487129> <http://schema.org/url> <http://catalog.hathitrust.org/api/volumes/oclc/2400220.html> .
+<http://www.worldcat.org/oclc/712487129> <http://schema.org/genre> "National government publication"@en .
+<http://www.worldcat.org/oclc/712487129> <http://schema.org/url> <http://books.google.com/books?id=jpuonMDXY5cC> .
+<http://www.worldcat.org/oclc/712487129> <http://schema.org/url> <http://books.google.com/books?id=8nmklbXO7LoC> .
+<http://www.worldcat.org/oclc/712487129> <http://schema.org/url> <http://books.google.com/books?id=WlMkAQAAMAAJ> .
+<http://www.worldcat.org/oclc/712487129> <http://schema.org/url> <http://books.google.com/books?id=ii6H6r5r_18C> .
+<http://www.worldcat.org/oclc/712487129> <http://schema.org/productID> "712487129" .
+<http://www.worldcat.org/oclc/712487129> <http://schema.org/url> <http://books.google.com/books?id=3SEK2dFRdlAC> .
+<http://www.worldcat.org/oclc/712487129> <http://schema.org/url> <http://books.google.com/books?id=wqBGAQAAMAAJ> .
+<http://www.worldcat.org/oclc/712487129> <http://schema.org/url> <http://books.google.com/books?id=TZRGAQAAMAAJ> .
+<http://www.worldcat.org/oclc/712487129> <http://schema.org/publisher> <http://experiment.worldcat.org/entity/work/data/27159569#Agent/jardin_botanique_national_de_belgique> .
+<http://www.worldcat.org/oclc/712487129> <http://schema.org/alternateName> "Bull. Jard. bot. nat. Belg." .
+<http://www.worldcat.org/oclc/712487129> <http://schema.org/url> <http://books.google.com/books?id=GAGWKlMZ4kkC> .
+<http://www.worldcat.org/oclc/712487129> <http://schema.org/url> <http://books.google.com/books?id=H0YkAQAAMAAJ> .
+<http://www.worldcat.org/oclc/712487129> <http://schema.org/url> <http://books.google.com/books?id=GrdLAQAAIAAJ> .
+<http://www.worldcat.org/oclc/712487129> <http://schema.org/url> <http://books.google.com/books?id=-HDBedDgIDUC> .
+<http://www.worldcat.org/oclc/712487129> <http://schema.org/genre> "Periodicals"@en .
+<http://www.worldcat.org/oclc/712487129> <http://schema.org/about> <http://id.worldcat.org/fast/836869> .
+<http://www.worldcat.org/oclc/712487129> <http://schema.org/url> <http://books.google.com/books?id=WEYkAQAAMAAJ> .
+<http://www.worldcat.org/oclc/712487129> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/27159569#Topic/botany> .
+<http://www.worldcat.org/oclc/712487129> <http://schema.org/url> <http://books.google.com/books?id=pjYvYBlyNfMC> .
+<http://www.worldcat.org/oclc/712487129> <http://schema.org/url> <http://books.google.com/books?id=PmWFxfvhFJYC> .
+<http://www.worldcat.org/oclc/712487129> <http://schema.org/inLanguage> "en" .
+<http://www.worldcat.org/oclc/712487129> <http://schema.org/url> <http://books.google.com/books?id=MXRNCZK-uD0C> .
+<http://www.worldcat.org/oclc/712487129> <http://schema.org/url> <http://books.google.com/books?id=0aBGAQAAMAAJ> .
+<http://www.worldcat.org/oclc/712487129> <http://purl.org/library/placeOfPublication> <http://id.loc.gov/vocabulary/countries/be> .
+<http://www.worldcat.org/oclc/712487129> <http://schema.org/url> <http://books.google.com/books?id=P3OF7RX2FH0C> .
+<http://www.worldcat.org/oclc/712487129> <http://schema.org/url> <http://books.google.com/books?id=r-iWv5S7IoAC> .
+<http://www.worldcat.org/oclc/712487129> <http://schema.org/url> <http://books.google.com/books?id=UiujvnIevVAC> .
+<http://www.worldcat.org/oclc/712487129> <http://schema.org/datePublished> "1967/1999" .
+<http://www.worldcat.org/oclc/712487129> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/MediaObject> .
+<http://www.worldcat.org/oclc/712487129> <http://schema.org/url> <http://books.google.com/books?id=4AfYNtFWAm0C> .
+<http://www.worldcat.org/oclc/712487129> <http://schema.org/url> <http://books.google.com/books?id=jWrMj02S5O0C> .
+<http://www.worldcat.org/oclc/712487129> <http://schema.org/url> <http://books.google.com/books?id=DUxvgeyD03kC> .
+<http://www.worldcat.org/oclc/712487129> <http://schema.org/isSimilarTo> <http://www.worldcat.org/oclc/2400220> .
+<http://www.worldcat.org/oclc/712487129> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://experiment.worldcat.org/entity/work/data/27159569#CreativeWork/bulletin_van_de_nationale_plantentuin_van_belgie> .
+<http://www.worldcat.org/oclc/712487129> <http://schema.org/url> <http://books.google.com/books?id=ZEckAQAAMAAJ> .
+<http://www.worldcat.org/oclc/712487129> <http://purl.org/library/placeOfPublication> <http://experiment.worldcat.org/entity/work/data/27159569#Place/meise> .
+<http://www.worldcat.org/oclc/712487129> <http://www.w3.org/2007/05/powder-s#describedby> <http://www.worldcat.org/title/-/oclc/712487129> .
+<http://www.worldcat.org/oclc/712487129> <http://schema.org/url> <http://books.google.com/books?id=wEMkAQAAMAAJ> .
+<http://www.worldcat.org/oclc/712487129> <http://schema.org/url> <http://books.google.com/books?id=CK0KtpTo3C4C> .
+<http://www.worldcat.org/oclc/712487129> <http://schema.org/url> <http://books.google.com/books?id=XFDh27T5mv8C> .
+<http://www.worldcat.org/oclc/712487129> <http://schema.org/url> <http://books.google.com/books?id=zEQkAQAAMAAJ> .
+<http://www.worldcat.org/oclc/712487129> <http://schema.org/url> <http://books.google.com/books?id=7VMkAQAAMAAJ> .
+<http://www.worldcat.org/oclc/712487129> <http://schema.org/publication> <http://www.worldcat.org/title/-/oclc/712487129#PublicationEvent/meisejardin_botanique_national_de_belgique> .
+<http://www.worldcat.org/oclc/712487129> <http://schema.org/url> <http://books.google.com/books?id=9244AQAAMAAJ> .
+<http://www.worldcat.org/oclc/712487129> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://www.worldcat.org/oclc/712487129> <http://schema.org/url> <http://books.google.com/books?id=SQef8bs-gbwC> .
+<http://experiment.worldcat.org/entity/work/data/27159569#Place/meise> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://experiment.worldcat.org/entity/work/data/27159569#Place/meise> <http://schema.org/name> "Meise" .
+<http://experiment.worldcat.org/entity/work/data/27159569#Topic/botany> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/27159569#Topic/botany> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://id.loc.gov/authorities/subjects/sh2007102112> .
+<http://experiment.worldcat.org/entity/work/data/27159569#Topic/botany> <http://schema.org/name> "Botany"@en .
+<http://id.loc.gov/vocabulary/countries/be> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://id.loc.gov/vocabulary/countries/be> <http://purl.org/dc/terms/identifier> "be" .
+<http://experiment.worldcat.org/entity/work/data/27159569#CreativeWork/bulletin_van_de_nationale_plantentuin_van_belgie> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://experiment.worldcat.org/entity/work/data/27159569#CreativeWork/bulletin_van_de_nationale_plantentuin_van_belgie> <http://schema.org/name> "Bulletin van de Nationale Plantentuin van België." .
+<http://experiment.worldcat.org/entity/work/data/27159569#CreativeWork/bulletin_van_de_nationale_plantentuin_van_belgie> <http://schema.org/creator> <http://viaf.org/viaf/159423716> .
+<http://www.worldcat.org/title/-/oclc/712487129#PublicationEvent/meisejardin_botanique_national_de_belgique> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PublicationEvent> .
+<http://www.worldcat.org/title/-/oclc/712487129#PublicationEvent/meisejardin_botanique_national_de_belgique> <http://schema.org/location> <http://experiment.worldcat.org/entity/work/data/27159569#Place/meise> .
+<http://www.worldcat.org/title/-/oclc/712487129#PublicationEvent/meisejardin_botanique_national_de_belgique> <http://schema.org/organizer> <http://experiment.worldcat.org/entity/work/data/27159569#Agent/jardin_botanique_national_de_belgique> .
+<http://www.worldcat.org/title/-/oclc/712487129> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#ContentTypeGenericResource> .
+<http://www.worldcat.org/title/-/oclc/712487129> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#InformationResource> .
+<http://www.worldcat.org/title/-/oclc/712487129> <http://schema.org/about> <http://www.worldcat.org/oclc/712487129> .
+<http://www.worldcat.org/title/-/oclc/712487129> <http://schema.org/dateModified> "2019-10-10" .
+<http://www.worldcat.org/title/-/oclc/712487129> <http://rdfs.org/ns/void#inDataset> <http://purl.oclc.org/dataset/WorldCat> .

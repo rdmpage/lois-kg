@@ -1,0 +1,29 @@
+<http://experiment.worldcat.org/entity/work/data/4452013962#Place/la_plata> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://experiment.worldcat.org/entity/work/data/4452013962#Place/la_plata> <http://schema.org/name> "La Plata" .
+<http://www.worldcat.org/oclc/939111949> <http://schema.org/exampleOfWork> <http://worldcat.org/entity/work/id/4452013962> .
+<http://www.worldcat.org/oclc/939111949> <http://schema.org/publication> <http://www.worldcat.org/title/-/oclc/939111949#PublicationEvent/la_plata_facultad_de_ciencias_naturales_y_museo_universidad_nacional_de_la_plata> .
+<http://www.worldcat.org/oclc/939111949> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://www.worldcat.org/oclc/939111949> <http://purl.org/library/oclcnum> "939111949" .
+<http://www.worldcat.org/oclc/939111949> <http://schema.org/name> "Revista del Museo de La Plata. Sección Botánica" .
+<http://www.worldcat.org/oclc/939111949> <http://schema.org/productID> "939111949" .
+<http://www.worldcat.org/oclc/939111949> <http://schema.org/isSimilarTo> <http://worldcat.org/entity/work/data/4452013962#CreativeWork/revista_del_museo_de_la_plata_seccion_botanica_print> .
+<http://www.worldcat.org/oclc/939111949> <http://schema.org/datePublished> "2002/9999" .
+<http://www.worldcat.org/oclc/939111949> <http://www.w3.org/2007/05/powder-s#describedby> <http://www.worldcat.org/title/-/oclc/939111949> .
+<http://www.worldcat.org/oclc/939111949> <http://schema.org/inLanguage> "en" .
+<http://www.worldcat.org/oclc/939111949> <http://schema.org/publisher> <http://experiment.worldcat.org/entity/work/data/4452013962#Agent/facultad_de_ciencias_naturales_y_museo_universidad_nacional_de_la_plata> .
+<http://www.worldcat.org/oclc/939111949> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://www.worldcat.org/oclc/939111949> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/MediaObject> .
+<http://www.worldcat.org/oclc/939111949> <http://purl.org/library/placeOfPublication> <http://experiment.worldcat.org/entity/work/data/4452013962#Place/la_plata> .
+<http://www.worldcat.org/title/-/oclc/939111949> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#ContentTypeGenericResource> .
+<http://www.worldcat.org/title/-/oclc/939111949> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#InformationResource> .
+<http://www.worldcat.org/title/-/oclc/939111949> <http://schema.org/about> <http://www.worldcat.org/oclc/939111949> .
+<http://www.worldcat.org/title/-/oclc/939111949> <http://schema.org/dateModified> "2019-02-09" .
+<http://www.worldcat.org/title/-/oclc/939111949> <http://rdfs.org/ns/void#inDataset> <http://purl.oclc.org/dataset/WorldCat> .
+<http://www.worldcat.org/title/-/oclc/939111949#PublicationEvent/la_plata_facultad_de_ciencias_naturales_y_museo_universidad_nacional_de_la_plata> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PublicationEvent> .
+<http://www.worldcat.org/title/-/oclc/939111949#PublicationEvent/la_plata_facultad_de_ciencias_naturales_y_museo_universidad_nacional_de_la_plata> <http://schema.org/location> <http://experiment.worldcat.org/entity/work/data/4452013962#Place/la_plata> .
+<http://www.worldcat.org/title/-/oclc/939111949#PublicationEvent/la_plata_facultad_de_ciencias_naturales_y_museo_universidad_nacional_de_la_plata> <http://schema.org/organizer> <http://experiment.worldcat.org/entity/work/data/4452013962#Agent/facultad_de_ciencias_naturales_y_museo_universidad_nacional_de_la_plata> .
+<http://worldcat.org/entity/work/data/4452013962#CreativeWork/revista_del_museo_de_la_plata_seccion_botanica_print> <http://schema.org/isSimilarTo> <http://www.worldcat.org/oclc/939111949> .
+<http://worldcat.org/entity/work/data/4452013962#CreativeWork/revista_del_museo_de_la_plata_seccion_botanica_print> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://worldcat.org/entity/work/data/4452013962#CreativeWork/revista_del_museo_de_la_plata_seccion_botanica_print> <http://www.w3.org/2000/01/rdf-schema#label> "Revista del Museo de La Plata. Sección Botánica (Print)" .
+<http://experiment.worldcat.org/entity/work/data/4452013962#Agent/facultad_de_ciencias_naturales_y_museo_universidad_nacional_de_la_plata> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bibliograph.net/Agent> .
+<http://experiment.worldcat.org/entity/work/data/4452013962#Agent/facultad_de_ciencias_naturales_y_museo_universidad_nacional_de_la_plata> <http://schema.org/name> "Facultad de Ciencias Naturales y Museo, Universidad Nacional de La Plata." .

@@ -1,0 +1,52 @@
+<http://id.worldcat.org/fast/1065823> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://id.worldcat.org/fast/1065823> <http://schema.org/name> "Plants"@en .
+<http://experiment.worldcat.org/entity/work/data/410562316#Place/beijing> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://experiment.worldcat.org/entity/work/data/410562316#Place/beijing> <http://schema.org/name> "Beijing" .
+<http://worldcat.org/entity/work/id/410562316> <http://umbel.org/umbel#isLike> <http://worldcat.org/issn/1674-4918> .
+<http://id.loc.gov/vocabulary/countries/cc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://id.loc.gov/vocabulary/countries/cc> <http://purl.org/dc/terms/identifier> "cc" .
+<http://www.worldcat.org/title/-/oclc/500511234> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#ContentTypeGenericResource> .
+<http://www.worldcat.org/title/-/oclc/500511234> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#InformationResource> .
+<http://www.worldcat.org/title/-/oclc/500511234> <http://schema.org/about> <http://www.worldcat.org/oclc/500511234> .
+<http://www.worldcat.org/title/-/oclc/500511234> <http://schema.org/dateModified> "2019-02-18" .
+<http://www.worldcat.org/title/-/oclc/500511234> <http://rdfs.org/ns/void#inDataset> <http://purl.oclc.org/dataset/WorldCat> .
+<http://viaf.org/viaf/145390384> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+<http://viaf.org/viaf/145390384> <http://schema.org/name> "Zhongguo zhi wu xue hui." .
+<http://dewey.info/class/580.12/e22/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/410562316#Agent/science_press> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bibliograph.net/Agent> .
+<http://experiment.worldcat.org/entity/work/data/410562316#Agent/science_press> <http://schema.org/name> "Science Press" .
+<http://experiment.worldcat.org/entity/work/data/410562316#Topic/plants> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/410562316#Topic/plants> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://id.loc.gov/authorities/subjects/sh85015982> .
+<http://experiment.worldcat.org/entity/work/data/410562316#Topic/plants> <http://schema.org/name> "Plants"@en .
+<http://www.worldcat.org/title/-/oclc/500511234#PublicationEvent/beijing_science_press_2008> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PublicationEvent> .
+<http://www.worldcat.org/title/-/oclc/500511234#PublicationEvent/beijing_science_press_2008> <http://schema.org/location> <http://experiment.worldcat.org/entity/work/data/410562316#Place/beijing> .
+<http://www.worldcat.org/title/-/oclc/500511234#PublicationEvent/beijing_science_press_2008> <http://schema.org/organizer> <http://experiment.worldcat.org/entity/work/data/410562316#Agent/science_press> .
+<http://www.worldcat.org/title/-/oclc/500511234#PublicationEvent/beijing_science_press_2008> <http://schema.org/startDate> "2008-" .
+<http://worldcat.org/issn/1674-4918> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://worldcat.org/issn/1674-4918> <http://schema.org/name> "Journal of systematics and evolution = Zhiwu fenlei xue bao."@en .
+<http://worldcat.org/issn/1674-4918> <http://schema.org/issn> "1674-4918" .
+<http://worldcat.org/issn/1674-4918> <http://umbel.org/umbel#isLike> <http://worldcat.org/entity/work/id/410562316> .
+<http://www.worldcat.org/oclc/500511234> <http://schema.org/about> <http://id.worldcat.org/fast/1065823> .
+<http://www.worldcat.org/oclc/500511234> <http://schema.org/publication> <http://www.worldcat.org/title/-/oclc/500511234#PublicationEvent/beijing_science_press_2008> .
+<http://www.worldcat.org/oclc/500511234> <http://schema.org/publisher> <http://experiment.worldcat.org/entity/work/data/410562316#Agent/science_press> .
+<http://www.worldcat.org/oclc/500511234> <http://schema.org/contributor> <http://viaf.org/viaf/145390384> .
+<http://www.worldcat.org/oclc/500511234> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://www.worldcat.org/oclc/500511234> <http://schema.org/exampleOfWork> <http://worldcat.org/entity/work/id/410562316> .
+<http://www.worldcat.org/oclc/500511234> <http://purl.org/library/oclcnum> "500511234" .
+<http://www.worldcat.org/oclc/500511234> <http://schema.org/workExample> <http://worldcat.org/issn/1674-4918> .
+<http://www.worldcat.org/oclc/500511234> <http://schema.org/productID> "500511234" .
+<http://www.worldcat.org/oclc/500511234> <http://purl.org/library/placeOfPublication> <http://id.loc.gov/vocabulary/countries/cc> .
+<http://www.worldcat.org/oclc/500511234> <http://schema.org/genre> "Periodicals"@en .
+<http://www.worldcat.org/oclc/500511234> <http://schema.org/alternateName> "Zhi wu fen lei xue bao" .
+<http://www.worldcat.org/oclc/500511234> <http://schema.org/inLanguage> "en" .
+<http://www.worldcat.org/oclc/500511234> <http://schema.org/datePublished> "2008/9999" .
+<http://www.worldcat.org/oclc/500511234> <http://schema.org/name> "植物分类学报"@en .
+<http://www.worldcat.org/oclc/500511234> <http://www.w3.org/2000/01/rdf-schema#label> "Zhiwu fenlei xue bao" .
+<http://www.worldcat.org/oclc/500511234> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://www.worldcat.org/oclc/500511234> <http://purl.org/library/placeOfPublication> <http://experiment.worldcat.org/entity/work/data/410562316#Place/beijing> .
+<http://www.worldcat.org/oclc/500511234> <http://www.w3.org/2007/05/powder-s#describedby> <http://www.worldcat.org/title/-/oclc/500511234> .
+<http://www.worldcat.org/oclc/500511234> <http://schema.org/name> "Journal of systematics and evolution = Zhiwu fenlei xue bao."@en .
+<http://www.worldcat.org/oclc/500511234> <http://schema.org/datePublished> "2008/" .
+<http://www.worldcat.org/oclc/500511234> <http://schema.org/genre> "Classification"@en .
+<http://www.worldcat.org/oclc/500511234> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/410562316#Topic/plants> .
+<http://www.worldcat.org/oclc/500511234> <http://schema.org/about> <http://dewey.info/class/580.12/e22/> .

@@ -1,0 +1,62 @@
+<http://worldcat.org/entity/work/id/21101383> <http://umbel.org/umbel#isLike> <http://worldcat.org/issn/0254-6442> .
+<http://experiment.worldcat.org/entity/work/data/21101383#Agent/el_jardin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bibliograph.net/Agent> .
+<http://experiment.worldcat.org/entity/work/data/21101383#Agent/el_jardin> <http://schema.org/name> "El Jardín" .
+<http://experiment.worldcat.org/entity/work/data/21101383#Place/santo_domingo> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://experiment.worldcat.org/entity/work/data/21101383#Place/santo_domingo> <http://schema.org/name> "Santo Domingo" .
+<http://id.loc.gov/vocabulary/countries/dr> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://id.loc.gov/vocabulary/countries/dr> <http://purl.org/dc/terms/identifier> "dr" .
+<http://www.worldcat.org/oclc/1049662955> <http://schema.org/contributor> <http://experiment.worldcat.org/entity/work/data/21101383#Organization/jardin_botanico_nacional_dr_rafael_m_moscoso> .
+<http://www.worldcat.org/oclc/1049662955> <http://purl.org/library/oclcnum> "1049662955" .
+<http://www.worldcat.org/oclc/1049662955> <http://www.w3.org/2007/05/powder-s#describedby> <http://www.worldcat.org/title/-/oclc/1049662955> .
+<http://www.worldcat.org/oclc/1049662955> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/MediaObject> .
+<http://www.worldcat.org/oclc/1049662955> <http://schema.org/datePublished> "1976/" .
+<http://www.worldcat.org/oclc/1049662955> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/21101383#Place/west_indies> .
+<http://www.worldcat.org/oclc/1049662955> <http://schema.org/exampleOfWork> <http://worldcat.org/entity/work/id/21101383> .
+<http://www.worldcat.org/oclc/1049662955> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/21101383#Place/hispaniola> .
+<http://www.worldcat.org/oclc/1049662955> <http://schema.org/url> <https://archive.org/details/moscosoacontribu1520jard> .
+<http://www.worldcat.org/oclc/1049662955> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://www.worldcat.org/oclc/1049662955> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/21101383#Topic/botany> .
+<http://www.worldcat.org/oclc/1049662955> <http://schema.org/name> "Moscosoa : contribuciones científicas del Jardín Botánico Nacional \"Dr. Rafael M. Moscoso.\""@en .
+<http://www.worldcat.org/oclc/1049662955> <http://schema.org/productID> "1049662955" .
+<http://www.worldcat.org/oclc/1049662955> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://www.worldcat.org/oclc/1049662955> <http://purl.org/library/placeOfPublication> <http://experiment.worldcat.org/entity/work/data/21101383#Place/santo_domingo> .
+<http://www.worldcat.org/oclc/1049662955> <http://schema.org/about> <http://dewey.info/class/581.97293/e19/> .
+<http://www.worldcat.org/oclc/1049662955> <http://schema.org/inLanguage> "en" .
+<http://www.worldcat.org/oclc/1049662955> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/21101383#Topic/botany_hispaniola> .
+<http://www.worldcat.org/oclc/1049662955> <http://schema.org/publisher> <http://experiment.worldcat.org/entity/work/data/21101383#Agent/el_jardin> .
+<http://www.worldcat.org/oclc/1049662955> <http://schema.org/workExample> <http://worldcat.org/issn/0254-6442> .
+<http://www.worldcat.org/oclc/1049662955> <http://purl.org/library/placeOfPublication> <http://id.loc.gov/vocabulary/countries/dr> .
+<http://www.worldcat.org/oclc/1049662955> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/21101383#Topic/botany_west_indies> .
+<http://www.worldcat.org/oclc/1049662955> <http://schema.org/datePublished> "1976/9999" .
+<http://www.worldcat.org/oclc/1049662955> <http://schema.org/isPartOf> <http://experiment.worldcat.org/entity/work/data/21101383#Series/harvard_botany_libraries_biodiversity_heritage_library_digitization_project> .
+<http://www.worldcat.org/oclc/1049662955> <http://schema.org/publication> <http://www.worldcat.org/title/-/oclc/1049662955#PublicationEvent/santo_domingo_el_jardin_1976> .
+<http://www.worldcat.org/title/-/oclc/1049662955#PublicationEvent/santo_domingo_el_jardin_1976> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PublicationEvent> .
+<http://www.worldcat.org/title/-/oclc/1049662955#PublicationEvent/santo_domingo_el_jardin_1976> <http://schema.org/location> <http://experiment.worldcat.org/entity/work/data/21101383#Place/santo_domingo> .
+<http://www.worldcat.org/title/-/oclc/1049662955#PublicationEvent/santo_domingo_el_jardin_1976> <http://schema.org/organizer> <http://experiment.worldcat.org/entity/work/data/21101383#Agent/el_jardin> .
+<http://www.worldcat.org/title/-/oclc/1049662955#PublicationEvent/santo_domingo_el_jardin_1976> <http://schema.org/startDate> "1976-" .
+<http://experiment.worldcat.org/entity/work/data/21101383#Series/harvard_botany_libraries_biodiversity_heritage_library_digitization_project> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bibliograph.net/PublicationSeries> .
+<http://experiment.worldcat.org/entity/work/data/21101383#Series/harvard_botany_libraries_biodiversity_heritage_library_digitization_project> <http://schema.org/hasPart> <http://www.worldcat.org/oclc/1049662955> .
+<http://experiment.worldcat.org/entity/work/data/21101383#Series/harvard_botany_libraries_biodiversity_heritage_library_digitization_project> <http://schema.org/name> "Harvard Botany Libraries--Biodiversity Heritage Library digitization project." .
+<http://experiment.worldcat.org/entity/work/data/21101383#Organization/jardin_botanico_nacional_dr_rafael_m_moscoso> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+<http://experiment.worldcat.org/entity/work/data/21101383#Organization/jardin_botanico_nacional_dr_rafael_m_moscoso> <http://schema.org/name> "Jardín Botánico Nacional \"Dr. Rafael M. Moscoso.\"" .
+<http://worldcat.org/issn/0254-6442> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://worldcat.org/issn/0254-6442> <http://schema.org/name> "Moscosoa : contribuciones científicas del Jardín Botánico Nacional \"Dr. Rafael M. Moscoso.\""@en .
+<http://worldcat.org/issn/0254-6442> <http://schema.org/issn> "0254-6442" .
+<http://worldcat.org/issn/0254-6442> <http://umbel.org/umbel#isLike> <http://worldcat.org/entity/work/id/21101383> .
+<http://experiment.worldcat.org/entity/work/data/21101383#Topic/botany_hispaniola> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/21101383#Topic/botany_hispaniola> <http://schema.org/name> "Botany--Hispaniola"@en .
+<http://experiment.worldcat.org/entity/work/data/21101383#Place/hispaniola> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://experiment.worldcat.org/entity/work/data/21101383#Place/hispaniola> <http://schema.org/name> "Hispaniola." .
+<https://archive.org/details/moscosoacontribu1520jard> <http://www.w3.org/2000/01/rdf-schema#comment> "Free eBook from the Internet Archive" .
+<http://dewey.info/class/581.97293/e19/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/21101383#Topic/botany_west_indies> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/21101383#Topic/botany_west_indies> <http://schema.org/name> "Botany--West Indies"@en .
+<http://experiment.worldcat.org/entity/work/data/21101383#Topic/botany> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/21101383#Topic/botany> <http://schema.org/name> "Botany"@en .
+<http://www.worldcat.org/title/-/oclc/1049662955> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#ContentTypeGenericResource> .
+<http://www.worldcat.org/title/-/oclc/1049662955> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#InformationResource> .
+<http://www.worldcat.org/title/-/oclc/1049662955> <http://schema.org/about> <http://www.worldcat.org/oclc/1049662955> .
+<http://www.worldcat.org/title/-/oclc/1049662955> <http://schema.org/dateModified> "2019-02-19" .
+<http://www.worldcat.org/title/-/oclc/1049662955> <http://rdfs.org/ns/void#inDataset> <http://purl.oclc.org/dataset/WorldCat> .
+<http://experiment.worldcat.org/entity/work/data/21101383#Place/west_indies> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://experiment.worldcat.org/entity/work/data/21101383#Place/west_indies> <http://schema.org/name> "West Indies." .

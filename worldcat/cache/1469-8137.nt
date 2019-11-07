@@ -1,0 +1,39 @@
+<http://worldcat.org/entity/work/data/54074381#CreativeWork/new_phytologist> <http://schema.org/isSimilarTo> <http://www.worldcat.org/oclc/57181218> .
+<http://worldcat.org/entity/work/data/54074381#CreativeWork/new_phytologist> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://worldcat.org/entity/work/data/54074381#CreativeWork/new_phytologist> <http://www.w3.org/2000/01/rdf-schema#label> "New phytologist" .
+<http://worldcat.org/issn/1469-8137> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://worldcat.org/issn/1469-8137> <http://schema.org/name> "New phytologist" .
+<http://worldcat.org/issn/1469-8137> <http://schema.org/issn> "1469-8137" .
+<http://worldcat.org/issn/1469-8137> <http://umbel.org/umbel#isLike> <http://worldcat.org/entity/work/id/54074381> .
+<http://worldcat.org/entity/work/id/54074381> <http://schema.org/name> "New phytologist (En ligne)" .
+<http://worldcat.org/entity/work/id/54074381> <http://umbel.org/umbel#isLike> <http://worldcat.org/issn/1469-8137> .
+<http://id.loc.gov/vocabulary/countries/enk> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://id.loc.gov/vocabulary/countries/enk> <http://purl.org/dc/terms/identifier> "enk" .
+<http://www.blackwell-synergy.com/servlet/useragent?func=showIssues&code=nph> <http://www.w3.org/2000/01/rdf-schema#comment> "Acc%60es réservé UdeM" .
+<http://experiment.worldcat.org/entity/work/data/54074381#Topic/botanique> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/54074381#Topic/botanique> <http://schema.org/name> "Botanique"@fr .
+<http://www.blackwell-synergy.com/> <http://www.w3.org/2000/01/rdf-schema#comment> "Page d'accueil de l'éditeur" .
+<http://www.worldcat.org/oclc/57181218> <http://purl.org/library/oclcnum> "57181218" .
+<http://www.worldcat.org/oclc/57181218> <http://schema.org/productID> "57181218" .
+<http://www.worldcat.org/oclc/57181218> <http://schema.org/name> "New phytologist" .
+<http://www.worldcat.org/oclc/57181218> <http://www.w3.org/2007/05/powder-s#describedby> <http://www.worldcat.org/title/-/oclc/57181218> .
+<http://www.worldcat.org/oclc/57181218> <http://purl.org/library/placeOfPublication> <http://id.loc.gov/vocabulary/countries/enk> .
+<http://www.worldcat.org/oclc/57181218> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/MediaObject> .
+<http://www.worldcat.org/oclc/57181218> <http://schema.org/exampleOfWork> <http://worldcat.org/entity/work/id/54074381> .
+<http://www.worldcat.org/oclc/57181218> <http://schema.org/contributor> <http://viaf.org/viaf/154841225> .
+<http://www.worldcat.org/oclc/57181218> <http://schema.org/isSimilarTo> <http://worldcat.org/entity/work/data/54074381#CreativeWork/new_phytologist> .
+<http://www.worldcat.org/oclc/57181218> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://www.worldcat.org/oclc/57181218> <http://schema.org/url> <http://www.blackwell-synergy.com/servlet/useragent?func=showIssues&code=nph> .
+<http://www.worldcat.org/oclc/57181218> <http://schema.org/datePublished> "2003/9999" .
+<http://www.worldcat.org/oclc/57181218> <http://schema.org/inLanguage> "en" .
+<http://www.worldcat.org/oclc/57181218> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/54074381#Topic/botanique> .
+<http://www.worldcat.org/oclc/57181218> <http://schema.org/workExample> <http://worldcat.org/issn/1469-8137> .
+<http://www.worldcat.org/oclc/57181218> <http://schema.org/url> <http://www.blackwell-synergy.com/> .
+<http://www.worldcat.org/oclc/57181218> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://www.worldcat.org/title/-/oclc/57181218> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#ContentTypeGenericResource> .
+<http://www.worldcat.org/title/-/oclc/57181218> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#InformationResource> .
+<http://www.worldcat.org/title/-/oclc/57181218> <http://schema.org/about> <http://www.worldcat.org/oclc/57181218> .
+<http://www.worldcat.org/title/-/oclc/57181218> <http://schema.org/dateModified> "2019-02-09" .
+<http://www.worldcat.org/title/-/oclc/57181218> <http://rdfs.org/ns/void#inDataset> <http://purl.oclc.org/dataset/WorldCat> .
+<http://viaf.org/viaf/154841225> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+<http://viaf.org/viaf/154841225> <http://schema.org/name> "New Phytologist Trust." .

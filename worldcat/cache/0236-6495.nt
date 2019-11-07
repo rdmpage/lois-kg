@@ -1,0 +1,48 @@
+<http://worldcat.org/entity/work/id/3340912> <http://umbel.org/umbel#isLike> <http://worldcat.org/issn/1588-2578> .
+<http://worldcat.org/entity/work/id/3340912> <http://umbel.org/umbel#isLike> <http://worldcat.org/issn/0236-6495> .
+<http://akademiai.com/content/119697/?p=a272cf96797e4b0cb96133061c8cfdd7&pi=6> <http://www.w3.org/2000/01/rdf-schema#comment> "Full text 2001-től" .
+<http://experiment.worldcat.org/entity/work/data/3340912#Agent/akademiai_k> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bibliograph.net/Agent> .
+<http://experiment.worldcat.org/entity/work/data/3340912#Agent/akademiai_k> <http://schema.org/name> "Akadémiai K." .
+<http://experiment.worldcat.org/entity/work/data/3340912#Thing/biologia> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> .
+<http://experiment.worldcat.org/entity/work/data/3340912#Thing/biologia> <http://schema.org/name> "Biológia" .
+<http://worldcat.org/issn/1588-2578> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://worldcat.org/issn/1588-2578> <http://schema.org/name> "Acta botanica Hungarica" .
+<http://worldcat.org/issn/1588-2578> <http://schema.org/issn> "1588-2578" .
+<http://worldcat.org/issn/1588-2578> <http://umbel.org/umbel#isLike> <http://worldcat.org/entity/work/id/3340912> .
+<http://id.loc.gov/vocabulary/countries/hu> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://id.loc.gov/vocabulary/countries/hu> <http://purl.org/dc/terms/identifier> "hu" .
+<http://www.worldcat.org/title/-/oclc/909429539> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#ContentTypeGenericResource> .
+<http://www.worldcat.org/title/-/oclc/909429539> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#InformationResource> .
+<http://www.worldcat.org/title/-/oclc/909429539> <http://schema.org/about> <http://www.worldcat.org/oclc/909429539> .
+<http://www.worldcat.org/title/-/oclc/909429539> <http://schema.org/dateModified> "2018-11-08" .
+<http://www.worldcat.org/title/-/oclc/909429539> <http://rdfs.org/ns/void#inDataset> <http://purl.oclc.org/dataset/WorldCat> .
+<http://www.worldcat.org/title/-/oclc/909429539#PublicationEvent/akademiai_k_2001> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PublicationEvent> .
+<http://www.worldcat.org/title/-/oclc/909429539#PublicationEvent/akademiai_k_2001> <http://schema.org/organizer> <http://experiment.worldcat.org/entity/work/data/3340912#Agent/akademiai_k> .
+<http://www.worldcat.org/title/-/oclc/909429539#PublicationEvent/akademiai_k_2001> <http://schema.org/startDate> "2001-" .
+<http://worldcat.org/issn/0236-6495> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://worldcat.org/issn/0236-6495> <http://schema.org/name> "Acta botanica Hungarica" .
+<http://worldcat.org/issn/0236-6495> <http://schema.org/issn> "0236-6495" .
+<http://worldcat.org/issn/0236-6495> <http://umbel.org/umbel#isLike> <http://worldcat.org/entity/work/id/3340912> .
+<http://experiment.worldcat.org/entity/work/data/3340912#Thing/biology_and_life_sciences> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> .
+<http://experiment.worldcat.org/entity/work/data/3340912#Thing/biology_and_life_sciences> <http://schema.org/name> "Biology and Life Sciences" .
+<http://www.worldcat.org/oclc/909429539> <http://schema.org/workExample> <http://worldcat.org/issn/1588-2578> .
+<http://www.worldcat.org/oclc/909429539> <http://schema.org/inLanguage> "en" .
+<http://www.worldcat.org/oclc/909429539> <http://schema.org/exampleOfWork> <http://worldcat.org/entity/work/id/3340912> .
+<http://www.worldcat.org/oclc/909429539> <http://schema.org/url> <http://akademiai.com/content/119697/?p=a272cf96797e4b0cb96133061c8cfdd7&pi=6> .
+<http://www.worldcat.org/oclc/909429539> <http://schema.org/publication> <http://www.worldcat.org/title/-/oclc/909429539#PublicationEvent/akademiai_k_2001> .
+<http://www.worldcat.org/oclc/909429539> <http://schema.org/workExample> <http://worldcat.org/issn/0236-6495> .
+<http://www.worldcat.org/oclc/909429539> <http://purl.org/library/placeOfPublication> <http://id.loc.gov/vocabulary/countries/hu> .
+<http://www.worldcat.org/oclc/909429539> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/3340912#Thing/biologia> .
+<http://www.worldcat.org/oclc/909429539> <http://schema.org/datePublished> "2001/9999" .
+<http://www.worldcat.org/oclc/909429539> <http://purl.org/library/oclcnum> "909429539" .
+<http://www.worldcat.org/oclc/909429539> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://www.worldcat.org/oclc/909429539> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/3340912#Thing/novenytan> .
+<http://www.worldcat.org/oclc/909429539> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://www.worldcat.org/oclc/909429539> <http://schema.org/productID> "909429539" .
+<http://www.worldcat.org/oclc/909429539> <http://schema.org/publisher> <http://experiment.worldcat.org/entity/work/data/3340912#Agent/akademiai_k> .
+<http://www.worldcat.org/oclc/909429539> <http://schema.org/datePublished> "2001/" .
+<http://www.worldcat.org/oclc/909429539> <http://www.w3.org/2007/05/powder-s#describedby> <http://www.worldcat.org/title/-/oclc/909429539> .
+<http://www.worldcat.org/oclc/909429539> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/3340912#Thing/biology_and_life_sciences> .
+<http://www.worldcat.org/oclc/909429539> <http://schema.org/name> "Acta botanica Hungarica" .
+<http://experiment.worldcat.org/entity/work/data/3340912#Thing/novenytan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> .
+<http://experiment.worldcat.org/entity/work/data/3340912#Thing/novenytan> <http://schema.org/name> "Növénytan" .

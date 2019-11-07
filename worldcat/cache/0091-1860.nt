@@ -1,0 +1,33 @@
+<http://www.worldcat.org/title/-/oclc/475062389#PublicationEvent/ann_arbor_mi> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PublicationEvent> .
+<http://www.worldcat.org/title/-/oclc/475062389#PublicationEvent/ann_arbor_mi> <http://schema.org/location> <http://experiment.worldcat.org/entity/work/data/54075967#Place/ann_arbor> .
+<http://www.worldcat.org/title/-/oclc/475062389#PublicationEvent/ann_arbor_mi> <http://schema.org/startDate> "MI" .
+<http://id.loc.gov/vocabulary/countries/miu> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://id.loc.gov/vocabulary/countries/miu> <http://purl.org/dc/terms/identifier> "miu" .
+<http://worldcat.org/entity/work/id/54075967> <http://umbel.org/umbel#isLike> <http://worldcat.org/issn/0091-1860> .
+<http://worldcat.org/issn/0091-1860> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://worldcat.org/issn/0091-1860> <http://schema.org/name> "Contributions from the University of Michigan Herbarium." .
+<http://worldcat.org/issn/0091-1860> <http://schema.org/issn> "0091-1860" .
+<http://worldcat.org/issn/0091-1860> <http://umbel.org/umbel#isLike> <http://worldcat.org/entity/work/id/54075967> .
+<http://experiment.worldcat.org/entity/work/data/54075967#Place/ann_arbor> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://experiment.worldcat.org/entity/work/data/54075967#Place/ann_arbor> <http://schema.org/name> "Ann Arbor" .
+<http://www.worldcat.org/title/-/oclc/475062389> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#ContentTypeGenericResource> .
+<http://www.worldcat.org/title/-/oclc/475062389> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#InformationResource> .
+<http://www.worldcat.org/title/-/oclc/475062389> <http://schema.org/about> <http://www.worldcat.org/oclc/475062389> .
+<http://www.worldcat.org/title/-/oclc/475062389> <http://schema.org/dateModified> "2018-11-11" .
+<http://www.worldcat.org/title/-/oclc/475062389> <http://rdfs.org/ns/void#inDataset> <http://purl.oclc.org/dataset/WorldCat> .
+<http://viaf.org/viaf/159373699> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+<http://viaf.org/viaf/159373699> <http://schema.org/name> "University of Michigan Herbarium." .
+<http://www.worldcat.org/oclc/475062389> <http://schema.org/name> "Contributions from the University of Michigan Herbarium." .
+<http://www.worldcat.org/oclc/475062389> <http://schema.org/productID> "475062389" .
+<http://www.worldcat.org/oclc/475062389> <http://www.w3.org/2007/05/powder-s#describedby> <http://www.worldcat.org/title/-/oclc/475062389> .
+<http://www.worldcat.org/oclc/475062389> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://www.worldcat.org/oclc/475062389> <http://schema.org/datePublished> "1939/9999" .
+<http://www.worldcat.org/oclc/475062389> <http://schema.org/workExample> <http://worldcat.org/issn/0091-1860> .
+<http://www.worldcat.org/oclc/475062389> <http://schema.org/contributor> <http://viaf.org/viaf/159373699> .
+<http://www.worldcat.org/oclc/475062389> <http://purl.org/library/placeOfPublication> <http://experiment.worldcat.org/entity/work/data/54075967#Place/ann_arbor> .
+<http://www.worldcat.org/oclc/475062389> <http://schema.org/publication> <http://www.worldcat.org/title/-/oclc/475062389#PublicationEvent/ann_arbor_mi> .
+<http://www.worldcat.org/oclc/475062389> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://www.worldcat.org/oclc/475062389> <http://schema.org/inLanguage> "en" .
+<http://www.worldcat.org/oclc/475062389> <http://purl.org/library/placeOfPublication> <http://id.loc.gov/vocabulary/countries/miu> .
+<http://www.worldcat.org/oclc/475062389> <http://schema.org/exampleOfWork> <http://worldcat.org/entity/work/id/54075967> .
+<http://www.worldcat.org/oclc/475062389> <http://purl.org/library/oclcnum> "475062389" .

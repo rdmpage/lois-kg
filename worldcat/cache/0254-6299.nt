@@ -1,0 +1,115 @@
+<http://experiment.worldcat.org/entity/work/data/4820463731#Organization/south_african_association_of_botanists> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+<http://experiment.worldcat.org/entity/work/data/4820463731#Organization/south_african_association_of_botanists> <http://schema.org/name> "South African Association of Botanists." .
+<http://dewey.info/class/581.96805/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/4820463731#Topic/plants_south_africa> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/4820463731#Topic/plants_south_africa> <http://schema.org/name> "Plants--South Africa" .
+<http://experiment.worldcat.org/entity/work/data/4820463731#Topic/botany_general> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/4820463731#Topic/botany_general> <http://schema.org/name> "Botany (General)" .
+<http://experiment.worldcat.org/entity/work/data/4820463731#Topic/botanique_afrique_du_sud> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/4820463731#Topic/botanique_afrique_du_sud> <http://schema.org/name> "Botanique--Afrique du Sud"@fr .
+<http://worldcat.org/entity/work/id/4820463731> <http://umbel.org/umbel#isLike> <http://worldcat.org/issn/0254-6299> .
+<http://www.worldcat.org/oclc/906410374> <http://schema.org/contributor> <http://experiment.worldcat.org/entity/work/data/4820463731#Organization/south_african_association_of_botanists> .
+<http://www.worldcat.org/oclc/906410374> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/4820463731#Topic/botany_general> .
+<http://www.worldcat.org/oclc/906410374> <http://schema.org/exampleOfWork> <http://worldcat.org/entity/work/id/4820463731> .
+<http://www.worldcat.org/oclc/906410374> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://www.worldcat.org/oclc/906410374> <http://schema.org/isSimilarTo> <http://worldcat.org/entity/work/data/4820463731#CreativeWork/south_african_journal_of_botany> .
+<http://www.worldcat.org/oclc/906410374> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/4820463731#Topic/botanie_algemeen> .
+<http://www.worldcat.org/oclc/906410374> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/4820463731#Topic/botany> .
+<http://www.worldcat.org/oclc/906410374> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/4820463731#Topic/periodique_electronique_descripteur_de_forme> .
+<http://www.worldcat.org/oclc/906410374> <http://schema.org/productID> "906410374" .
+<http://www.worldcat.org/oclc/906410374> <http://schema.org/about> <http://dewey.info/class/581.96805/> .
+<http://www.worldcat.org/oclc/906410374> <http://schema.org/datePublished> "1982/" .
+<http://www.worldcat.org/oclc/906410374> <http://www.w3.org/2007/05/powder-s#describedby> <http://www.worldcat.org/title/-/oclc/906410374> .
+<http://www.worldcat.org/oclc/906410374> <http://schema.org/inLanguage> "en" .
+<http://www.worldcat.org/oclc/906410374> <http://schema.org/datePublished> "1982/9999" .
+<http://www.worldcat.org/oclc/906410374> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/4820463731#Topic/plantkunde> .
+<http://www.worldcat.org/oclc/906410374> <http://purl.org/library/oclcnum> "906410374" .
+<http://www.worldcat.org/oclc/906410374> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/4820463731#Place/afrique_du_sud> .
+<http://www.worldcat.org/oclc/906410374> <http://purl.org/library/placeOfPublication> <http://id.loc.gov/vocabulary/countries/sa> .
+<http://www.worldcat.org/oclc/906410374> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/4820463731#Topic/south_africa> .
+<http://www.worldcat.org/oclc/906410374> <http://purl.org/library/placeOfPublication> <http://experiment.worldcat.org/entity/work/data/4820463731#Place/amsterdam_etc> .
+<http://www.worldcat.org/oclc/906410374> <http://schema.org/url> <http://www.nisc.co.za/journals?id=8> .
+<http://www.worldcat.org/oclc/906410374> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/4820463731#Topic/botany_south_africa> .
+<http://www.worldcat.org/oclc/906410374> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/4820463731#Topic/plants> .
+<http://www.worldcat.org/oclc/906410374> <http://schema.org/publisher> <http://experiment.worldcat.org/entity/work/data/4820463731#Agent/national_botanic_gardens_of_south_africa> .
+<http://www.worldcat.org/oclc/906410374> <http://schema.org/publisher> <http://experiment.worldcat.org/entity/work/data/4820463731#Agent/elsevier> .
+<http://www.worldcat.org/oclc/906410374> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/4820463731#Topic/plantes_afrique_du_sud> .
+<http://www.worldcat.org/oclc/906410374> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/4820463731#Topic/botanique> .
+<http://www.worldcat.org/oclc/906410374> <http://schema.org/workExample> <http://worldcat.org/issn/0254-6299> .
+<http://www.worldcat.org/oclc/906410374> <http://schema.org/publisher> <http://experiment.worldcat.org/entity/work/data/4820463731#Organization/national_botanic_gardens_of_south_africa_pretoria> .
+<http://www.worldcat.org/oclc/906410374> <http://schema.org/genre> "Periodicals" .
+<http://www.worldcat.org/oclc/906410374> <http://schema.org/name> "South African journal of botany : official journal of the South African Association of Botanists = Suid-afrikaanse tydskrif vir plantkunde : amptelike tydskriff van die Suid-Afrikaanse Genootschap van Plantkundiges." .
+<http://www.worldcat.org/oclc/906410374> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/4820463731#Topic/plants_south_africa> .
+<http://www.worldcat.org/oclc/906410374> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://www.worldcat.org/oclc/906410374> <http://schema.org/url> <http://www.sciencedirect.com/science/journal/02546299> .
+<http://www.worldcat.org/oclc/906410374> <http://schema.org/publication> <http://www.worldcat.org/title/-/oclc/906410374#PublicationEvent/pretoria_national_botanic_gardens_of_south_africa_1982> .
+<http://www.worldcat.org/oclc/906410374> <http://schema.org/alternateName> "Suid-afrikaanse tydskrif vir plantkunde" .
+<http://www.worldcat.org/oclc/906410374> <http://schema.org/publication> <http://www.worldcat.org/title/-/oclc/906410374#PublicationEvent/amsterdam_etc_elsevier> .
+<http://www.worldcat.org/oclc/906410374> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/4820463731#Topic/botanique_afrique_du_sud> .
+<http://www.worldcat.org/oclc/906410374> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/4820463731#Topic/zuid_afrika> .
+<http://www.worldcat.org/oclc/906410374> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/4820463731#Place/south_africa> .
+<http://www.worldcat.org/oclc/906410374> <http://purl.org/library/placeOfPublication> <http://experiment.worldcat.org/entity/work/data/4820463731#Place/pretoria> .
+<http://www.worldcat.org/oclc/906410374> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/4820463731#Topic/ressource_internet_descripteur_de_forme> .
+<http://www.worldcat.org/oclc/906410374> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/4820463731#Topic/plante> .
+<http://experiment.worldcat.org/entity/work/data/4820463731#Topic/plants> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/4820463731#Topic/plants> <http://schema.org/name> "Plants" .
+<http://experiment.worldcat.org/entity/work/data/4820463731#Place/pretoria> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://experiment.worldcat.org/entity/work/data/4820463731#Place/pretoria> <http://schema.org/name> "Pretoria" .
+<http://experiment.worldcat.org/entity/work/data/4820463731#Topic/ressource_internet_descripteur_de_forme> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/4820463731#Topic/ressource_internet_descripteur_de_forme> <http://schema.org/name> "Ressource Internet (Descripteur de forme)" .
+<http://experiment.worldcat.org/entity/work/data/4820463731#Topic/botanie_algemeen> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/4820463731#Topic/botanie_algemeen> <http://schema.org/name> "Botanie (algemeen)" .
+<http://experiment.worldcat.org/entity/work/data/4820463731#Topic/zuid_afrika> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/4820463731#Topic/zuid_afrika> <http://schema.org/name> "zuid-afrika" .
+<http://experiment.worldcat.org/entity/work/data/4820463731#Topic/plantes_afrique_du_sud> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/4820463731#Topic/plantes_afrique_du_sud> <http://schema.org/name> "Plantes--Afrique du Sud"@fr .
+<http://experiment.worldcat.org/entity/work/data/4820463731#Agent/national_botanic_gardens_of_south_africa> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bibliograph.net/Agent> .
+<http://experiment.worldcat.org/entity/work/data/4820463731#Agent/national_botanic_gardens_of_south_africa> <http://schema.org/name> "National Botanic Gardens of South Africa" .
+<http://experiment.worldcat.org/entity/work/data/4820463731#Place/south_africa> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://experiment.worldcat.org/entity/work/data/4820463731#Place/south_africa> <http://schema.org/name> "South Africa." .
+<http://experiment.worldcat.org/entity/work/data/4820463731#Topic/botany> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/4820463731#Topic/botany> <http://schema.org/name> "Botany" .
+<http://experiment.worldcat.org/entity/work/data/4820463731#Topic/botany> <http://schema.org/name> "botany" .
+<http://experiment.worldcat.org/entity/work/data/4820463731#Agent/elsevier> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bibliograph.net/Agent> .
+<http://experiment.worldcat.org/entity/work/data/4820463731#Agent/elsevier> <http://schema.org/name> "Elsevier." .
+<http://experiment.worldcat.org/entity/work/data/4820463731#Topic/plante> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/4820463731#Topic/plante> <http://schema.org/name> "Plante" .
+<http://id.loc.gov/vocabulary/countries/sa> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://id.loc.gov/vocabulary/countries/sa> <http://purl.org/dc/terms/identifier> "sa" .
+<http://worldcat.org/issn/0254-6299> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://worldcat.org/issn/0254-6299> <http://schema.org/name> "South African journal of botany : official journal of the South African Association of Botanists = Suid-afrikaanse tydskrif vir plantkunde : amptelike tydskriff van die Suid-Afrikaanse Genootschap van Plantkundiges." .
+<http://worldcat.org/issn/0254-6299> <http://schema.org/issn> "0254-6299" .
+<http://worldcat.org/issn/0254-6299> <http://umbel.org/umbel#isLike> <http://worldcat.org/entity/work/id/4820463731> .
+<http://experiment.worldcat.org/entity/work/data/4820463731#Topic/botany_south_africa> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/4820463731#Topic/botany_south_africa> <http://schema.org/name> "Botany--South Africa" .
+<http://www.worldcat.org/title/-/oclc/906410374> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#ContentTypeGenericResource> .
+<http://www.worldcat.org/title/-/oclc/906410374> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#InformationResource> .
+<http://www.worldcat.org/title/-/oclc/906410374> <http://schema.org/about> <http://www.worldcat.org/oclc/906410374> .
+<http://www.worldcat.org/title/-/oclc/906410374> <http://schema.org/dateModified> "2019-07-12" .
+<http://www.worldcat.org/title/-/oclc/906410374> <http://rdfs.org/ns/void#inDataset> <http://purl.oclc.org/dataset/WorldCat> .
+<http://experiment.worldcat.org/entity/work/data/4820463731#Topic/south_africa> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/4820463731#Topic/south_africa> <http://schema.org/name> "south africa" .
+<http://worldcat.org/entity/work/data/4820463731#CreativeWork/south_african_journal_of_botany> <http://schema.org/isSimilarTo> <http://www.worldcat.org/oclc/906410374> .
+<http://worldcat.org/entity/work/data/4820463731#CreativeWork/south_african_journal_of_botany> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://worldcat.org/entity/work/data/4820463731#CreativeWork/south_african_journal_of_botany> <http://www.w3.org/2000/01/rdf-schema#label> "South African journal of botany" .
+<http://experiment.worldcat.org/entity/work/data/4820463731#Place/amsterdam_etc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://experiment.worldcat.org/entity/work/data/4820463731#Place/amsterdam_etc> <http://schema.org/name> "Amsterdam etc." .
+<http://www.worldcat.org/title/-/oclc/906410374#PublicationEvent/amsterdam_etc_elsevier> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PublicationEvent> .
+<http://www.worldcat.org/title/-/oclc/906410374#PublicationEvent/amsterdam_etc_elsevier> <http://schema.org/location> <http://experiment.worldcat.org/entity/work/data/4820463731#Place/amsterdam_etc> .
+<http://www.worldcat.org/title/-/oclc/906410374#PublicationEvent/amsterdam_etc_elsevier> <http://schema.org/organizer> <http://experiment.worldcat.org/entity/work/data/4820463731#Agent/elsevier> .
+<http://www.worldcat.org/title/-/oclc/906410374#PublicationEvent/pretoria_national_botanic_gardens_of_south_africa_1982> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PublicationEvent> .
+<http://www.worldcat.org/title/-/oclc/906410374#PublicationEvent/pretoria_national_botanic_gardens_of_south_africa_1982> <http://schema.org/location> <http://experiment.worldcat.org/entity/work/data/4820463731#Place/pretoria> .
+<http://www.worldcat.org/title/-/oclc/906410374#PublicationEvent/pretoria_national_botanic_gardens_of_south_africa_1982> <http://schema.org/organizer> <http://experiment.worldcat.org/entity/work/data/4820463731#Agent/national_botanic_gardens_of_south_africa> .
+<http://www.worldcat.org/title/-/oclc/906410374#PublicationEvent/pretoria_national_botanic_gardens_of_south_africa_1982> <http://schema.org/startDate> "1982-" .
+<http://experiment.worldcat.org/entity/work/data/4820463731#Topic/periodique_electronique_descripteur_de_forme> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/4820463731#Topic/periodique_electronique_descripteur_de_forme> <http://schema.org/name> "Périodique électronique (Descripteur de forme)" .
+<http://experiment.worldcat.org/entity/work/data/4820463731#Topic/plantkunde> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/4820463731#Topic/plantkunde> <http://schema.org/name> "Plantkunde" .
+<http://experiment.worldcat.org/entity/work/data/4820463731#Topic/plantkunde> <http://schema.org/name> "plantkunde" .
+<http://experiment.worldcat.org/entity/work/data/4820463731#Topic/botanique> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/4820463731#Topic/botanique> <http://schema.org/name> "Botanique"@fr .
+<http://experiment.worldcat.org/entity/work/data/4820463731#Topic/botanique> <http://schema.org/name> "Botanique" .
+<http://experiment.worldcat.org/entity/work/data/4820463731#Place/afrique_du_sud> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://experiment.worldcat.org/entity/work/data/4820463731#Place/afrique_du_sud> <http://schema.org/name> "Afrique du Sud." .
+<http://experiment.worldcat.org/entity/work/data/4820463731#Organization/national_botanic_gardens_of_south_africa_pretoria> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+<http://experiment.worldcat.org/entity/work/data/4820463731#Organization/national_botanic_gardens_of_south_africa_pretoria> <http://schema.org/name> "National Botanic Gardens of South Africa (Pretoria)" .

@@ -1,0 +1,41 @@
+<http://www.worldcat.org/oclc/909879549> <http://schema.org/workExample> <http://worldcat.org/issn/1280-8571> .
+<http://www.worldcat.org/oclc/909879549> <http://schema.org/datePublished> "2000/" .
+<http://www.worldcat.org/oclc/909879549> <http://schema.org/publication> <http://www.worldcat.org/title/-/oclc/909879549#PublicationEvent/museum_nationale_d_histoire_naturelle_paris_2000> .
+<http://www.worldcat.org/oclc/909879549> <http://schema.org/isPartOf> <http://experiment.worldcat.org/entity/work/data/2869077383#Series/directory_of_open_access_journals> .
+<http://www.worldcat.org/oclc/909879549> <http://schema.org/publisher> <http://experiment.worldcat.org/entity/work/data/2869077383#Agent/museum_nationale_d_histoire_naturelle_paris> .
+<http://www.worldcat.org/oclc/909879549> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://www.worldcat.org/oclc/909879549> <http://schema.org/productID> "909879549" .
+<http://www.worldcat.org/oclc/909879549> <http://purl.org/library/oclcnum> "909879549" .
+<http://www.worldcat.org/oclc/909879549> <http://purl.org/library/placeOfPublication> <http://id.loc.gov/vocabulary/countries/fr> .
+<http://www.worldcat.org/oclc/909879549> <http://schema.org/exampleOfWork> <http://worldcat.org/entity/work/id/2869077383> .
+<http://www.worldcat.org/oclc/909879549> <http://www.w3.org/2007/05/powder-s#describedby> <http://www.worldcat.org/title/-/oclc/909879549> .
+<http://www.worldcat.org/oclc/909879549> <http://schema.org/url> <http://www.adansonia.com> .
+<http://www.worldcat.org/oclc/909879549> <http://schema.org/inLanguage> "en" .
+<http://www.worldcat.org/oclc/909879549> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/2869077383#Thing/novenytan> .
+<http://www.worldcat.org/oclc/909879549> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://www.worldcat.org/oclc/909879549> <http://schema.org/name> "Adansonia. Sér. 3" .
+<http://www.worldcat.org/oclc/909879549> <http://schema.org/datePublished> "2000/9999" .
+<http://worldcat.org/entity/work/id/2869077383> <http://umbel.org/umbel#isLike> <http://worldcat.org/issn/1280-8571> .
+<http://id.loc.gov/vocabulary/countries/fr> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://id.loc.gov/vocabulary/countries/fr> <http://purl.org/dc/terms/identifier> "fr" .
+<http://www.worldcat.org/title/-/oclc/909879549> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#ContentTypeGenericResource> .
+<http://www.worldcat.org/title/-/oclc/909879549> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#InformationResource> .
+<http://www.worldcat.org/title/-/oclc/909879549> <http://schema.org/about> <http://www.worldcat.org/oclc/909879549> .
+<http://www.worldcat.org/title/-/oclc/909879549> <http://schema.org/dateModified> "2018-11-08" .
+<http://www.worldcat.org/title/-/oclc/909879549> <http://rdfs.org/ns/void#inDataset> <http://purl.oclc.org/dataset/WorldCat> .
+<http://www.worldcat.org/title/-/oclc/909879549#PublicationEvent/museum_nationale_d_histoire_naturelle_paris_2000> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PublicationEvent> .
+<http://www.worldcat.org/title/-/oclc/909879549#PublicationEvent/museum_nationale_d_histoire_naturelle_paris_2000> <http://schema.org/organizer> <http://experiment.worldcat.org/entity/work/data/2869077383#Agent/museum_nationale_d_histoire_naturelle_paris> .
+<http://www.worldcat.org/title/-/oclc/909879549#PublicationEvent/museum_nationale_d_histoire_naturelle_paris_2000> <http://schema.org/startDate> "2000-" .
+<http://worldcat.org/issn/1280-8571> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://worldcat.org/issn/1280-8571> <http://schema.org/name> "Adansonia. Sér. 3" .
+<http://worldcat.org/issn/1280-8571> <http://schema.org/issn> "1280-8571" .
+<http://worldcat.org/issn/1280-8571> <http://umbel.org/umbel#isLike> <http://worldcat.org/entity/work/id/2869077383> .
+<http://experiment.worldcat.org/entity/work/data/2869077383#Agent/museum_nationale_d_histoire_naturelle_paris> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bibliograph.net/Agent> .
+<http://experiment.worldcat.org/entity/work/data/2869077383#Agent/museum_nationale_d_histoire_naturelle_paris> <http://schema.org/name> "Museum Nationale d'Histoire Naturelle Paris" .
+<http://experiment.worldcat.org/entity/work/data/2869077383#Thing/novenytan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> .
+<http://experiment.worldcat.org/entity/work/data/2869077383#Thing/novenytan> <http://schema.org/name> "Növénytan" .
+<http://www.adansonia.com> <http://www.w3.org/2000/01/rdf-schema#comment> "Full text: 2000-" .
+<http://experiment.worldcat.org/entity/work/data/2869077383#Series/directory_of_open_access_journals> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bibliograph.net/PublicationSeries> .
+<http://experiment.worldcat.org/entity/work/data/2869077383#Series/directory_of_open_access_journals> <http://schema.org/hasPart> <http://www.worldcat.org/oclc/909879549> .
+<http://experiment.worldcat.org/entity/work/data/2869077383#Series/directory_of_open_access_journals> <http://schema.org/name> "Directory of Open Access Journals ;" .
+<http://experiment.worldcat.org/entity/work/data/2869077383#Series/directory_of_open_access_journals> <http://schema.org/name> "Directory of Open Access Journals." .

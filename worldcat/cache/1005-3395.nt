@@ -1,0 +1,61 @@
+<http://www.worldcat.org/title/-/oclc/62979073> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#ContentTypeGenericResource> .
+<http://www.worldcat.org/title/-/oclc/62979073> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#InformationResource> .
+<http://www.worldcat.org/title/-/oclc/62979073> <http://schema.org/about> <http://www.worldcat.org/oclc/62979073> .
+<http://www.worldcat.org/title/-/oclc/62979073> <http://schema.org/dateModified> "2019-06-23" .
+<http://www.worldcat.org/title/-/oclc/62979073> <http://rdfs.org/ns/void#inDataset> <http://purl.oclc.org/dataset/WorldCat> .
+<http://id.worldcat.org/fast/836869> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://id.worldcat.org/fast/836869> <http://schema.org/name> "Botany" .
+<http://experiment.worldcat.org/entity/work/data/9322858457#Place/beijing> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://experiment.worldcat.org/entity/work/data/9322858457#Place/beijing> <http://schema.org/name> "Beijing" .
+<http://viaf.org/viaf/145456740> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+<http://viaf.org/viaf/145456740> <http://www.w3.org/2000/01/rdf-schema#label> "Zhongguo ke xue yuan. Hua nan zhi wu yan jiu suo." .
+<http://viaf.org/viaf/145456740> <http://schema.org/name> "中國科學院. 華南植物硏究所."@zh .
+<http://worldcat.org/entity/work/data/9322858457#CreativeWork/re_dai_ya_re_dai_zhi_wu_xue_bao> <http://schema.org/isSimilarTo> <http://www.worldcat.org/oclc/62979073> .
+<http://worldcat.org/entity/work/data/9322858457#CreativeWork/re_dai_ya_re_dai_zhi_wu_xue_bao> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://worldcat.org/entity/work/data/9322858457#CreativeWork/re_dai_ya_re_dai_zhi_wu_xue_bao> <http://www.w3.org/2000/01/rdf-schema#label> "Re dai ya re dai zhi wu xue bao" .
+<http://id.loc.gov/vocabulary/countries/cc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://id.loc.gov/vocabulary/countries/cc> <http://purl.org/dc/terms/identifier> "cc" .
+<http://www.worldcat.org/title/-/oclc/62979073#PublicationEvent/880_03beijing_ke_xue_chu_ban_she> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PublicationEvent> .
+<http://www.worldcat.org/title/-/oclc/62979073#PublicationEvent/880_03beijing_ke_xue_chu_ban_she> <http://schema.org/location> <http://experiment.worldcat.org/entity/work/data/9322858457#Place/beijing> .
+<http://www.worldcat.org/title/-/oclc/62979073#PublicationEvent/880_03beijing_ke_xue_chu_ban_she> <http://schema.org/organizer> <http://experiment.worldcat.org/entity/work/data/9322858457#Agent/ke_xue_chu_ban_she> .
+<http://id.loc.gov/authorities/subjects/sh2009117482> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://id.loc.gov/authorities/subjects/sh2009117482> <http://schema.org/name> "Botany--Tropics" .
+<http://id.worldcat.org/fast/1240674> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://id.worldcat.org/fast/1240674> <http://schema.org/name> "Tropics." .
+<http://www.worldcat.org/oclc/62979073> <http://schema.org/publisher> <http://experiment.worldcat.org/entity/work/data/9322858457#Agent/ke_xue_chu_ban_she> .
+<http://www.worldcat.org/oclc/62979073> <http://schema.org/about> <http://id.loc.gov/authorities/subjects/sh2007102105> .
+<http://www.worldcat.org/oclc/62979073> <http://schema.org/about> <http://id.worldcat.org/fast/1206073> .
+<http://www.worldcat.org/oclc/62979073> <http://schema.org/datePublished> "1993/9999" .
+<http://www.worldcat.org/oclc/62979073> <http://schema.org/about> <http://id.worldcat.org/fast/836869> .
+<http://www.worldcat.org/oclc/62979073> <http://schema.org/genre> "Periodicals" .
+<http://www.worldcat.org/oclc/62979073> <http://purl.org/library/placeOfPublication> <http://id.loc.gov/vocabulary/countries/cc> .
+<http://www.worldcat.org/oclc/62979073> <http://schema.org/publication> <http://www.worldcat.org/title/-/oclc/62979073#PublicationEvent/880_03beijing_ke_xue_chu_ban_she> .
+<http://www.worldcat.org/oclc/62979073> <http://schema.org/contributor> <http://viaf.org/viaf/145456740> .
+<http://www.worldcat.org/oclc/62979073> <http://schema.org/url> <http://jtsb.scib.ac.cn/jtsb_en/ch/reader/issue_query.aspx> .
+<http://www.worldcat.org/oclc/62979073> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://www.worldcat.org/oclc/62979073> <http://schema.org/name> "熱帶亞熱帶植物學報."@zh .
+<http://www.worldcat.org/oclc/62979073> <http://schema.org/about> <http://dewey.info/class/480/> .
+<http://www.worldcat.org/oclc/62979073> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://www.worldcat.org/oclc/62979073> <http://schema.org/isSimilarTo> <http://worldcat.org/entity/work/data/9322858457#CreativeWork/re_dai_ya_re_dai_zhi_wu_xue_bao> .
+<http://www.worldcat.org/oclc/62979073> <http://purl.org/library/oclcnum> "62979073" .
+<http://www.worldcat.org/oclc/62979073> <http://schema.org/about> <http://id.worldcat.org/fast/1240674> .
+<http://www.worldcat.org/oclc/62979073> <http://schema.org/exampleOfWork> <http://worldcat.org/entity/work/id/9322858457> .
+<http://www.worldcat.org/oclc/62979073> <http://schema.org/inLanguage> "zh" .
+<http://www.worldcat.org/oclc/62979073> <http://purl.org/library/placeOfPublication> <http://experiment.worldcat.org/entity/work/data/9322858457#Place/beijing> .
+<http://www.worldcat.org/oclc/62979073> <http://schema.org/about> <http://id.loc.gov/authorities/subjects/sh2009117482> .
+<http://www.worldcat.org/oclc/62979073> <http://schema.org/productID> "62979073" .
+<http://www.worldcat.org/oclc/62979073> <http://schema.org/url> <http://cjn.lib.hku.hk> .
+<http://www.worldcat.org/oclc/62979073> <http://schema.org/alternateName> "Journal of tropical and subtropical botany" .
+<http://www.worldcat.org/oclc/62979073> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/MediaObject> .
+<http://www.worldcat.org/oclc/62979073> <http://www.w3.org/2007/05/powder-s#describedby> <http://www.worldcat.org/title/-/oclc/62979073> .
+<http://www.worldcat.org/oclc/62979073> <http://www.w3.org/2000/01/rdf-schema#label> "Re dai ya re dai zhi wu xue bao." .
+<http://cjn.lib.hku.hk> <http://www.w3.org/2000/01/rdf-schema#comment> "Click to start searching via China Journal Net" .
+<http://id.loc.gov/authorities/subjects/sh2007102105> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://id.loc.gov/authorities/subjects/sh2007102105> <http://schema.org/name> "Botany--China" .
+<http://id.worldcat.org/fast/1206073> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://id.worldcat.org/fast/1206073> <http://schema.org/name> "China." .
+<http://experiment.worldcat.org/entity/work/data/9322858457#Agent/ke_xue_chu_ban_she> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bibliograph.net/Agent> .
+<http://experiment.worldcat.org/entity/work/data/9322858457#Agent/ke_xue_chu_ban_she> <http://schema.org/name> "Ke xue chu ban she" .
+<http://dewey.info/class/480/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://worldcat.org/entity/work/id/9322858457> <http://schema.org/name> "Re dai ya re dai zhi wu xue bao (Online)" .
+<http://worldcat.org/entity/work/id/9322858457> <http://schema.org/name> "熱帶亞熱帶植物學報 (Online)"@zh .

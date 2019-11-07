@@ -1,0 +1,68 @@
+<http://www.worldcat.org/title/-/oclc/2027078> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#ContentTypeGenericResource> .
+<http://www.worldcat.org/title/-/oclc/2027078> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#InformationResource> .
+<http://www.worldcat.org/title/-/oclc/2027078> <http://schema.org/about> <http://www.worldcat.org/oclc/2027078> .
+<http://www.worldcat.org/title/-/oclc/2027078> <http://schema.org/dateModified> "2018-11-18" .
+<http://www.worldcat.org/title/-/oclc/2027078> <http://rdfs.org/ns/void#inDataset> <http://purl.oclc.org/dataset/WorldCat> .
+<http://www.worldcat.org/oclc/2027078> <http://schema.org/exampleOfWork> <http://worldcat.org/entity/work/id/2739899> .
+<http://www.worldcat.org/oclc/2027078> <http://www.w3.org/2007/05/powder-s#describedby> <http://www.worldcat.org/title/-/oclc/2027078> .
+<http://www.worldcat.org/oclc/2027078> <http://schema.org/workExample> <http://worldcat.org/issn/0080-9462> .
+<http://www.worldcat.org/oclc/2027078> <http://schema.org/name> "Natural history bulletin."@en .
+<http://www.worldcat.org/oclc/2027078> <http://schema.org/genre> "Periodicals"@en .
+<http://www.worldcat.org/oclc/2027078> <http://schema.org/about> <http://id.worldcat.org/fast/1205310> .
+<http://www.worldcat.org/oclc/2027078> <http://schema.org/about> <http://id.worldcat.org/fast/1034268> .
+<http://www.worldcat.org/oclc/2027078> <http://schema.org/productID> "2027078" .
+<http://www.worldcat.org/oclc/2027078> <http://schema.org/creator> <http://viaf.org/viaf/154193507> .
+<http://www.worldcat.org/oclc/2027078> <http://schema.org/contributor> <http://viaf.org/viaf/154193507> .
+<http://www.worldcat.org/oclc/2027078> <http://schema.org/inLanguage> "en" .
+<http://www.worldcat.org/oclc/2027078> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://www.worldcat.org/oclc/2027078> <http://schema.org/contributor> <http://viaf.org/viaf/125606752> .
+<http://www.worldcat.org/oclc/2027078> <http://purl.org/library/placeOfPublication> <http://experiment.worldcat.org/entity/work/data/2739899#Place/bangkok> .
+<http://www.worldcat.org/oclc/2027078> <http://schema.org/publication> <http://www.worldcat.org/title/-/oclc/2027078#PublicationEvent/bangkok> .
+<http://www.worldcat.org/oclc/2027078> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/2739899#Topic/natural_history_thailand> .
+<http://www.worldcat.org/oclc/2027078> <http://purl.org/library/placeOfPublication> <http://id.loc.gov/vocabulary/countries/th> .
+<http://www.worldcat.org/oclc/2027078> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://experiment.worldcat.org/entity/work/data/2739899#CreativeWork/journal_natural_history_bulletin> .
+<http://www.worldcat.org/oclc/2027078> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://www.worldcat.org/oclc/2027078> <http://schema.org/datePublished> "1914/9999" .
+<http://www.worldcat.org/oclc/2027078> <http://schema.org/isSimilarTo> <http://www.worldcat.org/oclc/564625031> .
+<http://www.worldcat.org/oclc/2027078> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://experiment.worldcat.org/entity/work/data/2739899#CreativeWork/journal_natural_history_supplement> .
+<http://www.worldcat.org/oclc/2027078> <http://purl.org/library/oclcnum> "2027078" .
+<http://www.worldcat.org/oclc/2027078> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://experiment.worldcat.org/entity/work/data/2739899#CreativeWork/journal> .
+<http://www.worldcat.org/oclc/2027078> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/2739899#Topic/natural_history> .
+<http://id.worldcat.org/fast/1034268> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://id.worldcat.org/fast/1034268> <http://schema.org/name> "Natural history"@en .
+<http://experiment.worldcat.org/entity/work/data/2739899#CreativeWork/journal_natural_history_bulletin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://experiment.worldcat.org/entity/work/data/2739899#CreativeWork/journal_natural_history_bulletin> <http://schema.org/name> "Journal. Natural history bulletin." .
+<http://experiment.worldcat.org/entity/work/data/2739899#CreativeWork/journal_natural_history_bulletin> <http://schema.org/creator> <http://viaf.org/viaf/154193507> .
+<http://id.loc.gov/vocabulary/countries/th> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://id.loc.gov/vocabulary/countries/th> <http://purl.org/dc/terms/identifier> "th" .
+<http://www.worldcat.org/oclc/564625031> <http://schema.org/isSimilarTo> <http://www.worldcat.org/oclc/2027078> .
+<http://www.worldcat.org/oclc/564625031> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://www.worldcat.org/oclc/564625031> <http://www.w3.org/2000/01/rdf-schema#label> "Natural history bulletin" .
+<http://www.worldcat.org/oclc/564625031> <http://schema.org/description> "Online version:" .
+<http://experiment.worldcat.org/entity/work/data/2739899#Place/bangkok> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://experiment.worldcat.org/entity/work/data/2739899#Place/bangkok> <http://schema.org/name> "Bangkok." .
+<http://www.worldcat.org/title/-/oclc/2027078#PublicationEvent/bangkok> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PublicationEvent> .
+<http://www.worldcat.org/title/-/oclc/2027078#PublicationEvent/bangkok> <http://schema.org/location> <http://experiment.worldcat.org/entity/work/data/2739899#Place/bangkok> .
+<http://viaf.org/viaf/125606752> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+<http://viaf.org/viaf/125606752> <http://schema.org/name> "Natural History Society of Siam." .
+<http://id.worldcat.org/fast/1205310> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://id.worldcat.org/fast/1205310> <http://schema.org/name> "Thailand." .
+<http://worldcat.org/issn/0080-9462> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://worldcat.org/issn/0080-9462> <http://schema.org/name> "Natural history bulletin."@en .
+<http://worldcat.org/issn/0080-9462> <http://schema.org/issn> "0080-9462" .
+<http://worldcat.org/issn/0080-9462> <http://umbel.org/umbel#isLike> <http://worldcat.org/entity/work/id/2739899> .
+<http://experiment.worldcat.org/entity/work/data/2739899#Topic/natural_history> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/2739899#Topic/natural_history> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://id.loc.gov/authorities/subjects/sh2008108329> .
+<http://experiment.worldcat.org/entity/work/data/2739899#Topic/natural_history> <http://schema.org/name> "Natural history"@en .
+<http://experiment.worldcat.org/entity/work/data/2739899#CreativeWork/journal_natural_history_supplement> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://experiment.worldcat.org/entity/work/data/2739899#CreativeWork/journal_natural_history_supplement> <http://schema.org/name> "Journal. Natural history supplement." .
+<http://experiment.worldcat.org/entity/work/data/2739899#CreativeWork/journal_natural_history_supplement> <http://schema.org/creator> <http://viaf.org/viaf/154193507> .
+<http://viaf.org/viaf/154193507> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+<http://viaf.org/viaf/154193507> <http://schema.org/name> "Siam Society." .
+<http://experiment.worldcat.org/entity/work/data/2739899#Topic/natural_history_thailand> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/2739899#Topic/natural_history_thailand> <http://schema.org/hasPart> <http://id.loc.gov/authorities/subjects/sh85090222> .
+<http://experiment.worldcat.org/entity/work/data/2739899#Topic/natural_history_thailand> <http://schema.org/name> "Natural history--Thailand"@en .
+<http://experiment.worldcat.org/entity/work/data/2739899#CreativeWork/journal> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://experiment.worldcat.org/entity/work/data/2739899#CreativeWork/journal> <http://schema.org/name> "Journal." .
+<http://experiment.worldcat.org/entity/work/data/2739899#CreativeWork/journal> <http://schema.org/creator> <http://viaf.org/viaf/125606752> .
+<http://worldcat.org/entity/work/id/2739899> <http://umbel.org/umbel#isLike> <http://worldcat.org/issn/0080-9462> .

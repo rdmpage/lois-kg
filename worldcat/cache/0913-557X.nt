@@ -1,0 +1,52 @@
+<http://dx.doi.org/10.1111/(ISSN)1442-1984> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/IndividualProduct> .
+<http://nla.gov.au/nla.obj-322650368> <http://www.w3.org/2000/01/rdf-schema#comment> "National Library of Australia digital collection item: Access available in National Library of Australia reading rooms" .
+<http://worldcat.org/entity/work/id/5548935313> <http://schema.org/name> "Plant species biology (Online)"@en .
+<http://worldcat.org/entity/work/id/5548935313> <http://umbel.org/umbel#isLike> <http://worldcat.org/issn/1442-1984> .
+<http://www.worldcat.org/oclc/974430643> <http://schema.org/isSimilarTo> <http://worldcat.org/entity/work/data/5548935313#CreativeWork/plant_species_biology> .
+<http://www.worldcat.org/oclc/974430643> <http://purl.org/library/oclcnum> "974430643" .
+<http://www.worldcat.org/oclc/974430643> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/5548935313#Topic/plants> .
+<http://www.worldcat.org/oclc/974430643> <http://schema.org/exampleOfWork> <http://worldcat.org/entity/work/id/5548935313> .
+<http://www.worldcat.org/oclc/974430643> <http://schema.org/datePublished> "20uu/9999" .
+<http://www.worldcat.org/oclc/974430643> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/5548935313#Topic/plant_species> .
+<http://www.worldcat.org/oclc/974430643> <http://purl.org/library/placeOfPublication> <http://id.loc.gov/vocabulary/countries/vra> .
+<http://www.worldcat.org/oclc/974430643> <http://schema.org/workExample> <http://worldcat.org/issn/1442-1984> .
+<http://www.worldcat.org/oclc/974430643> <http://schema.org/name> "Plant species biology : an international journal of plant based population biology and biosystematics."@en .
+<http://www.worldcat.org/oclc/974430643> <http://www.w3.org/2007/05/powder-s#describedby> <http://www.worldcat.org/title/-/oclc/974430643> .
+<http://www.worldcat.org/oclc/974430643> <http://schema.org/productID> "974430643" .
+<http://www.worldcat.org/oclc/974430643> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://www.worldcat.org/oclc/974430643> <http://schema.org/workExample> <http://dx.doi.org/10.1111/(ISSN)1442-1984> .
+<http://www.worldcat.org/oclc/974430643> <http://schema.org/genre> "Periodicals"@en .
+<http://www.worldcat.org/oclc/974430643> <http://schema.org/inLanguage> "en" .
+<http://www.worldcat.org/oclc/974430643> <http://schema.org/about> <http://dewey.info/class/580.5/e23/> .
+<http://www.worldcat.org/oclc/974430643> <http://schema.org/url> <http://nla.gov.au/nla.obj-322650368> .
+<http://www.worldcat.org/oclc/974430643> <http://schema.org/contributor> <http://experiment.worldcat.org/entity/work/data/5548935313#Organization/shuseibutsu_gakkai> .
+<http://www.worldcat.org/oclc/974430643> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://www.worldcat.org/oclc/974430643> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/5548935313#Thing/australian> .
+<http://www.worldcat.org/oclc/974430643> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/5548935313#Topic/botany> .
+<http://www.worldcat.org/oclc/974430643> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/MediaObject> .
+<http://experiment.worldcat.org/entity/work/data/5548935313#Thing/australian> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> .
+<http://experiment.worldcat.org/entity/work/data/5548935313#Thing/australian> <http://schema.org/name> "Australian" .
+<http://www.worldcat.org/title/-/oclc/974430643> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#ContentTypeGenericResource> .
+<http://www.worldcat.org/title/-/oclc/974430643> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#InformationResource> .
+<http://www.worldcat.org/title/-/oclc/974430643> <http://schema.org/about> <http://www.worldcat.org/oclc/974430643> .
+<http://www.worldcat.org/title/-/oclc/974430643> <http://schema.org/dateModified> "2019-08-29" .
+<http://www.worldcat.org/title/-/oclc/974430643> <http://rdfs.org/ns/void#inDataset> <http://purl.oclc.org/dataset/WorldCat> .
+<http://experiment.worldcat.org/entity/work/data/5548935313#Topic/plants> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/5548935313#Topic/plants> <http://schema.org/name> "Plants"@en .
+<http://worldcat.org/entity/work/data/5548935313#CreativeWork/plant_species_biology> <http://schema.org/isSimilarTo> <http://www.worldcat.org/oclc/974430643> .
+<http://worldcat.org/entity/work/data/5548935313#CreativeWork/plant_species_biology> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://worldcat.org/entity/work/data/5548935313#CreativeWork/plant_species_biology> <http://www.w3.org/2000/01/rdf-schema#label> "Plant species biology" .
+<http://worldcat.org/entity/work/data/5548935313#CreativeWork/plant_species_biology> <http://schema.org/description> "Print version, 1999-2014" .
+<http://experiment.worldcat.org/entity/work/data/5548935313#Organization/shuseibutsu_gakkai> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+<http://experiment.worldcat.org/entity/work/data/5548935313#Organization/shuseibutsu_gakkai> <http://schema.org/name> "Shuseibutsu Gakkai," .
+<http://experiment.worldcat.org/entity/work/data/5548935313#Topic/botany> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/5548935313#Topic/botany> <http://schema.org/name> "Botany"@en .
+<http://id.loc.gov/vocabulary/countries/vra> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://id.loc.gov/vocabulary/countries/vra> <http://purl.org/dc/terms/identifier> "vra" .
+<http://dewey.info/class/580.5/e23/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://worldcat.org/issn/1442-1984> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://worldcat.org/issn/1442-1984> <http://schema.org/name> "Plant species biology : an international journal of plant based population biology and biosystematics."@en .
+<http://worldcat.org/issn/1442-1984> <http://schema.org/issn> "1442-1984" .
+<http://worldcat.org/issn/1442-1984> <http://umbel.org/umbel#isLike> <http://worldcat.org/entity/work/id/5548935313> .
+<http://experiment.worldcat.org/entity/work/data/5548935313#Topic/plant_species> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/5548935313#Topic/plant_species> <http://schema.org/name> "Plant species"@en .

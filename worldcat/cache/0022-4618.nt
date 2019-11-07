@@ -1,0 +1,32 @@
+<http://experiment.worldcat.org/entity/work/data/5218539620#Place/kirstenbosch> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://experiment.worldcat.org/entity/work/data/5218539620#Place/kirstenbosch> <http://schema.org/name> "Kirstenbosch." .
+<http://www.worldcat.org/title/-/oclc/475032638#PublicationEvent/kirstenbosch> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PublicationEvent> .
+<http://www.worldcat.org/title/-/oclc/475032638#PublicationEvent/kirstenbosch> <http://schema.org/location> <http://experiment.worldcat.org/entity/work/data/5218539620#Place/kirstenbosch> .
+<http://www.worldcat.org/oclc/475032638> <http://schema.org/contributor> <http://viaf.org/viaf/127850072> .
+<http://www.worldcat.org/oclc/475032638> <http://schema.org/productID> "475032638" .
+<http://www.worldcat.org/oclc/475032638> <http://schema.org/inLanguage> "en" .
+<http://www.worldcat.org/oclc/475032638> <http://schema.org/exampleOfWork> <http://worldcat.org/entity/work/id/5218539620> .
+<http://www.worldcat.org/oclc/475032638> <http://schema.org/publication> <http://www.worldcat.org/title/-/oclc/475032638#PublicationEvent/kirstenbosch> .
+<http://www.worldcat.org/oclc/475032638> <http://schema.org/name> "Journal of South African Botany." .
+<http://www.worldcat.org/oclc/475032638> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://www.worldcat.org/oclc/475032638> <http://purl.org/library/placeOfPublication> <http://id.loc.gov/vocabulary/countries/sa> .
+<http://www.worldcat.org/oclc/475032638> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://www.worldcat.org/oclc/475032638> <http://www.w3.org/2007/05/powder-s#describedby> <http://www.worldcat.org/title/-/oclc/475032638> .
+<http://www.worldcat.org/oclc/475032638> <http://purl.org/library/oclcnum> "475032638" .
+<http://www.worldcat.org/oclc/475032638> <http://schema.org/datePublished> "1935/1984" .
+<http://www.worldcat.org/oclc/475032638> <http://schema.org/workExample> <http://worldcat.org/issn/0022-4618> .
+<http://www.worldcat.org/oclc/475032638> <http://purl.org/library/placeOfPublication> <http://experiment.worldcat.org/entity/work/data/5218539620#Place/kirstenbosch> .
+<http://worldcat.org/issn/0022-4618> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://worldcat.org/issn/0022-4618> <http://schema.org/name> "Journal of South African Botany." .
+<http://worldcat.org/issn/0022-4618> <http://schema.org/issn> "0022-4618" .
+<http://worldcat.org/issn/0022-4618> <http://umbel.org/umbel#isLike> <http://worldcat.org/entity/work/id/5218539620> .
+<http://viaf.org/viaf/127850072> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+<http://viaf.org/viaf/127850072> <http://schema.org/name> "National Botanic Gardens of South Africa." .
+<http://id.loc.gov/vocabulary/countries/sa> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://id.loc.gov/vocabulary/countries/sa> <http://purl.org/dc/terms/identifier> "sa" .
+<http://worldcat.org/entity/work/id/5218539620> <http://umbel.org/umbel#isLike> <http://worldcat.org/issn/0022-4618> .
+<http://www.worldcat.org/title/-/oclc/475032638> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#ContentTypeGenericResource> .
+<http://www.worldcat.org/title/-/oclc/475032638> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#InformationResource> .
+<http://www.worldcat.org/title/-/oclc/475032638> <http://schema.org/about> <http://www.worldcat.org/oclc/475032638> .
+<http://www.worldcat.org/title/-/oclc/475032638> <http://schema.org/dateModified> "2018-11-11" .
+<http://www.worldcat.org/title/-/oclc/475032638> <http://rdfs.org/ns/void#inDataset> <http://purl.oclc.org/dataset/WorldCat> .

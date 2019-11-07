@@ -1,0 +1,36 @@
+<http://id.loc.gov/vocabulary/countries/nyu> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://id.loc.gov/vocabulary/countries/nyu> <http://purl.org/dc/terms/identifier> "nyu" .
+<http://www.worldcat.org/oclc/263600015> <http://schema.org/datePublished> "1933/9999" .
+<http://www.worldcat.org/oclc/263600015> <http://schema.org/exampleOfWork> <http://worldcat.org/entity/work/id/5611590582> .
+<http://www.worldcat.org/oclc/263600015> <http://purl.org/library/placeOfPublication> <http://id.loc.gov/vocabulary/countries/nyu> .
+<http://www.worldcat.org/oclc/263600015> <http://schema.org/inLanguage> "en" .
+<http://www.worldcat.org/oclc/263600015> <http://schema.org/productID> "263600015" .
+<http://www.worldcat.org/oclc/263600015> <http://schema.org/name> "Phytologia : designed to expedite botanical publications." .
+<http://www.worldcat.org/oclc/263600015> <http://www.w3.org/2007/05/powder-s#describedby> <http://www.worldcat.org/title/-/oclc/263600015> .
+<http://www.worldcat.org/oclc/263600015> <http://schema.org/publisher> <http://experiment.worldcat.org/entity/work/data/5611590582#Agent/moldenke> .
+<http://www.worldcat.org/oclc/263600015> <http://purl.org/library/placeOfPublication> <http://experiment.worldcat.org/entity/work/data/5611590582#Place/new_york_ny> .
+<http://www.worldcat.org/oclc/263600015> <http://purl.org/library/oclcnum> "263600015" .
+<http://www.worldcat.org/oclc/263600015> <http://umbel.org/umbel#isLike> <http://d-nb.info/012311022> .
+<http://www.worldcat.org/oclc/263600015> <http://schema.org/publication> <http://www.worldcat.org/title/-/oclc/263600015#PublicationEvent/new_york_ny_moldenke_1933> .
+<http://www.worldcat.org/oclc/263600015> <http://schema.org/workExample> <http://worldcat.org/issn/0031-9430> .
+<http://www.worldcat.org/oclc/263600015> <http://schema.org/datePublished> "1933/" .
+<http://www.worldcat.org/oclc/263600015> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://www.worldcat.org/oclc/263600015> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://www.worldcat.org/title/-/oclc/263600015> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#ContentTypeGenericResource> .
+<http://www.worldcat.org/title/-/oclc/263600015> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#InformationResource> .
+<http://www.worldcat.org/title/-/oclc/263600015> <http://schema.org/about> <http://www.worldcat.org/oclc/263600015> .
+<http://www.worldcat.org/title/-/oclc/263600015> <http://schema.org/dateModified> "2018-12-11" .
+<http://www.worldcat.org/title/-/oclc/263600015> <http://rdfs.org/ns/void#inDataset> <http://purl.oclc.org/dataset/WorldCat> .
+<http://worldcat.org/entity/work/id/5611590582> <http://umbel.org/umbel#isLike> <http://worldcat.org/issn/0031-9430> .
+<http://www.worldcat.org/title/-/oclc/263600015#PublicationEvent/new_york_ny_moldenke_1933> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PublicationEvent> .
+<http://www.worldcat.org/title/-/oclc/263600015#PublicationEvent/new_york_ny_moldenke_1933> <http://schema.org/location> <http://experiment.worldcat.org/entity/work/data/5611590582#Place/new_york_ny> .
+<http://www.worldcat.org/title/-/oclc/263600015#PublicationEvent/new_york_ny_moldenke_1933> <http://schema.org/organizer> <http://experiment.worldcat.org/entity/work/data/5611590582#Agent/moldenke> .
+<http://www.worldcat.org/title/-/oclc/263600015#PublicationEvent/new_york_ny_moldenke_1933> <http://schema.org/startDate> "1933-" .
+<http://experiment.worldcat.org/entity/work/data/5611590582#Place/new_york_ny> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://experiment.worldcat.org/entity/work/data/5611590582#Place/new_york_ny> <http://schema.org/name> "New York, NY" .
+<http://worldcat.org/issn/0031-9430> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://worldcat.org/issn/0031-9430> <http://schema.org/name> "Phytologia : designed to expedite botanical publications." .
+<http://worldcat.org/issn/0031-9430> <http://schema.org/issn> "0031-9430" .
+<http://worldcat.org/issn/0031-9430> <http://umbel.org/umbel#isLike> <http://worldcat.org/entity/work/id/5611590582> .
+<http://experiment.worldcat.org/entity/work/data/5611590582#Agent/moldenke> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bibliograph.net/Agent> .
+<http://experiment.worldcat.org/entity/work/data/5611590582#Agent/moldenke> <http://schema.org/name> "Moldenke" .

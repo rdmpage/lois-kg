@@ -1001,12 +1001,12 @@ function display_html_start($title = '', $meta = '', $script = '', $onload = '')
 			display:block;
 		}
 		
-		.visible>h3::after {
-			content: "-"
+		.visible>h3::before {
+			content: "▼ "
 		}				
 		
-		.hidden>h3::after {
-			content: "+"
+		.hidden>h3::before {
+			content: "▶ "
 		}		
 		
 		.text_container {

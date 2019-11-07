@@ -1,0 +1,48 @@
+<http://worldcat.org/issn/1878-9129> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://worldcat.org/issn/1878-9129> <http://schema.org/name> "Fungal diversity" .
+<http://worldcat.org/issn/1878-9129> <http://schema.org/issn> "1878-9129" .
+<http://worldcat.org/issn/1878-9129> <http://umbel.org/umbel#isLike> <http://worldcat.org/entity/work/id/4495069391> .
+<http://experiment.worldcat.org/entity/work/data/4495069391#Place/hong_kong> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://experiment.worldcat.org/entity/work/data/4495069391#Place/hong_kong> <http://schema.org/name> "Hong Kong" .
+<http://www.worldcat.org/title/-/oclc/930847942#PublicationEvent/hong_kong_fungal_diversity_press> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PublicationEvent> .
+<http://www.worldcat.org/title/-/oclc/930847942#PublicationEvent/hong_kong_fungal_diversity_press> <http://schema.org/location> <http://experiment.worldcat.org/entity/work/data/4495069391#Place/hong_kong> .
+<http://www.worldcat.org/title/-/oclc/930847942#PublicationEvent/hong_kong_fungal_diversity_press> <http://schema.org/organizer> <http://experiment.worldcat.org/entity/work/data/4495069391#Agent/fungal_diversity_press> .
+<http://worldcat.org/entity/work/id/4495069391> <http://umbel.org/umbel#isLike> <http://worldcat.org/issn/1560-2745> .
+<http://worldcat.org/entity/work/id/4495069391> <http://umbel.org/umbel#isLike> <http://worldcat.org/issn/1878-9129> .
+<http://experiment.worldcat.org/entity/work/data/4495069391#CreativeWork/springerlink_journals_servicio_en_linea> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://experiment.worldcat.org/entity/work/data/4495069391#CreativeWork/springerlink_journals_servicio_en_linea> <http://schema.org/name> "SpringerLink Journals (Servicio en línea)" .
+<http://id.loc.gov/vocabulary/countries/cc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://id.loc.gov/vocabulary/countries/cc> <http://purl.org/dc/terms/identifier> "cc" .
+<http://worldcat.org/issn/1560-2745> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://worldcat.org/issn/1560-2745> <http://schema.org/name> "Fungal diversity" .
+<http://worldcat.org/issn/1560-2745> <http://schema.org/issn> "1560-2745" .
+<http://worldcat.org/issn/1560-2745> <http://umbel.org/umbel#isLike> <http://worldcat.org/entity/work/id/4495069391> .
+<http://link.springer.com/openurl?genre=journal&issn=1560-2745> <http://www.w3.org/2000/01/rdf-schema#comment> "Acceso a traves de SpringerLink. Restringido a miembros USE" .
+<http://www.worldcat.org/title/-/oclc/930847942> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#ContentTypeGenericResource> .
+<http://www.worldcat.org/title/-/oclc/930847942> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#InformationResource> .
+<http://www.worldcat.org/title/-/oclc/930847942> <http://schema.org/about> <http://www.worldcat.org/oclc/930847942> .
+<http://www.worldcat.org/title/-/oclc/930847942> <http://schema.org/dateModified> "2019-02-09" .
+<http://www.worldcat.org/title/-/oclc/930847942> <http://rdfs.org/ns/void#inDataset> <http://purl.oclc.org/dataset/WorldCat> .
+<http://www.worldcat.org/oclc/930847942> <http://schema.org/exampleOfWork> <http://worldcat.org/entity/work/id/4495069391> .
+<http://www.worldcat.org/oclc/930847942> <http://purl.org/library/oclcnum> "930847942" .
+<http://www.worldcat.org/oclc/930847942> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/MediaObject> .
+<http://www.worldcat.org/oclc/930847942> <http://schema.org/url> <http://link.springer.com/openurl?genre=journal&issn=1560-2745> .
+<http://www.worldcat.org/oclc/930847942> <http://schema.org/workExample> <http://worldcat.org/issn/1560-2745> .
+<http://www.worldcat.org/oclc/930847942> <http://www.w3.org/2007/05/powder-s#describedby> <http://www.worldcat.org/title/-/oclc/930847942> .
+<http://www.worldcat.org/oclc/930847942> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://experiment.worldcat.org/entity/work/data/4495069391#CreativeWork/springerlink_journals_servicio_en_linea> .
+<http://www.worldcat.org/oclc/930847942> <http://schema.org/publication> <http://www.worldcat.org/title/-/oclc/930847942#PublicationEvent/hong_kong_fungal_diversity_press> .
+<http://www.worldcat.org/oclc/930847942> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/4495069391#Topic/micologia_publicaciones_periodicas> .
+<http://www.worldcat.org/oclc/930847942> <http://schema.org/workExample> <http://worldcat.org/issn/1878-9129> .
+<http://www.worldcat.org/oclc/930847942> <http://schema.org/inLanguage> "en" .
+<http://www.worldcat.org/oclc/930847942> <http://schema.org/publisher> <http://experiment.worldcat.org/entity/work/data/4495069391#Agent/fungal_diversity_press> .
+<http://www.worldcat.org/oclc/930847942> <http://schema.org/name> "Fungal diversity" .
+<http://www.worldcat.org/oclc/930847942> <http://schema.org/datePublished> "2010/9999" .
+<http://www.worldcat.org/oclc/930847942> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://www.worldcat.org/oclc/930847942> <http://schema.org/productID> "930847942" .
+<http://www.worldcat.org/oclc/930847942> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://www.worldcat.org/oclc/930847942> <http://purl.org/library/placeOfPublication> <http://id.loc.gov/vocabulary/countries/cc> .
+<http://www.worldcat.org/oclc/930847942> <http://purl.org/library/placeOfPublication> <http://experiment.worldcat.org/entity/work/data/4495069391#Place/hong_kong> .
+<http://experiment.worldcat.org/entity/work/data/4495069391#Topic/micologia_publicaciones_periodicas> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/4495069391#Topic/micologia_publicaciones_periodicas> <http://schema.org/name> "Micología--Publicaciones periódicas" .
+<http://experiment.worldcat.org/entity/work/data/4495069391#Agent/fungal_diversity_press> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bibliograph.net/Agent> .
+<http://experiment.worldcat.org/entity/work/data/4495069391#Agent/fungal_diversity_press> <http://schema.org/name> "Fungal Diversity Press." .

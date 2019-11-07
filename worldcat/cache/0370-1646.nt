@@ -1,0 +1,170 @@
+<http://worldcat.org/issn/2059-9153> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://worldcat.org/issn/2059-9153> <http://schema.org/name> "Proceedings of the Royal Society of Edinburgh."@en .
+<http://worldcat.org/issn/2059-9153> <http://schema.org/issn> "2059-9153" .
+<http://worldcat.org/issn/2059-9153> <http://umbel.org/umbel#isLike> <http://worldcat.org/entity/work/id/3863157653> .
+<https://archive.org/details/proceedings3719161917roya> <http://www.w3.org/2000/01/rdf-schema#comment> "Free eBook from the Internet Archive" .
+<http://dewey.info/class/062/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/3863157653#Agent/royal_society_of_edinburgh> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bibliograph.net/Agent> .
+<http://experiment.worldcat.org/entity/work/data/3863157653#Agent/royal_society_of_edinburgh> <http://schema.org/name> "Royal Society of Edinburgh" .
+<http://experiment.worldcat.org/entity/work/data/3863157653#Topic/science> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/3863157653#Topic/science> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://id.loc.gov/authorities/subjects/sh85118580> .
+<http://experiment.worldcat.org/entity/work/data/3863157653#Topic/science> <http://schema.org/name> "Science"@en .
+<http://www.worldcat.org/title/-/oclc/564559882> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#ContentTypeGenericResource> .
+<http://www.worldcat.org/title/-/oclc/564559882> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#InformationResource> .
+<http://www.worldcat.org/title/-/oclc/564559882> <http://schema.org/about> <http://www.worldcat.org/oclc/564559882> .
+<http://www.worldcat.org/title/-/oclc/564559882> <http://schema.org/dateModified> "2019-08-22" .
+<http://www.worldcat.org/title/-/oclc/564559882> <http://rdfs.org/ns/void#inDataset> <http://purl.oclc.org/dataset/WorldCat> .
+<https://archive.org/details/proceedingsofroy03roya> <http://www.w3.org/2000/01/rdf-schema#comment> "Free eBook from the Internet Archive" .
+<http://worldcat.org/entity/work/id/3863157653> <http://umbel.org/umbel#isLike> <http://worldcat.org/issn/2059-9153> .
+<https://archive.org/details/proceedings2919081909roya> <http://www.w3.org/2000/01/rdf-schema#comment> "Free eBook from the Internet Archive" .
+<http://experiment.worldcat.org/entity/work/data/3863157653#Place/edinburgh> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://experiment.worldcat.org/entity/work/data/3863157653#Place/edinburgh> <http://schema.org/name> "Edinburgh" .
+<https://archive.org/details/proceedings3519141915roya> <http://www.w3.org/2000/01/rdf-schema#comment> "Free eBook from the Internet Archive" .
+<https://archive.org/details/proceedings2318991901roya> <http://www.w3.org/2000/01/rdf-schema#comment> "Free eBook from the Internet Archive" .
+<https://archive.org/details/proceedings3819171918roya> <http://www.w3.org/2000/01/rdf-schema#comment> "Free eBook from the Internet Archive" .
+<https://archive.org/details/proceedings3019091910roya> <http://www.w3.org/2000/01/rdf-schema#comment> "Free eBook from the Internet Archive" .
+<https://archive.org/details/proceedings4219211922roya> <http://www.w3.org/2000/01/rdf-schema#comment> "Free eBook from the Internet Archive" .
+<https://archive.org/details/proceedingsofr2521905roya> <http://www.w3.org/2000/01/rdf-schema#comment> "Free eBook from the Internet Archive" .
+<https://archive.org/details/proceedings3119101911roya> <http://www.w3.org/2000/01/rdf-schema#comment> "Free eBook from the Internet Archive" .
+<https://archive.org/details/proceedings2118951897roya> <http://www.w3.org/2000/01/rdf-schema#comment> "Free eBook from the Internet Archive" .
+<http://id.loc.gov/vocabulary/countries/stk> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://id.loc.gov/vocabulary/countries/stk> <http://purl.org/dc/terms/identifier> "stk" .
+<https://archive.org/details/proceedings1018781880roya> <http://www.w3.org/2000/01/rdf-schema#comment> "Free eBook from the Internet Archive" .
+<http://viaf.org/viaf/121919761> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+<http://viaf.org/viaf/121919761> <http://schema.org/name> "Royal Society of Edinburgh." .
+<http://id.worldcat.org/fast/1108176> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://id.worldcat.org/fast/1108176> <http://schema.org/name> "Science"@en .
+<http://www.worldcat.org/oclc/564559882> <http://schema.org/url> <http://books.google.com/books?id=hNhGAQAAMAAJ> .
+<http://www.worldcat.org/oclc/564559882> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://www.worldcat.org/oclc/564559882> <http://schema.org/url> <http://books.google.com/books?id=Q8TmbH5NuM4C> .
+<http://www.worldcat.org/oclc/564559882> <http://schema.org/url> <http://books.google.com/books?id=2as9AQAAMAAJ> .
+<http://www.worldcat.org/oclc/564559882> <http://purl.org/library/placeOfPublication> <http://id.loc.gov/vocabulary/countries/stk> .
+<http://www.worldcat.org/oclc/564559882> <http://schema.org/url> <http://books.google.com/books?id=o_8f8QgquXoC> .
+<http://www.worldcat.org/oclc/564559882> <http://schema.org/url> <http://books.google.com/books?id=TX9MAQAAMAAJ> .
+<http://www.worldcat.org/oclc/564559882> <http://schema.org/description> "List of fellows for 1908- in v. 25."@en .
+<http://www.worldcat.org/oclc/564559882> <http://schema.org/genre> "Periodical"@en .
+<http://www.worldcat.org/oclc/564559882> <http://schema.org/url> <https://archive.org/details/proceedings3519141915roya> .
+<http://www.worldcat.org/oclc/564559882> <http://schema.org/url> <http://books.google.com/books?id=8_M8AQAAIAAJ> .
+<http://www.worldcat.org/oclc/564559882> <http://schema.org/url> <http://books.google.com/books?id=_AE_AQAAMAAJ> .
+<http://www.worldcat.org/oclc/564559882> <http://schema.org/url> <https://archive.org/details/proceedings2419011903roya> .
+<http://www.worldcat.org/oclc/564559882> <http://schema.org/url> <https://archive.org/details/proceedings2919081909roya> .
+<http://www.worldcat.org/oclc/564559882> <http://schema.org/url> <https://archive.org/details/proceedings3419131914roya> .
+<http://www.worldcat.org/oclc/564559882> <http://schema.org/url> <http://books.google.com/books?id=gYosAQAAMAAJ> .
+<http://www.worldcat.org/oclc/564559882> <http://schema.org/url> <http://books.google.com/books?id=C7k9AQAAMAAJ> .
+<http://www.worldcat.org/oclc/564559882> <http://schema.org/url> <http://books.google.com/books?id=Y7c9AQAAMAAJ> .
+<http://www.worldcat.org/oclc/564559882> <http://schema.org/url> <http://books.google.com/books?id=avM8AQAAIAAJ> .
+<http://www.worldcat.org/oclc/564559882> <http://schema.org/url> <http://books.google.com/books?id=4Ko9AQAAMAAJ> .
+<http://www.worldcat.org/oclc/564559882> <http://schema.org/url> <http://books.google.com/books?id=xGVW6XxuW3kC> .
+<http://www.worldcat.org/oclc/564559882> <http://schema.org/url> <http://books.google.com/books?id=Cbg9AQAAMAAJ> .
+<http://www.worldcat.org/oclc/564559882> <http://schema.org/url> <http://books.google.com/books?id=gPUvAAAAIAAJ> .
+<http://www.worldcat.org/oclc/564559882> <http://schema.org/url> <http://books.google.com/books?id=1OIvAAAAIAAJ> .
+<http://www.worldcat.org/oclc/564559882> <http://schema.org/url> <https://archive.org/details/proceedingsofroy03roya> .
+<http://www.worldcat.org/oclc/564559882> <http://schema.org/url> <http://books.google.com/books?id=nwE_AQAAMAAJ> .
+<http://www.worldcat.org/oclc/564559882> <http://schema.org/url> <http://books.google.com/books?id=J-MvAAAAIAAJ> .
+<http://www.worldcat.org/oclc/564559882> <http://schema.org/url> <http://books.google.com/books?id=4AE_AQAAMAAJ> .
+<http://www.worldcat.org/oclc/564559882> <http://schema.org/url> <http://books.google.com/books?id=swDmvLOQEr4C> .
+<http://www.worldcat.org/oclc/564559882> <http://schema.org/url> <http://books.google.com/books?id=XBY6AQAAMAAJ> .
+<http://www.worldcat.org/oclc/564559882> <http://schema.org/url> <http://books.google.com/books?id=D-BAAQAAMAAJ> .
+<http://www.worldcat.org/oclc/564559882> <http://schema.org/url> <http://books.google.com/books?id=ngE_AQAAMAAJ> .
+<http://www.worldcat.org/oclc/564559882> <http://schema.org/url> <http://books.google.com/books?id=q-EvAAAAIAAJ> .
+<http://www.worldcat.org/oclc/564559882> <http://schema.org/url> <http://books.google.com/books?id=yAc_AQAAMAAJ> .
+<http://www.worldcat.org/oclc/564559882> <http://schema.org/url> <http://books.google.com/books?id=L-3M_GrdwIEC> .
+<http://www.worldcat.org/oclc/564559882> <http://schema.org/url> <http://books.google.com/books?id=KOQvAAAAIAAJ> .
+<http://www.worldcat.org/oclc/564559882> <http://schema.org/url> <http://books.google.com/books?id=Z749AQAAMAAJ> .
+<http://www.worldcat.org/oclc/564559882> <http://schema.org/url> <https://archive.org/details/proceedings3019091910roya> .
+<http://www.worldcat.org/oclc/564559882> <http://schema.org/publication> <http://www.worldcat.org/title/-/oclc/564559882#PublicationEvent/edinburgh_royal_society_of_edinburgh_1844_1941> .
+<http://www.worldcat.org/oclc/564559882> <http://schema.org/url> <http://books.google.com/books?id=GuAvAAAAIAAJ> .
+<http://www.worldcat.org/oclc/564559882> <http://schema.org/url> <http://books.google.com/books?id=GoWhwiqWrcoC> .
+<http://www.worldcat.org/oclc/564559882> <http://schema.org/url> <http://books.google.com/books?id=d_IvAAAAIAAJ> .
+<http://www.worldcat.org/oclc/564559882> <http://schema.org/url> <http://books.google.com/books?id=rgI_AQAAMAAJ> .
+<http://www.worldcat.org/oclc/564559882> <http://schema.org/workExample> <http://worldcat.org/issn/2059-9153> .
+<http://www.worldcat.org/oclc/564559882> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/MediaObject> .
+<http://www.worldcat.org/oclc/564559882> <http://schema.org/url> <http://www.cambridge.org/core/product/identifier/PRE/type/JOURNAL> .
+<http://www.worldcat.org/oclc/564559882> <http://schema.org/url> <https://archive.org/details/proceedingsofr2521905roya> .
+<http://www.worldcat.org/oclc/564559882> <http://schema.org/url> <https://archive.org/details/proceedings2118951897roya> .
+<http://www.worldcat.org/oclc/564559882> <http://schema.org/url> <http://books.google.com/books?id=hOAvAAAAIAAJ> .
+<http://www.worldcat.org/oclc/564559882> <http://schema.org/url> <http://books.google.com/books?id=jdwvAAAAIAAJ> .
+<http://www.worldcat.org/oclc/564559882> <http://schema.org/url> <http://books.google.com/books?id=tL49AQAAMAAJ> .
+<http://www.worldcat.org/oclc/564559882> <http://schema.org/url> <https://archive.org/details/proceedings3719161917roya> .
+<http://www.worldcat.org/oclc/564559882> <http://schema.org/url> <http://books.google.com/books?id=HgVLAQAAMAAJ> .
+<http://www.worldcat.org/oclc/564559882> <http://schema.org/url> <http://books.google.com/books?id=KvA-AQAAMAAJ> .
+<http://www.worldcat.org/oclc/564559882> <http://schema.org/url> <https://archive.org/details/proceedings3119101911roya> .
+<http://www.worldcat.org/oclc/564559882> <http://schema.org/url> <http://books.google.com/books?id=eN8vAAAAIAAJ> .
+<http://www.worldcat.org/oclc/564559882> <http://schema.org/genre> "Periodicals"@en .
+<http://www.worldcat.org/oclc/564559882> <http://schema.org/url> <http://books.google.com/books?id=NQM_AQAAMAAJ> .
+<http://www.worldcat.org/oclc/564559882> <http://schema.org/url> <http://catalog.hathitrust.org/api/volumes/oclc/1607960.html> .
+<http://www.worldcat.org/oclc/564559882> <http://schema.org/url> <http://books.google.com/books?id=-DhrXa1ZX38C> .
+<http://www.worldcat.org/oclc/564559882> <http://schema.org/url> <https://archive.org/details/proceedings3619151916roya> .
+<http://www.worldcat.org/oclc/564559882> <http://schema.org/url> <https://archive.org/details/proceedings1118801882roya> .
+<http://www.worldcat.org/oclc/564559882> <http://schema.org/url> <http://books.google.com/books?id=0HYbAAAAMAAJ> .
+<http://www.worldcat.org/oclc/564559882> <http://schema.org/productID> "564559882" .
+<http://www.worldcat.org/oclc/564559882> <http://schema.org/url> <http://books.google.com/books?id=DQQ_AQAAMAAJ> .
+<http://www.worldcat.org/oclc/564559882> <http://schema.org/url> <http://books.google.com/books?id=6wM_AQAAMAAJ> .
+<http://www.worldcat.org/oclc/564559882> <http://schema.org/url> <http://books.google.com/books?id=YfUvAAAAIAAJ> .
+<http://www.worldcat.org/oclc/564559882> <http://schema.org/url> <http://books.google.com/books?id=3uAvAAAAIAAJ> .
+<http://www.worldcat.org/oclc/564559882> <http://schema.org/url> <http://books.google.com/books?id=Ai3E5MURrIoC> .
+<http://www.worldcat.org/oclc/564559882> <http://schema.org/url> <http://books.google.com/books?id=ir09AQAAMAAJ> .
+<http://www.worldcat.org/oclc/564559882> <http://schema.org/url> <http://books.google.com/books?id=4xF3cJ6v0OUC> .
+<http://www.worldcat.org/oclc/564559882> <http://schema.org/url> <https://archive.org/details/proceedings3819171918roya> .
+<http://www.worldcat.org/oclc/564559882> <http://schema.org/exampleOfWork> <http://worldcat.org/entity/work/id/3863157653> .
+<http://www.worldcat.org/oclc/564559882> <http://schema.org/url> <http://books.google.com/books?id=tnpkc4RultkC> .
+<http://www.worldcat.org/oclc/564559882> <http://www.w3.org/2007/05/powder-s#describedby> <http://www.worldcat.org/title/-/oclc/564559882> .
+<http://www.worldcat.org/oclc/564559882> <http://schema.org/url> <http://books.google.com/books?id=f749AQAAMAAJ> .
+<http://www.worldcat.org/oclc/564559882> <http://schema.org/url> <http://books.google.com/books?id=-N8vAAAAIAAJ> .
+<http://www.worldcat.org/oclc/564559882> <http://schema.org/url> <https://archive.org/details/proceedings4219211922roya> .
+<http://www.worldcat.org/oclc/564559882> <http://schema.org/url> <http://books.google.com/books?id=cb1GAQAAMAAJ> .
+<http://www.worldcat.org/oclc/564559882> <http://schema.org/publisher> <http://experiment.worldcat.org/entity/work/data/3863157653#Agent/royal_society_of_edinburgh> .
+<http://www.worldcat.org/oclc/564559882> <http://schema.org/about> <http://viaf.org/viaf/121919761> .
+<http://www.worldcat.org/oclc/564559882> <http://schema.org/url> <http://books.google.com/books?id=iL09AQAAMAAJ> .
+<http://www.worldcat.org/oclc/564559882> <http://schema.org/url> <http://books.google.com/books?id=39svAAAAIAAJ> .
+<http://www.worldcat.org/oclc/564559882> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/3863157653#Organization/royal_society_of_edinburgh> .
+<http://www.worldcat.org/oclc/564559882> <http://schema.org/about> <http://dewey.info/class/062/> .
+<http://www.worldcat.org/oclc/564559882> <http://schema.org/datePublished> "1844/1941" .
+<http://www.worldcat.org/oclc/564559882> <http://schema.org/isSimilarTo> <http://www.worldcat.org/oclc/1607960> .
+<http://www.worldcat.org/oclc/564559882> <http://schema.org/url> <http://books.google.com/books?id=yQc_AQAAMAAJ> .
+<http://www.worldcat.org/oclc/564559882> <http://schema.org/url> <http://books.google.com/books?id=nuYvAAAAIAAJ> .
+<http://www.worldcat.org/oclc/564559882> <http://schema.org/url> <http://books.google.com/books?id=O7k9AQAAMAAJ> .
+<http://www.worldcat.org/oclc/564559882> <http://schema.org/genre> "Directory"@en .
+<http://www.worldcat.org/oclc/564559882> <http://schema.org/url> <https://archive.org/details/proceedings1018781880roya> .
+<http://www.worldcat.org/oclc/564559882> <http://schema.org/url> <http://books.google.com/books?id=Wb49AQAAMAAJ> .
+<http://www.worldcat.org/oclc/564559882> <http://schema.org/url> <https://archive.org/details/proceedings3919181919roya> .
+<http://www.worldcat.org/oclc/564559882> <http://purl.org/library/oclcnum> "564559882" .
+<http://www.worldcat.org/oclc/564559882> <http://schema.org/url> <http://books.google.com/books?id=fAM_AQAAMAAJ> .
+<http://www.worldcat.org/oclc/564559882> <http://schema.org/url> <https://archive.org/details/proceedings1818901891roya> .
+<http://www.worldcat.org/oclc/564559882> <http://purl.org/library/placeOfPublication> <http://experiment.worldcat.org/entity/work/data/3863157653#Place/edinburgh> .
+<http://www.worldcat.org/oclc/564559882> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/3863157653#Topic/science> .
+<http://www.worldcat.org/oclc/564559882> <http://schema.org/url> <http://catalog.hathitrust.org/api/volumes/oclc/32562733.html> .
+<http://www.worldcat.org/oclc/564559882> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://www.worldcat.org/oclc/564559882> <http://schema.org/url> <http://books.google.com/books?id=1wI_AQAAMAAJ> .
+<http://www.worldcat.org/oclc/564559882> <http://schema.org/url> <http://books.google.com/books?id=6L49AQAAMAAJ> .
+<http://www.worldcat.org/oclc/564559882> <http://schema.org/inLanguage> "en" .
+<http://www.worldcat.org/oclc/564559882> <http://schema.org/about> <http://id.worldcat.org/fast/1108176> .
+<http://www.worldcat.org/oclc/564559882> <http://schema.org/url> <http://books.google.com/books?id=fjDhuhB2Gy8C> .
+<http://www.worldcat.org/oclc/564559882> <http://schema.org/url> <http://books.google.com/books?id=uwM_AQAAMAAJ> .
+<http://www.worldcat.org/oclc/564559882> <http://schema.org/url> <http://books.google.com/books?id=puEvAAAAIAAJ> .
+<http://www.worldcat.org/oclc/564559882> <http://schema.org/name> "Proceedings of the Royal Society of Edinburgh."@en .
+<http://www.worldcat.org/oclc/564559882> <http://schema.org/url> <http://books.google.com/books?id=BhVbAAAAYAAJ> .
+<http://www.worldcat.org/oclc/564559882> <http://schema.org/url> <http://books.google.com/books?id=-O4-AQAAMAAJ> .
+<http://www.worldcat.org/oclc/564559882> <http://schema.org/url> <http://books.google.com/books?id=gvYvAAAAIAAJ> .
+<http://www.worldcat.org/oclc/564559882> <http://schema.org/description> "Obituary notices are included in many of the volumes."@en .
+<http://www.worldcat.org/oclc/564559882> <http://schema.org/url> <https://archive.org/details/proceedings2318991901roya> .
+<http://www.worldcat.org/oclc/564559882> <http://schema.org/creator> <http://viaf.org/viaf/121919761> .
+<http://www.worldcat.org/oclc/564559882> <http://schema.org/url> <http://books.google.com/books?id=Q9wvAAAAIAAJ> .
+<http://www.worldcat.org/oclc/564559882> <http://schema.org/datePublished> "1844/1940" .
+<http://www.worldcat.org/oclc/564559882> <http://schema.org/url> <http://books.google.com/books?id=jAVLAQAAMAAJ> .
+<https://archive.org/details/proceedings1818901891roya> <http://www.w3.org/2000/01/rdf-schema#comment> "Free eBook from the Internet Archive" .
+<https://archive.org/details/proceedings1118801882roya> <http://www.w3.org/2000/01/rdf-schema#comment> "Free eBook from the Internet Archive" .
+<http://experiment.worldcat.org/entity/work/data/3863157653#Organization/royal_society_of_edinburgh> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+<http://experiment.worldcat.org/entity/work/data/3863157653#Organization/royal_society_of_edinburgh> <http://schema.org/name> "Royal Society of Edinburgh." .
+<https://archive.org/details/proceedings2419011903roya> <http://www.w3.org/2000/01/rdf-schema#comment> "Free eBook from the Internet Archive" .
+<https://archive.org/details/proceedings3619151916roya> <http://www.w3.org/2000/01/rdf-schema#comment> "Free eBook from the Internet Archive" .
+<http://www.worldcat.org/title/-/oclc/564559882#PublicationEvent/edinburgh_royal_society_of_edinburgh_1844_1941> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PublicationEvent> .
+<http://www.worldcat.org/title/-/oclc/564559882#PublicationEvent/edinburgh_royal_society_of_edinburgh_1844_1941> <http://schema.org/location> <http://experiment.worldcat.org/entity/work/data/3863157653#Place/edinburgh> .
+<http://www.worldcat.org/title/-/oclc/564559882#PublicationEvent/edinburgh_royal_society_of_edinburgh_1844_1941> <http://schema.org/organizer> <http://experiment.worldcat.org/entity/work/data/3863157653#Agent/royal_society_of_edinburgh> .
+<http://www.worldcat.org/title/-/oclc/564559882#PublicationEvent/edinburgh_royal_society_of_edinburgh_1844_1941> <http://schema.org/startDate> "1844-1941" .
+<https://archive.org/details/proceedings3919181919roya> <http://www.w3.org/2000/01/rdf-schema#comment> "Free eBook from the Internet Archive" .
+<https://archive.org/details/proceedings3419131914roya> <http://www.w3.org/2000/01/rdf-schema#comment> "Free eBook from the Internet Archive" .
+<http://www.worldcat.org/oclc/1607960> <http://schema.org/isSimilarTo> <http://www.worldcat.org/oclc/564559882> .
+<http://www.worldcat.org/oclc/1607960> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://www.worldcat.org/oclc/1607960> <http://www.w3.org/2000/01/rdf-schema#label> "Proceedings of the Royal Society of Edinburgh" .
+<http://www.worldcat.org/oclc/1607960> <http://schema.org/description> "Print version: Royal Society of Edinburgh." .

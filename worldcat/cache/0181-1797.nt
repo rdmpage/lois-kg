@@ -1,0 +1,43 @@
+<http://worldcat.org/issn/0181-1797> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://worldcat.org/issn/0181-1797> <http://schema.org/name> "Bulletin de la Société botanique de France. Lettres botaniques. -" .
+<http://worldcat.org/issn/0181-1797> <http://schema.org/issn> "0181-1797" .
+<http://worldcat.org/issn/0181-1797> <http://umbel.org/umbel#isLike> <http://worldcat.org/entity/work/id/3374391714> .
+<http://experiment.worldcat.org/entity/work/data/3374391714#Place/chatenay_malabry> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://experiment.worldcat.org/entity/work/data/3374391714#Place/chatenay_malabry> <http://schema.org/name> "Châtenay-Malabry" .
+<http://experiment.worldcat.org/entity/work/data/3374391714#Agent/societe_botanique_de_france> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bibliograph.net/Agent> .
+<http://experiment.worldcat.org/entity/work/data/3374391714#Agent/societe_botanique_de_france> <http://schema.org/name> "Société botanique de France" .
+<http://experiment.worldcat.org/entity/work/data/3374391714#Topic/botanica> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/3374391714#Topic/botanica> <http://schema.org/name> "Botanica" .
+<http://www.worldcat.org/oclc/991817270> <http://purl.org/library/placeOfPublication> <http://experiment.worldcat.org/entity/work/data/3374391714#Place/chatenay_malabry> .
+<http://www.worldcat.org/oclc/991817270> <http://schema.org/datePublished> "/c1992" .
+<http://www.worldcat.org/oclc/991817270> <http://schema.org/name> "Bulletin de la Société botanique de France. Lettres botaniques. -" .
+<http://www.worldcat.org/oclc/991817270> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://www.worldcat.org/oclc/991817270> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/3374391714#Topic/botanica> .
+<http://www.worldcat.org/oclc/991817270> <http://schema.org/contributor> <http://experiment.worldcat.org/entity/work/data/3374391714#Organization/societe_botanique_de_france> .
+<http://www.worldcat.org/oclc/991817270> <http://schema.org/about> <http://dewey.info/class/581/> .
+<http://www.worldcat.org/oclc/991817270> <http://schema.org/publisher> <http://experiment.worldcat.org/entity/work/data/3374391714#Agent/societe_botanique_de_france> .
+<http://www.worldcat.org/oclc/991817270> <http://schema.org/datePublished> "1992/9999" .
+<http://www.worldcat.org/oclc/991817270> <http://schema.org/publication> <http://www.worldcat.org/title/-/oclc/991817270#PublicationEvent/chatenay_malabry_societe_botanique_de_france_c1992> .
+<http://www.worldcat.org/oclc/991817270> <http://purl.org/library/placeOfPublication> <http://id.loc.gov/vocabulary/countries/it> .
+<http://www.worldcat.org/oclc/991817270> <http://purl.org/library/oclcnum> "991817270" .
+<http://www.worldcat.org/oclc/991817270> <http://schema.org/workExample> <http://worldcat.org/issn/0181-1797> .
+<http://www.worldcat.org/oclc/991817270> <http://www.w3.org/2007/05/powder-s#describedby> <http://www.worldcat.org/title/-/oclc/991817270> .
+<http://www.worldcat.org/oclc/991817270> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://www.worldcat.org/oclc/991817270> <http://schema.org/productID> "991817270" .
+<http://www.worldcat.org/oclc/991817270> <http://schema.org/inLanguage> "en" .
+<http://www.worldcat.org/oclc/991817270> <http://schema.org/exampleOfWork> <http://worldcat.org/entity/work/id/3374391714> .
+<http://www.worldcat.org/title/-/oclc/991817270> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#ContentTypeGenericResource> .
+<http://www.worldcat.org/title/-/oclc/991817270> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#InformationResource> .
+<http://www.worldcat.org/title/-/oclc/991817270> <http://schema.org/about> <http://www.worldcat.org/oclc/991817270> .
+<http://www.worldcat.org/title/-/oclc/991817270> <http://schema.org/dateModified> "2018-11-09" .
+<http://www.worldcat.org/title/-/oclc/991817270> <http://rdfs.org/ns/void#inDataset> <http://purl.oclc.org/dataset/WorldCat> .
+<http://id.loc.gov/vocabulary/countries/it> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://id.loc.gov/vocabulary/countries/it> <http://purl.org/dc/terms/identifier> "it" .
+<http://worldcat.org/entity/work/id/3374391714> <http://umbel.org/umbel#isLike> <http://worldcat.org/issn/0181-1797> .
+<http://dewey.info/class/581/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://www.worldcat.org/title/-/oclc/991817270#PublicationEvent/chatenay_malabry_societe_botanique_de_france_c1992> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PublicationEvent> .
+<http://www.worldcat.org/title/-/oclc/991817270#PublicationEvent/chatenay_malabry_societe_botanique_de_france_c1992> <http://schema.org/location> <http://experiment.worldcat.org/entity/work/data/3374391714#Place/chatenay_malabry> .
+<http://www.worldcat.org/title/-/oclc/991817270#PublicationEvent/chatenay_malabry_societe_botanique_de_france_c1992> <http://schema.org/organizer> <http://experiment.worldcat.org/entity/work/data/3374391714#Agent/societe_botanique_de_france> .
+<http://www.worldcat.org/title/-/oclc/991817270#PublicationEvent/chatenay_malabry_societe_botanique_de_france_c1992> <http://schema.org/startDate> "-c1992" .
+<http://experiment.worldcat.org/entity/work/data/3374391714#Organization/societe_botanique_de_france> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+<http://experiment.worldcat.org/entity/work/data/3374391714#Organization/societe_botanique_de_france> <http://schema.org/name> "Société botanique de France." .

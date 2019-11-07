@@ -1,0 +1,47 @@
+<http://viaf.org/viaf/126824325> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+<http://viaf.org/viaf/126824325> <http://schema.org/name> "Natural history museum (Londres)" .
+<http://www.worldcat.org/title/-/oclc/474046207> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#ContentTypeGenericResource> .
+<http://www.worldcat.org/title/-/oclc/474046207> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#InformationResource> .
+<http://www.worldcat.org/title/-/oclc/474046207> <http://schema.org/about> <http://www.worldcat.org/oclc/474046207> .
+<http://www.worldcat.org/title/-/oclc/474046207> <http://schema.org/dateModified> "2018-11-11" .
+<http://www.worldcat.org/title/-/oclc/474046207> <http://rdfs.org/ns/void#inDataset> <http://purl.oclc.org/dataset/WorldCat> .
+<http://experiment.worldcat.org/entity/work/data/3857885828#Topic/botanique_periodiques> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/3857885828#Topic/botanique_periodiques> <http://schema.org/name> "Botanique--Périodiques" .
+<http://dewey.info/class/580.5/e22/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/3857885828#Agent/natural_history_museum> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bibliograph.net/Agent> .
+<http://experiment.worldcat.org/entity/work/data/3857885828#Agent/natural_history_museum> <http://schema.org/name> "Natural history museum" .
+<http://worldcat.org/entity/work/id/3857885828> <http://umbel.org/umbel#isLike> <http://worldcat.org/issn/0968-0446> .
+<http://id.loc.gov/vocabulary/countries/enk> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://id.loc.gov/vocabulary/countries/enk> <http://purl.org/dc/terms/identifier> "enk" .
+<http://www.worldcat.org/oclc/474046207> <http://purl.org/library/oclcnum> "474046207" .
+<http://www.worldcat.org/oclc/474046207> <http://schema.org/genre> "[périodique]" .
+<http://www.worldcat.org/oclc/474046207> <http://schema.org/workExample> <http://worldcat.org/issn/0968-0446> .
+<http://www.worldcat.org/oclc/474046207> <http://schema.org/author> <http://viaf.org/viaf/126824325> .
+<http://www.worldcat.org/oclc/474046207> <http://schema.org/datePublished> "1994/2002" .
+<http://www.worldcat.org/oclc/474046207> <http://schema.org/alternateName> "Bulletin - Natural history museum. Botany" .
+<http://www.worldcat.org/oclc/474046207> <http://purl.org/library/placeOfPublication> <http://id.loc.gov/vocabulary/countries/enk> .
+<http://www.worldcat.org/oclc/474046207> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://www.worldcat.org/oclc/474046207> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://www.worldcat.org/oclc/474046207> <http://purl.org/library/placeOfPublication> <http://dbpedia.org/resource/London> .
+<http://www.worldcat.org/oclc/474046207> <http://schema.org/publication> <http://www.worldcat.org/title/-/oclc/474046207#PublicationEvent/london_natural_history_museum_1994_2002> .
+<http://www.worldcat.org/oclc/474046207> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/3857885828#Topic/botanique_periodiques> .
+<http://www.worldcat.org/oclc/474046207> <http://schema.org/about> <http://dewey.info/class/580.5/e22/> .
+<http://www.worldcat.org/oclc/474046207> <http://schema.org/productID> "474046207" .
+<http://www.worldcat.org/oclc/474046207> <http://schema.org/publisher> <http://experiment.worldcat.org/entity/work/data/3857885828#Agent/natural_history_museum> .
+<http://www.worldcat.org/oclc/474046207> <http://www.w3.org/2007/05/powder-s#describedby> <http://www.worldcat.org/title/-/oclc/474046207> .
+<http://www.worldcat.org/oclc/474046207> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/3857885828#Topic/botanique> .
+<http://www.worldcat.org/oclc/474046207> <http://schema.org/inLanguage> "en" .
+<http://www.worldcat.org/oclc/474046207> <http://schema.org/name> "Bulletin of the Natural history museum. Botany series" .
+<http://www.worldcat.org/oclc/474046207> <http://schema.org/exampleOfWork> <http://worldcat.org/entity/work/id/3857885828> .
+<http://dbpedia.org/resource/London> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://dbpedia.org/resource/London> <http://schema.org/name> "London" .
+<http://worldcat.org/issn/0968-0446> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://worldcat.org/issn/0968-0446> <http://schema.org/name> "Bulletin of the Natural history museum. Botany series" .
+<http://worldcat.org/issn/0968-0446> <http://schema.org/issn> "0968-0446" .
+<http://worldcat.org/issn/0968-0446> <http://umbel.org/umbel#isLike> <http://worldcat.org/entity/work/id/3857885828> .
+<http://experiment.worldcat.org/entity/work/data/3857885828#Topic/botanique> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/3857885828#Topic/botanique> <http://schema.org/name> "botanique" .
+<http://www.worldcat.org/title/-/oclc/474046207#PublicationEvent/london_natural_history_museum_1994_2002> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PublicationEvent> .
+<http://www.worldcat.org/title/-/oclc/474046207#PublicationEvent/london_natural_history_museum_1994_2002> <http://schema.org/location> <http://dbpedia.org/resource/London> .
+<http://www.worldcat.org/title/-/oclc/474046207#PublicationEvent/london_natural_history_museum_1994_2002> <http://schema.org/organizer> <http://experiment.worldcat.org/entity/work/data/3857885828#Agent/natural_history_museum> .
+<http://www.worldcat.org/title/-/oclc/474046207#PublicationEvent/london_natural_history_museum_1994_2002> <http://schema.org/startDate> "1994-2002" .

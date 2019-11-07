@@ -1,0 +1,32 @@
+<http://experiment.worldcat.org/entity/work/data/4202961058#Place/sydney> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://experiment.worldcat.org/entity/work/data/4202961058#Place/sydney> <http://schema.org/name> "Sydney." .
+<http://worldcat.org/entity/work/id/4202961058> <http://umbel.org/umbel#isLike> <http://worldcat.org/issn/0312-9764> .
+<http://experiment.worldcat.org/entity/work/data/4202961058#Organization/royal_botanic_gardens_sydney_national_herbarium_of_new_south_wales> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+<http://experiment.worldcat.org/entity/work/data/4202961058#Organization/royal_botanic_gardens_sydney_national_herbarium_of_new_south_wales> <http://schema.org/name> "Royal Botanic Gardens Sydney, National Herbarium of New South Wales." .
+<http://id.loc.gov/vocabulary/countries/at> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://id.loc.gov/vocabulary/countries/at> <http://purl.org/dc/terms/identifier> "at" .
+<http://www.worldcat.org/title/-/oclc/475050656> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#ContentTypeGenericResource> .
+<http://www.worldcat.org/title/-/oclc/475050656> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#InformationResource> .
+<http://www.worldcat.org/title/-/oclc/475050656> <http://schema.org/about> <http://www.worldcat.org/oclc/475050656> .
+<http://www.worldcat.org/title/-/oclc/475050656> <http://schema.org/dateModified> "2018-11-11" .
+<http://www.worldcat.org/title/-/oclc/475050656> <http://rdfs.org/ns/void#inDataset> <http://purl.oclc.org/dataset/WorldCat> .
+<http://worldcat.org/issn/0312-9764> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://worldcat.org/issn/0312-9764> <http://schema.org/name> "Telopea : a journal of plant systematics." .
+<http://worldcat.org/issn/0312-9764> <http://schema.org/issn> "0312-9764" .
+<http://worldcat.org/issn/0312-9764> <http://umbel.org/umbel#isLike> <http://worldcat.org/entity/work/id/4202961058> .
+<http://www.worldcat.org/oclc/475050656> <http://schema.org/publication> <http://www.worldcat.org/title/-/oclc/475050656#PublicationEvent/sydney> .
+<http://www.worldcat.org/oclc/475050656> <http://schema.org/name> "Telopea : a journal of plant systematics." .
+<http://www.worldcat.org/oclc/475050656> <http://purl.org/library/oclcnum> "475050656" .
+<http://www.worldcat.org/oclc/475050656> <http://purl.org/library/placeOfPublication> <http://id.loc.gov/vocabulary/countries/at> .
+<http://www.worldcat.org/oclc/475050656> <http://purl.org/library/placeOfPublication> <http://experiment.worldcat.org/entity/work/data/4202961058#Place/sydney> .
+<http://www.worldcat.org/oclc/475050656> <http://schema.org/productID> "475050656" .
+<http://www.worldcat.org/oclc/475050656> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://www.worldcat.org/oclc/475050656> <http://schema.org/exampleOfWork> <http://worldcat.org/entity/work/id/4202961058> .
+<http://www.worldcat.org/oclc/475050656> <http://schema.org/datePublished> "1975/9999" .
+<http://www.worldcat.org/oclc/475050656> <http://schema.org/workExample> <http://worldcat.org/issn/0312-9764> .
+<http://www.worldcat.org/oclc/475050656> <http://www.w3.org/2007/05/powder-s#describedby> <http://www.worldcat.org/title/-/oclc/475050656> .
+<http://www.worldcat.org/oclc/475050656> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://www.worldcat.org/oclc/475050656> <http://schema.org/contributor> <http://experiment.worldcat.org/entity/work/data/4202961058#Organization/royal_botanic_gardens_sydney_national_herbarium_of_new_south_wales> .
+<http://www.worldcat.org/oclc/475050656> <http://schema.org/inLanguage> "en" .
+<http://www.worldcat.org/title/-/oclc/475050656#PublicationEvent/sydney> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PublicationEvent> .
+<http://www.worldcat.org/title/-/oclc/475050656#PublicationEvent/sydney> <http://schema.org/location> <http://experiment.worldcat.org/entity/work/data/4202961058#Place/sydney> .

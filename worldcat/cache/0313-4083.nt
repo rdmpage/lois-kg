@@ -1,0 +1,46 @@
+<http://www.worldcat.org/title/-/oclc/1125299409> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#ContentTypeGenericResource> .
+<http://www.worldcat.org/title/-/oclc/1125299409> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#InformationResource> .
+<http://www.worldcat.org/title/-/oclc/1125299409> <http://schema.org/about> <http://www.worldcat.org/oclc/1125299409> .
+<http://www.worldcat.org/title/-/oclc/1125299409> <http://schema.org/dateModified> "2019-10-30" .
+<http://www.worldcat.org/title/-/oclc/1125299409> <http://rdfs.org/ns/void#inDataset> <http://purl.oclc.org/dataset/WorldCat> .
+<http://www.environment.sa.gov.au/Knowledge_Bank/Science_research/State_Herbarium/Resources/Publications/Journal_of_the_Adelaide_Botanic_Gardens/Journal_search> <http://www.w3.org/2000/01/rdf-schema#comment> "Acceso al texto completo" .
+<http://www.worldcat.org/title/-/oclc/1125299409#PublicationEvent/adelaide_australia_s_n_1976> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PublicationEvent> .
+<http://www.worldcat.org/title/-/oclc/1125299409#PublicationEvent/adelaide_australia_s_n_1976> <http://schema.org/location> <http://experiment.worldcat.org/entity/work/data/9607852464#Place/adelaide_australia> .
+<http://www.worldcat.org/title/-/oclc/1125299409#PublicationEvent/adelaide_australia_s_n_1976> <http://schema.org/organizer> <http://experiment.worldcat.org/entity/work/data/9607852464#Agent/s_n> .
+<http://www.worldcat.org/title/-/oclc/1125299409#PublicationEvent/adelaide_australia_s_n_1976> <http://schema.org/startDate> "1976-" .
+<http://worldcat.org/entity/work/id/9607852464> <http://umbel.org/umbel#isLike> <http://worldcat.org/issn/0313-4083> .
+<http://id.loc.gov/vocabulary/countries/at> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://id.loc.gov/vocabulary/countries/at> <http://purl.org/dc/terms/identifier> "at" .
+<http://experiment.worldcat.org/entity/work/data/9607852464#Topic/botanica> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/9607852464#Topic/botanica> <http://schema.org/name> "Botánica" .
+<http://experiment.worldcat.org/entity/work/data/9607852464#Topic/botanica_australia> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/9607852464#Topic/botanica_australia> <http://schema.org/name> "Botánica--Australia" .
+<http://experiment.worldcat.org/entity/work/data/9607852464#Place/adelaide_australia> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://experiment.worldcat.org/entity/work/data/9607852464#Place/adelaide_australia> <http://schema.org/name> "Adelaide (Australia)," .
+<http://worldcat.org/issn/0313-4083> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://worldcat.org/issn/0313-4083> <http://schema.org/name> "Journal of the Adelaide Botanic Gardens." .
+<http://worldcat.org/issn/0313-4083> <http://schema.org/issn> "0313-4083" .
+<http://worldcat.org/issn/0313-4083> <http://umbel.org/umbel#isLike> <http://worldcat.org/entity/work/id/9607852464> .
+<http://experiment.worldcat.org/entity/work/data/9607852464#Agent/s_n> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bibliograph.net/Agent> .
+<http://experiment.worldcat.org/entity/work/data/9607852464#Agent/s_n> <http://schema.org/name> "[s.n.]" .
+<http://experiment.worldcat.org/entity/work/data/9607852464#Organization/adelaide_botanic_gardens> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+<http://experiment.worldcat.org/entity/work/data/9607852464#Organization/adelaide_botanic_gardens> <http://schema.org/name> "Adelaide Botanic Gardens." .
+<http://www.worldcat.org/oclc/1125299409> <http://schema.org/productID> "1125299409" .
+<http://www.worldcat.org/oclc/1125299409> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/9607852464#Topic/botanica_australia> .
+<http://www.worldcat.org/oclc/1125299409> <http://purl.org/library/placeOfPublication> <http://experiment.worldcat.org/entity/work/data/9607852464#Place/adelaide_australia> .
+<http://www.worldcat.org/oclc/1125299409> <http://schema.org/publisher> <http://experiment.worldcat.org/entity/work/data/9607852464#Agent/s_n> .
+<http://www.worldcat.org/oclc/1125299409> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://www.worldcat.org/oclc/1125299409> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://www.worldcat.org/oclc/1125299409> <http://schema.org/url> <http://www.environment.sa.gov.au/Knowledge_Bank/Science_research/State_Herbarium/Resources/Publications/Journal_of_the_Adelaide_Botanic_Gardens/Journal_search> .
+<http://www.worldcat.org/oclc/1125299409> <http://purl.org/library/oclcnum> "1125299409" .
+<http://www.worldcat.org/oclc/1125299409> <http://purl.org/library/placeOfPublication> <http://id.loc.gov/vocabulary/countries/at> .
+<http://www.worldcat.org/oclc/1125299409> <http://schema.org/publication> <http://www.worldcat.org/title/-/oclc/1125299409#PublicationEvent/adelaide_australia_s_n_1976> .
+<http://www.worldcat.org/oclc/1125299409> <http://schema.org/contributor> <http://experiment.worldcat.org/entity/work/data/9607852464#Organization/adelaide_botanic_gardens> .
+<http://www.worldcat.org/oclc/1125299409> <http://schema.org/inLanguage> "en" .
+<http://www.worldcat.org/oclc/1125299409> <http://schema.org/name> "Journal of the Adelaide Botanic Gardens." .
+<http://www.worldcat.org/oclc/1125299409> <http://schema.org/workExample> <http://worldcat.org/issn/0313-4083> .
+<http://www.worldcat.org/oclc/1125299409> <http://www.w3.org/2007/05/powder-s#describedby> <http://www.worldcat.org/title/-/oclc/1125299409> .
+<http://www.worldcat.org/oclc/1125299409> <http://schema.org/exampleOfWork> <http://worldcat.org/entity/work/id/9607852464> .
+<http://www.worldcat.org/oclc/1125299409> <http://schema.org/datePublished> "1976/" .
+<http://www.worldcat.org/oclc/1125299409> <http://schema.org/datePublished> "1976/9999" .
+<http://www.worldcat.org/oclc/1125299409> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/9607852464#Topic/botanica> .

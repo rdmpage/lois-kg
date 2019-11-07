@@ -1,0 +1,42 @@
+<http://www.worldcat.org/oclc/858860645> <http://purl.org/library/placeOfPublication> <http://id.loc.gov/vocabulary/countries/ja> .
+<http://www.worldcat.org/oclc/858860645> <http://schema.org/datePublished> "2001/9999" .
+<http://www.worldcat.org/oclc/858860645> <http://schema.org/inLanguage> "en" .
+<http://www.worldcat.org/oclc/858860645> <http://schema.org/genre> "Electronic journals"@en .
+<http://www.worldcat.org/oclc/858860645> <http://schema.org/url> <http://QN6SJ3QC3H.search.serialssolutions.com/?V=1.0&L=QN6SJ3QC3H&S=JCs&C=TC0000626557&T=marc> .
+<http://www.worldcat.org/oclc/858860645> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://www.worldcat.org/oclc/858860645> <http://schema.org/exampleOfWork> <http://worldcat.org/entity/work/id/9094405714> .
+<http://www.worldcat.org/oclc/858860645> <http://schema.org/productID> "858860645" .
+<http://www.worldcat.org/oclc/858860645> <http://purl.org/library/oclcnum> "858860645" .
+<http://www.worldcat.org/oclc/858860645> <http://schema.org/url> <http://VE6FZ2GJ7B.search.serialssolutions.com/?V=1.0&L=VE6FZ2GJ7B&S=JCs&C=TC0000626557&T=marc> .
+<http://www.worldcat.org/oclc/858860645> <http://schema.org/publication> <http://www.worldcat.org/title/-/oclc/858860645#PublicationEvent/tokyo_japanese_society_for_plant_systematics> .
+<http://www.worldcat.org/oclc/858860645> <http://purl.org/library/placeOfPublication> <http://experiment.worldcat.org/entity/work/data/9094405714#Place/tokyo> .
+<http://www.worldcat.org/oclc/858860645> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/MediaObject> .
+<http://www.worldcat.org/oclc/858860645> <http://schema.org/alternateName> "Acta Phytotaxonomica et Geobotanica" .
+<http://www.worldcat.org/oclc/858860645> <http://schema.org/name> "APG."@en .
+<http://www.worldcat.org/oclc/858860645> <http://schema.org/url> <http://ci.nii.ac.jp/search?q=AA11586265> .
+<http://www.worldcat.org/oclc/858860645> <http://schema.org/genre> "Periodicals"@en .
+<http://www.worldcat.org/oclc/858860645> <http://schema.org/url> <https://www.jstage.jst.go.jp/browse/apg> .
+<http://www.worldcat.org/oclc/858860645> <http://www.w3.org/2007/05/powder-s#describedby> <http://www.worldcat.org/title/-/oclc/858860645> .
+<http://www.worldcat.org/oclc/858860645> <http://schema.org/url> <http://ci.nii.ac.jp/vol_issue/nels/AA11586265_ja.html> .
+<http://www.worldcat.org/oclc/858860645> <http://schema.org/publisher> <http://experiment.worldcat.org/entity/work/data/9094405714#Agent/japanese_society_for_plant_systematics> .
+<http://www.worldcat.org/oclc/858860645> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://experiment.worldcat.org/entity/work/data/9094405714#Place/tokyo> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://experiment.worldcat.org/entity/work/data/9094405714#Place/tokyo> <http://schema.org/name> "Tokyo" .
+<https://www.jstage.jst.go.jp/browse/apg> <http://www.w3.org/2000/01/rdf-schema#comment> "2016 to present" .
+<http://experiment.worldcat.org/entity/work/data/9094405714#Agent/japanese_society_for_plant_systematics> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bibliograph.net/Agent> .
+<http://experiment.worldcat.org/entity/work/data/9094405714#Agent/japanese_society_for_plant_systematics> <http://schema.org/name> "Japanese Society for Plant Systematics." .
+<http://id.loc.gov/vocabulary/countries/ja> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://id.loc.gov/vocabulary/countries/ja> <http://purl.org/dc/terms/identifier> "ja" .
+<http://ci.nii.ac.jp/vol_issue/nels/AA11586265_ja.html> <http://www.w3.org/2000/01/rdf-schema#comment> "2001 to present" .
+<http://QN6SJ3QC3H.search.serialssolutions.com/?V=1.0&L=QN6SJ3QC3H&S=JCs&C=TC0000626557&T=marc> <http://www.w3.org/2000/01/rdf-schema#comment> "Access for all Brooklyn College users" .
+<http://www.worldcat.org/title/-/oclc/858860645> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#ContentTypeGenericResource> .
+<http://www.worldcat.org/title/-/oclc/858860645> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#InformationResource> .
+<http://www.worldcat.org/title/-/oclc/858860645> <http://schema.org/about> <http://www.worldcat.org/oclc/858860645> .
+<http://www.worldcat.org/title/-/oclc/858860645> <http://schema.org/dateModified> "2019-05-08" .
+<http://www.worldcat.org/title/-/oclc/858860645> <http://rdfs.org/ns/void#inDataset> <http://purl.oclc.org/dataset/WorldCat> .
+<http://www.worldcat.org/title/-/oclc/858860645#PublicationEvent/tokyo_japanese_society_for_plant_systematics> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PublicationEvent> .
+<http://www.worldcat.org/title/-/oclc/858860645#PublicationEvent/tokyo_japanese_society_for_plant_systematics> <http://schema.org/location> <http://experiment.worldcat.org/entity/work/data/9094405714#Place/tokyo> .
+<http://www.worldcat.org/title/-/oclc/858860645#PublicationEvent/tokyo_japanese_society_for_plant_systematics> <http://schema.org/organizer> <http://experiment.worldcat.org/entity/work/data/9094405714#Agent/japanese_society_for_plant_systematics> .
+<http://worldcat.org/entity/work/id/9094405714> <http://schema.org/name> "APG (Online)"@en .
+<http://ci.nii.ac.jp/search?q=AA11586265> <http://www.w3.org/2000/01/rdf-schema#comment> "2001 to present" .
+<http://VE6FZ2GJ7B.search.serialssolutions.com/?V=1.0&L=VE6FZ2GJ7B&S=JCs&C=TC0000626557&T=marc> <http://www.w3.org/2000/01/rdf-schema#comment> "Access for all Queens College users" .

@@ -1,0 +1,96 @@
+<http://experiment.worldcat.org/entity/work/data/475287060#Topic/science> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/475287060#Topic/science> <http://schema.org/name> "Science"@en .
+<http://dewey.info/class/505/a11/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<https://archive.org/details/memoirsofnationa06nati> <http://www.w3.org/2000/01/rdf-schema#comment> "Free eBook from the Internet Archive" .
+<https://archive.org/details/memoirsofnationa17nati> <http://www.w3.org/2000/01/rdf-schema#comment> "Free eBook from the Internet Archive" .
+<https://archive.org/details/memoirsofnationa03nati> <http://www.w3.org/2000/01/rdf-schema#comment> "Free eBook from the Internet Archive" .
+<https://archive.org/details/memoirsofnationa09nati> <http://www.w3.org/2000/01/rdf-schema#comment> "Free eBook from the Internet Archive" .
+<https://archive.org/details/memoirsofnationa14nati> <http://www.w3.org/2000/01/rdf-schema#comment> "Free eBook from the Internet Archive" .
+<https://archive.org/details/memoirsofnationa11nati> <http://www.w3.org/2000/01/rdf-schema#comment> "Free eBook from the Internet Archive" .
+<http://experiment.worldcat.org/entity/work/data/475287060#Place/washington_d_c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://experiment.worldcat.org/entity/work/data/475287060#Place/washington_d_c> <http://schema.org/name> "Washington, D.C." .
+<https://archive.org/details/memoirsofnationa19nati> <http://www.w3.org/2000/01/rdf-schema#comment> "Free eBook from the Internet Archive" .
+<https://archive.org/details/memoirsofnationa21nati> <http://www.w3.org/2000/01/rdf-schema#comment> "Free eBook from the Internet Archive" .
+<http://www.worldcat.org/title/-/oclc/1102687652#PublicationEvent/washington_d_c_united_states_government_printing_office_1866_1941> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PublicationEvent> .
+<http://www.worldcat.org/title/-/oclc/1102687652#PublicationEvent/washington_d_c_united_states_government_printing_office_1866_1941> <http://schema.org/location> <http://experiment.worldcat.org/entity/work/data/475287060#Place/washington_d_c> .
+<http://www.worldcat.org/title/-/oclc/1102687652#PublicationEvent/washington_d_c_united_states_government_printing_office_1866_1941> <http://schema.org/organizer> <http://experiment.worldcat.org/entity/work/data/475287060#Agent/united_states_government_printing_office> .
+<http://www.worldcat.org/title/-/oclc/1102687652#PublicationEvent/washington_d_c_united_states_government_printing_office_1866_1941> <http://schema.org/startDate> "1866-1941" .
+<http://experiment.worldcat.org/entity/work/data/475287060#Organization/national_academy_of_sciences_u_s> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+<http://experiment.worldcat.org/entity/work/data/475287060#Organization/national_academy_of_sciences_u_s> <http://schema.org/name> "National Academy of Sciences (U.S.)" .
+<http://cecelia.whoi.edu/BHL/display_IAmultivol.php?titleID=memoirsofnationaXXnati> <http://www.w3.org/2000/01/rdf-schema#comment> "Online version - Internet Archive" .
+<http://experiment.worldcat.org/entity/work/data/475287060#Agent/united_states_government_printing_office> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bibliograph.net/Agent> .
+<http://experiment.worldcat.org/entity/work/data/475287060#Agent/united_states_government_printing_office> <http://schema.org/name> "United States Government Printing Office" .
+<https://archive.org/details/memoirsofnationa08nati> <http://www.w3.org/2000/01/rdf-schema#comment> "Free eBook from the Internet Archive" .
+<https://archive.org/details/memoirsofnationa02nati> <http://www.w3.org/2000/01/rdf-schema#comment> "Free eBook from the Internet Archive" .
+<https://archive.org/details/memoirsofnationa13nati> <http://www.w3.org/2000/01/rdf-schema#comment> "Free eBook from the Internet Archive" .
+<https://archive.org/details/memoirsofnationa10nati> <http://www.w3.org/2000/01/rdf-schema#comment> "Free eBook from the Internet Archive" .
+<http://cecelia.whoi.edu/BHL/display_BHLmultivol.php?titleID=memoirsofnationaXXnati> <http://www.w3.org/2000/01/rdf-schema#comment> "Online version - Biodiversity Heritage Library (incl. species name-finding tools)" .
+<https://archive.org/details/memoirsofnationa07nati> <http://www.w3.org/2000/01/rdf-schema#comment> "Free eBook from the Internet Archive" .
+<https://archive.org/details/memoirsofnationa15nati> <http://www.w3.org/2000/01/rdf-schema#comment> "Free eBook from the Internet Archive" .
+<https://archive.org/details/memoirsofnationa23nati> <http://www.w3.org/2000/01/rdf-schema#comment> "Free eBook from the Internet Archive" .
+<https://archive.org/details/memoirsofnationa12nati> <http://www.w3.org/2000/01/rdf-schema#comment> "Free eBook from the Internet Archive" .
+<https://archive.org/details/memoirsofnationa01nati> <http://www.w3.org/2000/01/rdf-schema#comment> "Free eBook from the Internet Archive" .
+<http://www.worldcat.org/oclc/1759015> <http://schema.org/isSimilarTo> <http://www.worldcat.org/oclc/1102687652> .
+<http://www.worldcat.org/oclc/1759015> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://www.worldcat.org/oclc/1759015> <http://www.w3.org/2000/01/rdf-schema#label> "Memoirs of the National Academy of Sciences" .
+<http://www.worldcat.org/oclc/1759015> <http://schema.org/description> "Print version:" .
+<http://www.worldcat.org/oclc/1102687652> <http://schema.org/genre> "Periodical"@en .
+<http://www.worldcat.org/oclc/1102687652> <http://schema.org/url> <http://books.google.com/books?id=cN8-AQAAMAAJ> .
+<http://www.worldcat.org/oclc/1102687652> <http://schema.org/url> <http://www.sil.si.edu/eresources/silpurl.cfm?purl=0885-4637> .
+<http://www.worldcat.org/oclc/1102687652> <http://schema.org/name> "Memoirs of the National Academy of Sciences"@en .
+<http://www.worldcat.org/oclc/1102687652> <http://schema.org/about> <http://dewey.info/class/505/a11/> .
+<http://www.worldcat.org/oclc/1102687652> <http://schema.org/url> <https://archive.org/details/memoirsofnationa19nati> .
+<http://www.worldcat.org/oclc/1102687652> <http://schema.org/url> <https://archive.org/details/memoirsofnationa17nati> .
+<http://www.worldcat.org/oclc/1102687652> <http://schema.org/isSimilarTo> <http://www.worldcat.org/oclc/1759015> .
+<http://www.worldcat.org/oclc/1102687652> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/MediaObject> .
+<http://www.worldcat.org/oclc/1102687652> <http://schema.org/url> <https://archive.org/details/memoirsofnationa21nati> .
+<http://www.worldcat.org/oclc/1102687652> <http://schema.org/url> <https://archive.org/details/memoirsofnationa10nati> .
+<http://www.worldcat.org/oclc/1102687652> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://www.worldcat.org/oclc/1102687652> <http://schema.org/url> <https://archive.org/details/memoirsofnationa09nati> .
+<http://www.worldcat.org/oclc/1102687652> <http://schema.org/url> <https://archive.org/details/memoirsofnationa07nati> .
+<http://www.worldcat.org/oclc/1102687652> <http://schema.org/url> <http://books.google.com/books?id=ZeVXAAAAMAAJ> .
+<http://www.worldcat.org/oclc/1102687652> <http://schema.org/url> <https://archive.org/details/memoirsofnationa11nati> .
+<http://www.worldcat.org/oclc/1102687652> <http://schema.org/productID> "1102687652" .
+<http://www.worldcat.org/oclc/1102687652> <http://schema.org/datePublished> "1866/1941" .
+<http://www.worldcat.org/oclc/1102687652> <http://schema.org/url> <http://books.google.com/books?id=7OqwGy4KUMoC> .
+<http://www.worldcat.org/oclc/1102687652> <http://schema.org/url> <https://archive.org/details/memoirsofnationa02nati> .
+<http://www.worldcat.org/oclc/1102687652> <http://schema.org/genre> "Periodicals"@en .
+<http://www.worldcat.org/oclc/1102687652> <http://schema.org/inLanguage> "en" .
+<http://www.worldcat.org/oclc/1102687652> <http://schema.org/url> <https://archive.org/details/memoirsofnationa01nati> .
+<http://www.worldcat.org/oclc/1102687652> <http://purl.org/library/oclcnum> "1102687652" .
+<http://www.worldcat.org/oclc/1102687652> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://www.worldcat.org/oclc/1102687652> <http://schema.org/url> <https://archive.org/details/memoirsofnationa11191nati> .
+<http://www.worldcat.org/oclc/1102687652> <http://schema.org/url> <https://archive.org/details/memoirsofnationa06nati> .
+<http://www.worldcat.org/oclc/1102687652> <http://schema.org/genre> "Government publication"@en .
+<http://www.worldcat.org/oclc/1102687652> <http://schema.org/url> <http://cecelia.whoi.edu/BHL/display_IAmultivol.php?titleID=memoirsofnationaXXnati> .
+<http://www.worldcat.org/oclc/1102687652> <http://www.w3.org/2007/05/powder-s#describedby> <http://www.worldcat.org/title/-/oclc/1102687652> .
+<http://www.worldcat.org/oclc/1102687652> <http://schema.org/exampleOfWork> <http://worldcat.org/entity/work/id/475287060> .
+<http://www.worldcat.org/oclc/1102687652> <http://schema.org/publisher> <http://experiment.worldcat.org/entity/work/data/475287060#Agent/united_states_government_printing_office> .
+<http://www.worldcat.org/oclc/1102687652> <http://schema.org/url> <https://archive.org/details/memoirsofnationa12nati> .
+<http://www.worldcat.org/oclc/1102687652> <http://schema.org/url> <https://archive.org/details/memoirsofnationa03nati> .
+<http://www.worldcat.org/oclc/1102687652> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/475287060#Topic/science> .
+<http://www.worldcat.org/oclc/1102687652> <http://schema.org/url> <http://www.biodiversitylibrary.org/bibliography/7008> .
+<http://www.worldcat.org/oclc/1102687652> <http://schema.org/url> <https://archive.org/details/memoirsofnationa15nati> .
+<http://www.worldcat.org/oclc/1102687652> <http://schema.org/publication> <http://www.worldcat.org/title/-/oclc/1102687652#PublicationEvent/washington_d_c_united_states_government_printing_office_1866_1941> .
+<http://www.worldcat.org/oclc/1102687652> <http://schema.org/genre> "National government publication"@en .
+<http://www.worldcat.org/oclc/1102687652> <http://schema.org/url> <https://archive.org/details/memoirsofnationa14nati> .
+<http://www.worldcat.org/oclc/1102687652> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/475287060#Topic/natuurwetenschappen> .
+<http://www.worldcat.org/oclc/1102687652> <http://schema.org/url> <http://cecelia.whoi.edu/BHL/display_BHLmultivol.php?titleID=memoirsofnationaXXnati> .
+<http://www.worldcat.org/oclc/1102687652> <http://schema.org/url> <https://archive.org/details/memoirsofnationa13nati> .
+<http://www.worldcat.org/oclc/1102687652> <http://purl.org/library/placeOfPublication> <http://experiment.worldcat.org/entity/work/data/475287060#Place/washington_d_c> .
+<http://www.worldcat.org/oclc/1102687652> <http://schema.org/url> <http://books.google.com/books?id=TQ9LAAAAYAAJ> .
+<http://www.worldcat.org/oclc/1102687652> <http://purl.org/library/placeOfPublication> <http://id.loc.gov/vocabulary/countries/dcu> .
+<http://www.worldcat.org/oclc/1102687652> <http://schema.org/url> <https://archive.org/details/memoirsofnationa23nati> .
+<http://www.worldcat.org/oclc/1102687652> <http://schema.org/url> <https://archive.org/details/memoirsofnationa08nati> .
+<http://www.worldcat.org/oclc/1102687652> <http://schema.org/contributor> <http://experiment.worldcat.org/entity/work/data/475287060#Organization/national_academy_of_sciences_u_s> .
+<http://www.worldcat.org/oclc/1102687652> <http://schema.org/url> <http://books.google.com/books?id=kfAqZUCgza8C> .
+<http://id.loc.gov/vocabulary/countries/dcu> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://id.loc.gov/vocabulary/countries/dcu> <http://purl.org/dc/terms/identifier> "dcu" .
+<https://archive.org/details/memoirsofnationa11191nati> <http://www.w3.org/2000/01/rdf-schema#comment> "Free eBook from the Internet Archive" .
+<http://experiment.worldcat.org/entity/work/data/475287060#Topic/natuurwetenschappen> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/475287060#Topic/natuurwetenschappen> <http://schema.org/name> "Natuurwetenschappen"@en .
+<http://www.worldcat.org/title/-/oclc/1102687652> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#ContentTypeGenericResource> .
+<http://www.worldcat.org/title/-/oclc/1102687652> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#InformationResource> .
+<http://www.worldcat.org/title/-/oclc/1102687652> <http://schema.org/about> <http://www.worldcat.org/oclc/1102687652> .
+<http://www.worldcat.org/title/-/oclc/1102687652> <http://schema.org/dateModified> "2019-07-15" .
+<http://www.worldcat.org/title/-/oclc/1102687652> <http://rdfs.org/ns/void#inDataset> <http://purl.oclc.org/dataset/WorldCat> .

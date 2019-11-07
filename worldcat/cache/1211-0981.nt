@@ -1,0 +1,54 @@
+<http://experiment.worldcat.org/entity/work/data/1007124315#Place/prague> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://experiment.worldcat.org/entity/work/data/1007124315#Place/prague> <http://schema.org/name> "Prague" .
+<http://experiment.worldcat.org/entity/work/data/1007124315#Thing/eumycota_mycologie> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> .
+<http://experiment.worldcat.org/entity/work/data/1007124315#Thing/eumycota_mycologie> <http://schema.org/name> "EUMYCOTA (MYCOLOGIE)" .
+<http://viaf.org/viaf/159736740> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+<http://viaf.org/viaf/159736740> <http://schema.org/name> "Ceská Vědecká Společnost pro Mykologii." .
+<http://experiment.worldcat.org/entity/work/data/1007124315#Thing/mycology> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> .
+<http://experiment.worldcat.org/entity/work/data/1007124315#Thing/mycology> <http://schema.org/name> "MYCOLOGY" .
+<http://worldcat.org/issn/1211-0981> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://worldcat.org/issn/1211-0981> <http://schema.org/name> "Czech mycology : publication of the Czech Scientific Society for Mycology." .
+<http://worldcat.org/issn/1211-0981> <http://schema.org/issn> "1211-0981" .
+<http://worldcat.org/issn/1211-0981> <http://umbel.org/umbel#isLike> <http://worldcat.org/entity/work/id/1007124315> .
+<http://experiment.worldcat.org/entity/work/data/1007124315#Thing/mykologie> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> .
+<http://experiment.worldcat.org/entity/work/data/1007124315#Thing/mykologie> <http://schema.org/name> "MYKOLOGIE" .
+<http://experiment.worldcat.org/entity/work/data/1007124315#Agent/the_czech_scientific_society_for_mycology> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bibliograph.net/Agent> .
+<http://experiment.worldcat.org/entity/work/data/1007124315#Agent/the_czech_scientific_society_for_mycology> <http://schema.org/name> "The Czech Scientific Society for Mycology." .
+<http://experiment.worldcat.org/entity/work/data/1007124315#Thing/eumycota_mycology> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> .
+<http://experiment.worldcat.org/entity/work/data/1007124315#Thing/eumycota_mycology> <http://schema.org/name> "EUMYCOTA (MYCOLOGY)" .
+<http://id.loc.gov/vocabulary/countries/xr> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://id.loc.gov/vocabulary/countries/xr> <http://purl.org/dc/terms/identifier> "xr" .
+<http://experiment.worldcat.org/entity/work/data/1007124315#Thing/eumycota_mykologie> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> .
+<http://experiment.worldcat.org/entity/work/data/1007124315#Thing/eumycota_mykologie> <http://schema.org/name> "EUMYCOTA (MYKOLOGIE)" .
+<http://www.worldcat.org/title/-/oclc/637520140> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#ContentTypeGenericResource> .
+<http://www.worldcat.org/title/-/oclc/637520140> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#InformationResource> .
+<http://www.worldcat.org/title/-/oclc/637520140> <http://schema.org/about> <http://www.worldcat.org/oclc/637520140> .
+<http://www.worldcat.org/title/-/oclc/637520140> <http://schema.org/dateModified> "2018-11-08" .
+<http://www.worldcat.org/title/-/oclc/637520140> <http://rdfs.org/ns/void#inDataset> <http://purl.oclc.org/dataset/WorldCat> .
+<http://www.worldcat.org/title/-/oclc/637520140#PublicationEvent/prague_the_czech_scientific_society_for_mycology> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PublicationEvent> .
+<http://www.worldcat.org/title/-/oclc/637520140#PublicationEvent/prague_the_czech_scientific_society_for_mycology> <http://schema.org/location> <http://experiment.worldcat.org/entity/work/data/1007124315#Place/prague> .
+<http://www.worldcat.org/title/-/oclc/637520140#PublicationEvent/prague_the_czech_scientific_society_for_mycology> <http://schema.org/organizer> <http://experiment.worldcat.org/entity/work/data/1007124315#Agent/the_czech_scientific_society_for_mycology> .
+<http://experiment.worldcat.org/entity/work/data/1007124315#Thing/mycologie> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> .
+<http://experiment.worldcat.org/entity/work/data/1007124315#Thing/mycologie> <http://schema.org/name> "MYCOLOGIE" .
+<http://worldcat.org/entity/work/id/1007124315> <http://umbel.org/umbel#isLike> <http://worldcat.org/issn/1211-0981> .
+<http://www.worldcat.org/oclc/637520140> <http://www.w3.org/2007/05/powder-s#describedby> <http://www.worldcat.org/title/-/oclc/637520140> .
+<http://www.worldcat.org/oclc/637520140> <http://purl.org/library/placeOfPublication> <http://experiment.worldcat.org/entity/work/data/1007124315#Place/prague> .
+<http://www.worldcat.org/oclc/637520140> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/1007124315#Thing/eumycota_mycology> .
+<http://www.worldcat.org/oclc/637520140> <http://schema.org/workExample> <http://worldcat.org/issn/1211-0981> .
+<http://www.worldcat.org/oclc/637520140> <http://schema.org/exampleOfWork> <http://worldcat.org/entity/work/id/1007124315> .
+<http://www.worldcat.org/oclc/637520140> <http://schema.org/datePublished> "1993/9999" .
+<http://www.worldcat.org/oclc/637520140> <http://purl.org/library/oclcnum> "637520140" .
+<http://www.worldcat.org/oclc/637520140> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/1007124315#Thing/eumycota_mycologie> .
+<http://www.worldcat.org/oclc/637520140> <http://purl.org/library/placeOfPublication> <http://id.loc.gov/vocabulary/countries/xr> .
+<http://www.worldcat.org/oclc/637520140> <http://schema.org/publication> <http://www.worldcat.org/title/-/oclc/637520140#PublicationEvent/prague_the_czech_scientific_society_for_mycology> .
+<http://www.worldcat.org/oclc/637520140> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/1007124315#Thing/mycology> .
+<http://www.worldcat.org/oclc/637520140> <http://schema.org/publisher> <http://experiment.worldcat.org/entity/work/data/1007124315#Agent/the_czech_scientific_society_for_mycology> .
+<http://www.worldcat.org/oclc/637520140> <http://schema.org/inLanguage> "en" .
+<http://www.worldcat.org/oclc/637520140> <http://schema.org/contributor> <http://viaf.org/viaf/159736740> .
+<http://www.worldcat.org/oclc/637520140> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/1007124315#Thing/eumycota_mykologie> .
+<http://www.worldcat.org/oclc/637520140> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://www.worldcat.org/oclc/637520140> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://www.worldcat.org/oclc/637520140> <http://schema.org/name> "Czech mycology : publication of the Czech Scientific Society for Mycology." .
+<http://www.worldcat.org/oclc/637520140> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/1007124315#Thing/mykologie> .
+<http://www.worldcat.org/oclc/637520140> <http://schema.org/productID> "637520140" .
+<http://www.worldcat.org/oclc/637520140> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/1007124315#Thing/mycologie> .

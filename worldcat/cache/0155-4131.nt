@@ -1,0 +1,61 @@
+<http://experiment.worldcat.org/entity/work/data/59627731#Agent/queensland_herbarium_dept_of_primary_industries> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bibliograph.net/Agent> .
+<http://experiment.worldcat.org/entity/work/data/59627731#Agent/queensland_herbarium_dept_of_primary_industries> <http://schema.org/name> "Queensland Herbarium, Dept. of Primary Industries." .
+<http://id.worldcat.org/fast/836869> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://id.worldcat.org/fast/836869> <http://schema.org/name> "Botany"@en .
+<http://www.worldcat.org/oclc/3785959> <http://www.w3.org/2000/01/rdf-schema#comment> "Unknown 'gen' value: sgp" .
+<http://www.worldcat.org/oclc/3785959> <http://schema.org/genre> "Government publication"@en .
+<http://www.worldcat.org/oclc/3785959> <http://schema.org/name> "Contributions from the Queensland Herbarium."@en .
+<http://www.worldcat.org/oclc/3785959> <http://schema.org/about> <http://id.worldcat.org/fast/836869> .
+<http://www.worldcat.org/oclc/3785959> <http://www.w3.org/2007/05/powder-s#describedby> <http://www.worldcat.org/title/-/oclc/3785959> .
+<http://www.worldcat.org/oclc/3785959> <http://purl.org/library/placeOfPublication> <http://experiment.worldcat.org/entity/work/data/59627731#Place/brisbane> .
+<http://www.worldcat.org/oclc/3785959> <http://schema.org/publication> <http://www.worldcat.org/title/-/oclc/3785959#PublicationEvent/brisbane_queensland_herbarium_dept_of_primary_industries> .
+<http://www.worldcat.org/oclc/3785959> <http://schema.org/creator> <http://viaf.org/viaf/137736392> .
+<http://www.worldcat.org/oclc/3785959> <http://schema.org/publisher> <http://experiment.worldcat.org/entity/work/data/59627731#Agent/queensland_herbarium_dept_of_primary_industries> .
+<http://www.worldcat.org/oclc/3785959> <http://schema.org/url> <http://www.jstor.org/action/showPublication?journalCode=contqeuuherb> .
+<http://www.worldcat.org/oclc/3785959> <http://purl.org/library/oclcnum> "3785959" .
+<http://www.worldcat.org/oclc/3785959> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://www.worldcat.org/oclc/3785959> <http://schema.org/datePublished> "1968/1977" .
+<http://www.worldcat.org/oclc/3785959> <http://schema.org/exampleOfWork> <http://worldcat.org/entity/work/id/59627731> .
+<http://www.worldcat.org/oclc/3785959> <http://schema.org/about> <http://id.worldcat.org/fast/1204261> .
+<http://www.worldcat.org/oclc/3785959> <http://schema.org/about> <http://dewey.info/class/581.9943/> .
+<http://www.worldcat.org/oclc/3785959> <http://schema.org/inLanguage> "en" .
+<http://www.worldcat.org/oclc/3785959> <http://schema.org/productID> "3785959" .
+<http://www.worldcat.org/oclc/3785959> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/59627731#Topic/botany_australia_queensland> .
+<http://www.worldcat.org/oclc/3785959> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bibliograph.net/PublicationSeries> .
+<http://www.worldcat.org/oclc/3785959> <http://umbel.org/umbel#isLike> <http://d-nb.info/01510432X> .
+<http://www.worldcat.org/oclc/3785959> <http://schema.org/workExample> <http://worldcat.org/issn/0155-4131> .
+<http://www.worldcat.org/oclc/3785959> <http://purl.org/library/placeOfPublication> <http://id.loc.gov/vocabulary/countries/qea> .
+<http://www.worldcat.org/oclc/3785959> <http://schema.org/contributor> <http://viaf.org/viaf/299915958> .
+<http://www.worldcat.org/oclc/3785959> <http://schema.org/isSimilarTo> <http://www.worldcat.org/oclc/690993629> .
+<http://www.worldcat.org/oclc/3785959> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://www.worldcat.org/title/-/oclc/3785959#PublicationEvent/brisbane_queensland_herbarium_dept_of_primary_industries> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PublicationEvent> .
+<http://www.worldcat.org/title/-/oclc/3785959#PublicationEvent/brisbane_queensland_herbarium_dept_of_primary_industries> <http://schema.org/location> <http://experiment.worldcat.org/entity/work/data/59627731#Place/brisbane> .
+<http://www.worldcat.org/title/-/oclc/3785959#PublicationEvent/brisbane_queensland_herbarium_dept_of_primary_industries> <http://schema.org/organizer> <http://experiment.worldcat.org/entity/work/data/59627731#Agent/queensland_herbarium_dept_of_primary_industries> .
+<http://id.loc.gov/vocabulary/countries/qea> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://id.loc.gov/vocabulary/countries/qea> <http://purl.org/dc/terms/identifier> "qea" .
+<http://experiment.worldcat.org/entity/work/data/59627731#Topic/botany_australia_queensland> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/59627731#Topic/botany_australia_queensland> <http://schema.org/hasPart> <http://id.loc.gov/authorities/subjects/sh2009117441> .
+<http://experiment.worldcat.org/entity/work/data/59627731#Topic/botany_australia_queensland> <http://schema.org/name> "Botany--Australia--Queensland"@en .
+<http://www.worldcat.org/oclc/690993629> <http://schema.org/isSimilarTo> <http://www.worldcat.org/oclc/3785959> .
+<http://www.worldcat.org/oclc/690993629> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://www.worldcat.org/oclc/690993629> <http://www.w3.org/2000/01/rdf-schema#label> "Contributions from the Queensland Herbarium" .
+<http://www.worldcat.org/oclc/690993629> <http://schema.org/description> "Online version:" .
+<http://dewey.info/class/581.9943/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/59627731#Place/brisbane> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://experiment.worldcat.org/entity/work/data/59627731#Place/brisbane> <http://schema.org/name> "Brisbane" .
+<http://www.worldcat.org/title/-/oclc/3785959> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#ContentTypeGenericResource> .
+<http://www.worldcat.org/title/-/oclc/3785959> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#InformationResource> .
+<http://www.worldcat.org/title/-/oclc/3785959> <http://schema.org/about> <http://www.worldcat.org/oclc/3785959> .
+<http://www.worldcat.org/title/-/oclc/3785959> <http://schema.org/dateModified> "2018-11-23" .
+<http://www.worldcat.org/title/-/oclc/3785959> <http://rdfs.org/ns/void#inDataset> <http://purl.oclc.org/dataset/WorldCat> .
+<http://viaf.org/viaf/299915958> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+<http://viaf.org/viaf/299915958> <http://schema.org/name> "Queensland. Department of Primary Industries. Botany Section." .
+<http://viaf.org/viaf/137736392> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+<http://viaf.org/viaf/137736392> <http://schema.org/name> "Queensland Herbarium." .
+<http://id.worldcat.org/fast/1204261> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://id.worldcat.org/fast/1204261> <http://schema.org/name> "Queensland." .
+<http://worldcat.org/issn/0155-4131> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://worldcat.org/issn/0155-4131> <http://schema.org/name> "Contributions from the Queensland Herbarium."@en .
+<http://worldcat.org/issn/0155-4131> <http://schema.org/issn> "0155-4131" .
+<http://worldcat.org/issn/0155-4131> <http://umbel.org/umbel#isLike> <http://worldcat.org/entity/work/id/59627731> .
+<http://worldcat.org/entity/work/id/59627731> <http://umbel.org/umbel#isLike> <http://worldcat.org/issn/0155-4131> .

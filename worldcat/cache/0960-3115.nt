@@ -1,0 +1,38 @@
+<http://www.worldcat.org/title/-/oclc/1078056000#PublicationEvent/andover_hants_united_kingdom_chapman_&_hall> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PublicationEvent> .
+<http://www.worldcat.org/title/-/oclc/1078056000#PublicationEvent/andover_hants_united_kingdom_chapman_&_hall> <http://schema.org/location> <http://experiment.worldcat.org/entity/work/data/5603092559#Place/andover_hants_united_kingdom> .
+<http://www.worldcat.org/title/-/oclc/1078056000#PublicationEvent/andover_hants_united_kingdom_chapman_&_hall> <http://schema.org/organizer> <http://experiment.worldcat.org/entity/work/data/5603092559#Agent/chapman_&_hall> .
+<http://www.worldcat.org/oclc/1078056000> <http://schema.org/url> <http://www.library.yorku.ca/eresolver/?id=55349> .
+<http://www.worldcat.org/oclc/1078056000> <http://schema.org/contributor> <http://experiment.worldcat.org/entity/work/data/5603092559#Organization/kluwer_journals_york_university> .
+<http://www.worldcat.org/oclc/1078056000> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://www.worldcat.org/oclc/1078056000> <http://schema.org/exampleOfWork> <http://worldcat.org/entity/work/id/5603092559> .
+<http://www.worldcat.org/oclc/1078056000> <http://schema.org/inLanguage> "en" .
+<http://www.worldcat.org/oclc/1078056000> <http://schema.org/productID> "1078056000" .
+<http://www.worldcat.org/oclc/1078056000> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/5603092559#Topic/biodiversity_conservation> .
+<http://www.worldcat.org/oclc/1078056000> <http://schema.org/genre> "Periodicals"@en .
+<http://www.worldcat.org/oclc/1078056000> <http://purl.org/library/oclcnum> "1078056000" .
+<http://www.worldcat.org/oclc/1078056000> <http://schema.org/name> "Biodiversity and conservation"@en .
+<http://www.worldcat.org/oclc/1078056000> <http://schema.org/datePublished> "199u/9999" .
+<http://www.worldcat.org/oclc/1078056000> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://www.worldcat.org/oclc/1078056000> <http://schema.org/about> <http://dewey.info/class/333.95/> .
+<http://www.worldcat.org/oclc/1078056000> <http://purl.org/library/placeOfPublication> <http://id.loc.gov/vocabulary/countries/enk> .
+<http://www.worldcat.org/oclc/1078056000> <http://schema.org/publication> <http://www.worldcat.org/title/-/oclc/1078056000#PublicationEvent/andover_hants_united_kingdom_chapman_&_hall> .
+<http://www.worldcat.org/oclc/1078056000> <http://schema.org/publisher> <http://experiment.worldcat.org/entity/work/data/5603092559#Agent/chapman_&_hall> .
+<http://www.worldcat.org/oclc/1078056000> <http://www.w3.org/2007/05/powder-s#describedby> <http://www.worldcat.org/title/-/oclc/1078056000> .
+<http://www.worldcat.org/oclc/1078056000> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/MediaObject> .
+<http://www.worldcat.org/oclc/1078056000> <http://purl.org/library/placeOfPublication> <http://experiment.worldcat.org/entity/work/data/5603092559#Place/andover_hants_united_kingdom> .
+<http://www.worldcat.org/title/-/oclc/1078056000> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#ContentTypeGenericResource> .
+<http://www.worldcat.org/title/-/oclc/1078056000> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#InformationResource> .
+<http://www.worldcat.org/title/-/oclc/1078056000> <http://schema.org/about> <http://www.worldcat.org/oclc/1078056000> .
+<http://www.worldcat.org/title/-/oclc/1078056000> <http://schema.org/dateModified> "2019-02-09" .
+<http://www.worldcat.org/title/-/oclc/1078056000> <http://rdfs.org/ns/void#inDataset> <http://purl.oclc.org/dataset/WorldCat> .
+<http://id.loc.gov/vocabulary/countries/enk> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://id.loc.gov/vocabulary/countries/enk> <http://purl.org/dc/terms/identifier> "enk" .
+<http://experiment.worldcat.org/entity/work/data/5603092559#Organization/kluwer_journals_york_university> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+<http://experiment.worldcat.org/entity/work/data/5603092559#Organization/kluwer_journals_york_university> <http://schema.org/name> "Kluwer Journals - York University." .
+<http://dewey.info/class/333.95/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/5603092559#Agent/chapman_&_hall> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bibliograph.net/Agent> .
+<http://experiment.worldcat.org/entity/work/data/5603092559#Agent/chapman_&_hall> <http://schema.org/name> "Chapman & Hall." .
+<http://experiment.worldcat.org/entity/work/data/5603092559#Place/andover_hants_united_kingdom> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://experiment.worldcat.org/entity/work/data/5603092559#Place/andover_hants_united_kingdom> <http://schema.org/name> "Andover, Hants, United Kingdom" .
+<http://experiment.worldcat.org/entity/work/data/5603092559#Topic/biodiversity_conservation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/5603092559#Topic/biodiversity_conservation> <http://schema.org/name> "Biodiversity conservation"@en .

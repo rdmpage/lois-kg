@@ -1,0 +1,47 @@
+<http://worldcat.org/entity/work/id/52523000> <http://umbel.org/umbel#isLike> <http://worldcat.org/issn/1303-6106> .
+<http://worldcat.org/entity/work/id/52523000> <http://umbel.org/umbel#isLike> <http://worldcat.org/issn/1300-008X> .
+<http://www.worldcat.org/oclc/909890311> <http://www.w3.org/2007/05/powder-s#describedby> <http://www.worldcat.org/title/-/oclc/909890311> .
+<http://www.worldcat.org/oclc/909890311> <http://purl.org/library/oclcnum> "909890311" .
+<http://www.worldcat.org/oclc/909890311> <http://schema.org/workExample> <http://worldcat.org/issn/1300-008X> .
+<http://www.worldcat.org/oclc/909890311> <http://schema.org/publication> <http://www.worldcat.org/title/-/oclc/909890311#PublicationEvent/scientific_and_technical_research_council_of_turkey_1998> .
+<http://www.worldcat.org/oclc/909890311> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://www.worldcat.org/oclc/909890311> <http://schema.org/publisher> <http://experiment.worldcat.org/entity/work/data/52523000#Agent/scientific_and_technical_research_council_of_turkey> .
+<http://www.worldcat.org/oclc/909890311> <http://schema.org/workExample> <http://worldcat.org/issn/1303-6106> .
+<http://www.worldcat.org/oclc/909890311> <http://schema.org/name> "Turkish Journal of Botany" .
+<http://www.worldcat.org/oclc/909890311> <http://purl.org/library/placeOfPublication> <http://id.loc.gov/vocabulary/countries/tu> .
+<http://www.worldcat.org/oclc/909890311> <http://schema.org/exampleOfWork> <http://worldcat.org/entity/work/id/52523000> .
+<http://www.worldcat.org/oclc/909890311> <http://schema.org/inLanguage> "en" .
+<http://www.worldcat.org/oclc/909890311> <http://schema.org/productID> "909890311" .
+<http://www.worldcat.org/oclc/909890311> <http://schema.org/isPartOf> <http://experiment.worldcat.org/entity/work/data/52523000#Series/directory_of_open_access_journals> .
+<http://www.worldcat.org/oclc/909890311> <http://schema.org/datePublished> "1998/9999" .
+<http://www.worldcat.org/oclc/909890311> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/52523000#Thing/novenytan> .
+<http://www.worldcat.org/oclc/909890311> <http://schema.org/datePublished> "1998/" .
+<http://www.worldcat.org/oclc/909890311> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://www.worldcat.org/oclc/909890311> <http://schema.org/url> <http://journals.tubitak.gov.tr/botany/index.php> .
+<http://id.loc.gov/vocabulary/countries/tu> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://id.loc.gov/vocabulary/countries/tu> <http://purl.org/dc/terms/identifier> "tu" .
+<http://experiment.worldcat.org/entity/work/data/52523000#Thing/novenytan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> .
+<http://experiment.worldcat.org/entity/work/data/52523000#Thing/novenytan> <http://schema.org/name> "Növénytan" .
+<http://experiment.worldcat.org/entity/work/data/52523000#Series/directory_of_open_access_journals> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bibliograph.net/PublicationSeries> .
+<http://experiment.worldcat.org/entity/work/data/52523000#Series/directory_of_open_access_journals> <http://schema.org/hasPart> <http://www.worldcat.org/oclc/909890311> .
+<http://experiment.worldcat.org/entity/work/data/52523000#Series/directory_of_open_access_journals> <http://schema.org/name> "Directory of Open Access Journals ;" .
+<http://experiment.worldcat.org/entity/work/data/52523000#Series/directory_of_open_access_journals> <http://schema.org/name> "Directory of Open Access Journals." .
+<http://worldcat.org/issn/1300-008X> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://worldcat.org/issn/1300-008X> <http://schema.org/name> "Turkish Journal of Botany" .
+<http://worldcat.org/issn/1300-008X> <http://schema.org/issn> "1300-008X" .
+<http://worldcat.org/issn/1300-008X> <http://umbel.org/umbel#isLike> <http://worldcat.org/entity/work/id/52523000> .
+<http://experiment.worldcat.org/entity/work/data/52523000#Agent/scientific_and_technical_research_council_of_turkey> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bibliograph.net/Agent> .
+<http://experiment.worldcat.org/entity/work/data/52523000#Agent/scientific_and_technical_research_council_of_turkey> <http://schema.org/name> "Scientific and Technical Research Council of Turkey" .
+<http://journals.tubitak.gov.tr/botany/index.php> <http://www.w3.org/2000/01/rdf-schema#comment> "Full text: 1998-" .
+<http://worldcat.org/issn/1303-6106> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://worldcat.org/issn/1303-6106> <http://schema.org/name> "Turkish Journal of Botany" .
+<http://worldcat.org/issn/1303-6106> <http://schema.org/issn> "1303-6106" .
+<http://worldcat.org/issn/1303-6106> <http://umbel.org/umbel#isLike> <http://worldcat.org/entity/work/id/52523000> .
+<http://www.worldcat.org/title/-/oclc/909890311> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#ContentTypeGenericResource> .
+<http://www.worldcat.org/title/-/oclc/909890311> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#InformationResource> .
+<http://www.worldcat.org/title/-/oclc/909890311> <http://schema.org/about> <http://www.worldcat.org/oclc/909890311> .
+<http://www.worldcat.org/title/-/oclc/909890311> <http://schema.org/dateModified> "2018-11-08" .
+<http://www.worldcat.org/title/-/oclc/909890311> <http://rdfs.org/ns/void#inDataset> <http://purl.oclc.org/dataset/WorldCat> .
+<http://www.worldcat.org/title/-/oclc/909890311#PublicationEvent/scientific_and_technical_research_council_of_turkey_1998> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PublicationEvent> .
+<http://www.worldcat.org/title/-/oclc/909890311#PublicationEvent/scientific_and_technical_research_council_of_turkey_1998> <http://schema.org/organizer> <http://experiment.worldcat.org/entity/work/data/52523000#Agent/scientific_and_technical_research_council_of_turkey> .
+<http://www.worldcat.org/title/-/oclc/909890311#PublicationEvent/scientific_and_technical_research_council_of_turkey_1998> <http://schema.org/startDate> "1998-" .

@@ -1,0 +1,38 @@
+<http://experiment.worldcat.org/entity/work/data/9093737472#Organization/royal_asiatic_society_of_great_britain_and_ireland_straits_branch> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+<http://experiment.worldcat.org/entity/work/data/9093737472#Organization/royal_asiatic_society_of_great_britain_and_ireland_straits_branch> <http://schema.org/name> "Royal Asiatic Society of Great Britain and Ireland. Straits Branch." .
+<http://experiment.worldcat.org/entity/work/data/9093737472#Organization/royal_asiatic_society_of_great_britain_and_ireland_straits_branch> <http://schema.org/sameAs> <http://d-nb.info/gnd/1088229778> .
+<http://id.loc.gov/vocabulary/countries/xxk> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://id.loc.gov/vocabulary/countries/xxk> <http://purl.org/dc/terms/identifier> "xxk" .
+<http://www.worldcat.org/oclc/960787984> <http://schema.org/workExample> <http://worldcat.org/issn/2304-7534> .
+<http://www.worldcat.org/oclc/960787984> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://www.worldcat.org/oclc/960787984> <http://purl.org/library/oclcnum> "960787984" .
+<http://www.worldcat.org/oclc/960787984> <http://schema.org/genre> "Zeitschrift" .
+<http://www.worldcat.org/oclc/960787984> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://www.worldcat.org/oclc/960787984> <http://schema.org/exampleOfWork> <http://worldcat.org/entity/work/id/9093737472> .
+<http://www.worldcat.org/oclc/960787984> <http://schema.org/genre> "Online-Ressource" .
+<http://www.worldcat.org/oclc/960787984> <http://schema.org/isSimilarTo> <http://worldcat.org/entity/work/data/9093737472#CreativeWork/journal_of_the_straits_branch_of_the_royal_asiatic_society> .
+<http://www.worldcat.org/oclc/960787984> <http://schema.org/url> <http://sfx.metabib.ch/sfx_locater?sid=ALEPH:DSV01&issn=2304-7534> .
+<http://www.worldcat.org/oclc/960787984> <http://schema.org/datePublished> "1878/1922" .
+<http://www.worldcat.org/oclc/960787984> <http://schema.org/contributor> <http://experiment.worldcat.org/entity/work/data/9093737472#Organization/royal_asiatic_society_of_great_britain_and_ireland_straits_branch> .
+<http://www.worldcat.org/oclc/960787984> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/MediaObject> .
+<http://www.worldcat.org/oclc/960787984> <http://schema.org/productID> "960787984" .
+<http://www.worldcat.org/oclc/960787984> <http://www.w3.org/2007/05/powder-s#describedby> <http://www.worldcat.org/title/-/oclc/960787984> .
+<http://www.worldcat.org/oclc/960787984> <http://schema.org/inLanguage> "en" .
+<http://www.worldcat.org/oclc/960787984> <http://schema.org/bookEdition> "Repr." .
+<http://www.worldcat.org/oclc/960787984> <http://purl.org/library/placeOfPublication> <http://id.loc.gov/vocabulary/countries/xxk> .
+<http://www.worldcat.org/oclc/960787984> <http://schema.org/name> "Journal of the Straits Branch of the Royal Asiatic Society." .
+<http://www.worldcat.org/title/-/oclc/960787984> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#ContentTypeGenericResource> .
+<http://www.worldcat.org/title/-/oclc/960787984> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#InformationResource> .
+<http://www.worldcat.org/title/-/oclc/960787984> <http://schema.org/about> <http://www.worldcat.org/oclc/960787984> .
+<http://www.worldcat.org/title/-/oclc/960787984> <http://schema.org/dateModified> "2019-06-13" .
+<http://www.worldcat.org/title/-/oclc/960787984> <http://rdfs.org/ns/void#inDataset> <http://purl.oclc.org/dataset/WorldCat> .
+<http://sfx.metabib.ch/sfx_locater?sid=ALEPH:DSV01&issn=2304-7534> <http://www.w3.org/2000/01/rdf-schema#comment> "Onlinezugriff via SFX" .
+<http://worldcat.org/issn/2304-7534> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://worldcat.org/issn/2304-7534> <http://schema.org/name> "Journal of the Straits Branch of the Royal Asiatic Society." .
+<http://worldcat.org/issn/2304-7534> <http://schema.org/issn> "2304-7534" .
+<http://worldcat.org/issn/2304-7534> <http://umbel.org/umbel#isLike> <http://worldcat.org/entity/work/id/9093737472> .
+<http://worldcat.org/entity/work/data/9093737472#CreativeWork/journal_of_the_straits_branch_of_the_royal_asiatic_society> <http://schema.org/isSimilarTo> <http://www.worldcat.org/oclc/960787984> .
+<http://worldcat.org/entity/work/data/9093737472#CreativeWork/journal_of_the_straits_branch_of_the_royal_asiatic_society> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://worldcat.org/entity/work/data/9093737472#CreativeWork/journal_of_the_straits_branch_of_the_royal_asiatic_society> <http://www.w3.org/2000/01/rdf-schema#label> "Journal of the Straits Branch of the Royal Asiatic Society" .
+<http://worldcat.org/entity/work/data/9093737472#CreativeWork/journal_of_the_straits_branch_of_the_royal_asiatic_society> <http://schema.org/description> "Druck-Ausgabe" .
+<http://worldcat.org/entity/work/id/9093737472> <http://umbel.org/umbel#isLike> <http://worldcat.org/issn/2304-7534> .

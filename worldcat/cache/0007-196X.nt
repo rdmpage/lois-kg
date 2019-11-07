@@ -1,0 +1,46 @@
+<http://experiment.worldcat.org/entity/work/data/5470314050#Agent/new_york_botanical_garden> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bibliograph.net/Agent> .
+<http://experiment.worldcat.org/entity/work/data/5470314050#Agent/new_york_botanical_garden> <http://schema.org/name> "New York Botanical Garden" .
+<http://id.loc.gov/vocabulary/countries/nyu> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://id.loc.gov/vocabulary/countries/nyu> <http://purl.org/dc/terms/identifier> "nyu" .
+<http://viaf.org/viaf/125348383> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+<http://viaf.org/viaf/125348383> <http://schema.org/name> "American Society of Plant Taxonomists." .
+<http://www.worldcat.org/title/-/oclc/807371456> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#ContentTypeGenericResource> .
+<http://www.worldcat.org/title/-/oclc/807371456> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#InformationResource> .
+<http://www.worldcat.org/title/-/oclc/807371456> <http://schema.org/about> <http://www.worldcat.org/oclc/807371456> .
+<http://www.worldcat.org/title/-/oclc/807371456> <http://schema.org/dateModified> "2019-10-28" .
+<http://www.worldcat.org/title/-/oclc/807371456> <http://rdfs.org/ns/void#inDataset> <http://purl.oclc.org/dataset/WorldCat> .
+<http://experiment.worldcat.org/entity/work/data/5470314050#Topic/botanica_revistes> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/5470314050#Topic/botanica_revistes> <http://schema.org/name> "Botànica--Revistes" .
+<http://www.bioone.org/perlserv/?request=get-archive&issn=0007-196X> <http://www.w3.org/2000/01/rdf-schema#comment> "Accés restringit als usuaris de la UAB" .
+<http://worldcat.org/issn/0007-196X> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://worldcat.org/issn/0007-196X> <http://schema.org/name> "Brittonia : a journal of sistematic botany." .
+<http://worldcat.org/issn/0007-196X> <http://schema.org/issn> "0007-196X" .
+<http://worldcat.org/issn/0007-196X> <http://umbel.org/umbel#isLike> <http://worldcat.org/entity/work/id/5470314050> .
+<http://www.worldcat.org/oclc/807371456> <http://purl.org/library/oclcnum> "807371456" .
+<http://www.worldcat.org/oclc/807371456> <http://schema.org/contributor> <http://viaf.org/viaf/125348383> .
+<http://www.worldcat.org/oclc/807371456> <http://www.w3.org/2007/05/powder-s#describedby> <http://www.worldcat.org/title/-/oclc/807371456> .
+<http://www.worldcat.org/oclc/807371456> <http://schema.org/name> "Brittonia : a journal of sistematic botany." .
+<http://www.worldcat.org/oclc/807371456> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/5470314050#Topic/botanica_revistes> .
+<http://www.worldcat.org/oclc/807371456> <http://schema.org/exampleOfWork> <http://worldcat.org/entity/work/id/5470314050> .
+<http://www.worldcat.org/oclc/807371456> <http://schema.org/datePublished> "1931/" .
+<http://www.worldcat.org/oclc/807371456> <http://schema.org/datePublished> "1931/9999" .
+<http://www.worldcat.org/oclc/807371456> <http://schema.org/inLanguage> "en" .
+<http://www.worldcat.org/oclc/807371456> <http://purl.org/library/placeOfPublication> <http://id.loc.gov/vocabulary/countries/nyu> .
+<http://www.worldcat.org/oclc/807371456> <http://schema.org/publication> <http://www.worldcat.org/title/-/oclc/807371456#PublicationEvent/new_york_new_york_botanical_garden_1931> .
+<http://www.worldcat.org/oclc/807371456> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://www.worldcat.org/oclc/807371456> <http://schema.org/productID> "807371456" .
+<http://www.worldcat.org/oclc/807371456> <http://purl.org/library/placeOfPublication> <http://dbpedia.org/resource/New_York_City> .
+<http://www.worldcat.org/oclc/807371456> <http://schema.org/contributor> <http://viaf.org/viaf/151262504> .
+<http://www.worldcat.org/oclc/807371456> <http://schema.org/workExample> <http://worldcat.org/issn/0007-196X> .
+<http://www.worldcat.org/oclc/807371456> <http://schema.org/url> <http://www.bioone.org/perlserv/?request=get-archive&issn=0007-196X> .
+<http://www.worldcat.org/oclc/807371456> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://www.worldcat.org/oclc/807371456> <http://schema.org/publisher> <http://experiment.worldcat.org/entity/work/data/5470314050#Agent/new_york_botanical_garden> .
+<http://dbpedia.org/resource/New_York_City> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://dbpedia.org/resource/New_York_City> <http://schema.org/name> "New York" .
+<http://viaf.org/viaf/151262504> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+<http://viaf.org/viaf/151262504> <http://schema.org/name> "New York Botanical Garden." .
+<http://worldcat.org/entity/work/id/5470314050> <http://umbel.org/umbel#isLike> <http://worldcat.org/issn/0007-196X> .
+<http://www.worldcat.org/title/-/oclc/807371456#PublicationEvent/new_york_new_york_botanical_garden_1931> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PublicationEvent> .
+<http://www.worldcat.org/title/-/oclc/807371456#PublicationEvent/new_york_new_york_botanical_garden_1931> <http://schema.org/location> <http://dbpedia.org/resource/New_York_City> .
+<http://www.worldcat.org/title/-/oclc/807371456#PublicationEvent/new_york_new_york_botanical_garden_1931> <http://schema.org/organizer> <http://experiment.worldcat.org/entity/work/data/5470314050#Agent/new_york_botanical_garden> .
+<http://www.worldcat.org/title/-/oclc/807371456#PublicationEvent/new_york_new_york_botanical_garden_1931> <http://schema.org/startDate> "1931-" .

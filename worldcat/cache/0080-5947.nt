@@ -1,0 +1,54 @@
+<http://www.worldcat.org/title/-/oclc/1064428093#PublicationEvent/san_diego_calif_the_society_1905_1989> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PublicationEvent> .
+<http://www.worldcat.org/title/-/oclc/1064428093#PublicationEvent/san_diego_calif_the_society_1905_1989> <http://schema.org/location> <http://experiment.worldcat.org/entity/work/data/2178447#Place/san_diego_calif> .
+<http://www.worldcat.org/title/-/oclc/1064428093#PublicationEvent/san_diego_calif_the_society_1905_1989> <http://schema.org/organizer> <http://experiment.worldcat.org/entity/work/data/2178447#Agent/the_society> .
+<http://www.worldcat.org/title/-/oclc/1064428093#PublicationEvent/san_diego_calif_the_society_1905_1989> <http://schema.org/startDate> "1905-1989" .
+<http://dewey.info/class/508.05/e22/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://www.worldcat.org/oclc/1064428093> <http://purl.org/library/placeOfPublication> <http://id.loc.gov/vocabulary/countries/cau> .
+<http://www.worldcat.org/oclc/1064428093> <http://schema.org/contributor> <http://experiment.worldcat.org/entity/work/data/2178447#Organization/san_diego_society_of_natural_history> .
+<http://www.worldcat.org/oclc/1064428093> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://www.worldcat.org/oclc/1064428093> <http://schema.org/exampleOfWork> <http://worldcat.org/entity/work/id/2178447> .
+<http://www.worldcat.org/oclc/1064428093> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://www.worldcat.org/oclc/1064428093> <http://schema.org/name> "Transactions of the San Diego Society of Natural History."@en .
+<http://www.worldcat.org/oclc/1064428093> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/2178447#Topic/natural_history_mexico_baja_california_peninsula> .
+<http://www.worldcat.org/oclc/1064428093> <http://purl.org/library/placeOfPublication> <http://experiment.worldcat.org/entity/work/data/2178447#Place/san_diego_calif> .
+<http://www.worldcat.org/oclc/1064428093> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/2178447#Topic/natural_history> .
+<http://www.worldcat.org/oclc/1064428093> <http://schema.org/productID> "1064428093" .
+<http://www.worldcat.org/oclc/1064428093> <http://schema.org/publisher> <http://experiment.worldcat.org/entity/work/data/2178447#Agent/the_society> .
+<http://www.worldcat.org/oclc/1064428093> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/2178447#Place/california_san_diego> .
+<http://www.worldcat.org/oclc/1064428093> <http://schema.org/inLanguage> "en" .
+<http://www.worldcat.org/oclc/1064428093> <http://schema.org/workExample> <http://worldcat.org/issn/0080-5947> .
+<http://www.worldcat.org/oclc/1064428093> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/2178447#Place/mexico_baja_california_peninsula> .
+<http://www.worldcat.org/oclc/1064428093> <http://schema.org/about> <http://dewey.info/class/508.05/e22/> .
+<http://www.worldcat.org/oclc/1064428093> <http://schema.org/datePublished> "1905/1989" .
+<http://www.worldcat.org/oclc/1064428093> <http://purl.org/library/oclcnum> "1064428093" .
+<http://www.worldcat.org/oclc/1064428093> <http://schema.org/publication> <http://www.worldcat.org/title/-/oclc/1064428093#PublicationEvent/san_diego_calif_the_society_1905_1989> .
+<http://www.worldcat.org/oclc/1064428093> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/2178447#Topic/natural_history_california_san_diego> .
+<http://www.worldcat.org/oclc/1064428093> <http://www.w3.org/2007/05/powder-s#describedby> <http://www.worldcat.org/title/-/oclc/1064428093> .
+<http://experiment.worldcat.org/entity/work/data/2178447#Place/california_san_diego> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://experiment.worldcat.org/entity/work/data/2178447#Place/california_san_diego> <http://schema.org/name> "California--San Diego." .
+<http://www.worldcat.org/title/-/oclc/1064428093> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#ContentTypeGenericResource> .
+<http://www.worldcat.org/title/-/oclc/1064428093> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#InformationResource> .
+<http://www.worldcat.org/title/-/oclc/1064428093> <http://schema.org/about> <http://www.worldcat.org/oclc/1064428093> .
+<http://www.worldcat.org/title/-/oclc/1064428093> <http://schema.org/dateModified> "2019-02-23" .
+<http://www.worldcat.org/title/-/oclc/1064428093> <http://rdfs.org/ns/void#inDataset> <http://purl.oclc.org/dataset/WorldCat> .
+<http://experiment.worldcat.org/entity/work/data/2178447#Topic/natural_history_mexico_baja_california_peninsula> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/2178447#Topic/natural_history_mexico_baja_california_peninsula> <http://schema.org/name> "Natural history--Mexico--Baja California (Peninsula)"@en .
+<http://experiment.worldcat.org/entity/work/data/2178447#Topic/natural_history_california_san_diego> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/2178447#Topic/natural_history_california_san_diego> <http://schema.org/name> "Natural history--California--San Diego"@en .
+<http://experiment.worldcat.org/entity/work/data/2178447#Organization/san_diego_society_of_natural_history> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+<http://experiment.worldcat.org/entity/work/data/2178447#Organization/san_diego_society_of_natural_history> <http://schema.org/name> "San Diego Society of Natural History." .
+<http://experiment.worldcat.org/entity/work/data/2178447#Agent/the_society> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bibliograph.net/Agent> .
+<http://experiment.worldcat.org/entity/work/data/2178447#Agent/the_society> <http://schema.org/name> "The Society" .
+<http://experiment.worldcat.org/entity/work/data/2178447#Place/mexico_baja_california_peninsula> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://experiment.worldcat.org/entity/work/data/2178447#Place/mexico_baja_california_peninsula> <http://schema.org/name> "Mexico--Baja California (Peninsula)" .
+<http://worldcat.org/issn/0080-5947> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://worldcat.org/issn/0080-5947> <http://schema.org/name> "Transactions of the San Diego Society of Natural History."@en .
+<http://worldcat.org/issn/0080-5947> <http://schema.org/issn> "0080-5947" .
+<http://worldcat.org/issn/0080-5947> <http://umbel.org/umbel#isLike> <http://worldcat.org/entity/work/id/2178447> .
+<http://worldcat.org/entity/work/id/2178447> <http://umbel.org/umbel#isLike> <http://worldcat.org/issn/0080-5947> .
+<http://id.loc.gov/vocabulary/countries/cau> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://id.loc.gov/vocabulary/countries/cau> <http://purl.org/dc/terms/identifier> "cau" .
+<http://experiment.worldcat.org/entity/work/data/2178447#Topic/natural_history> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/2178447#Topic/natural_history> <http://schema.org/name> "Natural history"@en .
+<http://experiment.worldcat.org/entity/work/data/2178447#Place/san_diego_calif> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://experiment.worldcat.org/entity/work/data/2178447#Place/san_diego_calif> <http://schema.org/name> "San Diego, Calif." .

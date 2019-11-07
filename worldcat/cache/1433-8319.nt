@@ -1,0 +1,52 @@
+<http://worldcat.org/entity/work/data/180738837#CreativeWork/perspectives_in_plant_ecology_evolution_and_systematics> <http://schema.org/isSimilarTo> <http://www.worldcat.org/oclc/960785162> .
+<http://worldcat.org/entity/work/data/180738837#CreativeWork/perspectives_in_plant_ecology_evolution_and_systematics> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://worldcat.org/entity/work/data/180738837#CreativeWork/perspectives_in_plant_ecology_evolution_and_systematics> <http://www.w3.org/2000/01/rdf-schema#label> "Perspectives in plant ecology, evolution and systematics" .
+<http://worldcat.org/entity/work/data/180738837#CreativeWork/perspectives_in_plant_ecology_evolution_and_systematics> <http://schema.org/description> "Druck-Ausgabe" .
+<http://experiment.worldcat.org/entity/work/data/180738837#Topic/geobotanik> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/180738837#Topic/geobotanik> <http://schema.org/name> "Geobotanik" .
+<http://sfx.metabib.ch/sfx_locater?sid=ALEPH:DSV01&issn=1433-8319> <http://www.w3.org/2000/01/rdf-schema#comment> "Onlinezugriff via SFX" .
+<http://worldcat.org/issn/1433-8319> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://worldcat.org/issn/1433-8319> <http://schema.org/name> "Perspectives in plant ecology, evolution and systematics" .
+<http://worldcat.org/issn/1433-8319> <http://schema.org/issn> "1433-8319" .
+<http://worldcat.org/issn/1433-8319> <http://umbel.org/umbel#isLike> <http://worldcat.org/entity/work/id/180738837> .
+<http://worldcat.org/entity/work/id/180738837> <http://umbel.org/umbel#isLike> <http://worldcat.org/issn/1433-8319> .
+<http://experiment.worldcat.org/entity/work/data/180738837#Topic/evolution_pflanzen> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/180738837#Topic/evolution_pflanzen> <http://schema.org/name> "Evolution--Pflanzen" .
+<http://experiment.worldcat.org/entity/work/data/180738837#Topic/pflanzen_evolution> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/180738837#Topic/pflanzen_evolution> <http://schema.org/name> "Pflanzen--Evolution" .
+<http://experiment.worldcat.org/entity/work/data/180738837#Organization/eidgenossische_technische_hochschule_zurich_geobotanisches_institut_stiftung_rubel> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+<http://experiment.worldcat.org/entity/work/data/180738837#Organization/eidgenossische_technische_hochschule_zurich_geobotanisches_institut_stiftung_rubel> <http://schema.org/name> "Eidgenössische Technische Hochschule Zürich. Geobotanisches Institut, Stiftung Rübel." .
+<http://experiment.worldcat.org/entity/work/data/180738837#Organization/eidgenossische_technische_hochschule_zurich_geobotanisches_institut_stiftung_rubel> <http://schema.org/sameAs> <http://d-nb.info/gnd/1086432193> .
+<http://www.worldcat.org/oclc/960785162> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/180738837#Topic/pflanzen_evolution> .
+<http://www.worldcat.org/oclc/960785162> <http://schema.org/datePublished> "1998/9999" .
+<http://www.worldcat.org/oclc/960785162> <http://schema.org/url> <http://sfx.metabib.ch/sfx_locater?sid=ALEPH:DSV01&issn=1433-8319> .
+<http://www.worldcat.org/oclc/960785162> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/MediaObject> .
+<http://www.worldcat.org/oclc/960785162> <http://schema.org/name> "Perspectives in plant ecology, evolution and systematics" .
+<http://www.worldcat.org/oclc/960785162> <http://www.w3.org/2007/05/powder-s#describedby> <http://www.worldcat.org/title/-/oclc/960785162> .
+<http://www.worldcat.org/oclc/960785162> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/180738837#Topic/geobotanik> .
+<http://www.worldcat.org/oclc/960785162> <http://purl.org/library/placeOfPublication> <http://id.loc.gov/vocabulary/countries/gw> .
+<http://www.worldcat.org/oclc/960785162> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/180738837#Topic/pflanzen_systematik> .
+<http://www.worldcat.org/oclc/960785162> <http://schema.org/productID> "960785162" .
+<http://www.worldcat.org/oclc/960785162> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/180738837#Topic/evolution_pflanzen> .
+<http://www.worldcat.org/oclc/960785162> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/180738837#Topic/pflanzen_okologie> .
+<http://www.worldcat.org/oclc/960785162> <http://schema.org/contributor> <http://experiment.worldcat.org/entity/work/data/180738837#Organization/eidgenossische_technische_hochschule_zurich_geobotanisches_institut_stiftung_rubel> .
+<http://www.worldcat.org/oclc/960785162> <http://schema.org/genre> "Zeitschrift" .
+<http://www.worldcat.org/oclc/960785162> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://www.worldcat.org/oclc/960785162> <http://schema.org/genre> "Online-Ressource" .
+<http://www.worldcat.org/oclc/960785162> <http://schema.org/workExample> <http://worldcat.org/issn/1433-8319> .
+<http://www.worldcat.org/oclc/960785162> <http://purl.org/library/oclcnum> "960785162" .
+<http://www.worldcat.org/oclc/960785162> <http://schema.org/inLanguage> "en" .
+<http://www.worldcat.org/oclc/960785162> <http://schema.org/isSimilarTo> <http://worldcat.org/entity/work/data/180738837#CreativeWork/perspectives_in_plant_ecology_evolution_and_systematics> .
+<http://www.worldcat.org/oclc/960785162> <http://schema.org/exampleOfWork> <http://worldcat.org/entity/work/id/180738837> .
+<http://www.worldcat.org/oclc/960785162> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://id.loc.gov/vocabulary/countries/gw> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://id.loc.gov/vocabulary/countries/gw> <http://purl.org/dc/terms/identifier> "gw" .
+<http://experiment.worldcat.org/entity/work/data/180738837#Topic/pflanzen_systematik> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/180738837#Topic/pflanzen_systematik> <http://schema.org/name> "Pflanzen--Systematik" .
+<http://experiment.worldcat.org/entity/work/data/180738837#Topic/pflanzen_okologie> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/180738837#Topic/pflanzen_okologie> <http://schema.org/name> "Pflanzen--Ökologie" .
+<http://www.worldcat.org/title/-/oclc/960785162> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#ContentTypeGenericResource> .
+<http://www.worldcat.org/title/-/oclc/960785162> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#InformationResource> .
+<http://www.worldcat.org/title/-/oclc/960785162> <http://schema.org/about> <http://www.worldcat.org/oclc/960785162> .
+<http://www.worldcat.org/title/-/oclc/960785162> <http://schema.org/dateModified> "2019-02-10" .
+<http://www.worldcat.org/title/-/oclc/960785162> <http://rdfs.org/ns/void#inDataset> <http://purl.oclc.org/dataset/WorldCat> .

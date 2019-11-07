@@ -1,0 +1,50 @@
+<http://id.loc.gov/vocabulary/countries/nyu> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://id.loc.gov/vocabulary/countries/nyu> <http://purl.org/dc/terms/identifier> "nyu" .
+<http://experiment.worldcat.org/entity/work/data/354946045#Thing/botanique> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> .
+<http://experiment.worldcat.org/entity/work/data/354946045#Thing/botanique> <http://schema.org/name> "BOTANIQUE" .
+<http://worldcat.org/issn/8755-4801> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://worldcat.org/issn/8755-4801> <http://schema.org/name> "Bulletin of the New York Botanical Garden." .
+<http://worldcat.org/issn/8755-4801> <http://schema.org/issn> "8755-4801" .
+<http://worldcat.org/issn/8755-4801> <http://umbel.org/umbel#isLike> <http://worldcat.org/entity/work/id/354946045> .
+<http://experiment.worldcat.org/entity/work/data/354946045#Series/biodiversity_heritage_library> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bibliograph.net/PublicationSeries> .
+<http://experiment.worldcat.org/entity/work/data/354946045#Series/biodiversity_heritage_library> <http://schema.org/hasPart> <http://www.worldcat.org/oclc/609932527> .
+<http://experiment.worldcat.org/entity/work/data/354946045#Series/biodiversity_heritage_library> <http://schema.org/name> "Biodiversity Heritage Library" .
+<http://worldcat.org/entity/work/id/354946045> <http://umbel.org/umbel#isLike> <http://worldcat.org/issn/8755-4801> .
+<http://www.worldcat.org/oclc/609932527> <http://purl.org/library/oclcnum> "609932527" .
+<http://www.worldcat.org/oclc/609932527> <http://schema.org/url> <http://mertzdigital.nybg.org/cdm4/browse.php?CISOROOT=/p15121coll1> .
+<http://www.worldcat.org/oclc/609932527> <http://schema.org/workExample> <http://worldcat.org/issn/8755-4801> .
+<http://www.worldcat.org/oclc/609932527> <http://schema.org/inLanguage> "en" .
+<http://www.worldcat.org/oclc/609932527> <http://schema.org/url> <http://www.biodiversitylibrary.org/bibliography/5946> .
+<http://www.worldcat.org/oclc/609932527> <http://schema.org/contributor> <http://viaf.org/viaf/151262504> .
+<http://www.worldcat.org/oclc/609932527> <http://umbel.org/umbel#isLike> <http://d-nb.info/991951239> .
+<http://www.worldcat.org/oclc/609932527> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/354946045#Thing/botanique> .
+<http://www.worldcat.org/oclc/609932527> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://www.worldcat.org/oclc/609932527> <http://purl.org/library/placeOfPublication> <http://dbpedia.org/resource/New_York_City> .
+<http://www.worldcat.org/oclc/609932527> <http://schema.org/exampleOfWork> <http://worldcat.org/entity/work/id/354946045> .
+<http://www.worldcat.org/oclc/609932527> <http://purl.org/library/placeOfPublication> <http://id.loc.gov/vocabulary/countries/nyu> .
+<http://www.worldcat.org/oclc/609932527> <http://www.w3.org/2007/05/powder-s#describedby> <http://www.worldcat.org/title/-/oclc/609932527> .
+<http://www.worldcat.org/oclc/609932527> <http://schema.org/publication> <http://www.worldcat.org/title/-/oclc/609932527#PublicationEvent/new_york> .
+<http://www.worldcat.org/oclc/609932527> <http://schema.org/datePublished> "1896/1932" .
+<http://www.worldcat.org/oclc/609932527> <http://schema.org/isPartOf> <http://experiment.worldcat.org/entity/work/data/354946045#Series/biodiversity_heritage_library> .
+<http://www.worldcat.org/oclc/609932527> <http://schema.org/url> <http://www.bibliothek.uni-regensburg.de/ezeit/?2472040> .
+<http://www.worldcat.org/oclc/609932527> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/354946045#Thing/botany> .
+<http://www.worldcat.org/oclc/609932527> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://www.worldcat.org/oclc/609932527> <http://schema.org/productID> "609932527" .
+<http://www.worldcat.org/oclc/609932527> <http://schema.org/name> "Bulletin of the New York Botanical Garden." .
+<http://www.worldcat.org/oclc/609932527> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/354946045#Thing/botanik> .
+<http://dbpedia.org/resource/New_York_City> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://dbpedia.org/resource/New_York_City> <http://schema.org/name> "New York." .
+<http://experiment.worldcat.org/entity/work/data/354946045#Thing/botanik> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> .
+<http://experiment.worldcat.org/entity/work/data/354946045#Thing/botanik> <http://schema.org/name> "BOTANIK" .
+<http://www.worldcat.org/title/-/oclc/609932527> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#ContentTypeGenericResource> .
+<http://www.worldcat.org/title/-/oclc/609932527> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#InformationResource> .
+<http://www.worldcat.org/title/-/oclc/609932527> <http://schema.org/about> <http://www.worldcat.org/oclc/609932527> .
+<http://www.worldcat.org/title/-/oclc/609932527> <http://schema.org/dateModified> "2018-11-10" .
+<http://www.worldcat.org/title/-/oclc/609932527> <http://rdfs.org/ns/void#inDataset> <http://purl.oclc.org/dataset/WorldCat> .
+<http://www.biodiversitylibrary.org/bibliography/5946> <http://www.w3.org/2000/01/rdf-schema#comment> "kostenfrei" .
+<http://www.worldcat.org/title/-/oclc/609932527#PublicationEvent/new_york> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PublicationEvent> .
+<http://www.worldcat.org/title/-/oclc/609932527#PublicationEvent/new_york> <http://schema.org/location> <http://dbpedia.org/resource/New_York_City> .
+<http://experiment.worldcat.org/entity/work/data/354946045#Thing/botany> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> .
+<http://experiment.worldcat.org/entity/work/data/354946045#Thing/botany> <http://schema.org/name> "BOTANY" .
+<http://viaf.org/viaf/151262504> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+<http://viaf.org/viaf/151262504> <http://schema.org/name> "New York Botanical Garden." .

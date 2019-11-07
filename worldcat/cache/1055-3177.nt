@@ -1,0 +1,56 @@
+<http://www.worldcat.org/oclc/228664009> <http://schema.org/name> "Novon : a journal of botanical nomenclature from the Missouri Botanical Garden."@en .
+<http://www.worldcat.org/oclc/228664009> <http://schema.org/about> <http://id.worldcat.org/fast/836869> .
+<http://www.worldcat.org/oclc/228664009> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/3856513623#Topic/plants> .
+<http://www.worldcat.org/oclc/228664009> <http://schema.org/genre> "Terminology"@en .
+<http://www.worldcat.org/oclc/228664009> <http://purl.org/library/placeOfPublication> <http://id.loc.gov/vocabulary/countries/mou> .
+<http://www.worldcat.org/oclc/228664009> <http://www.w3.org/2007/05/powder-s#describedby> <http://www.worldcat.org/title/-/oclc/228664009> .
+<http://www.worldcat.org/oclc/228664009> <http://schema.org/publisher> <http://experiment.worldcat.org/entity/work/data/3856513623#Agent/missouri_botanical_garden> .
+<http://www.worldcat.org/oclc/228664009> <http://schema.org/exampleOfWork> <http://worldcat.org/entity/work/id/3856513623> .
+<http://www.worldcat.org/oclc/228664009> <http://schema.org/productID> "228664009" .
+<http://www.worldcat.org/oclc/228664009> <http://schema.org/datePublished> "1991/9999" .
+<http://www.worldcat.org/oclc/228664009> <http://schema.org/workExample> <http://worldcat.org/issn/1055-3177> .
+<http://www.worldcat.org/oclc/228664009> <http://schema.org/inLanguage> "en" .
+<http://www.worldcat.org/oclc/228664009> <http://schema.org/about> <http://id.worldcat.org/fast/1065823> .
+<http://www.worldcat.org/oclc/228664009> <http://schema.org/about> <http://dewey.info/class/581.014/e20/> .
+<http://www.worldcat.org/oclc/228664009> <http://schema.org/contributor> <http://viaf.org/viaf/141737900> .
+<http://www.worldcat.org/oclc/228664009> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://www.worldcat.org/oclc/228664009> <http://schema.org/publication> <http://www.worldcat.org/title/-/oclc/228664009#PublicationEvent/st_louis_mo_missouri_botanical_garden_1991> .
+<http://www.worldcat.org/oclc/228664009> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/3856513623#Topic/botany> .
+<http://www.worldcat.org/oclc/228664009> <http://schema.org/genre> "Periodicals"@en .
+<http://www.worldcat.org/oclc/228664009> <http://purl.org/library/placeOfPublication> <http://experiment.worldcat.org/entity/work/data/3856513623#Place/st_louis_mo> .
+<http://www.worldcat.org/oclc/228664009> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://www.worldcat.org/oclc/228664009> <http://purl.org/library/oclcnum> "228664009" .
+<http://www.worldcat.org/oclc/228664009> <http://schema.org/datePublished> "1991/" .
+<http://www.worldcat.org/title/-/oclc/228664009#PublicationEvent/st_louis_mo_missouri_botanical_garden_1991> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PublicationEvent> .
+<http://www.worldcat.org/title/-/oclc/228664009#PublicationEvent/st_louis_mo_missouri_botanical_garden_1991> <http://schema.org/location> <http://experiment.worldcat.org/entity/work/data/3856513623#Place/st_louis_mo> .
+<http://www.worldcat.org/title/-/oclc/228664009#PublicationEvent/st_louis_mo_missouri_botanical_garden_1991> <http://schema.org/organizer> <http://experiment.worldcat.org/entity/work/data/3856513623#Agent/missouri_botanical_garden> .
+<http://www.worldcat.org/title/-/oclc/228664009#PublicationEvent/st_louis_mo_missouri_botanical_garden_1991> <http://schema.org/startDate> "1991-" .
+<http://id.worldcat.org/fast/1065823> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://id.worldcat.org/fast/1065823> <http://schema.org/name> "Plants"@en .
+<http://id.worldcat.org/fast/836869> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://id.worldcat.org/fast/836869> <http://schema.org/name> "Botany"@en .
+<http://experiment.worldcat.org/entity/work/data/3856513623#Topic/botany> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/3856513623#Topic/botany> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://id.loc.gov/authorities/subjects/sh2007102112> .
+<http://experiment.worldcat.org/entity/work/data/3856513623#Topic/botany> <http://schema.org/name> "Botany"@en .
+<http://viaf.org/viaf/141737900> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+<http://viaf.org/viaf/141737900> <http://schema.org/name> "Missouri Botanical Garden." .
+<http://dewey.info/class/581.014/e20/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/3856513623#Place/st_louis_mo> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://experiment.worldcat.org/entity/work/data/3856513623#Place/st_louis_mo> <http://schema.org/name> "St. Louis, Mo." .
+<http://worldcat.org/issn/1055-3177> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://worldcat.org/issn/1055-3177> <http://schema.org/name> "Novon : a journal of botanical nomenclature from the Missouri Botanical Garden."@en .
+<http://worldcat.org/issn/1055-3177> <http://schema.org/issn> "1055-3177" .
+<http://worldcat.org/issn/1055-3177> <http://umbel.org/umbel#isLike> <http://worldcat.org/entity/work/id/3856513623> .
+<http://experiment.worldcat.org/entity/work/data/3856513623#Topic/plants> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/3856513623#Topic/plants> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://id.loc.gov/authorities/subjects/sh85015994> .
+<http://experiment.worldcat.org/entity/work/data/3856513623#Topic/plants> <http://schema.org/name> "Plants"@en .
+<http://worldcat.org/entity/work/id/3856513623> <http://umbel.org/umbel#isLike> <http://worldcat.org/issn/1055-3177> .
+<http://www.worldcat.org/title/-/oclc/228664009> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#ContentTypeGenericResource> .
+<http://www.worldcat.org/title/-/oclc/228664009> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#InformationResource> .
+<http://www.worldcat.org/title/-/oclc/228664009> <http://schema.org/about> <http://www.worldcat.org/oclc/228664009> .
+<http://www.worldcat.org/title/-/oclc/228664009> <http://schema.org/dateModified> "2019-02-16" .
+<http://www.worldcat.org/title/-/oclc/228664009> <http://rdfs.org/ns/void#inDataset> <http://purl.oclc.org/dataset/WorldCat> .
+<http://id.loc.gov/vocabulary/countries/mou> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://id.loc.gov/vocabulary/countries/mou> <http://purl.org/dc/terms/identifier> "mou" .
+<http://experiment.worldcat.org/entity/work/data/3856513623#Agent/missouri_botanical_garden> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bibliograph.net/Agent> .
+<http://experiment.worldcat.org/entity/work/data/3856513623#Agent/missouri_botanical_garden> <http://schema.org/name> "Missouri Botanical Garden" .

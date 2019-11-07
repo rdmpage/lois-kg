@@ -1,0 +1,33 @@
+<http://www.worldcat.org/title/-/oclc/1040991395> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#ContentTypeGenericResource> .
+<http://www.worldcat.org/title/-/oclc/1040991395> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#InformationResource> .
+<http://www.worldcat.org/title/-/oclc/1040991395> <http://schema.org/about> <http://www.worldcat.org/oclc/1040991395> .
+<http://www.worldcat.org/title/-/oclc/1040991395> <http://schema.org/dateModified> "2019-03-21" .
+<http://www.worldcat.org/title/-/oclc/1040991395> <http://rdfs.org/ns/void#inDataset> <http://purl.oclc.org/dataset/WorldCat> .
+<http://worldcat.org/issn/1562-7217> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://worldcat.org/issn/1562-7217> <http://schema.org/name> "Revista Guatemalensis" .
+<http://worldcat.org/issn/1562-7217> <http://schema.org/issn> "1562-7217" .
+<http://worldcat.org/issn/1562-7217> <http://umbel.org/umbel#isLike> <http://worldcat.org/entity/work/id/5235799136> .
+<http://experiment.worldcat.org/entity/work/data/5235799136#Topic/plantes> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/5235799136#Topic/plantes> <http://schema.org/name> "Plantes" .
+<http://experiment.worldcat.org/entity/work/data/5235799136#Organization/universidad_de_san_carlos_de_guatemala> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+<http://experiment.worldcat.org/entity/work/data/5235799136#Organization/universidad_de_san_carlos_de_guatemala> <http://schema.org/name> "Universidad de San Carlos de Guatemala." .
+<http://experiment.worldcat.org/entity/work/data/5235799136#Place/guatemala> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://experiment.worldcat.org/entity/work/data/5235799136#Place/guatemala> <http://schema.org/name> "Guatemala." .
+<http://id.loc.gov/vocabulary/countries/gt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://id.loc.gov/vocabulary/countries/gt> <http://purl.org/dc/terms/identifier> "gt" .
+<http://worldcat.org/entity/work/id/5235799136> <http://umbel.org/umbel#isLike> <http://worldcat.org/issn/1562-7217> .
+<http://www.worldcat.org/oclc/1040991395> <http://schema.org/workExample> <http://worldcat.org/issn/1562-7217> .
+<http://www.worldcat.org/oclc/1040991395> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/5235799136#Place/guatemala> .
+<http://www.worldcat.org/oclc/1040991395> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://www.worldcat.org/oclc/1040991395> <http://schema.org/name> "Revista Guatemalensis" .
+<http://www.worldcat.org/oclc/1040991395> <http://purl.org/library/placeOfPublication> <http://id.loc.gov/vocabulary/countries/gt> .
+<http://www.worldcat.org/oclc/1040991395> <http://schema.org/datePublished> "1998/9999" .
+<http://www.worldcat.org/oclc/1040991395> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://www.worldcat.org/oclc/1040991395> <http://schema.org/inLanguage> "es" .
+<http://www.worldcat.org/oclc/1040991395> <http://schema.org/contributor> <http://experiment.worldcat.org/entity/work/data/5235799136#Organization/universidad_de_san_carlos_de_guatemala> .
+<http://www.worldcat.org/oclc/1040991395> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/5235799136#Topic/plantes> .
+<http://www.worldcat.org/oclc/1040991395> <http://schema.org/genre> "[Périodiques]" .
+<http://www.worldcat.org/oclc/1040991395> <http://purl.org/library/oclcnum> "1040991395" .
+<http://www.worldcat.org/oclc/1040991395> <http://www.w3.org/2007/05/powder-s#describedby> <http://www.worldcat.org/title/-/oclc/1040991395> .
+<http://www.worldcat.org/oclc/1040991395> <http://schema.org/productID> "1040991395" .
+<http://www.worldcat.org/oclc/1040991395> <http://schema.org/exampleOfWork> <http://worldcat.org/entity/work/id/5235799136> .

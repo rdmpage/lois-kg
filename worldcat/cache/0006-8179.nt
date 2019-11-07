@@ -1,0 +1,53 @@
+<http://www.worldcat.org/title/-/oclc/807779045> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#ContentTypeGenericResource> .
+<http://www.worldcat.org/title/-/oclc/807779045> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#InformationResource> .
+<http://www.worldcat.org/title/-/oclc/807779045> <http://schema.org/about> <http://www.worldcat.org/oclc/807779045> .
+<http://www.worldcat.org/title/-/oclc/807779045> <http://schema.org/dateModified> "2019-10-29" .
+<http://www.worldcat.org/title/-/oclc/807779045> <http://rdfs.org/ns/void#inDataset> <http://purl.oclc.org/dataset/WorldCat> .
+<http://worldcat.org/entity/work/id/5218126682> <http://umbel.org/umbel#isLike> <http://worldcat.org/issn/0006-8179> .
+<http://viaf.org/viaf/134379231> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+<http://viaf.org/viaf/134379231> <http://schema.org/name> "Universität München. Institut für Systematische Botanik." .
+<http://www.worldcat.org/title/-/oclc/807779045#PublicationEvent/munchen_h_merxmuller_1951_1991> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PublicationEvent> .
+<http://www.worldcat.org/title/-/oclc/807779045#PublicationEvent/munchen_h_merxmuller_1951_1991> <http://schema.org/location> <http://experiment.worldcat.org/entity/work/data/5218126682#Place/munchen> .
+<http://www.worldcat.org/title/-/oclc/807779045#PublicationEvent/munchen_h_merxmuller_1951_1991> <http://schema.org/organizer> <http://experiment.worldcat.org/entity/work/data/5218126682#Agent/h_merxmuller> .
+<http://www.worldcat.org/title/-/oclc/807779045#PublicationEvent/munchen_h_merxmuller_1951_1991> <http://schema.org/startDate> "1951-1991" .
+<http://experiment.worldcat.org/entity/work/data/5218126682#Place/munchen> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://experiment.worldcat.org/entity/work/data/5218126682#Place/munchen> <http://schema.org/name> "München" .
+<http://viaf.org/viaf/122628902> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+<http://viaf.org/viaf/122628902> <http://schema.org/name> "Botanische Staatssammlung München." .
+<http://experiment.worldcat.org/entity/work/data/5218126682#CreativeWork/sendtnera> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://experiment.worldcat.org/entity/work/data/5218126682#CreativeWork/sendtnera> <http://schema.org/name> "Sendtnera." .
+<http://experiment.worldcat.org/entity/work/data/5218126682#Topic/taxonomia_botanica> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/5218126682#Topic/taxonomia_botanica> <http://schema.org/name> "Taxonomia botànica" .
+<http://experiment.worldcat.org/entity/work/data/5218126682#Topic/botanica_classificacio_revistes> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/5218126682#Topic/botanica_classificacio_revistes> <http://schema.org/name> "Botànica--Classificació--Revistes" .
+<http://id.loc.gov/vocabulary/countries/gw> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://id.loc.gov/vocabulary/countries/gw> <http://purl.org/dc/terms/identifier> "gw" .
+<http://experiment.worldcat.org/entity/work/data/5218126682#Agent/h_merxmuller> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bibliograph.net/Agent> .
+<http://experiment.worldcat.org/entity/work/data/5218126682#Agent/h_merxmuller> <http://schema.org/name> "H. Merxmüller" .
+<http://experiment.worldcat.org/entity/work/data/5218126682#Topic/botanica> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/5218126682#Topic/botanica> <http://schema.org/name> "Botànica" .
+<http://www.worldcat.org/oclc/807779045> <http://schema.org/productID> "807779045" .
+<http://www.worldcat.org/oclc/807779045> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/5218126682#Topic/taxonomia_botanica> .
+<http://www.worldcat.org/oclc/807779045> <http://schema.org/exampleOfWork> <http://worldcat.org/entity/work/id/5218126682> .
+<http://www.worldcat.org/oclc/807779045> <http://schema.org/datePublished> "1950/1991" .
+<http://www.worldcat.org/oclc/807779045> <http://schema.org/datePublished> "1951/1991" .
+<http://www.worldcat.org/oclc/807779045> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://www.worldcat.org/oclc/807779045> <http://purl.org/library/placeOfPublication> <http://id.loc.gov/vocabulary/countries/gw> .
+<http://www.worldcat.org/oclc/807779045> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/5218126682#Topic/botanica> .
+<http://www.worldcat.org/oclc/807779045> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://experiment.worldcat.org/entity/work/data/5218126682#CreativeWork/sendtnera> .
+<http://www.worldcat.org/oclc/807779045> <http://schema.org/name> "Mitteilungen der Botanischen Staatssammlung München." .
+<http://www.worldcat.org/oclc/807779045> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/5218126682#Topic/botanica_classificacio_revistes> .
+<http://www.worldcat.org/oclc/807779045> <http://purl.org/library/oclcnum> "807779045" .
+<http://www.worldcat.org/oclc/807779045> <http://www.w3.org/2007/05/powder-s#describedby> <http://www.worldcat.org/title/-/oclc/807779045> .
+<http://www.worldcat.org/oclc/807779045> <http://schema.org/contributor> <http://viaf.org/viaf/122628902> .
+<http://www.worldcat.org/oclc/807779045> <http://schema.org/publisher> <http://experiment.worldcat.org/entity/work/data/5218126682#Agent/h_merxmuller> .
+<http://www.worldcat.org/oclc/807779045> <http://schema.org/contributor> <http://viaf.org/viaf/134379231> .
+<http://www.worldcat.org/oclc/807779045> <http://purl.org/library/placeOfPublication> <http://experiment.worldcat.org/entity/work/data/5218126682#Place/munchen> .
+<http://www.worldcat.org/oclc/807779045> <http://schema.org/workExample> <http://worldcat.org/issn/0006-8179> .
+<http://www.worldcat.org/oclc/807779045> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://www.worldcat.org/oclc/807779045> <http://schema.org/publication> <http://www.worldcat.org/title/-/oclc/807779045#PublicationEvent/munchen_h_merxmuller_1951_1991> .
+<http://www.worldcat.org/oclc/807779045> <http://schema.org/inLanguage> "de" .
+<http://worldcat.org/issn/0006-8179> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://worldcat.org/issn/0006-8179> <http://schema.org/name> "Mitteilungen der Botanischen Staatssammlung München." .
+<http://worldcat.org/issn/0006-8179> <http://schema.org/issn> "0006-8179" .
+<http://worldcat.org/issn/0006-8179> <http://umbel.org/umbel#isLike> <http://worldcat.org/entity/work/id/5218126682> .

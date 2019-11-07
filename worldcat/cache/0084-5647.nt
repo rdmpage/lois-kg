@@ -1,0 +1,58 @@
+<http://experiment.worldcat.org/entity/work/data/500406774#Thing/botanik> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> .
+<http://experiment.worldcat.org/entity/work/data/500406774#Thing/botanik> <http://schema.org/name> "BOTANIK" .
+<http://experiment.worldcat.org/entity/work/data/500406774#Organization/zoologisch_botanische_gesellschaft_oesterreich> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+<http://experiment.worldcat.org/entity/work/data/500406774#Organization/zoologisch_botanische_gesellschaft_oesterreich> <http://schema.org/name> "Zoologisch Botanische Gesellschaft (Oesterreich)" .
+<http://experiment.worldcat.org/entity/work/data/500406774#Thing/botanique> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> .
+<http://experiment.worldcat.org/entity/work/data/500406774#Thing/botanique> <http://schema.org/name> "BOTANIQUE" .
+<http://experiment.worldcat.org/entity/work/data/500406774#Thing/zoology> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> .
+<http://experiment.worldcat.org/entity/work/data/500406774#Thing/zoology> <http://schema.org/name> "ZOOLOGY" .
+<http://experiment.worldcat.org/entity/work/data/500406774#Topic/naturwissenschaften> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/500406774#Topic/naturwissenschaften> <http://schema.org/name> "Naturwissenschaften"@de .
+<http://experiment.worldcat.org/entity/work/data/500406774#Place/wien> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://experiment.worldcat.org/entity/work/data/500406774#Place/wien> <http://schema.org/name> "Wien" .
+<http://www.worldcat.org/title/-/oclc/637465660#PublicationEvent/wien_zoologisch_botanische_gesellschaft_in_oesterreich> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PublicationEvent> .
+<http://www.worldcat.org/title/-/oclc/637465660#PublicationEvent/wien_zoologisch_botanische_gesellschaft_in_oesterreich> <http://schema.org/location> <http://experiment.worldcat.org/entity/work/data/500406774#Place/wien> .
+<http://www.worldcat.org/title/-/oclc/637465660#PublicationEvent/wien_zoologisch_botanische_gesellschaft_in_oesterreich> <http://schema.org/organizer> <http://experiment.worldcat.org/entity/work/data/500406774#Agent/zoologisch_botanische_gesellschaft_in_oesterreich> .
+<http://experiment.worldcat.org/entity/work/data/500406774#Agent/zoologisch_botanische_gesellschaft_in_oesterreich> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bibliograph.net/Agent> .
+<http://experiment.worldcat.org/entity/work/data/500406774#Agent/zoologisch_botanische_gesellschaft_in_oesterreich> <http://schema.org/name> "Zoologisch-Botanische Gesellschaft in Oesterreich." .
+<http://experiment.worldcat.org/entity/work/data/500406774#Thing/zoologie> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> .
+<http://experiment.worldcat.org/entity/work/data/500406774#Thing/zoologie> <http://schema.org/name> "ZOOLOGIE" .
+<http://worldcat.org/entity/work/id/500406774> <http://umbel.org/umbel#isLike> <http://worldcat.org/issn/0252-1911> .
+<http://www.worldcat.org/oclc/637465660> <http://schema.org/alternateName> "Verhandlungen der Kaiserlich-Königlichen Zoologisch-Botanischen Gesellschaft in Wien" .
+<http://www.worldcat.org/oclc/637465660> <http://schema.org/genre> "Zeitschrift"@de .
+<http://www.worldcat.org/oclc/637465660> <http://schema.org/datePublished> "1852/9999" .
+<http://www.worldcat.org/oclc/637465660> <http://www.w3.org/2007/05/powder-s#describedby> <http://www.worldcat.org/title/-/oclc/637465660> .
+<http://www.worldcat.org/oclc/637465660> <http://schema.org/contributor> <http://experiment.worldcat.org/entity/work/data/500406774#Organization/zoologisch_botanische_gesellschaft_oesterreich> .
+<http://www.worldcat.org/oclc/637465660> <http://schema.org/publication> <http://www.worldcat.org/title/-/oclc/637465660#PublicationEvent/wien_zoologisch_botanische_gesellschaft_in_oesterreich> .
+<http://www.worldcat.org/oclc/637465660> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/500406774#Thing/botanik> .
+<http://www.worldcat.org/oclc/637465660> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://www.worldcat.org/oclc/637465660> <http://schema.org/alternateName> "Verhandlungen der Zoologisch-Botanischen Gesellschaft in Wien" .
+<http://www.worldcat.org/oclc/637465660> <http://purl.org/library/placeOfPublication> <http://experiment.worldcat.org/entity/work/data/500406774#Place/wien> .
+<http://www.worldcat.org/oclc/637465660> <http://schema.org/workExample> <http://worldcat.org/issn/0252-1911> .
+<http://www.worldcat.org/oclc/637465660> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/500406774#Thing/zoology> .
+<http://www.worldcat.org/oclc/637465660> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/500406774#Thing/botanique> .
+<http://www.worldcat.org/oclc/637465660> <http://schema.org/productID> "637465660" .
+<http://www.worldcat.org/oclc/637465660> <http://schema.org/inLanguage> "de" .
+<http://www.worldcat.org/oclc/637465660> <http://purl.org/library/oclcnum> "637465660" .
+<http://www.worldcat.org/oclc/637465660> <http://schema.org/alternateName> "Verhandlungen des Zoologisch-Botanischen Vereins in Wien" .
+<http://www.worldcat.org/oclc/637465660> <http://schema.org/publisher> <http://experiment.worldcat.org/entity/work/data/500406774#Agent/zoologisch_botanische_gesellschaft_in_oesterreich> .
+<http://www.worldcat.org/oclc/637465660> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/500406774#Thing/botany> .
+<http://www.worldcat.org/oclc/637465660> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://www.worldcat.org/oclc/637465660> <http://purl.org/library/placeOfPublication> <http://id.loc.gov/vocabulary/countries/au> .
+<http://www.worldcat.org/oclc/637465660> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/500406774#Thing/zoologie> .
+<http://www.worldcat.org/oclc/637465660> <http://schema.org/name> "Verhandlungen der Zoologisch-Botanischen Gesellschaft in Oesterreich."@de .
+<http://www.worldcat.org/oclc/637465660> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/500406774#Topic/naturwissenschaften> .
+<http://www.worldcat.org/oclc/637465660> <http://schema.org/exampleOfWork> <http://worldcat.org/entity/work/id/500406774> .
+<http://id.loc.gov/vocabulary/countries/au> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://id.loc.gov/vocabulary/countries/au> <http://purl.org/dc/terms/identifier> "au" .
+<http://experiment.worldcat.org/entity/work/data/500406774#Thing/botany> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> .
+<http://experiment.worldcat.org/entity/work/data/500406774#Thing/botany> <http://schema.org/name> "BOTANY" .
+<http://www.worldcat.org/title/-/oclc/637465660> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#ContentTypeGenericResource> .
+<http://www.worldcat.org/title/-/oclc/637465660> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#InformationResource> .
+<http://www.worldcat.org/title/-/oclc/637465660> <http://schema.org/about> <http://www.worldcat.org/oclc/637465660> .
+<http://www.worldcat.org/title/-/oclc/637465660> <http://schema.org/dateModified> "2018-11-08" .
+<http://www.worldcat.org/title/-/oclc/637465660> <http://rdfs.org/ns/void#inDataset> <http://purl.oclc.org/dataset/WorldCat> .
+<http://worldcat.org/issn/0252-1911> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://worldcat.org/issn/0252-1911> <http://schema.org/name> "Verhandlungen der Zoologisch-Botanischen Gesellschaft in Oesterreich."@de .
+<http://worldcat.org/issn/0252-1911> <http://schema.org/issn> "0252-1911" .
+<http://worldcat.org/issn/0252-1911> <http://umbel.org/umbel#isLike> <http://worldcat.org/entity/work/id/500406774> .

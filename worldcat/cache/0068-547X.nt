@@ -1,0 +1,45 @@
+<http://www.worldcat.org/oclc/953213774> <http://schema.org/about> <http://dewey.info/class/505/e19/> .
+<http://www.worldcat.org/oclc/953213774> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/3352220981#Topic/science> .
+<http://www.worldcat.org/oclc/953213774> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bibliograph.net/PublicationSeries> .
+<http://www.worldcat.org/oclc/953213774> <http://schema.org/publisher> <http://experiment.worldcat.org/entity/work/data/3352220981#Agent/the_academy> .
+<http://www.worldcat.org/oclc/953213774> <http://purl.org/library/placeOfPublication> <http://experiment.worldcat.org/entity/work/data/3352220981#Place/san_francisco> .
+<http://www.worldcat.org/oclc/953213774> <http://schema.org/inLanguage> "en" .
+<http://www.worldcat.org/oclc/953213774> <http://schema.org/publication> <http://www.worldcat.org/title/-/oclc/953213774#PublicationEvent/san_francisco_the_academy_1907> .
+<http://www.worldcat.org/oclc/953213774> <http://www.w3.org/2007/05/powder-s#describedby> <http://www.worldcat.org/title/-/oclc/953213774> .
+<http://www.worldcat.org/oclc/953213774> <http://schema.org/contributor> <http://experiment.worldcat.org/entity/work/data/3352220981#Organization/california_academy_of_sciences> .
+<http://www.worldcat.org/oclc/953213774> <http://schema.org/datePublished> "1907/" .
+<http://www.worldcat.org/oclc/953213774> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://www.worldcat.org/oclc/953213774> <http://schema.org/productID> "953213774" .
+<http://www.worldcat.org/oclc/953213774> <http://schema.org/genre> "Periodicals"@en .
+<http://www.worldcat.org/oclc/953213774> <http://purl.org/library/oclcnum> "953213774" .
+<http://www.worldcat.org/oclc/953213774> <http://purl.org/library/placeOfPublication> <http://id.loc.gov/vocabulary/countries/cau> .
+<http://www.worldcat.org/oclc/953213774> <http://schema.org/workExample> <http://worldcat.org/issn/0068-547X> .
+<http://www.worldcat.org/oclc/953213774> <http://schema.org/name> "Proceedings of the California Academy of Sciences. Fourth series."@en .
+<http://www.worldcat.org/oclc/953213774> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://www.worldcat.org/oclc/953213774> <http://schema.org/exampleOfWork> <http://worldcat.org/entity/work/id/3352220981> .
+<http://www.worldcat.org/oclc/953213774> <http://schema.org/datePublished> "1907/9999" .
+<http://experiment.worldcat.org/entity/work/data/3352220981#Place/san_francisco> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://experiment.worldcat.org/entity/work/data/3352220981#Place/san_francisco> <http://schema.org/name> "San Francisco" .
+<http://experiment.worldcat.org/entity/work/data/3352220981#Topic/science> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/3352220981#Topic/science> <http://schema.org/name> "Science"@en .
+<http://experiment.worldcat.org/entity/work/data/3352220981#Organization/california_academy_of_sciences> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+<http://experiment.worldcat.org/entity/work/data/3352220981#Organization/california_academy_of_sciences> <http://schema.org/name> "California Academy of Sciences." .
+<http://dewey.info/class/505/e19/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://www.worldcat.org/title/-/oclc/953213774> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#ContentTypeGenericResource> .
+<http://www.worldcat.org/title/-/oclc/953213774> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#InformationResource> .
+<http://www.worldcat.org/title/-/oclc/953213774> <http://schema.org/about> <http://www.worldcat.org/oclc/953213774> .
+<http://www.worldcat.org/title/-/oclc/953213774> <http://schema.org/dateModified> "2019-10-29" .
+<http://www.worldcat.org/title/-/oclc/953213774> <http://rdfs.org/ns/void#inDataset> <http://purl.oclc.org/dataset/WorldCat> .
+<http://worldcat.org/entity/work/id/3352220981> <http://umbel.org/umbel#isLike> <http://worldcat.org/issn/0068-547X> .
+<http://experiment.worldcat.org/entity/work/data/3352220981#Agent/the_academy> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bibliograph.net/Agent> .
+<http://experiment.worldcat.org/entity/work/data/3352220981#Agent/the_academy> <http://schema.org/name> "The Academy" .
+<http://worldcat.org/issn/0068-547X> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://worldcat.org/issn/0068-547X> <http://schema.org/name> "Proceedings of the California Academy of Sciences. Fourth series."@en .
+<http://worldcat.org/issn/0068-547X> <http://schema.org/issn> "0068-547X" .
+<http://worldcat.org/issn/0068-547X> <http://umbel.org/umbel#isLike> <http://worldcat.org/entity/work/id/3352220981> .
+<http://id.loc.gov/vocabulary/countries/cau> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://id.loc.gov/vocabulary/countries/cau> <http://purl.org/dc/terms/identifier> "cau" .
+<http://www.worldcat.org/title/-/oclc/953213774#PublicationEvent/san_francisco_the_academy_1907> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PublicationEvent> .
+<http://www.worldcat.org/title/-/oclc/953213774#PublicationEvent/san_francisco_the_academy_1907> <http://schema.org/location> <http://experiment.worldcat.org/entity/work/data/3352220981#Place/san_francisco> .
+<http://www.worldcat.org/title/-/oclc/953213774#PublicationEvent/san_francisco_the_academy_1907> <http://schema.org/organizer> <http://experiment.worldcat.org/entity/work/data/3352220981#Agent/the_academy> .
+<http://www.worldcat.org/title/-/oclc/953213774#PublicationEvent/san_francisco_the_academy_1907> <http://schema.org/startDate> "1907-" .

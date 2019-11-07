@@ -1,0 +1,17 @@
+<http://www.floramontiberica.org> <http://www.w3.org/2000/01/rdf-schema#comment> "DOAJ: Directory of Open Access Journals: 1995-01-01 to Present" .
+<http://www.worldcat.org/oclc/958716213> <http://schema.org/productID> "958716213" .
+<http://www.worldcat.org/oclc/958716213> <http://schema.org/exampleOfWork> <http://worldcat.org/entity/work/id/322795836> .
+<http://www.worldcat.org/oclc/958716213> <http://www.w3.org/2007/05/powder-s#describedby> <http://www.worldcat.org/title/-/oclc/958716213> .
+<http://www.worldcat.org/oclc/958716213> <http://purl.org/library/oclcnum> "958716213" .
+<http://www.worldcat.org/oclc/958716213> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/MediaObject> .
+<http://www.worldcat.org/oclc/958716213> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://www.worldcat.org/oclc/958716213> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://www.worldcat.org/oclc/958716213> <http://schema.org/url> <http://www.floramontiberica.org> .
+<http://www.worldcat.org/oclc/958716213> <http://schema.org/datePublished> "uuuu/9999" .
+<http://www.worldcat.org/oclc/958716213> <http://schema.org/inLanguage> "en" .
+<http://www.worldcat.org/oclc/958716213> <http://schema.org/name> "Flora Montiberica."@en .
+<http://www.worldcat.org/title/-/oclc/958716213> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#ContentTypeGenericResource> .
+<http://www.worldcat.org/title/-/oclc/958716213> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#InformationResource> .
+<http://www.worldcat.org/title/-/oclc/958716213> <http://schema.org/about> <http://www.worldcat.org/oclc/958716213> .
+<http://www.worldcat.org/title/-/oclc/958716213> <http://schema.org/dateModified> "2019-02-09" .
+<http://www.worldcat.org/title/-/oclc/958716213> <http://rdfs.org/ns/void#inDataset> <http://purl.oclc.org/dataset/WorldCat> .

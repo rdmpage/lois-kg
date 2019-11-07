@@ -1,0 +1,82 @@
+<http://experiment.worldcat.org/entity/work/data/4083136985#Thing/jardins_botaniques_botanique> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> .
+<http://experiment.worldcat.org/entity/work/data/4083136985#Thing/jardins_botaniques_botanique> <http://schema.org/name> "JARDINS BOTANIQUES (BOTANIQUE)" .
+<http://worldcat.org/entity/work/id/4083136985> <http://umbel.org/umbel#isLike> <http://worldcat.org/issn/0373-2967> .
+<http://worldcat.org/entity/work/id/4083136985> <http://umbel.org/umbel#isLike> <http://worldcat.org/issn/2235-3658> .
+<http://experiment.worldcat.org/entity/work/data/4083136985#Thing/annuals_+_jahrbucher_dokumententyp> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> .
+<http://experiment.worldcat.org/entity/work/data/4083136985#Thing/annuals_+_jahrbucher_dokumententyp> <http://schema.org/name> "ANNUALS + JAHRBÜCHER (DOKUMENTENTYP)" .
+<http://www.worldcat.org/title/-/oclc/973878621> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#ContentTypeGenericResource> .
+<http://www.worldcat.org/title/-/oclc/973878621> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#InformationResource> .
+<http://www.worldcat.org/title/-/oclc/973878621> <http://schema.org/about> <http://www.worldcat.org/oclc/973878621> .
+<http://www.worldcat.org/title/-/oclc/973878621> <http://schema.org/dateModified> "2019-02-09" .
+<http://www.worldcat.org/title/-/oclc/973878621> <http://rdfs.org/ns/void#inDataset> <http://purl.oclc.org/dataset/WorldCat> .
+<http://experiment.worldcat.org/entity/work/data/4083136985#Thing/zeitschriften> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> .
+<http://experiment.worldcat.org/entity/work/data/4083136985#Thing/zeitschriften> <http://schema.org/name> "Zeitschriften" .
+<http://worldcat.org/issn/0373-2967> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://worldcat.org/issn/0373-2967> <http://schema.org/name> "Candollea : journal international de botanique systématique = international journal of systematic botany." .
+<http://worldcat.org/issn/0373-2967> <http://schema.org/issn> "0373-2967" .
+<http://worldcat.org/issn/0373-2967> <http://umbel.org/umbel#isLike> <http://worldcat.org/entity/work/id/4083136985> .
+<http://experiment.worldcat.org/entity/work/data/4083136985#Topic/botanik> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/4083136985#Topic/botanik> <http://schema.org/name> "Botanik" .
+<http://id.loc.gov/vocabulary/countries/sz> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://id.loc.gov/vocabulary/countries/sz> <http://purl.org/dc/terms/identifier> "sz" .
+<http://sfx.ethz.ch/sfx_locater?sid=ALEPH:EBI01&genre=journal&issn=0373-2967> <http://www.w3.org/2000/01/rdf-schema#comment> "Online via SFX" .
+<http://experiment.worldcat.org/entity/work/data/4083136985#Thing/yearbooks_+_annuals_document_type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> .
+<http://experiment.worldcat.org/entity/work/data/4083136985#Thing/yearbooks_+_annuals_document_type> <http://schema.org/name> "YEARBOOKS + ANNUALS (DOCUMENT TYPE)" .
+<http://experiment.worldcat.org/entity/work/data/4083136985#Thing/botanische_garten_botanik> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> .
+<http://experiment.worldcat.org/entity/work/data/4083136985#Thing/botanische_garten_botanik> <http://schema.org/name> "BOTANISCHE GÄRTEN (BOTANIK)" .
+<http://experiment.worldcat.org/entity/work/data/4083136985#Thing/botanique_systematique_+_mycologie_systematique> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> .
+<http://experiment.worldcat.org/entity/work/data/4083136985#Thing/botanique_systematique_+_mycologie_systematique> <http://schema.org/name> "BOTANIQUE SYSTEMATIQUE + MYCOLOGIE SYSTEMATIQUE" .
+<http://experiment.worldcat.org/entity/work/data/4083136985#Organization/conservatoire_et_jardin_botaniques_de_la_ville_de_geneve> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+<http://experiment.worldcat.org/entity/work/data/4083136985#Organization/conservatoire_et_jardin_botaniques_de_la_ville_de_geneve> <http://schema.org/name> "Conservatoire et Jardin Botaniques de la Ville de Genève" .
+<http://experiment.worldcat.org/entity/work/data/4083136985#Organization/conservatoire_et_jardin_botaniques_de_la_ville_de_geneve> <http://schema.org/sameAs> <http://d-nb.info/gnd/117174-4,> .
+<http://experiment.worldcat.org/entity/work/data/4083136985#Thing/systematic_botany> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> .
+<http://experiment.worldcat.org/entity/work/data/4083136985#Thing/systematic_botany> <http://schema.org/name> "SYSTEMATIC BOTANY" .
+<http://experiment.worldcat.org/entity/work/data/4083136985#Thing/systematique_taxonomie_et_affinite_botanique_et_paleobotanique> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> .
+<http://experiment.worldcat.org/entity/work/data/4083136985#Thing/systematique_taxonomie_et_affinite_botanique_et_paleobotanique> <http://schema.org/name> "SYSTÉMATIQUE, TAXONOMIE ET AFFINITÉ (BOTANIQUE ET PALÉOBOTANIQUE)" .
+<http://experiment.worldcat.org/entity/work/data/4083136985#Thing/systematik_taxonomie_und_verwandtschaft_botanik_und_palaobotanik> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> .
+<http://experiment.worldcat.org/entity/work/data/4083136985#Thing/systematik_taxonomie_und_verwandtschaft_botanik_und_palaobotanik> <http://schema.org/name> "SYSTEMATIK, TAXONOMIE UND VERWANDTSCHAFT (BOTANIK UND PALÄOBOTANIK)" .
+<http://experiment.worldcat.org/entity/work/data/4083136985#Thing/annales_+_annuaires_+_recueils_annuels_type_de_document> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> .
+<http://experiment.worldcat.org/entity/work/data/4083136985#Thing/annales_+_annuaires_+_recueils_annuels_type_de_document> <http://schema.org/name> "ANNALES + ANNUAIRES + RECUEILS ANNUELS (TYPE DE DOCUMENT)" .
+<http://worldcat.org/issn/2235-3658> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://worldcat.org/issn/2235-3658> <http://schema.org/name> "Candollea : journal international de botanique systématique = international journal of systematic botany." .
+<http://worldcat.org/issn/2235-3658> <http://schema.org/issn> "2235-3658" .
+<http://worldcat.org/issn/2235-3658> <http://umbel.org/umbel#isLike> <http://worldcat.org/entity/work/id/4083136985> .
+<http://experiment.worldcat.org/entity/work/data/4083136985#Thing/botanical_gardens_botany> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> .
+<http://experiment.worldcat.org/entity/work/data/4083136985#Thing/botanical_gardens_botany> <http://schema.org/name> "BOTANICAL GARDENS (BOTANY)" .
+<http://www.worldcat.org/oclc/973878621> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/4083136985#Thing/systematische_botanik> .
+<http://www.worldcat.org/oclc/973878621> <http://schema.org/genre> "Zeitschrift" .
+<http://www.worldcat.org/oclc/973878621> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/4083136985#Topic/botanik> .
+<http://www.worldcat.org/oclc/973878621> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/4083136985#Thing/systematique_taxonomie_et_affinite_botanique_et_paleobotanique> .
+<http://www.worldcat.org/oclc/973878621> <http://schema.org/workExample> <http://worldcat.org/issn/0373-2967> .
+<http://www.worldcat.org/oclc/973878621> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/4083136985#Thing/jardins_botaniques_botanique> .
+<http://www.worldcat.org/oclc/973878621> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/4083136985#Thing/botanique_systematique_+_mycologie_systematique> .
+<http://www.worldcat.org/oclc/973878621> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/4083136985#Thing/annuals_+_jahrbucher_dokumententyp> .
+<http://www.worldcat.org/oclc/973878621> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/4083136985#Thing/systematik_taxonomie_und_verwandtschaft_botanik_und_palaobotanik> .
+<http://www.worldcat.org/oclc/973878621> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/4083136985#Thing/systematics_taxonomy_and_relationship_botany_and_palaeobotany> .
+<http://www.worldcat.org/oclc/973878621> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://www.worldcat.org/oclc/973878621> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/MediaObject> .
+<http://www.worldcat.org/oclc/973878621> <http://schema.org/inLanguage> "fr" .
+<http://www.worldcat.org/oclc/973878621> <http://www.w3.org/2007/05/powder-s#describedby> <http://www.worldcat.org/title/-/oclc/973878621> .
+<http://www.worldcat.org/oclc/973878621> <http://schema.org/exampleOfWork> <http://worldcat.org/entity/work/id/4083136985> .
+<http://www.worldcat.org/oclc/973878621> <http://schema.org/name> "Candollea : journal international de botanique systématique = international journal of systematic botany." .
+<http://www.worldcat.org/oclc/973878621> <http://schema.org/contributor> <http://experiment.worldcat.org/entity/work/data/4083136985#Organization/conservatoire_et_jardin_botaniques_de_la_ville_de_geneve> .
+<http://www.worldcat.org/oclc/973878621> <http://schema.org/datePublished> "1922/9999" .
+<http://www.worldcat.org/oclc/973878621> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/4083136985#Thing/yearbooks_+_annuals_document_type> .
+<http://www.worldcat.org/oclc/973878621> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/4083136985#Thing/annales_+_annuaires_+_recueils_annuels_type_de_document> .
+<http://www.worldcat.org/oclc/973878621> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/4083136985#Thing/systematic_botany> .
+<http://www.worldcat.org/oclc/973878621> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/4083136985#Thing/botanische_garten_botanik> .
+<http://www.worldcat.org/oclc/973878621> <http://purl.org/library/placeOfPublication> <http://id.loc.gov/vocabulary/countries/sz> .
+<http://www.worldcat.org/oclc/973878621> <http://purl.org/library/oclcnum> "973878621" .
+<http://www.worldcat.org/oclc/973878621> <http://schema.org/workExample> <http://worldcat.org/issn/2235-3658> .
+<http://www.worldcat.org/oclc/973878621> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/4083136985#Thing/botanical_gardens_botany> .
+<http://www.worldcat.org/oclc/973878621> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://www.worldcat.org/oclc/973878621> <http://schema.org/productID> "973878621" .
+<http://www.worldcat.org/oclc/973878621> <http://schema.org/url> <http://sfx.ethz.ch/sfx_locater?sid=ALEPH:EBI01&genre=journal&issn=0373-2967> .
+<http://www.worldcat.org/oclc/973878621> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/4083136985#Thing/zeitschriften> .
+<http://www.worldcat.org/oclc/973878621> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/4083136985#Thing/conservatoire_et_jardin_botaniques_de_la_ville_de_geneve> .
+<http://experiment.worldcat.org/entity/work/data/4083136985#Thing/conservatoire_et_jardin_botaniques_de_la_ville_de_geneve> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> .
+<http://experiment.worldcat.org/entity/work/data/4083136985#Thing/conservatoire_et_jardin_botaniques_de_la_ville_de_geneve> <http://schema.org/name> "Conservatoire et Jardin Botaniques de la Ville de Genève" .
+<http://experiment.worldcat.org/entity/work/data/4083136985#Thing/systematische_botanik> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> .
+<http://experiment.worldcat.org/entity/work/data/4083136985#Thing/systematische_botanik> <http://schema.org/name> "SYSTEMATISCHE BOTANIK" .
+<http://experiment.worldcat.org/entity/work/data/4083136985#Thing/systematics_taxonomy_and_relationship_botany_and_palaeobotany> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> .
+<http://experiment.worldcat.org/entity/work/data/4083136985#Thing/systematics_taxonomy_and_relationship_botany_and_palaeobotany> <http://schema.org/name> "SYSTEMATICS, TAXONOMY AND RELATIONSHIP (BOTANY AND PALAEOBOTANY)" .

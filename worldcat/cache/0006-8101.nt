@@ -1,0 +1,39 @@
+<http://id.loc.gov/vocabulary/countries/nyu> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://id.loc.gov/vocabulary/countries/nyu> <http://purl.org/dc/terms/identifier> "nyu" .
+<http://experiment.worldcat.org/entity/work/data/9071045195#Agent/h_a_gleason_and_e_h_fulling> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bibliograph.net/Agent> .
+<http://experiment.worldcat.org/entity/work/data/9071045195#Agent/h_a_gleason_and_e_h_fulling> <http://schema.org/name> "H.A. Gleason and E.H. Fulling" .
+<http://www.worldcat.org/oclc/1098688968> <http://purl.org/library/placeOfPublication> <http://id.loc.gov/vocabulary/countries/nyu> .
+<http://www.worldcat.org/oclc/1098688968> <http://schema.org/contributor> <http://experiment.worldcat.org/entity/work/data/9071045195#Organization/new_york_botanical_garden> .
+<http://www.worldcat.org/oclc/1098688968> <http://schema.org/publisher> <http://experiment.worldcat.org/entity/work/data/9071045195#Agent/h_a_gleason_and_e_h_fulling> .
+<http://www.worldcat.org/oclc/1098688968> <http://schema.org/exampleOfWork> <http://worldcat.org/entity/work/id/9071045195> .
+<http://www.worldcat.org/oclc/1098688968> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://www.worldcat.org/oclc/1098688968> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/MediaObject> .
+<http://www.worldcat.org/oclc/1098688968> <http://schema.org/name> "The botanical review"@en .
+<http://www.worldcat.org/oclc/1098688968> <http://schema.org/datePublished> "1935/9999" .
+<http://www.worldcat.org/oclc/1098688968> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://www.worldcat.org/oclc/1098688968> <http://schema.org/workExample> <http://worldcat.org/issn/1874-9372> .
+<http://www.worldcat.org/oclc/1098688968> <http://schema.org/inLanguage> "en" .
+<http://www.worldcat.org/oclc/1098688968> <http://schema.org/productID> "1098688968" .
+<http://www.worldcat.org/oclc/1098688968> <http://schema.org/datePublished> "1935/" .
+<http://www.worldcat.org/oclc/1098688968> <http://purl.org/library/oclcnum> "1098688968" .
+<http://www.worldcat.org/oclc/1098688968> <http://schema.org/publication> <http://www.worldcat.org/title/-/oclc/1098688968#PublicationEvent/lancaster_pa_h_a_gleason_and_e_h_fulling_1935> .
+<http://www.worldcat.org/oclc/1098688968> <http://purl.org/library/placeOfPublication> <http://experiment.worldcat.org/entity/work/data/9071045195#Place/lancaster_pa> .
+<http://www.worldcat.org/oclc/1098688968> <http://www.w3.org/2007/05/powder-s#describedby> <http://www.worldcat.org/title/-/oclc/1098688968> .
+<http://www.worldcat.org/title/-/oclc/1098688968#PublicationEvent/lancaster_pa_h_a_gleason_and_e_h_fulling_1935> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PublicationEvent> .
+<http://www.worldcat.org/title/-/oclc/1098688968#PublicationEvent/lancaster_pa_h_a_gleason_and_e_h_fulling_1935> <http://schema.org/location> <http://experiment.worldcat.org/entity/work/data/9071045195#Place/lancaster_pa> .
+<http://www.worldcat.org/title/-/oclc/1098688968#PublicationEvent/lancaster_pa_h_a_gleason_and_e_h_fulling_1935> <http://schema.org/organizer> <http://experiment.worldcat.org/entity/work/data/9071045195#Agent/h_a_gleason_and_e_h_fulling> .
+<http://www.worldcat.org/title/-/oclc/1098688968#PublicationEvent/lancaster_pa_h_a_gleason_and_e_h_fulling_1935> <http://schema.org/startDate> "1935-" .
+<http://experiment.worldcat.org/entity/work/data/9071045195#Place/lancaster_pa> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://experiment.worldcat.org/entity/work/data/9071045195#Place/lancaster_pa> <http://schema.org/name> "Lancaster, PA" .
+<http://experiment.worldcat.org/entity/work/data/9071045195#Organization/new_york_botanical_garden> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+<http://experiment.worldcat.org/entity/work/data/9071045195#Organization/new_york_botanical_garden> <http://schema.org/name> "New York Botanical Garden." .
+<http://worldcat.org/issn/1874-9372> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://worldcat.org/issn/1874-9372> <http://schema.org/name> "The botanical review"@en .
+<http://worldcat.org/issn/1874-9372> <http://schema.org/issn> "1874-9372" .
+<http://worldcat.org/issn/1874-9372> <http://umbel.org/umbel#isLike> <http://worldcat.org/entity/work/id/9071045195> .
+<http://www.worldcat.org/title/-/oclc/1098688968> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#ContentTypeGenericResource> .
+<http://www.worldcat.org/title/-/oclc/1098688968> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#InformationResource> .
+<http://www.worldcat.org/title/-/oclc/1098688968> <http://schema.org/about> <http://www.worldcat.org/oclc/1098688968> .
+<http://www.worldcat.org/title/-/oclc/1098688968> <http://schema.org/dateModified> "2019-04-27" .
+<http://www.worldcat.org/title/-/oclc/1098688968> <http://rdfs.org/ns/void#inDataset> <http://purl.oclc.org/dataset/WorldCat> .
+<http://worldcat.org/entity/work/id/9071045195> <http://umbel.org/umbel#isLike> <http://worldcat.org/issn/1874-9372> .

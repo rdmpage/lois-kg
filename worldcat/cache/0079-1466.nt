@@ -1,0 +1,42 @@
+<http://www.worldcat.org/title/-/oclc/711823931#PublicationEvent/cebu_city_univ> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PublicationEvent> .
+<http://www.worldcat.org/title/-/oclc/711823931#PublicationEvent/cebu_city_univ> <http://schema.org/location> <http://experiment.worldcat.org/entity/work/data/5911834#Place/cebu_city> .
+<http://www.worldcat.org/title/-/oclc/711823931#PublicationEvent/cebu_city_univ> <http://schema.org/organizer> <http://experiment.worldcat.org/entity/work/data/5911834#Agent/univ> .
+<http://worldcat.org/issn/0079-1466> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://worldcat.org/issn/0079-1466> <http://schema.org/name> "The Philippine scientist" .
+<http://worldcat.org/issn/0079-1466> <http://schema.org/issn> "0079-1466" .
+<http://worldcat.org/issn/0079-1466> <http://umbel.org/umbel#isLike> <http://worldcat.org/entity/work/id/5911834> .
+<http://viaf.org/viaf/152067268> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+<http://viaf.org/viaf/152067268> <http://schema.org/name> "University of San Carlos (Cebu)" .
+<http://worldcat.org/entity/work/id/5911834> <http://umbel.org/umbel#isLike> <http://worldcat.org/issn/0079-1466> .
+<http://www.philjol.info/philjol/index.php/PSCI/index> <http://www.w3.org/2000/01/rdf-schema#comment> "kostenfrei" .
+<http://experiment.worldcat.org/entity/work/data/5911834#Agent/univ> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bibliograph.net/Agent> .
+<http://experiment.worldcat.org/entity/work/data/5911834#Agent/univ> <http://schema.org/name> "Univ." .
+<http://www.worldcat.org/oclc/711823931> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://www.worldcat.org/oclc/711823931> <http://schema.org/url> <http://search.ebscohost.com/> .
+<http://www.worldcat.org/oclc/711823931> <http://purl.org/library/placeOfPublication> <http://id.loc.gov/vocabulary/countries/ph> .
+<http://www.worldcat.org/oclc/711823931> <http://schema.org/inLanguage> "en" .
+<http://www.worldcat.org/oclc/711823931> <http://schema.org/workExample> <http://worldcat.org/issn/0079-1466> .
+<http://www.worldcat.org/oclc/711823931> <http://umbel.org/umbel#isLike> <http://d-nb.info/1010055763> .
+<http://www.worldcat.org/oclc/711823931> <http://schema.org/url> <http://www.bibliothek.uni-regensburg.de/ezeit/?2594622> .
+<http://www.worldcat.org/oclc/711823931> <http://schema.org/exampleOfWork> <http://worldcat.org/entity/work/id/5911834> .
+<http://www.worldcat.org/oclc/711823931> <http://schema.org/url> <http://www.philjol.info/philjol/index.php/PSCI> .
+<http://www.worldcat.org/oclc/711823931> <http://schema.org/publication> <http://www.worldcat.org/title/-/oclc/711823931#PublicationEvent/cebu_city_univ> .
+<http://www.worldcat.org/oclc/711823931> <http://purl.org/library/oclcnum> "711823931" .
+<http://www.worldcat.org/oclc/711823931> <http://schema.org/publisher> <http://experiment.worldcat.org/entity/work/data/5911834#Agent/univ> .
+<http://www.worldcat.org/oclc/711823931> <http://www.w3.org/2007/05/powder-s#describedby> <http://www.worldcat.org/title/-/oclc/711823931> .
+<http://www.worldcat.org/oclc/711823931> <http://schema.org/url> <http://www.philjol.info/philjol/index.php/PSCI/index> .
+<http://www.worldcat.org/oclc/711823931> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://www.worldcat.org/oclc/711823931> <http://schema.org/productID> "711823931" .
+<http://www.worldcat.org/oclc/711823931> <http://schema.org/name> "The Philippine scientist" .
+<http://www.worldcat.org/oclc/711823931> <http://purl.org/library/placeOfPublication> <http://experiment.worldcat.org/entity/work/data/5911834#Place/cebu_city> .
+<http://www.worldcat.org/oclc/711823931> <http://schema.org/datePublished> "2005/9999" .
+<http://www.worldcat.org/oclc/711823931> <http://schema.org/contributor> <http://viaf.org/viaf/152067268> .
+<http://id.loc.gov/vocabulary/countries/ph> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://id.loc.gov/vocabulary/countries/ph> <http://purl.org/dc/terms/identifier> "ph" .
+<http://www.worldcat.org/title/-/oclc/711823931> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#ContentTypeGenericResource> .
+<http://www.worldcat.org/title/-/oclc/711823931> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#InformationResource> .
+<http://www.worldcat.org/title/-/oclc/711823931> <http://schema.org/about> <http://www.worldcat.org/oclc/711823931> .
+<http://www.worldcat.org/title/-/oclc/711823931> <http://schema.org/dateModified> "2018-11-08" .
+<http://www.worldcat.org/title/-/oclc/711823931> <http://rdfs.org/ns/void#inDataset> <http://purl.oclc.org/dataset/WorldCat> .
+<http://experiment.worldcat.org/entity/work/data/5911834#Place/cebu_city> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://experiment.worldcat.org/entity/work/data/5911834#Place/cebu_city> <http://schema.org/name> "Cebu City" .

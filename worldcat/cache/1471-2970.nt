@@ -1,0 +1,46 @@
+<http://www.worldcat.org/oclc/1121487236> <http://schema.org/url> <http://www.bibliothek.uni-regensburg.de/ezeit/?2985376> .
+<http://www.worldcat.org/oclc/1121487236> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://www.worldcat.org/oclc/1121487236> <http://schema.org/url> <http://rstb.royalsocietypublishing.org/> .
+<http://www.worldcat.org/oclc/1121487236> <http://purl.org/library/oclcnum> "1121487236" .
+<http://www.worldcat.org/oclc/1121487236> <http://schema.org/datePublished> "1887/1895" .
+<http://www.worldcat.org/oclc/1121487236> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://www.worldcat.org/oclc/1121487236> <http://schema.org/isSimilarTo> <http://worldcat.org/entity/work/data/9556712663#CreativeWork/philosophical_transactions_of_the_royal_society_of_london_b_series_b_biological_sciences> .
+<http://www.worldcat.org/oclc/1121487236> <http://schema.org/contributor> <http://experiment.worldcat.org/entity/work/data/9556712663#Organization/royal_society> .
+<http://www.worldcat.org/oclc/1121487236> <http://schema.org/workExample> <http://worldcat.org/issn/1471-2970> .
+<http://www.worldcat.org/oclc/1121487236> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/9556712663#Topic/biowissenschaften> .
+<http://www.worldcat.org/oclc/1121487236> <http://schema.org/url> <https://www.jstor.org/journal/philtranroyasoc5> .
+<http://www.worldcat.org/oclc/1121487236> <http://schema.org/genre> "Zeitschrift" .
+<http://www.worldcat.org/oclc/1121487236> <http://schema.org/exampleOfWork> <http://worldcat.org/entity/work/id/9556712663> .
+<http://www.worldcat.org/oclc/1121487236> <http://schema.org/productID> "1121487236" .
+<http://www.worldcat.org/oclc/1121487236> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/MediaObject> .
+<http://www.worldcat.org/oclc/1121487236> <http://schema.org/inLanguage> "en" .
+<http://www.worldcat.org/oclc/1121487236> <http://purl.org/library/placeOfPublication> <http://id.loc.gov/vocabulary/countries/enk> .
+<http://www.worldcat.org/oclc/1121487236> <http://schema.org/name> "Philosophical transactions of the Royal Society of London. Series B." .
+<http://www.worldcat.org/oclc/1121487236> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/9556712663#Topic/zeitschrift> .
+<http://www.worldcat.org/oclc/1121487236> <http://www.w3.org/2007/05/powder-s#describedby> <http://www.worldcat.org/title/-/oclc/1121487236> .
+<http://www.worldcat.org/oclc/1121487236> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/9556712663#Topic/biologie> .
+<http://worldcat.org/issn/1471-2970> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://worldcat.org/issn/1471-2970> <http://schema.org/name> "Philosophical transactions of the Royal Society of London. Series B." .
+<http://worldcat.org/issn/1471-2970> <http://schema.org/issn> "1471-2970" .
+<http://worldcat.org/issn/1471-2970> <http://umbel.org/umbel#isLike> <http://worldcat.org/entity/work/id/9556712663> .
+<http://experiment.worldcat.org/entity/work/data/9556712663#Topic/zeitschrift> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/9556712663#Topic/zeitschrift> <http://schema.org/name> "Zeitschrift" .
+<http://id.loc.gov/vocabulary/countries/enk> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://id.loc.gov/vocabulary/countries/enk> <http://purl.org/dc/terms/identifier> "enk" .
+<http://experiment.worldcat.org/entity/work/data/9556712663#Topic/biowissenschaften> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/9556712663#Topic/biowissenschaften> <http://schema.org/name> "Biowissenschaften" .
+<http://experiment.worldcat.org/entity/work/data/9556712663#Organization/royal_society> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+<http://experiment.worldcat.org/entity/work/data/9556712663#Organization/royal_society> <http://schema.org/name> "Royal Society" .
+<https://www.jstor.org/journal/philtranroyasoc5> <http://www.w3.org/2000/01/rdf-schema#comment> "kostenfrei" .
+<http://experiment.worldcat.org/entity/work/data/9556712663#Topic/biologie> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/9556712663#Topic/biologie> <http://schema.org/name> "Biologie" .
+<http://worldcat.org/entity/work/data/9556712663#CreativeWork/philosophical_transactions_of_the_royal_society_of_london_b_series_b_biological_sciences> <http://schema.org/isSimilarTo> <http://www.worldcat.org/oclc/1121487236> .
+<http://worldcat.org/entity/work/data/9556712663#CreativeWork/philosophical_transactions_of_the_royal_society_of_london_b_series_b_biological_sciences> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://worldcat.org/entity/work/data/9556712663#CreativeWork/philosophical_transactions_of_the_royal_society_of_london_b_series_b_biological_sciences> <http://www.w3.org/2000/01/rdf-schema#label> "Philosophical transactions of the Royal Society of London / B. Series B, Biological sciences." .
+<http://worldcat.org/entity/work/data/9556712663#CreativeWork/philosophical_transactions_of_the_royal_society_of_london_b_series_b_biological_sciences> <http://schema.org/description> "Erscheint auch als:" .
+<http://www.worldcat.org/title/-/oclc/1121487236> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#ContentTypeGenericResource> .
+<http://www.worldcat.org/title/-/oclc/1121487236> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#InformationResource> .
+<http://www.worldcat.org/title/-/oclc/1121487236> <http://schema.org/about> <http://www.worldcat.org/oclc/1121487236> .
+<http://www.worldcat.org/title/-/oclc/1121487236> <http://schema.org/dateModified> "2019-10-03" .
+<http://www.worldcat.org/title/-/oclc/1121487236> <http://rdfs.org/ns/void#inDataset> <http://purl.oclc.org/dataset/WorldCat> .
+<http://worldcat.org/entity/work/id/9556712663> <http://umbel.org/umbel#isLike> <http://worldcat.org/issn/1471-2970> .

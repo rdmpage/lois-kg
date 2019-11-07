@@ -1,0 +1,41 @@
+<http://id.loc.gov/vocabulary/countries/ve> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://id.loc.gov/vocabulary/countries/ve> <http://purl.org/dc/terms/identifier> "ve" .
+<http://www.worldcat.org/title/-/oclc/909879428> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#ContentTypeGenericResource> .
+<http://www.worldcat.org/title/-/oclc/909879428> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#InformationResource> .
+<http://www.worldcat.org/title/-/oclc/909879428> <http://schema.org/about> <http://www.worldcat.org/oclc/909879428> .
+<http://www.worldcat.org/title/-/oclc/909879428> <http://schema.org/dateModified> "2018-11-08" .
+<http://www.worldcat.org/title/-/oclc/909879428> <http://rdfs.org/ns/void#inDataset> <http://purl.oclc.org/dataset/WorldCat> .
+<http://experiment.worldcat.org/entity/work/data/354868701#Agent/fundacion_instituto_botanico_de_venezuela_dr_tobias_lasser> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bibliograph.net/Agent> .
+<http://experiment.worldcat.org/entity/work/data/354868701#Agent/fundacion_instituto_botanico_de_venezuela_dr_tobias_lasser> <http://schema.org/name> "Fundación Instituto Botánico de Venezuela Dr. Tobías Lasser" .
+<http://experiment.worldcat.org/entity/work/data/354868701#Series/directory_of_open_access_journals> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bibliograph.net/PublicationSeries> .
+<http://experiment.worldcat.org/entity/work/data/354868701#Series/directory_of_open_access_journals> <http://schema.org/hasPart> <http://www.worldcat.org/oclc/909879428> .
+<http://experiment.worldcat.org/entity/work/data/354868701#Series/directory_of_open_access_journals> <http://schema.org/name> "Directory of Open Access Journals ;" .
+<http://experiment.worldcat.org/entity/work/data/354868701#Series/directory_of_open_access_journals> <http://schema.org/name> "Directory of Open Access Journals." .
+<http://www.worldcat.org/title/-/oclc/909879428#PublicationEvent/fundacion_instituto_botanico_de_venezuela_dr_tobias_lasser_2001> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PublicationEvent> .
+<http://www.worldcat.org/title/-/oclc/909879428#PublicationEvent/fundacion_instituto_botanico_de_venezuela_dr_tobias_lasser_2001> <http://schema.org/organizer> <http://experiment.worldcat.org/entity/work/data/354868701#Agent/fundacion_instituto_botanico_de_venezuela_dr_tobias_lasser> .
+<http://www.worldcat.org/title/-/oclc/909879428#PublicationEvent/fundacion_instituto_botanico_de_venezuela_dr_tobias_lasser_2001> <http://schema.org/startDate> "2001-" .
+<http://worldcat.org/issn/0084-5906> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://worldcat.org/issn/0084-5906> <http://schema.org/name> "Acta Botánica Venezuélica" .
+<http://worldcat.org/issn/0084-5906> <http://schema.org/issn> "0084-5906" .
+<http://worldcat.org/issn/0084-5906> <http://umbel.org/umbel#isLike> <http://worldcat.org/entity/work/id/354868701> .
+<http://www.scielo.org.ve/scielo.php?script=sci_serial&lng=es&pid=0084-5906&nrm=iso> <http://www.w3.org/2000/01/rdf-schema#comment> "Full text: 2001-" .
+<http://worldcat.org/entity/work/id/354868701> <http://umbel.org/umbel#isLike> <http://worldcat.org/issn/0084-5906> .
+<http://experiment.worldcat.org/entity/work/data/354868701#Thing/novenytan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> .
+<http://experiment.worldcat.org/entity/work/data/354868701#Thing/novenytan> <http://schema.org/name> "Növénytan" .
+<http://www.worldcat.org/oclc/909879428> <http://schema.org/datePublished> "2001/" .
+<http://www.worldcat.org/oclc/909879428> <http://schema.org/name> "Acta Botánica Venezuélica" .
+<http://www.worldcat.org/oclc/909879428> <http://www.w3.org/2007/05/powder-s#describedby> <http://www.worldcat.org/title/-/oclc/909879428> .
+<http://www.worldcat.org/oclc/909879428> <http://schema.org/datePublished> "2001/9999" .
+<http://www.worldcat.org/oclc/909879428> <http://schema.org/publication> <http://www.worldcat.org/title/-/oclc/909879428#PublicationEvent/fundacion_instituto_botanico_de_venezuela_dr_tobias_lasser_2001> .
+<http://www.worldcat.org/oclc/909879428> <http://schema.org/productID> "909879428" .
+<http://www.worldcat.org/oclc/909879428> <http://schema.org/url> <http://www.scielo.org.ve/scielo.php?script=sci_serial&lng=es&pid=0084-5906&nrm=iso> .
+<http://www.worldcat.org/oclc/909879428> <http://purl.org/library/oclcnum> "909879428" .
+<http://www.worldcat.org/oclc/909879428> <http://schema.org/inLanguage> "en" .
+<http://www.worldcat.org/oclc/909879428> <http://schema.org/exampleOfWork> <http://worldcat.org/entity/work/id/354868701> .
+<http://www.worldcat.org/oclc/909879428> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://www.worldcat.org/oclc/909879428> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://www.worldcat.org/oclc/909879428> <http://schema.org/isPartOf> <http://experiment.worldcat.org/entity/work/data/354868701#Series/directory_of_open_access_journals> .
+<http://www.worldcat.org/oclc/909879428> <http://schema.org/workExample> <http://worldcat.org/issn/0084-5906> .
+<http://www.worldcat.org/oclc/909879428> <http://schema.org/publisher> <http://experiment.worldcat.org/entity/work/data/354868701#Agent/fundacion_instituto_botanico_de_venezuela_dr_tobias_lasser> .
+<http://www.worldcat.org/oclc/909879428> <http://purl.org/library/placeOfPublication> <http://id.loc.gov/vocabulary/countries/ve> .
+<http://www.worldcat.org/oclc/909879428> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/354868701#Thing/novenytan> .

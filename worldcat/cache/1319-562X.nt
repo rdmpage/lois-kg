@@ -1,0 +1,39 @@
+<http://www.worldcat.org/oclc/819321116> <http://schema.org/inLanguage> "en" .
+<http://www.worldcat.org/oclc/819321116> <http://purl.org/library/placeOfPublication> <http://id.loc.gov/vocabulary/countries/ne> .
+<http://www.worldcat.org/oclc/819321116> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://www.worldcat.org/oclc/819321116> <http://schema.org/datePublished> "2009/9999" .
+<http://www.worldcat.org/oclc/819321116> <http://purl.org/library/oclcnum> "819321116" .
+<http://www.worldcat.org/oclc/819321116> <http://schema.org/publisher> <http://experiment.worldcat.org/entity/work/data/1149218083#Agent/elsevier_king_saud_university> .
+<http://www.worldcat.org/oclc/819321116> <http://schema.org/productID> "819321116" .
+<http://www.worldcat.org/oclc/819321116> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/MediaObject> .
+<http://www.worldcat.org/oclc/819321116> <http://schema.org/exampleOfWork> <http://worldcat.org/entity/work/id/1149218083> .
+<http://www.worldcat.org/oclc/819321116> <http://schema.org/workExample> <http://worldcat.org/issn/2213-7106> .
+<http://www.worldcat.org/oclc/819321116> <http://schema.org/publication> <http://www.worldcat.org/title/-/oclc/819321116#PublicationEvent/amsterdam_etc_elsevier_king_saud_university_2009> .
+<http://www.worldcat.org/oclc/819321116> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://www.worldcat.org/oclc/819321116> <http://schema.org/datePublished> "2009/" .
+<http://www.worldcat.org/oclc/819321116> <http://www.w3.org/2007/05/powder-s#describedby> <http://www.worldcat.org/title/-/oclc/819321116> .
+<http://www.worldcat.org/oclc/819321116> <http://purl.org/library/placeOfPublication> <http://experiment.worldcat.org/entity/work/data/1149218083#Place/amsterdam_etc> .
+<http://www.worldcat.org/oclc/819321116> <http://schema.org/name> "Saudi journal of biological sciences : official publication of the Saudi Biological Society." .
+<http://www.worldcat.org/oclc/819321116> <http://schema.org/contributor> <http://experiment.worldcat.org/entity/work/data/1149218083#Organization/saudi_biological_society> .
+<http://worldcat.org/issn/2213-7106> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://worldcat.org/issn/2213-7106> <http://schema.org/name> "Saudi journal of biological sciences : official publication of the Saudi Biological Society." .
+<http://worldcat.org/issn/2213-7106> <http://schema.org/issn> "2213-7106" .
+<http://worldcat.org/issn/2213-7106> <http://umbel.org/umbel#isLike> <http://worldcat.org/entity/work/id/1149218083> .
+<http://experiment.worldcat.org/entity/work/data/1149218083#Agent/elsevier_king_saud_university> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bibliograph.net/Agent> .
+<http://experiment.worldcat.org/entity/work/data/1149218083#Agent/elsevier_king_saud_university> <http://schema.org/name> "Elsevier : King Saud University" .
+<http://www.worldcat.org/title/-/oclc/819321116#PublicationEvent/amsterdam_etc_elsevier_king_saud_university_2009> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PublicationEvent> .
+<http://www.worldcat.org/title/-/oclc/819321116#PublicationEvent/amsterdam_etc_elsevier_king_saud_university_2009> <http://schema.org/location> <http://experiment.worldcat.org/entity/work/data/1149218083#Place/amsterdam_etc> .
+<http://www.worldcat.org/title/-/oclc/819321116#PublicationEvent/amsterdam_etc_elsevier_king_saud_university_2009> <http://schema.org/organizer> <http://experiment.worldcat.org/entity/work/data/1149218083#Agent/elsevier_king_saud_university> .
+<http://www.worldcat.org/title/-/oclc/819321116#PublicationEvent/amsterdam_etc_elsevier_king_saud_university_2009> <http://schema.org/startDate> "2009-" .
+<http://worldcat.org/entity/work/id/1149218083> <http://umbel.org/umbel#isLike> <http://worldcat.org/issn/2213-7106> .
+<http://id.loc.gov/vocabulary/countries/ne> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://id.loc.gov/vocabulary/countries/ne> <http://purl.org/dc/terms/identifier> "ne" .
+<http://experiment.worldcat.org/entity/work/data/1149218083#Organization/saudi_biological_society> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+<http://experiment.worldcat.org/entity/work/data/1149218083#Organization/saudi_biological_society> <http://schema.org/name> "Saudi Biological Society." .
+<http://experiment.worldcat.org/entity/work/data/1149218083#Place/amsterdam_etc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://experiment.worldcat.org/entity/work/data/1149218083#Place/amsterdam_etc> <http://schema.org/name> "Amsterdam etc." .
+<http://www.worldcat.org/title/-/oclc/819321116> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#ContentTypeGenericResource> .
+<http://www.worldcat.org/title/-/oclc/819321116> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#InformationResource> .
+<http://www.worldcat.org/title/-/oclc/819321116> <http://schema.org/about> <http://www.worldcat.org/oclc/819321116> .
+<http://www.worldcat.org/title/-/oclc/819321116> <http://schema.org/dateModified> "2019-02-08" .
+<http://www.worldcat.org/title/-/oclc/819321116> <http://rdfs.org/ns/void#inDataset> <http://purl.oclc.org/dataset/WorldCat> .

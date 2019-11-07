@@ -1,0 +1,45 @@
+<http://experiment.worldcat.org/entity/work/data/12661252#Thing/systematic_botany> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> .
+<http://experiment.worldcat.org/entity/work/data/12661252#Thing/systematic_botany> <http://schema.org/name> "SYSTEMATIC BOTANY" .
+<http://www.worldcat.org/oclc/635718543> <http://schema.org/name> "Monographs in systematic botany from the Missouri Botanical Garden." .
+<http://www.worldcat.org/oclc/635718543> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bibliograph.net/PublicationSeries> .
+<http://www.worldcat.org/oclc/635718543> <http://purl.org/library/placeOfPublication> <http://id.loc.gov/vocabulary/countries/xxu> .
+<http://www.worldcat.org/oclc/635718543> <http://schema.org/publisher> <http://experiment.worldcat.org/entity/work/data/12661252#Agent/missouri_botanical_garden> .
+<http://www.worldcat.org/oclc/635718543> <http://schema.org/publication> <http://www.worldcat.org/title/-/oclc/635718543#PublicationEvent/st_louis_mo_missouri_botanical_garden_1978> .
+<http://www.worldcat.org/oclc/635718543> <http://purl.org/library/placeOfPublication> <http://experiment.worldcat.org/entity/work/data/12661252#Place/st_louis_mo> .
+<http://www.worldcat.org/oclc/635718543> <http://schema.org/inLanguage> "en" .
+<http://www.worldcat.org/oclc/635718543> <http://schema.org/exampleOfWork> <http://worldcat.org/entity/work/id/12661252> .
+<http://www.worldcat.org/oclc/635718543> <http://www.w3.org/2007/05/powder-s#describedby> <http://www.worldcat.org/title/-/oclc/635718543> .
+<http://www.worldcat.org/oclc/635718543> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/12661252#Thing/systematic_botany> .
+<http://www.worldcat.org/oclc/635718543> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://www.worldcat.org/oclc/635718543> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/12661252#Thing/missouri_botanical_garden_st_louis_mo> .
+<http://www.worldcat.org/oclc/635718543> <http://schema.org/productID> "635718543" .
+<http://www.worldcat.org/oclc/635718543> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://www.worldcat.org/oclc/635718543> <http://schema.org/datePublished> "1978/" .
+<http://www.worldcat.org/oclc/635718543> <http://purl.org/library/oclcnum> "635718543" .
+<http://www.worldcat.org/oclc/635718543> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/12661252#Thing/systematische_botanik> .
+<http://www.worldcat.org/oclc/635718543> <http://schema.org/datePublished> "1978/9999" .
+<http://www.worldcat.org/oclc/635718543> <http://schema.org/contributor> <http://experiment.worldcat.org/entity/work/data/12661252#Organization/missouri_botanical_garden_st_louis_mo> .
+<http://www.worldcat.org/oclc/635718543> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/12661252#Thing/botanique_systematique_+_mycologie_systematique> .
+<http://experiment.worldcat.org/entity/work/data/12661252#Thing/botanique_systematique_+_mycologie_systematique> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> .
+<http://experiment.worldcat.org/entity/work/data/12661252#Thing/botanique_systematique_+_mycologie_systematique> <http://schema.org/name> "BOTANIQUE SYSTEMATIQUE + MYCOLOGIE SYSTEMATIQUE" .
+<http://experiment.worldcat.org/entity/work/data/12661252#Thing/systematische_botanik> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> .
+<http://experiment.worldcat.org/entity/work/data/12661252#Thing/systematische_botanik> <http://schema.org/name> "SYSTEMATISCHE BOTANIK" .
+<http://www.worldcat.org/title/-/oclc/635718543> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#ContentTypeGenericResource> .
+<http://www.worldcat.org/title/-/oclc/635718543> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#InformationResource> .
+<http://www.worldcat.org/title/-/oclc/635718543> <http://schema.org/about> <http://www.worldcat.org/oclc/635718543> .
+<http://www.worldcat.org/title/-/oclc/635718543> <http://schema.org/dateModified> "2018-11-09" .
+<http://www.worldcat.org/title/-/oclc/635718543> <http://rdfs.org/ns/void#inDataset> <http://purl.oclc.org/dataset/WorldCat> .
+<http://id.loc.gov/vocabulary/countries/xxu> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://id.loc.gov/vocabulary/countries/xxu> <http://purl.org/dc/terms/identifier> "xxu" .
+<http://experiment.worldcat.org/entity/work/data/12661252#Organization/missouri_botanical_garden_st_louis_mo> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+<http://experiment.worldcat.org/entity/work/data/12661252#Organization/missouri_botanical_garden_st_louis_mo> <http://schema.org/name> "Missouri Botanical Garden (St. Louis, Mo.)" .
+<http://experiment.worldcat.org/entity/work/data/12661252#Agent/missouri_botanical_garden> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bibliograph.net/Agent> .
+<http://experiment.worldcat.org/entity/work/data/12661252#Agent/missouri_botanical_garden> <http://schema.org/name> "Missouri Botanical Garden" .
+<http://www.worldcat.org/title/-/oclc/635718543#PublicationEvent/st_louis_mo_missouri_botanical_garden_1978> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PublicationEvent> .
+<http://www.worldcat.org/title/-/oclc/635718543#PublicationEvent/st_louis_mo_missouri_botanical_garden_1978> <http://schema.org/location> <http://experiment.worldcat.org/entity/work/data/12661252#Place/st_louis_mo> .
+<http://www.worldcat.org/title/-/oclc/635718543#PublicationEvent/st_louis_mo_missouri_botanical_garden_1978> <http://schema.org/organizer> <http://experiment.worldcat.org/entity/work/data/12661252#Agent/missouri_botanical_garden> .
+<http://www.worldcat.org/title/-/oclc/635718543#PublicationEvent/st_louis_mo_missouri_botanical_garden_1978> <http://schema.org/startDate> "1978-" .
+<http://experiment.worldcat.org/entity/work/data/12661252#Thing/missouri_botanical_garden_st_louis_mo> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> .
+<http://experiment.worldcat.org/entity/work/data/12661252#Thing/missouri_botanical_garden_st_louis_mo> <http://schema.org/name> "Missouri Botanical Garden (St. Louis, MO)" .
+<http://experiment.worldcat.org/entity/work/data/12661252#Place/st_louis_mo> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://experiment.worldcat.org/entity/work/data/12661252#Place/st_louis_mo> <http://schema.org/name> "St. Louis Mo" .

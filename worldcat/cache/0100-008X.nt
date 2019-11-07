@@ -1,0 +1,63 @@
+<http://experiment.worldcat.org/entity/work/data/14770790#Place/curitiba_parana_brasil> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://experiment.worldcat.org/entity/work/data/14770790#Place/curitiba_parana_brasil> <http://schema.org/name> "Curitiba, Paraná, Brasil" .
+<http://id.worldcat.org/fast/1206830> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://id.worldcat.org/fast/1206830> <http://schema.org/name> "Brazil." .
+<http://www.worldcat.org/title/-/oclc/741883247#PublicationEvent/curitiba_parana_brasil_o_museu_1971> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PublicationEvent> .
+<http://www.worldcat.org/title/-/oclc/741883247#PublicationEvent/curitiba_parana_brasil_o_museu_1971> <http://schema.org/location> <http://experiment.worldcat.org/entity/work/data/14770790#Place/curitiba_parana_brasil> .
+<http://www.worldcat.org/title/-/oclc/741883247#PublicationEvent/curitiba_parana_brasil_o_museu_1971> <http://schema.org/organizer> <http://experiment.worldcat.org/entity/work/data/14770790#Agent/o_museu> .
+<http://www.worldcat.org/title/-/oclc/741883247#PublicationEvent/curitiba_parana_brasil_o_museu_1971> <http://schema.org/startDate> "1971-" .
+<http://experiment.worldcat.org/entity/work/data/14770790#Agent/o_museu> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bibliograph.net/Agent> .
+<http://experiment.worldcat.org/entity/work/data/14770790#Agent/o_museu> <http://schema.org/name> "O Museu" .
+<http://id.worldcat.org/fast/836869> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://id.worldcat.org/fast/836869> <http://schema.org/name> "Botany" .
+<http://id.worldcat.org/fast/1330486> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://id.worldcat.org/fast/1330486> <http://schema.org/name> "Brazil--Paraná (State)" .
+<http://id.loc.gov/authorities/subjects/sh2007102104> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://id.loc.gov/authorities/subjects/sh2007102104> <http://schema.org/name> "Botany--Brazil" .
+<http://www.worldcat.org/title/-/oclc/741883247> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#ContentTypeGenericResource> .
+<http://www.worldcat.org/title/-/oclc/741883247> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#InformationResource> .
+<http://www.worldcat.org/title/-/oclc/741883247> <http://schema.org/about> <http://www.worldcat.org/oclc/741883247> .
+<http://www.worldcat.org/title/-/oclc/741883247> <http://schema.org/dateModified> "2019-10-05" .
+<http://www.worldcat.org/title/-/oclc/741883247> <http://rdfs.org/ns/void#inDataset> <http://purl.oclc.org/dataset/WorldCat> .
+<http://id.loc.gov/vocabulary/countries/bl> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://id.loc.gov/vocabulary/countries/bl> <http://purl.org/dc/terms/identifier> "bl" .
+<http://dewey.info/class/581.98162/e19/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/14770790#Topic/botany_brazil_parana_state> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/14770790#Topic/botany_brazil_parana_state> <http://schema.org/hasPart> <http://id.loc.gov/authorities/subjects/sh2007102104> .
+<http://experiment.worldcat.org/entity/work/data/14770790#Topic/botany_brazil_parana_state> <http://schema.org/name> "Botany--Brazil--Paraná (State)" .
+<http://www.worldcat.org/oclc/741883247> <http://schema.org/url> <http://books.google.com/books?id=DxclAQAAMAAJ> .
+<http://www.worldcat.org/oclc/741883247> <http://schema.org/isSimilarTo> <http://www.worldcat.org/oclc/4398207> .
+<http://www.worldcat.org/oclc/741883247> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/14770790#Topic/botany_brazil_parana_state> .
+<http://www.worldcat.org/oclc/741883247> <http://schema.org/url> <http://catalog.hathitrust.org/api/volumes/oclc/4398207.html> .
+<http://www.worldcat.org/oclc/741883247> <http://www.w3.org/2000/01/rdf-schema#comment> "Unknown 'gen' value: lgp" .
+<http://www.worldcat.org/oclc/741883247> <http://schema.org/about> <http://id.worldcat.org/fast/1206830> .
+<http://www.worldcat.org/oclc/741883247> <http://schema.org/datePublished> "1971/" .
+<http://www.worldcat.org/oclc/741883247> <http://schema.org/about> <http://id.worldcat.org/fast/1330486> .
+<http://www.worldcat.org/oclc/741883247> <http://purl.org/library/oclcnum> "741883247" .
+<http://www.worldcat.org/oclc/741883247> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/MediaObject> .
+<http://www.worldcat.org/oclc/741883247> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://www.worldcat.org/oclc/741883247> <http://schema.org/publisher> <http://experiment.worldcat.org/entity/work/data/14770790#Agent/o_museu> .
+<http://www.worldcat.org/oclc/741883247> <http://schema.org/about> <http://dewey.info/class/581.98162/e19/> .
+<http://www.worldcat.org/oclc/741883247> <http://schema.org/url> <http://books.google.com/books?id=RBclAQAAMAAJ> .
+<http://www.worldcat.org/oclc/741883247> <http://www.w3.org/2007/05/powder-s#describedby> <http://www.worldcat.org/title/-/oclc/741883247> .
+<http://www.worldcat.org/oclc/741883247> <http://purl.org/library/placeOfPublication> <http://experiment.worldcat.org/entity/work/data/14770790#Place/curitiba_parana_brasil> .
+<http://www.worldcat.org/oclc/741883247> <http://schema.org/publication> <http://www.worldcat.org/title/-/oclc/741883247#PublicationEvent/curitiba_parana_brasil_o_museu_1971> .
+<http://www.worldcat.org/oclc/741883247> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bibliograph.net/PublicationSeries> .
+<http://www.worldcat.org/oclc/741883247> <http://schema.org/exampleOfWork> <http://worldcat.org/entity/work/id/14770790> .
+<http://www.worldcat.org/oclc/741883247> <http://schema.org/inLanguage> "pt" .
+<http://www.worldcat.org/oclc/741883247> <http://schema.org/genre> "Government publication"@en .
+<http://www.worldcat.org/oclc/741883247> <http://schema.org/alternateName> "Boletim do Museu Botânico Municipal" .
+<http://www.worldcat.org/oclc/741883247> <http://schema.org/productID> "741883247" .
+<http://www.worldcat.org/oclc/741883247> <http://schema.org/contributor> <http://viaf.org/viaf/131940320> .
+<http://www.worldcat.org/oclc/741883247> <http://purl.org/library/placeOfPublication> <http://id.loc.gov/vocabulary/countries/bl> .
+<http://www.worldcat.org/oclc/741883247> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://www.worldcat.org/oclc/741883247> <http://schema.org/about> <http://id.loc.gov/authorities/subjects/sh2007102104> .
+<http://www.worldcat.org/oclc/741883247> <http://schema.org/about> <http://id.worldcat.org/fast/836869> .
+<http://www.worldcat.org/oclc/741883247> <http://schema.org/name> "Boletim" .
+<http://worldcat.org/entity/work/id/14770790> <http://schema.org/name> "Boletim (Curitiba (Brazil). Museu Botânico Municipal)" .
+<http://viaf.org/viaf/131940320> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+<http://viaf.org/viaf/131940320> <http://schema.org/name> "Curitiba (Brazil). Museu Botânico Municipal." .
+<http://www.worldcat.org/oclc/4398207> <http://schema.org/isSimilarTo> <http://www.worldcat.org/oclc/741883247> .
+<http://www.worldcat.org/oclc/4398207> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://www.worldcat.org/oclc/4398207> <http://www.w3.org/2000/01/rdf-schema#label> "Boletim (Curitiba (Brazil). Museu Botânico Municipal)" .
+<http://www.worldcat.org/oclc/4398207> <http://schema.org/description> "Print version:" .

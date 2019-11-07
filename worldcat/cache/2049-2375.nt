@@ -1,0 +1,44 @@
+<http://www.worldcat.org/oclc/921504919> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/MediaObject> .
+<http://www.worldcat.org/oclc/921504919> <http://schema.org/exampleOfWork> <http://worldcat.org/entity/work/id/9593183776> .
+<http://www.worldcat.org/oclc/921504919> <http://schema.org/genre> "Indexes"@en .
+<http://www.worldcat.org/oclc/921504919> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/9593183776#Topic/fungi> .
+<http://www.worldcat.org/oclc/921504919> <http://schema.org/productID> "921504919" .
+<http://www.worldcat.org/oclc/921504919> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://www.worldcat.org/oclc/921504919> <http://www.w3.org/2000/01/rdf-schema#comment> "Unknown 'gen' value: upd" .
+<http://www.worldcat.org/oclc/921504919> <http://schema.org/publication> <http://www.worldcat.org/title/-/oclc/921504919#PublicationEvent/egham_p_m_kirk> .
+<http://www.worldcat.org/oclc/921504919> <http://purl.org/library/placeOfPublication> <http://id.loc.gov/vocabulary/countries/enk> .
+<http://www.worldcat.org/oclc/921504919> <http://schema.org/name> "Index fungorum."@en .
+<http://www.worldcat.org/oclc/921504919> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://www.worldcat.org/oclc/921504919> <http://purl.org/library/oclcnum> "921504919" .
+<http://www.worldcat.org/oclc/921504919> <http://www.w3.org/2007/05/powder-s#describedby> <http://www.worldcat.org/title/-/oclc/921504919> .
+<http://www.worldcat.org/oclc/921504919> <http://purl.org/library/placeOfPublication> <http://experiment.worldcat.org/entity/work/data/9593183776#Place/egham> .
+<http://www.worldcat.org/oclc/921504919> <http://schema.org/inLanguage> "en" .
+<http://www.worldcat.org/oclc/921504919> <http://umbel.org/umbel#isLike> <http://bnb.data.bl.uk/id/resource/GBB210755> .
+<http://www.worldcat.org/oclc/921504919> <http://schema.org/url> <http://www.indexfungorum.org/Names/IndexFungorumPublicationsListing.asp> .
+<http://www.worldcat.org/oclc/921504919> <http://schema.org/workExample> <http://worldcat.org/issn/2049-2375> .
+<http://www.worldcat.org/oclc/921504919> <http://schema.org/publisher> <http://experiment.worldcat.org/entity/work/data/9593183776#Agent/p_m_kirk> .
+<http://www.worldcat.org/oclc/921504919> <http://schema.org/datePublished> "2012/9999" .
+<http://www.worldcat.org/oclc/921504919> <http://schema.org/about> <http://dewey.info/class/016.579/e23/> .
+<http://www.worldcat.org/oclc/921504919> <http://schema.org/genre> "Periodicals"@en .
+<http://www.worldcat.org/title/-/oclc/921504919> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#ContentTypeGenericResource> .
+<http://www.worldcat.org/title/-/oclc/921504919> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#InformationResource> .
+<http://www.worldcat.org/title/-/oclc/921504919> <http://schema.org/about> <http://www.worldcat.org/oclc/921504919> .
+<http://www.worldcat.org/title/-/oclc/921504919> <http://schema.org/dateModified> "2019-10-24" .
+<http://www.worldcat.org/title/-/oclc/921504919> <http://rdfs.org/ns/void#inDataset> <http://purl.oclc.org/dataset/WorldCat> .
+<http://dewey.info/class/016.579/e23/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/9593183776#Place/egham> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://experiment.worldcat.org/entity/work/data/9593183776#Place/egham> <http://schema.org/name> "Egham" .
+<http://worldcat.org/entity/work/id/9593183776> <http://umbel.org/umbel#isLike> <http://worldcat.org/issn/2049-2375> .
+<http://id.loc.gov/vocabulary/countries/enk> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://id.loc.gov/vocabulary/countries/enk> <http://purl.org/dc/terms/identifier> "enk" .
+<http://experiment.worldcat.org/entity/work/data/9593183776#Agent/p_m_kirk> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bibliograph.net/Agent> .
+<http://experiment.worldcat.org/entity/work/data/9593183776#Agent/p_m_kirk> <http://schema.org/name> "P.M. Kirk." .
+<http://worldcat.org/issn/2049-2375> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://worldcat.org/issn/2049-2375> <http://schema.org/name> "Index fungorum."@en .
+<http://worldcat.org/issn/2049-2375> <http://schema.org/issn> "2049-2375" .
+<http://worldcat.org/issn/2049-2375> <http://umbel.org/umbel#isLike> <http://worldcat.org/entity/work/id/9593183776> .
+<http://www.worldcat.org/title/-/oclc/921504919#PublicationEvent/egham_p_m_kirk> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PublicationEvent> .
+<http://www.worldcat.org/title/-/oclc/921504919#PublicationEvent/egham_p_m_kirk> <http://schema.org/location> <http://experiment.worldcat.org/entity/work/data/9593183776#Place/egham> .
+<http://www.worldcat.org/title/-/oclc/921504919#PublicationEvent/egham_p_m_kirk> <http://schema.org/organizer> <http://experiment.worldcat.org/entity/work/data/9593183776#Agent/p_m_kirk> .
+<http://experiment.worldcat.org/entity/work/data/9593183776#Topic/fungi> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/9593183776#Topic/fungi> <http://schema.org/name> "Fungi"@en .

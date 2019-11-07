@@ -1,0 +1,48 @@
+<http://id.loc.gov/vocabulary/countries/nyu> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://id.loc.gov/vocabulary/countries/nyu> <http://purl.org/dc/terms/identifier> "nyu" .
+<http://www.worldcat.org/oclc/57215385> <http://schema.org/productID> "57215385" .
+<http://www.worldcat.org/oclc/57215385> <http://purl.org/library/placeOfPublication> <http://dbpedia.org/resource/New_York_City> .
+<http://www.worldcat.org/oclc/57215385> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://www.worldcat.org/oclc/57215385> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/1158586766#Topic/sciences_disciplines_scientifiques> .
+<http://www.worldcat.org/oclc/57215385> <http://purl.org/library/placeOfPublication> <http://id.loc.gov/vocabulary/countries/nyu> .
+<http://www.worldcat.org/oclc/57215385> <http://www.w3.org/2007/05/powder-s#describedby> <http://www.worldcat.org/title/-/oclc/57215385> .
+<http://www.worldcat.org/oclc/57215385> <http://schema.org/exampleOfWork> <http://worldcat.org/entity/work/id/1158586766> .
+<http://www.worldcat.org/oclc/57215385> <http://purl.org/library/oclcnum> "57215385" .
+<http://www.worldcat.org/oclc/57215385> <http://schema.org/publisher> <http://experiment.worldcat.org/entity/work/data/1158586766#Agent/the_academy> .
+<http://www.worldcat.org/oclc/57215385> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/MediaObject> .
+<http://www.worldcat.org/oclc/57215385> <http://schema.org/url> <http://www.nyas.org/> .
+<http://www.worldcat.org/oclc/57215385> <http://schema.org/url> <http://www.annalsnyas.org/> .
+<http://www.worldcat.org/oclc/57215385> <http://schema.org/inLanguage> "en" .
+<http://www.worldcat.org/oclc/57215385> <http://schema.org/contributor> <http://viaf.org/viaf/4361150518485203650003> .
+<http://www.worldcat.org/oclc/57215385> <http://schema.org/name> "Annals of the New York Academy of Sciences" .
+<http://www.worldcat.org/oclc/57215385> <http://schema.org/publication> <http://www.worldcat.org/title/-/oclc/57215385#PublicationEvent/new_york_the_academy> .
+<http://www.worldcat.org/oclc/57215385> <http://schema.org/datePublished> "1998/9999" .
+<http://www.worldcat.org/oclc/57215385> <http://schema.org/genre> "Périodique électronique (Descripteur de forme)" .
+<http://www.worldcat.org/oclc/57215385> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/1158586766#Topic/sciences> .
+<http://www.worldcat.org/oclc/57215385> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://www.worldcat.org/oclc/57215385> <http://schema.org/isSimilarTo> <http://worldcat.org/entity/work/data/1158586766#CreativeWork/annals_of_the_new_york_academy_of_sciences> .
+<http://www.worldcat.org/oclc/57215385> <http://schema.org/genre> "Ressource Internet (Descripteur de forme)" .
+<http://www.worldcat.org/title/-/oclc/57215385> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#ContentTypeGenericResource> .
+<http://www.worldcat.org/title/-/oclc/57215385> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#InformationResource> .
+<http://www.worldcat.org/title/-/oclc/57215385> <http://schema.org/about> <http://www.worldcat.org/oclc/57215385> .
+<http://www.worldcat.org/title/-/oclc/57215385> <http://schema.org/dateModified> "2019-02-09" .
+<http://www.worldcat.org/title/-/oclc/57215385> <http://rdfs.org/ns/void#inDataset> <http://purl.oclc.org/dataset/WorldCat> .
+<http://experiment.worldcat.org/entity/work/data/1158586766#Agent/the_academy> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bibliograph.net/Agent> .
+<http://experiment.worldcat.org/entity/work/data/1158586766#Agent/the_academy> <http://schema.org/name> "The Academy" .
+<http://worldcat.org/entity/work/data/1158586766#CreativeWork/annals_of_the_new_york_academy_of_sciences> <http://schema.org/isSimilarTo> <http://www.worldcat.org/oclc/57215385> .
+<http://worldcat.org/entity/work/data/1158586766#CreativeWork/annals_of_the_new_york_academy_of_sciences> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://worldcat.org/entity/work/data/1158586766#CreativeWork/annals_of_the_new_york_academy_of_sciences> <http://www.w3.org/2000/01/rdf-schema#label> "Annals of the New York Academy of Sciences" .
+<http://www.nyas.org/> <http://www.w3.org/2000/01/rdf-schema#comment> "Page d'accueil de l'éditeur" .
+<http://experiment.worldcat.org/entity/work/data/1158586766#Topic/sciences> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/1158586766#Topic/sciences> <http://schema.org/name> "Sciences"@fr .
+<http://viaf.org/viaf/4361150518485203650003> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+<http://viaf.org/viaf/4361150518485203650003> <http://schema.org/name> "New York Academy of Sciences." .
+<http://worldcat.org/entity/work/id/1158586766> <http://schema.org/name> "Annals of the New York Academy of Sciences (En ligne)" .
+<http://dbpedia.org/resource/New_York_City> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://dbpedia.org/resource/New_York_City> <http://schema.org/name> "New York" .
+<http://www.annalsnyas.org/> <http://www.w3.org/2000/01/rdf-schema#comment> "Acc%60es réservé UdeM" .
+<http://experiment.worldcat.org/entity/work/data/1158586766#Topic/sciences_disciplines_scientifiques> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/1158586766#Topic/sciences_disciplines_scientifiques> <http://schema.org/name> "Sciences (Disciplines scientifiques)" .
+<http://www.worldcat.org/title/-/oclc/57215385#PublicationEvent/new_york_the_academy> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PublicationEvent> .
+<http://www.worldcat.org/title/-/oclc/57215385#PublicationEvent/new_york_the_academy> <http://schema.org/location> <http://dbpedia.org/resource/New_York_City> .
+<http://www.worldcat.org/title/-/oclc/57215385#PublicationEvent/new_york_the_academy> <http://schema.org/organizer> <http://experiment.worldcat.org/entity/work/data/1158586766#Agent/the_academy> .

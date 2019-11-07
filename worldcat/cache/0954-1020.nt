@@ -1,0 +1,68 @@
+<http://www.worldcat.org/oclc/629705699> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/5615676101#Topic/geografia_fisica_publicaciones_periodicas> .
+<http://www.worldcat.org/oclc/629705699> <http://schema.org/workExample> <http://worldcat.org/issn/0954-1020> .
+<http://www.worldcat.org/oclc/629705699> <http://purl.org/library/placeOfPublication> <http://experiment.worldcat.org/entity/work/data/5615676101#Place/cambridge> .
+<http://www.worldcat.org/oclc/629705699> <http://purl.org/library/oclcnum> "629705699" .
+<http://www.worldcat.org/oclc/629705699> <http://schema.org/genre> "Periodicals" .
+<http://www.worldcat.org/oclc/629705699> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://www.worldcat.org/oclc/629705699> <http://schema.org/name> "Antartic science" .
+<http://www.worldcat.org/oclc/629705699> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://www.worldcat.org/oclc/629705699> <http://schema.org/datePublished> "1989/9999" .
+<http://www.worldcat.org/oclc/629705699> <http://schema.org/publication> <http://www.worldcat.org/title/-/oclc/629705699#PublicationEvent/cambridge_cambridge_university_press_1989> .
+<http://www.worldcat.org/oclc/629705699> <http://schema.org/url> <http://www.ubu.es/ubu/cm/bubu/NCUnconformances.1.1.tkUnconformances.0/tkNCCreateExt?idFormType=10&biblioReg=b1185797> .
+<http://www.worldcat.org/oclc/629705699> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/5615676101#Topic/biologia_publicaciones_periodicas_en_linea> .
+<http://www.worldcat.org/oclc/629705699> <http://www.w3.org/2007/05/powder-s#describedby> <http://www.worldcat.org/title/-/oclc/629705699> .
+<http://www.worldcat.org/oclc/629705699> <http://schema.org/publisher> <http://experiment.worldcat.org/entity/work/data/5615676101#Agent/cambridge_university_press> .
+<http://www.worldcat.org/oclc/629705699> <http://schema.org/workExample> <http://worldcat.org/issn/1365-2079> .
+<http://www.worldcat.org/oclc/629705699> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/5615676101#Topic/science_antarctica> .
+<http://www.worldcat.org/oclc/629705699> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/5615676101#Topic/ciencias_de_la_tierra_publicaciones_periodicas> .
+<http://www.worldcat.org/oclc/629705699> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/5615676101#Topic/science> .
+<http://www.worldcat.org/oclc/629705699> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/MediaObject> .
+<http://www.worldcat.org/oclc/629705699> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/5615676101#Place/antarctica> .
+<http://www.worldcat.org/oclc/629705699> <http://schema.org/productID> "629705699" .
+<http://www.worldcat.org/oclc/629705699> <http://schema.org/contributor> <http://experiment.worldcat.org/entity/work/data/5615676101#Organization/university_of_cambridge> .
+<http://www.worldcat.org/oclc/629705699> <http://schema.org/inLanguage> "en" .
+<http://www.worldcat.org/oclc/629705699> <http://schema.org/datePublished> "1989/" .
+<http://www.worldcat.org/oclc/629705699> <http://schema.org/exampleOfWork> <http://worldcat.org/entity/work/id/5615676101> .
+<http://www.worldcat.org/oclc/629705699> <http://schema.org/about> <http://dewey.info/class/509.989/e20/> .
+<http://www.worldcat.org/oclc/629705699> <http://purl.org/library/placeOfPublication> <http://id.loc.gov/vocabulary/countries/enk> .
+<http://www.ubu.es/ubu/cm/bubu/NCUnconformances.1.1.tkUnconformances.0/tkNCCreateExt?idFormType=10&biblioReg=b1185797> <http://www.w3.org/2000/01/rdf-schema#comment> "Formulario de incidencias" .
+<http://dewey.info/class/509.989/e20/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/5615676101#Topic/ciencias_de_la_tierra_publicaciones_periodicas> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/5615676101#Topic/ciencias_de_la_tierra_publicaciones_periodicas> <http://schema.org/name> "Ciencias de la tierra--Publicaciones periódicas" .
+<http://experiment.worldcat.org/entity/work/data/5615676101#Agent/cambridge_university_press> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bibliograph.net/Agent> .
+<http://experiment.worldcat.org/entity/work/data/5615676101#Agent/cambridge_university_press> <http://schema.org/name> "Cambridge University Press" .
+<http://worldcat.org/issn/0954-1020> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://worldcat.org/issn/0954-1020> <http://schema.org/name> "Antartic science" .
+<http://worldcat.org/issn/0954-1020> <http://schema.org/issn> "0954-1020" .
+<http://worldcat.org/issn/0954-1020> <http://umbel.org/umbel#isLike> <http://worldcat.org/entity/work/id/5615676101> .
+<http://experiment.worldcat.org/entity/work/data/5615676101#Organization/university_of_cambridge> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+<http://experiment.worldcat.org/entity/work/data/5615676101#Organization/university_of_cambridge> <http://schema.org/name> "University of Cambridge." .
+<http://id.loc.gov/vocabulary/countries/enk> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://id.loc.gov/vocabulary/countries/enk> <http://purl.org/dc/terms/identifier> "enk" .
+<http://experiment.worldcat.org/entity/work/data/5615676101#Place/cambridge> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://experiment.worldcat.org/entity/work/data/5615676101#Place/cambridge> <http://schema.org/name> "Cambridge" .
+<http://worldcat.org/issn/1365-2079> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://worldcat.org/issn/1365-2079> <http://schema.org/name> "Antartic science" .
+<http://worldcat.org/issn/1365-2079> <http://schema.org/issn> "1365-2079" .
+<http://worldcat.org/issn/1365-2079> <http://umbel.org/umbel#isLike> <http://worldcat.org/entity/work/id/5615676101> .
+<http://experiment.worldcat.org/entity/work/data/5615676101#Place/antarctica> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://experiment.worldcat.org/entity/work/data/5615676101#Place/antarctica> <http://schema.org/name> "Antarctica." .
+<http://experiment.worldcat.org/entity/work/data/5615676101#Topic/science_antarctica> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/5615676101#Topic/science_antarctica> <http://schema.org/name> "Science--Antarctica" .
+<http://experiment.worldcat.org/entity/work/data/5615676101#Topic/science> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/5615676101#Topic/science> <http://schema.org/name> "Science" .
+<http://experiment.worldcat.org/entity/work/data/5615676101#Topic/biologia_publicaciones_periodicas_en_linea> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/5615676101#Topic/biologia_publicaciones_periodicas_en_linea> <http://schema.org/name> "Biología--Publicaciones periódicas--En línea" .
+<http://www.worldcat.org/title/-/oclc/629705699#PublicationEvent/cambridge_cambridge_university_press_1989> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PublicationEvent> .
+<http://www.worldcat.org/title/-/oclc/629705699#PublicationEvent/cambridge_cambridge_university_press_1989> <http://schema.org/location> <http://experiment.worldcat.org/entity/work/data/5615676101#Place/cambridge> .
+<http://www.worldcat.org/title/-/oclc/629705699#PublicationEvent/cambridge_cambridge_university_press_1989> <http://schema.org/organizer> <http://experiment.worldcat.org/entity/work/data/5615676101#Agent/cambridge_university_press> .
+<http://www.worldcat.org/title/-/oclc/629705699#PublicationEvent/cambridge_cambridge_university_press_1989> <http://schema.org/startDate> "1989-" .
+<http://experiment.worldcat.org/entity/work/data/5615676101#Topic/geografia_fisica_publicaciones_periodicas> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/5615676101#Topic/geografia_fisica_publicaciones_periodicas> <http://schema.org/name> "Geografía física--Publicaciones periódicas" .
+<http://worldcat.org/entity/work/id/5615676101> <http://umbel.org/umbel#isLike> <http://worldcat.org/issn/0954-1020> .
+<http://worldcat.org/entity/work/id/5615676101> <http://umbel.org/umbel#isLike> <http://worldcat.org/issn/1365-2079> .
+<http://www.worldcat.org/title/-/oclc/629705699> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#ContentTypeGenericResource> .
+<http://www.worldcat.org/title/-/oclc/629705699> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#InformationResource> .
+<http://www.worldcat.org/title/-/oclc/629705699> <http://schema.org/about> <http://www.worldcat.org/oclc/629705699> .
+<http://www.worldcat.org/title/-/oclc/629705699> <http://schema.org/dateModified> "2019-02-09" .
+<http://www.worldcat.org/title/-/oclc/629705699> <http://rdfs.org/ns/void#inDataset> <http://purl.oclc.org/dataset/WorldCat> .

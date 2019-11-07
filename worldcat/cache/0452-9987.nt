@@ -1,0 +1,42 @@
+<http://viaf.org/viaf/148375350> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+<http://viaf.org/viaf/148375350> <http://schema.org/name> "Kyoto University. Biological Laboratory." .
+<http://www.worldcat.org/title/-/oclc/716204619#PublicationEvent/kyoto_laboratory_yoshida_nihonmatsu_cho_1955> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PublicationEvent> .
+<http://www.worldcat.org/title/-/oclc/716204619#PublicationEvent/kyoto_laboratory_yoshida_nihonmatsu_cho_1955> <http://schema.org/location> <http://experiment.worldcat.org/entity/work/data/3374827558#Place/kyoto> .
+<http://www.worldcat.org/title/-/oclc/716204619#PublicationEvent/kyoto_laboratory_yoshida_nihonmatsu_cho_1955> <http://schema.org/organizer> <http://experiment.worldcat.org/entity/work/data/3374827558#Agent/laboratory_yoshida_nihonmatsu_cho> .
+<http://www.worldcat.org/title/-/oclc/716204619#PublicationEvent/kyoto_laboratory_yoshida_nihonmatsu_cho_1955> <http://schema.org/startDate> "1955-" .
+<http://www.worldcat.org/oclc/716204619> <http://purl.org/library/oclcnum> "716204619" .
+<http://www.worldcat.org/oclc/716204619> <http://purl.org/library/placeOfPublication> <http://experiment.worldcat.org/entity/work/data/3374827558#Place/kyoto> .
+<http://www.worldcat.org/oclc/716204619> <http://schema.org/exampleOfWork> <http://worldcat.org/entity/work/id/3374827558> .
+<http://www.worldcat.org/oclc/716204619> <http://schema.org/datePublished> "1955/9999" .
+<http://www.worldcat.org/oclc/716204619> <http://schema.org/workExample> <http://worldcat.org/issn/0452-9987> .
+<http://www.worldcat.org/oclc/716204619> <http://schema.org/name> "Contributions from the Biological Laboratory" .
+<http://www.worldcat.org/oclc/716204619> <http://schema.org/publisher> <http://experiment.worldcat.org/entity/work/data/3374827558#Agent/laboratory_yoshida_nihonmatsu_cho> .
+<http://www.worldcat.org/oclc/716204619> <http://schema.org/contributor> <http://viaf.org/viaf/148375350> .
+<http://www.worldcat.org/oclc/716204619> <http://schema.org/datePublished> "1955/" .
+<http://www.worldcat.org/oclc/716204619> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://www.worldcat.org/oclc/716204619> <http://purl.org/library/placeOfPublication> <http://id.loc.gov/vocabulary/countries/ja> .
+<http://www.worldcat.org/oclc/716204619> <http://schema.org/inLanguage> "en" .
+<http://www.worldcat.org/oclc/716204619> <http://schema.org/genre> "[périodique]" .
+<http://www.worldcat.org/oclc/716204619> <http://www.w3.org/2007/05/powder-s#describedby> <http://www.worldcat.org/title/-/oclc/716204619> .
+<http://www.worldcat.org/oclc/716204619> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/3374827558#Topic/biologie> .
+<http://www.worldcat.org/oclc/716204619> <http://schema.org/productID> "716204619" .
+<http://www.worldcat.org/oclc/716204619> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://www.worldcat.org/oclc/716204619> <http://schema.org/publication> <http://www.worldcat.org/title/-/oclc/716204619#PublicationEvent/kyoto_laboratory_yoshida_nihonmatsu_cho_1955> .
+<http://experiment.worldcat.org/entity/work/data/3374827558#Agent/laboratory_yoshida_nihonmatsu_cho> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bibliograph.net/Agent> .
+<http://experiment.worldcat.org/entity/work/data/3374827558#Agent/laboratory_yoshida_nihonmatsu_cho> <http://schema.org/name> "Laboratory Yoshida-Nihonmatsu-Cho" .
+<http://experiment.worldcat.org/entity/work/data/3374827558#Place/kyoto> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://experiment.worldcat.org/entity/work/data/3374827558#Place/kyoto> <http://schema.org/name> "Kyoto" .
+<http://www.worldcat.org/title/-/oclc/716204619> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#ContentTypeGenericResource> .
+<http://www.worldcat.org/title/-/oclc/716204619> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#InformationResource> .
+<http://www.worldcat.org/title/-/oclc/716204619> <http://schema.org/about> <http://www.worldcat.org/oclc/716204619> .
+<http://www.worldcat.org/title/-/oclc/716204619> <http://schema.org/dateModified> "2018-11-07" .
+<http://www.worldcat.org/title/-/oclc/716204619> <http://rdfs.org/ns/void#inDataset> <http://purl.oclc.org/dataset/WorldCat> .
+<http://worldcat.org/issn/0452-9987> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://worldcat.org/issn/0452-9987> <http://schema.org/name> "Contributions from the Biological Laboratory" .
+<http://worldcat.org/issn/0452-9987> <http://schema.org/issn> "0452-9987" .
+<http://worldcat.org/issn/0452-9987> <http://umbel.org/umbel#isLike> <http://worldcat.org/entity/work/id/3374827558> .
+<http://id.loc.gov/vocabulary/countries/ja> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://id.loc.gov/vocabulary/countries/ja> <http://purl.org/dc/terms/identifier> "ja" .
+<http://experiment.worldcat.org/entity/work/data/3374827558#Topic/biologie> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/3374827558#Topic/biologie> <http://schema.org/name> "biologie" .
+<http://worldcat.org/entity/work/id/3374827558> <http://umbel.org/umbel#isLike> <http://worldcat.org/issn/0452-9987> .

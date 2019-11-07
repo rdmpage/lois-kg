@@ -1,0 +1,43 @@
+<http://www.worldcat.org/title/-/oclc/436530911#PublicationEvent/malaga_universidad_de_malaga_1975> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PublicationEvent> .
+<http://www.worldcat.org/title/-/oclc/436530911#PublicationEvent/malaga_universidad_de_malaga_1975> <http://schema.org/location> <http://experiment.worldcat.org/entity/work/data/3760853190#Place/malaga> .
+<http://www.worldcat.org/title/-/oclc/436530911#PublicationEvent/malaga_universidad_de_malaga_1975> <http://schema.org/organizer> <http://experiment.worldcat.org/entity/work/data/3760853190#Agent/universidad_de_malaga> .
+<http://www.worldcat.org/title/-/oclc/436530911#PublicationEvent/malaga_universidad_de_malaga_1975> <http://schema.org/startDate> "1975-" .
+<http://www.worldcat.org/title/-/oclc/436530911> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#ContentTypeGenericResource> .
+<http://www.worldcat.org/title/-/oclc/436530911> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#InformationResource> .
+<http://www.worldcat.org/title/-/oclc/436530911> <http://schema.org/about> <http://www.worldcat.org/oclc/436530911> .
+<http://www.worldcat.org/title/-/oclc/436530911> <http://schema.org/dateModified> "2018-11-11" .
+<http://www.worldcat.org/title/-/oclc/436530911> <http://rdfs.org/ns/void#inDataset> <http://purl.oclc.org/dataset/WorldCat> .
+<http://worldcat.org/issn/0210-9506> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://worldcat.org/issn/0210-9506> <http://schema.org/name> "Acta Botanica Malacitana" .
+<http://worldcat.org/issn/0210-9506> <http://schema.org/issn> "0210-9506" .
+<http://worldcat.org/issn/0210-9506> <http://umbel.org/umbel#isLike> <http://worldcat.org/entity/work/id/3760853190> .
+<http://experiment.worldcat.org/entity/work/data/3760853190#Place/malaga> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://experiment.worldcat.org/entity/work/data/3760853190#Place/malaga> <http://schema.org/name> "Málaga" .
+<http://worldcat.org/entity/work/id/3760853190> <http://umbel.org/umbel#isLike> <http://worldcat.org/issn/0210-9506> .
+<http://www.worldcat.org/oclc/436530911> <http://schema.org/productID> "436530911" .
+<http://www.worldcat.org/oclc/436530911> <http://schema.org/publisher> <http://experiment.worldcat.org/entity/work/data/3760853190#Agent/universidad_de_malaga> .
+<http://www.worldcat.org/oclc/436530911> <http://schema.org/workExample> <http://worldcat.org/issn/0210-9506> .
+<http://www.worldcat.org/oclc/436530911> <http://schema.org/exampleOfWork> <http://worldcat.org/entity/work/id/3760853190> .
+<http://www.worldcat.org/oclc/436530911> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/3760853190#Topic/botanica> .
+<http://www.worldcat.org/oclc/436530911> <http://schema.org/contributor> <http://viaf.org/viaf/134989715> .
+<http://www.worldcat.org/oclc/436530911> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://www.worldcat.org/oclc/436530911> <http://purl.org/library/placeOfPublication> <http://id.loc.gov/vocabulary/countries/sp> .
+<http://www.worldcat.org/oclc/436530911> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://www.worldcat.org/oclc/436530911> <http://schema.org/publication> <http://www.worldcat.org/title/-/oclc/436530911#PublicationEvent/malaga_universidad_de_malaga_1975> .
+<http://www.worldcat.org/oclc/436530911> <http://www.w3.org/2007/05/powder-s#describedby> <http://www.worldcat.org/title/-/oclc/436530911> .
+<http://www.worldcat.org/oclc/436530911> <http://schema.org/inLanguage> "mul" .
+<http://www.worldcat.org/oclc/436530911> <http://purl.org/library/oclcnum> "436530911" .
+<http://www.worldcat.org/oclc/436530911> <http://schema.org/url> <http://webdeptos.uma.es/BiolVeg/03Rev/00HRev/01Rev.html> .
+<http://www.worldcat.org/oclc/436530911> <http://schema.org/datePublished> "1975/" .
+<http://www.worldcat.org/oclc/436530911> <http://purl.org/library/placeOfPublication> <http://experiment.worldcat.org/entity/work/data/3760853190#Place/malaga> .
+<http://www.worldcat.org/oclc/436530911> <http://schema.org/datePublished> "1975/9999" .
+<http://www.worldcat.org/oclc/436530911> <http://schema.org/alternateName> "ABM (Málaga)" .
+<http://www.worldcat.org/oclc/436530911> <http://schema.org/name> "Acta Botanica Malacitana" .
+<http://experiment.worldcat.org/entity/work/data/3760853190#Agent/universidad_de_malaga> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bibliograph.net/Agent> .
+<http://experiment.worldcat.org/entity/work/data/3760853190#Agent/universidad_de_malaga> <http://schema.org/name> "Universidad de Málaga" .
+<http://experiment.worldcat.org/entity/work/data/3760853190#Topic/botanica> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/3760853190#Topic/botanica> <http://schema.org/name> "Botánica" .
+<http://id.loc.gov/vocabulary/countries/sp> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://id.loc.gov/vocabulary/countries/sp> <http://purl.org/dc/terms/identifier> "sp" .
+<http://viaf.org/viaf/134989715> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+<http://viaf.org/viaf/134989715> <http://schema.org/name> "Málaga. Ayuntamiento." .

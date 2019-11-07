@@ -1,0 +1,53 @@
+<http://worldcat.org/issn/2084-4352> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://worldcat.org/issn/2084-4352> <http://schema.org/name> "Polish Botanical Journal" .
+<http://worldcat.org/issn/2084-4352> <http://schema.org/issn> "2084-4352" .
+<http://worldcat.org/issn/2084-4352> <http://umbel.org/umbel#isLike> <http://worldcat.org/entity/work/id/36295989> .
+<http://experiment.worldcat.org/entity/work/data/36295989#Agent/polish_academy_of_sciences> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bibliograph.net/Agent> .
+<http://experiment.worldcat.org/entity/work/data/36295989#Agent/polish_academy_of_sciences> <http://schema.org/name> "Polish Academy of Sciences" .
+<http://worldcat.org/entity/work/id/36295989> <http://umbel.org/umbel#isLike> <http://worldcat.org/issn/1641-8190> .
+<http://worldcat.org/entity/work/id/36295989> <http://umbel.org/umbel#isLike> <http://worldcat.org/issn/2084-4352> .
+<http://www.worldcat.org/title/-/oclc/929684748> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#ContentTypeGenericResource> .
+<http://www.worldcat.org/title/-/oclc/929684748> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#InformationResource> .
+<http://www.worldcat.org/title/-/oclc/929684748> <http://schema.org/about> <http://www.worldcat.org/oclc/929684748> .
+<http://www.worldcat.org/title/-/oclc/929684748> <http://schema.org/dateModified> "2019-02-09" .
+<http://www.worldcat.org/title/-/oclc/929684748> <http://rdfs.org/ns/void#inDataset> <http://purl.oclc.org/dataset/WorldCat> .
+<http://id.loc.gov/vocabulary/countries/pl> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://id.loc.gov/vocabulary/countries/pl> <http://purl.org/dc/terms/identifier> "pl" .
+<http://www.worldcat.org/oclc/929684748> <http://schema.org/workExample> <http://worldcat.org/issn/1641-8190> .
+<http://www.worldcat.org/oclc/929684748> <http://schema.org/datePublished> "2005/" .
+<http://www.worldcat.org/oclc/929684748> <http://schema.org/exampleOfWork> <http://worldcat.org/entity/work/id/36295989> .
+<http://www.worldcat.org/oclc/929684748> <http://schema.org/inLanguage> "en" .
+<http://www.worldcat.org/oclc/929684748> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/MediaObject> .
+<http://www.worldcat.org/oclc/929684748> <http://www.w3.org/2007/05/powder-s#describedby> <http://www.worldcat.org/title/-/oclc/929684748> .
+<http://www.worldcat.org/oclc/929684748> <http://schema.org/publication> <http://www.worldcat.org/title/-/oclc/929684748#PublicationEvent/s_l_polish_academy_of_sciences_2005> .
+<http://www.worldcat.org/oclc/929684748> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://www.worldcat.org/oclc/929684748> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://www.worldcat.org/oclc/929684748> <http://purl.org/library/placeOfPublication> <http://id.loc.gov/vocabulary/countries/pl> .
+<http://www.worldcat.org/oclc/929684748> <http://schema.org/productID> "929684748" .
+<http://www.worldcat.org/oclc/929684748> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://experiment.worldcat.org/entity/work/data/36295989#CreativeWork/directory_of_open_access_journals_servicio_en_linea_201407> .
+<http://www.worldcat.org/oclc/929684748> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/36295989#Topic/botanica> .
+<http://www.worldcat.org/oclc/929684748> <http://purl.org/library/oclcnum> "929684748" .
+<http://www.worldcat.org/oclc/929684748> <http://schema.org/publisher> <http://experiment.worldcat.org/entity/work/data/36295989#Agent/polish_academy_of_sciences> .
+<http://www.worldcat.org/oclc/929684748> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/36295989#Topic/ciencias> .
+<http://www.worldcat.org/oclc/929684748> <http://purl.org/library/placeOfPublication> <http://experiment.worldcat.org/entity/work/data/36295989#Place/s_l> .
+<http://www.worldcat.org/oclc/929684748> <http://schema.org/datePublished> "2005/9999" .
+<http://www.worldcat.org/oclc/929684748> <http://schema.org/name> "Polish Botanical Journal" .
+<http://www.worldcat.org/oclc/929684748> <http://schema.org/workExample> <http://worldcat.org/issn/2084-4352> .
+<http://www.worldcat.org/oclc/929684748> <http://schema.org/url> <http://www.ib-pan.krakow.pl/ibwyd/pol-b-j/pol-b-j.htm> .
+<http://experiment.worldcat.org/entity/work/data/36295989#CreativeWork/directory_of_open_access_journals_servicio_en_linea_201407> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://experiment.worldcat.org/entity/work/data/36295989#CreativeWork/directory_of_open_access_journals_servicio_en_linea_201407> <http://schema.org/name> "Directory of Open Access Journals (Servicio en línea)--201407." .
+<http://www.ib-pan.krakow.pl/ibwyd/pol-b-j/pol-b-j.htm> <http://www.w3.org/2000/01/rdf-schema#comment> "Acceso a través de DOAJ" .
+<http://experiment.worldcat.org/entity/work/data/36295989#Topic/botanica> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/36295989#Topic/botanica> <http://schema.org/name> "Botánica" .
+<http://worldcat.org/issn/1641-8190> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://worldcat.org/issn/1641-8190> <http://schema.org/name> "Polish Botanical Journal" .
+<http://worldcat.org/issn/1641-8190> <http://schema.org/issn> "1641-8190" .
+<http://worldcat.org/issn/1641-8190> <http://umbel.org/umbel#isLike> <http://worldcat.org/entity/work/id/36295989> .
+<http://experiment.worldcat.org/entity/work/data/36295989#Place/s_l> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://experiment.worldcat.org/entity/work/data/36295989#Place/s_l> <http://schema.org/name> "S.l." .
+<http://www.worldcat.org/title/-/oclc/929684748#PublicationEvent/s_l_polish_academy_of_sciences_2005> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PublicationEvent> .
+<http://www.worldcat.org/title/-/oclc/929684748#PublicationEvent/s_l_polish_academy_of_sciences_2005> <http://schema.org/location> <http://experiment.worldcat.org/entity/work/data/36295989#Place/s_l> .
+<http://www.worldcat.org/title/-/oclc/929684748#PublicationEvent/s_l_polish_academy_of_sciences_2005> <http://schema.org/organizer> <http://experiment.worldcat.org/entity/work/data/36295989#Agent/polish_academy_of_sciences> .
+<http://www.worldcat.org/title/-/oclc/929684748#PublicationEvent/s_l_polish_academy_of_sciences_2005> <http://schema.org/startDate> "2005-" .
+<http://experiment.worldcat.org/entity/work/data/36295989#Topic/ciencias> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/36295989#Topic/ciencias> <http://schema.org/name> "Ciencias" .

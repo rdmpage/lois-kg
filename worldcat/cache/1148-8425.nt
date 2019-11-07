@@ -1,0 +1,45 @@
+<http://worldcat.org/issn/1148-8425> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://worldcat.org/issn/1148-8425> <http://schema.org/name> "Bulletin du Muséum national d'histoire naturelle."@fr .
+<http://worldcat.org/issn/1148-8425> <http://schema.org/issn> "1148-8425" .
+<http://worldcat.org/issn/1148-8425> <http://umbel.org/umbel#isLike> <http://worldcat.org/entity/work/id/9463082022> .
+<http://dewey.info/class/508.05/e22/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://worldcat.org/entity/work/id/9463082022> <http://umbel.org/umbel#isLike> <http://worldcat.org/issn/1148-8425> .
+<http://id.loc.gov/vocabulary/countries/fr> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://id.loc.gov/vocabulary/countries/fr> <http://purl.org/dc/terms/identifier> "fr" .
+<http://dewey.info/class/064/e22/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/9463082022#Place/paris> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://experiment.worldcat.org/entity/work/data/9463082022#Place/paris> <http://schema.org/name> "Paris" .
+<http://experiment.worldcat.org/entity/work/data/9463082022#Organization/museum_national_d_histoire_naturelle_paris> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+<http://experiment.worldcat.org/entity/work/data/9463082022#Organization/museum_national_d_histoire_naturelle_paris> <http://schema.org/name> "Muséum national d'histoire naturelle (Paris)" .
+<http://experiment.worldcat.org/entity/work/data/9463082022#Agent/imprimerie_nationale> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bibliograph.net/Agent> .
+<http://experiment.worldcat.org/entity/work/data/9463082022#Agent/imprimerie_nationale> <http://schema.org/name> "Imprimerie nationale" .
+<http://www.worldcat.org/title/-/oclc/761141379> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#ContentTypeGenericResource> .
+<http://www.worldcat.org/title/-/oclc/761141379> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#InformationResource> .
+<http://www.worldcat.org/title/-/oclc/761141379> <http://schema.org/about> <http://www.worldcat.org/oclc/761141379> .
+<http://www.worldcat.org/title/-/oclc/761141379> <http://schema.org/dateModified> "2019-08-22" .
+<http://www.worldcat.org/title/-/oclc/761141379> <http://rdfs.org/ns/void#inDataset> <http://purl.oclc.org/dataset/WorldCat> .
+<http://www.worldcat.org/title/-/oclc/761141379#PublicationEvent/paris_imprimerie_nationale_1907_1978> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PublicationEvent> .
+<http://www.worldcat.org/title/-/oclc/761141379#PublicationEvent/paris_imprimerie_nationale_1907_1978> <http://schema.org/location> <http://experiment.worldcat.org/entity/work/data/9463082022#Place/paris> .
+<http://www.worldcat.org/title/-/oclc/761141379#PublicationEvent/paris_imprimerie_nationale_1907_1978> <http://schema.org/organizer> <http://experiment.worldcat.org/entity/work/data/9463082022#Agent/imprimerie_nationale> .
+<http://www.worldcat.org/title/-/oclc/761141379#PublicationEvent/paris_imprimerie_nationale_1907_1978> <http://schema.org/startDate> "1907-1978" .
+<http://experiment.worldcat.org/entity/work/data/9463082022#Topic/sciences_naturelles> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/9463082022#Topic/sciences_naturelles> <http://schema.org/name> "Sciences naturelles"@fr .
+<http://www.worldcat.org/oclc/761141379> <http://schema.org/name> "Bulletin du Muséum national d'histoire naturelle."@fr .
+<http://www.worldcat.org/oclc/761141379> <http://purl.org/library/placeOfPublication> <http://experiment.worldcat.org/entity/work/data/9463082022#Place/paris> .
+<http://www.worldcat.org/oclc/761141379> <http://schema.org/inLanguage> "fr" .
+<http://www.worldcat.org/oclc/761141379> <http://schema.org/datePublished> "1907/1978" .
+<http://www.worldcat.org/oclc/761141379> <http://schema.org/publisher> <http://experiment.worldcat.org/entity/work/data/9463082022#Agent/imprimerie_nationale> .
+<http://www.worldcat.org/oclc/761141379> <http://purl.org/library/placeOfPublication> <http://id.loc.gov/vocabulary/countries/fr> .
+<http://www.worldcat.org/oclc/761141379> <http://schema.org/exampleOfWork> <http://worldcat.org/entity/work/id/9463082022> .
+<http://www.worldcat.org/oclc/761141379> <http://schema.org/productID> "761141379" .
+<http://www.worldcat.org/oclc/761141379> <http://schema.org/about> <http://dewey.info/class/508.05/e22/> .
+<http://www.worldcat.org/oclc/761141379> <http://schema.org/about> <http://dewey.info/class/064/e22/> .
+<http://www.worldcat.org/oclc/761141379> <http://purl.org/library/oclcnum> "761141379" .
+<http://www.worldcat.org/oclc/761141379> <http://www.w3.org/2007/05/powder-s#describedby> <http://www.worldcat.org/title/-/oclc/761141379> .
+<http://www.worldcat.org/oclc/761141379> <http://schema.org/author> <http://experiment.worldcat.org/entity/work/data/9463082022#Organization/museum_national_d_histoire_naturelle_paris> .
+<http://www.worldcat.org/oclc/761141379> <http://schema.org/workExample> <http://worldcat.org/issn/1148-8425> .
+<http://www.worldcat.org/oclc/761141379> <http://schema.org/genre> "Government publication"@en .
+<http://www.worldcat.org/oclc/761141379> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://www.worldcat.org/oclc/761141379> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://www.worldcat.org/oclc/761141379> <http://schema.org/publication> <http://www.worldcat.org/title/-/oclc/761141379#PublicationEvent/paris_imprimerie_nationale_1907_1978> .
+<http://www.worldcat.org/oclc/761141379> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/9463082022#Topic/sciences_naturelles> .

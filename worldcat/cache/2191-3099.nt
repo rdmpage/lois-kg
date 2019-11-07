@@ -1,0 +1,35 @@
+<http://www.worldcat.org/oclc/724452423> <http://schema.org/inLanguage> "en" .
+<http://www.worldcat.org/oclc/724452423> <http://schema.org/publisher> <http://experiment.worldcat.org/entity/work/data/764613194#Agent/m_wick> .
+<http://www.worldcat.org/oclc/724452423> <http://schema.org/name> "Schütziana the Gymnocalycium online journal" .
+<http://www.worldcat.org/oclc/724452423> <http://purl.org/library/placeOfPublication> <http://experiment.worldcat.org/entity/work/data/764613194#Place/fichtenwalde> .
+<http://www.worldcat.org/oclc/724452423> <http://schema.org/alternateName> "Gymnocalycium online journal" .
+<http://www.worldcat.org/oclc/724452423> <http://schema.org/datePublished> "2010/9999" .
+<http://www.worldcat.org/oclc/724452423> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://www.worldcat.org/oclc/724452423> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://www.worldcat.org/oclc/724452423> <http://purl.org/library/oclcnum> "724452423" .
+<http://www.worldcat.org/oclc/724452423> <http://schema.org/workExample> <http://worldcat.org/issn/2191-3099> .
+<http://www.worldcat.org/oclc/724452423> <http://umbel.org/umbel#isLike> <http://d-nb.info/1009952552> .
+<http://www.worldcat.org/oclc/724452423> <http://schema.org/publication> <http://www.worldcat.org/title/-/oclc/724452423#PublicationEvent/fichtenwaldem_wick> .
+<http://www.worldcat.org/oclc/724452423> <http://schema.org/exampleOfWork> <http://worldcat.org/entity/work/id/764613194> .
+<http://www.worldcat.org/oclc/724452423> <http://www.w3.org/2007/05/powder-s#describedby> <http://www.worldcat.org/title/-/oclc/724452423> .
+<http://www.worldcat.org/oclc/724452423> <http://schema.org/productID> "724452423" .
+<http://www.worldcat.org/oclc/724452423> <http://purl.org/library/placeOfPublication> <http://id.loc.gov/vocabulary/countries/gw> .
+<http://worldcat.org/entity/work/id/764613194> <http://umbel.org/umbel#isLike> <http://worldcat.org/issn/2191-3099> .
+<http://experiment.worldcat.org/entity/work/data/764613194#Place/fichtenwalde> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://experiment.worldcat.org/entity/work/data/764613194#Place/fichtenwalde> <http://schema.org/name> "Fichtenwalde" .
+<http://worldcat.org/issn/2191-3099> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://worldcat.org/issn/2191-3099> <http://schema.org/name> "Schütziana the Gymnocalycium online journal" .
+<http://worldcat.org/issn/2191-3099> <http://schema.org/issn> "2191-3099" .
+<http://worldcat.org/issn/2191-3099> <http://umbel.org/umbel#isLike> <http://worldcat.org/entity/work/id/764613194> .
+<http://experiment.worldcat.org/entity/work/data/764613194#Agent/m_wick> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bibliograph.net/Agent> .
+<http://experiment.worldcat.org/entity/work/data/764613194#Agent/m_wick> <http://schema.org/name> "[M. Wick" .
+<http://id.loc.gov/vocabulary/countries/gw> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://id.loc.gov/vocabulary/countries/gw> <http://purl.org/dc/terms/identifier> "gw" .
+<http://www.worldcat.org/title/-/oclc/724452423#PublicationEvent/fichtenwaldem_wick> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PublicationEvent> .
+<http://www.worldcat.org/title/-/oclc/724452423#PublicationEvent/fichtenwaldem_wick> <http://schema.org/location> <http://experiment.worldcat.org/entity/work/data/764613194#Place/fichtenwalde> .
+<http://www.worldcat.org/title/-/oclc/724452423#PublicationEvent/fichtenwaldem_wick> <http://schema.org/organizer> <http://experiment.worldcat.org/entity/work/data/764613194#Agent/m_wick> .
+<http://www.worldcat.org/title/-/oclc/724452423> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#ContentTypeGenericResource> .
+<http://www.worldcat.org/title/-/oclc/724452423> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#InformationResource> .
+<http://www.worldcat.org/title/-/oclc/724452423> <http://schema.org/about> <http://www.worldcat.org/oclc/724452423> .
+<http://www.worldcat.org/title/-/oclc/724452423> <http://schema.org/dateModified> "2018-11-10" .
+<http://www.worldcat.org/title/-/oclc/724452423> <http://rdfs.org/ns/void#inDataset> <http://purl.oclc.org/dataset/WorldCat> .

@@ -1,0 +1,58 @@
+<http://www.worldcat.org/title/-/oclc/715355292#PublicationEvent/wuhan_shi_wuhan_zhi_wu_xue_yan_jiu_bian_ji_wei_yuan_hui_2011> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PublicationEvent> .
+<http://www.worldcat.org/title/-/oclc/715355292#PublicationEvent/wuhan_shi_wuhan_zhi_wu_xue_yan_jiu_bian_ji_wei_yuan_hui_2011> <http://schema.org/location> <http://experiment.worldcat.org/entity/work/data/1076466566#Place/wuhan_shi> .
+<http://www.worldcat.org/title/-/oclc/715355292#PublicationEvent/wuhan_shi_wuhan_zhi_wu_xue_yan_jiu_bian_ji_wei_yuan_hui_2011> <http://schema.org/organizer> <http://experiment.worldcat.org/entity/work/data/1076466566#Agent/wuhan_zhi_wu_xue_yan_jiu_bian_ji_wei_yuan_hui> .
+<http://www.worldcat.org/title/-/oclc/715355292#PublicationEvent/wuhan_shi_wuhan_zhi_wu_xue_yan_jiu_bian_ji_wei_yuan_hui_2011> <http://schema.org/startDate> "2011-" .
+<http://id.worldcat.org/fast/836869> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://id.worldcat.org/fast/836869> <http://schema.org/name> "Botany" .
+<http://experiment.worldcat.org/entity/work/data/1076466566#Place/wuhan_shi> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://experiment.worldcat.org/entity/work/data/1076466566#Place/wuhan_shi> <http://schema.org/name> "Wuhan Shi" .
+<http://www.worldcat.org/oclc/715355292> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://www.worldcat.org/oclc/715355292> <http://schema.org/inLanguage> "zh" .
+<http://www.worldcat.org/oclc/715355292> <http://schema.org/publication> <http://www.worldcat.org/title/-/oclc/715355292#PublicationEvent/wuhan_shi_wuhan_zhi_wu_xue_yan_jiu_bian_ji_wei_yuan_hui_2011> .
+<http://www.worldcat.org/oclc/715355292> <http://schema.org/alternateName> "Plant science journal" .
+<http://www.worldcat.org/oclc/715355292> <http://schema.org/datePublished> "2011/" .
+<http://www.worldcat.org/oclc/715355292> <http://schema.org/genre> "Periodicals" .
+<http://www.worldcat.org/oclc/715355292> <http://schema.org/url> <http://www.whzwxyj.cn/index.asp> .
+<http://www.worldcat.org/oclc/715355292> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://www.worldcat.org/oclc/715355292> <http://purl.org/library/placeOfPublication> <http://id.loc.gov/vocabulary/countries/cc> .
+<http://www.worldcat.org/oclc/715355292> <http://purl.org/library/placeOfPublication> <http://experiment.worldcat.org/entity/work/data/1076466566#Place/wuhan_shi> .
+<http://www.worldcat.org/oclc/715355292> <http://schema.org/contributor> <http://viaf.org/viaf/131396296> .
+<http://www.worldcat.org/oclc/715355292> <http://schema.org/datePublished> "2011/9999" .
+<http://www.worldcat.org/oclc/715355292> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/1076466566#Topic/botany> .
+<http://www.worldcat.org/oclc/715355292> <http://schema.org/about> <http://id.worldcat.org/fast/1206073> .
+<http://www.worldcat.org/oclc/715355292> <http://schema.org/workExample> <http://worldcat.org/issn/2095-0837> .
+<http://www.worldcat.org/oclc/715355292> <http://schema.org/publisher> <http://experiment.worldcat.org/entity/work/data/1076466566#Agent/wuhan_zhi_wu_xue_yan_jiu_bian_ji_wei_yuan_hui> .
+<http://www.worldcat.org/oclc/715355292> <http://schema.org/about> <http://id.worldcat.org/fast/836869> .
+<http://www.worldcat.org/oclc/715355292> <http://schema.org/productID> "715355292" .
+<http://www.worldcat.org/oclc/715355292> <http://schema.org/name> "Zhi wu ke xue xue bao = Plant science journal." .
+<http://www.worldcat.org/oclc/715355292> <http://schema.org/about> <http://id.loc.gov/authorities/subjects/sh2007102105> .
+<http://www.worldcat.org/oclc/715355292> <http://purl.org/library/oclcnum> "715355292" .
+<http://www.worldcat.org/oclc/715355292> <http://www.w3.org/2007/05/powder-s#describedby> <http://www.worldcat.org/title/-/oclc/715355292> .
+<http://www.worldcat.org/oclc/715355292> <http://schema.org/alternateName> "Zhiwu kexue xuebao" .
+<http://www.worldcat.org/oclc/715355292> <http://schema.org/contributor> <http://viaf.org/viaf/136100698> .
+<http://www.worldcat.org/oclc/715355292> <http://schema.org/exampleOfWork> <http://worldcat.org/entity/work/id/1076466566> .
+<http://worldcat.org/issn/2095-0837> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://worldcat.org/issn/2095-0837> <http://schema.org/name> "Zhi wu ke xue xue bao = Plant science journal." .
+<http://worldcat.org/issn/2095-0837> <http://schema.org/issn> "2095-0837" .
+<http://worldcat.org/issn/2095-0837> <http://umbel.org/umbel#isLike> <http://worldcat.org/entity/work/id/1076466566> .
+<http://id.loc.gov/vocabulary/countries/cc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://id.loc.gov/vocabulary/countries/cc> <http://purl.org/dc/terms/identifier> "cc" .
+<http://www.worldcat.org/title/-/oclc/715355292> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#ContentTypeGenericResource> .
+<http://www.worldcat.org/title/-/oclc/715355292> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#InformationResource> .
+<http://www.worldcat.org/title/-/oclc/715355292> <http://schema.org/about> <http://www.worldcat.org/oclc/715355292> .
+<http://www.worldcat.org/title/-/oclc/715355292> <http://schema.org/dateModified> "2018-11-10" .
+<http://www.worldcat.org/title/-/oclc/715355292> <http://rdfs.org/ns/void#inDataset> <http://purl.oclc.org/dataset/WorldCat> .
+<http://experiment.worldcat.org/entity/work/data/1076466566#Topic/botany> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/1076466566#Topic/botany> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://id.loc.gov/authorities/subjects/sh2007102112> .
+<http://experiment.worldcat.org/entity/work/data/1076466566#Topic/botany> <http://schema.org/name> "Botany" .
+<http://viaf.org/viaf/131396296> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+<http://viaf.org/viaf/131396296> <http://schema.org/name> "Zhongguo ke xue yuan. Wuhan zhi wu yan jiu suo." .
+<http://experiment.worldcat.org/entity/work/data/1076466566#Agent/wuhan_zhi_wu_xue_yan_jiu_bian_ji_wei_yuan_hui> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bibliograph.net/Agent> .
+<http://experiment.worldcat.org/entity/work/data/1076466566#Agent/wuhan_zhi_wu_xue_yan_jiu_bian_ji_wei_yuan_hui> <http://schema.org/name> "Wuhan zhi wu xue yan jiu bian ji wei yuan hui" .
+<http://id.loc.gov/authorities/subjects/sh2007102105> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://id.loc.gov/authorities/subjects/sh2007102105> <http://schema.org/name> "Botany--China" .
+<http://viaf.org/viaf/136100698> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+<http://viaf.org/viaf/136100698> <http://schema.org/name> "Hubei Sheng ji Wuhan Shi zhi wu xue hui." .
+<http://id.worldcat.org/fast/1206073> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://id.worldcat.org/fast/1206073> <http://schema.org/name> "China." .
+<http://worldcat.org/entity/work/id/1076466566> <http://umbel.org/umbel#isLike> <http://worldcat.org/issn/2095-0837> .

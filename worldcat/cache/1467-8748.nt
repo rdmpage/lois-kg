@@ -1,0 +1,95 @@
+<http://experiment.worldcat.org/entity/work/data/4922351857#Thing/ornement> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> .
+<http://experiment.worldcat.org/entity/work/data/4922351857#Thing/ornement> <http://schema.org/name> "Ornement" .
+<http://www.worldcat.org/title/-/oclc/299335097#PublicationEvent/oxford_blackwell> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PublicationEvent> .
+<http://www.worldcat.org/title/-/oclc/299335097#PublicationEvent/oxford_blackwell> <http://schema.org/location> <http://experiment.worldcat.org/entity/work/data/4922351857#Place/oxford> .
+<http://www.worldcat.org/title/-/oclc/299335097#PublicationEvent/oxford_blackwell> <http://schema.org/organizer> <http://experiment.worldcat.org/entity/work/data/4922351857#Agent/blackwell> .
+<http://id.loc.gov/vocabulary/countries/enk> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://id.loc.gov/vocabulary/countries/enk> <http://purl.org/dc/terms/identifier> "enk" .
+<http://www.worldcat.org/title/-/oclc/299335097> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#ContentTypeGenericResource> .
+<http://www.worldcat.org/title/-/oclc/299335097> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#InformationResource> .
+<http://www.worldcat.org/title/-/oclc/299335097> <http://schema.org/about> <http://www.worldcat.org/oclc/299335097> .
+<http://www.worldcat.org/title/-/oclc/299335097> <http://schema.org/dateModified> "2019-02-09" .
+<http://www.worldcat.org/title/-/oclc/299335097> <http://rdfs.org/ns/void#inDataset> <http://purl.oclc.org/dataset/WorldCat> .
+<http://experiment.worldcat.org/entity/work/data/4922351857#Topic/plantes_d_ornement> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/4922351857#Topic/plantes_d_ornement> <http://schema.org/name> "Plantes d'ornement"@fr .
+<http://experiment.worldcat.org/entity/work/data/4922351857#Topic/botanique> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/4922351857#Topic/botanique> <http://schema.org/name> "Botanique"@fr .
+<http://experiment.worldcat.org/entity/work/data/4922351857#Topic/botanique> <http://schema.org/name> "botanique" .
+<http://experiment.worldcat.org/entity/work/data/4922351857#Topic/botanique> <http://schema.org/name> "Botanique" .
+<http://experiment.worldcat.org/entity/work/data/4922351857#Topic/plante_d_ornement> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/4922351857#Topic/plante_d_ornement> <http://schema.org/name> "Plante d'ornement" .
+<http://onlinelibrary.wiley.com/journal/10.1111/%28ISSN%291467-8748> <http://www.w3.org/2000/01/rdf-schema#comment> "consortium" .
+<http://www.worldcat.org/oclc/299335097> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/4922351857#Thing/0540ae> .
+<http://www.worldcat.org/oclc/299335097> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://www.worldcat.org/oclc/299335097> <http://schema.org/url> <http://onlinelibrary.wiley.com/journal/10.1111/%28ISSN%291467-8748> .
+<http://www.worldcat.org/oclc/299335097> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/4922351857#Topic/plantes_d_ornement> .
+<http://www.worldcat.org/oclc/299335097> <http://purl.org/library/placeOfPublication> <http://experiment.worldcat.org/entity/work/data/4922351857#Place/oxford> .
+<http://www.worldcat.org/oclc/299335097> <http://schema.org/workExample> <http://worldcat.org/issn/1467-8748> .
+<http://www.worldcat.org/oclc/299335097> <http://schema.org/genre> "Ressource Internet (Descripteur de forme)" .
+<http://www.worldcat.org/oclc/299335097> <http://schema.org/genre> "[Périodique]" .
+<http://www.worldcat.org/oclc/299335097> <http://schema.org/isSimilarTo> <http://worldcat.org/entity/work/data/4922351857#CreativeWork/curtis_s_botanical_magazine_or_flower_garden_displayed_in_which_the_most_ornamental_foreign_plants> .
+<http://www.worldcat.org/oclc/299335097> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/4922351857#Thing/cultivee> .
+<http://www.worldcat.org/oclc/299335097> <http://purl.org/library/placeOfPublication> <http://id.loc.gov/vocabulary/countries/enk> .
+<http://www.worldcat.org/oclc/299335097> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/4922351857#Thing/ebscohostae> .
+<http://www.worldcat.org/oclc/299335097> <http://schema.org/productID> "299335097" .
+<http://www.worldcat.org/oclc/299335097> <http://schema.org/genre> "Périodiques"@fr .
+<http://www.worldcat.org/oclc/299335097> <http://schema.org/publisher> <http://experiment.worldcat.org/entity/work/data/4922351857#Agent/blackwell> .
+<http://www.worldcat.org/oclc/299335097> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://www.worldcat.org/oclc/299335097> <http://schema.org/genre> "[Document électronique]" .
+<http://www.worldcat.org/oclc/299335097> <http://schema.org/publication> <http://www.worldcat.org/title/-/oclc/299335097#PublicationEvent/oxford_blackwell> .
+<http://www.worldcat.org/oclc/299335097> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/4922351857#Thing/blackwell> .
+<http://www.worldcat.org/oclc/299335097> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/4922351857#Thing/plante> .
+<http://www.worldcat.org/oclc/299335097> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/4922351857#Thing/ornement> .
+<http://www.worldcat.org/oclc/299335097> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/MediaObject> .
+<http://www.worldcat.org/oclc/299335097> <http://schema.org/exampleOfWork> <http://worldcat.org/entity/work/id/4922351857> .
+<http://www.worldcat.org/oclc/299335097> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/4922351857#Thing/botanique> .
+<http://www.worldcat.org/oclc/299335097> <http://schema.org/datePublished> "1997/9999" .
+<http://www.worldcat.org/oclc/299335097> <http://schema.org/url> <http://accesbib.uqam.ca/cgi-bin/bduqam/transit.pl?&noMan=18261336> .
+<http://www.worldcat.org/oclc/299335097> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/4922351857#Topic/plantes_cultivees> .
+<http://www.worldcat.org/oclc/299335097> <http://schema.org/url> <http://sigparb.uqo.ca/BD/login_manitou.cfm?F=BSN&idnot=24218414&pub=curt> .
+<http://www.worldcat.org/oclc/299335097> <http://purl.org/library/oclcnum> "299335097" .
+<http://www.worldcat.org/oclc/299335097> <http://schema.org/url> <http://www.biodiversitylibrary.org/bibliography/706#/summary> .
+<http://www.worldcat.org/oclc/299335097> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/4922351857#Topic/plante_cultivee> .
+<http://www.worldcat.org/oclc/299335097> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/4922351857#Topic/plante_d_ornement> .
+<http://www.worldcat.org/oclc/299335097> <http://schema.org/inLanguage> "en" .
+<http://www.worldcat.org/oclc/299335097> <http://schema.org/url> <http://www.blackwell-synergy.com/openurl?genre=journal&stitle=curt> .
+<http://www.worldcat.org/oclc/299335097> <http://schema.org/url> <http://www3.interscience.wiley.com/journal/118498343/toc> .
+<http://www.worldcat.org/oclc/299335097> <http://schema.org/genre> "Ressources internet"@fr .
+<http://www.worldcat.org/oclc/299335097> <http://schema.org/url> <http://search.ebscohost.com/login.aspx?direct=true&db=a9h&jid=D82&site=ehost-live> .
+<http://www.worldcat.org/oclc/299335097> <http://schema.org/name> "Curtis's botanical magazine." .
+<http://www.worldcat.org/oclc/299335097> <http://schema.org/genre> "Périodique électronique (Descripteur de forme)" .
+<http://www.worldcat.org/oclc/299335097> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/4922351857#Topic/botanique> .
+<http://www.worldcat.org/oclc/299335097> <http://www.w3.org/2007/05/powder-s#describedby> <http://www.worldcat.org/title/-/oclc/299335097> .
+<http://www.worldcat.org/oclc/299335097> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/4922351857#Thing/blackwellae> .
+<http://experiment.worldcat.org/entity/work/data/4922351857#Thing/botanique> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> .
+<http://experiment.worldcat.org/entity/work/data/4922351857#Thing/botanique> <http://schema.org/name> "Botanique" .
+<http://www.biodiversitylibrary.org/bibliography/706#/summary> <http://www.w3.org/2000/01/rdf-schema#comment> "15(1801)-146(1920)" .
+<http://experiment.worldcat.org/entity/work/data/4922351857#Topic/plantes_cultivees> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/4922351857#Topic/plantes_cultivees> <http://schema.org/name> "Plantes cultivées"@fr .
+<http://experiment.worldcat.org/entity/work/data/4922351857#Thing/0540ae> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> .
+<http://experiment.worldcat.org/entity/work/data/4922351857#Thing/0540ae> <http://schema.org/name> "0540ae" .
+<http://experiment.worldcat.org/entity/work/data/4922351857#Thing/plante> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> .
+<http://experiment.worldcat.org/entity/work/data/4922351857#Thing/plante> <http://schema.org/name> "Plante" .
+<http://worldcat.org/entity/work/data/4922351857#CreativeWork/curtis_s_botanical_magazine_or_flower_garden_displayed_in_which_the_most_ornamental_foreign_plants> <http://schema.org/isSimilarTo> <http://www.worldcat.org/oclc/299335097> .
+<http://worldcat.org/entity/work/data/4922351857#CreativeWork/curtis_s_botanical_magazine_or_flower_garden_displayed_in_which_the_most_ornamental_foreign_plants> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://worldcat.org/entity/work/data/4922351857#CreativeWork/curtis_s_botanical_magazine_or_flower_garden_displayed_in_which_the_most_ornamental_foreign_plants> <http://www.w3.org/2000/01/rdf-schema#label> "Curtis's botanical magazine : or, flower-garden displayed in which the most ornamental foreign plants" .
+<http://experiment.worldcat.org/entity/work/data/4922351857#Thing/blackwellae> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> .
+<http://experiment.worldcat.org/entity/work/data/4922351857#Thing/blackwellae> <http://schema.org/name> "Blackwellae" .
+<http://experiment.worldcat.org/entity/work/data/4922351857#Place/oxford> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://experiment.worldcat.org/entity/work/data/4922351857#Place/oxford> <http://schema.org/name> "Oxford" .
+<http://experiment.worldcat.org/entity/work/data/4922351857#Thing/blackwell> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> .
+<http://experiment.worldcat.org/entity/work/data/4922351857#Thing/blackwell> <http://schema.org/name> "Blackwell" .
+<http://experiment.worldcat.org/entity/work/data/4922351857#Agent/blackwell> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bibliograph.net/Agent> .
+<http://experiment.worldcat.org/entity/work/data/4922351857#Agent/blackwell> <http://schema.org/name> "Blackwell." .
+<http://worldcat.org/entity/work/id/4922351857> <http://schema.org/name> "Curtis's botanical magazine (En ligne)" .
+<http://worldcat.org/entity/work/id/4922351857> <http://umbel.org/umbel#isLike> <http://worldcat.org/issn/1467-8748> .
+<http://experiment.worldcat.org/entity/work/data/4922351857#Thing/cultivee> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> .
+<http://experiment.worldcat.org/entity/work/data/4922351857#Thing/cultivee> <http://schema.org/name> "Cultivee" .
+<http://experiment.worldcat.org/entity/work/data/4922351857#Thing/ebscohostae> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> .
+<http://experiment.worldcat.org/entity/work/data/4922351857#Thing/ebscohostae> <http://schema.org/name> "Ebscohostae" .
+<http://experiment.worldcat.org/entity/work/data/4922351857#Topic/plante_cultivee> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/4922351857#Topic/plante_cultivee> <http://schema.org/name> "Plante cultivée" .
+<http://worldcat.org/issn/1467-8748> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://worldcat.org/issn/1467-8748> <http://schema.org/name> "Curtis's botanical magazine." .
+<http://worldcat.org/issn/1467-8748> <http://schema.org/issn> "1467-8748" .
+<http://worldcat.org/issn/1467-8748> <http://umbel.org/umbel#isLike> <http://worldcat.org/entity/work/id/4922351857> .

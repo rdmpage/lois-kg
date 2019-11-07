@@ -1,0 +1,63 @@
+<http://worldcat.org/entity/work/id/2566905> <http://schema.org/name> "Webbia (Online)"@en .
+<http://worldcat.org/entity/work/id/2566905> <http://umbel.org/umbel#isLike> <http://worldcat.org/issn/2169-4060> .
+<http://experiment.worldcat.org/entity/work/data/2566905#Topic/botany> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/2566905#Topic/botany> <http://schema.org/name> "Botany"@en .
+<http://id.loc.gov/vocabulary/countries/enk> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://id.loc.gov/vocabulary/countries/enk> <http://purl.org/dc/terms/identifier> "enk" .
+<http://worldcat.org/entity/work/data/2566905#CreativeWork/webbia> <http://schema.org/isSimilarTo> <http://www.worldcat.org/oclc/1014416107> .
+<http://worldcat.org/entity/work/data/2566905#CreativeWork/webbia> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://worldcat.org/entity/work/data/2566905#CreativeWork/webbia> <http://www.w3.org/2000/01/rdf-schema#label> "Webbia" .
+<http://worldcat.org/entity/work/data/2566905#CreativeWork/webbia> <http://schema.org/description> "Print version:" .
+<http://www.worldcat.org/title/-/oclc/1014416107> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#ContentTypeGenericResource> .
+<http://www.worldcat.org/title/-/oclc/1014416107> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#InformationResource> .
+<http://www.worldcat.org/title/-/oclc/1014416107> <http://schema.org/about> <http://www.worldcat.org/oclc/1014416107> .
+<http://www.worldcat.org/title/-/oclc/1014416107> <http://schema.org/dateModified> "2019-10-11" .
+<http://www.worldcat.org/title/-/oclc/1014416107> <http://rdfs.org/ns/void#inDataset> <http://purl.oclc.org/dataset/WorldCat> .
+<http://experiment.worldcat.org/entity/work/data/2566905#Organization/universita_di_firenze_istituto_botanico> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+<http://experiment.worldcat.org/entity/work/data/2566905#Organization/universita_di_firenze_istituto_botanico> <http://schema.org/name> "Università di Firenze. Istituto botanico." .
+<http://www.worldcat.org/title/-/oclc/1014416107#PublicationEvent/dec_2012_abingdon_oxon_uk_taylor_&_francis> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PublicationEvent> .
+<http://www.worldcat.org/title/-/oclc/1014416107#PublicationEvent/dec_2012_abingdon_oxon_uk_taylor_&_francis> <http://schema.org/location> <http://experiment.worldcat.org/entity/work/data/2566905#Place/abingdon_oxon_uk> .
+<http://www.worldcat.org/title/-/oclc/1014416107#PublicationEvent/dec_2012_abingdon_oxon_uk_taylor_&_francis> <http://schema.org/organizer> <http://experiment.worldcat.org/entity/work/data/2566905#Agent/taylor_&_francis> .
+<http://www.worldcat.org/title/-/oclc/1014416107#PublicationEvent/dec_2012_abingdon_oxon_uk_taylor_&_francis> <http://schema.org/startDate> "Dec.2012" .
+<http://dewey.info/class/580/e23/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/2566905#Agent/istituto_botanico_dell_universita_di_firenze> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bibliograph.net/Agent> .
+<http://experiment.worldcat.org/entity/work/data/2566905#Agent/istituto_botanico_dell_universita_di_firenze> <http://schema.org/name> "Istituto botanico dell'Università di Firenze." .
+<http://www.worldcat.org/oclc/1014416107> <http://schema.org/datePublished> "1905/9999" .
+<http://www.worldcat.org/oclc/1014416107> <http://schema.org/exampleOfWork> <http://worldcat.org/entity/work/id/2566905> .
+<http://www.worldcat.org/oclc/1014416107> <http://schema.org/publication> <http://www.worldcat.org/title/-/oclc/1014416107#PublicationEvent/dec_2012_abingdon_oxon_uk_taylor_&_francis> .
+<http://www.worldcat.org/oclc/1014416107> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/2566905#Topic/botany> .
+<http://www.worldcat.org/oclc/1014416107> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://www.worldcat.org/oclc/1014416107> <http://schema.org/name> "Webbia : raccolta di scritti botanici."@en .
+<http://www.worldcat.org/oclc/1014416107> <http://purl.org/library/placeOfPublication> <http://id.loc.gov/vocabulary/countries/enk> .
+<http://www.worldcat.org/oclc/1014416107> <http://schema.org/productID> "1014416107" .
+<http://www.worldcat.org/oclc/1014416107> <http://purl.org/library/placeOfPublication> <http://experiment.worldcat.org/entity/work/data/2566905#Place/firenze> .
+<http://www.worldcat.org/oclc/1014416107> <http://schema.org/publication> <http://www.worldcat.org/title/-/oclc/1014416107#PublicationEvent/firenze_istituto_botanico_dell_universita_di_firenze> .
+<http://www.worldcat.org/oclc/1014416107> <http://schema.org/contributor> <http://experiment.worldcat.org/entity/work/data/2566905#Organization/universita_di_firenze_istituto_botanico> .
+<http://www.worldcat.org/oclc/1014416107> <http://schema.org/url> <http://www.unifi.it/riviste/webbia/> .
+<http://www.worldcat.org/oclc/1014416107> <http://umbel.org/umbel#isLike> <http://bnb.data.bl.uk/id/resource/GBB736327> .
+<http://www.worldcat.org/oclc/1014416107> <http://schema.org/workExample> <http://worldcat.org/issn/2169-4060> .
+<http://www.worldcat.org/oclc/1014416107> <http://schema.org/publisher> <http://experiment.worldcat.org/entity/work/data/2566905#Agent/istituto_botanico_dell_universita_di_firenze> .
+<http://www.worldcat.org/oclc/1014416107> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://www.worldcat.org/oclc/1014416107> <http://purl.org/library/oclcnum> "1014416107" .
+<http://www.worldcat.org/oclc/1014416107> <http://schema.org/url> <http://www.tandfonline.com/loi/tweb20> .
+<http://www.worldcat.org/oclc/1014416107> <http://schema.org/isSimilarTo> <http://worldcat.org/entity/work/data/2566905#CreativeWork/webbia> .
+<http://www.worldcat.org/oclc/1014416107> <http://purl.org/library/placeOfPublication> <http://experiment.worldcat.org/entity/work/data/2566905#Place/abingdon_oxon_uk> .
+<http://www.worldcat.org/oclc/1014416107> <http://schema.org/about> <http://dewey.info/class/580/e23/> .
+<http://www.worldcat.org/oclc/1014416107> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/MediaObject> .
+<http://www.worldcat.org/oclc/1014416107> <http://schema.org/publisher> <http://experiment.worldcat.org/entity/work/data/2566905#Agent/taylor_&_francis> .
+<http://www.worldcat.org/oclc/1014416107> <http://schema.org/inLanguage> "en" .
+<http://www.worldcat.org/oclc/1014416107> <http://schema.org/genre> "Periodicals"@en .
+<http://www.worldcat.org/oclc/1014416107> <http://www.w3.org/2007/05/powder-s#describedby> <http://www.worldcat.org/title/-/oclc/1014416107> .
+<http://worldcat.org/issn/2169-4060> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://worldcat.org/issn/2169-4060> <http://schema.org/name> "Webbia : raccolta di scritti botanici."@en .
+<http://worldcat.org/issn/2169-4060> <http://schema.org/issn> "2169-4060" .
+<http://worldcat.org/issn/2169-4060> <http://umbel.org/umbel#isLike> <http://worldcat.org/entity/work/id/2566905> .
+<http://experiment.worldcat.org/entity/work/data/2566905#Place/abingdon_oxon_uk> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://experiment.worldcat.org/entity/work/data/2566905#Place/abingdon_oxon_uk> <http://schema.org/name> "Abingdon, Oxon, UK" .
+<http://www.worldcat.org/title/-/oclc/1014416107#PublicationEvent/firenze_istituto_botanico_dell_universita_di_firenze> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PublicationEvent> .
+<http://www.worldcat.org/title/-/oclc/1014416107#PublicationEvent/firenze_istituto_botanico_dell_universita_di_firenze> <http://schema.org/location> <http://experiment.worldcat.org/entity/work/data/2566905#Place/firenze> .
+<http://www.worldcat.org/title/-/oclc/1014416107#PublicationEvent/firenze_istituto_botanico_dell_universita_di_firenze> <http://schema.org/organizer> <http://experiment.worldcat.org/entity/work/data/2566905#Agent/istituto_botanico_dell_universita_di_firenze> .
+<http://experiment.worldcat.org/entity/work/data/2566905#Agent/taylor_&_francis> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bibliograph.net/Agent> .
+<http://experiment.worldcat.org/entity/work/data/2566905#Agent/taylor_&_francis> <http://schema.org/name> "Taylor & Francis." .
+<http://experiment.worldcat.org/entity/work/data/2566905#Place/firenze> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://experiment.worldcat.org/entity/work/data/2566905#Place/firenze> <http://schema.org/name> "Firenze" .

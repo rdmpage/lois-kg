@@ -1,0 +1,46 @@
+<http://worldcat.org/entity/work/id/54072909> <http://umbel.org/umbel#isLike> <http://worldcat.org/issn/0031-949X> .
+<http://www.worldcat.org/oclc/819174746> <http://schema.org/publication> <http://www.worldcat.org/title/-/oclc/819174746#PublicationEvent/baltimore_md_etc_american_phytopathological_society_200> .
+<http://www.worldcat.org/oclc/819174746> <http://schema.org/publisher> <http://experiment.worldcat.org/entity/work/data/54072909#Agent/american_phytopathological_society> .
+<http://www.worldcat.org/oclc/819174746> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/54072909#Topic/plantenziekten> .
+<http://www.worldcat.org/oclc/819174746> <http://purl.org/library/placeOfPublication> <http://id.loc.gov/vocabulary/countries/mdu> .
+<http://www.worldcat.org/oclc/819174746> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://www.worldcat.org/oclc/819174746> <http://purl.org/library/oclcnum> "819174746" .
+<http://www.worldcat.org/oclc/819174746> <http://schema.org/contributor> <http://viaf.org/viaf/130700760> .
+<http://www.worldcat.org/oclc/819174746> <http://schema.org/isSimilarTo> <http://worldcat.org/entity/work/data/54072909#CreativeWork/phytopathology> .
+<http://www.worldcat.org/oclc/819174746> <http://schema.org/inLanguage> "en" .
+<http://www.worldcat.org/oclc/819174746> <http://schema.org/productID> "819174746" .
+<http://www.worldcat.org/oclc/819174746> <http://www.w3.org/2007/05/powder-s#describedby> <http://www.worldcat.org/title/-/oclc/819174746> .
+<http://www.worldcat.org/oclc/819174746> <http://schema.org/workExample> <http://worldcat.org/issn/0031-949X> .
+<http://www.worldcat.org/oclc/819174746> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://www.worldcat.org/oclc/819174746> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/MediaObject> .
+<http://www.worldcat.org/oclc/819174746> <http://schema.org/datePublished> "200u/9999" .
+<http://www.worldcat.org/oclc/819174746> <http://schema.org/name> "Phytopathology : an international journal." .
+<http://www.worldcat.org/oclc/819174746> <http://schema.org/url> <http://apsjournals.apsnet.org/loi/phyto> .
+<http://www.worldcat.org/oclc/819174746> <http://schema.org/exampleOfWork> <http://worldcat.org/entity/work/id/54072909> .
+<http://www.worldcat.org/oclc/819174746> <http://purl.org/library/placeOfPublication> <http://experiment.worldcat.org/entity/work/data/54072909#Place/baltimore_md_etc> .
+<http://www.worldcat.org/title/-/oclc/819174746> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#ContentTypeGenericResource> .
+<http://www.worldcat.org/title/-/oclc/819174746> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#InformationResource> .
+<http://www.worldcat.org/title/-/oclc/819174746> <http://schema.org/about> <http://www.worldcat.org/oclc/819174746> .
+<http://www.worldcat.org/title/-/oclc/819174746> <http://schema.org/dateModified> "2019-02-08" .
+<http://www.worldcat.org/title/-/oclc/819174746> <http://rdfs.org/ns/void#inDataset> <http://purl.oclc.org/dataset/WorldCat> .
+<http://worldcat.org/issn/0031-949X> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://worldcat.org/issn/0031-949X> <http://schema.org/name> "Phytopathology : an international journal." .
+<http://worldcat.org/issn/0031-949X> <http://schema.org/issn> "0031-949X" .
+<http://worldcat.org/issn/0031-949X> <http://umbel.org/umbel#isLike> <http://worldcat.org/entity/work/id/54072909> .
+<http://experiment.worldcat.org/entity/work/data/54072909#Topic/plantenziekten> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/54072909#Topic/plantenziekten> <http://schema.org/name> "Plantenziekten" .
+<http://www.worldcat.org/title/-/oclc/819174746#PublicationEvent/baltimore_md_etc_american_phytopathological_society_200> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PublicationEvent> .
+<http://www.worldcat.org/title/-/oclc/819174746#PublicationEvent/baltimore_md_etc_american_phytopathological_society_200> <http://schema.org/location> <http://experiment.worldcat.org/entity/work/data/54072909#Place/baltimore_md_etc> .
+<http://www.worldcat.org/title/-/oclc/819174746#PublicationEvent/baltimore_md_etc_american_phytopathological_society_200> <http://schema.org/organizer> <http://experiment.worldcat.org/entity/work/data/54072909#Agent/american_phytopathological_society> .
+<http://www.worldcat.org/title/-/oclc/819174746#PublicationEvent/baltimore_md_etc_american_phytopathological_society_200> <http://schema.org/startDate> "-" .
+<http://id.loc.gov/vocabulary/countries/mdu> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://id.loc.gov/vocabulary/countries/mdu> <http://purl.org/dc/terms/identifier> "mdu" .
+<http://experiment.worldcat.org/entity/work/data/54072909#Agent/american_phytopathological_society> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bibliograph.net/Agent> .
+<http://experiment.worldcat.org/entity/work/data/54072909#Agent/american_phytopathological_society> <http://schema.org/name> "American Phytopathological Society" .
+<http://worldcat.org/entity/work/data/54072909#CreativeWork/phytopathology> <http://schema.org/isSimilarTo> <http://www.worldcat.org/oclc/819174746> .
+<http://worldcat.org/entity/work/data/54072909#CreativeWork/phytopathology> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://worldcat.org/entity/work/data/54072909#CreativeWork/phytopathology> <http://www.w3.org/2000/01/rdf-schema#label> "Phytopathology" .
+<http://experiment.worldcat.org/entity/work/data/54072909#Place/baltimore_md_etc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://experiment.worldcat.org/entity/work/data/54072909#Place/baltimore_md_etc> <http://schema.org/name> "Baltimore, MD etc." .
+<http://viaf.org/viaf/130700760> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+<http://viaf.org/viaf/130700760> <http://schema.org/name> "American Phytopathological Society." .

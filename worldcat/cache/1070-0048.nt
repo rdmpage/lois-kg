@@ -1,0 +1,45 @@
+<http://worldcat.org/entity/work/id/889968551> <http://umbel.org/umbel#isLike> <http://worldcat.org/issn/1070-0048> .
+<http://experiment.worldcat.org/entity/work/data/889968551#Place/des_moines_ia> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://experiment.worldcat.org/entity/work/data/889968551#Place/des_moines_ia> <http://schema.org/name> "Des Moines, IA" .
+<http://www.worldcat.org/title/-/oclc/819186773#PublicationEvent/des_moines_ia_cactus_and_succulent_society_of_america_200> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PublicationEvent> .
+<http://www.worldcat.org/title/-/oclc/819186773#PublicationEvent/des_moines_ia_cactus_and_succulent_society_of_america_200> <http://schema.org/location> <http://experiment.worldcat.org/entity/work/data/889968551#Place/des_moines_ia> .
+<http://www.worldcat.org/title/-/oclc/819186773#PublicationEvent/des_moines_ia_cactus_and_succulent_society_of_america_200> <http://schema.org/organizer> <http://experiment.worldcat.org/entity/work/data/889968551#Agent/cactus_and_succulent_society_of_america> .
+<http://www.worldcat.org/title/-/oclc/819186773#PublicationEvent/des_moines_ia_cactus_and_succulent_society_of_america_200> <http://schema.org/startDate> "-" .
+<http://id.loc.gov/vocabulary/countries/iau> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://id.loc.gov/vocabulary/countries/iau> <http://purl.org/dc/terms/identifier> "iau" .
+<http://experiment.worldcat.org/entity/work/data/889968551#Agent/cactus_and_succulent_society_of_america> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bibliograph.net/Agent> .
+<http://experiment.worldcat.org/entity/work/data/889968551#Agent/cactus_and_succulent_society_of_america> <http://schema.org/name> "Cactus and Succulent Society of America" .
+<http://viaf.org/viaf/144899914> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+<http://viaf.org/viaf/144899914> <http://schema.org/name> "Cactus and Succulent Society of America." .
+<http://www.worldcat.org/title/-/oclc/819186773> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#ContentTypeGenericResource> .
+<http://www.worldcat.org/title/-/oclc/819186773> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#InformationResource> .
+<http://www.worldcat.org/title/-/oclc/819186773> <http://schema.org/about> <http://www.worldcat.org/oclc/819186773> .
+<http://www.worldcat.org/title/-/oclc/819186773> <http://schema.org/dateModified> "2019-02-08" .
+<http://www.worldcat.org/title/-/oclc/819186773> <http://rdfs.org/ns/void#inDataset> <http://purl.oclc.org/dataset/WorldCat> .
+<http://worldcat.org/issn/1070-0048> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://worldcat.org/issn/1070-0048> <http://schema.org/name> "Haseltonia : yearbook of the Cactus and Succulent Society of America." .
+<http://worldcat.org/issn/1070-0048> <http://schema.org/issn> "1070-0048" .
+<http://worldcat.org/issn/1070-0048> <http://umbel.org/umbel#isLike> <http://worldcat.org/entity/work/id/889968551> .
+<http://experiment.worldcat.org/entity/work/data/889968551#Topic/cactussen> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/889968551#Topic/cactussen> <http://schema.org/name> "Cactussen" .
+<http://experiment.worldcat.org/entity/work/data/889968551#Topic/vetplanten> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/889968551#Topic/vetplanten> <http://schema.org/name> "Vetplanten" .
+<http://www.worldcat.org/oclc/819186773> <http://schema.org/productID> "819186773" .
+<http://www.worldcat.org/oclc/819186773> <http://schema.org/workExample> <http://worldcat.org/issn/1070-0048> .
+<http://www.worldcat.org/oclc/819186773> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/889968551#Topic/vetplanten> .
+<http://www.worldcat.org/oclc/819186773> <http://schema.org/datePublished> "200u/9999" .
+<http://www.worldcat.org/oclc/819186773> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://www.worldcat.org/oclc/819186773> <http://schema.org/publisher> <http://experiment.worldcat.org/entity/work/data/889968551#Agent/cactus_and_succulent_society_of_america> .
+<http://www.worldcat.org/oclc/819186773> <http://schema.org/exampleOfWork> <http://worldcat.org/entity/work/id/889968551> .
+<http://www.worldcat.org/oclc/819186773> <http://schema.org/contributor> <http://viaf.org/viaf/144899914> .
+<http://www.worldcat.org/oclc/819186773> <http://schema.org/inLanguage> "en" .
+<http://www.worldcat.org/oclc/819186773> <http://www.w3.org/2007/05/powder-s#describedby> <http://www.worldcat.org/title/-/oclc/819186773> .
+<http://www.worldcat.org/oclc/819186773> <http://schema.org/url> <http://www.bioone.org/perlserv/?request=get-archive&issn=1070-0048> .
+<http://www.worldcat.org/oclc/819186773> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://www.worldcat.org/oclc/819186773> <http://purl.org/library/placeOfPublication> <http://id.loc.gov/vocabulary/countries/iau> .
+<http://www.worldcat.org/oclc/819186773> <http://purl.org/library/placeOfPublication> <http://experiment.worldcat.org/entity/work/data/889968551#Place/des_moines_ia> .
+<http://www.worldcat.org/oclc/819186773> <http://purl.org/library/oclcnum> "819186773" .
+<http://www.worldcat.org/oclc/819186773> <http://schema.org/publication> <http://www.worldcat.org/title/-/oclc/819186773#PublicationEvent/des_moines_ia_cactus_and_succulent_society_of_america_200> .
+<http://www.worldcat.org/oclc/819186773> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/889968551#Topic/cactussen> .
+<http://www.worldcat.org/oclc/819186773> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/MediaObject> .
+<http://www.worldcat.org/oclc/819186773> <http://schema.org/name> "Haseltonia : yearbook of the Cactus and Succulent Society of America." .

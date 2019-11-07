@@ -1,0 +1,42 @@
+<http://www.europeanjournaloftaxonomy.eu/index.php/ejt/issue/archive> <http://www.w3.org/2000/01/rdf-schema#comment> "Accés lliure" .
+<http://id.loc.gov/vocabulary/countries/dk> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://id.loc.gov/vocabulary/countries/dk> <http://purl.org/dc/terms/identifier> "dk" .
+<http://www.worldcat.org/title/-/oclc/928962517> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#ContentTypeGenericResource> .
+<http://www.worldcat.org/title/-/oclc/928962517> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#InformationResource> .
+<http://www.worldcat.org/title/-/oclc/928962517> <http://schema.org/about> <http://www.worldcat.org/oclc/928962517> .
+<http://www.worldcat.org/title/-/oclc/928962517> <http://schema.org/dateModified> "2019-10-22" .
+<http://www.worldcat.org/title/-/oclc/928962517> <http://rdfs.org/ns/void#inDataset> <http://purl.oclc.org/dataset/WorldCat> .
+<http://www.worldcat.org/oclc/928962517> <http://schema.org/datePublished> "2011/9999" .
+<http://www.worldcat.org/oclc/928962517> <http://schema.org/publication> <http://www.worldcat.org/title/-/oclc/928962517#PublicationEvent/copenhagen_natural_history_museum_of_denmark_2011> .
+<http://www.worldcat.org/oclc/928962517> <http://schema.org/datePublished> "2011/" .
+<http://www.worldcat.org/oclc/928962517> <http://purl.org/library/placeOfPublication> <http://experiment.worldcat.org/entity/work/data/1203355658#Place/copenhagen> .
+<http://www.worldcat.org/oclc/928962517> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/1203355658#Topic/ciencies_naturals> .
+<http://www.worldcat.org/oclc/928962517> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/MediaObject> .
+<http://www.worldcat.org/oclc/928962517> <http://schema.org/name> "European journal of taxonomy" .
+<http://www.worldcat.org/oclc/928962517> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/1203355658#Topic/taxonomia_biologia> .
+<http://www.worldcat.org/oclc/928962517> <http://schema.org/publisher> <http://experiment.worldcat.org/entity/work/data/1203355658#Agent/natural_history_museum_of_denmark> .
+<http://www.worldcat.org/oclc/928962517> <http://purl.org/library/placeOfPublication> <http://id.loc.gov/vocabulary/countries/dk> .
+<http://www.worldcat.org/oclc/928962517> <http://schema.org/contributor> <http://experiment.worldcat.org/entity/work/data/1203355658#Organization/natural_history_museum_of_denmark> .
+<http://www.worldcat.org/oclc/928962517> <http://schema.org/exampleOfWork> <http://worldcat.org/entity/work/id/1203355658> .
+<http://www.worldcat.org/oclc/928962517> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://www.worldcat.org/oclc/928962517> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://www.worldcat.org/oclc/928962517> <http://www.w3.org/2007/05/powder-s#describedby> <http://www.worldcat.org/title/-/oclc/928962517> .
+<http://www.worldcat.org/oclc/928962517> <http://purl.org/library/oclcnum> "928962517" .
+<http://www.worldcat.org/oclc/928962517> <http://schema.org/inLanguage> "en" .
+<http://www.worldcat.org/oclc/928962517> <http://schema.org/productID> "928962517" .
+<http://www.worldcat.org/oclc/928962517> <http://schema.org/url> <http://www.europeanjournaloftaxonomy.eu/index.php/ejt/issue/archive> .
+<http://www.worldcat.org/oclc/928962517> <http://schema.org/genre> "Revistes electròniques" .
+<http://experiment.worldcat.org/entity/work/data/1203355658#Organization/natural_history_museum_of_denmark> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+<http://experiment.worldcat.org/entity/work/data/1203355658#Organization/natural_history_museum_of_denmark> <http://schema.org/name> "Natural History Museum of Denmark." .
+<http://experiment.worldcat.org/entity/work/data/1203355658#Topic/taxonomia_biologia> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/1203355658#Topic/taxonomia_biologia> <http://schema.org/name> "Taxonomia (Biologia)" .
+<http://experiment.worldcat.org/entity/work/data/1203355658#Place/copenhagen> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://experiment.worldcat.org/entity/work/data/1203355658#Place/copenhagen> <http://schema.org/name> "Copenhagen" .
+<http://www.worldcat.org/title/-/oclc/928962517#PublicationEvent/copenhagen_natural_history_museum_of_denmark_2011> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PublicationEvent> .
+<http://www.worldcat.org/title/-/oclc/928962517#PublicationEvent/copenhagen_natural_history_museum_of_denmark_2011> <http://schema.org/location> <http://experiment.worldcat.org/entity/work/data/1203355658#Place/copenhagen> .
+<http://www.worldcat.org/title/-/oclc/928962517#PublicationEvent/copenhagen_natural_history_museum_of_denmark_2011> <http://schema.org/organizer> <http://experiment.worldcat.org/entity/work/data/1203355658#Agent/natural_history_museum_of_denmark> .
+<http://www.worldcat.org/title/-/oclc/928962517#PublicationEvent/copenhagen_natural_history_museum_of_denmark_2011> <http://schema.org/startDate> "2011-" .
+<http://experiment.worldcat.org/entity/work/data/1203355658#Agent/natural_history_museum_of_denmark> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bibliograph.net/Agent> .
+<http://experiment.worldcat.org/entity/work/data/1203355658#Agent/natural_history_museum_of_denmark> <http://schema.org/name> "Natural History Museum of Denmark" .
+<http://experiment.worldcat.org/entity/work/data/1203355658#Topic/ciencies_naturals> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/1203355658#Topic/ciencies_naturals> <http://schema.org/name> "Ciències naturals" .

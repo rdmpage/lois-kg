@@ -1,0 +1,52 @@
+<http://experiment.worldcat.org/entity/work/data/2053617055#Organization/jardin_botaniques_de_geneve_geneve> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+<http://experiment.worldcat.org/entity/work/data/2053617055#Organization/jardin_botaniques_de_geneve_geneve> <http://schema.org/name> "Jardin Botaniques de Genève (Genève)" .
+<http://www.worldcat.org/oclc/889323474> <http://purl.org/library/placeOfPublication> <http://id.loc.gov/vocabulary/countries/sz> .
+<http://www.worldcat.org/oclc/889323474> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/2053617055#Topic/botany> .
+<http://www.worldcat.org/oclc/889323474> <http://schema.org/productID> "889323474" .
+<http://www.worldcat.org/oclc/889323474> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/2053617055#Topic/botanical_gardens> .
+<http://www.worldcat.org/oclc/889323474> <http://schema.org/isSimilarTo> <http://worldcat.org/entity/work/data/2053617055#CreativeWork/candollea> .
+<http://www.worldcat.org/oclc/889323474> <http://schema.org/datePublished> "2014/9999" .
+<http://www.worldcat.org/oclc/889323474> <http://schema.org/contributor> <http://experiment.worldcat.org/entity/work/data/2053617055#Organization/conservatoire_de_geneve_geneve> .
+<http://www.worldcat.org/oclc/889323474> <http://schema.org/contributor> <http://experiment.worldcat.org/entity/work/data/2053617055#Organization/jardin_botaniques_de_geneve_geneve> .
+<http://www.worldcat.org/oclc/889323474> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/2053617055#Topic/botanische_tuinen_herbaria> .
+<http://www.worldcat.org/oclc/889323474> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://www.worldcat.org/oclc/889323474> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/2053617055#Topic/plantkunde> .
+<http://www.worldcat.org/oclc/889323474> <http://schema.org/workExample> <http://worldcat.org/issn/0373-2967> .
+<http://www.worldcat.org/oclc/889323474> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/2053617055#Topic/botanical_gardens_herbaria> .
+<http://www.worldcat.org/oclc/889323474> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/2053617055#Topic/botanische_tuinen> .
+<http://www.worldcat.org/oclc/889323474> <http://www.w3.org/2007/05/powder-s#describedby> <http://www.worldcat.org/title/-/oclc/889323474> .
+<http://www.worldcat.org/oclc/889323474> <http://purl.org/library/oclcnum> "889323474" .
+<http://www.worldcat.org/oclc/889323474> <http://schema.org/name> "Candollea : organe du Conservatoire et du Jardin Botaniques de la ville de Genève."@en .
+<http://www.worldcat.org/oclc/889323474> <http://schema.org/inLanguage> "en" .
+<http://www.worldcat.org/oclc/889323474> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/MediaObject> .
+<http://www.worldcat.org/oclc/889323474> <http://schema.org/exampleOfWork> <http://worldcat.org/entity/work/id/2053617055> .
+<http://www.worldcat.org/oclc/889323474> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://www.worldcat.org/title/-/oclc/889323474> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#ContentTypeGenericResource> .
+<http://www.worldcat.org/title/-/oclc/889323474> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#InformationResource> .
+<http://www.worldcat.org/title/-/oclc/889323474> <http://schema.org/about> <http://www.worldcat.org/oclc/889323474> .
+<http://www.worldcat.org/title/-/oclc/889323474> <http://schema.org/dateModified> "2019-08-03" .
+<http://www.worldcat.org/title/-/oclc/889323474> <http://rdfs.org/ns/void#inDataset> <http://purl.oclc.org/dataset/WorldCat> .
+<http://experiment.worldcat.org/entity/work/data/2053617055#Topic/botanical_gardens> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/2053617055#Topic/botanical_gardens> <http://schema.org/name> "botanical gardens"@en .
+<http://worldcat.org/entity/work/id/2053617055> <http://umbel.org/umbel#isLike> <http://worldcat.org/issn/0373-2967> .
+<http://experiment.worldcat.org/entity/work/data/2053617055#Topic/plantkunde> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/2053617055#Topic/plantkunde> <http://schema.org/name> "plantkunde"@en .
+<http://experiment.worldcat.org/entity/work/data/2053617055#Topic/botanische_tuinen_herbaria> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/2053617055#Topic/botanische_tuinen_herbaria> <http://schema.org/name> "Botanische tuinen, herbaria"@en .
+<http://worldcat.org/issn/0373-2967> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://worldcat.org/issn/0373-2967> <http://schema.org/name> "Candollea : organe du Conservatoire et du Jardin Botaniques de la ville de Genève."@en .
+<http://worldcat.org/issn/0373-2967> <http://schema.org/issn> "0373-2967" .
+<http://worldcat.org/issn/0373-2967> <http://umbel.org/umbel#isLike> <http://worldcat.org/entity/work/id/2053617055> .
+<http://id.loc.gov/vocabulary/countries/sz> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://id.loc.gov/vocabulary/countries/sz> <http://purl.org/dc/terms/identifier> "sz" .
+<http://experiment.worldcat.org/entity/work/data/2053617055#Topic/botanische_tuinen> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/2053617055#Topic/botanische_tuinen> <http://schema.org/name> "botanische tuinen"@en .
+<http://experiment.worldcat.org/entity/work/data/2053617055#Organization/conservatoire_de_geneve_geneve> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+<http://experiment.worldcat.org/entity/work/data/2053617055#Organization/conservatoire_de_geneve_geneve> <http://schema.org/name> "Conservatoire de Genève (Genève)" .
+<http://experiment.worldcat.org/entity/work/data/2053617055#Topic/botanical_gardens_herbaria> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/2053617055#Topic/botanical_gardens_herbaria> <http://schema.org/name> "Botanical Gardens, Herbaria"@en .
+<http://experiment.worldcat.org/entity/work/data/2053617055#Topic/botany> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/2053617055#Topic/botany> <http://schema.org/name> "botany"@en .
+<http://worldcat.org/entity/work/data/2053617055#CreativeWork/candollea> <http://schema.org/isSimilarTo> <http://www.worldcat.org/oclc/889323474> .
+<http://worldcat.org/entity/work/data/2053617055#CreativeWork/candollea> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://worldcat.org/entity/work/data/2053617055#CreativeWork/candollea> <http://www.w3.org/2000/01/rdf-schema#label> "Candollea" .

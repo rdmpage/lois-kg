@@ -1,0 +1,56 @@
+<http://id.loc.gov/vocabulary/countries/my> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://id.loc.gov/vocabulary/countries/my> <http://purl.org/dc/terms/identifier> "my" .
+<http://id.worldcat.org/fast/836869> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://id.worldcat.org/fast/836869> <http://schema.org/name> "Botany"@en .
+<http://www.worldcat.org/title/-/oclc/850940679> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#ContentTypeGenericResource> .
+<http://www.worldcat.org/title/-/oclc/850940679> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#InformationResource> .
+<http://www.worldcat.org/title/-/oclc/850940679> <http://schema.org/about> <http://www.worldcat.org/oclc/850940679> .
+<http://www.worldcat.org/title/-/oclc/850940679> <http://schema.org/dateModified> "2019-02-17" .
+<http://www.worldcat.org/title/-/oclc/850940679> <http://rdfs.org/ns/void#inDataset> <http://purl.oclc.org/dataset/WorldCat> .
+<http://worldcat.org/issn/1511-8916> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://worldcat.org/issn/1511-8916> <http://schema.org/name> "Folia Malaysiana."@en .
+<http://worldcat.org/issn/1511-8916> <http://schema.org/issn> "1511-8916" .
+<http://worldcat.org/issn/1511-8916> <http://umbel.org/umbel#isLike> <http://worldcat.org/entity/work/id/37298900> .
+<http://experiment.worldcat.org/entity/work/data/37298900#Topic/botany_malaysia> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/37298900#Topic/botany_malaysia> <http://schema.org/hasPart> <http://id.loc.gov/authorities/subjects/sh85015976> .
+<http://experiment.worldcat.org/entity/work/data/37298900#Topic/botany_malaysia> <http://schema.org/name> "Botany--Malaysia"@en .
+<http://www.worldcat.org/title/-/oclc/850940679#PublicationEvent/pulau_pinang_folia_malaysiana_2003> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PublicationEvent> .
+<http://www.worldcat.org/title/-/oclc/850940679#PublicationEvent/pulau_pinang_folia_malaysiana_2003> <http://schema.org/location> <http://experiment.worldcat.org/entity/work/data/37298900#Place/pulau_pinang> .
+<http://www.worldcat.org/title/-/oclc/850940679#PublicationEvent/pulau_pinang_folia_malaysiana_2003> <http://schema.org/organizer> <http://experiment.worldcat.org/entity/work/data/37298900#Agent/folia_malaysiana> .
+<http://www.worldcat.org/title/-/oclc/850940679#PublicationEvent/pulau_pinang_folia_malaysiana_2003> <http://schema.org/startDate> "2003-" .
+<http://www.worldcat.org/oclc/850940679> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://www.worldcat.org/oclc/850940679> <http://schema.org/publisher> <http://experiment.worldcat.org/entity/work/data/37298900#Agent/folia_malaysiana> .
+<http://www.worldcat.org/oclc/850940679> <http://schema.org/datePublished> "2003/" .
+<http://www.worldcat.org/oclc/850940679> <http://purl.org/library/oclcnum> "850940679" .
+<http://www.worldcat.org/oclc/850940679> <http://schema.org/exampleOfWork> <http://worldcat.org/entity/work/id/37298900> .
+<http://www.worldcat.org/oclc/850940679> <http://schema.org/name> "Folia Malaysiana."@en .
+<http://www.worldcat.org/oclc/850940679> <http://purl.org/library/placeOfPublication> <http://id.loc.gov/vocabulary/countries/my> .
+<http://www.worldcat.org/oclc/850940679> <http://schema.org/about> <http://id.worldcat.org/fast/1204590> .
+<http://www.worldcat.org/oclc/850940679> <http://schema.org/genre> "Pictorial works"@en .
+<http://www.worldcat.org/oclc/850940679> <http://schema.org/genre> "Periodicals"@en .
+<http://www.worldcat.org/oclc/850940679> <http://schema.org/inLanguage> "en" .
+<http://www.worldcat.org/oclc/850940679> <http://schema.org/about> <http://id.worldcat.org/fast/836869> .
+<http://www.worldcat.org/oclc/850940679> <http://www.w3.org/2007/05/powder-s#describedby> <http://www.worldcat.org/title/-/oclc/850940679> .
+<http://www.worldcat.org/oclc/850940679> <http://schema.org/datePublished> "2003/9999" .
+<http://www.worldcat.org/oclc/850940679> <http://purl.org/library/placeOfPublication> <http://experiment.worldcat.org/entity/work/data/37298900#Place/pulau_pinang> .
+<http://www.worldcat.org/oclc/850940679> <http://schema.org/productID> "850940679" .
+<http://www.worldcat.org/oclc/850940679> <http://schema.org/workExample> <http://worldcat.org/issn/1511-8916> .
+<http://www.worldcat.org/oclc/850940679> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/37298900#Topic/botany_malaysia> .
+<http://www.worldcat.org/oclc/850940679> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/37298900#Topic/plant_ecology_malaysia> .
+<http://www.worldcat.org/oclc/850940679> <http://schema.org/publication> <http://www.worldcat.org/title/-/oclc/850940679#PublicationEvent/pulau_pinang_folia_malaysiana_2003> .
+<http://www.worldcat.org/oclc/850940679> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://www.worldcat.org/oclc/850940679> <http://schema.org/about> <http://id.worldcat.org/fast/1065415> .
+<http://www.worldcat.org/oclc/850940679> <http://schema.org/about> <http://dewey.info/class/581.9595/e21/> .
+<http://worldcat.org/entity/work/id/37298900> <http://umbel.org/umbel#isLike> <http://worldcat.org/issn/1511-8916> .
+<http://dewey.info/class/581.9595/e21/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/37298900#Agent/folia_malaysiana> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bibliograph.net/Agent> .
+<http://experiment.worldcat.org/entity/work/data/37298900#Agent/folia_malaysiana> <http://schema.org/name> "Folia Malaysiana" .
+<http://experiment.worldcat.org/entity/work/data/37298900#Topic/plant_ecology_malaysia> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/37298900#Topic/plant_ecology_malaysia> <http://schema.org/hasPart> <http://id.loc.gov/authorities/subjects/sh85015985> .
+<http://experiment.worldcat.org/entity/work/data/37298900#Topic/plant_ecology_malaysia> <http://schema.org/name> "Plant ecology--Malaysia"@en .
+<http://id.worldcat.org/fast/1204590> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://id.worldcat.org/fast/1204590> <http://schema.org/name> "Malaysia." .
+<http://experiment.worldcat.org/entity/work/data/37298900#Place/pulau_pinang> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://experiment.worldcat.org/entity/work/data/37298900#Place/pulau_pinang> <http://schema.org/name> "Pulau Pinang" .
+<http://id.worldcat.org/fast/1065415> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://id.worldcat.org/fast/1065415> <http://schema.org/name> "Plant ecology"@en .

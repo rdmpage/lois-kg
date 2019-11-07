@@ -1,0 +1,52 @@
+<http://www.worldcat.org/title/-/oclc/1045578314#PublicationEvent/san_francisco_california_academy_of_sciences> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PublicationEvent> .
+<http://www.worldcat.org/title/-/oclc/1045578314#PublicationEvent/san_francisco_california_academy_of_sciences> <http://schema.org/location> <http://experiment.worldcat.org/entity/work/data/5351520235#Place/san_francisco> .
+<http://www.worldcat.org/title/-/oclc/1045578314#PublicationEvent/san_francisco_california_academy_of_sciences> <http://schema.org/organizer> <http://experiment.worldcat.org/entity/work/data/5351520235#Agent/california_academy_of_sciences> .
+<http://worldcat.org/entity/work/id/5351520235> <http://umbel.org/umbel#isLike> <http://worldcat.org/issn/0068-5461> .
+<http://experiment.worldcat.org/entity/work/data/5351520235#Organization/california_academy_of_sciences> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+<http://experiment.worldcat.org/entity/work/data/5351520235#Organization/california_academy_of_sciences> <http://schema.org/name> "California Academy of Sciences." .
+<http://worldcat.org/issn/0068-5461> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://worldcat.org/issn/0068-5461> <http://schema.org/name> "California Academy of Sciences. Occasional Papers."@en .
+<http://worldcat.org/issn/0068-5461> <http://schema.org/issn> "0068-5461" .
+<http://worldcat.org/issn/0068-5461> <http://umbel.org/umbel#isLike> <http://worldcat.org/entity/work/id/5351520235> .
+<http://experiment.worldcat.org/entity/work/data/5351520235#Topic/biology> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/5351520235#Topic/biology> <http://schema.org/name> "Biology"@en .
+<http://experiment.worldcat.org/entity/work/data/5351520235#Topic/science> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/5351520235#Topic/science> <http://schema.org/name> "Science"@en .
+<http://dewey.info/class/505/e19/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://www.worldcat.org/title/-/oclc/1045578314> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#ContentTypeGenericResource> .
+<http://www.worldcat.org/title/-/oclc/1045578314> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#InformationResource> .
+<http://www.worldcat.org/title/-/oclc/1045578314> <http://schema.org/about> <http://www.worldcat.org/oclc/1045578314> .
+<http://www.worldcat.org/title/-/oclc/1045578314> <http://schema.org/dateModified> "2019-02-02" .
+<http://www.worldcat.org/title/-/oclc/1045578314> <http://rdfs.org/ns/void#inDataset> <http://purl.oclc.org/dataset/WorldCat> .
+<http://experiment.worldcat.org/entity/work/data/5351520235#Agent/california_academy_of_sciences> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bibliograph.net/Agent> .
+<http://experiment.worldcat.org/entity/work/data/5351520235#Agent/california_academy_of_sciences> <http://schema.org/name> "California Academy of Sciences." .
+<http://experiment.worldcat.org/entity/work/data/5351520235#Place/united_states> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://experiment.worldcat.org/entity/work/data/5351520235#Place/united_states> <http://schema.org/name> "United States." .
+<http://experiment.worldcat.org/entity/work/data/5351520235#Place/san_francisco> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://experiment.worldcat.org/entity/work/data/5351520235#Place/san_francisco> <http://schema.org/name> "San Francisco" .
+<http://www.worldcat.org/oclc/1045578314> <http://schema.org/publisher> <http://experiment.worldcat.org/entity/work/data/5351520235#Agent/california_academy_of_sciences> .
+<http://www.worldcat.org/oclc/1045578314> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/5351520235#Topic/biology> .
+<http://www.worldcat.org/oclc/1045578314> <http://schema.org/alternateName> "Occasional papers of the California Academy of Sciences." .
+<http://www.worldcat.org/oclc/1045578314> <http://schema.org/productID> "1045578314" .
+<http://www.worldcat.org/oclc/1045578314> <http://schema.org/workExample> <http://worldcat.org/issn/0068-5461> .
+<http://www.worldcat.org/oclc/1045578314> <http://schema.org/name> "California Academy of Sciences. Occasional Papers."@en .
+<http://www.worldcat.org/oclc/1045578314> <http://schema.org/datePublished> "1890/9999" .
+<http://www.worldcat.org/oclc/1045578314> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/5351520235#Place/united_states> .
+<http://www.worldcat.org/oclc/1045578314> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/5351520235#Topic/science> .
+<http://www.worldcat.org/oclc/1045578314> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://www.worldcat.org/oclc/1045578314> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bibliograph.net/PublicationSeries> .
+<http://www.worldcat.org/oclc/1045578314> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://www.worldcat.org/oclc/1045578314> <http://schema.org/about> <http://dewey.info/class/505/e19/> .
+<http://www.worldcat.org/oclc/1045578314> <http://schema.org/contributor> <http://experiment.worldcat.org/entity/work/data/5351520235#Organization/california_academy_of_sciences> .
+<http://www.worldcat.org/oclc/1045578314> <http://www.w3.org/2000/01/rdf-schema#comment> "Unknown 'gen' value: sgp" .
+<http://www.worldcat.org/oclc/1045578314> <http://schema.org/publication> <http://www.worldcat.org/title/-/oclc/1045578314#PublicationEvent/san_francisco_california_academy_of_sciences> .
+<http://www.worldcat.org/oclc/1045578314> <http://schema.org/genre> "Government publication"@en .
+<http://www.worldcat.org/oclc/1045578314> <http://purl.org/library/oclcnum> "1045578314" .
+<http://www.worldcat.org/oclc/1045578314> <http://purl.org/library/placeOfPublication> <http://id.loc.gov/vocabulary/countries/cau> .
+<http://www.worldcat.org/oclc/1045578314> <http://purl.org/library/placeOfPublication> <http://experiment.worldcat.org/entity/work/data/5351520235#Place/san_francisco> .
+<http://www.worldcat.org/oclc/1045578314> <http://schema.org/inLanguage> "en" .
+<http://www.worldcat.org/oclc/1045578314> <http://schema.org/exampleOfWork> <http://worldcat.org/entity/work/id/5351520235> .
+<http://www.worldcat.org/oclc/1045578314> <http://www.w3.org/2007/05/powder-s#describedby> <http://www.worldcat.org/title/-/oclc/1045578314> .
+<http://www.worldcat.org/oclc/1045578314> <http://schema.org/genre> "Periodicals"@en .
+<http://id.loc.gov/vocabulary/countries/cau> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://id.loc.gov/vocabulary/countries/cau> <http://purl.org/dc/terms/identifier> "cau" .

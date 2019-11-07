@@ -1,0 +1,38 @@
+<http://id.loc.gov/vocabulary/countries/nyu> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://id.loc.gov/vocabulary/countries/nyu> <http://purl.org/dc/terms/identifier> "nyu" .
+<http://www.worldcat.org/title/-/oclc/780549994#PublicationEvent/new_york_elsevier_1995> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PublicationEvent> .
+<http://www.worldcat.org/title/-/oclc/780549994#PublicationEvent/new_york_elsevier_1995> <http://schema.org/location> <http://dbpedia.org/resource/New_York_City> .
+<http://www.worldcat.org/title/-/oclc/780549994#PublicationEvent/new_york_elsevier_1995> <http://schema.org/organizer> <http://experiment.worldcat.org/entity/work/data/5620277929#Agent/elsevier> .
+<http://www.worldcat.org/title/-/oclc/780549994#PublicationEvent/new_york_elsevier_1995> <http://schema.org/startDate> "1995-" .
+<http://experiment.worldcat.org/entity/work/data/5620277929#Thing/paleontologija> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> .
+<http://experiment.worldcat.org/entity/work/data/5620277929#Thing/paleontologija> <http://schema.org/name> "paleontologija" .
+<http://www.sciencedirect.com/science/journal/00346667> <http://www.w3.org/2000/01/rdf-schema#comment> "dtu Dostop do polnega teksta za CTK,IJS,KI in Univerzo v Ljubljani" .
+<http://www.sciencedirect.com/science/journal/00346667> <http://www.w3.org/2000/01/rdf-schema#comment> "El. dostop do: Vol. 84, Iss. 3/4 (1995)-Vol. 132, Iss. 3/4 (2004)" .
+<http://dbpedia.org/resource/New_York_City> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://dbpedia.org/resource/New_York_City> <http://schema.org/name> "New York" .
+<http://www.worldcat.org/oclc/780549994> <http://schema.org/url> <http://www.sciencedirect.com/science/journal/00346667> .
+<http://www.worldcat.org/oclc/780549994> <http://schema.org/publication> <http://www.worldcat.org/title/-/oclc/780549994#PublicationEvent/new_york_elsevier_1995> .
+<http://www.worldcat.org/oclc/780549994> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/5620277929#Thing/paleontologija> .
+<http://www.worldcat.org/oclc/780549994> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://www.worldcat.org/oclc/780549994> <http://www.w3.org/2007/05/powder-s#describedby> <http://www.worldcat.org/title/-/oclc/780549994> .
+<http://www.worldcat.org/oclc/780549994> <http://schema.org/datePublished> "1995/9999" .
+<http://www.worldcat.org/oclc/780549994> <http://schema.org/productID> "780549994" .
+<http://www.worldcat.org/oclc/780549994> <http://purl.org/library/oclcnum> "780549994" .
+<http://www.worldcat.org/oclc/780549994> <http://schema.org/inLanguage> "en" .
+<http://www.worldcat.org/oclc/780549994> <http://purl.org/library/placeOfPublication> <http://dbpedia.org/resource/New_York_City> .
+<http://www.worldcat.org/oclc/780549994> <http://schema.org/publisher> <http://experiment.worldcat.org/entity/work/data/5620277929#Agent/elsevier> .
+<http://www.worldcat.org/oclc/780549994> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/MediaObject> .
+<http://www.worldcat.org/oclc/780549994> <http://schema.org/exampleOfWork> <http://worldcat.org/entity/work/id/5620277929> .
+<http://www.worldcat.org/oclc/780549994> <http://schema.org/datePublished> "1995/" .
+<http://www.worldcat.org/oclc/780549994> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://www.worldcat.org/oclc/780549994> <http://purl.org/library/placeOfPublication> <http://id.loc.gov/vocabulary/countries/nyu> .
+<http://www.worldcat.org/oclc/780549994> <http://schema.org/bookEdition> "[Online ed.]." .
+<http://www.worldcat.org/oclc/780549994> <http://schema.org/name> "Review of palaeobotany and palynology" .
+<http://www.worldcat.org/oclc/780549994> <http://schema.org/alternateName> "Review of palaeobotany & palynology" .
+<http://www.worldcat.org/title/-/oclc/780549994> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#ContentTypeGenericResource> .
+<http://www.worldcat.org/title/-/oclc/780549994> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#InformationResource> .
+<http://www.worldcat.org/title/-/oclc/780549994> <http://schema.org/about> <http://www.worldcat.org/oclc/780549994> .
+<http://www.worldcat.org/title/-/oclc/780549994> <http://schema.org/dateModified> "2019-02-08" .
+<http://www.worldcat.org/title/-/oclc/780549994> <http://rdfs.org/ns/void#inDataset> <http://purl.oclc.org/dataset/WorldCat> .
+<http://experiment.worldcat.org/entity/work/data/5620277929#Agent/elsevier> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bibliograph.net/Agent> .
+<http://experiment.worldcat.org/entity/work/data/5620277929#Agent/elsevier> <http://schema.org/name> "Elsevier" .

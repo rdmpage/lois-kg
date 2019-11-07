@@ -1,0 +1,19 @@
+<http://www.worldcat.org/oclc/423540997> <http://schema.org/inLanguage> "en" .
+<http://www.worldcat.org/oclc/423540997> <http://schema.org/url> <http://www.scielo.br/scielo.php/script_sci_serial/pid_0044-5967/lng_en/nrm_iso> .
+<http://www.worldcat.org/oclc/423540997> <http://schema.org/exampleOfWork> <http://worldcat.org/entity/work/id/53721251> .
+<http://www.worldcat.org/oclc/423540997> <http://www.w3.org/2007/05/powder-s#describedby> <http://www.worldcat.org/title/-/oclc/423540997> .
+<http://www.worldcat.org/oclc/423540997> <http://schema.org/name> "Acta Amazonica" .
+<http://www.worldcat.org/oclc/423540997> <http://purl.org/library/oclcnum> "423540997" .
+<http://www.worldcat.org/oclc/423540997> <http://schema.org/contributor> <http://viaf.org/viaf/132238752> .
+<http://www.worldcat.org/oclc/423540997> <http://schema.org/datePublished> "19uu/9999" .
+<http://www.worldcat.org/oclc/423540997> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://www.worldcat.org/oclc/423540997> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://www.worldcat.org/oclc/423540997> <http://schema.org/productID> "423540997" .
+<http://www.worldcat.org/oclc/423540997> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/MediaObject> .
+<http://www.worldcat.org/title/-/oclc/423540997> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#ContentTypeGenericResource> .
+<http://www.worldcat.org/title/-/oclc/423540997> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#InformationResource> .
+<http://www.worldcat.org/title/-/oclc/423540997> <http://schema.org/about> <http://www.worldcat.org/oclc/423540997> .
+<http://www.worldcat.org/title/-/oclc/423540997> <http://schema.org/dateModified> "2019-02-09" .
+<http://www.worldcat.org/title/-/oclc/423540997> <http://rdfs.org/ns/void#inDataset> <http://purl.oclc.org/dataset/WorldCat> .
+<http://viaf.org/viaf/132238752> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+<http://viaf.org/viaf/132238752> <http://schema.org/name> "Instituto Nacional de Pesquisas da Amazônia." .

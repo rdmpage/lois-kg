@@ -1,0 +1,52 @@
+<http://experiment.worldcat.org/entity/work/data/3374482041#Topic/botany_general> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/3374482041#Topic/botany_general> <http://schema.org/name> "Botany (General)" .
+<http://www.worldcat.org/oclc/72947654> <http://schema.org/workExample> <http://worldcat.org/issn/0370-0208> .
+<http://www.worldcat.org/oclc/72947654> <http://schema.org/datePublished> "1907/1918" .
+<http://www.worldcat.org/oclc/72947654> <http://purl.org/library/placeOfPublication> <http://experiment.worldcat.org/entity/work/data/3374482041#Place/manila> .
+<http://www.worldcat.org/oclc/72947654> <http://schema.org/inLanguage> "en" .
+<http://www.worldcat.org/oclc/72947654> <http://www.w3.org/2007/05/powder-s#describedby> <http://www.worldcat.org/title/-/oclc/72947654> .
+<http://www.worldcat.org/oclc/72947654> <http://schema.org/productID> "72947654" .
+<http://www.worldcat.org/oclc/72947654> <http://schema.org/contributor> <http://experiment.worldcat.org/entity/work/data/3374482041#Organization/national_institute_of_science_and_technology> .
+<http://www.worldcat.org/oclc/72947654> <http://purl.org/library/placeOfPublication> <http://id.loc.gov/vocabulary/countries/ph> .
+<http://www.worldcat.org/oclc/72947654> <http://schema.org/contributor> <http://experiment.worldcat.org/entity/work/data/3374482041#Organization/government_of_the_philippine_islands_bureau_of_science> .
+<http://www.worldcat.org/oclc/72947654> <http://purl.org/library/oclcnum> "72947654" .
+<http://www.worldcat.org/oclc/72947654> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/3374482041#Topic/botany> .
+<http://www.worldcat.org/oclc/72947654> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/3374482041#Topic/botanie_algemeen> .
+<http://www.worldcat.org/oclc/72947654> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://www.worldcat.org/oclc/72947654> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/3374482041#Topic/botany_general> .
+<http://www.worldcat.org/oclc/72947654> <http://schema.org/exampleOfWork> <http://worldcat.org/entity/work/id/3374482041> .
+<http://www.worldcat.org/oclc/72947654> <http://schema.org/publisher> <http://experiment.worldcat.org/entity/work/data/3374482041#Agent/bureau_of_printing> .
+<http://www.worldcat.org/oclc/72947654> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/3374482041#Topic/plantkunde> .
+<http://www.worldcat.org/oclc/72947654> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://www.worldcat.org/oclc/72947654> <http://schema.org/publication> <http://www.worldcat.org/title/-/oclc/72947654#PublicationEvent/manila_bureau_of_printing_1907_1918> .
+<http://www.worldcat.org/oclc/72947654> <http://schema.org/name> "The Philippine journal of science C, Botany." .
+<http://experiment.worldcat.org/entity/work/data/3374482041#Organization/government_of_the_philippine_islands_bureau_of_science> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+<http://experiment.worldcat.org/entity/work/data/3374482041#Organization/government_of_the_philippine_islands_bureau_of_science> <http://schema.org/name> "Government of the Philippine Islands. Bureau of Science." .
+<http://experiment.worldcat.org/entity/work/data/3374482041#Place/manila> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://experiment.worldcat.org/entity/work/data/3374482041#Place/manila> <http://schema.org/name> "Manila" .
+<http://experiment.worldcat.org/entity/work/data/3374482041#Agent/bureau_of_printing> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bibliograph.net/Agent> .
+<http://experiment.worldcat.org/entity/work/data/3374482041#Agent/bureau_of_printing> <http://schema.org/name> "Bureau of Printing" .
+<http://worldcat.org/issn/0370-0208> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://worldcat.org/issn/0370-0208> <http://schema.org/name> "The Philippine journal of science C, Botany." .
+<http://worldcat.org/issn/0370-0208> <http://schema.org/issn> "0370-0208" .
+<http://worldcat.org/issn/0370-0208> <http://umbel.org/umbel#isLike> <http://worldcat.org/entity/work/id/3374482041> .
+<http://worldcat.org/entity/work/id/3374482041> <http://umbel.org/umbel#isLike> <http://worldcat.org/issn/0370-0208> .
+<http://www.worldcat.org/title/-/oclc/72947654> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#ContentTypeGenericResource> .
+<http://www.worldcat.org/title/-/oclc/72947654> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#InformationResource> .
+<http://www.worldcat.org/title/-/oclc/72947654> <http://schema.org/about> <http://www.worldcat.org/oclc/72947654> .
+<http://www.worldcat.org/title/-/oclc/72947654> <http://schema.org/dateModified> "2019-08-15" .
+<http://www.worldcat.org/title/-/oclc/72947654> <http://rdfs.org/ns/void#inDataset> <http://purl.oclc.org/dataset/WorldCat> .
+<http://www.worldcat.org/title/-/oclc/72947654#PublicationEvent/manila_bureau_of_printing_1907_1918> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PublicationEvent> .
+<http://www.worldcat.org/title/-/oclc/72947654#PublicationEvent/manila_bureau_of_printing_1907_1918> <http://schema.org/location> <http://experiment.worldcat.org/entity/work/data/3374482041#Place/manila> .
+<http://www.worldcat.org/title/-/oclc/72947654#PublicationEvent/manila_bureau_of_printing_1907_1918> <http://schema.org/organizer> <http://experiment.worldcat.org/entity/work/data/3374482041#Agent/bureau_of_printing> .
+<http://www.worldcat.org/title/-/oclc/72947654#PublicationEvent/manila_bureau_of_printing_1907_1918> <http://schema.org/startDate> "1907-1918" .
+<http://experiment.worldcat.org/entity/work/data/3374482041#Topic/plantkunde> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/3374482041#Topic/plantkunde> <http://schema.org/name> "plantkunde" .
+<http://experiment.worldcat.org/entity/work/data/3374482041#Topic/botany> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/3374482041#Topic/botany> <http://schema.org/name> "botany" .
+<http://experiment.worldcat.org/entity/work/data/3374482041#Topic/botanie_algemeen> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/3374482041#Topic/botanie_algemeen> <http://schema.org/name> "Botanie (algemeen)" .
+<http://id.loc.gov/vocabulary/countries/ph> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://id.loc.gov/vocabulary/countries/ph> <http://purl.org/dc/terms/identifier> "ph" .
+<http://experiment.worldcat.org/entity/work/data/3374482041#Organization/national_institute_of_science_and_technology> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+<http://experiment.worldcat.org/entity/work/data/3374482041#Organization/national_institute_of_science_and_technology> <http://schema.org/name> "National Institute of Science and Technology." .

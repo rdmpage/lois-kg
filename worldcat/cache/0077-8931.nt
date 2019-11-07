@@ -1,0 +1,50 @@
+<http://experiment.worldcat.org/entity/work/data/9609695048#Topic/botany> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/9609695048#Topic/botany> <http://schema.org/name> "Botany"@en .
+<http://experiment.worldcat.org/entity/work/data/9609695048#Topic/plantes> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/9609695048#Topic/plantes> <http://schema.org/name> "Plantes"@fr .
+<http://id.loc.gov/vocabulary/countries/nyu> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://id.loc.gov/vocabulary/countries/nyu> <http://purl.org/dc/terms/identifier> "nyu" .
+<http://experiment.worldcat.org/entity/work/data/9609695048#Organization/new_york_botanical_garden> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+<http://experiment.worldcat.org/entity/work/data/9609695048#Organization/new_york_botanical_garden> <http://schema.org/name> "New York Botanical Garden." .
+<http://dewey.info/class/581.08/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/9609695048#Agent/new_york_botanical_garden> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bibliograph.net/Agent> .
+<http://experiment.worldcat.org/entity/work/data/9609695048#Agent/new_york_botanical_garden> <http://schema.org/name> "[New York Botanical Garden" .
+<http://dbpedia.org/resource/New_York_City> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://dbpedia.org/resource/New_York_City> <http://schema.org/name> "New York" .
+<http://www.worldcat.org/title/-/oclc/1125912359#PublicationEvent/new_york_new_york_botanical_garden1900> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PublicationEvent> .
+<http://www.worldcat.org/title/-/oclc/1125912359#PublicationEvent/new_york_new_york_botanical_garden1900> <http://schema.org/location> <http://dbpedia.org/resource/New_York_City> .
+<http://www.worldcat.org/title/-/oclc/1125912359#PublicationEvent/new_york_new_york_botanical_garden1900> <http://schema.org/organizer> <http://experiment.worldcat.org/entity/work/data/9609695048#Agent/new_york_botanical_garden> .
+<http://www.worldcat.org/title/-/oclc/1125912359#PublicationEvent/new_york_new_york_botanical_garden1900> <http://schema.org/startDate> "1900-" .
+<http://worldcat.org/issn/0077-8931> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://worldcat.org/issn/0077-8931> <http://schema.org/name> "Memoirs of the New York Botanical Garden."@en .
+<http://worldcat.org/issn/0077-8931> <http://schema.org/issn> "0077-8931" .
+<http://worldcat.org/issn/0077-8931> <http://umbel.org/umbel#isLike> <http://worldcat.org/entity/work/id/9609695048> .
+<http://worldcat.org/entity/work/id/9609695048> <http://umbel.org/umbel#isLike> <http://worldcat.org/issn/0077-8931> .
+<http://www.worldcat.org/oclc/1125912359> <http://schema.org/datePublished> "1900/" .
+<http://www.worldcat.org/oclc/1125912359> <http://purl.org/library/placeOfPublication> <http://dbpedia.org/resource/New_York_City> .
+<http://www.worldcat.org/oclc/1125912359> <http://umbel.org/umbel#isLike> <http://d-nb.info/010018514> .
+<http://www.worldcat.org/oclc/1125912359> <http://schema.org/about> <http://dewey.info/class/581.08/> .
+<http://www.worldcat.org/oclc/1125912359> <http://schema.org/contributor> <http://experiment.worldcat.org/entity/work/data/9609695048#Organization/new_york_botanical_garden> .
+<http://www.worldcat.org/oclc/1125912359> <http://purl.org/library/oclcnum> "1125912359" .
+<http://www.worldcat.org/oclc/1125912359> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/9609695048#Topic/plantes> .
+<http://www.worldcat.org/oclc/1125912359> <http://www.w3.org/2007/05/powder-s#describedby> <http://www.worldcat.org/title/-/oclc/1125912359> .
+<http://www.worldcat.org/oclc/1125912359> <http://schema.org/publisher> <http://experiment.worldcat.org/entity/work/data/9609695048#Agent/new_york_botanical_garden> .
+<http://www.worldcat.org/oclc/1125912359> <http://schema.org/inLanguage> "en" .
+<http://www.worldcat.org/oclc/1125912359> <http://schema.org/productID> "1125912359" .
+<http://www.worldcat.org/oclc/1125912359> <http://schema.org/name> "Memoirs of the New York Botanical Garden."@en .
+<http://www.worldcat.org/oclc/1125912359> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://www.worldcat.org/oclc/1125912359> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bibliograph.net/PublicationSeries> .
+<http://www.worldcat.org/oclc/1125912359> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/MediaObject> .
+<http://www.worldcat.org/oclc/1125912359> <http://purl.org/library/placeOfPublication> <http://id.loc.gov/vocabulary/countries/nyu> .
+<http://www.worldcat.org/oclc/1125912359> <http://schema.org/genre> "Periodicals"@en .
+<http://www.worldcat.org/oclc/1125912359> <http://schema.org/publication> <http://www.worldcat.org/title/-/oclc/1125912359#PublicationEvent/new_york_new_york_botanical_garden1900> .
+<http://www.worldcat.org/oclc/1125912359> <http://schema.org/exampleOfWork> <http://worldcat.org/entity/work/id/9609695048> .
+<http://www.worldcat.org/oclc/1125912359> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/9609695048#Topic/botany> .
+<http://www.worldcat.org/oclc/1125912359> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://www.worldcat.org/oclc/1125912359> <http://schema.org/datePublished> "1900/9999" .
+<http://www.worldcat.org/oclc/1125912359> <http://schema.org/workExample> <http://worldcat.org/issn/0077-8931> .
+<http://www.worldcat.org/title/-/oclc/1125912359> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#ContentTypeGenericResource> .
+<http://www.worldcat.org/title/-/oclc/1125912359> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#InformationResource> .
+<http://www.worldcat.org/title/-/oclc/1125912359> <http://schema.org/about> <http://www.worldcat.org/oclc/1125912359> .
+<http://www.worldcat.org/title/-/oclc/1125912359> <http://schema.org/dateModified> "2019-10-31" .
+<http://www.worldcat.org/title/-/oclc/1125912359> <http://rdfs.org/ns/void#inDataset> <http://purl.oclc.org/dataset/WorldCat> .

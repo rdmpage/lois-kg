@@ -1,0 +1,46 @@
+<http://www.worldcat.org/oclc/715022918> <http://purl.org/library/placeOfPublication> <http://id.loc.gov/vocabulary/countries/flu> .
+<http://www.worldcat.org/oclc/715022918> <http://schema.org/datePublished> "1976/" .
+<http://www.worldcat.org/oclc/715022918> <http://schema.org/datePublished> "1976/9999" .
+<http://www.worldcat.org/oclc/715022918> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://www.worldcat.org/oclc/715022918> <http://schema.org/isSimilarTo> <http://worldcat.org/entity/work/data/34884411#CreativeWork/systematic_botany> .
+<http://www.worldcat.org/oclc/715022918> <http://schema.org/name> "Systematic Botany : quarterly journal of the American Society of Plant Taxonomists." .
+<http://www.worldcat.org/oclc/715022918> <http://schema.org/exampleOfWork> <http://worldcat.org/entity/work/id/34884411> .
+<http://www.worldcat.org/oclc/715022918> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/34884411#Topic/botanique_systematique> .
+<http://www.worldcat.org/oclc/715022918> <http://schema.org/productID> "715022918" .
+<http://www.worldcat.org/oclc/715022918> <http://schema.org/genre> "[périodique]" .
+<http://www.worldcat.org/oclc/715022918> <http://purl.org/library/oclcnum> "715022918" .
+<http://www.worldcat.org/oclc/715022918> <http://schema.org/inLanguage> "en" .
+<http://www.worldcat.org/oclc/715022918> <http://schema.org/publisher> <http://experiment.worldcat.org/entity/work/data/34884411#Agent/american_society_of_plant_taxonomists> .
+<http://www.worldcat.org/oclc/715022918> <http://schema.org/workExample> <http://worldcat.org/issn/0363-6445> .
+<http://www.worldcat.org/oclc/715022918> <http://schema.org/publication> <http://www.worldcat.org/title/-/oclc/715022918#PublicationEvent/tallahassee_american_society_of_plant_taxonomists_1976> .
+<http://www.worldcat.org/oclc/715022918> <http://schema.org/contributor> <http://viaf.org/viaf/125348383> .
+<http://www.worldcat.org/oclc/715022918> <http://purl.org/library/placeOfPublication> <http://experiment.worldcat.org/entity/work/data/34884411#Place/tallahassee> .
+<http://www.worldcat.org/oclc/715022918> <http://www.w3.org/2007/05/powder-s#describedby> <http://www.worldcat.org/title/-/oclc/715022918> .
+<http://www.worldcat.org/oclc/715022918> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://worldcat.org/entity/work/id/34884411> <http://umbel.org/umbel#isLike> <http://worldcat.org/issn/0363-6445> .
+<http://viaf.org/viaf/125348383> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+<http://viaf.org/viaf/125348383> <http://schema.org/name> "American Society of Plant Taxonomists." .
+<http://www.worldcat.org/title/-/oclc/715022918> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#ContentTypeGenericResource> .
+<http://www.worldcat.org/title/-/oclc/715022918> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#InformationResource> .
+<http://www.worldcat.org/title/-/oclc/715022918> <http://schema.org/about> <http://www.worldcat.org/oclc/715022918> .
+<http://www.worldcat.org/title/-/oclc/715022918> <http://schema.org/dateModified> "2018-11-10" .
+<http://www.worldcat.org/title/-/oclc/715022918> <http://rdfs.org/ns/void#inDataset> <http://purl.oclc.org/dataset/WorldCat> .
+<http://experiment.worldcat.org/entity/work/data/34884411#Topic/botanique_systematique> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/34884411#Topic/botanique_systematique> <http://schema.org/name> "botanique systématique" .
+<http://worldcat.org/issn/0363-6445> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://worldcat.org/issn/0363-6445> <http://schema.org/name> "Systematic Botany : quarterly journal of the American Society of Plant Taxonomists." .
+<http://worldcat.org/issn/0363-6445> <http://schema.org/issn> "0363-6445" .
+<http://worldcat.org/issn/0363-6445> <http://umbel.org/umbel#isLike> <http://worldcat.org/entity/work/id/34884411> .
+<http://experiment.worldcat.org/entity/work/data/34884411#Place/tallahassee> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://experiment.worldcat.org/entity/work/data/34884411#Place/tallahassee> <http://schema.org/name> "Tallahassee" .
+<http://experiment.worldcat.org/entity/work/data/34884411#Agent/american_society_of_plant_taxonomists> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bibliograph.net/Agent> .
+<http://experiment.worldcat.org/entity/work/data/34884411#Agent/american_society_of_plant_taxonomists> <http://schema.org/name> "American Society of Plant Taxonomists" .
+<http://www.worldcat.org/title/-/oclc/715022918#PublicationEvent/tallahassee_american_society_of_plant_taxonomists_1976> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PublicationEvent> .
+<http://www.worldcat.org/title/-/oclc/715022918#PublicationEvent/tallahassee_american_society_of_plant_taxonomists_1976> <http://schema.org/location> <http://experiment.worldcat.org/entity/work/data/34884411#Place/tallahassee> .
+<http://www.worldcat.org/title/-/oclc/715022918#PublicationEvent/tallahassee_american_society_of_plant_taxonomists_1976> <http://schema.org/organizer> <http://experiment.worldcat.org/entity/work/data/34884411#Agent/american_society_of_plant_taxonomists> .
+<http://www.worldcat.org/title/-/oclc/715022918#PublicationEvent/tallahassee_american_society_of_plant_taxonomists_1976> <http://schema.org/startDate> "1976-" .
+<http://worldcat.org/entity/work/data/34884411#CreativeWork/systematic_botany> <http://schema.org/isSimilarTo> <http://www.worldcat.org/oclc/715022918> .
+<http://worldcat.org/entity/work/data/34884411#CreativeWork/systematic_botany> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://worldcat.org/entity/work/data/34884411#CreativeWork/systematic_botany> <http://www.w3.org/2000/01/rdf-schema#label> "Systematic botany" .
+<http://id.loc.gov/vocabulary/countries/flu> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://id.loc.gov/vocabulary/countries/flu> <http://purl.org/dc/terms/identifier> "flu" .

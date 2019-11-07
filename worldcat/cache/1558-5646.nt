@@ -1,0 +1,135 @@
+<http://worldcat.org/entity/work/id/3855522411> <http://umbel.org/umbel#isLike> <http://worldcat.org/issn/1558-5646> .
+<http://experiment.worldcat.org/entity/work/data/3855522411#Topic/ressource_internet_descripteur_de_forme> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/3855522411#Topic/ressource_internet_descripteur_de_forme> <http://schema.org/name> "Ressource Internet (Descripteur de forme)" .
+<http://experiment.worldcat.org/entity/work/data/3855522411#Topic/evolutie_en_fylogenie> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/3855522411#Topic/evolutie_en_fylogenie> <http://schema.org/name> "Evolutie en fylogenie" .
+<http://experiment.worldcat.org/entity/work/data/3855522411#Agent/society_for_the_study_of_evolution> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bibliograph.net/Agent> .
+<http://experiment.worldcat.org/entity/work/data/3855522411#Agent/society_for_the_study_of_evolution> <http://schema.org/name> "Society for the Study of Evolution" .
+<http://experiment.worldcat.org/entity/work/data/3855522411#Topic/heritability> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/3855522411#Topic/heritability> <http://schema.org/name> "heritability" .
+<http://www.worldcat.org/oclc/818994334> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://www.worldcat.org/oclc/818994334> <http://schema.org/publication> <http://www.worldcat.org/title/-/oclc/818994334#PublicationEvent/s_l_blackwell> .
+<http://www.worldcat.org/oclc/818994334> <http://schema.org/isSimilarTo> <http://worldcat.org/entity/work/data/3855522411#CreativeWork/evolution> .
+<http://www.worldcat.org/oclc/818994334> <http://www.w3.org/2007/05/powder-s#describedby> <http://www.worldcat.org/title/-/oclc/818994334> .
+<http://www.worldcat.org/oclc/818994334> <http://purl.org/library/placeOfPublication> <http://id.loc.gov/vocabulary/countries/nyu> .
+<http://www.worldcat.org/oclc/818994334> <http://schema.org/productID> "818994334" .
+<http://www.worldcat.org/oclc/818994334> <http://schema.org/exampleOfWork> <http://worldcat.org/entity/work/id/3855522411> .
+<http://www.worldcat.org/oclc/818994334> <http://schema.org/name> "Evolution : international journal of organic evolution" .
+<http://www.worldcat.org/oclc/818994334> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/3855522411#Topic/periodique_electronique_descripteur_de_forme> .
+<http://www.worldcat.org/oclc/818994334> <http://schema.org/url> <http://www.blackwell-synergy.com/loi/evo> .
+<http://www.worldcat.org/oclc/818994334> <http://schema.org/workExample> <http://worldcat.org/issn/1558-5646> .
+<http://www.worldcat.org/oclc/818994334> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/3855522411#Topic/genetics> .
+<http://www.worldcat.org/oclc/818994334> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/3855522411#Topic/phylogeny> .
+<http://www.worldcat.org/oclc/818994334> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/3855522411#Topic/oorsprong> .
+<http://www.worldcat.org/oclc/818994334> <http://purl.org/library/oclcnum> "818994334" .
+<http://www.worldcat.org/oclc/818994334> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/3855522411#Topic/evolutie_en_fylogenie> .
+<http://www.worldcat.org/oclc/818994334> <http://purl.org/library/placeOfPublication> <http://experiment.worldcat.org/entity/work/data/3855522411#Place/new_york_etc> .
+<http://www.worldcat.org/oclc/818994334> <http://schema.org/url> <http://firstsearch.oclc.org/journal=0014-3820;screen=info;ECOIP> .
+<http://www.worldcat.org/oclc/818994334> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/MediaObject> .
+<http://www.worldcat.org/oclc/818994334> <http://schema.org/about> <http://dewey.info/class/575.05/> .
+<http://www.worldcat.org/oclc/818994334> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/3855522411#Topic/overerving> .
+<http://www.worldcat.org/oclc/818994334> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/3855522411#Topic/heritability> .
+<http://www.worldcat.org/oclc/818994334> <http://schema.org/publication> <http://www.worldcat.org/title/-/oclc/818994334#PublicationEvent/new_york_etc_society_for_the_study_of_evolution_200x> .
+<http://www.worldcat.org/oclc/818994334> <http://schema.org/url> <http://www.jstor.org/journals/00143820.html> .
+<http://www.worldcat.org/oclc/818994334> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/3855522411#Topic/heredite> .
+<http://www.worldcat.org/oclc/818994334> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/3855522411#Topic/fylogenetica> .
+<http://www.worldcat.org/oclc/818994334> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/3855522411#Topic/inheritance> .
+<http://www.worldcat.org/oclc/818994334> <http://schema.org/url> <http://firstsearch.oclc.org> .
+<http://www.worldcat.org/oclc/818994334> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/3855522411#Topic/fylogenie> .
+<http://www.worldcat.org/oclc/818994334> <http://purl.org/library/placeOfPublication> <http://experiment.worldcat.org/entity/work/data/3855522411#Place/s_l> .
+<http://www.worldcat.org/oclc/818994334> <http://schema.org/inLanguage> "en" .
+<http://www.worldcat.org/oclc/818994334> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/3855522411#Topic/evolutie> .
+<http://www.worldcat.org/oclc/818994334> <http://schema.org/datePublished> "200u/9999" .
+<http://www.worldcat.org/oclc/818994334> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://www.worldcat.org/oclc/818994334> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/3855522411#Topic/origin> .
+<http://www.worldcat.org/oclc/818994334> <http://schema.org/about> <http://id.loc.gov/authorities/subjects/sh85060367> .
+<http://www.worldcat.org/oclc/818994334> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/3855522411#Topic/heredity> .
+<http://www.worldcat.org/oclc/818994334> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/3855522411#Topic/evolution_biologie> .
+<http://www.worldcat.org/oclc/818994334> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/3855522411#Topic/evolution_and_phylogeny> .
+<http://www.worldcat.org/oclc/818994334> <http://schema.org/url> <http://www.bioone.org/bioone/?request=get-journals-list&issn=0014-3820> .
+<http://www.worldcat.org/oclc/818994334> <http://schema.org/datePublished> "200X/.." .
+<http://www.worldcat.org/oclc/818994334> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/3855522411#Topic/evolution> .
+<http://www.worldcat.org/oclc/818994334> <http://schema.org/publisher> <http://experiment.worldcat.org/entity/work/data/3855522411#Agent/blackwell> .
+<http://www.worldcat.org/oclc/818994334> <http://schema.org/genre> "Periodicals" .
+<http://www.worldcat.org/oclc/818994334> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/3855522411#Topic/ressource_internet_descripteur_de_forme> .
+<http://www.worldcat.org/oclc/818994334> <http://schema.org/publisher> <http://experiment.worldcat.org/entity/work/data/3855522411#Agent/society_for_the_study_of_evolution> .
+<http://www.worldcat.org/oclc/818994334> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/3855522411#Topic/phylogenetics> .
+<http://www.worldcat.org/oclc/818994334> <http://schema.org/contributor> <http://experiment.worldcat.org/entity/work/data/3855522411#Organization/society_for_the_study_of_evolution_new_york> .
+<http://www.worldcat.org/oclc/818994334> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/3855522411#Topic/genetica> .
+<http://www.worldcat.org/oclc/818994334> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/3855522411#Topic/genetique> .
+<http://experiment.worldcat.org/entity/work/data/3855522411#Topic/inheritance> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/3855522411#Topic/inheritance> <http://schema.org/name> "inheritance" .
+<http://experiment.worldcat.org/entity/work/data/3855522411#Topic/heredite> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/3855522411#Topic/heredite> <http://schema.org/name> "Hérédité" .
+<http://experiment.worldcat.org/entity/work/data/3855522411#Topic/fylogenetica> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/3855522411#Topic/fylogenetica> <http://schema.org/name> "fylogenetica" .
+<http://id.loc.gov/vocabulary/countries/nyu> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://id.loc.gov/vocabulary/countries/nyu> <http://purl.org/dc/terms/identifier> "nyu" .
+<http://worldcat.org/entity/work/data/3855522411#CreativeWork/evolution> <http://schema.org/isSimilarTo> <http://www.worldcat.org/oclc/818994334> .
+<http://worldcat.org/entity/work/data/3855522411#CreativeWork/evolution> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://worldcat.org/entity/work/data/3855522411#CreativeWork/evolution> <http://www.w3.org/2000/01/rdf-schema#label> "Evolution" .
+<http://id.loc.gov/authorities/subjects/sh85060367> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://id.loc.gov/authorities/subjects/sh85060367> <http://schema.org/name> "Heredity" .
+<http://experiment.worldcat.org/entity/work/data/3855522411#Topic/evolutie> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/3855522411#Topic/evolutie> <http://schema.org/name> "Evolutie" .
+<http://experiment.worldcat.org/entity/work/data/3855522411#Topic/evolutie> <http://schema.org/name> "evolutie" .
+<http://firstsearch.oclc.org> <http://www.w3.org/2000/01/rdf-schema#comment> "Address for accessing the journal using authorization number and password through OCLC FirstSearch Electronic Collections Online. Subscription to online journal required for access to abstracts and full text" .
+<http://experiment.worldcat.org/entity/work/data/3855522411#Topic/genetics> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/3855522411#Topic/genetics> <http://schema.org/name> "genetics" .
+<http://experiment.worldcat.org/entity/work/data/3855522411#Topic/origin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/3855522411#Topic/origin> <http://schema.org/name> "origin" .
+<http://worldcat.org/issn/1558-5646> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://worldcat.org/issn/1558-5646> <http://schema.org/name> "Evolution : international journal of organic evolution" .
+<http://worldcat.org/issn/1558-5646> <http://schema.org/issn> "1558-5646" .
+<http://worldcat.org/issn/1558-5646> <http://umbel.org/umbel#isLike> <http://worldcat.org/entity/work/id/3855522411> .
+<http://firstsearch.oclc.org/journal=0014-3820;screen=info;ECOIP> <http://www.w3.org/2000/01/rdf-schema#comment> "Address for accessing the journal from an authorized IP address through OCLC FirstSearch Electronic Collections Online. Subscription to online journal required for access to abstracts and full text" .
+<http://experiment.worldcat.org/entity/work/data/3855522411#Topic/evolution> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/3855522411#Topic/evolution> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://id.loc.gov/authorities/subjects/sh2008102531> .
+<http://experiment.worldcat.org/entity/work/data/3855522411#Topic/evolution> <http://schema.org/name> "Evolution" .
+<http://experiment.worldcat.org/entity/work/data/3855522411#Topic/evolution> <http://schema.org/name> "Évolution"@fr .
+<http://experiment.worldcat.org/entity/work/data/3855522411#Topic/evolution> <http://schema.org/name> "evolution" .
+<http://experiment.worldcat.org/entity/work/data/3855522411#Topic/genetica> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/3855522411#Topic/genetica> <http://schema.org/name> "genetica" .
+<http://experiment.worldcat.org/entity/work/data/3855522411#Topic/genetique> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/3855522411#Topic/genetique> <http://schema.org/name> "Génétique"@fr .
+<http://experiment.worldcat.org/entity/work/data/3855522411#Topic/genetique> <http://schema.org/name> "Génétique" .
+<http://experiment.worldcat.org/entity/work/data/3855522411#Topic/phylogenetics> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/3855522411#Topic/phylogenetics> <http://schema.org/name> "phylogenetics" .
+<http://experiment.worldcat.org/entity/work/data/3855522411#Topic/oorsprong> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/3855522411#Topic/oorsprong> <http://schema.org/name> "oorsprong" .
+<http://experiment.worldcat.org/entity/work/data/3855522411#Topic/evolution_and_phylogeny> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/3855522411#Topic/evolution_and_phylogeny> <http://schema.org/name> "Evolution and Phylogeny" .
+<http://experiment.worldcat.org/entity/work/data/3855522411#Topic/overerving> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/3855522411#Topic/overerving> <http://schema.org/name> "overerving" .
+<http://experiment.worldcat.org/entity/work/data/3855522411#Topic/heredity> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/3855522411#Topic/heredity> <http://schema.org/name> "Heredity" .
+<http://experiment.worldcat.org/entity/work/data/3855522411#Topic/fylogenie> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/3855522411#Topic/fylogenie> <http://schema.org/name> "fylogenie" .
+<http://experiment.worldcat.org/entity/work/data/3855522411#Topic/phylogeny> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/3855522411#Topic/phylogeny> <http://schema.org/name> "phylogeny" .
+<http://experiment.worldcat.org/entity/work/data/3855522411#Place/new_york_etc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://experiment.worldcat.org/entity/work/data/3855522411#Place/new_york_etc> <http://schema.org/name> "New York etc." .
+<http://www.bioone.org/bioone/?request=get-journals-list&issn=0014-3820> <http://www.w3.org/2000/01/rdf-schema#comment> "Connect to Evolution (Online)" .
+<http://www.worldcat.org/title/-/oclc/818994334> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#ContentTypeGenericResource> .
+<http://www.worldcat.org/title/-/oclc/818994334> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#InformationResource> .
+<http://www.worldcat.org/title/-/oclc/818994334> <http://schema.org/about> <http://www.worldcat.org/oclc/818994334> .
+<http://www.worldcat.org/title/-/oclc/818994334> <http://schema.org/dateModified> "2019-04-29" .
+<http://www.worldcat.org/title/-/oclc/818994334> <http://rdfs.org/ns/void#inDataset> <http://purl.oclc.org/dataset/WorldCat> .
+<http://experiment.worldcat.org/entity/work/data/3855522411#Organization/society_for_the_study_of_evolution_new_york> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+<http://experiment.worldcat.org/entity/work/data/3855522411#Organization/society_for_the_study_of_evolution_new_york> <http://schema.org/name> "Society for the Study of Evolution (New York)" .
+<http://experiment.worldcat.org/entity/work/data/3855522411#Topic/periodique_electronique_descripteur_de_forme> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/3855522411#Topic/periodique_electronique_descripteur_de_forme> <http://schema.org/name> "Périodique électronique (Descripteur de forme)" .
+<http://dewey.info/class/575.05/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://www.worldcat.org/title/-/oclc/818994334#PublicationEvent/new_york_etc_society_for_the_study_of_evolution_200x> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PublicationEvent> .
+<http://www.worldcat.org/title/-/oclc/818994334#PublicationEvent/new_york_etc_society_for_the_study_of_evolution_200x> <http://schema.org/location> <http://experiment.worldcat.org/entity/work/data/3855522411#Place/new_york_etc> .
+<http://www.worldcat.org/title/-/oclc/818994334#PublicationEvent/new_york_etc_society_for_the_study_of_evolution_200x> <http://schema.org/organizer> <http://experiment.worldcat.org/entity/work/data/3855522411#Agent/society_for_the_study_of_evolution> .
+<http://www.worldcat.org/title/-/oclc/818994334#PublicationEvent/new_york_etc_society_for_the_study_of_evolution_200x> <http://schema.org/startDate> "200X-.." .
+<http://www.worldcat.org/title/-/oclc/818994334#PublicationEvent/s_l_blackwell> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PublicationEvent> .
+<http://www.worldcat.org/title/-/oclc/818994334#PublicationEvent/s_l_blackwell> <http://schema.org/location> <http://experiment.worldcat.org/entity/work/data/3855522411#Place/s_l> .
+<http://www.worldcat.org/title/-/oclc/818994334#PublicationEvent/s_l_blackwell> <http://schema.org/organizer> <http://experiment.worldcat.org/entity/work/data/3855522411#Agent/blackwell> .
+<http://experiment.worldcat.org/entity/work/data/3855522411#Topic/evolution_biologie> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/3855522411#Topic/evolution_biologie> <http://schema.org/name> "Évolution (Biologie)" .
+<http://experiment.worldcat.org/entity/work/data/3855522411#Agent/blackwell> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bibliograph.net/Agent> .
+<http://experiment.worldcat.org/entity/work/data/3855522411#Agent/blackwell> <http://schema.org/name> "Blackwell." .
+<http://experiment.worldcat.org/entity/work/data/3855522411#Place/s_l> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://experiment.worldcat.org/entity/work/data/3855522411#Place/s_l> <http://schema.org/name> "S.l." .

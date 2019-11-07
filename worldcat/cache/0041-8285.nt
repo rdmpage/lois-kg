@@ -1,0 +1,48 @@
+<http://id.loc.gov/vocabulary/countries/ve> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://id.loc.gov/vocabulary/countries/ve> <http://purl.org/dc/terms/identifier> "ve" .
+<http://www.worldcat.org/title/-/oclc/716220053> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#ContentTypeGenericResource> .
+<http://www.worldcat.org/title/-/oclc/716220053> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#InformationResource> .
+<http://www.worldcat.org/title/-/oclc/716220053> <http://schema.org/about> <http://www.worldcat.org/oclc/716220053> .
+<http://www.worldcat.org/title/-/oclc/716220053> <http://schema.org/dateModified> "2018-11-07" .
+<http://www.worldcat.org/title/-/oclc/716220053> <http://rdfs.org/ns/void#inDataset> <http://purl.oclc.org/dataset/WorldCat> .
+<http://experiment.worldcat.org/entity/work/data/43534259#Topic/recherche_agronomique> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/43534259#Topic/recherche_agronomique> <http://schema.org/name> "recherche agronomique" .
+<http://experiment.worldcat.org/entity/work/data/43534259#Topic/recherche_agronomique_venezuela> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/43534259#Topic/recherche_agronomique_venezuela> <http://schema.org/name> "recherche agronomique--Venezuela" .
+<http://worldcat.org/issn/0041-8285> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://worldcat.org/issn/0041-8285> <http://schema.org/name> "Revista de la Facultad de Agronomía, Universidad Central de Venezuela." .
+<http://worldcat.org/issn/0041-8285> <http://schema.org/issn> "0041-8285" .
+<http://worldcat.org/issn/0041-8285> <http://umbel.org/umbel#isLike> <http://worldcat.org/entity/work/id/43534259> .
+<http://experiment.worldcat.org/entity/work/data/43534259#Agent/universidad_central_de_venezuela> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bibliograph.net/Agent> .
+<http://experiment.worldcat.org/entity/work/data/43534259#Agent/universidad_central_de_venezuela> <http://schema.org/name> "Universidad Central de Venezuela" .
+<http://viaf.org/viaf/122640653> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+<http://viaf.org/viaf/122640653> <http://schema.org/name> "Universidad Central de Venezuela (Maracay). Facultad de Agronomía." .
+<http://worldcat.org/entity/work/id/43534259> <http://umbel.org/umbel#isLike> <http://worldcat.org/issn/0041-8285> .
+<http://www.worldcat.org/oclc/716220053> <http://purl.org/library/oclcnum> "716220053" .
+<http://www.worldcat.org/oclc/716220053> <http://schema.org/publication> <http://www.worldcat.org/title/-/oclc/716220053#PublicationEvent/maracay_universidad_central_de_venezuela_1957> .
+<http://www.worldcat.org/oclc/716220053> <http://schema.org/contributor> <http://viaf.org/viaf/122640653> .
+<http://www.worldcat.org/oclc/716220053> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://www.worldcat.org/oclc/716220053> <http://schema.org/inLanguage> "es" .
+<http://www.worldcat.org/oclc/716220053> <http://purl.org/library/placeOfPublication> <http://id.loc.gov/vocabulary/countries/ve> .
+<http://www.worldcat.org/oclc/716220053> <http://schema.org/datePublished> "1957/" .
+<http://www.worldcat.org/oclc/716220053> <http://schema.org/name> "Revista de la Facultad de Agronomía, Universidad Central de Venezuela." .
+<http://www.worldcat.org/oclc/716220053> <http://schema.org/productID> "716220053" .
+<http://www.worldcat.org/oclc/716220053> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://www.worldcat.org/oclc/716220053> <http://purl.org/library/placeOfPublication> <http://experiment.worldcat.org/entity/work/data/43534259#Place/maracay> .
+<http://www.worldcat.org/oclc/716220053> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/43534259#Topic/recherche_agronomique_venezuela> .
+<http://www.worldcat.org/oclc/716220053> <http://schema.org/exampleOfWork> <http://worldcat.org/entity/work/id/43534259> .
+<http://www.worldcat.org/oclc/716220053> <http://schema.org/genre> "[périodique]" .
+<http://www.worldcat.org/oclc/716220053> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/43534259#Topic/agronomie> .
+<http://www.worldcat.org/oclc/716220053> <http://schema.org/workExample> <http://worldcat.org/issn/0041-8285> .
+<http://www.worldcat.org/oclc/716220053> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/43534259#Topic/recherche_agronomique> .
+<http://www.worldcat.org/oclc/716220053> <http://www.w3.org/2007/05/powder-s#describedby> <http://www.worldcat.org/title/-/oclc/716220053> .
+<http://www.worldcat.org/oclc/716220053> <http://schema.org/datePublished> "1957/9999" .
+<http://www.worldcat.org/oclc/716220053> <http://schema.org/publisher> <http://experiment.worldcat.org/entity/work/data/43534259#Agent/universidad_central_de_venezuela> .
+<http://www.worldcat.org/title/-/oclc/716220053#PublicationEvent/maracay_universidad_central_de_venezuela_1957> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PublicationEvent> .
+<http://www.worldcat.org/title/-/oclc/716220053#PublicationEvent/maracay_universidad_central_de_venezuela_1957> <http://schema.org/location> <http://experiment.worldcat.org/entity/work/data/43534259#Place/maracay> .
+<http://www.worldcat.org/title/-/oclc/716220053#PublicationEvent/maracay_universidad_central_de_venezuela_1957> <http://schema.org/organizer> <http://experiment.worldcat.org/entity/work/data/43534259#Agent/universidad_central_de_venezuela> .
+<http://www.worldcat.org/title/-/oclc/716220053#PublicationEvent/maracay_universidad_central_de_venezuela_1957> <http://schema.org/startDate> "1957-" .
+<http://experiment.worldcat.org/entity/work/data/43534259#Place/maracay> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://experiment.worldcat.org/entity/work/data/43534259#Place/maracay> <http://schema.org/name> "Maracay" .
+<http://experiment.worldcat.org/entity/work/data/43534259#Topic/agronomie> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/43534259#Topic/agronomie> <http://schema.org/name> "agronomie" .

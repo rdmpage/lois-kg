@@ -1,0 +1,57 @@
+<http://experiment.worldcat.org/entity/work/data/42482625#Topic/microbiology> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/42482625#Topic/microbiology> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://id.loc.gov/authorities/subjects/sh2008107742> .
+<http://experiment.worldcat.org/entity/work/data/42482625#Topic/microbiology> <http://schema.org/name> "Microbiology"@en .
+<http://experiment.worldcat.org/entity/work/data/42482625#Agent/american_society_for_microbiology> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bibliograph.net/Agent> .
+<http://experiment.worldcat.org/entity/work/data/42482625#Agent/american_society_for_microbiology> <http://schema.org/name> "American Society for microbiology" .
+<http://experiment.worldcat.org/entity/work/data/42482625#Topic/infestations> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/42482625#Topic/infestations> <http://schema.org/name> "Infestations"@en .
+<http://worldcat.org/entity/work/id/42482625> <http://umbel.org/umbel#isLike> <http://worldcat.org/issn/0095-1137> .
+<http://www.worldcat.org/oclc/773997078> <http://www.w3.org/2007/05/powder-s#describedby> <http://www.worldcat.org/title/-/oclc/773997078> .
+<http://www.worldcat.org/oclc/773997078> <http://schema.org/about> <http://id.worldcat.org/fast/914091> .
+<http://www.worldcat.org/oclc/773997078> <http://purl.org/library/placeOfPublication> <http://experiment.worldcat.org/entity/work/data/42482625#Place/washington_d_c> .
+<http://www.worldcat.org/oclc/773997078> <http://schema.org/workExample> <http://worldcat.org/issn/0095-1137> .
+<http://www.worldcat.org/oclc/773997078> <http://schema.org/name> "Journal of clinical microbiology."@en .
+<http://www.worldcat.org/oclc/773997078> <http://purl.org/library/oclcnum> "773997078" .
+<http://www.worldcat.org/oclc/773997078> <http://schema.org/publication> <http://www.worldcat.org/title/-/oclc/773997078#PublicationEvent/washington_d_c_american_society_for_microbiology_2003_2004> .
+<http://www.worldcat.org/oclc/773997078> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://www.worldcat.org/oclc/773997078> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/42482625#Topic/animal_infections> .
+<http://www.worldcat.org/oclc/773997078> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/42482625#Topic/infestations> .
+<http://www.worldcat.org/oclc/773997078> <http://schema.org/about> <http://dewey.info/class/616.0105/> .
+<http://www.worldcat.org/oclc/773997078> <http://schema.org/genre> "Periodicals"@en .
+<http://www.worldcat.org/oclc/773997078> <http://schema.org/publisher> <http://experiment.worldcat.org/entity/work/data/42482625#Agent/american_society_for_microbiology> .
+<http://www.worldcat.org/oclc/773997078> <http://schema.org/datePublished> "2003/2004" .
+<http://www.worldcat.org/oclc/773997078> <http://schema.org/exampleOfWork> <http://worldcat.org/entity/work/id/42482625> .
+<http://www.worldcat.org/oclc/773997078> <http://schema.org/productID> "773997078" .
+<http://www.worldcat.org/oclc/773997078> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://www.worldcat.org/oclc/773997078> <http://schema.org/inLanguage> "en" .
+<http://www.worldcat.org/oclc/773997078> <http://purl.org/library/placeOfPublication> <http://id.loc.gov/vocabulary/countries/dcu> .
+<http://www.worldcat.org/oclc/773997078> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/42482625#Topic/microbiology> .
+<http://www.worldcat.org/oclc/773997078> <http://schema.org/about> <http://id.worldcat.org/fast/1019576> .
+<http://www.worldcat.org/oclc/773997078> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/42482625#Topic/epidemiology> .
+<http://dewey.info/class/616.0105/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://www.worldcat.org/title/-/oclc/773997078#PublicationEvent/washington_d_c_american_society_for_microbiology_2003_2004> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PublicationEvent> .
+<http://www.worldcat.org/title/-/oclc/773997078#PublicationEvent/washington_d_c_american_society_for_microbiology_2003_2004> <http://schema.org/location> <http://experiment.worldcat.org/entity/work/data/42482625#Place/washington_d_c> .
+<http://www.worldcat.org/title/-/oclc/773997078#PublicationEvent/washington_d_c_american_society_for_microbiology_2003_2004> <http://schema.org/organizer> <http://experiment.worldcat.org/entity/work/data/42482625#Agent/american_society_for_microbiology> .
+<http://www.worldcat.org/title/-/oclc/773997078#PublicationEvent/washington_d_c_american_society_for_microbiology_2003_2004> <http://schema.org/startDate> "2003-2004" .
+<http://id.worldcat.org/fast/914091> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://id.worldcat.org/fast/914091> <http://schema.org/name> "Epidemiology"@en .
+<http://experiment.worldcat.org/entity/work/data/42482625#Topic/epidemiology> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/42482625#Topic/epidemiology> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://id.loc.gov/authorities/subjects/sh2008119831> .
+<http://experiment.worldcat.org/entity/work/data/42482625#Topic/epidemiology> <http://schema.org/name> "Epidemiology"@en .
+<http://id.loc.gov/vocabulary/countries/dcu> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://id.loc.gov/vocabulary/countries/dcu> <http://purl.org/dc/terms/identifier> "dcu" .
+<http://www.worldcat.org/title/-/oclc/773997078> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#ContentTypeGenericResource> .
+<http://www.worldcat.org/title/-/oclc/773997078> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#InformationResource> .
+<http://www.worldcat.org/title/-/oclc/773997078> <http://schema.org/about> <http://www.worldcat.org/oclc/773997078> .
+<http://www.worldcat.org/title/-/oclc/773997078> <http://schema.org/dateModified> "2018-11-08" .
+<http://www.worldcat.org/title/-/oclc/773997078> <http://rdfs.org/ns/void#inDataset> <http://purl.oclc.org/dataset/WorldCat> .
+<http://experiment.worldcat.org/entity/work/data/42482625#Place/washington_d_c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://experiment.worldcat.org/entity/work/data/42482625#Place/washington_d_c> <http://schema.org/name> "Washington D.C." .
+<http://experiment.worldcat.org/entity/work/data/42482625#Topic/animal_infections> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/42482625#Topic/animal_infections> <http://schema.org/name> "Animal infections"@en .
+<http://id.worldcat.org/fast/1019576> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://id.worldcat.org/fast/1019576> <http://schema.org/name> "Microbiology"@en .
+<http://worldcat.org/issn/0095-1137> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://worldcat.org/issn/0095-1137> <http://schema.org/name> "Journal of clinical microbiology."@en .
+<http://worldcat.org/issn/0095-1137> <http://schema.org/issn> "0095-1137" .
+<http://worldcat.org/issn/0095-1137> <http://umbel.org/umbel#isLike> <http://worldcat.org/entity/work/id/42482625> .

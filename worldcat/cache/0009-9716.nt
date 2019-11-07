@@ -1,0 +1,93 @@
+<http://id.loc.gov/authorities/subjects/sh85010848> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://id.loc.gov/authorities/subjects/sh85010848> <http://schema.org/name> "Bacterial diseases of plants"@en .
+<http://id.worldcat.org/fast/1063270> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://id.worldcat.org/fast/1063270> <http://schema.org/name> "Phytopathogenic fungi"@en .
+<http://viaf.org/viaf/139552983> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+<http://viaf.org/viaf/139552983> <http://schema.org/name> "Commonwealth Mycological Institute (Great Britain)" .
+<http://id.worldcat.org/fast/1063266> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://id.worldcat.org/fast/1063266> <http://schema.org/name> "Phytopathogenic bacteria"@en .
+<http://experiment.worldcat.org/entity/work/data/3372242208#Topic/bacteria> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/3372242208#Topic/bacteria> <http://schema.org/name> "Bacteria"@en .
+<http://viaf.org/viaf/125993908> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+<http://viaf.org/viaf/125993908> <http://schema.org/name> "C.A.B. International. Mycological Institute." .
+<http://www.worldcat.org/title/-/oclc/741332730#PublicationEvent/kew_surrey_england_commonwealth_mycological_institute_1964_1990> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PublicationEvent> .
+<http://www.worldcat.org/title/-/oclc/741332730#PublicationEvent/kew_surrey_england_commonwealth_mycological_institute_1964_1990> <http://schema.org/location> <http://experiment.worldcat.org/entity/work/data/3372242208#Place/kew_surrey_england> .
+<http://www.worldcat.org/title/-/oclc/741332730#PublicationEvent/kew_surrey_england_commonwealth_mycological_institute_1964_1990> <http://schema.org/organizer> <http://experiment.worldcat.org/entity/work/data/3372242208#Agent/commonwealth_mycological_institute> .
+<http://www.worldcat.org/title/-/oclc/741332730#PublicationEvent/kew_surrey_england_commonwealth_mycological_institute_1964_1990> <http://schema.org/startDate> "1964-©1990" .
+<http://id.loc.gov/authorities/subjects/sh85010831> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://id.loc.gov/authorities/subjects/sh85010831> <http://schema.org/name> "Pathogenic bacteria"@en .
+<http://id.loc.gov/vocabulary/countries/enk> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://id.loc.gov/vocabulary/countries/enk> <http://purl.org/dc/terms/identifier> "enk" .
+<http://experiment.worldcat.org/entity/work/data/3372242208#Topic/fungi> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/3372242208#Topic/fungi> <http://schema.org/name> "Fungi"@en .
+<http://id.worldcat.org/fast/825215> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://id.worldcat.org/fast/825215> <http://schema.org/name> "Bacterial diseases of plants"@en .
+<http://id.worldcat.org/fast/1054932> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://id.worldcat.org/fast/1054932> <http://schema.org/name> "Pathogenic fungi"@en .
+<http://0-www.cabi.org.pugwash.lib.warwick.ac.uk/dfb/> <http://www.w3.org/2000/01/rdf-schema#comment> "Full text available from Descriptions of Fungi and Bacteria: 1964 to 1990" .
+<http://id.worldcat.org/fast/936273> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://id.worldcat.org/fast/936273> <http://schema.org/name> "Fungal diseases of plants"@en .
+<http://id.loc.gov/authorities/subjects/sh85052429> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://id.loc.gov/authorities/subjects/sh85052429> <http://schema.org/name> "Fungal diseases of plants"@en .
+<http://id.worldcat.org/fast/1054930> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://id.worldcat.org/fast/1054930> <http://schema.org/name> "Pathogenic bacteria"@en .
+<http://www.worldcat.org/oclc/1564463> <http://schema.org/isSimilarTo> <http://www.worldcat.org/oclc/741332730> .
+<http://www.worldcat.org/oclc/1564463> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://www.worldcat.org/oclc/1564463> <http://www.w3.org/2000/01/rdf-schema#label> "C.M.I. descriptions of pathogenic fungi and bacteria" .
+<http://www.worldcat.org/oclc/1564463> <http://schema.org/description> "Print version:" .
+<http://www.worldcat.org/title/-/oclc/741332730> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#ContentTypeGenericResource> .
+<http://www.worldcat.org/title/-/oclc/741332730> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#InformationResource> .
+<http://www.worldcat.org/title/-/oclc/741332730> <http://schema.org/about> <http://www.worldcat.org/oclc/741332730> .
+<http://www.worldcat.org/title/-/oclc/741332730> <http://schema.org/dateModified> "2019-10-05" .
+<http://www.worldcat.org/title/-/oclc/741332730> <http://rdfs.org/ns/void#inDataset> <http://purl.oclc.org/dataset/WorldCat> .
+<http://experiment.worldcat.org/entity/work/data/3372242208#Place/kew_surrey_england> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://experiment.worldcat.org/entity/work/data/3372242208#Place/kew_surrey_england> <http://schema.org/name> "Kew, Surrey, England" .
+<http://id.loc.gov/authorities/subjects/sh85052465> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://id.loc.gov/authorities/subjects/sh85052465> <http://schema.org/name> "Phytopathogenic fungi"@en .
+<http://experiment.worldcat.org/entity/work/data/3372242208#Agent/commonwealth_mycological_institute> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bibliograph.net/Agent> .
+<http://experiment.worldcat.org/entity/work/data/3372242208#Agent/commonwealth_mycological_institute> <http://schema.org/name> "Commonwealth Mycological Institute" .
+<http://www.worldcat.org/oclc/741332730> <http://schema.org/inLanguage> "en" .
+<http://www.worldcat.org/oclc/741332730> <http://schema.org/exampleOfWork> <http://worldcat.org/entity/work/id/3372242208> .
+<http://www.worldcat.org/oclc/741332730> <http://schema.org/alternateName> "CMI descriptions of pathogenic fungi and bacteria" .
+<http://www.worldcat.org/oclc/741332730> <http://schema.org/datePublished> "1964/1990" .
+<http://www.worldcat.org/oclc/741332730> <http://schema.org/about> <http://id.worldcat.org/fast/825215> .
+<http://www.worldcat.org/oclc/741332730> <http://schema.org/productID> "741332730" .
+<http://www.worldcat.org/oclc/741332730> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/MediaObject> .
+<http://www.worldcat.org/oclc/741332730> <http://schema.org/about> <http://id.loc.gov/authorities/subjects/sh85052465> .
+<http://www.worldcat.org/oclc/741332730> <http://schema.org/contributor> <http://viaf.org/viaf/139552983> .
+<http://www.worldcat.org/oclc/741332730> <http://schema.org/about> <http://id.loc.gov/authorities/subjects/sh85052429> .
+<http://www.worldcat.org/oclc/741332730> <http://schema.org/genre> "Periodicals"@en .
+<http://www.worldcat.org/oclc/741332730> <http://schema.org/about> <http://dewey.info/class/589.2/e20/> .
+<http://www.worldcat.org/oclc/741332730> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/3372242208#Topic/fungi> .
+<http://www.worldcat.org/oclc/741332730> <http://schema.org/contributor> <http://viaf.org/viaf/125993908> .
+<http://www.worldcat.org/oclc/741332730> <http://schema.org/alternateName> "Descriptions of pathogenic fungi and bacteria" .
+<http://www.worldcat.org/oclc/741332730> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://www.worldcat.org/oclc/741332730> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://www.worldcat.org/oclc/741332730> <http://schema.org/name> "C.M.I. descriptions of pathogenic fungi and bacteria."@en .
+<http://www.worldcat.org/oclc/741332730> <http://schema.org/about> <http://id.loc.gov/authorities/subjects/sh85010831> .
+<http://www.worldcat.org/oclc/741332730> <http://schema.org/publication> <http://www.worldcat.org/title/-/oclc/741332730#PublicationEvent/kew_surrey_england_commonwealth_mycological_institute_1964_1990> .
+<http://www.worldcat.org/oclc/741332730> <http://schema.org/url> <http://catalog.hathitrust.org/api/volumes/oclc/1564463.html> .
+<http://www.worldcat.org/oclc/741332730> <http://schema.org/publisher> <http://experiment.worldcat.org/entity/work/data/3372242208#Agent/commonwealth_mycological_institute> .
+<http://www.worldcat.org/oclc/741332730> <http://schema.org/isSimilarTo> <http://www.worldcat.org/oclc/1564463> .
+<http://www.worldcat.org/oclc/741332730> <http://purl.org/library/placeOfPublication> <http://experiment.worldcat.org/entity/work/data/3372242208#Place/kew_surrey_england> .
+<http://www.worldcat.org/oclc/741332730> <http://schema.org/genre> "Periodical"@en .
+<http://www.worldcat.org/oclc/741332730> <http://schema.org/about> <http://id.loc.gov/authorities/subjects/sh85052464> .
+<http://www.worldcat.org/oclc/741332730> <http://purl.org/library/placeOfPublication> <http://id.loc.gov/vocabulary/countries/enk> .
+<http://www.worldcat.org/oclc/741332730> <http://schema.org/about> <http://id.loc.gov/authorities/subjects/sh85010848> .
+<http://www.worldcat.org/oclc/741332730> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/3372242208#Topic/bacteria> .
+<http://www.worldcat.org/oclc/741332730> <http://schema.org/about> <http://id.worldcat.org/fast/1054930> .
+<http://www.worldcat.org/oclc/741332730> <http://www.w3.org/2007/05/powder-s#describedby> <http://www.worldcat.org/title/-/oclc/741332730> .
+<http://www.worldcat.org/oclc/741332730> <http://schema.org/about> <http://id.worldcat.org/fast/936273> .
+<http://www.worldcat.org/oclc/741332730> <http://schema.org/about> <http://id.loc.gov/authorities/subjects/sh85010833> .
+<http://www.worldcat.org/oclc/741332730> <http://purl.org/library/oclcnum> "741332730" .
+<http://www.worldcat.org/oclc/741332730> <http://schema.org/about> <http://id.worldcat.org/fast/1063266> .
+<http://www.worldcat.org/oclc/741332730> <http://schema.org/about> <http://id.worldcat.org/fast/1063270> .
+<http://www.worldcat.org/oclc/741332730> <http://schema.org/genre> "Electronic journals"@en .
+<http://www.worldcat.org/oclc/741332730> <http://schema.org/datePublished> "1964/©1990" .
+<http://www.worldcat.org/oclc/741332730> <http://schema.org/url> <http://0-www.cabi.org.pugwash.lib.warwick.ac.uk/dfb/> .
+<http://www.worldcat.org/oclc/741332730> <http://schema.org/about> <http://id.worldcat.org/fast/1054932> .
+<http://dewey.info/class/589.2/e20/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://id.loc.gov/authorities/subjects/sh85010833> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://id.loc.gov/authorities/subjects/sh85010833> <http://schema.org/name> "Phytopathogenic bacteria"@en .
+<http://id.loc.gov/authorities/subjects/sh85052464> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://id.loc.gov/authorities/subjects/sh85052464> <http://schema.org/name> "Pathogenic fungi"@en .

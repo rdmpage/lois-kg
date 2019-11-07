@@ -1,0 +1,30 @@
+<http://experiment.worldcat.org/entity/work/data/9609419111#Agent/f_fedde> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bibliograph.net/Agent> .
+<http://experiment.worldcat.org/entity/work/data/9609419111#Agent/f_fedde> <http://schema.org/name> "F. Fedde." .
+<http://experiment.worldcat.org/entity/work/data/9609419111#Place/dahlem_bei_berlin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://experiment.worldcat.org/entity/work/data/9609419111#Place/dahlem_bei_berlin> <http://schema.org/name> "Dahlem bei Berlin" .
+<http://worldcat.org/entity/work/id/9609419111> <http://umbel.org/umbel#isLike> <http://worldcat.org/issn/0233-187X> .
+<http://www.worldcat.org/title/-/oclc/1125670243#PublicationEvent/dahlem_bei_berlinf_fedde> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PublicationEvent> .
+<http://www.worldcat.org/title/-/oclc/1125670243#PublicationEvent/dahlem_bei_berlinf_fedde> <http://schema.org/location> <http://experiment.worldcat.org/entity/work/data/9609419111#Place/dahlem_bei_berlin> .
+<http://www.worldcat.org/title/-/oclc/1125670243#PublicationEvent/dahlem_bei_berlinf_fedde> <http://schema.org/organizer> <http://experiment.worldcat.org/entity/work/data/9609419111#Agent/f_fedde> .
+<http://worldcat.org/issn/0233-187X> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://worldcat.org/issn/0233-187X> <http://schema.org/name> "Repertorium specierum novarum regni vegetabilis. Beihefte."@en .
+<http://worldcat.org/issn/0233-187X> <http://schema.org/issn> "0233-187X" .
+<http://worldcat.org/issn/0233-187X> <http://umbel.org/umbel#isLike> <http://worldcat.org/entity/work/id/9609419111> .
+<http://www.worldcat.org/oclc/1125670243> <http://schema.org/publisher> <http://experiment.worldcat.org/entity/work/data/9609419111#Agent/f_fedde> .
+<http://www.worldcat.org/oclc/1125670243> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://www.worldcat.org/oclc/1125670243> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://www.worldcat.org/oclc/1125670243> <http://schema.org/inLanguage> "en" .
+<http://www.worldcat.org/oclc/1125670243> <http://schema.org/productID> "1125670243" .
+<http://www.worldcat.org/oclc/1125670243> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/MediaObject> .
+<http://www.worldcat.org/oclc/1125670243> <http://purl.org/library/oclcnum> "1125670243" .
+<http://www.worldcat.org/oclc/1125670243> <http://purl.org/library/placeOfPublication> <http://experiment.worldcat.org/entity/work/data/9609419111#Place/dahlem_bei_berlin> .
+<http://www.worldcat.org/oclc/1125670243> <http://schema.org/workExample> <http://worldcat.org/issn/0233-187X> .
+<http://www.worldcat.org/oclc/1125670243> <http://www.w3.org/2007/05/powder-s#describedby> <http://www.worldcat.org/title/-/oclc/1125670243> .
+<http://www.worldcat.org/oclc/1125670243> <http://schema.org/name> "Repertorium specierum novarum regni vegetabilis. Beihefte."@en .
+<http://www.worldcat.org/oclc/1125670243> <http://schema.org/publication> <http://www.worldcat.org/title/-/oclc/1125670243#PublicationEvent/dahlem_bei_berlinf_fedde> .
+<http://www.worldcat.org/oclc/1125670243> <http://schema.org/exampleOfWork> <http://worldcat.org/entity/work/id/9609419111> .
+<http://www.worldcat.org/title/-/oclc/1125670243> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#ContentTypeGenericResource> .
+<http://www.worldcat.org/title/-/oclc/1125670243> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#InformationResource> .
+<http://www.worldcat.org/title/-/oclc/1125670243> <http://schema.org/about> <http://www.worldcat.org/oclc/1125670243> .
+<http://www.worldcat.org/title/-/oclc/1125670243> <http://schema.org/dateModified> "2019-10-31" .
+<http://www.worldcat.org/title/-/oclc/1125670243> <http://rdfs.org/ns/void#inDataset> <http://purl.oclc.org/dataset/WorldCat> .

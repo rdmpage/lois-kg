@@ -1,0 +1,44 @@
+<http://experiment.worldcat.org/entity/work/data/54077427#Agent/harvard_university> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bibliograph.net/Agent> .
+<http://experiment.worldcat.org/entity/work/data/54077427#Agent/harvard_university> <http://schema.org/name> "Harvard University" .
+<http://worldcat.org/entity/work/id/54077427> <http://umbel.org/umbel#isLike> <http://worldcat.org/issn/0006-8098> .
+<http://www.worldcat.org/title/-/oclc/898832521> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#ContentTypeGenericResource> .
+<http://www.worldcat.org/title/-/oclc/898832521> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#InformationResource> .
+<http://www.worldcat.org/title/-/oclc/898832521> <http://schema.org/about> <http://www.worldcat.org/oclc/898832521> .
+<http://www.worldcat.org/title/-/oclc/898832521> <http://schema.org/dateModified> "2018-11-09" .
+<http://www.worldcat.org/title/-/oclc/898832521> <http://rdfs.org/ns/void#inDataset> <http://purl.oclc.org/dataset/WorldCat> .
+<http://worldcat.org/issn/0006-8098> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://worldcat.org/issn/0006-8098> <http://schema.org/name> "Botanical Museum leaflets" .
+<http://worldcat.org/issn/0006-8098> <http://schema.org/issn> "0006-8098" .
+<http://worldcat.org/issn/0006-8098> <http://umbel.org/umbel#isLike> <http://worldcat.org/entity/work/id/54077427> .
+<http://experiment.worldcat.org/entity/work/data/54077427#Place/cambridge_mass> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://experiment.worldcat.org/entity/work/data/54077427#Place/cambridge_mass> <http://schema.org/name> "Cambridge,Mass" .
+<http://dewey.info/class/580.6/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/54077427#Organization/harvard_university_cambridge_botanical_museum_us> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+<http://experiment.worldcat.org/entity/work/data/54077427#Organization/harvard_university_cambridge_botanical_museum_us> <http://schema.org/name> "Harvard University, Cambridge. Botanical Museum (US)" .
+<http://experiment.worldcat.org/entity/work/data/54077427#Topic/botany> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/54077427#Topic/botany> <http://schema.org/name> "Botany" .
+<http://id.loc.gov/vocabulary/countries/mau> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://id.loc.gov/vocabulary/countries/mau> <http://purl.org/dc/terms/identifier> "mau" .
+<http://www.worldcat.org/title/-/oclc/898832521#PublicationEvent/cambridge_mass_harvard_university_1932_1986> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PublicationEvent> .
+<http://www.worldcat.org/title/-/oclc/898832521#PublicationEvent/cambridge_mass_harvard_university_1932_1986> <http://schema.org/location> <http://experiment.worldcat.org/entity/work/data/54077427#Place/cambridge_mass> .
+<http://www.worldcat.org/title/-/oclc/898832521#PublicationEvent/cambridge_mass_harvard_university_1932_1986> <http://schema.org/organizer> <http://experiment.worldcat.org/entity/work/data/54077427#Agent/harvard_university> .
+<http://www.worldcat.org/title/-/oclc/898832521#PublicationEvent/cambridge_mass_harvard_university_1932_1986> <http://schema.org/startDate> "1932-1986" .
+<http://www.worldcat.org/oclc/898832521> <http://schema.org/about> <http://dewey.info/class/580.6/> .
+<http://www.worldcat.org/oclc/898832521> <http://schema.org/productID> "898832521" .
+<http://www.worldcat.org/oclc/898832521> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://www.worldcat.org/oclc/898832521> <http://schema.org/datePublished> "1932/1986" .
+<http://www.worldcat.org/oclc/898832521> <http://purl.org/library/placeOfPublication> <http://experiment.worldcat.org/entity/work/data/54077427#Place/cambridge_mass> .
+<http://www.worldcat.org/oclc/898832521> <http://schema.org/contributor> <http://experiment.worldcat.org/entity/work/data/54077427#Organization/harvard_university_cambridge_botanical_museum_us> .
+<http://www.worldcat.org/oclc/898832521> <http://schema.org/publication> <http://www.worldcat.org/title/-/oclc/898832521#PublicationEvent/cambridge_mass_harvard_university_1932_1986> .
+<http://www.worldcat.org/oclc/898832521> <http://schema.org/inLanguage> "en" .
+<http://www.worldcat.org/oclc/898832521> <http://schema.org/url> <http://www.jstor.org/action/showPublication?journalCode=botmusleaharuni> .
+<http://www.worldcat.org/oclc/898832521> <http://schema.org/publisher> <http://experiment.worldcat.org/entity/work/data/54077427#Agent/harvard_university> .
+<http://www.worldcat.org/oclc/898832521> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/54077427#Topic/botany> .
+<http://www.worldcat.org/oclc/898832521> <http://schema.org/exampleOfWork> <http://worldcat.org/entity/work/id/54077427> .
+<http://www.worldcat.org/oclc/898832521> <http://schema.org/genre> "Periodicals" .
+<http://www.worldcat.org/oclc/898832521> <http://purl.org/library/oclcnum> "898832521" .
+<http://www.worldcat.org/oclc/898832521> <http://schema.org/workExample> <http://worldcat.org/issn/0006-8098> .
+<http://www.worldcat.org/oclc/898832521> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://www.worldcat.org/oclc/898832521> <http://www.w3.org/2007/05/powder-s#describedby> <http://www.worldcat.org/title/-/oclc/898832521> .
+<http://www.worldcat.org/oclc/898832521> <http://purl.org/library/placeOfPublication> <http://id.loc.gov/vocabulary/countries/mau> .
+<http://www.worldcat.org/oclc/898832521> <http://schema.org/name> "Botanical Museum leaflets" .

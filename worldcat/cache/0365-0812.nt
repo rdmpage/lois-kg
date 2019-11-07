@@ -1,0 +1,45 @@
+<http://www.worldcat.org/title/-/oclc/637772165> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#ContentTypeGenericResource> .
+<http://www.worldcat.org/title/-/oclc/637772165> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#InformationResource> .
+<http://www.worldcat.org/title/-/oclc/637772165> <http://schema.org/about> <http://www.worldcat.org/oclc/637772165> .
+<http://www.worldcat.org/title/-/oclc/637772165> <http://schema.org/dateModified> "2018-11-08" .
+<http://www.worldcat.org/title/-/oclc/637772165> <http://rdfs.org/ns/void#inDataset> <http://purl.oclc.org/dataset/WorldCat> .
+<http://experiment.worldcat.org/entity/work/data/3374533887#Thing/botany> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> .
+<http://experiment.worldcat.org/entity/work/data/3374533887#Thing/botany> <http://schema.org/name> "BOTANY" .
+<http://experiment.worldcat.org/entity/work/data/3374533887#Thing/botanik> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> .
+<http://experiment.worldcat.org/entity/work/data/3374533887#Thing/botanik> <http://schema.org/name> "BOTANIK" .
+<http://www.worldcat.org/title/-/oclc/637772165#PublicationEvent/roma_universita_degli_studi_di_roma_la_sapienza> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PublicationEvent> .
+<http://www.worldcat.org/title/-/oclc/637772165#PublicationEvent/roma_universita_degli_studi_di_roma_la_sapienza> <http://schema.org/location> <http://experiment.worldcat.org/entity/work/data/3374533887#Place/roma> .
+<http://www.worldcat.org/title/-/oclc/637772165#PublicationEvent/roma_universita_degli_studi_di_roma_la_sapienza> <http://schema.org/organizer> <http://experiment.worldcat.org/entity/work/data/3374533887#Agent/universita_degli_studi_di_roma_la_sapienza> .
+<http://viaf.org/viaf/448145858174323022398> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+<http://viaf.org/viaf/448145858174323022398> <http://schema.org/name> "Università degli Studi di Roma \"La Sapienza\". Dipartimento di Biologia Vegetale." .
+<http://experiment.worldcat.org/entity/work/data/3374533887#Agent/universita_degli_studi_di_roma_la_sapienza> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bibliograph.net/Agent> .
+<http://experiment.worldcat.org/entity/work/data/3374533887#Agent/universita_degli_studi_di_roma_la_sapienza> <http://schema.org/name> "Università degli Studi di Roma \"La Sapienza\"" .
+<http://worldcat.org/entity/work/id/3374533887> <http://umbel.org/umbel#isLike> <http://worldcat.org/issn/0365-0812> .
+<http://id.loc.gov/vocabulary/countries/it> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://id.loc.gov/vocabulary/countries/it> <http://purl.org/dc/terms/identifier> "it" .
+<http://experiment.worldcat.org/entity/work/data/3374533887#Thing/botanique> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> .
+<http://experiment.worldcat.org/entity/work/data/3374533887#Thing/botanique> <http://schema.org/name> "BOTANIQUE" .
+<http://www.worldcat.org/oclc/637772165> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/3374533887#Thing/botanik> .
+<http://www.worldcat.org/oclc/637772165> <http://purl.org/library/placeOfPublication> <http://id.loc.gov/vocabulary/countries/it> .
+<http://www.worldcat.org/oclc/637772165> <http://purl.org/library/placeOfPublication> <http://experiment.worldcat.org/entity/work/data/3374533887#Place/roma> .
+<http://www.worldcat.org/oclc/637772165> <http://schema.org/publisher> <http://experiment.worldcat.org/entity/work/data/3374533887#Agent/universita_degli_studi_di_roma_la_sapienza> .
+<http://www.worldcat.org/oclc/637772165> <http://schema.org/name> "Annali di Botanica. Nuova Serie" .
+<http://www.worldcat.org/oclc/637772165> <http://purl.org/library/oclcnum> "637772165" .
+<http://www.worldcat.org/oclc/637772165> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://www.worldcat.org/oclc/637772165> <http://schema.org/inLanguage> "en" .
+<http://www.worldcat.org/oclc/637772165> <http://schema.org/publication> <http://www.worldcat.org/title/-/oclc/637772165#PublicationEvent/roma_universita_degli_studi_di_roma_la_sapienza> .
+<http://www.worldcat.org/oclc/637772165> <http://schema.org/exampleOfWork> <http://worldcat.org/entity/work/id/3374533887> .
+<http://www.worldcat.org/oclc/637772165> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/3374533887#Thing/botany> .
+<http://www.worldcat.org/oclc/637772165> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://www.worldcat.org/oclc/637772165> <http://www.w3.org/2007/05/powder-s#describedby> <http://www.worldcat.org/title/-/oclc/637772165> .
+<http://www.worldcat.org/oclc/637772165> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/3374533887#Thing/botanique> .
+<http://www.worldcat.org/oclc/637772165> <http://schema.org/datePublished> "2001/9999" .
+<http://www.worldcat.org/oclc/637772165> <http://schema.org/contributor> <http://viaf.org/viaf/448145858174323022398> .
+<http://www.worldcat.org/oclc/637772165> <http://schema.org/workExample> <http://worldcat.org/issn/0365-0812> .
+<http://www.worldcat.org/oclc/637772165> <http://schema.org/productID> "637772165" .
+<http://worldcat.org/issn/0365-0812> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://worldcat.org/issn/0365-0812> <http://schema.org/name> "Annali di Botanica. Nuova Serie" .
+<http://worldcat.org/issn/0365-0812> <http://schema.org/issn> "0365-0812" .
+<http://worldcat.org/issn/0365-0812> <http://umbel.org/umbel#isLike> <http://worldcat.org/entity/work/id/3374533887> .
+<http://experiment.worldcat.org/entity/work/data/3374533887#Place/roma> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://experiment.worldcat.org/entity/work/data/3374533887#Place/roma> <http://schema.org/name> "Roma" .

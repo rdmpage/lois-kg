@@ -1,0 +1,53 @@
+<http://experiment.worldcat.org/entity/work/data/2866147440#Organization/field_museum_of_natural_history> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+<http://experiment.worldcat.org/entity/work/data/2866147440#Organization/field_museum_of_natural_history> <http://schema.org/name> "Field Museum of Natural History." .
+<http://worldcat.org/entity/work/id/2866147440> <http://umbel.org/umbel#isLike> <http://worldcat.org/issn/0096-2759> .
+<http://www.worldcat.org/title/-/oclc/1012097034#PublicationEvent/chicago_field_museum_of_natural_history_1895_1947> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PublicationEvent> .
+<http://www.worldcat.org/title/-/oclc/1012097034#PublicationEvent/chicago_field_museum_of_natural_history_1895_1947> <http://schema.org/location> <http://dbpedia.org/resource/Chicago> .
+<http://www.worldcat.org/title/-/oclc/1012097034#PublicationEvent/chicago_field_museum_of_natural_history_1895_1947> <http://schema.org/organizer> <http://experiment.worldcat.org/entity/work/data/2866147440#Agent/field_museum_of_natural_history> .
+<http://www.worldcat.org/title/-/oclc/1012097034#PublicationEvent/chicago_field_museum_of_natural_history_1895_1947> <http://schema.org/startDate> "1895-1947" .
+<http://experiment.worldcat.org/entity/work/data/2866147440#Agent/field_museum_of_natural_history> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bibliograph.net/Agent> .
+<http://experiment.worldcat.org/entity/work/data/2866147440#Agent/field_museum_of_natural_history> <http://schema.org/name> "Field Museum of Natural History" .
+<http://experiment.worldcat.org/entity/work/data/2866147440#Series/publication_field_museum_of_natural_history> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bibliograph.net/PublicationSeries> .
+<http://experiment.worldcat.org/entity/work/data/2866147440#Series/publication_field_museum_of_natural_history> <http://schema.org/hasPart> <http://www.worldcat.org/oclc/1012097034> .
+<http://experiment.worldcat.org/entity/work/data/2866147440#Series/publication_field_museum_of_natural_history> <http://schema.org/name> "Publication - Field Museum of Natural History" .
+<http://experiment.worldcat.org/entity/work/data/2866147440#Series/publication_field_museum_of_natural_history> <http://schema.org/name> "Publication (Field Museum of Natural History)" .
+<http://worldcat.org/issn/0096-2759> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://worldcat.org/issn/0096-2759> <http://schema.org/name> "Botanical series."@en .
+<http://worldcat.org/issn/0096-2759> <http://schema.org/issn> "0096-2759" .
+<http://worldcat.org/issn/0096-2759> <http://umbel.org/umbel#isLike> <http://worldcat.org/entity/work/id/2866147440> .
+<http://experiment.worldcat.org/entity/work/data/2866147440#Topic/botany> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/2866147440#Topic/botany> <http://schema.org/name> "Botany"@en .
+<http://experiment.worldcat.org/entity/work/data/2866147440#Series/publication_field_columbian_museum> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bibliograph.net/PublicationSeries> .
+<http://experiment.worldcat.org/entity/work/data/2866147440#Series/publication_field_columbian_museum> <http://schema.org/hasPart> <http://www.worldcat.org/oclc/1012097034> .
+<http://experiment.worldcat.org/entity/work/data/2866147440#Series/publication_field_columbian_museum> <http://schema.org/name> "Publication - Field Columbian Museum" .
+<http://experiment.worldcat.org/entity/work/data/2866147440#Series/publication_field_columbian_museum> <http://schema.org/name> "Publication (Field Columbian Museum)" .
+<http://id.loc.gov/vocabulary/countries/ilu> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://id.loc.gov/vocabulary/countries/ilu> <http://purl.org/dc/terms/identifier> "ilu" .
+<http://www.worldcat.org/oclc/1012097034> <http://www.w3.org/2007/05/powder-s#describedby> <http://www.worldcat.org/title/-/oclc/1012097034> .
+<http://www.worldcat.org/oclc/1012097034> <http://schema.org/isPartOf> <http://experiment.worldcat.org/entity/work/data/2866147440#Series/publication_field_columbian_museum> .
+<http://www.worldcat.org/oclc/1012097034> <http://schema.org/publisher> <http://experiment.worldcat.org/entity/work/data/2866147440#Agent/field_museum_of_natural_history> .
+<http://www.worldcat.org/oclc/1012097034> <http://purl.org/library/placeOfPublication> <http://id.loc.gov/vocabulary/countries/ilu> .
+<http://www.worldcat.org/oclc/1012097034> <http://schema.org/genre> "Collected Work"@en .
+<http://www.worldcat.org/oclc/1012097034> <http://purl.org/library/oclcnum> "1012097034" .
+<http://www.worldcat.org/oclc/1012097034> <http://purl.org/library/placeOfPublication> <http://dbpedia.org/resource/Chicago> .
+<http://www.worldcat.org/oclc/1012097034> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://www.worldcat.org/oclc/1012097034> <http://schema.org/contributor> <http://experiment.worldcat.org/entity/work/data/2866147440#Organization/field_museum_of_natural_history> .
+<http://www.worldcat.org/oclc/1012097034> <http://schema.org/exampleOfWork> <http://worldcat.org/entity/work/id/2866147440> .
+<http://www.worldcat.org/oclc/1012097034> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bibliograph.net/PublicationSeries> .
+<http://www.worldcat.org/oclc/1012097034> <http://schema.org/productID> "1012097034" .
+<http://www.worldcat.org/oclc/1012097034> <http://schema.org/name> "Botanical series."@en .
+<http://www.worldcat.org/oclc/1012097034> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/2866147440#Topic/botany> .
+<http://www.worldcat.org/oclc/1012097034> <http://schema.org/isPartOf> <http://experiment.worldcat.org/entity/work/data/2866147440#Series/publication_field_museum_of_natural_history> .
+<http://www.worldcat.org/oclc/1012097034> <http://schema.org/inLanguage> "en" .
+<http://www.worldcat.org/oclc/1012097034> <http://schema.org/datePublished> "1895/1947" .
+<http://www.worldcat.org/oclc/1012097034> <http://schema.org/publication> <http://www.worldcat.org/title/-/oclc/1012097034#PublicationEvent/chicago_field_museum_of_natural_history_1895_1947> .
+<http://www.worldcat.org/oclc/1012097034> <http://schema.org/genre> "Periodical"@en .
+<http://www.worldcat.org/oclc/1012097034> <http://schema.org/workExample> <http://worldcat.org/issn/0096-2759> .
+<http://www.worldcat.org/oclc/1012097034> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://dbpedia.org/resource/Chicago> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://dbpedia.org/resource/Chicago> <http://schema.org/name> "Chicago" .
+<http://www.worldcat.org/title/-/oclc/1012097034> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#ContentTypeGenericResource> .
+<http://www.worldcat.org/title/-/oclc/1012097034> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#InformationResource> .
+<http://www.worldcat.org/title/-/oclc/1012097034> <http://schema.org/about> <http://www.worldcat.org/oclc/1012097034> .
+<http://www.worldcat.org/title/-/oclc/1012097034> <http://schema.org/dateModified> "2019-02-20" .
+<http://www.worldcat.org/title/-/oclc/1012097034> <http://rdfs.org/ns/void#inDataset> <http://purl.oclc.org/dataset/WorldCat> .

@@ -1,0 +1,50 @@
+<http://www.worldcat.org/title/-/oclc/928270803> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#ContentTypeGenericResource> .
+<http://www.worldcat.org/title/-/oclc/928270803> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#InformationResource> .
+<http://www.worldcat.org/title/-/oclc/928270803> <http://schema.org/about> <http://www.worldcat.org/oclc/928270803> .
+<http://www.worldcat.org/title/-/oclc/928270803> <http://schema.org/dateModified> "2019-02-09" .
+<http://www.worldcat.org/title/-/oclc/928270803> <http://rdfs.org/ns/void#inDataset> <http://purl.oclc.org/dataset/WorldCat> .
+<http://experiment.worldcat.org/entity/work/data/55058408#Place/munchen> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://experiment.worldcat.org/entity/work/data/55058408#Place/munchen> <http://schema.org/name> "München" .
+<http://worldcat.org/issn/0932-4739> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://worldcat.org/issn/0932-4739> <http://schema.org/name> "European journal of protistology" .
+<http://worldcat.org/issn/0932-4739> <http://schema.org/issn> "0932-4739" .
+<http://worldcat.org/issn/0932-4739> <http://umbel.org/umbel#isLike> <http://worldcat.org/entity/work/id/55058408> .
+<http://experiment.worldcat.org/entity/work/data/55058408#CreativeWork/sciencedirect_servicio_en_linea> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://experiment.worldcat.org/entity/work/data/55058408#CreativeWork/sciencedirect_servicio_en_linea> <http://schema.org/name> "ScienceDirect (Servicio en línea)" .
+<http://www.worldcat.org/oclc/928270803> <http://www.w3.org/2007/05/powder-s#describedby> <http://www.worldcat.org/title/-/oclc/928270803> .
+<http://www.worldcat.org/oclc/928270803> <http://schema.org/publication> <http://www.worldcat.org/title/-/oclc/928270803#PublicationEvent/munchen_ed_urban_&_fischer> .
+<http://www.worldcat.org/oclc/928270803> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/MediaObject> .
+<http://www.worldcat.org/oclc/928270803> <http://purl.org/library/oclcnum> "928270803" .
+<http://www.worldcat.org/oclc/928270803> <http://schema.org/isSimilarTo> <http://worldcat.org/entity/work/data/55058408#CreativeWork/european_journal_of_protistology> .
+<http://www.worldcat.org/oclc/928270803> <http://purl.org/library/placeOfPublication> <http://experiment.worldcat.org/entity/work/data/55058408#Place/munchen> .
+<http://www.worldcat.org/oclc/928270803> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://experiment.worldcat.org/entity/work/data/55058408#CreativeWork/sciencedirect_servicio_en_linea> .
+<http://www.worldcat.org/oclc/928270803> <http://schema.org/productID> "928270803" .
+<http://www.worldcat.org/oclc/928270803> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://www.worldcat.org/oclc/928270803> <http://schema.org/workExample> <http://worldcat.org/issn/0932-4739> .
+<http://www.worldcat.org/oclc/928270803> <http://schema.org/url> <http://0-search.proquest.com.fama.us.es/publication/26472> .
+<http://www.worldcat.org/oclc/928270803> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://experiment.worldcat.org/entity/work/data/55058408#CreativeWork/proquest_medical_library_servicio_en_linea> .
+<http://www.worldcat.org/oclc/928270803> <http://purl.org/library/placeOfPublication> <http://id.loc.gov/vocabulary/countries/gw> .
+<http://www.worldcat.org/oclc/928270803> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://www.worldcat.org/oclc/928270803> <http://schema.org/datePublished> "2001/9999" .
+<http://www.worldcat.org/oclc/928270803> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/55058408#Topic/protozoos_publicaciones_periodicas> .
+<http://www.worldcat.org/oclc/928270803> <http://schema.org/exampleOfWork> <http://worldcat.org/entity/work/id/55058408> .
+<http://www.worldcat.org/oclc/928270803> <http://schema.org/publisher> <http://experiment.worldcat.org/entity/work/data/55058408#Agent/ed_urban_&_fischer> .
+<http://www.worldcat.org/oclc/928270803> <http://schema.org/name> "European journal of protistology" .
+<http://www.worldcat.org/oclc/928270803> <http://schema.org/inLanguage> "en" .
+<http://experiment.worldcat.org/entity/work/data/55058408#CreativeWork/proquest_medical_library_servicio_en_linea> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://experiment.worldcat.org/entity/work/data/55058408#CreativeWork/proquest_medical_library_servicio_en_linea> <http://schema.org/name> "ProQuest Medical Library (Servicio en línea)" .
+<http://worldcat.org/entity/work/id/55058408> <http://umbel.org/umbel#isLike> <http://worldcat.org/issn/0932-4739> .
+<http://0-search.proquest.com.fama.us.es/publication/26472> <http://www.w3.org/2000/01/rdf-schema#comment> "Acceso a través de ProQuest (Medical Library). Restringido a miembros USE" .
+<http://worldcat.org/entity/work/data/55058408#CreativeWork/european_journal_of_protistology> <http://schema.org/isSimilarTo> <http://www.worldcat.org/oclc/928270803> .
+<http://worldcat.org/entity/work/data/55058408#CreativeWork/european_journal_of_protistology> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://worldcat.org/entity/work/data/55058408#CreativeWork/european_journal_of_protistology> <http://www.w3.org/2000/01/rdf-schema#label> "European journal of protistology" .
+<http://worldcat.org/entity/work/data/55058408#CreativeWork/european_journal_of_protistology> <http://schema.org/description> "Versión impresa :" .
+<http://www.worldcat.org/title/-/oclc/928270803#PublicationEvent/munchen_ed_urban_&_fischer> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PublicationEvent> .
+<http://www.worldcat.org/title/-/oclc/928270803#PublicationEvent/munchen_ed_urban_&_fischer> <http://schema.org/location> <http://experiment.worldcat.org/entity/work/data/55058408#Place/munchen> .
+<http://www.worldcat.org/title/-/oclc/928270803#PublicationEvent/munchen_ed_urban_&_fischer> <http://schema.org/organizer> <http://experiment.worldcat.org/entity/work/data/55058408#Agent/ed_urban_&_fischer> .
+<http://id.loc.gov/vocabulary/countries/gw> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://id.loc.gov/vocabulary/countries/gw> <http://purl.org/dc/terms/identifier> "gw" .
+<http://experiment.worldcat.org/entity/work/data/55058408#Agent/ed_urban_&_fischer> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bibliograph.net/Agent> .
+<http://experiment.worldcat.org/entity/work/data/55058408#Agent/ed_urban_&_fischer> <http://schema.org/name> "Ed. Urban & Fischer." .
+<http://experiment.worldcat.org/entity/work/data/55058408#Topic/protozoos_publicaciones_periodicas> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/55058408#Topic/protozoos_publicaciones_periodicas> <http://schema.org/name> "Protozoos--Publicaciones periódicas" .

@@ -1,0 +1,61 @@
+<http://www.ingentaconnect.com/content/adis/abi> <http://www.w3.org/2000/01/rdf-schema#comment> "Link no longer valid as of June 27, 2016" .
+<http://id.loc.gov/vocabulary/countries/nz> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://id.loc.gov/vocabulary/countries/nz> <http://purl.org/dc/terms/identifier> "nz" .
+<http://pt.wkhealth.com/pt/re/abi/home.htm> <http://www.w3.org/2000/01/rdf-schema#comment> "Link no longer valid as of June 27, 2016" .
+<http://www.worldcat.org/title/-/oclc/61283808> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#ContentTypeGenericResource> .
+<http://www.worldcat.org/title/-/oclc/61283808> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#InformationResource> .
+<http://www.worldcat.org/title/-/oclc/61283808> <http://schema.org/about> <http://www.worldcat.org/oclc/61283808> .
+<http://www.worldcat.org/title/-/oclc/61283808> <http://schema.org/dateModified> "2019-03-02" .
+<http://www.worldcat.org/title/-/oclc/61283808> <http://rdfs.org/ns/void#inDataset> <http://purl.oclc.org/dataset/WorldCat> .
+<http://id.worldcat.org/fast/832181> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://id.worldcat.org/fast/832181> <http://schema.org/name> "Bioinformatics"@en .
+<http://experiment.worldcat.org/entity/work/data/8370690#Place/auckland_n_z> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://experiment.worldcat.org/entity/work/data/8370690#Place/auckland_n_z> <http://schema.org/name> "Auckland, N.Z." .
+<http://experiment.worldcat.org/entity/work/data/8370690#Agent/adis_international> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bibliograph.net/Agent> .
+<http://experiment.worldcat.org/entity/work/data/8370690#Agent/adis_international> <http://schema.org/name> "Adis International" .
+<http://www.worldcat.org/title/-/oclc/61283808#PublicationEvent/auckland_n_z_adis_international> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PublicationEvent> .
+<http://www.worldcat.org/title/-/oclc/61283808#PublicationEvent/auckland_n_z_adis_international> <http://schema.org/location> <http://experiment.worldcat.org/entity/work/data/8370690#Place/auckland_n_z> .
+<http://www.worldcat.org/title/-/oclc/61283808#PublicationEvent/auckland_n_z_adis_international> <http://schema.org/organizer> <http://experiment.worldcat.org/entity/work/data/8370690#Agent/adis_international> .
+<http://worldcat.org/issn/2230-603X> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://worldcat.org/issn/2230-603X> <http://schema.org/name> "Applied bioinformatics."@en .
+<http://worldcat.org/issn/2230-603X> <http://schema.org/issn> "2230-603X" .
+<http://worldcat.org/issn/2230-603X> <http://umbel.org/umbel#isLike> <http://worldcat.org/entity/work/id/8370690> .
+<http://worldcat.org/entity/work/id/8370690> <http://umbel.org/umbel#isLike> <http://worldcat.org/issn/2230-603X> .
+<http://id.loc.gov/authorities/subjects/sh00003585> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://id.loc.gov/authorities/subjects/sh00003585> <http://schema.org/name> "Bioinformatics"@en .
+<http://experiment.worldcat.org/entity/work/data/8370690#Topic/computational_biology> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/8370690#Topic/computational_biology> <http://schema.org/name> "Computational Biology"@en .
+<http://firstsearch.oclc.org/journal=1175-5636;screen=info;ECOIP> <http://www.w3.org/2000/01/rdf-schema#comment> "Address for accessing the journal from an authorized IP address through OCLC FirstSearch Electronic Collections Online" .
+<http://dewey.info/class/570.285/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://www.worldcat.org/oclc/61283808> <http://schema.org/url> <http://firstsearch.oclc.org/journal=1175-5636;screen=info;ECOIP> .
+<http://www.worldcat.org/oclc/61283808> <http://schema.org/publication> <http://www.worldcat.org/title/-/oclc/61283808#PublicationEvent/auckland_n_z_adis_international> .
+<http://www.worldcat.org/oclc/61283808> <http://schema.org/name> "Applied bioinformatics."@en .
+<http://www.worldcat.org/oclc/61283808> <http://schema.org/about> <http://dewey.info/class/570.285/> .
+<http://www.worldcat.org/oclc/61283808> <http://www.w3.org/2007/05/powder-s#describedby> <http://www.worldcat.org/title/-/oclc/61283808> .
+<http://www.worldcat.org/oclc/61283808> <http://purl.org/library/oclcnum> "61283808" .
+<http://www.worldcat.org/oclc/61283808> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://www.worldcat.org/oclc/61283808> <http://schema.org/genre> "Electronic journals"@en .
+<http://www.worldcat.org/oclc/61283808> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/8370690#Topic/computational_biology> .
+<http://www.worldcat.org/oclc/61283808> <http://schema.org/isSimilarTo> <http://www.worldcat.org/oclc/51337125> .
+<http://www.worldcat.org/oclc/61283808> <http://schema.org/url> <http://firstsearch.oclc.org> .
+<http://www.worldcat.org/oclc/61283808> <http://schema.org/about> <http://id.worldcat.org/fast/832181> .
+<http://www.worldcat.org/oclc/61283808> <http://schema.org/genre> "Periodicals"@en .
+<http://www.worldcat.org/oclc/61283808> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://www.worldcat.org/oclc/61283808> <http://purl.org/library/placeOfPublication> <http://experiment.worldcat.org/entity/work/data/8370690#Place/auckland_n_z> .
+<http://www.worldcat.org/oclc/61283808> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/MediaObject> .
+<http://www.worldcat.org/oclc/61283808> <http://schema.org/publisher> <http://experiment.worldcat.org/entity/work/data/8370690#Agent/adis_international> .
+<http://www.worldcat.org/oclc/61283808> <http://purl.org/library/placeOfPublication> <http://id.loc.gov/vocabulary/countries/nz> .
+<http://www.worldcat.org/oclc/61283808> <http://schema.org/workExample> <http://worldcat.org/issn/2230-603X> .
+<http://www.worldcat.org/oclc/61283808> <http://schema.org/productID> "61283808" .
+<http://www.worldcat.org/oclc/61283808> <http://schema.org/inLanguage> "en" .
+<http://www.worldcat.org/oclc/61283808> <http://schema.org/about> <http://id.loc.gov/authorities/subjects/sh00003585> .
+<http://www.worldcat.org/oclc/61283808> <http://schema.org/url> <http://link.springer.com/journal/40282> .
+<http://www.worldcat.org/oclc/61283808> <http://schema.org/url> <http://pt.wkhealth.com/pt/re/abi/home.htm> .
+<http://www.worldcat.org/oclc/61283808> <http://schema.org/datePublished> "2002/2006" .
+<http://www.worldcat.org/oclc/61283808> <http://schema.org/alternateName> "Appl bioinformatics" .
+<http://www.worldcat.org/oclc/61283808> <http://schema.org/exampleOfWork> <http://worldcat.org/entity/work/id/8370690> .
+<http://www.worldcat.org/oclc/61283808> <http://schema.org/url> <http://www.ingentaconnect.com/content/adis/abi> .
+<http://firstsearch.oclc.org> <http://www.w3.org/2000/01/rdf-schema#comment> "Address for accessing the journal using authorization number and password through OCLC FirstSearch Electronic Collections Online" .
+<http://www.worldcat.org/oclc/51337125> <http://schema.org/isSimilarTo> <http://www.worldcat.org/oclc/61283808> .
+<http://www.worldcat.org/oclc/51337125> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://www.worldcat.org/oclc/51337125> <http://www.w3.org/2000/01/rdf-schema#label> "Applied bioinformatics" .

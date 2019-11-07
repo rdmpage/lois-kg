@@ -1,0 +1,51 @@
+<http://www.worldcat.org/title/-/oclc/779847965> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#ContentTypeGenericResource> .
+<http://www.worldcat.org/title/-/oclc/779847965> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#InformationResource> .
+<http://www.worldcat.org/title/-/oclc/779847965> <http://schema.org/about> <http://www.worldcat.org/oclc/779847965> .
+<http://www.worldcat.org/title/-/oclc/779847965> <http://schema.org/dateModified> "2019-02-09" .
+<http://www.worldcat.org/title/-/oclc/779847965> <http://rdfs.org/ns/void#inDataset> <http://purl.oclc.org/dataset/WorldCat> .
+<http://experiment.worldcat.org/entity/work/data/2089894#Agent/nencki_institute_of_experimental_biology> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bibliograph.net/Agent> .
+<http://experiment.worldcat.org/entity/work/data/2089894#Agent/nencki_institute_of_experimental_biology> <http://schema.org/name> "Nencki Institute of Experimental Biology." .
+<http://experiment.worldcat.org/entity/work/data/2089894#Topic/protozoa> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/2089894#Topic/protozoa> <http://schema.org/name> "Protozoa"@en .
+<http://viaf.org/viaf/159780633> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+<http://viaf.org/viaf/159780633> <http://schema.org/name> "Polskie Towarzystwo Biologii Komórki." .
+<http://www.worldcat.org/oclc/779847965> <http://schema.org/name> "Acta protozoologica."@en .
+<http://www.worldcat.org/oclc/779847965> <http://schema.org/inLanguage> "en" .
+<http://www.worldcat.org/oclc/779847965> <http://schema.org/contributor> <http://viaf.org/viaf/175127514> .
+<http://www.worldcat.org/oclc/779847965> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://www.worldcat.org/oclc/779847965> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/2089894#Topic/protozoa> .
+<http://www.worldcat.org/oclc/779847965> <http://purl.org/library/placeOfPublication> <http://id.loc.gov/vocabulary/countries/pl> .
+<http://www.worldcat.org/oclc/779847965> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/MediaObject> .
+<http://www.worldcat.org/oclc/779847965> <http://schema.org/exampleOfWork> <http://worldcat.org/entity/work/id/2089894> .
+<http://www.worldcat.org/oclc/779847965> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://www.worldcat.org/oclc/779847965> <http://schema.org/contributor> <http://viaf.org/viaf/159780633> .
+<http://www.worldcat.org/oclc/779847965> <http://schema.org/about> <http://id.loc.gov/authorities/subjects/sh85107814> .
+<http://www.worldcat.org/oclc/779847965> <http://www.w3.org/2007/05/powder-s#describedby> <http://www.worldcat.org/title/-/oclc/779847965> .
+<http://www.worldcat.org/oclc/779847965> <http://schema.org/productID> "779847965" .
+<http://www.worldcat.org/oclc/779847965> <http://schema.org/isSimilarTo> <http://www.worldcat.org/oclc/1157006> .
+<http://www.worldcat.org/oclc/779847965> <http://purl.org/library/placeOfPublication> <http://experiment.worldcat.org/entity/work/data/2089894#Place/warsaw> .
+<http://www.worldcat.org/oclc/779847965> <http://schema.org/genre> "Periodicals"@en .
+<http://www.worldcat.org/oclc/779847965> <http://schema.org/publisher> <http://experiment.worldcat.org/entity/work/data/2089894#Agent/nencki_institute_of_experimental_biology> .
+<http://www.worldcat.org/oclc/779847965> <http://schema.org/datePublished> "2000/9999" .
+<http://www.worldcat.org/oclc/779847965> <http://schema.org/genre> "Periodical"@en .
+<http://www.worldcat.org/oclc/779847965> <http://schema.org/url> <http://www.eko.uj.edu.pl/ap/index.php?option=com_frontpage&Itemid=1> .
+<http://www.worldcat.org/oclc/779847965> <http://schema.org/publication> <http://www.worldcat.org/title/-/oclc/779847965#PublicationEvent/warsaw_nencki_institute_of_experimental_biology> .
+<http://www.worldcat.org/oclc/779847965> <http://schema.org/genre> "National government publication"@en .
+<http://www.worldcat.org/oclc/779847965> <http://purl.org/library/oclcnum> "779847965" .
+<http://www.worldcat.org/oclc/779847965> <http://schema.org/genre> "Government publication"@en .
+<http://www.worldcat.org/title/-/oclc/779847965#PublicationEvent/warsaw_nencki_institute_of_experimental_biology> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PublicationEvent> .
+<http://www.worldcat.org/title/-/oclc/779847965#PublicationEvent/warsaw_nencki_institute_of_experimental_biology> <http://schema.org/location> <http://experiment.worldcat.org/entity/work/data/2089894#Place/warsaw> .
+<http://www.worldcat.org/title/-/oclc/779847965#PublicationEvent/warsaw_nencki_institute_of_experimental_biology> <http://schema.org/organizer> <http://experiment.worldcat.org/entity/work/data/2089894#Agent/nencki_institute_of_experimental_biology> .
+<http://id.loc.gov/authorities/subjects/sh85107814> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://id.loc.gov/authorities/subjects/sh85107814> <http://schema.org/name> "Protozoa"@en .
+<http://id.loc.gov/vocabulary/countries/pl> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://id.loc.gov/vocabulary/countries/pl> <http://purl.org/dc/terms/identifier> "pl" .
+<http://worldcat.org/entity/work/id/2089894> <http://schema.org/name> "Acta protozoologica (Online)"@en .
+<http://experiment.worldcat.org/entity/work/data/2089894#Place/warsaw> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://experiment.worldcat.org/entity/work/data/2089894#Place/warsaw> <http://schema.org/name> "Warsaw" .
+<http://viaf.org/viaf/175127514> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+<http://viaf.org/viaf/175127514> <http://schema.org/name> "Instytut Biologii Doświadczalnej im. M. Nenckiego." .
+<http://www.worldcat.org/oclc/1157006> <http://schema.org/isSimilarTo> <http://www.worldcat.org/oclc/779847965> .
+<http://www.worldcat.org/oclc/1157006> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://www.worldcat.org/oclc/1157006> <http://www.w3.org/2000/01/rdf-schema#label> "Acta protozoologica" .
+<http://www.worldcat.org/oclc/1157006> <http://schema.org/description> "Print version:" .

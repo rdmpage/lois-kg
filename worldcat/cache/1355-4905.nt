@@ -1,0 +1,62 @@
+<http://experiment.worldcat.org/entity/work/data/476848230#Topic/plants_ornamental> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/476848230#Topic/plants_ornamental> <http://schema.org/name> "Plants, Ornamental"@en .
+<http://experiment.worldcat.org/entity/work/data/476848230#Agent/blackwell_publishers_for_the_royal_botanic_gardens_kew> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bibliograph.net/Agent> .
+<http://experiment.worldcat.org/entity/work/data/476848230#Agent/blackwell_publishers_for_the_royal_botanic_gardens_kew> <http://schema.org/name> "Blackwell Publishers for the Royal Botanic Gardens, Kew" .
+<http://www.worldcat.org/oclc/608082128> <http://schema.org/exampleOfWork> <http://worldcat.org/entity/work/id/476848230> .
+<http://www.worldcat.org/oclc/608082128> <http://schema.org/productID> "608082128" .
+<http://www.worldcat.org/oclc/608082128> <http://purl.org/library/oclcnum> "608082128" .
+<http://www.worldcat.org/oclc/608082128> <http://schema.org/workExample> <http://worldcat.org/issn/1355-4905> .
+<http://www.worldcat.org/oclc/608082128> <http://purl.org/library/placeOfPublication> <http://experiment.worldcat.org/entity/work/data/476848230#Place/oxford_uk> .
+<http://www.worldcat.org/oclc/608082128> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://www.worldcat.org/oclc/608082128> <http://schema.org/inLanguage> "en" .
+<http://www.worldcat.org/oclc/608082128> <http://schema.org/publication> <http://www.worldcat.org/title/-/oclc/608082128#PublicationEvent/oxford_uk_cambridge_ma_blackwell_publishers_for_the_royal_botanic_gardens_kew_1995> .
+<http://www.worldcat.org/oclc/608082128> <http://purl.org/library/placeOfPublication> <http://experiment.worldcat.org/entity/work/data/476848230#Place/cambridge_ma> .
+<http://www.worldcat.org/oclc/608082128> <http://schema.org/datePublished> "1995/9999" .
+<http://www.worldcat.org/oclc/608082128> <http://www.w3.org/2007/05/powder-s#describedby> <http://www.worldcat.org/title/-/oclc/608082128> .
+<http://www.worldcat.org/oclc/608082128> <http://schema.org/publisher> <http://experiment.worldcat.org/entity/work/data/476848230#Agent/blackwell_publishers_for_the_royal_botanic_gardens_kew> .
+<http://www.worldcat.org/oclc/608082128> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://www.worldcat.org/oclc/608082128> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/476848230#Topic/plants_ornamental> .
+<http://www.worldcat.org/oclc/608082128> <http://schema.org/url> <http://search.epnet.com/direct.asp?db=aph&jid=%22D82%22&scope=site> .
+<http://www.worldcat.org/oclc/608082128> <http://schema.org/url> <http://sfx.huji.ac.il:3210/sfxtst3?sid=sfx:opac_856&issn=1355-4905> .
+<http://www.worldcat.org/oclc/608082128> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/476848230#Topic/plants_cultivated> .
+<http://www.worldcat.org/oclc/608082128> <http://schema.org/copyrightYear> "1995/" .
+<http://www.worldcat.org/oclc/608082128> <http://schema.org/contributor> <http://experiment.worldcat.org/entity/work/data/476848230#Organization/royal_botanic_gardens_kew> .
+<http://www.worldcat.org/oclc/608082128> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/476848230#Topic/botany> .
+<http://www.worldcat.org/oclc/608082128> <http://schema.org/genre> "Periodicals"@en .
+<http://www.worldcat.org/oclc/608082128> <http://schema.org/name> "Curtis's botanical magazine (1995)."@en .
+<http://www.worldcat.org/oclc/608082128> <http://schema.org/workExample> <http://worldcat.org/issn/1467-8748> .
+<http://www.worldcat.org/oclc/608082128> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/MediaObject> .
+<http://www.worldcat.org/oclc/608082128> <http://purl.org/library/placeOfPublication> <http://id.loc.gov/vocabulary/countries/enk> .
+<http://www.worldcat.org/title/-/oclc/608082128> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#ContentTypeGenericResource> .
+<http://www.worldcat.org/title/-/oclc/608082128> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#InformationResource> .
+<http://www.worldcat.org/title/-/oclc/608082128> <http://schema.org/about> <http://www.worldcat.org/oclc/608082128> .
+<http://www.worldcat.org/title/-/oclc/608082128> <http://schema.org/dateModified> "2019-02-09" .
+<http://www.worldcat.org/title/-/oclc/608082128> <http://rdfs.org/ns/void#inDataset> <http://purl.oclc.org/dataset/WorldCat> .
+<http://experiment.worldcat.org/entity/work/data/476848230#Place/cambridge_ma> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://experiment.worldcat.org/entity/work/data/476848230#Place/cambridge_ma> <http://schema.org/name> "Cambridge, MA" .
+<http://worldcat.org/issn/1355-4905> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://worldcat.org/issn/1355-4905> <http://schema.org/name> "Curtis's botanical magazine (1995)."@en .
+<http://worldcat.org/issn/1355-4905> <http://schema.org/issn> "1355-4905" .
+<http://worldcat.org/issn/1355-4905> <http://umbel.org/umbel#isLike> <http://worldcat.org/entity/work/id/476848230> .
+<http://id.loc.gov/vocabulary/countries/enk> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://id.loc.gov/vocabulary/countries/enk> <http://purl.org/dc/terms/identifier> "enk" .
+<http://worldcat.org/entity/work/id/476848230> <http://umbel.org/umbel#isLike> <http://worldcat.org/issn/1355-4905> .
+<http://worldcat.org/entity/work/id/476848230> <http://umbel.org/umbel#isLike> <http://worldcat.org/issn/1467-8748> .
+<http://experiment.worldcat.org/entity/work/data/476848230#Topic/plants_cultivated> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/476848230#Topic/plants_cultivated> <http://schema.org/name> "Plants, Cultivated"@en .
+<http://experiment.worldcat.org/entity/work/data/476848230#Topic/botany> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/476848230#Topic/botany> <http://schema.org/name> "Botany"@en .
+<http://experiment.worldcat.org/entity/work/data/476848230#Place/oxford_uk> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://experiment.worldcat.org/entity/work/data/476848230#Place/oxford_uk> <http://schema.org/name> "Oxford, UK" .
+<http://search.epnet.com/direct.asp?db=aph&jid=%22D82%22&scope=site> <http://www.w3.org/2000/01/rdf-schema#comment> "EBSCO Academic Search Premier" .
+<http://worldcat.org/issn/1467-8748> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://worldcat.org/issn/1467-8748> <http://schema.org/name> "Curtis's botanical magazine (1995)."@en .
+<http://worldcat.org/issn/1467-8748> <http://schema.org/issn> "1467-8748" .
+<http://worldcat.org/issn/1467-8748> <http://umbel.org/umbel#isLike> <http://worldcat.org/entity/work/id/476848230> .
+<http://www.worldcat.org/title/-/oclc/608082128#PublicationEvent/oxford_uk_cambridge_ma_blackwell_publishers_for_the_royal_botanic_gardens_kew_1995> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PublicationEvent> .
+<http://www.worldcat.org/title/-/oclc/608082128#PublicationEvent/oxford_uk_cambridge_ma_blackwell_publishers_for_the_royal_botanic_gardens_kew_1995> <http://schema.org/location> <http://experiment.worldcat.org/entity/work/data/476848230#Place/oxford_uk> .
+<http://www.worldcat.org/title/-/oclc/608082128#PublicationEvent/oxford_uk_cambridge_ma_blackwell_publishers_for_the_royal_botanic_gardens_kew_1995> <http://schema.org/location> <http://experiment.worldcat.org/entity/work/data/476848230#Place/cambridge_ma> .
+<http://www.worldcat.org/title/-/oclc/608082128#PublicationEvent/oxford_uk_cambridge_ma_blackwell_publishers_for_the_royal_botanic_gardens_kew_1995> <http://schema.org/organizer> <http://experiment.worldcat.org/entity/work/data/476848230#Agent/blackwell_publishers_for_the_royal_botanic_gardens_kew> .
+<http://experiment.worldcat.org/entity/work/data/476848230#Organization/royal_botanic_gardens_kew> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+<http://experiment.worldcat.org/entity/work/data/476848230#Organization/royal_botanic_gardens_kew> <http://schema.org/name> "Royal Botanic Gardens, Kew." .
+<http://sfx.huji.ac.il:3210/sfxtst3?sid=sfx:opac_856&issn=1355-4905> <http://www.w3.org/2000/01/rdf-schema#comment> "FindIt@HUJI" .

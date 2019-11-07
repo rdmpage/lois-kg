@@ -1,0 +1,55 @@
+<http://www.worldcat.org/title/-/oclc/637435054> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#ContentTypeGenericResource> .
+<http://www.worldcat.org/title/-/oclc/637435054> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#InformationResource> .
+<http://www.worldcat.org/title/-/oclc/637435054> <http://schema.org/about> <http://www.worldcat.org/oclc/637435054> .
+<http://www.worldcat.org/title/-/oclc/637435054> <http://schema.org/dateModified> "2018-11-08" .
+<http://www.worldcat.org/title/-/oclc/637435054> <http://rdfs.org/ns/void#inDataset> <http://purl.oclc.org/dataset/WorldCat> .
+<http://experiment.worldcat.org/entity/work/data/2909075089#Agent/izd_akademii_nauk_sssr> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bibliograph.net/Agent> .
+<http://experiment.worldcat.org/entity/work/data/2909075089#Agent/izd_akademii_nauk_sssr> <http://schema.org/name> "Izd. Akademii Nauk SSSR." .
+<http://experiment.worldcat.org/entity/work/data/2909075089#Thing/botanique> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> .
+<http://experiment.worldcat.org/entity/work/data/2909075089#Thing/botanique> <http://schema.org/name> "BOTANIQUE" .
+<http://experiment.worldcat.org/entity/work/data/2909075089#Place/moskva> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://experiment.worldcat.org/entity/work/data/2909075089#Place/moskva> <http://schema.org/name> "Moskva" .
+<http://experiment.worldcat.org/entity/work/data/2909075089#Thing/sowjetunion_eurasien_1917_1991> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> .
+<http://experiment.worldcat.org/entity/work/data/2909075089#Thing/sowjetunion_eurasien_1917_1991> <http://schema.org/name> "SOWJETUNION (EURASIEN), 1917-1991" .
+<http://id.loc.gov/vocabulary/countries/ru> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://id.loc.gov/vocabulary/countries/ru> <http://purl.org/dc/terms/identifier> "ru" .
+<http://experiment.worldcat.org/entity/work/data/2909075089#Thing/soviet_union_eurasia_1917_1991> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> .
+<http://experiment.worldcat.org/entity/work/data/2909075089#Thing/soviet_union_eurasia_1917_1991> <http://schema.org/name> "SOVIET UNION (EURASIA), 1917-1991" .
+<http://experiment.worldcat.org/entity/work/data/2909075089#Thing/botanik> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> .
+<http://experiment.worldcat.org/entity/work/data/2909075089#Thing/botanik> <http://schema.org/name> "BOTANIK" .
+<http://worldcat.org/issn/0006-8136> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://worldcat.org/issn/0006-8136> <http://schema.org/name> "Botaničeskij žurnal SSSR" .
+<http://worldcat.org/issn/0006-8136> <http://schema.org/issn> "0006-8136" .
+<http://worldcat.org/issn/0006-8136> <http://umbel.org/umbel#isLike> <http://worldcat.org/entity/work/id/2909075089> .
+<http://experiment.worldcat.org/entity/work/data/2909075089#Thing/botany> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> .
+<http://experiment.worldcat.org/entity/work/data/2909075089#Thing/botany> <http://schema.org/name> "BOTANY" .
+<http://worldcat.org/entity/work/id/2909075089> <http://umbel.org/umbel#isLike> <http://worldcat.org/issn/0006-8136> .
+<http://experiment.worldcat.org/entity/work/data/2909075089#Organization/akademija_nauk_sssr_moskva> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+<http://experiment.worldcat.org/entity/work/data/2909075089#Organization/akademija_nauk_sssr_moskva> <http://schema.org/name> "Akademija Nauk SSSR (Moskva)" .
+<http://www.worldcat.org/oclc/637435054> <http://schema.org/inLanguage> "en" .
+<http://www.worldcat.org/oclc/637435054> <http://purl.org/library/placeOfPublication> <http://experiment.worldcat.org/entity/work/data/2909075089#Place/moskva> .
+<http://www.worldcat.org/oclc/637435054> <http://schema.org/name> "Botaničeskij žurnal SSSR" .
+<http://www.worldcat.org/oclc/637435054> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/2909075089#Thing/botanik> .
+<http://www.worldcat.org/oclc/637435054> <http://purl.org/library/oclcnum> "637435054" .
+<http://www.worldcat.org/oclc/637435054> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/2909075089#Thing/soviet_union_eurasia_1917_1991> .
+<http://www.worldcat.org/oclc/637435054> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/2909075089#Thing/botany> .
+<http://www.worldcat.org/oclc/637435054> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/2909075089#Thing/botanique> .
+<http://www.worldcat.org/oclc/637435054> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/2909075089#Thing/union_sovietique_eurasie_1917_1991> .
+<http://www.worldcat.org/oclc/637435054> <http://www.w3.org/2007/05/powder-s#describedby> <http://www.worldcat.org/title/-/oclc/637435054> .
+<http://www.worldcat.org/oclc/637435054> <http://schema.org/productID> "637435054" .
+<http://www.worldcat.org/oclc/637435054> <http://schema.org/exampleOfWork> <http://worldcat.org/entity/work/id/2909075089> .
+<http://www.worldcat.org/oclc/637435054> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://www.worldcat.org/oclc/637435054> <http://schema.org/datePublished> "1944/1947" .
+<http://www.worldcat.org/oclc/637435054> <http://schema.org/contributor> <http://experiment.worldcat.org/entity/work/data/2909075089#Organization/akademija_nauk_sssr_moskva> .
+<http://www.worldcat.org/oclc/637435054> <http://schema.org/workExample> <http://worldcat.org/issn/0006-8136> .
+<http://www.worldcat.org/oclc/637435054> <http://schema.org/alternateName> "Journal botanique de l'URSS" .
+<http://www.worldcat.org/oclc/637435054> <http://schema.org/publisher> <http://experiment.worldcat.org/entity/work/data/2909075089#Agent/izd_akademii_nauk_sssr> .
+<http://www.worldcat.org/oclc/637435054> <http://schema.org/publication> <http://www.worldcat.org/title/-/oclc/637435054#PublicationEvent/moskva_izd_akademii_nauk_sssr> .
+<http://www.worldcat.org/oclc/637435054> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://www.worldcat.org/oclc/637435054> <http://purl.org/library/placeOfPublication> <http://id.loc.gov/vocabulary/countries/ru> .
+<http://www.worldcat.org/oclc/637435054> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/2909075089#Thing/sowjetunion_eurasien_1917_1991> .
+<http://www.worldcat.org/title/-/oclc/637435054#PublicationEvent/moskva_izd_akademii_nauk_sssr> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PublicationEvent> .
+<http://www.worldcat.org/title/-/oclc/637435054#PublicationEvent/moskva_izd_akademii_nauk_sssr> <http://schema.org/location> <http://experiment.worldcat.org/entity/work/data/2909075089#Place/moskva> .
+<http://www.worldcat.org/title/-/oclc/637435054#PublicationEvent/moskva_izd_akademii_nauk_sssr> <http://schema.org/organizer> <http://experiment.worldcat.org/entity/work/data/2909075089#Agent/izd_akademii_nauk_sssr> .
+<http://experiment.worldcat.org/entity/work/data/2909075089#Thing/union_sovietique_eurasie_1917_1991> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> .
+<http://experiment.worldcat.org/entity/work/data/2909075089#Thing/union_sovietique_eurasie_1917_1991> <http://schema.org/name> "UNION SOVIETIQUE (EURASIE), 1917-1991" .

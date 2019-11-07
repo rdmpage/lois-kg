@@ -1,0 +1,50 @@
+<http://experiment.worldcat.org/entity/work/data/2399052#Organization/svenska_botaniska_foreningen_estocolmo> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+<http://experiment.worldcat.org/entity/work/data/2399052#Organization/svenska_botaniska_foreningen_estocolmo> <http://schema.org/name> "Svenska Botaniska Foreningen (Estocolmo)," .
+<http://svenskbotanik.se/svensk-botanisk-tidskrift/> <http://www.w3.org/2000/01/rdf-schema#comment> "teilw. kostenfrei" .
+<http://worldcat.org/entity/work/id/2399052> <http://umbel.org/umbel#isLike> <http://worldcat.org/issn/0039-646X> .
+<http://worldcat.org/issn/0039-646X> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://worldcat.org/issn/0039-646X> <http://schema.org/name> "Svensk Botanisk Tidskrift." .
+<http://worldcat.org/issn/0039-646X> <http://schema.org/issn> "0039-646X" .
+<http://worldcat.org/issn/0039-646X> <http://umbel.org/umbel#isLike> <http://worldcat.org/entity/work/id/2399052> .
+<http://experiment.worldcat.org/entity/work/data/2399052#Agent/svenska_botaniska_foreningen> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bibliograph.net/Agent> .
+<http://experiment.worldcat.org/entity/work/data/2399052#Agent/svenska_botaniska_foreningen> <http://schema.org/name> "Svenska Botaniska Foreningen" .
+<http://experiment.worldcat.org/entity/work/data/2399052#Topic/botanica> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/2399052#Topic/botanica> <http://schema.org/name> "Botánica" .
+<http://www.worldcat.org/title/-/oclc/642355834> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#ContentTypeGenericResource> .
+<http://www.worldcat.org/title/-/oclc/642355834> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#InformationResource> .
+<http://www.worldcat.org/title/-/oclc/642355834> <http://schema.org/about> <http://www.worldcat.org/oclc/642355834> .
+<http://www.worldcat.org/title/-/oclc/642355834> <http://schema.org/dateModified> "2019-10-30" .
+<http://www.worldcat.org/title/-/oclc/642355834> <http://rdfs.org/ns/void#inDataset> <http://purl.oclc.org/dataset/WorldCat> .
+<http://www.worldcat.org/oclc/642355834> <http://schema.org/url> <http://svenskbotanik.se/svensk-botanisk-tidskrift/> .
+<http://www.worldcat.org/oclc/642355834> <http://schema.org/publisher> <http://experiment.worldcat.org/entity/work/data/2399052#Agent/svenska_botaniska_foreningen> .
+<http://www.worldcat.org/oclc/642355834> <http://schema.org/url> <http://www.bibliothek.uni-regensburg.de/ezeit/?2516468> .
+<http://www.worldcat.org/oclc/642355834> <http://schema.org/exampleOfWork> <http://worldcat.org/entity/work/id/2399052> .
+<http://www.worldcat.org/oclc/642355834> <http://schema.org/workExample> <http://worldcat.org/issn/0039-646X> .
+<http://www.worldcat.org/oclc/642355834> <http://www.w3.org/2007/05/powder-s#describedby> <http://www.worldcat.org/title/-/oclc/642355834> .
+<http://www.worldcat.org/oclc/642355834> <http://schema.org/publication> <http://www.worldcat.org/title/-/oclc/642355834#PublicationEvent/stockholm_svenska_botaniska_foreningen_1907> .
+<http://www.worldcat.org/oclc/642355834> <http://schema.org/name> "Svensk Botanisk Tidskrift." .
+<http://www.worldcat.org/oclc/642355834> <http://purl.org/library/oclcnum> "642355834" .
+<http://www.worldcat.org/oclc/642355834> <http://schema.org/inLanguage> "mul" .
+<http://www.worldcat.org/oclc/642355834> <http://umbel.org/umbel#isLike> <http://d-nb.info/996989420> .
+<http://www.worldcat.org/oclc/642355834> <http://schema.org/productID> "642355834" .
+<http://www.worldcat.org/oclc/642355834> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://www.worldcat.org/oclc/642355834> <http://schema.org/datePublished> "uuuu/9999" .
+<http://www.worldcat.org/oclc/642355834> <http://purl.org/library/placeOfPublication> <http://id.loc.gov/vocabulary/countries/sw> .
+<http://www.worldcat.org/oclc/642355834> <http://schema.org/url> <http://www.sbf.c.se/index.php?id=297> .
+<http://www.worldcat.org/oclc/642355834> <http://schema.org/contributor> <http://experiment.worldcat.org/entity/work/data/2399052#Organization/svenska_botaniska_foreningen_estocolmo> .
+<http://www.worldcat.org/oclc/642355834> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/2399052#Topic/botanica> .
+<http://www.worldcat.org/oclc/642355834> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://www.worldcat.org/oclc/642355834> <http://schema.org/datePublished> "1907/" .
+<http://www.worldcat.org/oclc/642355834> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/2399052#Topic/botanica_publicaciones_periodicas> .
+<http://www.worldcat.org/oclc/642355834> <http://purl.org/library/placeOfPublication> <http://experiment.worldcat.org/entity/work/data/2399052#Place/stockholm> .
+<http://www.sbf.c.se/index.php?id=297> <http://www.w3.org/2000/01/rdf-schema#comment> "kostenfrei" .
+<http://id.loc.gov/vocabulary/countries/sw> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://id.loc.gov/vocabulary/countries/sw> <http://purl.org/dc/terms/identifier> "sw" .
+<http://experiment.worldcat.org/entity/work/data/2399052#Topic/botanica_publicaciones_periodicas> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/2399052#Topic/botanica_publicaciones_periodicas> <http://schema.org/name> "Botánica--Publicaciones periódicas" .
+<http://experiment.worldcat.org/entity/work/data/2399052#Place/stockholm> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://experiment.worldcat.org/entity/work/data/2399052#Place/stockholm> <http://schema.org/name> "Stockholm" .
+<http://www.worldcat.org/title/-/oclc/642355834#PublicationEvent/stockholm_svenska_botaniska_foreningen_1907> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PublicationEvent> .
+<http://www.worldcat.org/title/-/oclc/642355834#PublicationEvent/stockholm_svenska_botaniska_foreningen_1907> <http://schema.org/location> <http://experiment.worldcat.org/entity/work/data/2399052#Place/stockholm> .
+<http://www.worldcat.org/title/-/oclc/642355834#PublicationEvent/stockholm_svenska_botaniska_foreningen_1907> <http://schema.org/organizer> <http://experiment.worldcat.org/entity/work/data/2399052#Agent/svenska_botaniska_foreningen> .
+<http://www.worldcat.org/title/-/oclc/642355834#PublicationEvent/stockholm_svenska_botaniska_foreningen_1907> <http://schema.org/startDate> "1907-" .

@@ -1,0 +1,40 @@
+<http://science.calm.wa.gov.au/nuytsia/index.php> <http://www.w3.org/2000/01/rdf-schema#comment> "kostenfrei" .
+<http://id.loc.gov/vocabulary/countries/at> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://id.loc.gov/vocabulary/countries/at> <http://purl.org/dc/terms/identifier> "at" .
+<http://experiment.worldcat.org/entity/work/data/8907087906#Place/south_perth> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://experiment.worldcat.org/entity/work/data/8907087906#Place/south_perth> <http://schema.org/name> "South Perth" .
+<http://www.worldcat.org/oclc/1072935278> <http://schema.org/alternateName> "Nuytsia - WA's journal of systematic botany" .
+<http://www.worldcat.org/oclc/1072935278> <http://purl.org/library/placeOfPublication> <http://experiment.worldcat.org/entity/work/data/8907087906#Place/south_perth> .
+<http://www.worldcat.org/oclc/1072935278> <http://schema.org/url> <http://science.calm.wa.gov.au/nuytsia/index.php> .
+<http://www.worldcat.org/oclc/1072935278> <http://schema.org/inLanguage> "en" .
+<http://www.worldcat.org/oclc/1072935278> <http://purl.org/library/oclcnum> "1072935278" .
+<http://www.worldcat.org/oclc/1072935278> <http://schema.org/name> "Nuytsia Western Australia's journal of systematic botany" .
+<http://www.worldcat.org/oclc/1072935278> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/MediaObject> .
+<http://www.worldcat.org/oclc/1072935278> <http://schema.org/datePublished> "1970/9999" .
+<http://www.worldcat.org/oclc/1072935278> <http://schema.org/productID> "1072935278" .
+<http://www.worldcat.org/oclc/1072935278> <http://schema.org/exampleOfWork> <http://worldcat.org/entity/work/id/8907087906> .
+<http://www.worldcat.org/oclc/1072935278> <http://schema.org/url> <http://www.bibliothek.uni-regensburg.de/ezeit/?2190309> .
+<http://www.worldcat.org/oclc/1072935278> <http://schema.org/publisher> <http://experiment.worldcat.org/entity/work/data/8907087906#Agent/s_n> .
+<http://www.worldcat.org/oclc/1072935278> <http://www.w3.org/2007/05/powder-s#describedby> <http://www.worldcat.org/title/-/oclc/1072935278> .
+<http://www.worldcat.org/oclc/1072935278> <http://schema.org/publication> <http://www.worldcat.org/title/-/oclc/1072935278#PublicationEvent/south_perths_n> .
+<http://www.worldcat.org/oclc/1072935278> <http://purl.org/library/placeOfPublication> <http://id.loc.gov/vocabulary/countries/at> .
+<http://www.worldcat.org/oclc/1072935278> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://www.worldcat.org/oclc/1072935278> <http://umbel.org/umbel#isLike> <http://d-nb.info/975089781> .
+<http://www.worldcat.org/oclc/1072935278> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://www.worldcat.org/oclc/1072935278> <http://schema.org/workExample> <http://worldcat.org/issn/0085-4417> .
+<http://www.worldcat.org/oclc/1072935278> <http://schema.org/alternateName> "WA's journal of systematic botany" .
+<http://www.worldcat.org/title/-/oclc/1072935278#PublicationEvent/south_perths_n> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PublicationEvent> .
+<http://www.worldcat.org/title/-/oclc/1072935278#PublicationEvent/south_perths_n> <http://schema.org/location> <http://experiment.worldcat.org/entity/work/data/8907087906#Place/south_perth> .
+<http://www.worldcat.org/title/-/oclc/1072935278#PublicationEvent/south_perths_n> <http://schema.org/organizer> <http://experiment.worldcat.org/entity/work/data/8907087906#Agent/s_n> .
+<http://worldcat.org/entity/work/id/8907087906> <http://umbel.org/umbel#isLike> <http://worldcat.org/issn/0085-4417> .
+<http://www.worldcat.org/title/-/oclc/1072935278> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#ContentTypeGenericResource> .
+<http://www.worldcat.org/title/-/oclc/1072935278> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#InformationResource> .
+<http://www.worldcat.org/title/-/oclc/1072935278> <http://schema.org/about> <http://www.worldcat.org/oclc/1072935278> .
+<http://www.worldcat.org/title/-/oclc/1072935278> <http://schema.org/dateModified> "2019-02-12" .
+<http://www.worldcat.org/title/-/oclc/1072935278> <http://rdfs.org/ns/void#inDataset> <http://purl.oclc.org/dataset/WorldCat> .
+<http://experiment.worldcat.org/entity/work/data/8907087906#Agent/s_n> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bibliograph.net/Agent> .
+<http://experiment.worldcat.org/entity/work/data/8907087906#Agent/s_n> <http://schema.org/name> "[s.n." .
+<http://worldcat.org/issn/0085-4417> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://worldcat.org/issn/0085-4417> <http://schema.org/name> "Nuytsia Western Australia's journal of systematic botany" .
+<http://worldcat.org/issn/0085-4417> <http://schema.org/issn> "0085-4417" .
+<http://worldcat.org/issn/0085-4417> <http://umbel.org/umbel#isLike> <http://worldcat.org/entity/work/id/8907087906> .

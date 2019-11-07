@@ -1,0 +1,67 @@
+<http://www.worldcat.org/title/-/oclc/942028617#PublicationEvent/ottawa_ont_national_research_council_of_canada> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PublicationEvent> .
+<http://www.worldcat.org/title/-/oclc/942028617#PublicationEvent/ottawa_ont_national_research_council_of_canada> <http://schema.org/location> <http://experiment.worldcat.org/entity/work/data/3856197555#Place/ottawa_ont> .
+<http://www.worldcat.org/title/-/oclc/942028617#PublicationEvent/ottawa_ont_national_research_council_of_canada> <http://schema.org/organizer> <http://experiment.worldcat.org/entity/work/data/3856197555#Agent/national_research_council_of_canada> .
+<http://www.worldcat.org/oclc/942028617> <http://schema.org/url> <http://pubs.nrc-cnrc.gc.ca/rp-ps/journalDetail.jsp?lang=eng&jcode=cjb> .
+<http://www.worldcat.org/oclc/942028617> <http://www.w3.org/2007/05/powder-s#describedby> <http://www.worldcat.org/title/-/oclc/942028617> .
+<http://www.worldcat.org/oclc/942028617> <http://schema.org/genre> "Periodicals"@en .
+<http://www.worldcat.org/oclc/942028617> <http://schema.org/url> <http://pubs.nrc-cnrc.gc.ca/cgi-bin/rp/rp2_desc_e?cjb> .
+<http://www.worldcat.org/oclc/942028617> <http://schema.org/url> <http://www.nrcresearchpress.com/journal/cjb> .
+<http://www.worldcat.org/oclc/942028617> <http://purl.org/library/placeOfPublication> <http://id.loc.gov/vocabulary/countries/onc> .
+<http://www.worldcat.org/oclc/942028617> <http://schema.org/alternateName> "Botanique" .
+<http://www.worldcat.org/oclc/942028617> <http://schema.org/contributor> <http://experiment.worldcat.org/entity/work/data/3856197555#Organization/national_research_council_of_canada> .
+<http://www.worldcat.org/oclc/942028617> <http://schema.org/url> <http://pubs.nrc-cnrc.gc.ca/rp-ps/journalDetail.jsp?jcode=cjb&lang=eng> .
+<http://www.worldcat.org/oclc/942028617> <http://purl.org/library/oclcnum> "942028617" .
+<http://www.worldcat.org/oclc/942028617> <http://schema.org/url> <http://resolver.library.ualberta.ca/resolver?ctx_enc=info%3Aofi%2Fenc%3AUTF-8&ctx_ver=Z39.88-2004&rfr_id=info%3Asid%2Fualberta.ca%3Aopac&rft.genre=journal&rft.object_id=1000000000378374&rft.issn=1916-2790&rft.eissn=1916-2804&rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&url_ctx_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Actx&url_ver=Z39.88-2004> .
+<http://www.worldcat.org/oclc/942028617> <http://schema.org/datePublished> "2008/9999" .
+<http://www.worldcat.org/oclc/942028617> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://www.worldcat.org/oclc/942028617> <http://schema.org/publication> <http://www.worldcat.org/title/-/oclc/942028617#PublicationEvent/ottawa_ont_national_research_council_of_canada> .
+<http://www.worldcat.org/oclc/942028617> <http://schema.org/workExample> <http://worldcat.org/issn/1916-2804> .
+<http://www.worldcat.org/oclc/942028617> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/3856197555#Topic/botany> .
+<http://www.worldcat.org/oclc/942028617> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://www.worldcat.org/oclc/942028617> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/MediaObject> .
+<http://www.worldcat.org/oclc/942028617> <http://schema.org/url> <http://resolver.lrc.macewan.ca/macewan?url%5Fver=Z39.88-2004&ctx%5Fver=Z39.88-2004&ctx%5Fenc=info:ofi/enc:UTF-8&rfr%5Fid=info:sid/sfxit.com:opac%5F856&url%5Fctx%5Ffmt=info:ofi/fmt:kev:mtx:ctx&sfx.ignore%5Fdate%5Fthreshold=1&rft.object%5Fid=1000000000378374&svc%5Fval%5Ffmt=info:ofi/fmt:kev:mtx:sch%5Fsvc&> .
+<http://www.worldcat.org/oclc/942028617> <http://schema.org/inLanguage> "en" .
+<http://www.worldcat.org/oclc/942028617> <http://schema.org/isSimilarTo> <http://www.worldcat.org/oclc/733979556> .
+<http://www.worldcat.org/oclc/942028617> <http://schema.org/publisher> <http://experiment.worldcat.org/entity/work/data/3856197555#Agent/national_research_council_of_canada> .
+<http://www.worldcat.org/oclc/942028617> <http://schema.org/url> <http://search.ebscohost.com/login.aspx?direct=true&db=edspub&AN=edp15213&site=pfi-live&scope=site&authtype=ip,guest&custid=s2132508&groupid=main> .
+<http://www.worldcat.org/oclc/942028617> <http://schema.org/isSimilarTo> <http://www.worldcat.org/oclc/213328824> .
+<http://www.worldcat.org/oclc/942028617> <http://schema.org/exampleOfWork> <http://worldcat.org/entity/work/id/3856197555> .
+<http://www.worldcat.org/oclc/942028617> <http://schema.org/productID> "942028617" .
+<http://www.worldcat.org/oclc/942028617> <http://purl.org/library/placeOfPublication> <http://experiment.worldcat.org/entity/work/data/3856197555#Place/ottawa_ont> .
+<http://www.worldcat.org/oclc/942028617> <http://schema.org/isSimilarTo> <http://www.worldcat.org/oclc/213281032> .
+<http://www.worldcat.org/oclc/942028617> <http://schema.org/name> "Botany."@en .
+<http://www.worldcat.org/oclc/942028617> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/3856197555#Topic/botanique> .
+<http://id.loc.gov/vocabulary/countries/onc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://id.loc.gov/vocabulary/countries/onc> <http://purl.org/dc/terms/identifier> "onc" .
+<http://experiment.worldcat.org/entity/work/data/3856197555#Organization/national_research_council_of_canada> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+<http://experiment.worldcat.org/entity/work/data/3856197555#Organization/national_research_council_of_canada> <http://schema.org/name> "National Research Council of Canada." .
+<http://experiment.worldcat.org/entity/work/data/3856197555#Agent/national_research_council_of_canada> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bibliograph.net/Agent> .
+<http://experiment.worldcat.org/entity/work/data/3856197555#Agent/national_research_council_of_canada> <http://schema.org/name> "National Research Council of Canada." .
+<http://worldcat.org/issn/1916-2804> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://worldcat.org/issn/1916-2804> <http://schema.org/name> "Botany."@en .
+<http://worldcat.org/issn/1916-2804> <http://schema.org/issn> "1916-2804" .
+<http://worldcat.org/issn/1916-2804> <http://umbel.org/umbel#isLike> <http://worldcat.org/entity/work/id/3856197555> .
+<http://experiment.worldcat.org/entity/work/data/3856197555#Topic/botanique> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/3856197555#Topic/botanique> <http://schema.org/name> "Botanique"@fr .
+<http://www.worldcat.org/oclc/213281032> <http://schema.org/isSimilarTo> <http://www.worldcat.org/oclc/942028617> .
+<http://www.worldcat.org/oclc/213281032> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://www.worldcat.org/oclc/213281032> <http://www.w3.org/2000/01/rdf-schema#label> "Botany" .
+<http://www.worldcat.org/oclc/213281032> <http://schema.org/description> "Online version:" .
+<http://experiment.worldcat.org/entity/work/data/3856197555#Topic/botany> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/3856197555#Topic/botany> <http://schema.org/name> "Botany"@en .
+<http://www.worldcat.org/oclc/733979556> <http://schema.org/isSimilarTo> <http://www.worldcat.org/oclc/942028617> .
+<http://www.worldcat.org/oclc/733979556> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://www.worldcat.org/oclc/733979556> <http://www.w3.org/2000/01/rdf-schema#label> "Botany (Ottawa, Ont.)" .
+<http://www.worldcat.org/oclc/733979556> <http://schema.org/description> "Online version:" .
+<http://experiment.worldcat.org/entity/work/data/3856197555#Place/ottawa_ont> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://experiment.worldcat.org/entity/work/data/3856197555#Place/ottawa_ont> <http://schema.org/name> "Ottawa, Ont." .
+<http://www.worldcat.org/oclc/213328824> <http://schema.org/isSimilarTo> <http://www.worldcat.org/oclc/942028617> .
+<http://www.worldcat.org/oclc/213328824> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://www.worldcat.org/oclc/213328824> <http://www.w3.org/2000/01/rdf-schema#label> "Botany (Ottawa, Ont.)" .
+<http://www.worldcat.org/title/-/oclc/942028617> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#ContentTypeGenericResource> .
+<http://www.worldcat.org/title/-/oclc/942028617> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#InformationResource> .
+<http://www.worldcat.org/title/-/oclc/942028617> <http://schema.org/about> <http://www.worldcat.org/oclc/942028617> .
+<http://www.worldcat.org/title/-/oclc/942028617> <http://schema.org/dateModified> "2019-02-10" .
+<http://www.worldcat.org/title/-/oclc/942028617> <http://rdfs.org/ns/void#inDataset> <http://purl.oclc.org/dataset/WorldCat> .
+<http://worldcat.org/entity/work/id/3856197555> <http://schema.org/name> "Botany (Ottawa, Ont.)"@en .
+<http://worldcat.org/entity/work/id/3856197555> <http://umbel.org/umbel#isLike> <http://worldcat.org/issn/1916-2804> .

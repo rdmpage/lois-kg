@@ -1,0 +1,72 @@
+<http://www.worldcat.org/title/-/oclc/612915154#PublicationEvent/new_york_ny_acad_pressanfangs> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PublicationEvent> .
+<http://www.worldcat.org/title/-/oclc/612915154#PublicationEvent/new_york_ny_acad_pressanfangs> <http://schema.org/location> <http://experiment.worldcat.org/entity/work/data/8910278317#Place/new_york_ny> .
+<http://www.worldcat.org/title/-/oclc/612915154#PublicationEvent/new_york_ny_acad_pressanfangs> <http://schema.org/organizer> <http://experiment.worldcat.org/entity/work/data/8910278317#Agent/acad_press> .
+<http://www.worldcat.org/title/-/oclc/612915154#PublicationEvent/new_york_ny_acad_pressanfangs> <http://schema.org/startDate> "" .
+<http://dewey.info/class/592/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/8910278317#Topic/tierpathologie> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/8910278317#Topic/tierpathologie> <http://schema.org/name> "Tierpathologie" .
+<http://experiment.worldcat.org/entity/work/data/8910278317#Agent/elsevier> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bibliograph.net/Agent> .
+<http://experiment.worldcat.org/entity/work/data/8910278317#Agent/elsevier> <http://schema.org/name> "Elsevier" .
+<http://experiment.worldcat.org/entity/work/data/8910278317#Place/new_york_ny> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://experiment.worldcat.org/entity/work/data/8910278317#Place/new_york_ny> <http://schema.org/name> "New York, NY" .
+<http://worldcat.org/entity/work/id/8910278317> <http://umbel.org/umbel#isLike> <http://worldcat.org/issn/0022-2011> .
+<http://id.loc.gov/vocabulary/countries/cau> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://id.loc.gov/vocabulary/countries/cau> <http://purl.org/dc/terms/identifier> "cau" .
+<http://www.worldcat.org/title/-/oclc/612915154> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#ContentTypeGenericResource> .
+<http://www.worldcat.org/title/-/oclc/612915154> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#InformationResource> .
+<http://www.worldcat.org/title/-/oclc/612915154> <http://schema.org/about> <http://www.worldcat.org/oclc/612915154> .
+<http://www.worldcat.org/title/-/oclc/612915154> <http://schema.org/dateModified> "2019-02-15" .
+<http://www.worldcat.org/title/-/oclc/612915154> <http://rdfs.org/ns/void#inDataset> <http://purl.oclc.org/dataset/WorldCat> .
+<http://experiment.worldcat.org/entity/work/data/8910278317#Place/san_diego_calif> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://experiment.worldcat.org/entity/work/data/8910278317#Place/san_diego_calif> <http://schema.org/name> "San Diego, Calif." .
+<http://viaf.org/viaf/132441468> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+<http://viaf.org/viaf/132441468> <http://schema.org/name> "Society for Invertebrate Pathology." .
+<http://experiment.worldcat.org/entity/work/data/8910278317#Agent/acad_press> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bibliograph.net/Agent> .
+<http://experiment.worldcat.org/entity/work/data/8910278317#Agent/acad_press> <http://schema.org/name> "Acad. Press" .
+<http://experiment.worldcat.org/entity/work/data/8910278317#Topic/zeitschrift> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/8910278317#Topic/zeitschrift> <http://schema.org/name> "Zeitschrift" .
+<http://www.worldcat.org/oclc/612915154> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/8910278317#Topic/tierkrankheit> .
+<http://www.worldcat.org/oclc/612915154> <http://umbel.org/umbel#isLike> <http://d-nb.info/012151300> .
+<http://www.worldcat.org/oclc/612915154> <http://purl.org/library/placeOfPublication> <http://experiment.worldcat.org/entity/work/data/8910278317#Place/san_diego_calif> .
+<http://www.worldcat.org/oclc/612915154> <http://schema.org/exampleOfWork> <http://worldcat.org/entity/work/id/8910278317> .
+<http://www.worldcat.org/oclc/612915154> <http://schema.org/inLanguage> "en" .
+<http://www.worldcat.org/oclc/612915154> <http://schema.org/publisher> <http://experiment.worldcat.org/entity/work/data/8910278317#Agent/elsevier> .
+<http://www.worldcat.org/oclc/612915154> <http://schema.org/datePublished> "1965/" .
+<http://www.worldcat.org/oclc/612915154> <http://purl.org/library/placeOfPublication> <http://id.loc.gov/vocabulary/countries/cau> .
+<http://www.worldcat.org/oclc/612915154> <http://schema.org/publication> <http://www.worldcat.org/title/-/oclc/612915154#PublicationEvent/san_diego_calif_elsevier_1965> .
+<http://www.worldcat.org/oclc/612915154> <http://schema.org/workExample> <http://worldcat.org/issn/0022-2011> .
+<http://www.worldcat.org/oclc/612915154> <http://purl.org/library/oclcnum> "612915154" .
+<http://www.worldcat.org/oclc/612915154> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://www.worldcat.org/oclc/612915154> <http://schema.org/publication> <http://www.worldcat.org/title/-/oclc/612915154#PublicationEvent/new_york_ny_acad_pressanfangs> .
+<http://www.worldcat.org/oclc/612915154> <http://purl.org/library/placeOfPublication> <http://experiment.worldcat.org/entity/work/data/8910278317#Place/new_york_ny> .
+<http://www.worldcat.org/oclc/612915154> <http://schema.org/contributor> <http://viaf.org/viaf/132441468> .
+<http://www.worldcat.org/oclc/612915154> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/8910278317#Topic/wirbellose> .
+<http://www.worldcat.org/oclc/612915154> <http://schema.org/publisher> <http://experiment.worldcat.org/entity/work/data/8910278317#Agent/acad_press> .
+<http://www.worldcat.org/oclc/612915154> <http://schema.org/isSimilarTo> <http://worldcat.org/entity/work/data/8910278317#CreativeWork/journal_of_invertebrate_pathology> .
+<http://www.worldcat.org/oclc/612915154> <http://schema.org/about> <http://dewey.info/class/592/> .
+<http://www.worldcat.org/oclc/612915154> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/8910278317#Topic/zeitschrift> .
+<http://www.worldcat.org/oclc/612915154> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/8910278317#Topic/tierpathologie> .
+<http://www.worldcat.org/oclc/612915154> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/8910278317#Topic/pathologie> .
+<http://www.worldcat.org/oclc/612915154> <http://schema.org/name> "Journal of invertebrate pathology : devoted to the pathology and microbiology of insects and other invertebrates" .
+<http://www.worldcat.org/oclc/612915154> <http://schema.org/datePublished> "1965/9999" .
+<http://www.worldcat.org/oclc/612915154> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://www.worldcat.org/oclc/612915154> <http://schema.org/productID> "612915154" .
+<http://www.worldcat.org/oclc/612915154> <http://www.w3.org/2007/05/powder-s#describedby> <http://www.worldcat.org/title/-/oclc/612915154> .
+<http://experiment.worldcat.org/entity/work/data/8910278317#Topic/tierkrankheit> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/8910278317#Topic/tierkrankheit> <http://schema.org/name> "Tierkrankheit" .
+<http://experiment.worldcat.org/entity/work/data/8910278317#Topic/pathologie> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/8910278317#Topic/pathologie> <http://schema.org/name> "Pathologie" .
+<http://experiment.worldcat.org/entity/work/data/8910278317#Topic/wirbellose> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/8910278317#Topic/wirbellose> <http://schema.org/name> "Wirbellose" .
+<http://worldcat.org/issn/0022-2011> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://worldcat.org/issn/0022-2011> <http://schema.org/name> "Journal of invertebrate pathology : devoted to the pathology and microbiology of insects and other invertebrates" .
+<http://worldcat.org/issn/0022-2011> <http://schema.org/issn> "0022-2011" .
+<http://worldcat.org/issn/0022-2011> <http://umbel.org/umbel#isLike> <http://worldcat.org/entity/work/id/8910278317> .
+<http://worldcat.org/entity/work/data/8910278317#CreativeWork/journal_of_invertebrate_pathology> <http://schema.org/isSimilarTo> <http://www.worldcat.org/oclc/612915154> .
+<http://worldcat.org/entity/work/data/8910278317#CreativeWork/journal_of_invertebrate_pathology> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://worldcat.org/entity/work/data/8910278317#CreativeWork/journal_of_invertebrate_pathology> <http://www.w3.org/2000/01/rdf-schema#label> "Journal of invertebrate pathology" .
+<http://worldcat.org/entity/work/data/8910278317#CreativeWork/journal_of_invertebrate_pathology> <http://schema.org/description> "Internetausg." .
+<http://www.worldcat.org/title/-/oclc/612915154#PublicationEvent/san_diego_calif_elsevier_1965> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PublicationEvent> .
+<http://www.worldcat.org/title/-/oclc/612915154#PublicationEvent/san_diego_calif_elsevier_1965> <http://schema.org/location> <http://experiment.worldcat.org/entity/work/data/8910278317#Place/san_diego_calif> .
+<http://www.worldcat.org/title/-/oclc/612915154#PublicationEvent/san_diego_calif_elsevier_1965> <http://schema.org/organizer> <http://experiment.worldcat.org/entity/work/data/8910278317#Agent/elsevier> .
+<http://www.worldcat.org/title/-/oclc/612915154#PublicationEvent/san_diego_calif_elsevier_1965> <http://schema.org/startDate> "1965-" .

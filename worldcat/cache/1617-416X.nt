@@ -1,0 +1,47 @@
+<http://experiment.worldcat.org/entity/work/data/890699735#Agent/deutsche_gesellschaft_fur_mykologie> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bibliograph.net/Agent> .
+<http://experiment.worldcat.org/entity/work/data/890699735#Agent/deutsche_gesellschaft_fur_mykologie> <http://schema.org/name> "Deutsche Gesellschaft für Mykologie" .
+<http://worldcat.org/issn/1617-416X> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://worldcat.org/issn/1617-416X> <http://schema.org/name> "Mycological progress." .
+<http://worldcat.org/issn/1617-416X> <http://schema.org/issn> "1617-416X" .
+<http://worldcat.org/issn/1617-416X> <http://umbel.org/umbel#isLike> <http://worldcat.org/entity/work/id/890699735> .
+<http://experiment.worldcat.org/entity/work/data/890699735#Topic/micologia_revistes> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/890699735#Topic/micologia_revistes> <http://schema.org/name> "Micologia--Revistes" .
+<http://experiment.worldcat.org/entity/work/data/890699735#Topic/fongs_revistes> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/890699735#Topic/fongs_revistes> <http://schema.org/name> "Fongs--Revistes" .
+<http://experiment.worldcat.org/entity/work/data/890699735#Organization/deutsche_gesellschaft_fur_mykologie> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+<http://experiment.worldcat.org/entity/work/data/890699735#Organization/deutsche_gesellschaft_fur_mykologie> <http://schema.org/name> "Deutsche Gesellschaft für Mykologie." .
+<http://www.worldcat.org/oclc/1120639047> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/890699735#Topic/liquens_revistes> .
+<http://www.worldcat.org/oclc/1120639047> <http://schema.org/contributor> <http://experiment.worldcat.org/entity/work/data/890699735#Organization/deutsche_gesellschaft_fur_mykologie> .
+<http://www.worldcat.org/oclc/1120639047> <http://schema.org/publisher> <http://experiment.worldcat.org/entity/work/data/890699735#Agent/deutsche_gesellschaft_fur_mykologie> .
+<http://www.worldcat.org/oclc/1120639047> <http://schema.org/exampleOfWork> <http://worldcat.org/entity/work/id/890699735> .
+<http://www.worldcat.org/oclc/1120639047> <http://schema.org/publication> <http://www.worldcat.org/title/-/oclc/1120639047#PublicationEvent/munchen_deutsche_gesellschaft_fur_mykologie_2002> .
+<http://www.worldcat.org/oclc/1120639047> <http://purl.org/library/placeOfPublication> <http://id.loc.gov/vocabulary/countries/gw> .
+<http://www.worldcat.org/oclc/1120639047> <http://schema.org/workExample> <http://worldcat.org/issn/1617-416X> .
+<http://www.worldcat.org/oclc/1120639047> <http://schema.org/productID> "1120639047" .
+<http://www.worldcat.org/oclc/1120639047> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://www.worldcat.org/oclc/1120639047> <http://schema.org/datePublished> "2002/9999" .
+<http://www.worldcat.org/oclc/1120639047> <http://purl.org/library/oclcnum> "1120639047" .
+<http://www.worldcat.org/oclc/1120639047> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://www.worldcat.org/oclc/1120639047> <http://schema.org/datePublished> "2002/" .
+<http://www.worldcat.org/oclc/1120639047> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/890699735#Topic/fongs_revistes> .
+<http://www.worldcat.org/oclc/1120639047> <http://purl.org/library/placeOfPublication> <http://experiment.worldcat.org/entity/work/data/890699735#Place/munchen> .
+<http://www.worldcat.org/oclc/1120639047> <http://www.w3.org/2007/05/powder-s#describedby> <http://www.worldcat.org/title/-/oclc/1120639047> .
+<http://www.worldcat.org/oclc/1120639047> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/890699735#Topic/micologia_revistes> .
+<http://www.worldcat.org/oclc/1120639047> <http://schema.org/name> "Mycological progress." .
+<http://www.worldcat.org/oclc/1120639047> <http://schema.org/inLanguage> "en" .
+<http://www.worldcat.org/title/-/oclc/1120639047#PublicationEvent/munchen_deutsche_gesellschaft_fur_mykologie_2002> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PublicationEvent> .
+<http://www.worldcat.org/title/-/oclc/1120639047#PublicationEvent/munchen_deutsche_gesellschaft_fur_mykologie_2002> <http://schema.org/location> <http://experiment.worldcat.org/entity/work/data/890699735#Place/munchen> .
+<http://www.worldcat.org/title/-/oclc/1120639047#PublicationEvent/munchen_deutsche_gesellschaft_fur_mykologie_2002> <http://schema.org/organizer> <http://experiment.worldcat.org/entity/work/data/890699735#Agent/deutsche_gesellschaft_fur_mykologie> .
+<http://www.worldcat.org/title/-/oclc/1120639047#PublicationEvent/munchen_deutsche_gesellschaft_fur_mykologie_2002> <http://schema.org/startDate> "2002-" .
+<http://experiment.worldcat.org/entity/work/data/890699735#Place/munchen> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://experiment.worldcat.org/entity/work/data/890699735#Place/munchen> <http://schema.org/name> "München" .
+<http://experiment.worldcat.org/entity/work/data/890699735#Topic/liquens_revistes> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/890699735#Topic/liquens_revistes> <http://schema.org/name> "Líquens--Revistes" .
+<http://www.worldcat.org/title/-/oclc/1120639047> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#ContentTypeGenericResource> .
+<http://www.worldcat.org/title/-/oclc/1120639047> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#InformationResource> .
+<http://www.worldcat.org/title/-/oclc/1120639047> <http://schema.org/about> <http://www.worldcat.org/oclc/1120639047> .
+<http://www.worldcat.org/title/-/oclc/1120639047> <http://schema.org/dateModified> "2019-10-29" .
+<http://www.worldcat.org/title/-/oclc/1120639047> <http://rdfs.org/ns/void#inDataset> <http://purl.oclc.org/dataset/WorldCat> .
+<http://worldcat.org/entity/work/id/890699735> <http://umbel.org/umbel#isLike> <http://worldcat.org/issn/1617-416X> .
+<http://id.loc.gov/vocabulary/countries/gw> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://id.loc.gov/vocabulary/countries/gw> <http://purl.org/dc/terms/identifier> "gw" .

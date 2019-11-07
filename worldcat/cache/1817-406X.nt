@@ -1,0 +1,40 @@
+<http://ejournal.sinica.edu.tw/bbas/> <http://www.w3.org/2000/01/rdf-schema#comment> "kostenfrei" .
+<http://experiment.worldcat.org/entity/work/data/141196824#Organization/guoli_zhongyang_yanjiuyuan_nankang_taibei> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+<http://experiment.worldcat.org/entity/work/data/141196824#Organization/guoli_zhongyang_yanjiuyuan_nankang_taibei> <http://schema.org/name> "Guoli-Zhongyang-Yanjiuyuan (Nankang, Taibei)" .
+<http://experiment.worldcat.org/entity/work/data/141196824#Place/nangang_taiwan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://experiment.worldcat.org/entity/work/data/141196824#Place/nangang_taiwan> <http://schema.org/name> "Nangang, Taiwan" .
+<http://www.worldcat.org/title/-/oclc/239344047> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#ContentTypeGenericResource> .
+<http://www.worldcat.org/title/-/oclc/239344047> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#InformationResource> .
+<http://www.worldcat.org/title/-/oclc/239344047> <http://schema.org/about> <http://www.worldcat.org/oclc/239344047> .
+<http://www.worldcat.org/title/-/oclc/239344047> <http://schema.org/dateModified> "2019-10-09" .
+<http://www.worldcat.org/title/-/oclc/239344047> <http://rdfs.org/ns/void#inDataset> <http://purl.oclc.org/dataset/WorldCat> .
+<http://id.loc.gov/vocabulary/countries/ch> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://id.loc.gov/vocabulary/countries/ch> <http://purl.org/dc/terms/identifier> "ch" .
+<http://worldcat.org/entity/work/id/141196824> <http://umbel.org/umbel#isLike> <http://worldcat.org/issn/1817-406X> .
+<http://www.worldcat.org/oclc/239344047> <http://www.w3.org/2007/05/powder-s#describedby> <http://www.worldcat.org/title/-/oclc/239344047> .
+<http://www.worldcat.org/oclc/239344047> <http://schema.org/publication> <http://www.worldcat.org/title/-/oclc/239344047#PublicationEvent/nangang_taiwan_inst> .
+<http://www.worldcat.org/oclc/239344047> <http://schema.org/contributor> <http://experiment.worldcat.org/entity/work/data/141196824#Organization/guoli_zhongyang_yanjiuyuan_nankang_taibei> .
+<http://www.worldcat.org/oclc/239344047> <http://schema.org/inLanguage> "en" .
+<http://www.worldcat.org/oclc/239344047> <http://schema.org/datePublished> "2006/9999" .
+<http://www.worldcat.org/oclc/239344047> <http://schema.org/name> "Botanical studies an international journal" .
+<http://www.worldcat.org/oclc/239344047> <http://purl.org/library/placeOfPublication> <http://experiment.worldcat.org/entity/work/data/141196824#Place/nangang_taiwan> .
+<http://www.worldcat.org/oclc/239344047> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://www.worldcat.org/oclc/239344047> <http://purl.org/library/placeOfPublication> <http://id.loc.gov/vocabulary/countries/ch> .
+<http://www.worldcat.org/oclc/239344047> <http://schema.org/workExample> <http://worldcat.org/issn/1817-406X> .
+<http://www.worldcat.org/oclc/239344047> <http://schema.org/url> <http://www.bibliothek.uni-regensburg.de/ezeit/?2432110> .
+<http://www.worldcat.org/oclc/239344047> <http://schema.org/url> <http://ejournal.sinica.edu.tw/bbas/> .
+<http://www.worldcat.org/oclc/239344047> <http://umbel.org/umbel#isLike> <http://d-nb.info/989190986> .
+<http://www.worldcat.org/oclc/239344047> <http://schema.org/exampleOfWork> <http://worldcat.org/entity/work/id/141196824> .
+<http://www.worldcat.org/oclc/239344047> <http://schema.org/publisher> <http://experiment.worldcat.org/entity/work/data/141196824#Agent/inst> .
+<http://www.worldcat.org/oclc/239344047> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://www.worldcat.org/oclc/239344047> <http://schema.org/productID> "239344047" .
+<http://www.worldcat.org/oclc/239344047> <http://purl.org/library/oclcnum> "239344047" .
+<http://experiment.worldcat.org/entity/work/data/141196824#Agent/inst> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bibliograph.net/Agent> .
+<http://experiment.worldcat.org/entity/work/data/141196824#Agent/inst> <http://schema.org/name> "Inst." .
+<http://www.worldcat.org/title/-/oclc/239344047#PublicationEvent/nangang_taiwan_inst> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PublicationEvent> .
+<http://www.worldcat.org/title/-/oclc/239344047#PublicationEvent/nangang_taiwan_inst> <http://schema.org/location> <http://experiment.worldcat.org/entity/work/data/141196824#Place/nangang_taiwan> .
+<http://www.worldcat.org/title/-/oclc/239344047#PublicationEvent/nangang_taiwan_inst> <http://schema.org/organizer> <http://experiment.worldcat.org/entity/work/data/141196824#Agent/inst> .
+<http://worldcat.org/issn/1817-406X> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://worldcat.org/issn/1817-406X> <http://schema.org/name> "Botanical studies an international journal" .
+<http://worldcat.org/issn/1817-406X> <http://schema.org/issn> "1817-406X" .
+<http://worldcat.org/issn/1817-406X> <http://umbel.org/umbel#isLike> <http://worldcat.org/entity/work/id/141196824> .

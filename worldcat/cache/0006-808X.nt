@@ -1,0 +1,31 @@
+<http://www.worldcat.org/oclc/1096678676> <http://schema.org/publication> <http://www.worldcat.org/title/-/oclc/1096678676#PublicationEvent/s_l_springer_nature> .
+<http://www.worldcat.org/oclc/1096678676> <http://schema.org/inLanguage> "en" .
+<http://www.worldcat.org/oclc/1096678676> <http://schema.org/exampleOfWork> <http://worldcat.org/entity/work/id/4928148262> .
+<http://www.worldcat.org/oclc/1096678676> <http://schema.org/workExample> <http://worldcat.org/issn/0006-808X> .
+<http://www.worldcat.org/oclc/1096678676> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://www.worldcat.org/oclc/1096678676> <http://schema.org/productID> "1096678676" .
+<http://www.worldcat.org/oclc/1096678676> <http://purl.org/library/placeOfPublication> <http://experiment.worldcat.org/entity/work/data/4928148262#Place/s_l> .
+<http://www.worldcat.org/oclc/1096678676> <http://schema.org/name> "Botanical magazine Tokyo."@en .
+<http://www.worldcat.org/oclc/1096678676> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://www.worldcat.org/oclc/1096678676> <http://purl.org/library/oclcnum> "1096678676" .
+<http://www.worldcat.org/oclc/1096678676> <http://schema.org/publisher> <http://experiment.worldcat.org/entity/work/data/4928148262#Agent/springer_nature> .
+<http://www.worldcat.org/oclc/1096678676> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/MediaObject> .
+<http://www.worldcat.org/oclc/1096678676> <http://schema.org/datePublished> "2013/9999" .
+<http://www.worldcat.org/oclc/1096678676> <http://www.w3.org/2007/05/powder-s#describedby> <http://www.worldcat.org/title/-/oclc/1096678676> .
+<http://experiment.worldcat.org/entity/work/data/4928148262#Place/s_l> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://experiment.worldcat.org/entity/work/data/4928148262#Place/s_l> <http://schema.org/name> "S.l." .
+<http://www.worldcat.org/title/-/oclc/1096678676#PublicationEvent/s_l_springer_nature> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PublicationEvent> .
+<http://www.worldcat.org/title/-/oclc/1096678676#PublicationEvent/s_l_springer_nature> <http://schema.org/location> <http://experiment.worldcat.org/entity/work/data/4928148262#Place/s_l> .
+<http://www.worldcat.org/title/-/oclc/1096678676#PublicationEvent/s_l_springer_nature> <http://schema.org/organizer> <http://experiment.worldcat.org/entity/work/data/4928148262#Agent/springer_nature> .
+<http://experiment.worldcat.org/entity/work/data/4928148262#Agent/springer_nature> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bibliograph.net/Agent> .
+<http://experiment.worldcat.org/entity/work/data/4928148262#Agent/springer_nature> <http://schema.org/name> "Springer Nature." .
+<http://worldcat.org/issn/0006-808X> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://worldcat.org/issn/0006-808X> <http://schema.org/name> "Botanical magazine Tokyo."@en .
+<http://worldcat.org/issn/0006-808X> <http://schema.org/issn> "0006-808X" .
+<http://worldcat.org/issn/0006-808X> <http://umbel.org/umbel#isLike> <http://worldcat.org/entity/work/id/4928148262> .
+<http://worldcat.org/entity/work/id/4928148262> <http://umbel.org/umbel#isLike> <http://worldcat.org/issn/0006-808X> .
+<http://www.worldcat.org/title/-/oclc/1096678676> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#ContentTypeGenericResource> .
+<http://www.worldcat.org/title/-/oclc/1096678676> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#InformationResource> .
+<http://www.worldcat.org/title/-/oclc/1096678676> <http://schema.org/about> <http://www.worldcat.org/oclc/1096678676> .
+<http://www.worldcat.org/title/-/oclc/1096678676> <http://schema.org/dateModified> "2019-05-09" .
+<http://www.worldcat.org/title/-/oclc/1096678676> <http://rdfs.org/ns/void#inDataset> <http://purl.oclc.org/dataset/WorldCat> .

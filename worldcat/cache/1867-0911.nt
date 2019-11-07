@@ -1,0 +1,55 @@
+<http://experiment.worldcat.org/entity/work/data/261518209#Place/stuttgart> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://experiment.worldcat.org/entity/work/data/261518209#Place/stuttgart> <http://schema.org/name> "Stuttgart" .
+<http://viaf.org/viaf/131611559> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+<http://viaf.org/viaf/131611559> <http://schema.org/name> "Bundesforschungsinstitut für Kulturpflanzen. Julius-Kühn-Institut." .
+<http://worldcat.org/entity/work/id/261518209> <http://umbel.org/umbel#isLike> <http://worldcat.org/issn/1867-0911> .
+<http://id.loc.gov/authorities/subjects/sh85102884> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://id.loc.gov/authorities/subjects/sh85102884> <http://schema.org/name> "Plants, Protection of" .
+<http://experiment.worldcat.org/entity/work/data/261518209#Topic/plants_cultivated_germany> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/261518209#Topic/plants_cultivated_germany> <http://schema.org/name> "Plants, Cultivated--Germany" .
+<http://www.worldcat.org/title/-/oclc/768088038#PublicationEvent/stuttgart_ulmer> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PublicationEvent> .
+<http://www.worldcat.org/title/-/oclc/768088038#PublicationEvent/stuttgart_ulmer> <http://schema.org/location> <http://experiment.worldcat.org/entity/work/data/261518209#Place/stuttgart> .
+<http://www.worldcat.org/title/-/oclc/768088038#PublicationEvent/stuttgart_ulmer> <http://schema.org/organizer> <http://experiment.worldcat.org/entity/work/data/261518209#Agent/ulmer> .
+<http://www.worldcat.org/title/-/oclc/768088038> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#ContentTypeGenericResource> .
+<http://www.worldcat.org/title/-/oclc/768088038> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#InformationResource> .
+<http://www.worldcat.org/title/-/oclc/768088038> <http://schema.org/about> <http://www.worldcat.org/oclc/768088038> .
+<http://www.worldcat.org/title/-/oclc/768088038> <http://schema.org/dateModified> "2018-11-11" .
+<http://www.worldcat.org/title/-/oclc/768088038> <http://rdfs.org/ns/void#inDataset> <http://purl.oclc.org/dataset/WorldCat> .
+<http://experiment.worldcat.org/entity/work/data/261518209#Agent/ulmer> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bibliograph.net/Agent> .
+<http://experiment.worldcat.org/entity/work/data/261518209#Agent/ulmer> <http://schema.org/name> "Ulmer." .
+<http://www.worldcat.org/oclc/768088038> <http://schema.org/about> <http://id.loc.gov/authorities/subjects/sh85102884> .
+<http://www.worldcat.org/oclc/768088038> <http://purl.org/library/placeOfPublication> <http://experiment.worldcat.org/entity/work/data/261518209#Place/stuttgart> .
+<http://www.worldcat.org/oclc/768088038> <http://schema.org/contributor> <http://viaf.org/viaf/131611559> .
+<http://www.worldcat.org/oclc/768088038> <http://schema.org/inLanguage> "mul" .
+<http://www.worldcat.org/oclc/768088038> <http://schema.org/publisher> <http://experiment.worldcat.org/entity/work/data/261518209#Agent/ulmer> .
+<http://www.worldcat.org/oclc/768088038> <http://schema.org/workExample> <http://worldcat.org/issn/1867-0911> .
+<http://www.worldcat.org/oclc/768088038> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://www.worldcat.org/oclc/768088038> <http://purl.org/library/placeOfPublication> <http://id.loc.gov/vocabulary/countries/gw> .
+<http://www.worldcat.org/oclc/768088038> <http://schema.org/name> "Journal für Kulturpflanzen = Journal of cultivated plants." .
+<http://www.worldcat.org/oclc/768088038> <http://schema.org/productID> "768088038" .
+<http://www.worldcat.org/oclc/768088038> <http://schema.org/publication> <http://www.worldcat.org/title/-/oclc/768088038#PublicationEvent/stuttgart_ulmer> .
+<http://www.worldcat.org/oclc/768088038> <http://schema.org/genre> "Periodicals" .
+<http://www.worldcat.org/oclc/768088038> <http://schema.org/about> <http://id.loc.gov/authorities/subjects/sh85103025> .
+<http://www.worldcat.org/oclc/768088038> <http://schema.org/about> <http://id.worldcat.org/fast/1066149> .
+<http://www.worldcat.org/oclc/768088038> <http://www.w3.org/2007/05/powder-s#describedby> <http://www.worldcat.org/title/-/oclc/768088038> .
+<http://www.worldcat.org/oclc/768088038> <http://schema.org/exampleOfWork> <http://worldcat.org/entity/work/id/261518209> .
+<http://www.worldcat.org/oclc/768088038> <http://purl.org/library/oclcnum> "768088038" .
+<http://www.worldcat.org/oclc/768088038> <http://schema.org/about> <http://id.worldcat.org/fast/1066223> .
+<http://www.worldcat.org/oclc/768088038> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://www.worldcat.org/oclc/768088038> <http://schema.org/datePublished> "2009/9999" .
+<http://www.worldcat.org/oclc/768088038> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/261518209#Topic/plants_cultivated_germany> .
+<http://www.worldcat.org/oclc/768088038> <http://schema.org/about> <http://id.worldcat.org/fast/1210272> .
+<http://id.worldcat.org/fast/1210272> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://id.worldcat.org/fast/1210272> <http://schema.org/name> "Germany." .
+<http://worldcat.org/issn/1867-0911> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://worldcat.org/issn/1867-0911> <http://schema.org/name> "Journal für Kulturpflanzen = Journal of cultivated plants." .
+<http://worldcat.org/issn/1867-0911> <http://schema.org/issn> "1867-0911" .
+<http://worldcat.org/issn/1867-0911> <http://umbel.org/umbel#isLike> <http://worldcat.org/entity/work/id/261518209> .
+<http://id.loc.gov/vocabulary/countries/gw> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://id.loc.gov/vocabulary/countries/gw> <http://purl.org/dc/terms/identifier> "gw" .
+<http://id.loc.gov/authorities/subjects/sh85103025> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://id.loc.gov/authorities/subjects/sh85103025> <http://schema.org/name> "Plants, Cultivated" .
+<http://id.worldcat.org/fast/1066149> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://id.worldcat.org/fast/1066149> <http://schema.org/name> "Plants, Protection of" .
+<http://id.worldcat.org/fast/1066223> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://id.worldcat.org/fast/1066223> <http://schema.org/name> "Kulturpflanzen" .

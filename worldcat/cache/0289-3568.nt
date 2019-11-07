@@ -1,0 +1,52 @@
+<http://www.worldcat.org/oclc/639462341> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/MediaObject> .
+<http://www.worldcat.org/oclc/639462341> <http://schema.org/inLanguage> "en" .
+<http://www.worldcat.org/oclc/639462341> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/9163387747#Organization/kokuritsu_kagaku_hakubutsukan_japan_tsukuba_jikken_shokubutsuen> .
+<http://www.worldcat.org/oclc/639462341> <http://schema.org/about> <http://viaf.org/viaf/145466709> .
+<http://www.worldcat.org/oclc/639462341> <http://www.w3.org/2007/05/powder-s#describedby> <http://www.worldcat.org/title/-/oclc/639462341> .
+<http://www.worldcat.org/oclc/639462341> <http://schema.org/exampleOfWork> <http://worldcat.org/entity/work/id/9163387747> .
+<http://www.worldcat.org/oclc/639462341> <http://schema.org/about> <http://dewey.info/class/581.05/e19/> .
+<http://www.worldcat.org/oclc/639462341> <http://purl.org/library/oclcnum> "639462341" .
+<http://www.worldcat.org/oclc/639462341> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/9163387747#Topic/botany> .
+<http://www.worldcat.org/oclc/639462341> <http://schema.org/url> <http://mclink.library.mcgill.ca/sfx?url_ver=Z39.88-2004&ctx_ver=Z39.88-2004&ctx_enc=info:ofi/enc:UTF-8&rfr_id=info:sid/sfxit.com:opac_856&url_ctx_fmt=info:ofi/fmt:kev:mtx:ctx&sfx.ignore_date_threshold=1&rft.object_id=110978979778027&svc_val_fmt=info:ofi/fmt:kev:mtx:sch_svc&> .
+<http://www.worldcat.org/oclc/639462341> <http://schema.org/datePublished> "1983/" .
+<http://www.worldcat.org/oclc/639462341> <http://schema.org/name> "Tsukuba Jikken Shokubutsuen kenkyū hōkoku = Annals of the Tsukuba Botanical Garden."@en .
+<http://www.worldcat.org/oclc/639462341> <http://schema.org/contributor> <http://viaf.org/viaf/145466709> .
+<http://www.worldcat.org/oclc/639462341> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://www.worldcat.org/oclc/639462341> <http://purl.org/library/placeOfPublication> <http://experiment.worldcat.org/entity/work/data/9163387747#Place/ibaraki_ken_niihari_gun_sakura_mura> .
+<http://www.worldcat.org/oclc/639462341> <http://schema.org/about> <http://id.worldcat.org/fast/836869> .
+<http://www.worldcat.org/oclc/639462341> <http://schema.org/publisher> <http://experiment.worldcat.org/entity/work/data/9163387747#Agent/kokuritsu_kagaku_hakubutsukan_tsukuba_jikken_shokubutsuen> .
+<http://www.worldcat.org/oclc/639462341> <http://schema.org/productID> "639462341" .
+<http://www.worldcat.org/oclc/639462341> <http://schema.org/genre> "National government publication"@en .
+<http://www.worldcat.org/oclc/639462341> <http://schema.org/publication> <http://www.worldcat.org/title/-/oclc/639462341#PublicationEvent/ibaraki_ken_niihari_gun_sakura_mura_kokuritsu_kagaku_hakubutsukan_tsukuba_jikken_shokubutsuen_1983> .
+<http://www.worldcat.org/oclc/639462341> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://www.worldcat.org/oclc/639462341> <http://schema.org/genre> "Periodicals"@en .
+<http://www.worldcat.org/oclc/639462341> <http://purl.org/library/placeOfPublication> <http://id.loc.gov/vocabulary/countries/ja> .
+<http://www.worldcat.org/oclc/639462341> <http://schema.org/genre> "Government publication"@en .
+<http://www.worldcat.org/oclc/639462341> <http://schema.org/alternateName> "Annals of the Tsukuba Botanical Garden" .
+<http://www.worldcat.org/oclc/639462341> <http://schema.org/datePublished> "1983/2007" .
+<http://id.worldcat.org/fast/836869> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://id.worldcat.org/fast/836869> <http://schema.org/name> "Botany"@en .
+<http://www.worldcat.org/title/-/oclc/639462341#PublicationEvent/ibaraki_ken_niihari_gun_sakura_mura_kokuritsu_kagaku_hakubutsukan_tsukuba_jikken_shokubutsuen_1983> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PublicationEvent> .
+<http://www.worldcat.org/title/-/oclc/639462341#PublicationEvent/ibaraki_ken_niihari_gun_sakura_mura_kokuritsu_kagaku_hakubutsukan_tsukuba_jikken_shokubutsuen_1983> <http://schema.org/location> <http://experiment.worldcat.org/entity/work/data/9163387747#Place/ibaraki_ken_niihari_gun_sakura_mura> .
+<http://www.worldcat.org/title/-/oclc/639462341#PublicationEvent/ibaraki_ken_niihari_gun_sakura_mura_kokuritsu_kagaku_hakubutsukan_tsukuba_jikken_shokubutsuen_1983> <http://schema.org/organizer> <http://experiment.worldcat.org/entity/work/data/9163387747#Agent/kokuritsu_kagaku_hakubutsukan_tsukuba_jikken_shokubutsuen> .
+<http://www.worldcat.org/title/-/oclc/639462341#PublicationEvent/ibaraki_ken_niihari_gun_sakura_mura_kokuritsu_kagaku_hakubutsukan_tsukuba_jikken_shokubutsuen_1983> <http://schema.org/startDate> "1983-" .
+<http://www.worldcat.org/title/-/oclc/639462341> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#ContentTypeGenericResource> .
+<http://www.worldcat.org/title/-/oclc/639462341> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#InformationResource> .
+<http://www.worldcat.org/title/-/oclc/639462341> <http://schema.org/about> <http://www.worldcat.org/oclc/639462341> .
+<http://www.worldcat.org/title/-/oclc/639462341> <http://schema.org/dateModified> "2019-06-10" .
+<http://www.worldcat.org/title/-/oclc/639462341> <http://rdfs.org/ns/void#inDataset> <http://purl.oclc.org/dataset/WorldCat> .
+<http://experiment.worldcat.org/entity/work/data/9163387747#Organization/kokuritsu_kagaku_hakubutsukan_japan_tsukuba_jikken_shokubutsuen> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+<http://experiment.worldcat.org/entity/work/data/9163387747#Organization/kokuritsu_kagaku_hakubutsukan_japan_tsukuba_jikken_shokubutsuen> <http://schema.org/name> "Kokuritsu Kagaku Hakubutsukan (Japan). Tsukuba Jikken Shokubutsuen." .
+<http://dewey.info/class/581.05/e19/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/9163387747#Agent/kokuritsu_kagaku_hakubutsukan_tsukuba_jikken_shokubutsuen> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bibliograph.net/Agent> .
+<http://experiment.worldcat.org/entity/work/data/9163387747#Agent/kokuritsu_kagaku_hakubutsukan_tsukuba_jikken_shokubutsuen> <http://schema.org/name> "Kokuritsu Kagaku Hakubutsukan Tsukuba Jikken Shokubutsuen" .
+<http://id.loc.gov/vocabulary/countries/ja> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://id.loc.gov/vocabulary/countries/ja> <http://purl.org/dc/terms/identifier> "ja" .
+<http://experiment.worldcat.org/entity/work/data/9163387747#Place/ibaraki_ken_niihari_gun_sakura_mura> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://experiment.worldcat.org/entity/work/data/9163387747#Place/ibaraki_ken_niihari_gun_sakura_mura> <http://schema.org/name> "Ibaraki-ken Niihari-gun Sakura-mura" .
+<http://experiment.worldcat.org/entity/work/data/9163387747#Topic/botany> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/9163387747#Topic/botany> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://id.loc.gov/authorities/subjects/sh2007102112> .
+<http://experiment.worldcat.org/entity/work/data/9163387747#Topic/botany> <http://schema.org/name> "Botany"@en .
+<http://viaf.org/viaf/145466709> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+<http://viaf.org/viaf/145466709> <http://schema.org/name> "Kokuritsu Kagaku Hakubutsukan (Japan). Tsukuba Jikken Shokubutsuen" .
+<http://viaf.org/viaf/145466709> <http://schema.org/name> "Kokuritsu Kagaku Hakubutsukan (Japan). Tsukuba Jikken Shokubutsuen." .

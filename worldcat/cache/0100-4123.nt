@@ -1,0 +1,60 @@
+<http://id.worldcat.org/fast/916106> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://id.worldcat.org/fast/916106> <http://schema.org/name> "Ethnology" .
+<http://id.worldcat.org/fast/1206830> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://id.worldcat.org/fast/1206830> <http://schema.org/name> "Brazil." .
+<http://id.worldcat.org/fast/1034268> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://id.worldcat.org/fast/1034268> <http://schema.org/name> "Natural history" .
+<http://www.worldcat.org/title/-/oclc/16936219#PublicationEvent/para_brazil_estabelecimento_graphice_de_c_wiegandt_1904_1914> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PublicationEvent> .
+<http://www.worldcat.org/title/-/oclc/16936219#PublicationEvent/para_brazil_estabelecimento_graphice_de_c_wiegandt_1904_1914> <http://schema.org/location> <http://experiment.worldcat.org/entity/work/data/3857362632#Place/para_brazil> .
+<http://www.worldcat.org/title/-/oclc/16936219#PublicationEvent/para_brazil_estabelecimento_graphice_de_c_wiegandt_1904_1914> <http://schema.org/organizer> <http://experiment.worldcat.org/entity/work/data/3857362632#Agent/estabelecimento_graphice_de_c_wiegandt> .
+<http://www.worldcat.org/title/-/oclc/16936219#PublicationEvent/para_brazil_estabelecimento_graphice_de_c_wiegandt_1904_1914> <http://schema.org/startDate> "1904-1914" .
+<http://id.loc.gov/authorities/subjects/sh2008108315> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://id.loc.gov/authorities/subjects/sh2008108315> <http://schema.org/name> "Natural history--Brazil" .
+<http://www.worldcat.org/oclc/646989660> <http://schema.org/isSimilarTo> <http://www.worldcat.org/oclc/16936219> .
+<http://www.worldcat.org/oclc/646989660> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://www.worldcat.org/oclc/646989660> <http://www.w3.org/2000/01/rdf-schema#label> "Boletim do Museu Goeldi (Museu Paraense) de Historia Natural e Ethnographia" .
+<http://www.worldcat.org/oclc/646989660> <http://schema.org/description> "Online version:" .
+<http://www.worldcat.org/oclc/16936219> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://www.worldcat.org/oclc/16936219> <http://purl.org/library/oclcnum> "16936219" .
+<http://www.worldcat.org/oclc/16936219> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/3857362632#Topic/ethnology_brazil> .
+<http://www.worldcat.org/oclc/16936219> <http://schema.org/inLanguage> "pt" .
+<http://www.worldcat.org/oclc/16936219> <http://purl.org/library/placeOfPublication> <http://id.loc.gov/vocabulary/countries/bl> .
+<http://www.worldcat.org/oclc/16936219> <http://schema.org/datePublished> "1904/1914" .
+<http://www.worldcat.org/oclc/16936219> <http://schema.org/isSimilarTo> <http://www.worldcat.org/oclc/646989660> .
+<http://www.worldcat.org/oclc/16936219> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://www.worldcat.org/oclc/16936219> <http://schema.org/productID> "16936219" .
+<http://www.worldcat.org/oclc/16936219> <http://schema.org/about> <http://id.loc.gov/authorities/subjects/sh2008108315> .
+<http://www.worldcat.org/oclc/16936219> <http://schema.org/about> <http://id.worldcat.org/fast/1206830> .
+<http://www.worldcat.org/oclc/16936219> <http://schema.org/exampleOfWork> <http://worldcat.org/entity/work/id/3857362632> .
+<http://www.worldcat.org/oclc/16936219> <http://schema.org/publication> <http://www.worldcat.org/title/-/oclc/16936219#PublicationEvent/para_brazil_estabelecimento_graphice_de_c_wiegandt_1904_1914> .
+<http://www.worldcat.org/oclc/16936219> <http://schema.org/publisher> <http://experiment.worldcat.org/entity/work/data/3857362632#Agent/estabelecimento_graphice_de_c_wiegandt> .
+<http://www.worldcat.org/oclc/16936219> <http://schema.org/about> <http://id.worldcat.org/fast/1034268> .
+<http://www.worldcat.org/oclc/16936219> <http://schema.org/name> "Boletim do Museu Goeldi (Museu Paraense) de Historia Natural e Ethnographia." .
+<http://www.worldcat.org/oclc/16936219> <http://purl.org/library/placeOfPublication> <http://experiment.worldcat.org/entity/work/data/3857362632#Place/para_brazil> .
+<http://www.worldcat.org/oclc/16936219> <http://schema.org/about> <http://id.worldcat.org/fast/916106> .
+<http://www.worldcat.org/oclc/16936219> <http://schema.org/datePublished> "1904/1912" .
+<http://www.worldcat.org/oclc/16936219> <http://schema.org/workExample> <http://worldcat.org/issn/0100-4123> .
+<http://www.worldcat.org/oclc/16936219> <http://www.w3.org/2007/05/powder-s#describedby> <http://www.worldcat.org/title/-/oclc/16936219> .
+<http://www.worldcat.org/oclc/16936219> <http://schema.org/contributor> <http://experiment.worldcat.org/entity/work/data/3857362632#Organization/museu_goeldi> .
+<http://www.worldcat.org/oclc/16936219> <http://schema.org/genre> "Periodicals" .
+<http://experiment.worldcat.org/entity/work/data/3857362632#Place/para_brazil> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://experiment.worldcat.org/entity/work/data/3857362632#Place/para_brazil> <http://schema.org/name> "Pará, Brazil" .
+<http://worldcat.org/issn/0100-4123> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://worldcat.org/issn/0100-4123> <http://schema.org/name> "Boletim do Museu Goeldi (Museu Paraense) de Historia Natural e Ethnographia." .
+<http://worldcat.org/issn/0100-4123> <http://schema.org/issn> "0100-4123" .
+<http://worldcat.org/issn/0100-4123> <http://umbel.org/umbel#isLike> <http://worldcat.org/entity/work/id/3857362632> .
+<http://id.loc.gov/vocabulary/countries/bl> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://id.loc.gov/vocabulary/countries/bl> <http://purl.org/dc/terms/identifier> "bl" .
+<http://worldcat.org/entity/work/id/3857362632> <http://umbel.org/umbel#isLike> <http://worldcat.org/issn/0100-4123> .
+<http://experiment.worldcat.org/entity/work/data/3857362632#Organization/museu_goeldi> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+<http://experiment.worldcat.org/entity/work/data/3857362632#Organization/museu_goeldi> <http://schema.org/name> "Museu Goeldi," .
+<http://www.worldcat.org/title/-/oclc/16936219> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#ContentTypeGenericResource> .
+<http://www.worldcat.org/title/-/oclc/16936219> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#InformationResource> .
+<http://www.worldcat.org/title/-/oclc/16936219> <http://schema.org/about> <http://www.worldcat.org/oclc/16936219> .
+<http://www.worldcat.org/title/-/oclc/16936219> <http://schema.org/dateModified> "2019-03-06" .
+<http://www.worldcat.org/title/-/oclc/16936219> <http://rdfs.org/ns/void#inDataset> <http://purl.oclc.org/dataset/WorldCat> .
+<http://experiment.worldcat.org/entity/work/data/3857362632#Agent/estabelecimento_graphice_de_c_wiegandt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bibliograph.net/Agent> .
+<http://experiment.worldcat.org/entity/work/data/3857362632#Agent/estabelecimento_graphice_de_c_wiegandt> <http://schema.org/name> "Estabelecimento Graphice de C. Wiegandt" .
+<http://experiment.worldcat.org/entity/work/data/3857362632#Topic/ethnology_brazil> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/3857362632#Topic/ethnology_brazil> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://id.loc.gov/authorities/subjects/sh2009125136> .
+<http://experiment.worldcat.org/entity/work/data/3857362632#Topic/ethnology_brazil> <http://schema.org/name> "Ethnology--Brazil" .

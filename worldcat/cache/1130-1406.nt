@@ -1,0 +1,50 @@
+<http://worldcat.org/issn/1130-1406> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://worldcat.org/issn/1130-1406> <http://schema.org/name> "Revista iberoamericana de micología" .
+<http://worldcat.org/issn/1130-1406> <http://schema.org/issn> "1130-1406" .
+<http://worldcat.org/issn/1130-1406> <http://umbel.org/umbel#isLike> <http://worldcat.org/entity/work/id/503367791> .
+<http://worldcat.org/entity/work/id/503367791> <http://umbel.org/umbel#isLike> <http://worldcat.org/issn/1130-1406> .
+<http://experiment.worldcat.org/entity/work/data/503367791#Organization/sociedade_brasileira_de_micologia> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+<http://experiment.worldcat.org/entity/work/data/503367791#Organization/sociedade_brasileira_de_micologia> <http://schema.org/name> "Sociedade brasileira de micologia." .
+<http://experiment.worldcat.org/entity/work/data/503367791#Place/barcelona> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://experiment.worldcat.org/entity/work/data/503367791#Place/barcelona> <http://schema.org/name> "Barcelona" .
+<http://experiment.worldcat.org/entity/work/data/503367791#Topic/micologia_publicaciones_periodicas> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/503367791#Topic/micologia_publicaciones_periodicas> <http://schema.org/name> "Micología--Publicaciones periódicas" .
+<http://experiment.worldcat.org/entity/work/data/503367791#Topic/mycology_periodicals> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/503367791#Topic/mycology_periodicals> <http://schema.org/name> "Mycology--Periodicals" .
+<http://www.worldcat.org/title/-/oclc/1026592829#PublicationEvent/barcelona_asociacion_espanola_de_micologia_1990> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PublicationEvent> .
+<http://www.worldcat.org/title/-/oclc/1026592829#PublicationEvent/barcelona_asociacion_espanola_de_micologia_1990> <http://schema.org/location> <http://experiment.worldcat.org/entity/work/data/503367791#Place/barcelona> .
+<http://www.worldcat.org/title/-/oclc/1026592829#PublicationEvent/barcelona_asociacion_espanola_de_micologia_1990> <http://schema.org/organizer> <http://experiment.worldcat.org/entity/work/data/503367791#Agent/asociacion_espanola_de_micologia> .
+<http://www.worldcat.org/title/-/oclc/1026592829#PublicationEvent/barcelona_asociacion_espanola_de_micologia_1990> <http://schema.org/startDate> "1990-" .
+<http://www.worldcat.org/title/-/oclc/1026592829> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#ContentTypeGenericResource> .
+<http://www.worldcat.org/title/-/oclc/1026592829> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#InformationResource> .
+<http://www.worldcat.org/title/-/oclc/1026592829> <http://schema.org/about> <http://www.worldcat.org/oclc/1026592829> .
+<http://www.worldcat.org/title/-/oclc/1026592829> <http://schema.org/dateModified> "2019-02-01" .
+<http://www.worldcat.org/title/-/oclc/1026592829> <http://rdfs.org/ns/void#inDataset> <http://purl.oclc.org/dataset/WorldCat> .
+<http://experiment.worldcat.org/entity/work/data/503367791#Agent/asociacion_espanola_de_micologia> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bibliograph.net/Agent> .
+<http://experiment.worldcat.org/entity/work/data/503367791#Agent/asociacion_espanola_de_micologia> <http://schema.org/name> "Asociación española de micología" .
+<http://www.worldcat.org/oclc/1026592829> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://www.worldcat.org/oclc/1026592829> <http://purl.org/library/oclcnum> "1026592829" .
+<http://www.worldcat.org/oclc/1026592829> <http://schema.org/workExample> <http://worldcat.org/issn/1130-1406> .
+<http://www.worldcat.org/oclc/1026592829> <http://schema.org/publication> <http://www.worldcat.org/title/-/oclc/1026592829#PublicationEvent/barcelona_asociacion_espanola_de_micologia_1990> .
+<http://www.worldcat.org/oclc/1026592829> <http://www.w3.org/2007/05/powder-s#describedby> <http://www.worldcat.org/title/-/oclc/1026592829> .
+<http://www.worldcat.org/oclc/1026592829> <http://schema.org/contributor> <http://experiment.worldcat.org/entity/work/data/503367791#Organization/sociedade_brasileira_de_micologia> .
+<http://www.worldcat.org/oclc/1026592829> <http://schema.org/datePublished> "1990/" .
+<http://www.worldcat.org/oclc/1026592829> <http://schema.org/publisher> <http://experiment.worldcat.org/entity/work/data/503367791#Agent/asociacion_espanola_de_micologia> .
+<http://www.worldcat.org/oclc/1026592829> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/503367791#Topic/mycology_periodicals> .
+<http://www.worldcat.org/oclc/1026592829> <http://schema.org/alternateName> "RIAM" .
+<http://www.worldcat.org/oclc/1026592829> <http://schema.org/alternateName> "Rev. iberoam. micol." .
+<http://www.worldcat.org/oclc/1026592829> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/503367791#Topic/micologia_publicaciones_periodicas> .
+<http://www.worldcat.org/oclc/1026592829> <http://schema.org/productID> "1026592829" .
+<http://www.worldcat.org/oclc/1026592829> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://www.worldcat.org/oclc/1026592829> <http://schema.org/contributor> <http://experiment.worldcat.org/entity/work/data/503367791#Organization/asociacion_espanola_de_micologia> .
+<http://www.worldcat.org/oclc/1026592829> <http://schema.org/exampleOfWork> <http://worldcat.org/entity/work/id/503367791> .
+<http://www.worldcat.org/oclc/1026592829> <http://schema.org/inLanguage> "en" .
+<http://www.worldcat.org/oclc/1026592829> <http://schema.org/alternateName> "Iberoamericana de micología." .
+<http://www.worldcat.org/oclc/1026592829> <http://schema.org/datePublished> "1990/9999" .
+<http://www.worldcat.org/oclc/1026592829> <http://schema.org/name> "Revista iberoamericana de micología" .
+<http://www.worldcat.org/oclc/1026592829> <http://purl.org/library/placeOfPublication> <http://experiment.worldcat.org/entity/work/data/503367791#Place/barcelona> .
+<http://www.worldcat.org/oclc/1026592829> <http://purl.org/library/placeOfPublication> <http://id.loc.gov/vocabulary/countries/sp> .
+<http://id.loc.gov/vocabulary/countries/sp> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://id.loc.gov/vocabulary/countries/sp> <http://purl.org/dc/terms/identifier> "sp" .
+<http://experiment.worldcat.org/entity/work/data/503367791#Organization/asociacion_espanola_de_micologia> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+<http://experiment.worldcat.org/entity/work/data/503367791#Organization/asociacion_espanola_de_micologia> <http://schema.org/name> "Asociación española de micología." .

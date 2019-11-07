@@ -1,0 +1,38 @@
+<http://experiment.worldcat.org/entity/work/data/22314031#Agent/centrale_s_a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bibliograph.net/Agent> .
+<http://experiment.worldcat.org/entity/work/data/22314031#Agent/centrale_s_a> <http://schema.org/name> "Centrale S.A." .
+<http://link.libris.kb.se/sfxbibsam?url_ver=Z39.88-2004&ctx_ver=Z39.88-2004&ctx_enc=info:ofi/enc:UTF-8&rfr_id=info:sid/sfxit.com:opac_856&url_ctx_fmt=info:ofi/fmt:kev:mtx:ctx&sfx.ignore_date_threshold=1&rft.object_id=110985822454618&svc_val_fmt=info:ofi/fmt:kev:mtx:sch_svc&svc.fulltext=yes&> <http://www.w3.org/2000/01/rdf-schema#comment> "Fritt tillgänglig via:" .
+<http://link.libris.kb.se/sfxbibsam?url_ver=Z39.88-2004&ctx_ver=Z39.88-2004&ctx_enc=info:ofi/enc:UTF-8&rfr_id=info:sid/sfxit.com:opac_856&url_ctx_fmt=info:ofi/fmt:kev:mtx:ctx&sfx.ignore_date_threshold=1&rft.object_id=110985822454618&svc_val_fmt=info:ofi/fmt:kev:mtx:sch_svc&svc.fulltext=yes&> <http://www.w3.org/2000/01/rdf-schema#comment> "Retrodigitized Journals (SEALS):Full Text" .
+<http://www.worldcat.org/title/-/oclc/939168698#PublicationEvent/neuchatel_centrale_s_a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PublicationEvent> .
+<http://www.worldcat.org/title/-/oclc/939168698#PublicationEvent/neuchatel_centrale_s_a> <http://schema.org/location> <http://experiment.worldcat.org/entity/work/data/22314031#Place/neuchatel> .
+<http://www.worldcat.org/title/-/oclc/939168698#PublicationEvent/neuchatel_centrale_s_a> <http://schema.org/organizer> <http://experiment.worldcat.org/entity/work/data/22314031#Agent/centrale_s_a> .
+<http://experiment.worldcat.org/entity/work/data/22314031#Place/neuchatel> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://experiment.worldcat.org/entity/work/data/22314031#Place/neuchatel> <http://schema.org/name> "Neuchatel" .
+<http://worldcat.org/entity/work/data/22314031#CreativeWork/bulletin_de_la_societe_neuchateloise_des_sciences_naturelles_print> <http://schema.org/isSimilarTo> <http://www.worldcat.org/oclc/939168698> .
+<http://worldcat.org/entity/work/data/22314031#CreativeWork/bulletin_de_la_societe_neuchateloise_des_sciences_naturelles_print> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://worldcat.org/entity/work/data/22314031#CreativeWork/bulletin_de_la_societe_neuchateloise_des_sciences_naturelles_print> <http://www.w3.org/2000/01/rdf-schema#label> "Bulletin de la Société Neuchâteloise des Sciences Naturelles (Print)" .
+<http://www.worldcat.org/oclc/939168698> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://www.worldcat.org/oclc/939168698> <http://purl.org/library/placeOfPublication> <http://experiment.worldcat.org/entity/work/data/22314031#Place/neuchatel> .
+<http://www.worldcat.org/oclc/939168698> <http://www.w3.org/2007/05/powder-s#describedby> <http://www.worldcat.org/title/-/oclc/939168698> .
+<http://www.worldcat.org/oclc/939168698> <http://schema.org/name> "Bulletin de la Société Neuchâteloise des Sciences Naturelles" .
+<http://www.worldcat.org/oclc/939168698> <http://schema.org/productID> "939168698" .
+<http://www.worldcat.org/oclc/939168698> <http://schema.org/publication> <http://www.worldcat.org/title/-/oclc/939168698#PublicationEvent/neuchatel_centrale_s_a> .
+<http://www.worldcat.org/oclc/939168698> <http://schema.org/isSimilarTo> <http://worldcat.org/entity/work/data/22314031#CreativeWork/bulletin_de_la_societe_neuchateloise_des_sciences_naturelles_print> .
+<http://www.worldcat.org/oclc/939168698> <http://purl.org/library/oclcnum> "939168698" .
+<http://www.worldcat.org/oclc/939168698> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/MediaObject> .
+<http://www.worldcat.org/oclc/939168698> <http://schema.org/url> <http://link.libris.kb.se/sfxbibsam?url_ver=Z39.88-2004&ctx_ver=Z39.88-2004&ctx_enc=info:ofi/enc:UTF-8&rfr_id=info:sid/sfxit.com:opac_856&url_ctx_fmt=info:ofi/fmt:kev:mtx:ctx&sfx.ignore_date_threshold=1&rft.object_id=110985822454618&svc_val_fmt=info:ofi/fmt:kev:mtx:sch_svc&svc.fulltext=yes&> .
+<http://www.worldcat.org/oclc/939168698> <http://purl.org/library/placeOfPublication> <http://id.loc.gov/vocabulary/countries/sz> .
+<http://www.worldcat.org/oclc/939168698> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://www.worldcat.org/oclc/939168698> <http://schema.org/publisher> <http://experiment.worldcat.org/entity/work/data/22314031#Agent/centrale_s_a> .
+<http://www.worldcat.org/oclc/939168698> <http://schema.org/datePublished> "1897/9999" .
+<http://www.worldcat.org/oclc/939168698> <http://schema.org/inLanguage> "en" .
+<http://www.worldcat.org/oclc/939168698> <http://schema.org/exampleOfWork> <http://worldcat.org/entity/work/id/22314031> .
+<http://www.worldcat.org/oclc/939168698> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/22314031#Topic/life_sciences_general_and_others> .
+<http://id.loc.gov/vocabulary/countries/sz> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://id.loc.gov/vocabulary/countries/sz> <http://purl.org/dc/terms/identifier> "sz" .
+<http://www.worldcat.org/title/-/oclc/939168698> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#ContentTypeGenericResource> .
+<http://www.worldcat.org/title/-/oclc/939168698> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#InformationResource> .
+<http://www.worldcat.org/title/-/oclc/939168698> <http://schema.org/about> <http://www.worldcat.org/oclc/939168698> .
+<http://www.worldcat.org/title/-/oclc/939168698> <http://schema.org/dateModified> "2019-02-09" .
+<http://www.worldcat.org/title/-/oclc/939168698> <http://rdfs.org/ns/void#inDataset> <http://purl.oclc.org/dataset/WorldCat> .
+<http://experiment.worldcat.org/entity/work/data/22314031#Topic/life_sciences_general_and_others> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/22314031#Topic/life_sciences_general_and_others> <http://schema.org/name> "Life Sciences--General and Others" .

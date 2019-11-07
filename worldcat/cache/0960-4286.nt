@@ -1,0 +1,38 @@
+<http://worldcat.org/entity/work/id/23491334> <http://umbel.org/umbel#isLike> <http://worldcat.org/issn/1474-0036> .
+<http://experiment.worldcat.org/entity/work/data/23491334#Place/cambridge> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://experiment.worldcat.org/entity/work/data/23491334#Place/cambridge> <http://schema.org/name> "Cambridge" .
+<http://worldcat.org/issn/1474-0036> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://worldcat.org/issn/1474-0036> <http://schema.org/name> "Edinburgh journal of botany" .
+<http://worldcat.org/issn/1474-0036> <http://schema.org/issn> "1474-0036" .
+<http://worldcat.org/issn/1474-0036> <http://umbel.org/umbel#isLike> <http://worldcat.org/entity/work/id/23491334> .
+<http://www.worldcat.org/title/-/oclc/924717489#PublicationEvent/cambridge_cambridge_university_press> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PublicationEvent> .
+<http://www.worldcat.org/title/-/oclc/924717489#PublicationEvent/cambridge_cambridge_university_press> <http://schema.org/location> <http://experiment.worldcat.org/entity/work/data/23491334#Place/cambridge> .
+<http://www.worldcat.org/title/-/oclc/924717489#PublicationEvent/cambridge_cambridge_university_press> <http://schema.org/organizer> <http://experiment.worldcat.org/entity/work/data/23491334#Agent/cambridge_university_press> .
+<http://id.loc.gov/vocabulary/countries/enk> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://id.loc.gov/vocabulary/countries/enk> <http://purl.org/dc/terms/identifier> "enk" .
+<http://experiment.worldcat.org/entity/work/data/23491334#Agent/cambridge_university_press> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bibliograph.net/Agent> .
+<http://experiment.worldcat.org/entity/work/data/23491334#Agent/cambridge_university_press> <http://schema.org/name> "Cambridge University Press." .
+<http://www.worldcat.org/oclc/924717489> <http://schema.org/name> "Edinburgh journal of botany" .
+<http://www.worldcat.org/oclc/924717489> <http://schema.org/productID> "924717489" .
+<http://www.worldcat.org/oclc/924717489> <http://schema.org/inLanguage> "en" .
+<http://www.worldcat.org/oclc/924717489> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/MediaObject> .
+<http://www.worldcat.org/oclc/924717489> <http://www.w3.org/2007/05/powder-s#describedby> <http://www.worldcat.org/title/-/oclc/924717489> .
+<http://www.worldcat.org/oclc/924717489> <http://purl.org/library/placeOfPublication> <http://id.loc.gov/vocabulary/countries/enk> .
+<http://www.worldcat.org/oclc/924717489> <http://schema.org/exampleOfWork> <http://worldcat.org/entity/work/id/23491334> .
+<http://www.worldcat.org/oclc/924717489> <http://schema.org/publication> <http://www.worldcat.org/title/-/oclc/924717489#PublicationEvent/cambridge_cambridge_university_press> .
+<http://www.worldcat.org/oclc/924717489> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://www.worldcat.org/oclc/924717489> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://www.worldcat.org/oclc/924717489> <http://purl.org/library/oclcnum> "924717489" .
+<http://www.worldcat.org/oclc/924717489> <http://schema.org/publisher> <http://experiment.worldcat.org/entity/work/data/23491334#Agent/cambridge_university_press> .
+<http://www.worldcat.org/oclc/924717489> <http://purl.org/library/placeOfPublication> <http://experiment.worldcat.org/entity/work/data/23491334#Place/cambridge> .
+<http://www.worldcat.org/oclc/924717489> <http://schema.org/datePublished> "2000/9999" .
+<http://www.worldcat.org/oclc/924717489> <http://schema.org/isSimilarTo> <http://worldcat.org/entity/work/data/23491334#CreativeWork/edinburgh_journal_of_botany_print> .
+<http://www.worldcat.org/oclc/924717489> <http://schema.org/workExample> <http://worldcat.org/issn/1474-0036> .
+<http://www.worldcat.org/title/-/oclc/924717489> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#ContentTypeGenericResource> .
+<http://www.worldcat.org/title/-/oclc/924717489> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#InformationResource> .
+<http://www.worldcat.org/title/-/oclc/924717489> <http://schema.org/about> <http://www.worldcat.org/oclc/924717489> .
+<http://www.worldcat.org/title/-/oclc/924717489> <http://schema.org/dateModified> "2019-02-09" .
+<http://www.worldcat.org/title/-/oclc/924717489> <http://rdfs.org/ns/void#inDataset> <http://purl.oclc.org/dataset/WorldCat> .
+<http://worldcat.org/entity/work/data/23491334#CreativeWork/edinburgh_journal_of_botany_print> <http://schema.org/isSimilarTo> <http://www.worldcat.org/oclc/924717489> .
+<http://worldcat.org/entity/work/data/23491334#CreativeWork/edinburgh_journal_of_botany_print> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://worldcat.org/entity/work/data/23491334#CreativeWork/edinburgh_journal_of_botany_print> <http://www.w3.org/2000/01/rdf-schema#label> "Edinburgh journal of botany (Print)" .

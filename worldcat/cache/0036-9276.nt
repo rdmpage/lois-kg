@@ -1,0 +1,55 @@
+<http://dewey.info/class/551/e20/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://www.worldcat.org/title/-/oclc/916515040#PublicationEvent/london_geological_society_2013> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PublicationEvent> .
+<http://www.worldcat.org/title/-/oclc/916515040#PublicationEvent/london_geological_society_2013> <http://schema.org/location> <http://dbpedia.org/resource/London> .
+<http://www.worldcat.org/title/-/oclc/916515040#PublicationEvent/london_geological_society_2013> <http://schema.org/organizer> <http://experiment.worldcat.org/entity/work/data/2553940#Agent/geological_society> .
+<http://www.worldcat.org/title/-/oclc/916515040#PublicationEvent/london_geological_society_2013> <http://schema.org/startDate> "2013-" .
+<http://worldcat.org/issn/2041-4951> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://worldcat.org/issn/2041-4951> <http://schema.org/name> "Scottish Journal of Geology" .
+<http://worldcat.org/issn/2041-4951> <http://schema.org/issn> "2041-4951" .
+<http://worldcat.org/issn/2041-4951> <http://umbel.org/umbel#isLike> <http://worldcat.org/entity/work/id/2553940> .
+<http://worldcat.org/issn/0036-9276> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://worldcat.org/issn/0036-9276> <http://schema.org/name> "Scottish Journal of Geology" .
+<http://worldcat.org/issn/0036-9276> <http://schema.org/issn> "0036-9276" .
+<http://worldcat.org/issn/0036-9276> <http://umbel.org/umbel#isLike> <http://worldcat.org/entity/work/id/2553940> .
+<http://id.loc.gov/vocabulary/countries/enk> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://id.loc.gov/vocabulary/countries/enk> <http://purl.org/dc/terms/identifier> "enk" .
+<http://experiment.worldcat.org/entity/work/data/2553940#Topic/ciencias_de_la_tierra> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/2553940#Topic/ciencias_de_la_tierra> <http://schema.org/name> "Ciencias de la tierra" .
+<http://experiment.worldcat.org/entity/work/data/2553940#Agent/geological_society> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bibliograph.net/Agent> .
+<http://experiment.worldcat.org/entity/work/data/2553940#Agent/geological_society> <http://schema.org/name> "Geological Society" .
+<http://www.worldcat.org/oclc/916515040> <http://purl.org/library/placeOfPublication> <http://id.loc.gov/vocabulary/countries/enk> .
+<http://www.worldcat.org/oclc/916515040> <http://schema.org/datePublished> "2013/9999" .
+<http://www.worldcat.org/oclc/916515040> <http://schema.org/contributor> <http://experiment.worldcat.org/entity/work/data/2553940#Organization/geological_society_of_london> .
+<http://www.worldcat.org/oclc/916515040> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://www.worldcat.org/oclc/916515040> <http://schema.org/publication> <http://www.worldcat.org/title/-/oclc/916515040#PublicationEvent/london_geological_society_2013> .
+<http://www.worldcat.org/oclc/916515040> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/MediaObject> .
+<http://www.worldcat.org/oclc/916515040> <http://schema.org/workExample> <http://worldcat.org/issn/0036-9276> .
+<http://www.worldcat.org/oclc/916515040> <http://schema.org/exampleOfWork> <http://worldcat.org/entity/work/id/2553940> .
+<http://www.worldcat.org/oclc/916515040> <http://schema.org/alternateName> "SJG" .
+<http://www.worldcat.org/oclc/916515040> <http://schema.org/workExample> <http://worldcat.org/issn/2041-4951> .
+<http://www.worldcat.org/oclc/916515040> <http://purl.org/library/placeOfPublication> <http://dbpedia.org/resource/London> .
+<http://www.worldcat.org/oclc/916515040> <http://schema.org/name> "Scottish Journal of Geology" .
+<http://www.worldcat.org/oclc/916515040> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/2553940#Topic/geologia> .
+<http://www.worldcat.org/oclc/916515040> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/2553940#Topic/ciencias_de_la_tierra> .
+<http://www.worldcat.org/oclc/916515040> <http://schema.org/about> <http://dewey.info/class/551/e20/> .
+<http://www.worldcat.org/oclc/916515040> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://www.worldcat.org/oclc/916515040> <http://schema.org/datePublished> "2013/" .
+<http://www.worldcat.org/oclc/916515040> <http://schema.org/inLanguage> "en" .
+<http://www.worldcat.org/oclc/916515040> <http://schema.org/productID> "916515040" .
+<http://www.worldcat.org/oclc/916515040> <http://purl.org/library/oclcnum> "916515040" .
+<http://www.worldcat.org/oclc/916515040> <http://schema.org/url> <http://atoz.ebsco.com/Titles/SearchResults/1811?IsFromAdvancedSearch=True&GetResourcesBy=IssnSearch&resourceTypeName=allTitles&resourceType=&SearchType=Contains&Find=0036-9276> .
+<http://www.worldcat.org/oclc/916515040> <http://schema.org/publisher> <http://experiment.worldcat.org/entity/work/data/2553940#Agent/geological_society> .
+<http://www.worldcat.org/oclc/916515040> <http://www.w3.org/2007/05/powder-s#describedby> <http://www.worldcat.org/title/-/oclc/916515040> .
+<http://experiment.worldcat.org/entity/work/data/2553940#Organization/geological_society_of_london> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+<http://experiment.worldcat.org/entity/work/data/2553940#Organization/geological_society_of_london> <http://schema.org/name> "Geological Society of London." .
+<http://dbpedia.org/resource/London> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://dbpedia.org/resource/London> <http://schema.org/name> "London" .
+<http://experiment.worldcat.org/entity/work/data/2553940#Topic/geologia> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/2553940#Topic/geologia> <http://schema.org/name> "Geología" .
+<http://www.worldcat.org/title/-/oclc/916515040> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#ContentTypeGenericResource> .
+<http://www.worldcat.org/title/-/oclc/916515040> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#InformationResource> .
+<http://www.worldcat.org/title/-/oclc/916515040> <http://schema.org/about> <http://www.worldcat.org/oclc/916515040> .
+<http://www.worldcat.org/title/-/oclc/916515040> <http://schema.org/dateModified> "2019-02-09" .
+<http://www.worldcat.org/title/-/oclc/916515040> <http://rdfs.org/ns/void#inDataset> <http://purl.oclc.org/dataset/WorldCat> .
+<http://worldcat.org/entity/work/id/2553940> <http://umbel.org/umbel#isLike> <http://worldcat.org/issn/0036-9276> .
+<http://worldcat.org/entity/work/id/2553940> <http://umbel.org/umbel#isLike> <http://worldcat.org/issn/2041-4951> .

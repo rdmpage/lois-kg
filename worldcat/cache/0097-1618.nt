@@ -1,0 +1,51 @@
+<http://experiment.worldcat.org/entity/work/data/341921696#Place/united_states> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://experiment.worldcat.org/entity/work/data/341921696#Place/united_states> <http://schema.org/name> "United States." .
+<http://www.worldcat.org/oclc/1029243654> <http://purl.org/library/oclcnum> "1029243654" .
+<http://www.worldcat.org/oclc/1029243654> <http://schema.org/publication> <http://www.worldcat.org/title/-/oclc/1029243654#PublicationEvent/washington_d_c_u_s_government_printing_office_1890> .
+<http://www.worldcat.org/oclc/1029243654> <http://schema.org/workExample> <http://worldcat.org/issn/0097-1618> .
+<http://www.worldcat.org/oclc/1029243654> <http://schema.org/name> "Contributions from the United States National Herbarium."@en .
+<http://www.worldcat.org/oclc/1029243654> <http://purl.org/library/placeOfPublication> <http://id.loc.gov/vocabulary/countries/dcu> .
+<http://www.worldcat.org/oclc/1029243654> <http://schema.org/contributor> <http://experiment.worldcat.org/entity/work/data/341921696#Organization/united_states_national_herbarium> .
+<http://www.worldcat.org/oclc/1029243654> <http://schema.org/inLanguage> "en" .
+<http://www.worldcat.org/oclc/1029243654> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/341921696#Place/united_states> .
+<http://www.worldcat.org/oclc/1029243654> <http://schema.org/genre> "Government publication"@en .
+<http://www.worldcat.org/oclc/1029243654> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/341921696#Topic/botany_united_states> .
+<http://www.worldcat.org/oclc/1029243654> <http://www.w3.org/2007/05/powder-s#describedby> <http://www.worldcat.org/title/-/oclc/1029243654> .
+<http://www.worldcat.org/oclc/1029243654> <http://schema.org/genre> "National government publication"@en .
+<http://www.worldcat.org/oclc/1029243654> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/341921696#Topic/botanique_etats_unis> .
+<http://www.worldcat.org/oclc/1029243654> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://www.worldcat.org/oclc/1029243654> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/341921696#Topic/botany> .
+<http://www.worldcat.org/oclc/1029243654> <http://schema.org/datePublished> "1890/" .
+<http://www.worldcat.org/oclc/1029243654> <http://schema.org/publisher> <http://experiment.worldcat.org/entity/work/data/341921696#Agent/u_s_government_printing_office> .
+<http://www.worldcat.org/oclc/1029243654> <http://purl.org/library/placeOfPublication> <http://experiment.worldcat.org/entity/work/data/341921696#Place/washington_d_c> .
+<http://www.worldcat.org/oclc/1029243654> <http://schema.org/productID> "1029243654" .
+<http://www.worldcat.org/oclc/1029243654> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://www.worldcat.org/oclc/1029243654> <http://schema.org/exampleOfWork> <http://worldcat.org/entity/work/id/341921696> .
+<http://www.worldcat.org/title/-/oclc/1029243654> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#ContentTypeGenericResource> .
+<http://www.worldcat.org/title/-/oclc/1029243654> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#InformationResource> .
+<http://www.worldcat.org/title/-/oclc/1029243654> <http://schema.org/about> <http://www.worldcat.org/oclc/1029243654> .
+<http://www.worldcat.org/title/-/oclc/1029243654> <http://schema.org/dateModified> "2019-09-07" .
+<http://www.worldcat.org/title/-/oclc/1029243654> <http://rdfs.org/ns/void#inDataset> <http://purl.oclc.org/dataset/WorldCat> .
+<http://worldcat.org/entity/work/id/341921696> <http://umbel.org/umbel#isLike> <http://worldcat.org/issn/0097-1618> .
+<http://experiment.worldcat.org/entity/work/data/341921696#Organization/united_states_national_herbarium> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+<http://experiment.worldcat.org/entity/work/data/341921696#Organization/united_states_national_herbarium> <http://schema.org/name> "United States National Herbarium." .
+<http://experiment.worldcat.org/entity/work/data/341921696#Topic/botany_united_states> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/341921696#Topic/botany_united_states> <http://schema.org/name> "Botany--United States"@en .
+<http://experiment.worldcat.org/entity/work/data/341921696#Place/washington_d_c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://experiment.worldcat.org/entity/work/data/341921696#Place/washington_d_c> <http://schema.org/name> "Washington, D.C." .
+<http://id.loc.gov/vocabulary/countries/dcu> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://id.loc.gov/vocabulary/countries/dcu> <http://purl.org/dc/terms/identifier> "dcu" .
+<http://experiment.worldcat.org/entity/work/data/341921696#Topic/botany> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/341921696#Topic/botany> <http://schema.org/name> "Botany"@en .
+<http://www.worldcat.org/title/-/oclc/1029243654#PublicationEvent/washington_d_c_u_s_government_printing_office_1890> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PublicationEvent> .
+<http://www.worldcat.org/title/-/oclc/1029243654#PublicationEvent/washington_d_c_u_s_government_printing_office_1890> <http://schema.org/location> <http://experiment.worldcat.org/entity/work/data/341921696#Place/washington_d_c> .
+<http://www.worldcat.org/title/-/oclc/1029243654#PublicationEvent/washington_d_c_u_s_government_printing_office_1890> <http://schema.org/organizer> <http://experiment.worldcat.org/entity/work/data/341921696#Agent/u_s_government_printing_office> .
+<http://www.worldcat.org/title/-/oclc/1029243654#PublicationEvent/washington_d_c_u_s_government_printing_office_1890> <http://schema.org/startDate> "1890-" .
+<http://experiment.worldcat.org/entity/work/data/341921696#Agent/u_s_government_printing_office> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bibliograph.net/Agent> .
+<http://experiment.worldcat.org/entity/work/data/341921696#Agent/u_s_government_printing_office> <http://schema.org/name> "U.S. Government Printing Office" .
+<http://worldcat.org/issn/0097-1618> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://worldcat.org/issn/0097-1618> <http://schema.org/name> "Contributions from the United States National Herbarium."@en .
+<http://worldcat.org/issn/0097-1618> <http://schema.org/issn> "0097-1618" .
+<http://worldcat.org/issn/0097-1618> <http://umbel.org/umbel#isLike> <http://worldcat.org/entity/work/id/341921696> .
+<http://experiment.worldcat.org/entity/work/data/341921696#Topic/botanique_etats_unis> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/341921696#Topic/botanique_etats_unis> <http://schema.org/name> "Botanique--États-Unis"@fr .

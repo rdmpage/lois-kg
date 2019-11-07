@@ -13,7 +13,7 @@ $count = 0;
 $total = 0;
 $triples = '';
 
-$chunks= 500000;
+$chunks= 50000;
 
 $delay = 5;
 

@@ -1,0 +1,46 @@
+<http://www.worldcat.org/oclc/460281489> <http://schema.org/inLanguage> "en" .
+<http://www.worldcat.org/oclc/460281489> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/344623468#Topic/microbiology_classification> .
+<http://www.worldcat.org/oclc/460281489> <http://schema.org/genre> "Periodicals" .
+<http://www.worldcat.org/oclc/460281489> <http://www.w3.org/2007/05/powder-s#describedby> <http://www.worldcat.org/title/-/oclc/460281489> .
+<http://www.worldcat.org/oclc/460281489> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://www.worldcat.org/oclc/460281489> <http://purl.org/library/oclcnum> "460281489" .
+<http://www.worldcat.org/oclc/460281489> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://experiment.worldcat.org/entity/work/data/344623468#CreativeWork/ijsem> .
+<http://www.worldcat.org/oclc/460281489> <http://schema.org/genre> "Field guides" .
+<http://www.worldcat.org/oclc/460281489> <http://purl.org/library/placeOfPublication> <http://experiment.worldcat.org/entity/work/data/344623468#Place/reading> .
+<http://www.worldcat.org/oclc/460281489> <http://schema.org/publication> <http://www.worldcat.org/title/-/oclc/460281489#PublicationEvent/reading> .
+<http://www.worldcat.org/oclc/460281489> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://www.worldcat.org/oclc/460281489> <http://schema.org/datePublished> "uuuu/9999" .
+<http://www.worldcat.org/oclc/460281489> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/344623468#Topic/electronic_journals> .
+<http://www.worldcat.org/oclc/460281489> <http://schema.org/productID> "460281489" .
+<http://www.worldcat.org/oclc/460281489> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/344623468#Topic/bacteria_nomenclature> .
+<http://www.worldcat.org/oclc/460281489> <http://schema.org/name> "International journal of systematic and evolutionary microbiology : ISEM : the Society for General Microbiology." .
+<http://www.worldcat.org/oclc/460281489> <http://schema.org/exampleOfWork> <http://worldcat.org/entity/work/id/344623468> .
+<http://www.worldcat.org/oclc/460281489> <http://schema.org/workExample> <http://worldcat.org/issn/1466-5026> .
+<http://www.worldcat.org/oclc/460281489> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/344623468#Topic/microbiology> .
+<http://www.worldcat.org/oclc/460281489> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/344623468#Topic/microorganisms> .
+<http://worldcat.org/entity/work/id/344623468> <http://umbel.org/umbel#isLike> <http://worldcat.org/issn/1466-5026> .
+<http://worldcat.org/issn/1466-5026> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://worldcat.org/issn/1466-5026> <http://schema.org/name> "International journal of systematic and evolutionary microbiology : ISEM : the Society for General Microbiology." .
+<http://worldcat.org/issn/1466-5026> <http://schema.org/issn> "1466-5026" .
+<http://worldcat.org/issn/1466-5026> <http://umbel.org/umbel#isLike> <http://worldcat.org/entity/work/id/344623468> .
+<http://experiment.worldcat.org/entity/work/data/344623468#Topic/electronic_journals> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/344623468#Topic/electronic_journals> <http://schema.org/name> "Electronic journals" .
+<http://experiment.worldcat.org/entity/work/data/344623468#Topic/microorganisms> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/344623468#Topic/microorganisms> <http://schema.org/name> "Microorganisms" .
+<http://experiment.worldcat.org/entity/work/data/344623468#Topic/bacteria_nomenclature> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/344623468#Topic/bacteria_nomenclature> <http://schema.org/name> "Bacteria--Nomenclature" .
+<http://www.worldcat.org/title/-/oclc/460281489#PublicationEvent/reading> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PublicationEvent> .
+<http://www.worldcat.org/title/-/oclc/460281489#PublicationEvent/reading> <http://schema.org/location> <http://experiment.worldcat.org/entity/work/data/344623468#Place/reading> .
+<http://experiment.worldcat.org/entity/work/data/344623468#Topic/microbiology_classification> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/344623468#Topic/microbiology_classification> <http://schema.org/name> "Microbiology--Classification" .
+<http://experiment.worldcat.org/entity/work/data/344623468#CreativeWork/ijsem> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://experiment.worldcat.org/entity/work/data/344623468#CreativeWork/ijsem> <http://schema.org/name> "IJSEM." .
+<http://experiment.worldcat.org/entity/work/data/344623468#Topic/microbiology> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/344623468#Topic/microbiology> <http://schema.org/name> "Microbiology" .
+<http://experiment.worldcat.org/entity/work/data/344623468#Place/reading> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://experiment.worldcat.org/entity/work/data/344623468#Place/reading> <http://schema.org/name> "Reading." .
+<http://www.worldcat.org/title/-/oclc/460281489> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#ContentTypeGenericResource> .
+<http://www.worldcat.org/title/-/oclc/460281489> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#InformationResource> .
+<http://www.worldcat.org/title/-/oclc/460281489> <http://schema.org/about> <http://www.worldcat.org/oclc/460281489> .
+<http://www.worldcat.org/title/-/oclc/460281489> <http://schema.org/dateModified> "2019-03-29" .
+<http://www.worldcat.org/title/-/oclc/460281489> <http://rdfs.org/ns/void#inDataset> <http://purl.oclc.org/dataset/WorldCat> .

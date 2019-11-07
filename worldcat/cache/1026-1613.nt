@@ -1,0 +1,43 @@
+<http://experiment.worldcat.org/entity/work/data/975168#Place/nairobi> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://experiment.worldcat.org/entity/work/data/975168#Place/nairobi> <http://schema.org/name> "Nairobi" .
+<http://experiment.worldcat.org/entity/work/data/975168#Agent/national_museums_of_kenya> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bibliograph.net/Agent> .
+<http://experiment.worldcat.org/entity/work/data/975168#Agent/national_museums_of_kenya> <http://schema.org/name> "National Museums of Kenya." .
+<http://experiment.worldcat.org/entity/work/data/975168#Agent/east_africa_natural_history_society> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bibliograph.net/Agent> .
+<http://experiment.worldcat.org/entity/work/data/975168#Agent/east_africa_natural_history_society> <http://schema.org/name> "East Africa Natural History Society" .
+<http://www.worldcat.org/title/-/oclc/463979470#PublicationEvent/nairobi_east_africa_natural_history_society_national_museums_of_kenya> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PublicationEvent> .
+<http://www.worldcat.org/title/-/oclc/463979470#PublicationEvent/nairobi_east_africa_natural_history_society_national_museums_of_kenya> <http://schema.org/location> <http://experiment.worldcat.org/entity/work/data/975168#Place/nairobi> .
+<http://www.worldcat.org/title/-/oclc/463979470#PublicationEvent/nairobi_east_africa_natural_history_society_national_museums_of_kenya> <http://schema.org/organizer> <http://experiment.worldcat.org/entity/work/data/975168#Agent/east_africa_natural_history_society> .
+<http://www.worldcat.org/title/-/oclc/463979470#PublicationEvent/nairobi_east_africa_natural_history_society_national_museums_of_kenya> <http://schema.org/organizer> <http://experiment.worldcat.org/entity/work/data/975168#Agent/national_museums_of_kenya> .
+<http://experiment.worldcat.org/entity/work/data/975168#Organization/east_africa_natural_history_society_eanhs> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+<http://experiment.worldcat.org/entity/work/data/975168#Organization/east_africa_natural_history_society_eanhs> <http://schema.org/name> "East Africa Natural History Society. EANHS." .
+<http://worldcat.org/entity/work/id/975168> <http://umbel.org/umbel#isLike> <http://worldcat.org/issn/1026-1613> .
+<http://experiment.worldcat.org/entity/work/data/975168#Organization/national_museums_of_kenya_nmk> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+<http://experiment.worldcat.org/entity/work/data/975168#Organization/national_museums_of_kenya_nmk> <http://schema.org/name> "National Museums of Kenya. NMK." .
+<http://worldcat.org/issn/1026-1613> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://worldcat.org/issn/1026-1613> <http://schema.org/name> "Journal of East African natural history." .
+<http://worldcat.org/issn/1026-1613> <http://schema.org/issn> "1026-1613" .
+<http://worldcat.org/issn/1026-1613> <http://umbel.org/umbel#isLike> <http://worldcat.org/entity/work/id/975168> .
+<http://www.worldcat.org/title/-/oclc/463979470> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#ContentTypeGenericResource> .
+<http://www.worldcat.org/title/-/oclc/463979470> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#InformationResource> .
+<http://www.worldcat.org/title/-/oclc/463979470> <http://schema.org/about> <http://www.worldcat.org/oclc/463979470> .
+<http://www.worldcat.org/title/-/oclc/463979470> <http://schema.org/dateModified> "2018-11-11" .
+<http://www.worldcat.org/title/-/oclc/463979470> <http://rdfs.org/ns/void#inDataset> <http://purl.oclc.org/dataset/WorldCat> .
+<http://id.loc.gov/vocabulary/countries/ke> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://id.loc.gov/vocabulary/countries/ke> <http://purl.org/dc/terms/identifier> "ke" .
+<http://www.worldcat.org/oclc/463979470> <http://schema.org/name> "Journal of East African natural history." .
+<http://www.worldcat.org/oclc/463979470> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://www.worldcat.org/oclc/463979470> <http://purl.org/library/placeOfPublication> <http://id.loc.gov/vocabulary/countries/ke> .
+<http://www.worldcat.org/oclc/463979470> <http://schema.org/workExample> <http://worldcat.org/issn/1026-1613> .
+<http://www.worldcat.org/oclc/463979470> <http://schema.org/datePublished> "1995/9999" .
+<http://www.worldcat.org/oclc/463979470> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://www.worldcat.org/oclc/463979470> <http://schema.org/inLanguage> "en" .
+<http://www.worldcat.org/oclc/463979470> <http://schema.org/publisher> <http://experiment.worldcat.org/entity/work/data/975168#Agent/national_museums_of_kenya> .
+<http://www.worldcat.org/oclc/463979470> <http://schema.org/contributor> <http://experiment.worldcat.org/entity/work/data/975168#Organization/east_africa_natural_history_society_eanhs> .
+<http://www.worldcat.org/oclc/463979470> <http://schema.org/productID> "463979470" .
+<http://www.worldcat.org/oclc/463979470> <http://www.w3.org/2007/05/powder-s#describedby> <http://www.worldcat.org/title/-/oclc/463979470> .
+<http://www.worldcat.org/oclc/463979470> <http://schema.org/publisher> <http://experiment.worldcat.org/entity/work/data/975168#Agent/east_africa_natural_history_society> .
+<http://www.worldcat.org/oclc/463979470> <http://schema.org/exampleOfWork> <http://worldcat.org/entity/work/id/975168> .
+<http://www.worldcat.org/oclc/463979470> <http://schema.org/publication> <http://www.worldcat.org/title/-/oclc/463979470#PublicationEvent/nairobi_east_africa_natural_history_society_national_museums_of_kenya> .
+<http://www.worldcat.org/oclc/463979470> <http://schema.org/contributor> <http://experiment.worldcat.org/entity/work/data/975168#Organization/national_museums_of_kenya_nmk> .
+<http://www.worldcat.org/oclc/463979470> <http://purl.org/library/oclcnum> "463979470" .
+<http://www.worldcat.org/oclc/463979470> <http://purl.org/library/placeOfPublication> <http://experiment.worldcat.org/entity/work/data/975168#Place/nairobi> .

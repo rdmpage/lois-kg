@@ -1,0 +1,51 @@
+<http://experiment.worldcat.org/entity/work/data/2424952#Thing/nature_studies_+_natural_history> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> .
+<http://experiment.worldcat.org/entity/work/data/2424952#Thing/nature_studies_+_natural_history> <http://schema.org/name> "NATURE STUDIES + NATURAL HISTORY" .
+<http://experiment.worldcat.org/entity/work/data/2424952#Thing/histoire_naturelle> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> .
+<http://experiment.worldcat.org/entity/work/data/2424952#Thing/histoire_naturelle> <http://schema.org/name> "HISTOIRE NATURELLE" .
+<http://www.worldcat.org/oclc/889391472> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/2424952#Thing/naturkunde_+_naturgeschichte> .
+<http://www.worldcat.org/oclc/889391472> <http://schema.org/publication> <http://www.worldcat.org/title/-/oclc/889391472#PublicationEvent/bombay_bombay_natural_history_society_1886> .
+<http://www.worldcat.org/oclc/889391472> <http://schema.org/workExample> <http://worldcat.org/issn/0006-6982> .
+<http://www.worldcat.org/oclc/889391472> <http://schema.org/publisher> <http://experiment.worldcat.org/entity/work/data/2424952#Agent/bombay_natural_history_society> .
+<http://www.worldcat.org/oclc/889391472> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://www.worldcat.org/oclc/889391472> <http://purl.org/library/placeOfPublication> <http://id.loc.gov/vocabulary/countries/ii> .
+<http://www.worldcat.org/oclc/889391472> <http://schema.org/productID> "889391472" .
+<http://www.worldcat.org/oclc/889391472> <http://purl.org/library/oclcnum> "889391472" .
+<http://www.worldcat.org/oclc/889391472> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/2424952#Topic/naturwissenschaften> .
+<http://www.worldcat.org/oclc/889391472> <http://schema.org/datePublished> "1886/9999" .
+<http://www.worldcat.org/oclc/889391472> <http://www.w3.org/2007/05/powder-s#describedby> <http://www.worldcat.org/title/-/oclc/889391472> .
+<http://www.worldcat.org/oclc/889391472> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/2424952#Thing/nature_studies_+_natural_history> .
+<http://www.worldcat.org/oclc/889391472> <http://schema.org/exampleOfWork> <http://worldcat.org/entity/work/id/2424952> .
+<http://www.worldcat.org/oclc/889391472> <http://schema.org/genre> "Zeitschrift" .
+<http://www.worldcat.org/oclc/889391472> <http://purl.org/library/placeOfPublication> <http://experiment.worldcat.org/entity/work/data/2424952#Place/bombay> .
+<http://www.worldcat.org/oclc/889391472> <http://schema.org/name> "Journal of the Bombay Natural History Society." .
+<http://www.worldcat.org/oclc/889391472> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/2424952#Thing/histoire_naturelle> .
+<http://www.worldcat.org/oclc/889391472> <http://schema.org/datePublished> "1886/" .
+<http://www.worldcat.org/oclc/889391472> <http://schema.org/inLanguage> "en" .
+<http://www.worldcat.org/oclc/889391472> <http://schema.org/contributor> <http://experiment.worldcat.org/entity/work/data/2424952#Organization/bombay_natural_history_society> .
+<http://www.worldcat.org/oclc/889391472> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://id.loc.gov/vocabulary/countries/ii> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://id.loc.gov/vocabulary/countries/ii> <http://purl.org/dc/terms/identifier> "ii" .
+<http://www.worldcat.org/title/-/oclc/889391472> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#ContentTypeGenericResource> .
+<http://www.worldcat.org/title/-/oclc/889391472> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#InformationResource> .
+<http://www.worldcat.org/title/-/oclc/889391472> <http://schema.org/about> <http://www.worldcat.org/oclc/889391472> .
+<http://www.worldcat.org/title/-/oclc/889391472> <http://schema.org/dateModified> "2018-11-09" .
+<http://www.worldcat.org/title/-/oclc/889391472> <http://rdfs.org/ns/void#inDataset> <http://purl.oclc.org/dataset/WorldCat> .
+<http://experiment.worldcat.org/entity/work/data/2424952#Topic/naturwissenschaften> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/2424952#Topic/naturwissenschaften> <http://schema.org/name> "Naturwissenschaften" .
+<http://experiment.worldcat.org/entity/work/data/2424952#Thing/naturkunde_+_naturgeschichte> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> .
+<http://experiment.worldcat.org/entity/work/data/2424952#Thing/naturkunde_+_naturgeschichte> <http://schema.org/name> "NATURKUNDE + NATURGESCHICHTE" .
+<http://experiment.worldcat.org/entity/work/data/2424952#Organization/bombay_natural_history_society> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+<http://experiment.worldcat.org/entity/work/data/2424952#Organization/bombay_natural_history_society> <http://schema.org/name> "Bombay Natural History Society." .
+<http://worldcat.org/issn/0006-6982> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://worldcat.org/issn/0006-6982> <http://schema.org/name> "Journal of the Bombay Natural History Society." .
+<http://worldcat.org/issn/0006-6982> <http://schema.org/issn> "0006-6982" .
+<http://worldcat.org/issn/0006-6982> <http://umbel.org/umbel#isLike> <http://worldcat.org/entity/work/id/2424952> .
+<http://worldcat.org/entity/work/id/2424952> <http://umbel.org/umbel#isLike> <http://worldcat.org/issn/0006-6982> .
+<http://experiment.worldcat.org/entity/work/data/2424952#Agent/bombay_natural_history_society> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bibliograph.net/Agent> .
+<http://experiment.worldcat.org/entity/work/data/2424952#Agent/bombay_natural_history_society> <http://schema.org/name> "Bombay Natural History Society" .
+<http://www.worldcat.org/title/-/oclc/889391472#PublicationEvent/bombay_bombay_natural_history_society_1886> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PublicationEvent> .
+<http://www.worldcat.org/title/-/oclc/889391472#PublicationEvent/bombay_bombay_natural_history_society_1886> <http://schema.org/location> <http://experiment.worldcat.org/entity/work/data/2424952#Place/bombay> .
+<http://www.worldcat.org/title/-/oclc/889391472#PublicationEvent/bombay_bombay_natural_history_society_1886> <http://schema.org/organizer> <http://experiment.worldcat.org/entity/work/data/2424952#Agent/bombay_natural_history_society> .
+<http://www.worldcat.org/title/-/oclc/889391472#PublicationEvent/bombay_bombay_natural_history_society_1886> <http://schema.org/startDate> "1886-" .
+<http://experiment.worldcat.org/entity/work/data/2424952#Place/bombay> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://experiment.worldcat.org/entity/work/data/2424952#Place/bombay> <http://schema.org/name> "Bombay" .

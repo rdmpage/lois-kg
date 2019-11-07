@@ -1,0 +1,60 @@
+<http://www.worldcat.org/title/-/oclc/781495561> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#ContentTypeGenericResource> .
+<http://www.worldcat.org/title/-/oclc/781495561> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#InformationResource> .
+<http://www.worldcat.org/title/-/oclc/781495561> <http://schema.org/about> <http://www.worldcat.org/oclc/781495561> .
+<http://www.worldcat.org/title/-/oclc/781495561> <http://schema.org/dateModified> "2019-03-01" .
+<http://www.worldcat.org/title/-/oclc/781495561> <http://rdfs.org/ns/void#inDataset> <http://purl.oclc.org/dataset/WorldCat> .
+<http://www.worldcat.org/title/-/oclc/781495561#PublicationEvent/sydney_shepherd_&_newman> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PublicationEvent> .
+<http://www.worldcat.org/title/-/oclc/781495561#PublicationEvent/sydney_shepherd_&_newman> <http://schema.org/location> <http://experiment.worldcat.org/entity/work/data/341919557#Place/sydney> .
+<http://www.worldcat.org/title/-/oclc/781495561#PublicationEvent/sydney_shepherd_&_newman> <http://schema.org/organizer> <http://experiment.worldcat.org/entity/work/data/341919557#Agent/shepherd_&_newman> .
+<http://id.worldcat.org/fast/1047313> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://id.worldcat.org/fast/1047313> <http://schema.org/name> "Orchids"@en .
+<http://viaf.org/viaf/154898376> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+<http://viaf.org/viaf/154898376> <http://schema.org/name> "Orchid Club of South Australia." .
+<http://viaf.org/viaf/158654405> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+<http://viaf.org/viaf/158654405> <http://schema.org/name> "Tasmanian Orchid Society." .
+<http://www.worldcat.org/oclc/781495561> <http://purl.org/library/oclcnum> "781495561" .
+<http://www.worldcat.org/oclc/781495561> <http://schema.org/contributor> <http://viaf.org/viaf/158654405> .
+<http://www.worldcat.org/oclc/781495561> <http://schema.org/contributor> <http://viaf.org/viaf/145798860> .
+<http://www.worldcat.org/oclc/781495561> <http://schema.org/about> <http://id.loc.gov/authorities/subjects/sh85095334> .
+<http://www.worldcat.org/oclc/781495561> <http://schema.org/exampleOfWork> <http://worldcat.org/entity/work/id/341919557> .
+<http://www.worldcat.org/oclc/781495561> <http://schema.org/productID> "781495561" .
+<http://www.worldcat.org/oclc/781495561> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://www.worldcat.org/oclc/781495561> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://www.worldcat.org/oclc/781495561> <http://schema.org/publication> <http://www.worldcat.org/title/-/oclc/781495561#PublicationEvent/sydney_shepherd_&_newman> .
+<http://www.worldcat.org/oclc/781495561> <http://schema.org/contributor> <http://viaf.org/viaf/152560391> .
+<http://www.worldcat.org/oclc/781495561> <http://schema.org/workExample> <http://worldcat.org/issn/0045-0782> .
+<http://www.worldcat.org/oclc/781495561> <http://schema.org/genre> "Periodicals"@en .
+<http://www.worldcat.org/oclc/781495561> <http://schema.org/about> <http://dewey.info/class/635.93415/> .
+<http://www.worldcat.org/oclc/781495561> <http://www.w3.org/2007/05/powder-s#describedby> <http://www.worldcat.org/title/-/oclc/781495561> .
+<http://www.worldcat.org/oclc/781495561> <http://schema.org/contributor> <http://viaf.org/viaf/154898376> .
+<http://www.worldcat.org/oclc/781495561> <http://schema.org/name> "Australian Orchid review."@en .
+<http://www.worldcat.org/oclc/781495561> <http://purl.org/library/placeOfPublication> <http://id.loc.gov/vocabulary/countries/xna> .
+<http://www.worldcat.org/oclc/781495561> <http://schema.org/contributor> <http://viaf.org/viaf/138753643> .
+<http://www.worldcat.org/oclc/781495561> <http://purl.org/library/placeOfPublication> <http://experiment.worldcat.org/entity/work/data/341919557#Place/sydney> .
+<http://www.worldcat.org/oclc/781495561> <http://schema.org/datePublished> "1939/9999" .
+<http://www.worldcat.org/oclc/781495561> <http://schema.org/inLanguage> "en" .
+<http://www.worldcat.org/oclc/781495561> <http://schema.org/about> <http://id.worldcat.org/fast/1047313> .
+<http://www.worldcat.org/oclc/781495561> <http://schema.org/publisher> <http://experiment.worldcat.org/entity/work/data/341919557#Agent/shepherd_&_newman> .
+<http://www.worldcat.org/oclc/781495561> <http://schema.org/contributor> <http://experiment.worldcat.org/entity/work/data/341919557#Organization/orchid_club_of_western_australia> .
+<http://worldcat.org/entity/work/id/341919557> <http://umbel.org/umbel#isLike> <http://worldcat.org/issn/0045-0782> .
+<http://viaf.org/viaf/152560391> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+<http://viaf.org/viaf/152560391> <http://schema.org/name> "Orchid Society of New South Wales." .
+<http://id.loc.gov/vocabulary/countries/xna> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://id.loc.gov/vocabulary/countries/xna> <http://purl.org/dc/terms/identifier> "xna" .
+<http://experiment.worldcat.org/entity/work/data/341919557#Place/sydney> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://experiment.worldcat.org/entity/work/data/341919557#Place/sydney> <http://schema.org/name> "Sydney" .
+<http://experiment.worldcat.org/entity/work/data/341919557#Organization/orchid_club_of_western_australia> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+<http://experiment.worldcat.org/entity/work/data/341919557#Organization/orchid_club_of_western_australia> <http://schema.org/name> "Orchid Club of Western Australia." .
+<http://experiment.worldcat.org/entity/work/data/341919557#Agent/shepherd_&_newman> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bibliograph.net/Agent> .
+<http://experiment.worldcat.org/entity/work/data/341919557#Agent/shepherd_&_newman> <http://schema.org/name> "Shepherd & Newman." .
+<http://viaf.org/viaf/145798860> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+<http://viaf.org/viaf/145798860> <http://schema.org/name> "Victorian Orchid Club." .
+<http://id.loc.gov/authorities/subjects/sh85095334> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://id.loc.gov/authorities/subjects/sh85095334> <http://schema.org/name> "Orchids"@en .
+<http://dewey.info/class/635.93415/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://worldcat.org/issn/0045-0782> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://worldcat.org/issn/0045-0782> <http://schema.org/name> "Australian Orchid review."@en .
+<http://worldcat.org/issn/0045-0782> <http://schema.org/issn> "0045-0782" .
+<http://worldcat.org/issn/0045-0782> <http://umbel.org/umbel#isLike> <http://worldcat.org/entity/work/id/341919557> .
+<http://viaf.org/viaf/138753643> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+<http://viaf.org/viaf/138753643> <http://schema.org/name> "Queensland Orchid Society." .

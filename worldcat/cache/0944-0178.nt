@@ -1,0 +1,36 @@
+<http://experiment.worldcat.org/entity/work/data/889601898#Place/munchen> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://experiment.worldcat.org/entity/work/data/889601898#Place/munchen> <http://schema.org/name> "München" .
+<http://www.worldcat.org/title/-/oclc/925228373#PublicationEvent/munchen_1993_2002> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PublicationEvent> .
+<http://www.worldcat.org/title/-/oclc/925228373#PublicationEvent/munchen_1993_2002> <http://schema.org/location> <http://experiment.worldcat.org/entity/work/data/889601898#Place/munchen> .
+<http://www.worldcat.org/title/-/oclc/925228373#PublicationEvent/munchen_1993_2002> <http://schema.org/startDate> "1993-2002" .
+<http://worldcat.org/issn/0944-0178> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://worldcat.org/issn/0944-0178> <http://schema.org/name> "Sendtnera : Mitteilungen der Botanischen Staatssammlung und des Instituts für systematische Botanik der Universität München." .
+<http://worldcat.org/issn/0944-0178> <http://schema.org/issn> "0944-0178" .
+<http://worldcat.org/issn/0944-0178> <http://umbel.org/umbel#isLike> <http://worldcat.org/entity/work/id/889601898> .
+<http://www.worldcat.org/title/-/oclc/925228373> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#ContentTypeGenericResource> .
+<http://www.worldcat.org/title/-/oclc/925228373> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#InformationResource> .
+<http://www.worldcat.org/title/-/oclc/925228373> <http://schema.org/about> <http://www.worldcat.org/oclc/925228373> .
+<http://www.worldcat.org/title/-/oclc/925228373> <http://schema.org/dateModified> "2018-11-09" .
+<http://www.worldcat.org/title/-/oclc/925228373> <http://rdfs.org/ns/void#inDataset> <http://purl.oclc.org/dataset/WorldCat> .
+<http://experiment.worldcat.org/entity/work/data/889601898#Organization/ludwig_maximilians_universitat_munchen_institut_fur_systematische_botanik> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+<http://experiment.worldcat.org/entity/work/data/889601898#Organization/ludwig_maximilians_universitat_munchen_institut_fur_systematische_botanik> <http://schema.org/name> "Ludwig-Maximilians-Universität München. Institut für systematische Botanik." .
+<http://experiment.worldcat.org/entity/work/data/889601898#Organization/botanische_staatssammlung_munchen> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+<http://experiment.worldcat.org/entity/work/data/889601898#Organization/botanische_staatssammlung_munchen> <http://schema.org/name> "Botanische Staatssammlung München." .
+<http://worldcat.org/entity/work/id/889601898> <http://umbel.org/umbel#isLike> <http://worldcat.org/issn/0944-0178> .
+<http://id.loc.gov/vocabulary/countries/gw> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://id.loc.gov/vocabulary/countries/gw> <http://purl.org/dc/terms/identifier> "gw" .
+<http://www.worldcat.org/oclc/925228373> <http://schema.org/workExample> <http://worldcat.org/issn/0944-0178> .
+<http://www.worldcat.org/oclc/925228373> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://www.worldcat.org/oclc/925228373> <http://purl.org/library/placeOfPublication> <http://id.loc.gov/vocabulary/countries/gw> .
+<http://www.worldcat.org/oclc/925228373> <http://www.w3.org/2007/05/powder-s#describedby> <http://www.worldcat.org/title/-/oclc/925228373> .
+<http://www.worldcat.org/oclc/925228373> <http://schema.org/publication> <http://www.worldcat.org/title/-/oclc/925228373#PublicationEvent/munchen_1993_2002> .
+<http://www.worldcat.org/oclc/925228373> <http://schema.org/contributor> <http://experiment.worldcat.org/entity/work/data/889601898#Organization/botanische_staatssammlung_munchen> .
+<http://www.worldcat.org/oclc/925228373> <http://schema.org/inLanguage> "en" .
+<http://www.worldcat.org/oclc/925228373> <http://purl.org/library/oclcnum> "925228373" .
+<http://www.worldcat.org/oclc/925228373> <http://purl.org/library/placeOfPublication> <http://experiment.worldcat.org/entity/work/data/889601898#Place/munchen> .
+<http://www.worldcat.org/oclc/925228373> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://www.worldcat.org/oclc/925228373> <http://schema.org/datePublished> "1993/2002" .
+<http://www.worldcat.org/oclc/925228373> <http://schema.org/name> "Sendtnera : Mitteilungen der Botanischen Staatssammlung und des Instituts für systematische Botanik der Universität München." .
+<http://www.worldcat.org/oclc/925228373> <http://schema.org/exampleOfWork> <http://worldcat.org/entity/work/id/889601898> .
+<http://www.worldcat.org/oclc/925228373> <http://schema.org/productID> "925228373" .
+<http://www.worldcat.org/oclc/925228373> <http://schema.org/contributor> <http://experiment.worldcat.org/entity/work/data/889601898#Organization/ludwig_maximilians_universitat_munchen_institut_fur_systematische_botanik> .

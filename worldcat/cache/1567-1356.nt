@@ -1,0 +1,53 @@
+<http://experiment.worldcat.org/entity/work/data/56685488#CreativeWork/wiley_online_library_e_journals> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://experiment.worldcat.org/entity/work/data/56685488#CreativeWork/wiley_online_library_e_journals> <http://schema.org/name> "Wiley Online Library e-journals." .
+<http://experiment.worldcat.org/entity/work/data/56685488#Topic/llevats> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/56685488#Topic/llevats> <http://schema.org/name> "Llevats" .
+<http://experiment.worldcat.org/entity/work/data/56685488#Topic/microbiologia> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/56685488#Topic/microbiologia> <http://schema.org/name> "Microbiologia" .
+<http://www.worldcat.org/title/-/oclc/892307833#PublicationEvent/amsterdam_elsevier_science_2001> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PublicationEvent> .
+<http://www.worldcat.org/title/-/oclc/892307833#PublicationEvent/amsterdam_elsevier_science_2001> <http://schema.org/location> <http://experiment.worldcat.org/entity/work/data/56685488#Place/amsterdam> .
+<http://www.worldcat.org/title/-/oclc/892307833#PublicationEvent/amsterdam_elsevier_science_2001> <http://schema.org/organizer> <http://experiment.worldcat.org/entity/work/data/56685488#Agent/elsevier_science> .
+<http://www.worldcat.org/title/-/oclc/892307833#PublicationEvent/amsterdam_elsevier_science_2001> <http://schema.org/startDate> "2001-" .
+<http://worldcat.org/entity/work/id/56685488> <http://umbel.org/umbel#isLike> <http://worldcat.org/issn/1567-1364> .
+<http://id.loc.gov/vocabulary/countries/xxu> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://id.loc.gov/vocabulary/countries/xxu> <http://purl.org/dc/terms/identifier> "xxu" .
+<http://experiment.worldcat.org/entity/work/data/56685488#Place/amsterdam> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://experiment.worldcat.org/entity/work/data/56685488#Place/amsterdam> <http://schema.org/name> "Amsterdam" .
+<http://www.worldcat.org/title/-/oclc/892307833> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#ContentTypeGenericResource> .
+<http://www.worldcat.org/title/-/oclc/892307833> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#InformationResource> .
+<http://www.worldcat.org/title/-/oclc/892307833> <http://schema.org/about> <http://www.worldcat.org/oclc/892307833> .
+<http://www.worldcat.org/title/-/oclc/892307833> <http://schema.org/dateModified> "2019-10-28" .
+<http://www.worldcat.org/title/-/oclc/892307833> <http://rdfs.org/ns/void#inDataset> <http://purl.oclc.org/dataset/WorldCat> .
+<http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1567-1364> <http://www.w3.org/2000/01/rdf-schema#comment> "Accés consorciat per als usuaris de la UB via Wiley" .
+<http://worldcat.org/issn/1567-1364> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://worldcat.org/issn/1567-1364> <http://schema.org/name> "FEMS yeast research" .
+<http://worldcat.org/issn/1567-1364> <http://schema.org/issn> "1567-1364" .
+<http://worldcat.org/issn/1567-1364> <http://umbel.org/umbel#isLike> <http://worldcat.org/entity/work/id/56685488> .
+<http://experiment.worldcat.org/entity/work/data/56685488#Agent/elsevier_science> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bibliograph.net/Agent> .
+<http://experiment.worldcat.org/entity/work/data/56685488#Agent/elsevier_science> <http://schema.org/name> "Elsevier Science" .
+<http://experiment.worldcat.org/entity/work/data/56685488#Organization/federation_of_european_microbiological_societies> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+<http://experiment.worldcat.org/entity/work/data/56685488#Organization/federation_of_european_microbiological_societies> <http://schema.org/name> "Federation of European Microbiological Societies." .
+<http://www.worldcat.org/oclc/892307833> <http://purl.org/library/oclcnum> "892307833" .
+<http://www.worldcat.org/oclc/892307833> <http://schema.org/inLanguage> "en" .
+<http://www.worldcat.org/oclc/892307833> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://www.worldcat.org/oclc/892307833> <http://schema.org/contributor> <http://experiment.worldcat.org/entity/work/data/56685488#Organization/federation_of_european_microbiological_societies> .
+<http://www.worldcat.org/oclc/892307833> <http://schema.org/url> <http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1567-1364> .
+<http://www.worldcat.org/oclc/892307833> <http://purl.org/library/placeOfPublication> <http://id.loc.gov/vocabulary/countries/xxu> .
+<http://www.worldcat.org/oclc/892307833> <http://schema.org/alternateName> "Yeast research" .
+<http://www.worldcat.org/oclc/892307833> <http://www.w3.org/2007/05/powder-s#describedby> <http://www.worldcat.org/title/-/oclc/892307833> .
+<http://www.worldcat.org/oclc/892307833> <http://schema.org/exampleOfWork> <http://worldcat.org/entity/work/id/56685488> .
+<http://www.worldcat.org/oclc/892307833> <http://schema.org/publisher> <http://experiment.worldcat.org/entity/work/data/56685488#Agent/elsevier_science> .
+<http://www.worldcat.org/oclc/892307833> <http://schema.org/datePublished> "2001/" .
+<http://www.worldcat.org/oclc/892307833> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/56685488#Topic/microbiologia> .
+<http://www.worldcat.org/oclc/892307833> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/56685488#Topic/llevats> .
+<http://www.worldcat.org/oclc/892307833> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/MediaObject> .
+<http://www.worldcat.org/oclc/892307833> <http://schema.org/productID> "892307833" .
+<http://www.worldcat.org/oclc/892307833> <http://schema.org/genre> "Revistes electròniques" .
+<http://www.worldcat.org/oclc/892307833> <http://schema.org/alternateName> "Federation of European Microbiological Societies yeast research" .
+<http://www.worldcat.org/oclc/892307833> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://www.worldcat.org/oclc/892307833> <http://schema.org/publication> <http://www.worldcat.org/title/-/oclc/892307833#PublicationEvent/amsterdam_elsevier_science_2001> .
+<http://www.worldcat.org/oclc/892307833> <http://schema.org/name> "FEMS yeast research" .
+<http://www.worldcat.org/oclc/892307833> <http://schema.org/workExample> <http://worldcat.org/issn/1567-1364> .
+<http://www.worldcat.org/oclc/892307833> <http://schema.org/datePublished> "2001/9999" .
+<http://www.worldcat.org/oclc/892307833> <http://purl.org/library/placeOfPublication> <http://experiment.worldcat.org/entity/work/data/56685488#Place/amsterdam> .
+<http://www.worldcat.org/oclc/892307833> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://experiment.worldcat.org/entity/work/data/56685488#CreativeWork/wiley_online_library_e_journals> .

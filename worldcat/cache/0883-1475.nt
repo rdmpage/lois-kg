@@ -1,0 +1,57 @@
+<http://id.loc.gov/vocabulary/countries/txu> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://id.loc.gov/vocabulary/countries/txu> <http://purl.org/dc/terms/identifier> "txu" .
+<http://www.worldcat.org/title/-/oclc/763025864> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#ContentTypeGenericResource> .
+<http://www.worldcat.org/title/-/oclc/763025864> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#InformationResource> .
+<http://www.worldcat.org/title/-/oclc/763025864> <http://schema.org/about> <http://www.worldcat.org/oclc/763025864> .
+<http://www.worldcat.org/title/-/oclc/763025864> <http://schema.org/dateModified> "2019-10-08" .
+<http://www.worldcat.org/title/-/oclc/763025864> <http://rdfs.org/ns/void#inDataset> <http://purl.oclc.org/dataset/WorldCat> .
+<http://id.worldcat.org/fast/836869> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://id.worldcat.org/fast/836869> <http://schema.org/name> "Botany"@en .
+<http://experiment.worldcat.org/entity/work/data/5062296#Place/dallas_tex_u_s_a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://experiment.worldcat.org/entity/work/data/5062296#Place/dallas_tex_u_s_a> <http://schema.org/name> "Dallas, Tex., U.S.A." .
+<http://www.worldcat.org/oclc/763025864> <http://schema.org/url> <http://books.google.com/books?id=RKQlAQAAMAAJ> .
+<http://www.worldcat.org/oclc/763025864> <http://schema.org/productID> "763025864" .
+<http://www.worldcat.org/oclc/763025864> <http://schema.org/url> <http://books.google.com/books?id=lJksM_0LF94C> .
+<http://www.worldcat.org/oclc/763025864> <http://purl.org/library/placeOfPublication> <http://id.loc.gov/vocabulary/countries/txu> .
+<http://www.worldcat.org/oclc/763025864> <http://schema.org/url> <http://catalog.hathitrust.org/api/volumes/oclc/12226138.html> .
+<http://www.worldcat.org/oclc/763025864> <http://schema.org/url> <http://books.google.com/books?id=i5IlAQAAMAAJ> .
+<http://www.worldcat.org/oclc/763025864> <http://purl.org/library/placeOfPublication> <http://experiment.worldcat.org/entity/work/data/5062296#Place/dallas_tex_u_s_a> .
+<http://www.worldcat.org/oclc/763025864> <http://schema.org/url> <http://books.google.com/books?id=iJIlAQAAMAAJ> .
+<http://www.worldcat.org/oclc/763025864> <http://schema.org/exampleOfWork> <http://worldcat.org/entity/work/id/5062296> .
+<http://www.worldcat.org/oclc/763025864> <http://schema.org/url> <http://books.google.com/books?id=XaYlAQAAMAAJ> .
+<http://www.worldcat.org/oclc/763025864> <http://schema.org/publication> <http://www.worldcat.org/title/-/oclc/763025864#PublicationEvent/dallas_tex_u_s_a_herbarium_southern_methodist_university_1987> .
+<http://www.worldcat.org/oclc/763025864> <http://purl.org/library/oclcnum> "763025864" .
+<http://www.worldcat.org/oclc/763025864> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bibliograph.net/PublicationSeries> .
+<http://www.worldcat.org/oclc/763025864> <http://schema.org/contributor> <http://viaf.org/viaf/143877250> .
+<http://www.worldcat.org/oclc/763025864> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://www.worldcat.org/oclc/763025864> <http://schema.org/about> <http://id.worldcat.org/fast/836869> .
+<http://www.worldcat.org/oclc/763025864> <http://schema.org/url> <http://books.google.com/books?id=0KQlAQAAMAAJ> .
+<http://www.worldcat.org/oclc/763025864> <http://schema.org/url> <http://books.google.com/books?id=iZIlAQAAMAAJ> .
+<http://www.worldcat.org/oclc/763025864> <http://schema.org/url> <http://books.google.com/books?id=IaYlAQAAMAAJ> .
+<http://www.worldcat.org/oclc/763025864> <http://schema.org/url> <http://books.google.com/books?id=FdclAQAAMAAJ> .
+<http://www.worldcat.org/oclc/763025864> <http://schema.org/url> <http://books.google.com/books?id=WdclAQAAMAAJ> .
+<http://www.worldcat.org/oclc/763025864> <http://schema.org/url> <http://books.google.com/books?id=gZIlAQAAMAAJ> .
+<http://www.worldcat.org/oclc/763025864> <http://schema.org/datePublished> "1987/9999" .
+<http://www.worldcat.org/oclc/763025864> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/MediaObject> .
+<http://www.worldcat.org/oclc/763025864> <http://schema.org/isSimilarTo> <http://www.worldcat.org/oclc/12226138> .
+<http://www.worldcat.org/oclc/763025864> <http://schema.org/about> <http://dewey.info/class/581/a11/> .
+<http://www.worldcat.org/oclc/763025864> <http://schema.org/copyrightYear> "1987/" .
+<http://www.worldcat.org/oclc/763025864> <http://schema.org/publisher> <http://experiment.worldcat.org/entity/work/data/5062296#Agent/herbarium_southern_methodist_university> .
+<http://www.worldcat.org/oclc/763025864> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://www.worldcat.org/oclc/763025864> <http://schema.org/inLanguage> "en" .
+<http://www.worldcat.org/oclc/763025864> <http://schema.org/url> <http://books.google.com/books?id=_qUlAQAAMAAJ> .
+<http://www.worldcat.org/oclc/763025864> <http://schema.org/name> "SIDA, botanical miscellany."@en .
+<http://www.worldcat.org/oclc/763025864> <http://www.w3.org/2007/05/powder-s#describedby> <http://www.worldcat.org/title/-/oclc/763025864> .
+<http://www.worldcat.org/oclc/763025864> <http://schema.org/url> <http://books.google.com/books?id=R6YlAQAAMAAJ> .
+<http://viaf.org/viaf/143877250> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+<http://viaf.org/viaf/143877250> <http://schema.org/name> "Southern Methodist University. Herbarium." .
+<http://experiment.worldcat.org/entity/work/data/5062296#Agent/herbarium_southern_methodist_university> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bibliograph.net/Agent> .
+<http://experiment.worldcat.org/entity/work/data/5062296#Agent/herbarium_southern_methodist_university> <http://schema.org/name> "Herbarium, Southern Methodist University" .
+<http://www.worldcat.org/title/-/oclc/763025864#PublicationEvent/dallas_tex_u_s_a_herbarium_southern_methodist_university_1987> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PublicationEvent> .
+<http://www.worldcat.org/title/-/oclc/763025864#PublicationEvent/dallas_tex_u_s_a_herbarium_southern_methodist_university_1987> <http://schema.org/location> <http://experiment.worldcat.org/entity/work/data/5062296#Place/dallas_tex_u_s_a> .
+<http://www.worldcat.org/title/-/oclc/763025864#PublicationEvent/dallas_tex_u_s_a_herbarium_southern_methodist_university_1987> <http://schema.org/organizer> <http://experiment.worldcat.org/entity/work/data/5062296#Agent/herbarium_southern_methodist_university> .
+<http://dewey.info/class/581/a11/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://www.worldcat.org/oclc/12226138> <http://schema.org/isSimilarTo> <http://www.worldcat.org/oclc/763025864> .
+<http://www.worldcat.org/oclc/12226138> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://www.worldcat.org/oclc/12226138> <http://www.w3.org/2000/01/rdf-schema#label> "SIDA, botanical miscellany" .
+<http://www.worldcat.org/oclc/12226138> <http://schema.org/description> "Print version:" .

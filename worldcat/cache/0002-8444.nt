@@ -1,0 +1,55 @@
+<http://www.bioone.org/loi/amfj> <http://www.w3.org/2000/01/rdf-schema#comment> "91(2001)->" .
+<http://www.bioone.org/loi/amfj> <http://www.w3.org/2000/01/rdf-schema#comment> "Accès limité aux Conservatoire et Jardin botaniques de la Ville de Genève" .
+<http://worldcat.org/entity/work/id/9489919496> <http://umbel.org/umbel#isLike> <http://worldcat.org/issn/0002-8444> .
+<http://experiment.worldcat.org/entity/work/data/9489919496#Topic/fougeres> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/9489919496#Topic/fougeres> <http://schema.org/name> "Fougères"@fr .
+<http://experiment.worldcat.org/entity/work/data/9489919496#Agent/american_fern_society> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bibliograph.net/Agent> .
+<http://experiment.worldcat.org/entity/work/data/9489919496#Agent/american_fern_society> <http://schema.org/name> "American fern Society" .
+<http://experiment.worldcat.org/entity/work/data/9489919496#Topic/fougeres_periodiques> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/9489919496#Topic/fougeres_periodiques> <http://schema.org/name> "Fougères--Périodiques" .
+<http://experiment.worldcat.org/entity/work/data/9489919496#Topic/fougere> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/9489919496#Topic/fougere> <http://schema.org/name> "fougère" .
+<http://www.worldcat.org/oclc/474011836> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/9489919496#Topic/fougeres> .
+<http://www.worldcat.org/oclc/474011836> <http://schema.org/publication> <http://www.worldcat.org/title/-/oclc/474011836#PublicationEvent/washington_american_fern_society_1910> .
+<http://www.worldcat.org/oclc/474011836> <http://schema.org/exampleOfWork> <http://worldcat.org/entity/work/id/9489919496> .
+<http://www.worldcat.org/oclc/474011836> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/9489919496#Topic/fougeres_periodiques> .
+<http://www.worldcat.org/oclc/474011836> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/9489919496#Topic/fougere> .
+<http://www.worldcat.org/oclc/474011836> <http://www.w3.org/2007/05/powder-s#describedby> <http://www.worldcat.org/title/-/oclc/474011836> .
+<http://www.worldcat.org/oclc/474011836> <http://purl.org/library/placeOfPublication> <http://experiment.worldcat.org/entity/work/data/9489919496#Place/washington> .
+<http://www.worldcat.org/oclc/474011836> <http://schema.org/author> <http://viaf.org/viaf/128468228> .
+<http://www.worldcat.org/oclc/474011836> <http://schema.org/genre> "[périodique]" .
+<http://www.worldcat.org/oclc/474011836> <http://schema.org/url> <http://www.bioone.org/loi/amfj> .
+<http://www.worldcat.org/oclc/474011836> <http://schema.org/publisher> <http://experiment.worldcat.org/entity/work/data/9489919496#Agent/american_fern_society> .
+<http://www.worldcat.org/oclc/474011836> <http://purl.org/library/placeOfPublication> <http://id.loc.gov/vocabulary/countries/dcu> .
+<http://www.worldcat.org/oclc/474011836> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://www.worldcat.org/oclc/474011836> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://www.worldcat.org/oclc/474011836> <http://schema.org/productID> "474011836" .
+<http://www.worldcat.org/oclc/474011836> <http://schema.org/workExample> <http://worldcat.org/issn/0002-8444> .
+<http://www.worldcat.org/oclc/474011836> <http://schema.org/datePublished> "1910/9999" .
+<http://www.worldcat.org/oclc/474011836> <http://schema.org/name> "American fern journal : quaterly journal of the American fern society." .
+<http://www.worldcat.org/oclc/474011836> <http://purl.org/library/oclcnum> "474011836" .
+<http://www.worldcat.org/oclc/474011836> <http://schema.org/datePublished> "1910/" .
+<http://www.worldcat.org/oclc/474011836> <http://schema.org/about> <http://dewey.info/class/587.3/e22/> .
+<http://www.worldcat.org/oclc/474011836> <http://schema.org/url> <http://www.jstor.org/action/showPublication?journalCode=americanfernj> .
+<http://www.worldcat.org/oclc/474011836> <http://schema.org/inLanguage> "en" .
+<http://dewey.info/class/587.3/e22/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://id.loc.gov/vocabulary/countries/dcu> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://id.loc.gov/vocabulary/countries/dcu> <http://purl.org/dc/terms/identifier> "dcu" .
+<http://worldcat.org/issn/0002-8444> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://worldcat.org/issn/0002-8444> <http://schema.org/name> "American fern journal : quaterly journal of the American fern society." .
+<http://worldcat.org/issn/0002-8444> <http://schema.org/issn> "0002-8444" .
+<http://worldcat.org/issn/0002-8444> <http://umbel.org/umbel#isLike> <http://worldcat.org/entity/work/id/9489919496> .
+<http://www.worldcat.org/title/-/oclc/474011836> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#ContentTypeGenericResource> .
+<http://www.worldcat.org/title/-/oclc/474011836> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#InformationResource> .
+<http://www.worldcat.org/title/-/oclc/474011836> <http://schema.org/about> <http://www.worldcat.org/oclc/474011836> .
+<http://www.worldcat.org/title/-/oclc/474011836> <http://schema.org/dateModified> "2019-09-09" .
+<http://www.worldcat.org/title/-/oclc/474011836> <http://rdfs.org/ns/void#inDataset> <http://purl.oclc.org/dataset/WorldCat> .
+<http://www.jstor.org/action/showPublication?journalCode=americanfernj> <http://www.w3.org/2000/01/rdf-schema#comment> "1(1910)-12(1922)" .
+<http://experiment.worldcat.org/entity/work/data/9489919496#Place/washington> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://experiment.worldcat.org/entity/work/data/9489919496#Place/washington> <http://schema.org/name> "Washington" .
+<http://viaf.org/viaf/128468228> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+<http://viaf.org/viaf/128468228> <http://schema.org/name> "American fern society." .
+<http://www.worldcat.org/title/-/oclc/474011836#PublicationEvent/washington_american_fern_society_1910> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PublicationEvent> .
+<http://www.worldcat.org/title/-/oclc/474011836#PublicationEvent/washington_american_fern_society_1910> <http://schema.org/location> <http://experiment.worldcat.org/entity/work/data/9489919496#Place/washington> .
+<http://www.worldcat.org/title/-/oclc/474011836#PublicationEvent/washington_american_fern_society_1910> <http://schema.org/organizer> <http://experiment.worldcat.org/entity/work/data/9489919496#Agent/american_fern_society> .
+<http://www.worldcat.org/title/-/oclc/474011836#PublicationEvent/washington_american_fern_society_1910> <http://schema.org/startDate> "1910-" .

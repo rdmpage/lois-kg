@@ -1,0 +1,30 @@
+<http://www.worldcat.org/oclc/958727237> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://www.worldcat.org/oclc/958727237> <http://schema.org/datePublished> "uuuu/9999" .
+<http://www.worldcat.org/oclc/958727237> <http://schema.org/url> <http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1574-6968/issues> .
+<http://www.worldcat.org/oclc/958727237> <http://schema.org/alternateName> "FEMS Microbiology Letters (Wiley-Blackwell)" .
+<http://www.worldcat.org/oclc/958727237> <http://schema.org/productID> "958727237" .
+<http://www.worldcat.org/oclc/958727237> <http://www.w3.org/2007/05/powder-s#describedby> <http://www.worldcat.org/title/-/oclc/958727237> .
+<http://www.worldcat.org/oclc/958727237> <http://schema.org/inLanguage> "en" .
+<http://www.worldcat.org/oclc/958727237> <http://schema.org/alternateName> "FEMS microbiology immunology" .
+<http://www.worldcat.org/oclc/958727237> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/MediaObject> .
+<http://www.worldcat.org/oclc/958727237> <http://schema.org/alternateName> "FEMS Microbiol Lett" .
+<http://www.worldcat.org/oclc/958727237> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://www.worldcat.org/oclc/958727237> <http://schema.org/alternateName> "Federation of European Microbiological Societies microbiology letters" .
+<http://www.worldcat.org/oclc/958727237> <http://schema.org/alternateName> "FEMS microbiology letters Blackwell" .
+<http://www.worldcat.org/oclc/958727237> <http://schema.org/exampleOfWork> <http://worldcat.org/entity/work/id/3874355345> .
+<http://www.worldcat.org/oclc/958727237> <http://purl.org/library/oclcnum> "958727237" .
+<http://www.worldcat.org/oclc/958727237> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/3874355345#Topic/microbiology> .
+<http://www.worldcat.org/oclc/958727237> <http://schema.org/alternateName> "FEMS microbiology index" .
+<http://www.worldcat.org/oclc/958727237> <http://schema.org/alternateName> "Microbiology letters" .
+<http://www.worldcat.org/oclc/958727237> <http://schema.org/description> "Covers all aspects of microbiology and microbial chemistry."@en .
+<http://www.worldcat.org/oclc/958727237> <http://schema.org/name> "FEMS Microbiology Letters (Wiley)."@en .
+<http://www.worldcat.org/oclc/958727237> <http://schema.org/alternateName> "FEMS Microbiology Letters" .
+<http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1574-6968/issues> <http://www.w3.org/2000/01/rdf-schema#comment> "Wiley Online Library Backfiles (formerly Blackwell Synergy) (CRKN): 1977-01-01 to 1996-12-31" .
+<http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1574-6968/issues> <http://www.w3.org/2000/01/rdf-schema#comment> "Wiley Online Library Full Collection (CAUL): 1997-01-01 to Present" .
+<http://experiment.worldcat.org/entity/work/data/3874355345#Topic/microbiology> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/3874355345#Topic/microbiology> <http://schema.org/name> "Microbiology"@en .
+<http://www.worldcat.org/title/-/oclc/958727237> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#ContentTypeGenericResource> .
+<http://www.worldcat.org/title/-/oclc/958727237> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#InformationResource> .
+<http://www.worldcat.org/title/-/oclc/958727237> <http://schema.org/about> <http://www.worldcat.org/oclc/958727237> .
+<http://www.worldcat.org/title/-/oclc/958727237> <http://schema.org/dateModified> "2019-02-09" .
+<http://www.worldcat.org/title/-/oclc/958727237> <http://rdfs.org/ns/void#inDataset> <http://purl.oclc.org/dataset/WorldCat> .

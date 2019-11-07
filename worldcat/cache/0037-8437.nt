@@ -1,0 +1,75 @@
+<http://www.worldcat.org/oclc/1765722> <http://schema.org/isSimilarTo> <http://www.worldcat.org/oclc/1126179760> .
+<http://www.worldcat.org/oclc/1765722> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://www.worldcat.org/oclc/1765722> <http://schema.org/description> "Print version:" .
+<http://www.worldcat.org/title/-/oclc/1126179760> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#ContentTypeGenericResource> .
+<http://www.worldcat.org/title/-/oclc/1126179760> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#InformationResource> .
+<http://www.worldcat.org/title/-/oclc/1126179760> <http://schema.org/about> <http://www.worldcat.org/oclc/1126179760> .
+<http://www.worldcat.org/title/-/oclc/1126179760> <http://schema.org/dateModified> "2019-11-03" .
+<http://www.worldcat.org/title/-/oclc/1126179760> <http://rdfs.org/ns/void#inDataset> <http://purl.oclc.org/dataset/WorldCat> .
+<http://experiment.worldcat.org/entity/work/data/9614313824#Topic/sociedad_cientifica_argentina> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/9614313824#Topic/sociedad_cientifica_argentina> <http://schema.org/name> "Sociedad Científica Argentina"@en .
+<http://experiment.worldcat.org/entity/work/data/9614313824#Topic/ciencia> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/9614313824#Topic/ciencia> <http://schema.org/name> "CIENCIA"@en .
+<http://experiment.worldcat.org/entity/work/data/9614313824#Organization/sociedad_cientifica_argentina> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+<http://experiment.worldcat.org/entity/work/data/9614313824#Organization/sociedad_cientifica_argentina> <http://schema.org/name> "Sociedad Científica Argentina," .
+<http://experiment.worldcat.org/entity/work/data/9614313824#Series/museum_of_comparative_zoology_biodiversity_heritage_library_digitization_project> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bibliograph.net/PublicationSeries> .
+<http://experiment.worldcat.org/entity/work/data/9614313824#Series/museum_of_comparative_zoology_biodiversity_heritage_library_digitization_project> <http://schema.org/hasPart> <http://www.worldcat.org/oclc/1126179760> .
+<http://experiment.worldcat.org/entity/work/data/9614313824#Series/museum_of_comparative_zoology_biodiversity_heritage_library_digitization_project> <http://schema.org/name> "Museum of Comparative Zoology--Biodiversity Heritage Library digitization project." .
+<http://experiment.worldcat.org/entity/work/data/9614313824#Agent/sociedad_cientifica_argentina> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bibliograph.net/Agent> .
+<http://experiment.worldcat.org/entity/work/data/9614313824#Agent/sociedad_cientifica_argentina> <http://schema.org/name> "[Sociedad Científica Argentina]" .
+<http://www.worldcat.org/oclc/1126179760> <http://purl.org/library/placeOfPublication> <http://experiment.worldcat.org/entity/work/data/9614313824#Place/buenos_aires> .
+<http://www.worldcat.org/oclc/1126179760> <http://www.w3.org/2007/05/powder-s#describedby> <http://www.worldcat.org/title/-/oclc/1126179760> .
+<http://www.worldcat.org/oclc/1126179760> <http://schema.org/contributor> <http://experiment.worldcat.org/entity/work/data/9614313824#Meeting/congreso_cientifico_internacional_americano> .
+<http://www.worldcat.org/oclc/1126179760> <http://schema.org/contributor> <http://experiment.worldcat.org/entity/work/data/9614313824#Meeting/congreso_cientifico_latino_americano> .
+<http://www.worldcat.org/oclc/1126179760> <http://schema.org/isPartOf> <http://experiment.worldcat.org/entity/work/data/9614313824#Series/museum_of_comparative_zoology_biodiversity_heritage_library_digitization_project> .
+<http://www.worldcat.org/oclc/1126179760> <http://schema.org/creator> <http://experiment.worldcat.org/entity/work/data/9614313824#Organization/sociedad_cientifica_argentina> .
+<http://www.worldcat.org/oclc/1126179760> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/9614313824#Topic/sociedad_cientifica_argentina> .
+<http://www.worldcat.org/oclc/1126179760> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/9614313824#Topic/publicaciones_periodicas> .
+<http://www.worldcat.org/oclc/1126179760> <http://schema.org/genre> "series"@en .
+<http://www.worldcat.org/oclc/1126179760> <http://schema.org/genre> "Periodicals"@en .
+<http://www.worldcat.org/oclc/1126179760> <http://purl.org/library/oclcnum> "1126179760" .
+<http://www.worldcat.org/oclc/1126179760> <http://schema.org/inLanguage> "en" .
+<http://www.worldcat.org/oclc/1126179760> <http://schema.org/workExample> <http://worldcat.org/issn/0037-8437> .
+<http://www.worldcat.org/oclc/1126179760> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://www.worldcat.org/oclc/1126179760> <http://schema.org/name> "Anales de la Sociedad Científica Argentina."@en .
+<http://www.worldcat.org/oclc/1126179760> <http://schema.org/about> <http://dewey.info/class/505/> .
+<http://www.worldcat.org/oclc/1126179760> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/9614313824#Topic/science> .
+<http://www.worldcat.org/oclc/1126179760> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://www.worldcat.org/oclc/1126179760> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/9614313824#Topic/ciencia> .
+<http://www.worldcat.org/oclc/1126179760> <http://schema.org/isSimilarTo> <http://www.worldcat.org/oclc/1765722> .
+<http://www.worldcat.org/oclc/1126179760> <http://schema.org/publication> <http://www.worldcat.org/title/-/oclc/1126179760#PublicationEvent/buenos_aires_sociedad_cientifica_argentina_1876> .
+<http://www.worldcat.org/oclc/1126179760> <http://schema.org/exampleOfWork> <http://worldcat.org/entity/work/id/9614313824> .
+<http://www.worldcat.org/oclc/1126179760> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/MediaObject> .
+<http://www.worldcat.org/oclc/1126179760> <http://schema.org/productID> "1126179760" .
+<http://www.worldcat.org/oclc/1126179760> <http://schema.org/datePublished> "1876" .
+<http://www.worldcat.org/oclc/1126179760> <http://schema.org/contributor> <http://experiment.worldcat.org/entity/work/data/9614313824#Meeting/congreso_cientifico_internacional_americano_buenos_aires_argentina> .
+<http://www.worldcat.org/oclc/1126179760> <http://purl.org/library/placeOfPublication> <http://id.loc.gov/vocabulary/countries/ag> .
+<http://www.worldcat.org/oclc/1126179760> <http://schema.org/publisher> <http://experiment.worldcat.org/entity/work/data/9614313824#Agent/sociedad_cientifica_argentina> .
+<http://www.worldcat.org/oclc/1126179760> <http://schema.org/url> <https://www.biodiversitylibrary.org/bibliography/44792> .
+<http://experiment.worldcat.org/entity/work/data/9614313824#Place/buenos_aires> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://experiment.worldcat.org/entity/work/data/9614313824#Place/buenos_aires> <http://schema.org/name> "Buenos Aires" .
+<http://id.loc.gov/vocabulary/countries/ag> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://id.loc.gov/vocabulary/countries/ag> <http://purl.org/dc/terms/identifier> "ag" .
+<http://experiment.worldcat.org/entity/work/data/9614313824#Topic/publicaciones_periodicas> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/9614313824#Topic/publicaciones_periodicas> <http://schema.org/name> "PUBLICACIONES PERIODICAS"@en .
+<http://worldcat.org/entity/work/id/9614313824> <http://umbel.org/umbel#isLike> <http://worldcat.org/issn/0037-8437> .
+<http://www.worldcat.org/title/-/oclc/1126179760#PublicationEvent/buenos_aires_sociedad_cientifica_argentina_1876> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PublicationEvent> .
+<http://www.worldcat.org/title/-/oclc/1126179760#PublicationEvent/buenos_aires_sociedad_cientifica_argentina_1876> <http://schema.org/location> <http://experiment.worldcat.org/entity/work/data/9614313824#Place/buenos_aires> .
+<http://www.worldcat.org/title/-/oclc/1126179760#PublicationEvent/buenos_aires_sociedad_cientifica_argentina_1876> <http://schema.org/organizer> <http://experiment.worldcat.org/entity/work/data/9614313824#Agent/sociedad_cientifica_argentina> .
+<http://www.worldcat.org/title/-/oclc/1126179760#PublicationEvent/buenos_aires_sociedad_cientifica_argentina_1876> <http://schema.org/startDate> "1876" .
+<http://experiment.worldcat.org/entity/work/data/9614313824#Meeting/congreso_cientifico_internacional_americano> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event> .
+<http://experiment.worldcat.org/entity/work/data/9614313824#Meeting/congreso_cientifico_internacional_americano> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bibliograph.net/Meeting> .
+<http://experiment.worldcat.org/entity/work/data/9614313824#Meeting/congreso_cientifico_internacional_americano> <http://schema.org/name> "Congreso Científico Internacional Americano." .
+<http://experiment.worldcat.org/entity/work/data/9614313824#Meeting/congreso_cientifico_internacional_americano_buenos_aires_argentina> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event> .
+<http://experiment.worldcat.org/entity/work/data/9614313824#Meeting/congreso_cientifico_internacional_americano_buenos_aires_argentina> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bibliograph.net/Meeting> .
+<http://experiment.worldcat.org/entity/work/data/9614313824#Meeting/congreso_cientifico_internacional_americano_buenos_aires_argentina> <http://schema.org/name> "Congreso Científico Internacional Americano (Buenos Aires, Argentina)" .
+<http://worldcat.org/issn/0037-8437> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://worldcat.org/issn/0037-8437> <http://schema.org/name> "Anales de la Sociedad Científica Argentina."@en .
+<http://worldcat.org/issn/0037-8437> <http://schema.org/issn> "0037-8437" .
+<http://worldcat.org/issn/0037-8437> <http://umbel.org/umbel#isLike> <http://worldcat.org/entity/work/id/9614313824> .
+<http://experiment.worldcat.org/entity/work/data/9614313824#Meeting/congreso_cientifico_latino_americano> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event> .
+<http://experiment.worldcat.org/entity/work/data/9614313824#Meeting/congreso_cientifico_latino_americano> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bibliograph.net/Meeting> .
+<http://experiment.worldcat.org/entity/work/data/9614313824#Meeting/congreso_cientifico_latino_americano> <http://schema.org/name> "Congreso Científico Latino Americano." .
+<http://experiment.worldcat.org/entity/work/data/9614313824#Topic/science> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/9614313824#Topic/science> <http://schema.org/name> "Science"@en .
+<http://dewey.info/class/505/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .

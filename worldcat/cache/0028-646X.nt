@@ -1,0 +1,64 @@
+<http://link.libris.kb.se/sfxbibsam?url_ver=Z39.88-2004&ctx_ver=Z39.88-2004&ctx_enc=info:ofi/enc:UTF-8&rfr_id=info:sid/sfxit.com:opac_856&url_ctx_fmt=info:ofi/fmt:kev:mtx:ctx&sfx.ignore_date_threshold=1&rft.object_id=954925334695&svc_val_fmt=info:ofi/fmt:kev:mtx:sch_svc&svc.fulltext=yes&> <http://www.w3.org/2000/01/rdf-schema#comment> "Fritt tillgänglig via:" .
+<http://link.libris.kb.se/sfxbibsam?url_ver=Z39.88-2004&ctx_ver=Z39.88-2004&ctx_enc=info:ofi/enc:UTF-8&rfr_id=info:sid/sfxit.com:opac_856&url_ctx_fmt=info:ofi/fmt:kev:mtx:ctx&sfx.ignore_date_threshold=1&rft.object_id=954925334695&svc_val_fmt=info:ofi/fmt:kev:mtx:sch_svc&svc.fulltext=yes&> <http://www.w3.org/2000/01/rdf-schema#comment> "Wiley Online Library Free 2014:Full Text" .
+<http://worldcat.org/issn/1469-8137> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://worldcat.org/issn/1469-8137> <http://schema.org/name> "New phytologist" .
+<http://worldcat.org/issn/1469-8137> <http://schema.org/issn> "1469-8137" .
+<http://worldcat.org/issn/1469-8137> <http://umbel.org/umbel#isLike> <http://worldcat.org/entity/work/id/54074381> .
+<http://experiment.worldcat.org/entity/work/data/54074381#Topic/botanik> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/54074381#Topic/botanik> <http://schema.org/name> "Botanik" .
+<http://worldcat.org/entity/work/id/54074381> <http://umbel.org/umbel#isLike> <http://worldcat.org/issn/1469-8137> .
+<http://www.worldcat.org/oclc/924716464> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://www.worldcat.org/oclc/924716464> <http://purl.org/library/oclcnum> "924716464" .
+<http://www.worldcat.org/oclc/924716464> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://www.worldcat.org/oclc/924716464> <http://schema.org/datePublished> "1998/9999" .
+<http://www.worldcat.org/oclc/924716464> <http://www.w3.org/2007/05/powder-s#describedby> <http://www.worldcat.org/title/-/oclc/924716464> .
+<http://www.worldcat.org/oclc/924716464> <http://schema.org/about> <http://dewey.info/class/580/e21/> .
+<http://www.worldcat.org/oclc/924716464> <http://purl.org/library/placeOfPublication> <http://experiment.worldcat.org/entity/work/data/54074381#Place/oxford> .
+<http://www.worldcat.org/oclc/924716464> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/MediaObject> .
+<http://www.worldcat.org/oclc/924716464> <http://schema.org/publication> <http://www.worldcat.org/title/-/oclc/924716464#PublicationEvent/cambridge_cambridge_university_press_1997> .
+<http://www.worldcat.org/oclc/924716464> <http://schema.org/genre> "Periodicals" .
+<http://www.worldcat.org/oclc/924716464> <http://schema.org/publisher> <http://experiment.worldcat.org/entity/work/data/54074381#Agent/cambridge_university_press> .
+<http://www.worldcat.org/oclc/924716464> <http://schema.org/productID> "924716464" .
+<http://www.worldcat.org/oclc/924716464> <http://schema.org/publication> <http://www.worldcat.org/title/-/oclc/924716464#PublicationEvent/oxford_blackwell_publishing_2000> .
+<http://www.worldcat.org/oclc/924716464> <http://schema.org/url> <http://link.libris.kb.se/sfxbibsam?url_ver=Z39.88-2004&ctx_ver=Z39.88-2004&ctx_enc=info:ofi/enc:UTF-8&rfr_id=info:sid/sfxit.com:opac_856&url_ctx_fmt=info:ofi/fmt:kev:mtx:ctx&sfx.ignore_date_threshold=1&rft.object_id=954925334695&svc_val_fmt=info:ofi/fmt:kev:mtx:sch_svc&svc.fulltext=yes&> .
+<http://www.worldcat.org/oclc/924716464> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/54074381#Topic/botanik> .
+<http://www.worldcat.org/oclc/924716464> <http://schema.org/name> "New phytologist" .
+<http://www.worldcat.org/oclc/924716464> <http://purl.org/library/placeOfPublication> <http://experiment.worldcat.org/entity/work/data/54074381#Place/cambridge> .
+<http://www.worldcat.org/oclc/924716464> <http://schema.org/datePublished> "1997/" .
+<http://www.worldcat.org/oclc/924716464> <http://purl.org/library/placeOfPublication> <http://id.loc.gov/vocabulary/countries/enk> .
+<http://www.worldcat.org/oclc/924716464> <http://schema.org/exampleOfWork> <http://worldcat.org/entity/work/id/54074381> .
+<http://www.worldcat.org/oclc/924716464> <http://schema.org/inLanguage> "en" .
+<http://www.worldcat.org/oclc/924716464> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/54074381#Topic/botany> .
+<http://www.worldcat.org/oclc/924716464> <http://schema.org/publisher> <http://experiment.worldcat.org/entity/work/data/54074381#Agent/blackwell_publishing> .
+<http://www.worldcat.org/oclc/924716464> <http://schema.org/workExample> <http://worldcat.org/issn/1469-8137> .
+<http://www.worldcat.org/oclc/924716464> <http://schema.org/datePublished> "2000/" .
+<http://www.worldcat.org/oclc/924716464> <http://schema.org/isSimilarTo> <http://worldcat.org/entity/work/data/54074381#CreativeWork/new_phytologist_print> .
+<http://experiment.worldcat.org/entity/work/data/54074381#Place/cambridge> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://experiment.worldcat.org/entity/work/data/54074381#Place/cambridge> <http://schema.org/name> "Cambridge" .
+<http://www.worldcat.org/title/-/oclc/924716464> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#ContentTypeGenericResource> .
+<http://www.worldcat.org/title/-/oclc/924716464> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#InformationResource> .
+<http://www.worldcat.org/title/-/oclc/924716464> <http://schema.org/about> <http://www.worldcat.org/oclc/924716464> .
+<http://www.worldcat.org/title/-/oclc/924716464> <http://schema.org/dateModified> "2019-02-09" .
+<http://www.worldcat.org/title/-/oclc/924716464> <http://rdfs.org/ns/void#inDataset> <http://purl.oclc.org/dataset/WorldCat> .
+<http://id.loc.gov/vocabulary/countries/enk> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://id.loc.gov/vocabulary/countries/enk> <http://purl.org/dc/terms/identifier> "enk" .
+<http://experiment.worldcat.org/entity/work/data/54074381#Place/oxford> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://experiment.worldcat.org/entity/work/data/54074381#Place/oxford> <http://schema.org/name> "Oxford" .
+<http://dewey.info/class/580/e21/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/54074381#Agent/cambridge_university_press> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bibliograph.net/Agent> .
+<http://experiment.worldcat.org/entity/work/data/54074381#Agent/cambridge_university_press> <http://schema.org/name> "Cambridge University Press" .
+<http://experiment.worldcat.org/entity/work/data/54074381#Agent/blackwell_publishing> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bibliograph.net/Agent> .
+<http://experiment.worldcat.org/entity/work/data/54074381#Agent/blackwell_publishing> <http://schema.org/name> "Blackwell Publishing" .
+<http://www.worldcat.org/title/-/oclc/924716464#PublicationEvent/oxford_blackwell_publishing_2000> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PublicationEvent> .
+<http://www.worldcat.org/title/-/oclc/924716464#PublicationEvent/oxford_blackwell_publishing_2000> <http://schema.org/location> <http://experiment.worldcat.org/entity/work/data/54074381#Place/oxford> .
+<http://www.worldcat.org/title/-/oclc/924716464#PublicationEvent/oxford_blackwell_publishing_2000> <http://schema.org/organizer> <http://experiment.worldcat.org/entity/work/data/54074381#Agent/blackwell_publishing> .
+<http://www.worldcat.org/title/-/oclc/924716464#PublicationEvent/oxford_blackwell_publishing_2000> <http://schema.org/startDate> "2000-" .
+<http://experiment.worldcat.org/entity/work/data/54074381#Topic/botany> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/54074381#Topic/botany> <http://schema.org/name> "Botany" .
+<http://worldcat.org/entity/work/data/54074381#CreativeWork/new_phytologist_print> <http://schema.org/isSimilarTo> <http://www.worldcat.org/oclc/924716464> .
+<http://worldcat.org/entity/work/data/54074381#CreativeWork/new_phytologist_print> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://worldcat.org/entity/work/data/54074381#CreativeWork/new_phytologist_print> <http://www.w3.org/2000/01/rdf-schema#label> "New phytologist (Print)" .
+<http://www.worldcat.org/title/-/oclc/924716464#PublicationEvent/cambridge_cambridge_university_press_1997> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PublicationEvent> .
+<http://www.worldcat.org/title/-/oclc/924716464#PublicationEvent/cambridge_cambridge_university_press_1997> <http://schema.org/location> <http://experiment.worldcat.org/entity/work/data/54074381#Place/cambridge> .
+<http://www.worldcat.org/title/-/oclc/924716464#PublicationEvent/cambridge_cambridge_university_press_1997> <http://schema.org/organizer> <http://experiment.worldcat.org/entity/work/data/54074381#Agent/cambridge_university_press> .
+<http://www.worldcat.org/title/-/oclc/924716464#PublicationEvent/cambridge_cambridge_university_press_1997> <http://schema.org/startDate> "1997-" .

@@ -165,6 +165,15 @@ See http://localhost/~rpage/lois-kg/www/?uri=urn:lsid:ipni.org:names:15507-1
 
 ## Examples to show/expore
 
+### Bad ORCIDs
+
+https://orcid.org/0000-0002-5202-9708 J.A Perez-Taborda seems to combine e two different people, a physicist and a taxonomist
+
+### ORCIDs in CrossRef with no or few pubs in CrossRef
+
+https://api.crossref.org/v1/works/10.1111/jbi.13190 (if papers cites those authors can we then infer ORCIDs apply to those authors (e.g., Bonaventure Sonké has ORCID http://orcid.org/0000-0002-4310-3603 but that profile is empty, if papers by Sonké are cited by that paper, then likely that Sonké is same person).
+
+
 ### Lots of authors with ORCIDs
 
 http://localhost/~rpage/lois-kg/www/?uri=https://doi.org/10.1002/fedr.201700018. (three authors all with ORCIDs)
@@ -174,6 +183,8 @@ http://localhost/~rpage/lois-kg/www/?uri=https://doi.org/10.1007/s00606-018-1504
 ### Interesting people
 
 Keooudone Souvannakhoummane 0000-0003-4875-8307 
+
+运洪 谭 0000-0001-6238-2743
 
 
 

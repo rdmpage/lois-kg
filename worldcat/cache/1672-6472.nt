@@ -1,0 +1,28 @@
+<http://worldcat.org/issn/1672-6472> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://worldcat.org/issn/1672-6472> <http://schema.org/name> "Mycosystema = Junwu Xitong." .
+<http://worldcat.org/issn/1672-6472> <http://schema.org/issn> "1672-6472" .
+<http://worldcat.org/issn/1672-6472> <http://umbel.org/umbel#isLike> <http://worldcat.org/entity/work/id/423259608> .
+<http://www.worldcat.org/title/-/oclc/1038559405> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#ContentTypeGenericResource> .
+<http://www.worldcat.org/title/-/oclc/1038559405> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#InformationResource> .
+<http://www.worldcat.org/title/-/oclc/1038559405> <http://schema.org/about> <http://www.worldcat.org/oclc/1038559405> .
+<http://www.worldcat.org/title/-/oclc/1038559405> <http://schema.org/dateModified> "2019-03-14" .
+<http://www.worldcat.org/title/-/oclc/1038559405> <http://rdfs.org/ns/void#inDataset> <http://purl.oclc.org/dataset/WorldCat> .
+<http://id.loc.gov/vocabulary/countries/cc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://id.loc.gov/vocabulary/countries/cc> <http://purl.org/dc/terms/identifier> "cc" .
+<http://worldcat.org/entity/work/id/423259608> <http://umbel.org/umbel#isLike> <http://worldcat.org/issn/1672-6472> .
+<http://www.worldcat.org/oclc/1038559405> <http://schema.org/name> "Mycosystema = Junwu Xitong." .
+<http://www.worldcat.org/oclc/1038559405> <http://schema.org/datePublished> "1997/9999" .
+<http://www.worldcat.org/oclc/1038559405> <http://schema.org/exampleOfWork> <http://worldcat.org/entity/work/id/423259608> .
+<http://www.worldcat.org/oclc/1038559405> <http://schema.org/alternateName> "Junwu Xitong" .
+<http://www.worldcat.org/oclc/1038559405> <http://schema.org/inLanguage> "en" .
+<http://www.worldcat.org/oclc/1038559405> <http://www.w3.org/2007/05/powder-s#describedby> <http://www.worldcat.org/title/-/oclc/1038559405> .
+<http://www.worldcat.org/oclc/1038559405> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://www.worldcat.org/oclc/1038559405> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/423259608#Topic/mycologie_systematique> .
+<http://www.worldcat.org/oclc/1038559405> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://www.worldcat.org/oclc/1038559405> <http://schema.org/productID> "1038559405" .
+<http://www.worldcat.org/oclc/1038559405> <http://schema.org/workExample> <http://worldcat.org/issn/1672-6472> .
+<http://www.worldcat.org/oclc/1038559405> <http://purl.org/library/oclcnum> "1038559405" .
+<http://www.worldcat.org/oclc/1038559405> <http://purl.org/library/placeOfPublication> <http://id.loc.gov/vocabulary/countries/cc> .
+<http://www.worldcat.org/oclc/1038559405> <http://schema.org/genre> "[Périodiques]" .
+<http://experiment.worldcat.org/entity/work/data/423259608#Topic/mycologie_systematique> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/423259608#Topic/mycologie_systematique> <http://schema.org/name> "mycologie systématique" .

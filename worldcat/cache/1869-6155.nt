@@ -1,0 +1,105 @@
+<http://experiment.worldcat.org/entity/work/data/8961014067#Place/stuttgart> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://experiment.worldcat.org/entity/work/data/8961014067#Place/stuttgart> <http://schema.org/name> "Stuttgart" .
+<http://id.loc.gov/vocabulary/countries/gw> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://id.loc.gov/vocabulary/countries/gw> <http://purl.org/dc/terms/identifier> "gw" .
+<http://www.worldcat.org/title/-/oclc/650935442#PublicationEvent/stuttgart_schweizerbart_2010> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PublicationEvent> .
+<http://www.worldcat.org/title/-/oclc/650935442#PublicationEvent/stuttgart_schweizerbart_2010> <http://schema.org/location> <http://experiment.worldcat.org/entity/work/data/8961014067#Place/stuttgart> .
+<http://www.worldcat.org/title/-/oclc/650935442#PublicationEvent/stuttgart_schweizerbart_2010> <http://schema.org/organizer> <http://experiment.worldcat.org/entity/work/data/8961014067#Agent/schweizerbart> .
+<http://www.worldcat.org/title/-/oclc/650935442#PublicationEvent/stuttgart_schweizerbart_2010> <http://schema.org/startDate> "2010-" .
+<http://experiment.worldcat.org/entity/work/data/8961014067#Topic/biogeografie> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/8961014067#Topic/biogeografie> <http://schema.org/name> "biogeografie" .
+<http://worldcat.org/entity/work/data/8961014067#CreativeWork/plant_diversity_and_evolution> <http://schema.org/isSimilarTo> <http://www.worldcat.org/oclc/650935442> .
+<http://worldcat.org/entity/work/data/8961014067#CreativeWork/plant_diversity_and_evolution> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://worldcat.org/entity/work/data/8961014067#CreativeWork/plant_diversity_and_evolution> <http://www.w3.org/2000/01/rdf-schema#label> "Plant diversity and evolution" .
+<http://experiment.worldcat.org/entity/work/data/8961014067#Topic/plant_morphology> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/8961014067#Topic/plant_morphology> <http://schema.org/name> "plant morphology" .
+<http://experiment.worldcat.org/entity/work/data/8961014067#Topic/evolutie_en_fylogenie> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/8961014067#Topic/evolutie_en_fylogenie> <http://schema.org/name> "Evolutie en fylogenie" .
+<http://experiment.worldcat.org/entity/work/data/8961014067#Topic/plantentaxonomie> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/8961014067#Topic/plantentaxonomie> <http://schema.org/name> "Plantentaxonomie" .
+<http://experiment.worldcat.org/entity/work/data/8961014067#Topic/botany> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/8961014067#Topic/botany> <http://schema.org/name> "botany" .
+<http://experiment.worldcat.org/entity/work/data/8961014067#Topic/phylogeny> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/8961014067#Topic/phylogeny> <http://schema.org/name> "phylogeny" .
+<http://experiment.worldcat.org/entity/work/data/8961014067#Topic/plant_taxonomy> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/8961014067#Topic/plant_taxonomy> <http://schema.org/name> "Plant Taxonomy" .
+<http://www.worldcat.org/title/-/oclc/650935442> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#ContentTypeGenericResource> .
+<http://www.worldcat.org/title/-/oclc/650935442> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#InformationResource> .
+<http://www.worldcat.org/title/-/oclc/650935442> <http://schema.org/about> <http://www.worldcat.org/oclc/650935442> .
+<http://www.worldcat.org/title/-/oclc/650935442> <http://schema.org/dateModified> "2019-10-21" .
+<http://www.worldcat.org/title/-/oclc/650935442> <http://rdfs.org/ns/void#inDataset> <http://purl.oclc.org/dataset/WorldCat> .
+<http://experiment.worldcat.org/entity/work/data/8961014067#Topic/evolutie> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/8961014067#Topic/evolutie> <http://schema.org/name> "evolutie" .
+<http://experiment.worldcat.org/entity/work/data/8961014067#Topic/fylogenie> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/8961014067#Topic/fylogenie> <http://schema.org/name> "fylogenie" .
+<http://experiment.worldcat.org/entity/work/data/8961014067#Topic/plantkunde> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/8961014067#Topic/plantkunde> <http://schema.org/name> "plantkunde" .
+<http://worldcat.org/entity/work/id/8961014067> <http://umbel.org/umbel#isLike> <http://worldcat.org/issn/1869-6155> .
+<http://experiment.worldcat.org/entity/work/data/8961014067#Topic/plantenanatomie> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/8961014067#Topic/plantenanatomie> <http://schema.org/name> "plantenanatomie" .
+<http://experiment.worldcat.org/entity/work/data/8961014067#Topic/botanie_algemeen> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/8961014067#Topic/botanie_algemeen> <http://schema.org/name> "Botanie (algemeen)" .
+<http://worldcat.org/issn/1869-6155> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://worldcat.org/issn/1869-6155> <http://schema.org/name> "Plant diversity and evolution." .
+<http://worldcat.org/issn/1869-6155> <http://schema.org/issn> "1869-6155" .
+<http://worldcat.org/issn/1869-6155> <http://umbel.org/umbel#isLike> <http://worldcat.org/entity/work/id/8961014067> .
+<http://experiment.worldcat.org/entity/work/data/8961014067#Topic/biogeography> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/8961014067#Topic/biogeography> <http://schema.org/name> "biogeography" .
+<http://experiment.worldcat.org/entity/work/data/8961014067#Topic/botany_general> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/8961014067#Topic/botany_general> <http://schema.org/name> "Botany (General)" .
+<http://experiment.worldcat.org/entity/work/data/8961014067#Topic/diversiteit> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/8961014067#Topic/diversiteit> <http://schema.org/name> "diversiteit" .
+<http://experiment.worldcat.org/entity/work/data/8961014067#Topic/taxonomie> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/8961014067#Topic/taxonomie> <http://schema.org/name> "taxonomie" .
+<http://experiment.worldcat.org/entity/work/data/8961014067#Agent/schweizerbart> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bibliograph.net/Agent> .
+<http://experiment.worldcat.org/entity/work/data/8961014067#Agent/schweizerbart> <http://schema.org/name> "Schweizerbart" .
+<http://experiment.worldcat.org/entity/work/data/8961014067#Topic/plantenmorfologie> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/8961014067#Topic/plantenmorfologie> <http://schema.org/name> "plantenmorfologie" .
+<http://experiment.worldcat.org/entity/work/data/8961014067#Topic/taxonomy> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/8961014067#Topic/taxonomy> <http://schema.org/name> "taxonomy" .
+<http://experiment.worldcat.org/entity/work/data/8961014067#Topic/evolution_and_phylogeny> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/8961014067#Topic/evolution_and_phylogeny> <http://schema.org/name> "Evolution and Phylogeny" .
+<http://experiment.worldcat.org/entity/work/data/8961014067#Topic/evolution> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/8961014067#Topic/evolution> <http://schema.org/name> "evolution" .
+<http://www.worldcat.org/oclc/650935442> <http://schema.org/publication> <http://www.worldcat.org/title/-/oclc/650935442#PublicationEvent/stuttgart_schweizerbart_2010> .
+<http://www.worldcat.org/oclc/650935442> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/8961014067#Topic/evolution_and_phylogeny> .
+<http://www.worldcat.org/oclc/650935442> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/8961014067#Topic/phylogeny> .
+<http://www.worldcat.org/oclc/650935442> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/8961014067#Topic/botany_general> .
+<http://www.worldcat.org/oclc/650935442> <http://schema.org/name> "Plant diversity and evolution." .
+<http://www.worldcat.org/oclc/650935442> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/8961014067#Topic/plantkunde> .
+<http://www.worldcat.org/oclc/650935442> <http://schema.org/isSimilarTo> <http://worldcat.org/entity/work/data/8961014067#CreativeWork/plant_diversity_and_evolution> .
+<http://www.worldcat.org/oclc/650935442> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/8961014067#Topic/plantentaxonomie> .
+<http://www.worldcat.org/oclc/650935442> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://www.worldcat.org/oclc/650935442> <http://www.w3.org/2007/05/powder-s#describedby> <http://www.worldcat.org/title/-/oclc/650935442> .
+<http://www.worldcat.org/oclc/650935442> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/8961014067#Topic/diversity> .
+<http://www.worldcat.org/oclc/650935442> <http://schema.org/publisher> <http://experiment.worldcat.org/entity/work/data/8961014067#Agent/schweizerbart> .
+<http://www.worldcat.org/oclc/650935442> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/8961014067#Topic/plantenanatomie> .
+<http://www.worldcat.org/oclc/650935442> <http://schema.org/inLanguage> "en" .
+<http://www.worldcat.org/oclc/650935442> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/8961014067#Topic/plantenmorfologie> .
+<http://www.worldcat.org/oclc/650935442> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/8961014067#Topic/plant_taxonomy> .
+<http://www.worldcat.org/oclc/650935442> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/8961014067#Topic/taxonomy> .
+<http://www.worldcat.org/oclc/650935442> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/8961014067#Topic/fylogenie> .
+<http://www.worldcat.org/oclc/650935442> <http://schema.org/datePublished> "2010/" .
+<http://www.worldcat.org/oclc/650935442> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/8961014067#Topic/biogeography> .
+<http://www.worldcat.org/oclc/650935442> <http://purl.org/library/placeOfPublication> <http://id.loc.gov/vocabulary/countries/gw> .
+<http://www.worldcat.org/oclc/650935442> <http://purl.org/library/placeOfPublication> <http://experiment.worldcat.org/entity/work/data/8961014067#Place/stuttgart> .
+<http://www.worldcat.org/oclc/650935442> <http://schema.org/exampleOfWork> <http://worldcat.org/entity/work/id/8961014067> .
+<http://www.worldcat.org/oclc/650935442> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://www.worldcat.org/oclc/650935442> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/8961014067#Topic/biogeografie> .
+<http://www.worldcat.org/oclc/650935442> <http://purl.org/library/oclcnum> "650935442" .
+<http://www.worldcat.org/oclc/650935442> <http://schema.org/datePublished> "2010/9999" .
+<http://www.worldcat.org/oclc/650935442> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/8961014067#Topic/taxonomie> .
+<http://www.worldcat.org/oclc/650935442> <http://schema.org/productID> "650935442" .
+<http://www.worldcat.org/oclc/650935442> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/8961014067#Topic/evolutie> .
+<http://www.worldcat.org/oclc/650935442> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/8961014067#Topic/evolutie_en_fylogenie> .
+<http://www.worldcat.org/oclc/650935442> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/8961014067#Topic/botany> .
+<http://www.worldcat.org/oclc/650935442> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/8961014067#Topic/diversiteit> .
+<http://www.worldcat.org/oclc/650935442> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/8961014067#Topic/botanie_algemeen> .
+<http://www.worldcat.org/oclc/650935442> <http://schema.org/workExample> <http://worldcat.org/issn/1869-6155> .
+<http://www.worldcat.org/oclc/650935442> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/8961014067#Topic/evolution> .
+<http://www.worldcat.org/oclc/650935442> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/8961014067#Topic/plant_morphology> .
+<http://www.worldcat.org/oclc/650935442> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/8961014067#Topic/plant_anatomy> .
+<http://experiment.worldcat.org/entity/work/data/8961014067#Topic/diversity> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/8961014067#Topic/diversity> <http://schema.org/name> "diversity" .
+<http://experiment.worldcat.org/entity/work/data/8961014067#Topic/plant_anatomy> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/8961014067#Topic/plant_anatomy> <http://schema.org/name> "plant anatomy" .

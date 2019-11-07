@@ -1,0 +1,43 @@
+<http://experiment.worldcat.org/entity/work/data/3373577808#Organization/institucion_catalana_de_historia_natural> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+<http://experiment.worldcat.org/entity/work/data/3373577808#Organization/institucion_catalana_de_historia_natural> <http://schema.org/name> "Institución Catalana de Historia Natural." .
+<http://www.worldcat.org/oclc/1026555497> <http://schema.org/exampleOfWork> <http://worldcat.org/entity/work/id/3373577808> .
+<http://www.worldcat.org/oclc/1026555497> <http://schema.org/contributor> <http://experiment.worldcat.org/entity/work/data/3373577808#Organization/institucion_catalana_de_historia_natural> .
+<http://www.worldcat.org/oclc/1026555497> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://www.worldcat.org/oclc/1026555497> <http://schema.org/workExample> <http://worldcat.org/issn/0210-6205> .
+<http://www.worldcat.org/oclc/1026555497> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/3373577808#Topic/botanica> .
+<http://www.worldcat.org/oclc/1026555497> <http://purl.org/library/placeOfPublication> <http://experiment.worldcat.org/entity/work/data/3373577808#Place/barcelona> .
+<http://www.worldcat.org/oclc/1026555497> <http://schema.org/datePublished> "1974/1993" .
+<http://www.worldcat.org/oclc/1026555497> <http://schema.org/inLanguage> "es" .
+<http://www.worldcat.org/oclc/1026555497> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://www.worldcat.org/oclc/1026555497> <http://purl.org/library/oclcnum> "1026555497" .
+<http://www.worldcat.org/oclc/1026555497> <http://schema.org/publisher> <http://experiment.worldcat.org/entity/work/data/3373577808#Agent/institucio_catalana_d_historia_natural> .
+<http://www.worldcat.org/oclc/1026555497> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/3373577808#Topic/botanica_publicaciones_periodicas> .
+<http://www.worldcat.org/oclc/1026555497> <http://schema.org/name> "Butlleti de la Institucio Catalana D'Historia Natural. Seccio de Botanica"@es .
+<http://www.worldcat.org/oclc/1026555497> <http://schema.org/publication> <http://www.worldcat.org/title/-/oclc/1026555497#PublicationEvent/barcelona_institucio_catalana_d_historia_natural_1974_1993> .
+<http://www.worldcat.org/oclc/1026555497> <http://www.w3.org/2007/05/powder-s#describedby> <http://www.worldcat.org/title/-/oclc/1026555497> .
+<http://www.worldcat.org/oclc/1026555497> <http://schema.org/productID> "1026555497" .
+<http://www.worldcat.org/oclc/1026555497> <http://purl.org/library/placeOfPublication> <http://id.loc.gov/vocabulary/countries/sp> .
+<http://www.worldcat.org/title/-/oclc/1026555497#PublicationEvent/barcelona_institucio_catalana_d_historia_natural_1974_1993> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PublicationEvent> .
+<http://www.worldcat.org/title/-/oclc/1026555497#PublicationEvent/barcelona_institucio_catalana_d_historia_natural_1974_1993> <http://schema.org/location> <http://experiment.worldcat.org/entity/work/data/3373577808#Place/barcelona> .
+<http://www.worldcat.org/title/-/oclc/1026555497#PublicationEvent/barcelona_institucio_catalana_d_historia_natural_1974_1993> <http://schema.org/organizer> <http://experiment.worldcat.org/entity/work/data/3373577808#Agent/institucio_catalana_d_historia_natural> .
+<http://www.worldcat.org/title/-/oclc/1026555497#PublicationEvent/barcelona_institucio_catalana_d_historia_natural_1974_1993> <http://schema.org/startDate> "1974-1993" .
+<http://www.worldcat.org/title/-/oclc/1026555497> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#ContentTypeGenericResource> .
+<http://www.worldcat.org/title/-/oclc/1026555497> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#InformationResource> .
+<http://www.worldcat.org/title/-/oclc/1026555497> <http://schema.org/about> <http://www.worldcat.org/oclc/1026555497> .
+<http://www.worldcat.org/title/-/oclc/1026555497> <http://schema.org/dateModified> "2019-10-30" .
+<http://www.worldcat.org/title/-/oclc/1026555497> <http://rdfs.org/ns/void#inDataset> <http://purl.oclc.org/dataset/WorldCat> .
+<http://worldcat.org/entity/work/id/3373577808> <http://umbel.org/umbel#isLike> <http://worldcat.org/issn/0210-6205> .
+<http://worldcat.org/issn/0210-6205> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://worldcat.org/issn/0210-6205> <http://schema.org/name> "Butlleti de la Institucio Catalana D'Historia Natural. Seccio de Botanica"@es .
+<http://worldcat.org/issn/0210-6205> <http://schema.org/issn> "0210-6205" .
+<http://worldcat.org/issn/0210-6205> <http://umbel.org/umbel#isLike> <http://worldcat.org/entity/work/id/3373577808> .
+<http://experiment.worldcat.org/entity/work/data/3373577808#Topic/botanica_publicaciones_periodicas> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/3373577808#Topic/botanica_publicaciones_periodicas> <http://schema.org/name> "Botánica--Publicaciones periódicas"@es .
+<http://experiment.worldcat.org/entity/work/data/3373577808#Place/barcelona> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://experiment.worldcat.org/entity/work/data/3373577808#Place/barcelona> <http://schema.org/name> "Barcelona" .
+<http://id.loc.gov/vocabulary/countries/sp> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://id.loc.gov/vocabulary/countries/sp> <http://purl.org/dc/terms/identifier> "sp" .
+<http://experiment.worldcat.org/entity/work/data/3373577808#Agent/institucio_catalana_d_historia_natural> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bibliograph.net/Agent> .
+<http://experiment.worldcat.org/entity/work/data/3373577808#Agent/institucio_catalana_d_historia_natural> <http://schema.org/name> "Institucio Catalana D'Historia Natural" .
+<http://experiment.worldcat.org/entity/work/data/3373577808#Topic/botanica> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/3373577808#Topic/botanica> <http://schema.org/name> "Botánica"@es .

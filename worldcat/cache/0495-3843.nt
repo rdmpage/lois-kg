@@ -1,0 +1,61 @@
+<http://dewey.info/class/582.1609593/e19/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/9181624174#Topic/forest_plants> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/9181624174#Topic/forest_plants> <http://schema.org/name> "Forest plants"@en .
+<http://experiment.worldcat.org/entity/work/data/9181624174#Topic/plants> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/9181624174#Topic/plants> <http://schema.org/name> "Plants"@en .
+<http://experiment.worldcat.org/entity/work/data/9181624174#Topic/woody_plants> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/9181624174#Topic/woody_plants> <http://schema.org/name> "Woody plants"@en .
+<http://experiment.worldcat.org/entity/work/data/9181624174#Topic/woody_plants_thailand> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/9181624174#Topic/woody_plants_thailand> <http://schema.org/name> "Woody plants--Thailand"@en .
+<http://id.loc.gov/vocabulary/countries/th> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://id.loc.gov/vocabulary/countries/th> <http://purl.org/dc/terms/identifier> "th" .
+<http://experiment.worldcat.org/entity/work/data/9181624174#Organization/thailand_krom_pa_mai> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+<http://experiment.worldcat.org/entity/work/data/9181624174#Organization/thailand_krom_pa_mai> <http://schema.org/name> "Thailand. Krom Pa. Māi." .
+<http://experiment.worldcat.org/entity/work/data/9181624174#Agent/royal_forest_department> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bibliograph.net/Agent> .
+<http://experiment.worldcat.org/entity/work/data/9181624174#Agent/royal_forest_department> <http://schema.org/name> "Royal Forest Department" .
+<http://experiment.worldcat.org/entity/work/data/9181624174#Topic/forest_plants_thailand> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/9181624174#Topic/forest_plants_thailand> <http://schema.org/name> "Forest plants--Thailand"@en .
+<http://experiment.worldcat.org/entity/work/data/9181624174#Place/bangkok> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://experiment.worldcat.org/entity/work/data/9181624174#Place/bangkok> <http://schema.org/name> "Bangkok" .
+<http://experiment.worldcat.org/entity/work/data/9181624174#Topic/plants_thailand> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/9181624174#Topic/plants_thailand> <http://schema.org/name> "Plants--Thailand"@en .
+<http://experiment.worldcat.org/entity/work/data/9181624174#Place/thailand> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://experiment.worldcat.org/entity/work/data/9181624174#Place/thailand> <http://schema.org/name> "Thailand." .
+<http://www.worldcat.org/title/-/oclc/1064290437#PublicationEvent/bangkok_royal_forest_department_1958> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PublicationEvent> .
+<http://www.worldcat.org/title/-/oclc/1064290437#PublicationEvent/bangkok_royal_forest_department_1958> <http://schema.org/location> <http://experiment.worldcat.org/entity/work/data/9181624174#Place/bangkok> .
+<http://www.worldcat.org/title/-/oclc/1064290437#PublicationEvent/bangkok_royal_forest_department_1958> <http://schema.org/organizer> <http://experiment.worldcat.org/entity/work/data/9181624174#Agent/royal_forest_department> .
+<http://www.worldcat.org/title/-/oclc/1064290437#PublicationEvent/bangkok_royal_forest_department_1958> <http://schema.org/startDate> "1958-" .
+<http://worldcat.org/issn/0495-3843> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://worldcat.org/issn/0495-3843> <http://schema.org/name> "Thai forest bulletin. Botany."@en .
+<http://worldcat.org/issn/0495-3843> <http://schema.org/issn> "0495-3843" .
+<http://worldcat.org/issn/0495-3843> <http://umbel.org/umbel#isLike> <http://worldcat.org/entity/work/id/9181624174> .
+<http://www.worldcat.org/oclc/1064290437> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/9181624174#Topic/plants> .
+<http://www.worldcat.org/oclc/1064290437> <http://schema.org/inLanguage> "en" .
+<http://www.worldcat.org/oclc/1064290437> <http://schema.org/publisher> <http://experiment.worldcat.org/entity/work/data/9181624174#Agent/royal_forest_department> .
+<http://www.worldcat.org/oclc/1064290437> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/9181624174#Topic/woody_plants> .
+<http://www.worldcat.org/oclc/1064290437> <http://schema.org/datePublished> "1958/" .
+<http://www.worldcat.org/oclc/1064290437> <http://purl.org/library/placeOfPublication> <http://id.loc.gov/vocabulary/countries/th> .
+<http://www.worldcat.org/oclc/1064290437> <http://purl.org/library/placeOfPublication> <http://experiment.worldcat.org/entity/work/data/9181624174#Place/bangkok> .
+<http://www.worldcat.org/oclc/1064290437> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/9181624174#Topic/plants_thailand> .
+<http://www.worldcat.org/oclc/1064290437> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://www.worldcat.org/oclc/1064290437> <http://purl.org/library/oclcnum> "1064290437" .
+<http://www.worldcat.org/oclc/1064290437> <http://schema.org/productID> "1064290437" .
+<http://www.worldcat.org/oclc/1064290437> <http://schema.org/datePublished> "1958/9999" .
+<http://www.worldcat.org/oclc/1064290437> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/9181624174#Place/thailand> .
+<http://www.worldcat.org/oclc/1064290437> <http://schema.org/exampleOfWork> <http://worldcat.org/entity/work/id/9181624174> .
+<http://www.worldcat.org/oclc/1064290437> <http://schema.org/publication> <http://www.worldcat.org/title/-/oclc/1064290437#PublicationEvent/bangkok_royal_forest_department_1958> .
+<http://www.worldcat.org/oclc/1064290437> <http://schema.org/contributor> <http://experiment.worldcat.org/entity/work/data/9181624174#Organization/thailand_krom_pa_mai> .
+<http://www.worldcat.org/oclc/1064290437> <http://schema.org/name> "Thai forest bulletin. Botany."@en .
+<http://www.worldcat.org/oclc/1064290437> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/9181624174#Topic/woody_plants_thailand> .
+<http://www.worldcat.org/oclc/1064290437> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/9181624174#Topic/forest_plants> .
+<http://www.worldcat.org/oclc/1064290437> <http://www.w3.org/2007/05/powder-s#describedby> <http://www.worldcat.org/title/-/oclc/1064290437> .
+<http://www.worldcat.org/oclc/1064290437> <http://schema.org/workExample> <http://worldcat.org/issn/0495-3843> .
+<http://www.worldcat.org/oclc/1064290437> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/9181624174#Topic/forest_plants_thailand> .
+<http://www.worldcat.org/oclc/1064290437> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://www.worldcat.org/oclc/1064290437> <http://schema.org/about> <http://dewey.info/class/582.1609593/e19/> .
+<http://worldcat.org/entity/work/id/9181624174> <http://umbel.org/umbel#isLike> <http://worldcat.org/issn/0495-3843> .
+<http://www.worldcat.org/title/-/oclc/1064290437> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#ContentTypeGenericResource> .
+<http://www.worldcat.org/title/-/oclc/1064290437> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#InformationResource> .
+<http://www.worldcat.org/title/-/oclc/1064290437> <http://schema.org/about> <http://www.worldcat.org/oclc/1064290437> .
+<http://www.worldcat.org/title/-/oclc/1064290437> <http://schema.org/dateModified> "2019-06-22" .
+<http://www.worldcat.org/title/-/oclc/1064290437> <http://rdfs.org/ns/void#inDataset> <http://purl.oclc.org/dataset/WorldCat> .

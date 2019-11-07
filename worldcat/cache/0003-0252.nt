@@ -1,0 +1,44 @@
+<http://worldcat.org/entity/work/id/2375650> <http://umbel.org/umbel#isLike> <http://worldcat.org/issn/0003-0252> .
+<http://www.worldcat.org/oclc/457019899> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/2375650#Topic/orchids_periodicals> .
+<http://www.worldcat.org/oclc/457019899> <http://schema.org/datePublished> "1969/1985" .
+<http://www.worldcat.org/oclc/457019899> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://www.worldcat.org/oclc/457019899> <http://schema.org/productID> "457019899" .
+<http://www.worldcat.org/oclc/457019899> <http://purl.org/library/placeOfPublication> <http://experiment.worldcat.org/entity/work/data/2375650#Place/west_palm_beach_fla> .
+<http://www.worldcat.org/oclc/457019899> <http://schema.org/publication> <http://www.worldcat.org/title/-/oclc/457019899#PublicationEvent/west_palm_beach_fla_american_orchid_society> .
+<http://www.worldcat.org/oclc/457019899> <http://schema.org/workExample> <http://worldcat.org/issn/0003-0252> .
+<http://www.worldcat.org/oclc/457019899> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://www.worldcat.org/oclc/457019899> <http://schema.org/contributor> <http://viaf.org/viaf/138379339> .
+<http://www.worldcat.org/oclc/457019899> <http://schema.org/about> <http://id.worldcat.org/fast/1047313> .
+<http://www.worldcat.org/oclc/457019899> <http://purl.org/library/placeOfPublication> <http://id.loc.gov/vocabulary/countries/flu> .
+<http://www.worldcat.org/oclc/457019899> <http://schema.org/exampleOfWork> <http://worldcat.org/entity/work/id/2375650> .
+<http://www.worldcat.org/oclc/457019899> <http://www.w3.org/2007/05/powder-s#describedby> <http://www.worldcat.org/title/-/oclc/457019899> .
+<http://www.worldcat.org/oclc/457019899> <http://schema.org/name> "American Orchid Society bulletin."@en .
+<http://www.worldcat.org/oclc/457019899> <http://purl.org/library/oclcnum> "457019899" .
+<http://www.worldcat.org/oclc/457019899> <http://schema.org/genre> "Periodicals"@en .
+<http://www.worldcat.org/oclc/457019899> <http://schema.org/publisher> <http://experiment.worldcat.org/entity/work/data/2375650#Agent/american_orchid_society> .
+<http://www.worldcat.org/oclc/457019899> <http://schema.org/inLanguage> "en" .
+<http://experiment.worldcat.org/entity/work/data/2375650#Topic/orchids_periodicals> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/2375650#Topic/orchids_periodicals> <http://schema.org/hasPart> <http://id.loc.gov/authorities/subjects/sh85095334> .
+<http://experiment.worldcat.org/entity/work/data/2375650#Topic/orchids_periodicals> <http://schema.org/name> "Orchids--Periodicals"@en .
+<http://id.worldcat.org/fast/1047313> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://id.worldcat.org/fast/1047313> <http://schema.org/name> "Orchids"@en .
+<http://worldcat.org/issn/0003-0252> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://worldcat.org/issn/0003-0252> <http://schema.org/name> "American Orchid Society bulletin."@en .
+<http://worldcat.org/issn/0003-0252> <http://schema.org/issn> "0003-0252" .
+<http://worldcat.org/issn/0003-0252> <http://umbel.org/umbel#isLike> <http://worldcat.org/entity/work/id/2375650> .
+<http://experiment.worldcat.org/entity/work/data/2375650#Agent/american_orchid_society> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bibliograph.net/Agent> .
+<http://experiment.worldcat.org/entity/work/data/2375650#Agent/american_orchid_society> <http://schema.org/name> "American Orchid Society." .
+<http://viaf.org/viaf/138379339> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+<http://viaf.org/viaf/138379339> <http://schema.org/name> "American Orchid Society." .
+<http://experiment.worldcat.org/entity/work/data/2375650#Place/west_palm_beach_fla> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://experiment.worldcat.org/entity/work/data/2375650#Place/west_palm_beach_fla> <http://schema.org/name> "West Palm Beach, Fla." .
+<http://www.worldcat.org/title/-/oclc/457019899#PublicationEvent/west_palm_beach_fla_american_orchid_society> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PublicationEvent> .
+<http://www.worldcat.org/title/-/oclc/457019899#PublicationEvent/west_palm_beach_fla_american_orchid_society> <http://schema.org/location> <http://experiment.worldcat.org/entity/work/data/2375650#Place/west_palm_beach_fla> .
+<http://www.worldcat.org/title/-/oclc/457019899#PublicationEvent/west_palm_beach_fla_american_orchid_society> <http://schema.org/organizer> <http://experiment.worldcat.org/entity/work/data/2375650#Agent/american_orchid_society> .
+<http://id.loc.gov/vocabulary/countries/flu> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://id.loc.gov/vocabulary/countries/flu> <http://purl.org/dc/terms/identifier> "flu" .
+<http://www.worldcat.org/title/-/oclc/457019899> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#ContentTypeGenericResource> .
+<http://www.worldcat.org/title/-/oclc/457019899> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#InformationResource> .
+<http://www.worldcat.org/title/-/oclc/457019899> <http://schema.org/about> <http://www.worldcat.org/oclc/457019899> .
+<http://www.worldcat.org/title/-/oclc/457019899> <http://schema.org/dateModified> "2018-11-10" .
+<http://www.worldcat.org/title/-/oclc/457019899> <http://rdfs.org/ns/void#inDataset> <http://purl.oclc.org/dataset/WorldCat> .

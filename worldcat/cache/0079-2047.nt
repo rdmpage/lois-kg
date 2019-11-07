@@ -1,0 +1,35 @@
+<http://experiment.worldcat.org/entity/work/data/53661004#Agent/apud_ferdinandum_berger_et_fil> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bibliograph.net/Agent> .
+<http://experiment.worldcat.org/entity/work/data/53661004#Agent/apud_ferdinandum_berger_et_fil> <http://schema.org/name> "Apud Ferdinandum Berger et fil" .
+<http://worldcat.org/issn/0079-2047> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://worldcat.org/issn/0079-2047> <http://schema.org/name> "Phyton : Annales rei botanicae" .
+<http://worldcat.org/issn/0079-2047> <http://schema.org/issn> "0079-2047" .
+<http://worldcat.org/issn/0079-2047> <http://umbel.org/umbel#isLike> <http://worldcat.org/entity/work/id/53661004> .
+<http://www.worldcat.org/title/-/oclc/896856644> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#ContentTypeGenericResource> .
+<http://www.worldcat.org/title/-/oclc/896856644> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#InformationResource> .
+<http://www.worldcat.org/title/-/oclc/896856644> <http://schema.org/about> <http://www.worldcat.org/oclc/896856644> .
+<http://www.worldcat.org/title/-/oclc/896856644> <http://schema.org/dateModified> "2018-11-08" .
+<http://www.worldcat.org/title/-/oclc/896856644> <http://rdfs.org/ns/void#inDataset> <http://purl.oclc.org/dataset/WorldCat> .
+<http://worldcat.org/entity/work/id/53661004> <http://umbel.org/umbel#isLike> <http://worldcat.org/issn/0079-2047> .
+<http://www.worldcat.org/title/-/oclc/896856644#PublicationEvent/horn_apud_ferdinandum_berger_et_fil_1992> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PublicationEvent> .
+<http://www.worldcat.org/title/-/oclc/896856644#PublicationEvent/horn_apud_ferdinandum_berger_et_fil_1992> <http://schema.org/location> <http://experiment.worldcat.org/entity/work/data/53661004#Place/horn> .
+<http://www.worldcat.org/title/-/oclc/896856644#PublicationEvent/horn_apud_ferdinandum_berger_et_fil_1992> <http://schema.org/organizer> <http://experiment.worldcat.org/entity/work/data/53661004#Agent/apud_ferdinandum_berger_et_fil> .
+<http://www.worldcat.org/title/-/oclc/896856644#PublicationEvent/horn_apud_ferdinandum_berger_et_fil_1992> <http://schema.org/startDate> "1992-" .
+<http://experiment.worldcat.org/entity/work/data/53661004#Place/horn> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://experiment.worldcat.org/entity/work/data/53661004#Place/horn> <http://schema.org/name> "Horn" .
+<http://www.worldcat.org/oclc/896856644> <http://www.w3.org/2007/05/powder-s#describedby> <http://www.worldcat.org/title/-/oclc/896856644> .
+<http://www.worldcat.org/oclc/896856644> <http://purl.org/library/oclcnum> "896856644" .
+<http://www.worldcat.org/oclc/896856644> <http://schema.org/name> "Phyton : Annales rei botanicae" .
+<http://www.worldcat.org/oclc/896856644> <http://schema.org/workExample> <http://worldcat.org/issn/0079-2047> .
+<http://www.worldcat.org/oclc/896856644> <http://purl.org/library/placeOfPublication> <http://experiment.worldcat.org/entity/work/data/53661004#Place/horn> .
+<http://www.worldcat.org/oclc/896856644> <http://schema.org/publisher> <http://experiment.worldcat.org/entity/work/data/53661004#Agent/apud_ferdinandum_berger_et_fil> .
+<http://www.worldcat.org/oclc/896856644> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://www.worldcat.org/oclc/896856644> <http://schema.org/datePublished> "1992/9999" .
+<http://www.worldcat.org/oclc/896856644> <http://schema.org/productID> "896856644" .
+<http://www.worldcat.org/oclc/896856644> <http://schema.org/exampleOfWork> <http://worldcat.org/entity/work/id/53661004> .
+<http://www.worldcat.org/oclc/896856644> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/53661004#Topic/botanica> .
+<http://www.worldcat.org/oclc/896856644> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://www.worldcat.org/oclc/896856644> <http://schema.org/inLanguage> "en" .
+<http://www.worldcat.org/oclc/896856644> <http://schema.org/publication> <http://www.worldcat.org/title/-/oclc/896856644#PublicationEvent/horn_apud_ferdinandum_berger_et_fil_1992> .
+<http://www.worldcat.org/oclc/896856644> <http://schema.org/datePublished> "1992/" .
+<http://experiment.worldcat.org/entity/work/data/53661004#Topic/botanica> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/53661004#Topic/botanica> <http://schema.org/name> "Botanică" .

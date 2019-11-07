@@ -1,0 +1,64 @@
+<http://worldcat.org/entity/work/id/3861537362> <http://umbel.org/umbel#isLike> <http://worldcat.org/issn/1126-3504> .
+<http://www.worldcat.org/title/-/oclc/795154074> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#ContentTypeGenericResource> .
+<http://www.worldcat.org/title/-/oclc/795154074> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#InformationResource> .
+<http://www.worldcat.org/title/-/oclc/795154074> <http://schema.org/about> <http://www.worldcat.org/oclc/795154074> .
+<http://www.worldcat.org/title/-/oclc/795154074> <http://schema.org/dateModified> "2018-12-04" .
+<http://www.worldcat.org/title/-/oclc/795154074> <http://rdfs.org/ns/void#inDataset> <http://purl.oclc.org/dataset/WorldCat> .
+<http://experiment.worldcat.org/entity/work/data/3861537362#Agent/societa_botanica_italiana> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bibliograph.net/Agent> .
+<http://experiment.worldcat.org/entity/work/data/3861537362#Agent/societa_botanica_italiana> <http://schema.org/name> "Società botanica italiana" .
+<http://experiment.worldcat.org/entity/work/data/3861537362#Topic/plants> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/3861537362#Topic/plants> <http://schema.org/name> "Plants"@en .
+<http://www.worldcat.org/oclc/795154074> <http://schema.org/publisher> <http://experiment.worldcat.org/entity/work/data/3861537362#Agent/taylor_&_francis> .
+<http://www.worldcat.org/oclc/795154074> <http://purl.org/library/oclcnum> "795154074" .
+<http://www.worldcat.org/oclc/795154074> <http://schema.org/publication> <http://www.worldcat.org/title/-/oclc/795154074#PublicationEvent/firenze_societa_botanica_italiana_1997> .
+<http://www.worldcat.org/oclc/795154074> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/3861537362#Topic/biological_systems> .
+<http://www.worldcat.org/oclc/795154074> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://www.worldcat.org/oclc/795154074> <http://schema.org/exampleOfWork> <http://worldcat.org/entity/work/id/3861537362> .
+<http://www.worldcat.org/oclc/795154074> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/3861537362#Topic/botany> .
+<http://www.worldcat.org/oclc/795154074> <http://purl.org/library/placeOfPublication> <http://experiment.worldcat.org/entity/work/data/3861537362#Place/firenze> .
+<http://www.worldcat.org/oclc/795154074> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://www.worldcat.org/oclc/795154074> <http://schema.org/publication> <http://www.worldcat.org/title/-/oclc/795154074#PublicationEvent/abingdon_taylor_&_francis> .
+<http://www.worldcat.org/oclc/795154074> <http://purl.org/library/placeOfPublication> <http://experiment.worldcat.org/entity/work/data/3861537362#Place/abingdon> .
+<http://www.worldcat.org/oclc/795154074> <http://schema.org/datePublished> "1997/" .
+<http://www.worldcat.org/oclc/795154074> <http://schema.org/about> <http://dewey.info/class/580/e21/> .
+<http://www.worldcat.org/oclc/795154074> <http://schema.org/isSimilarTo> <http://worldcat.org/entity/work/data/3861537362#CreativeWork/plant_biosystems> .
+<http://www.worldcat.org/oclc/795154074> <http://purl.org/library/placeOfPublication> <http://id.loc.gov/vocabulary/countries/it> .
+<http://www.worldcat.org/oclc/795154074> <http://schema.org/contributor> <http://viaf.org/viaf/136659490> .
+<http://www.worldcat.org/oclc/795154074> <http://schema.org/name> "Plant biosystems : giornale botanico italiano."@en .
+<http://www.worldcat.org/oclc/795154074> <http://schema.org/datePublished> "1997/9999" .
+<http://www.worldcat.org/oclc/795154074> <http://schema.org/inLanguage> "en" .
+<http://www.worldcat.org/oclc/795154074> <http://www.w3.org/2007/05/powder-s#describedby> <http://www.worldcat.org/title/-/oclc/795154074> .
+<http://www.worldcat.org/oclc/795154074> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/3861537362#Topic/plants> .
+<http://www.worldcat.org/oclc/795154074> <http://schema.org/productID> "795154074" .
+<http://www.worldcat.org/oclc/795154074> <http://schema.org/workExample> <http://worldcat.org/issn/1126-3504> .
+<http://www.worldcat.org/oclc/795154074> <http://schema.org/publisher> <http://experiment.worldcat.org/entity/work/data/3861537362#Agent/societa_botanica_italiana> .
+<http://www.worldcat.org/oclc/795154074> <http://schema.org/genre> "Periodicals"@en .
+<http://worldcat.org/entity/work/data/3861537362#CreativeWork/plant_biosystems> <http://schema.org/isSimilarTo> <http://www.worldcat.org/oclc/795154074> .
+<http://worldcat.org/entity/work/data/3861537362#CreativeWork/plant_biosystems> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://worldcat.org/entity/work/data/3861537362#CreativeWork/plant_biosystems> <http://www.w3.org/2000/01/rdf-schema#label> "Plant biosystems" .
+<http://experiment.worldcat.org/entity/work/data/3861537362#Topic/botany> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/3861537362#Topic/botany> <http://schema.org/name> "Botany"@en .
+<http://experiment.worldcat.org/entity/work/data/3861537362#Topic/biological_systems> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/3861537362#Topic/biological_systems> <http://schema.org/name> "Biological systems"@en .
+<http://www.worldcat.org/title/-/oclc/795154074#PublicationEvent/abingdon_taylor_&_francis> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PublicationEvent> .
+<http://www.worldcat.org/title/-/oclc/795154074#PublicationEvent/abingdon_taylor_&_francis> <http://schema.org/location> <http://experiment.worldcat.org/entity/work/data/3861537362#Place/abingdon> .
+<http://www.worldcat.org/title/-/oclc/795154074#PublicationEvent/abingdon_taylor_&_francis> <http://schema.org/organizer> <http://experiment.worldcat.org/entity/work/data/3861537362#Agent/taylor_&_francis> .
+<http://experiment.worldcat.org/entity/work/data/3861537362#Place/firenze> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://experiment.worldcat.org/entity/work/data/3861537362#Place/firenze> <http://schema.org/name> "Firenze" .
+<http://dewey.info/class/580/e21/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://www.worldcat.org/title/-/oclc/795154074#PublicationEvent/firenze_societa_botanica_italiana_1997> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PublicationEvent> .
+<http://www.worldcat.org/title/-/oclc/795154074#PublicationEvent/firenze_societa_botanica_italiana_1997> <http://schema.org/location> <http://experiment.worldcat.org/entity/work/data/3861537362#Place/firenze> .
+<http://www.worldcat.org/title/-/oclc/795154074#PublicationEvent/firenze_societa_botanica_italiana_1997> <http://schema.org/organizer> <http://experiment.worldcat.org/entity/work/data/3861537362#Agent/societa_botanica_italiana> .
+<http://www.worldcat.org/title/-/oclc/795154074#PublicationEvent/firenze_societa_botanica_italiana_1997> <http://schema.org/startDate> "1997-" .
+<http://experiment.worldcat.org/entity/work/data/3861537362#Agent/taylor_&_francis> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bibliograph.net/Agent> .
+<http://experiment.worldcat.org/entity/work/data/3861537362#Agent/taylor_&_francis> <http://schema.org/name> "Taylor & Francis." .
+<http://experiment.worldcat.org/entity/work/data/3861537362#Place/abingdon> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://experiment.worldcat.org/entity/work/data/3861537362#Place/abingdon> <http://schema.org/name> "Abingdon" .
+<http://id.loc.gov/vocabulary/countries/it> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://id.loc.gov/vocabulary/countries/it> <http://purl.org/dc/terms/identifier> "it" .
+<http://worldcat.org/issn/1126-3504> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://worldcat.org/issn/1126-3504> <http://schema.org/name> "Plant biosystems : giornale botanico italiano."@en .
+<http://worldcat.org/issn/1126-3504> <http://schema.org/issn> "1126-3504" .
+<http://worldcat.org/issn/1126-3504> <http://umbel.org/umbel#isLike> <http://worldcat.org/entity/work/id/3861537362> .
+<http://viaf.org/viaf/136659490> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+<http://viaf.org/viaf/136659490> <http://schema.org/name> "Società botanica italiana." .

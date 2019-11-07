@@ -1,0 +1,36 @@
+<http://id.loc.gov/vocabulary/countries/bu> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://id.loc.gov/vocabulary/countries/bu> <http://purl.org/dc/terms/identifier> "bu" .
+<http://worldcat.org/issn/1314-2011> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://worldcat.org/issn/1314-2011> <http://schema.org/name> "PhytoKeys : launched to accelerate biodiversity research." .
+<http://worldcat.org/issn/1314-2011> <http://schema.org/issn> "1314-2011" .
+<http://worldcat.org/issn/1314-2011> <http://umbel.org/umbel#isLike> <http://worldcat.org/entity/work/id/5620152265> .
+<http://worldcat.org/entity/work/id/5620152265> <http://umbel.org/umbel#isLike> <http://worldcat.org/issn/1314-2011> .
+<http://www.worldcat.org/oclc/795452371> <http://schema.org/name> "PhytoKeys : launched to accelerate biodiversity research." .
+<http://www.worldcat.org/oclc/795452371> <http://purl.org/library/placeOfPublication> <http://id.loc.gov/vocabulary/countries/bu> .
+<http://www.worldcat.org/oclc/795452371> <http://schema.org/productID> "795452371" .
+<http://www.worldcat.org/oclc/795452371> <http://schema.org/workExample> <http://worldcat.org/issn/1314-2011> .
+<http://www.worldcat.org/oclc/795452371> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://www.worldcat.org/oclc/795452371> <http://schema.org/inLanguage> "en" .
+<http://www.worldcat.org/oclc/795452371> <http://schema.org/alternateName> "Phyto Keys" .
+<http://www.worldcat.org/oclc/795452371> <http://purl.org/library/placeOfPublication> <http://experiment.worldcat.org/entity/work/data/5620152265#Place/sofia> .
+<http://www.worldcat.org/oclc/795452371> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://www.worldcat.org/oclc/795452371> <http://schema.org/publication> <http://www.worldcat.org/title/-/oclc/795452371#PublicationEvent/sofia_pensoft_2010> .
+<http://www.worldcat.org/oclc/795452371> <http://schema.org/exampleOfWork> <http://worldcat.org/entity/work/id/5620152265> .
+<http://www.worldcat.org/oclc/795452371> <http://schema.org/publisher> <http://experiment.worldcat.org/entity/work/data/5620152265#Agent/pensoft> .
+<http://www.worldcat.org/oclc/795452371> <http://schema.org/datePublished> "2010/9999" .
+<http://www.worldcat.org/oclc/795452371> <http://purl.org/library/oclcnum> "795452371" .
+<http://www.worldcat.org/oclc/795452371> <http://schema.org/datePublished> "2010/" .
+<http://www.worldcat.org/oclc/795452371> <http://www.w3.org/2007/05/powder-s#describedby> <http://www.worldcat.org/title/-/oclc/795452371> .
+<http://experiment.worldcat.org/entity/work/data/5620152265#Agent/pensoft> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bibliograph.net/Agent> .
+<http://experiment.worldcat.org/entity/work/data/5620152265#Agent/pensoft> <http://schema.org/name> "Pensoft" .
+<http://www.worldcat.org/title/-/oclc/795452371#PublicationEvent/sofia_pensoft_2010> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PublicationEvent> .
+<http://www.worldcat.org/title/-/oclc/795452371#PublicationEvent/sofia_pensoft_2010> <http://schema.org/location> <http://experiment.worldcat.org/entity/work/data/5620152265#Place/sofia> .
+<http://www.worldcat.org/title/-/oclc/795452371#PublicationEvent/sofia_pensoft_2010> <http://schema.org/organizer> <http://experiment.worldcat.org/entity/work/data/5620152265#Agent/pensoft> .
+<http://www.worldcat.org/title/-/oclc/795452371#PublicationEvent/sofia_pensoft_2010> <http://schema.org/startDate> "2010-" .
+<http://www.worldcat.org/title/-/oclc/795452371> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#ContentTypeGenericResource> .
+<http://www.worldcat.org/title/-/oclc/795452371> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#InformationResource> .
+<http://www.worldcat.org/title/-/oclc/795452371> <http://schema.org/about> <http://www.worldcat.org/oclc/795452371> .
+<http://www.worldcat.org/title/-/oclc/795452371> <http://schema.org/dateModified> "2018-12-11" .
+<http://www.worldcat.org/title/-/oclc/795452371> <http://rdfs.org/ns/void#inDataset> <http://purl.oclc.org/dataset/WorldCat> .
+<http://experiment.worldcat.org/entity/work/data/5620152265#Place/sofia> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://experiment.worldcat.org/entity/work/data/5620152265#Place/sofia> <http://schema.org/name> "Sofia" .

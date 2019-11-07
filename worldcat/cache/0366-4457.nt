@@ -1,0 +1,68 @@
+<http://www.worldcat.org/oclc/609567882> <http://schema.org/isSimilarTo> <http://www.worldcat.org/oclc/7052979> .
+<http://www.worldcat.org/oclc/609567882> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://www.worldcat.org/oclc/609567882> <http://www.w3.org/2000/01/rdf-schema#label> "Bulletin of miscellaneous information (Royal Botanic Gardens, Kew)" .
+<http://www.worldcat.org/oclc/609567882> <http://schema.org/description> "Online version:" .
+<http://www.worldcat.org/oclc/46325815> <http://schema.org/isSimilarTo> <http://www.worldcat.org/oclc/7052979> .
+<http://www.worldcat.org/oclc/46325815> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://www.worldcat.org/oclc/46325815> <http://www.w3.org/2000/01/rdf-schema#label> "Bulletin of miscellaneous information (Royal Botanic Gardens, Kew)" .
+<http://www.worldcat.org/oclc/46325815> <http://schema.org/description> "Microfiche version:" .
+<http://id.worldcat.org/fast/836869> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://id.worldcat.org/fast/836869> <http://schema.org/name> "Botany"@en .
+<http://dewey.info/class/580.7/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/4928061049#Topic/botany> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/4928061049#Topic/botany> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://id.loc.gov/authorities/subjects/sh2007102112> .
+<http://experiment.worldcat.org/entity/work/data/4928061049#Topic/botany> <http://schema.org/name> "Botany"@en .
+<http://experiment.worldcat.org/entity/work/data/4928061049#Series/bulletin_of_miscellaneous_information_royal_botanic_gardens_kew> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bibliograph.net/PublicationSeries> .
+<http://experiment.worldcat.org/entity/work/data/4928061049#Series/bulletin_of_miscellaneous_information_royal_botanic_gardens_kew> <http://schema.org/hasPart> <http://www.worldcat.org/oclc/7052979> .
+<http://experiment.worldcat.org/entity/work/data/4928061049#Series/bulletin_of_miscellaneous_information_royal_botanic_gardens_kew> <http://schema.org/name> "Bulletin of miscellaneous information (Royal Botanic Gardens, Kew)." .
+<http://www.worldcat.org/title/-/oclc/7052979#PublicationEvent/london_h_m_s_o_1900> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PublicationEvent> .
+<http://www.worldcat.org/title/-/oclc/7052979#PublicationEvent/london_h_m_s_o_1900> <http://schema.org/location> <http://dbpedia.org/resource/London> .
+<http://www.worldcat.org/title/-/oclc/7052979#PublicationEvent/london_h_m_s_o_1900> <http://schema.org/organizer> <http://experiment.worldcat.org/entity/work/data/4928061049#Agent/h_m_s_o> .
+<http://www.worldcat.org/title/-/oclc/7052979#PublicationEvent/london_h_m_s_o_1900> <http://schema.org/startDate> "1900-" .
+<http://id.loc.gov/vocabulary/countries/enk> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://id.loc.gov/vocabulary/countries/enk> <http://purl.org/dc/terms/identifier> "enk" .
+<http://worldcat.org/entity/work/id/4928061049> <http://schema.org/name> "Bulletin of miscellaneous information (Royal Botanic Gardens, Kew)"@en .
+<http://worldcat.org/entity/work/id/4928061049> <http://umbel.org/umbel#isLike> <http://worldcat.org/issn/0366-4457> .
+<http://experiment.worldcat.org/entity/work/data/4928061049#Organization/royal_botanic_gardens_kew> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+<http://experiment.worldcat.org/entity/work/data/4928061049#Organization/royal_botanic_gardens_kew> <http://schema.org/name> "Royal Botanic Gardens, Kew," .
+<http://www.worldcat.org/oclc/175290670> <http://schema.org/isSimilarTo> <http://www.worldcat.org/oclc/7052979> .
+<http://www.worldcat.org/oclc/175290670> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://www.worldcat.org/oclc/175290670> <http://www.w3.org/2000/01/rdf-schema#label> "Bulletin of miscellaneous information" .
+<http://www.worldcat.org/oclc/175290670> <http://schema.org/description> "Online version:" .
+<http://worldcat.org/issn/0366-4457> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://worldcat.org/issn/0366-4457> <http://schema.org/name> "Bulletin of miscellaneous information"@en .
+<http://worldcat.org/issn/0366-4457> <http://schema.org/issn> "0366-4457" .
+<http://worldcat.org/issn/0366-4457> <http://umbel.org/umbel#isLike> <http://worldcat.org/entity/work/id/4928061049> .
+<http://dbpedia.org/resource/London> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://dbpedia.org/resource/London> <http://schema.org/name> "London" .
+<http://www.worldcat.org/oclc/7052979> <http://www.w3.org/2007/05/powder-s#describedby> <http://www.worldcat.org/title/-/oclc/7052979> .
+<http://www.worldcat.org/oclc/7052979> <http://schema.org/about> <http://dewey.info/class/580.7/> .
+<http://www.worldcat.org/oclc/7052979> <http://schema.org/name> "Bulletin of miscellaneous information"@en .
+<http://www.worldcat.org/oclc/7052979> <http://schema.org/inLanguage> "en" .
+<http://www.worldcat.org/oclc/7052979> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/4928061049#Topic/botany> .
+<http://www.worldcat.org/oclc/7052979> <http://schema.org/publisher> <http://experiment.worldcat.org/entity/work/data/4928061049#Agent/h_m_s_o> .
+<http://www.worldcat.org/oclc/7052979> <http://purl.org/library/placeOfPublication> <http://dbpedia.org/resource/London> .
+<http://www.worldcat.org/oclc/7052979> <http://purl.org/library/oclcnum> "7052979" .
+<http://www.worldcat.org/oclc/7052979> <http://schema.org/contributor> <http://experiment.worldcat.org/entity/work/data/4928061049#Organization/royal_botanic_gardens_kew> .
+<http://www.worldcat.org/oclc/7052979> <http://schema.org/isSimilarTo> <http://www.worldcat.org/oclc/46325815> .
+<http://www.worldcat.org/oclc/7052979> <http://schema.org/isPartOf> <http://experiment.worldcat.org/entity/work/data/4928061049#Series/bulletin_of_miscellaneous_information_royal_botanic_gardens_kew> .
+<http://www.worldcat.org/oclc/7052979> <http://schema.org/genre> "Periodicals"@en .
+<http://www.worldcat.org/oclc/7052979> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://www.worldcat.org/oclc/7052979> <http://schema.org/isSimilarTo> <http://www.worldcat.org/oclc/175290670> .
+<http://www.worldcat.org/oclc/7052979> <http://schema.org/exampleOfWork> <http://worldcat.org/entity/work/id/4928061049> .
+<http://www.worldcat.org/oclc/7052979> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://www.worldcat.org/oclc/7052979> <http://schema.org/productID> "7052979" .
+<http://www.worldcat.org/oclc/7052979> <http://schema.org/publication> <http://www.worldcat.org/title/-/oclc/7052979#PublicationEvent/london_h_m_s_o_1900> .
+<http://www.worldcat.org/oclc/7052979> <http://schema.org/workExample> <http://worldcat.org/issn/0366-4457> .
+<http://www.worldcat.org/oclc/7052979> <http://schema.org/isSimilarTo> <http://www.worldcat.org/oclc/609567882> .
+<http://www.worldcat.org/oclc/7052979> <http://schema.org/about> <http://id.worldcat.org/fast/836869> .
+<http://www.worldcat.org/oclc/7052979> <http://purl.org/library/placeOfPublication> <http://id.loc.gov/vocabulary/countries/enk> .
+<http://www.worldcat.org/oclc/7052979> <http://schema.org/datePublished> "1900/1941" .
+<http://www.worldcat.org/oclc/7052979> <http://schema.org/datePublished> "1900/" .
+<http://www.worldcat.org/title/-/oclc/7052979> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#ContentTypeGenericResource> .
+<http://www.worldcat.org/title/-/oclc/7052979> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#InformationResource> .
+<http://www.worldcat.org/title/-/oclc/7052979> <http://schema.org/about> <http://www.worldcat.org/oclc/7052979> .
+<http://www.worldcat.org/title/-/oclc/7052979> <http://schema.org/dateModified> "2019-08-26" .
+<http://www.worldcat.org/title/-/oclc/7052979> <http://rdfs.org/ns/void#inDataset> <http://purl.oclc.org/dataset/WorldCat> .
+<http://experiment.worldcat.org/entity/work/data/4928061049#Agent/h_m_s_o> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bibliograph.net/Agent> .
+<http://experiment.worldcat.org/entity/work/data/4928061049#Agent/h_m_s_o> <http://schema.org/name> "H.M.S.O." .

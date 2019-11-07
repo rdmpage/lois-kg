@@ -1,0 +1,59 @@
+<http://id.worldcat.org/fast/832383> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://id.worldcat.org/fast/832383> <http://schema.org/name> "Biology"@en .
+<http://viaf.org/viaf/123786762> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+<http://viaf.org/viaf/123786762> <http://schema.org/name> "Polska Akademia Nauk." .
+<http://www.worldcat.org/oclc/761999674> <http://schema.org/url> <http://catalog.hathitrust.org/api/volumes/oclc/11249900.html> .
+<http://www.worldcat.org/oclc/761999674> <http://schema.org/url> <http://books.google.com/books?id=7fVNAQAAIAAJ> .
+<http://www.worldcat.org/oclc/761999674> <http://www.w3.org/2007/05/powder-s#describedby> <http://www.worldcat.org/title/-/oclc/761999674> .
+<http://www.worldcat.org/oclc/761999674> <http://schema.org/genre> "Periodical"@en .
+<http://www.worldcat.org/oclc/761999674> <http://schema.org/publisher> <http://experiment.worldcat.org/entity/work/data/3943297372#Agent/panstwowe_wydawn_naukowe> .
+<http://www.worldcat.org/oclc/761999674> <http://purl.org/library/placeOfPublication> <http://id.loc.gov/vocabulary/countries/pl> .
+<http://www.worldcat.org/oclc/761999674> <http://schema.org/alternateName> "Biology" .
+<http://www.worldcat.org/oclc/761999674> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://www.worldcat.org/oclc/761999674> <http://schema.org/name> "Bulletin of the Polish Academy of Sciences. Biology."@en .
+<http://www.worldcat.org/oclc/761999674> <http://schema.org/isSimilarTo> <http://www.worldcat.org/oclc/11249900> .
+<http://www.worldcat.org/oclc/761999674> <http://purl.org/library/oclcnum> "761999674" .
+<http://www.worldcat.org/oclc/761999674> <http://schema.org/inLanguage> "en" .
+<http://www.worldcat.org/oclc/761999674> <http://schema.org/genre> "Periodicals"@en .
+<http://www.worldcat.org/oclc/761999674> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://www.worldcat.org/oclc/761999674> <http://schema.org/alternateName> "Biological sciences" .
+<http://www.worldcat.org/oclc/761999674> <http://schema.org/contributor> <http://viaf.org/viaf/123786762> .
+<http://www.worldcat.org/oclc/761999674> <http://schema.org/datePublished> "1983/1984" .
+<http://www.worldcat.org/oclc/761999674> <http://schema.org/about> <http://id.worldcat.org/fast/832383> .
+<http://www.worldcat.org/oclc/761999674> <http://schema.org/url> <http://books.google.com/books?id=4PpNAQAAIAAJ> .
+<http://www.worldcat.org/oclc/761999674> <http://purl.org/library/placeOfPublication> <http://experiment.worldcat.org/entity/work/data/3943297372#Place/warsaw> .
+<http://www.worldcat.org/oclc/761999674> <http://schema.org/alternateName> "Bulletin of the Polish Academy of Sciences." .
+<http://www.worldcat.org/oclc/761999674> <http://schema.org/productID> "761999674" .
+<http://www.worldcat.org/oclc/761999674> <http://schema.org/exampleOfWork> <http://worldcat.org/entity/work/id/3943297372> .
+<http://www.worldcat.org/oclc/761999674> <http://schema.org/publication> <http://www.worldcat.org/title/-/oclc/761999674#PublicationEvent/warsaw_panstwowe_wydawn_naukowe_1983_1984> .
+<http://www.worldcat.org/oclc/761999674> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/3943297372#Topic/biology> .
+<http://www.worldcat.org/oclc/761999674> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/3943297372#Topic/biologie> .
+<http://www.worldcat.org/oclc/761999674> <http://schema.org/url> <http://books.google.com/books?id=h_RNAQAAIAAJ> .
+<http://www.worldcat.org/oclc/761999674> <http://schema.org/url> <http://books.google.com/books?id=VPVNAQAAIAAJ> .
+<http://www.worldcat.org/oclc/761999674> <http://schema.org/url> <http://books.google.com/books?id=7PRNAQAAIAAJ> .
+<http://www.worldcat.org/oclc/761999674> <http://schema.org/url> <http://books.google.com/books?id=FfVNAQAAIAAJ> .
+<http://www.worldcat.org/oclc/761999674> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/MediaObject> .
+<http://experiment.worldcat.org/entity/work/data/3943297372#Topic/biology> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/3943297372#Topic/biology> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://id.loc.gov/authorities/subjects/sh2007101986> .
+<http://experiment.worldcat.org/entity/work/data/3943297372#Topic/biology> <http://schema.org/name> "Biology"@en .
+<http://www.worldcat.org/title/-/oclc/761999674> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#ContentTypeGenericResource> .
+<http://www.worldcat.org/title/-/oclc/761999674> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#InformationResource> .
+<http://www.worldcat.org/title/-/oclc/761999674> <http://schema.org/about> <http://www.worldcat.org/oclc/761999674> .
+<http://www.worldcat.org/title/-/oclc/761999674> <http://schema.org/dateModified> "2019-04-19" .
+<http://www.worldcat.org/title/-/oclc/761999674> <http://rdfs.org/ns/void#inDataset> <http://purl.oclc.org/dataset/WorldCat> .
+<http://id.loc.gov/vocabulary/countries/pl> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://id.loc.gov/vocabulary/countries/pl> <http://purl.org/dc/terms/identifier> "pl" .
+<http://experiment.worldcat.org/entity/work/data/3943297372#Place/warsaw> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://experiment.worldcat.org/entity/work/data/3943297372#Place/warsaw> <http://schema.org/name> "Warsaw" .
+<http://experiment.worldcat.org/entity/work/data/3943297372#Agent/panstwowe_wydawn_naukowe> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bibliograph.net/Agent> .
+<http://experiment.worldcat.org/entity/work/data/3943297372#Agent/panstwowe_wydawn_naukowe> <http://schema.org/name> "Państwowe Wydawn. Naukowe" .
+<http://experiment.worldcat.org/entity/work/data/3943297372#Topic/biologie> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/3943297372#Topic/biologie> <http://schema.org/name> "Biologie"@en .
+<http://www.worldcat.org/title/-/oclc/761999674#PublicationEvent/warsaw_panstwowe_wydawn_naukowe_1983_1984> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PublicationEvent> .
+<http://www.worldcat.org/title/-/oclc/761999674#PublicationEvent/warsaw_panstwowe_wydawn_naukowe_1983_1984> <http://schema.org/location> <http://experiment.worldcat.org/entity/work/data/3943297372#Place/warsaw> .
+<http://www.worldcat.org/title/-/oclc/761999674#PublicationEvent/warsaw_panstwowe_wydawn_naukowe_1983_1984> <http://schema.org/organizer> <http://experiment.worldcat.org/entity/work/data/3943297372#Agent/panstwowe_wydawn_naukowe> .
+<http://www.worldcat.org/title/-/oclc/761999674#PublicationEvent/warsaw_panstwowe_wydawn_naukowe_1983_1984> <http://schema.org/startDate> "1983-1984" .
+<http://www.worldcat.org/oclc/11249900> <http://schema.org/isSimilarTo> <http://www.worldcat.org/oclc/761999674> .
+<http://www.worldcat.org/oclc/11249900> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://www.worldcat.org/oclc/11249900> <http://www.w3.org/2000/01/rdf-schema#label> "Bulletin of the Polish Academy of Sciences. Biology" .
+<http://www.worldcat.org/oclc/11249900> <http://schema.org/description> "Print version:" .

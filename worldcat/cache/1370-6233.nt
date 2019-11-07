@@ -1,0 +1,56 @@
+<http://experiment.worldcat.org/entity/work/data/2233613721#Topic/ecologie_agricole_periodiques> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/2233613721#Topic/ecologie_agricole_periodiques> <http://schema.org/name> "Écologie agricole--Périodiques" .
+<http://viaf.org/viaf/139519610> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+<http://viaf.org/viaf/139519610> <http://schema.org/name> "Centre de recherches agronomiques de l'État (Belgique)" .
+<http://viaf.org/viaf/154479873> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+<http://viaf.org/viaf/154479873> <http://schema.org/name> "Faculté universitaire des sciences agronomiques de Gembloux." .
+<http://experiment.worldcat.org/entity/work/data/2233613721#Agent/bibliotheque_de_la_faculte_universitaire_des_sciences_agronomiques> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bibliograph.net/Agent> .
+<http://experiment.worldcat.org/entity/work/data/2233613721#Agent/bibliotheque_de_la_faculte_universitaire_des_sciences_agronomiques> <http://schema.org/name> "Bibliothèque de la Faculté universitaire des sciences agronomiques" .
+<http://www.worldcat.org/title/-/oclc/474093712#PublicationEvent/gembloux_bibliotheque_de_la_faculte_universitaire_des_sciences_agronomiques_1997> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PublicationEvent> .
+<http://www.worldcat.org/title/-/oclc/474093712#PublicationEvent/gembloux_bibliotheque_de_la_faculte_universitaire_des_sciences_agronomiques_1997> <http://schema.org/location> <http://experiment.worldcat.org/entity/work/data/2233613721#Place/gembloux> .
+<http://www.worldcat.org/title/-/oclc/474093712#PublicationEvent/gembloux_bibliotheque_de_la_faculte_universitaire_des_sciences_agronomiques_1997> <http://schema.org/organizer> <http://experiment.worldcat.org/entity/work/data/2233613721#Agent/bibliotheque_de_la_faculte_universitaire_des_sciences_agronomiques> .
+<http://www.worldcat.org/title/-/oclc/474093712#PublicationEvent/gembloux_bibliotheque_de_la_faculte_universitaire_des_sciences_agronomiques_1997> <http://schema.org/startDate> "1997-" .
+<http://worldcat.org/entity/work/id/2233613721> <http://umbel.org/umbel#isLike> <http://worldcat.org/issn/1370-6233> .
+<http://dewey.info/class/630.5/e22/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/2233613721#Topic/agronomie_periodiques> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/2233613721#Topic/agronomie_periodiques> <http://schema.org/name> "Agronomie--Périodiques" .
+<http://experiment.worldcat.org/entity/work/data/2233613721#Place/gembloux> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://experiment.worldcat.org/entity/work/data/2233613721#Place/gembloux> <http://schema.org/name> "Gembloux" .
+<http://id.loc.gov/vocabulary/countries/be> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://id.loc.gov/vocabulary/countries/be> <http://purl.org/dc/terms/identifier> "be" .
+<http://www.worldcat.org/title/-/oclc/474093712> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#ContentTypeGenericResource> .
+<http://www.worldcat.org/title/-/oclc/474093712> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#InformationResource> .
+<http://www.worldcat.org/title/-/oclc/474093712> <http://schema.org/about> <http://www.worldcat.org/oclc/474093712> .
+<http://www.worldcat.org/title/-/oclc/474093712> <http://schema.org/dateModified> "2018-11-11" .
+<http://www.worldcat.org/title/-/oclc/474093712> <http://rdfs.org/ns/void#inDataset> <http://purl.oclc.org/dataset/WorldCat> .
+<http://experiment.worldcat.org/entity/work/data/2233613721#Topic/biotechnologie_agricole_periodiques> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/2233613721#Topic/biotechnologie_agricole_periodiques> <http://schema.org/name> "Biotechnologie agricole--Périodiques" .
+<http://worldcat.org/issn/1370-6233> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://worldcat.org/issn/1370-6233> <http://schema.org/name> "Biotechnologie, agronomie, société et environnement" .
+<http://worldcat.org/issn/1370-6233> <http://schema.org/issn> "1370-6233" .
+<http://worldcat.org/issn/1370-6233> <http://umbel.org/umbel#isLike> <http://worldcat.org/entity/work/id/2233613721> .
+<http://dewey.info/class/577.273/e22/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://www.worldcat.org/oclc/474093712> <http://purl.org/library/placeOfPublication> <http://id.loc.gov/vocabulary/countries/be> .
+<http://www.worldcat.org/oclc/474093712> <http://schema.org/productID> "474093712" .
+<http://www.worldcat.org/oclc/474093712> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/2233613721#Topic/agronomie_periodiques> .
+<http://www.worldcat.org/oclc/474093712> <http://www.w3.org/2007/05/powder-s#describedby> <http://www.worldcat.org/title/-/oclc/474093712> .
+<http://www.worldcat.org/oclc/474093712> <http://schema.org/datePublished> "1997/9999" .
+<http://www.worldcat.org/oclc/474093712> <http://schema.org/alternateName> "BASE" .
+<http://www.worldcat.org/oclc/474093712> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/2233613721#Topic/ecologie_agricole_periodiques> .
+<http://www.worldcat.org/oclc/474093712> <http://schema.org/publication> <http://www.worldcat.org/title/-/oclc/474093712#PublicationEvent/gembloux_bibliotheque_de_la_faculte_universitaire_des_sciences_agronomiques_1997> .
+<http://www.worldcat.org/oclc/474093712> <http://schema.org/datePublished> "1997/" .
+<http://www.worldcat.org/oclc/474093712> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/2233613721#Topic/biotechnologie_agricole_periodiques> .
+<http://www.worldcat.org/oclc/474093712> <http://schema.org/inLanguage> "en" .
+<http://www.worldcat.org/oclc/474093712> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://www.worldcat.org/oclc/474093712> <http://purl.org/library/oclcnum> "474093712" .
+<http://www.worldcat.org/oclc/474093712> <http://schema.org/editor> <http://viaf.org/viaf/154479873> .
+<http://www.worldcat.org/oclc/474093712> <http://purl.org/library/placeOfPublication> <http://experiment.worldcat.org/entity/work/data/2233613721#Place/gembloux> .
+<http://www.worldcat.org/oclc/474093712> <http://schema.org/editor> <http://viaf.org/viaf/139519610> .
+<http://www.worldcat.org/oclc/474093712> <http://schema.org/name> "Biotechnologie, agronomie, société et environnement" .
+<http://www.worldcat.org/oclc/474093712> <http://schema.org/about> <http://dewey.info/class/630.5/e22/> .
+<http://www.worldcat.org/oclc/474093712> <http://schema.org/alternateName> "Biotechnology, agronomy, society and environment" .
+<http://www.worldcat.org/oclc/474093712> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://www.worldcat.org/oclc/474093712> <http://schema.org/exampleOfWork> <http://worldcat.org/entity/work/id/2233613721> .
+<http://www.worldcat.org/oclc/474093712> <http://schema.org/workExample> <http://worldcat.org/issn/1370-6233> .
+<http://www.worldcat.org/oclc/474093712> <http://schema.org/publisher> <http://experiment.worldcat.org/entity/work/data/2233613721#Agent/bibliotheque_de_la_faculte_universitaire_des_sciences_agronomiques> .
+<http://www.worldcat.org/oclc/474093712> <http://schema.org/about> <http://dewey.info/class/577.273/e22/> .

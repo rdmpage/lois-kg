@@ -1,0 +1,54 @@
+<http://experiment.worldcat.org/entity/work/data/9593260837#Organization/university_of_notre_dame> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+<http://experiment.worldcat.org/entity/work/data/9593260837#Organization/university_of_notre_dame> <http://schema.org/name> "University of Notre Dame" .
+<http://experiment.worldcat.org/entity/work/data/9593260837#Organization/university_of_notre_dame> <http://schema.org/sameAs> <http://d-nb.info/gnd/41325-2,> .
+<http://sfx.ethz.ch/sfx_locater?sid=ALEPH:EBI01&genre=journal&issn=0271-6844> <http://www.w3.org/2000/01/rdf-schema#comment> "Online vol. 1, nos. 1-4 via SFX" .
+<http://www.worldcat.org/title/-/oclc/973883235> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#ContentTypeGenericResource> .
+<http://www.worldcat.org/title/-/oclc/973883235> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#InformationResource> .
+<http://www.worldcat.org/title/-/oclc/973883235> <http://schema.org/about> <http://www.worldcat.org/oclc/973883235> .
+<http://www.worldcat.org/title/-/oclc/973883235> <http://schema.org/dateModified> "2019-10-24" .
+<http://www.worldcat.org/title/-/oclc/973883235> <http://rdfs.org/ns/void#inDataset> <http://purl.oclc.org/dataset/WorldCat> .
+<http://experiment.worldcat.org/entity/work/data/9593260837#Thing/naturwissenschaften_allgemein> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> .
+<http://experiment.worldcat.org/entity/work/data/9593260837#Thing/naturwissenschaften_allgemein> <http://schema.org/name> "NATURWISSENSCHAFTEN/ALLGEMEIN" .
+<http://experiment.worldcat.org/entity/work/data/9593260837#Thing/sciences_physiques_et_naturelles_generalites_sur_les_sciences> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> .
+<http://experiment.worldcat.org/entity/work/data/9593260837#Thing/sciences_physiques_et_naturelles_generalites_sur_les_sciences> <http://schema.org/name> "SCIENCES (PHYSIQUES ET NATURELLES)/GENERALITES SUR LES SCIENCES" .
+<http://experiment.worldcat.org/entity/work/data/9593260837#Thing/biologie> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> .
+<http://experiment.worldcat.org/entity/work/data/9593260837#Thing/biologie> <http://schema.org/name> "BIOLOGIE" .
+<http://www.worldcat.org/oclc/973883235> <http://schema.org/datePublished> "1909/9999" .
+<http://www.worldcat.org/oclc/973883235> <http://purl.org/library/oclcnum> "973883235" .
+<http://www.worldcat.org/oclc/973883235> <http://schema.org/url> <http://sfx.ethz.ch/sfx_locater?sid=ALEPH:EBI01&genre=journal&issn=0003-0031> .
+<http://www.worldcat.org/oclc/973883235> <http://schema.org/genre> "Zeitschrift" .
+<http://www.worldcat.org/oclc/973883235> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/9593260837#Thing/science_natural_sciences> .
+<http://www.worldcat.org/oclc/973883235> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://www.worldcat.org/oclc/973883235> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/9593260837#Thing/sciences_physiques_et_naturelles_generalites_sur_les_sciences> .
+<http://www.worldcat.org/oclc/973883235> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/9593260837#Thing/naturwissenschaften_allgemein> .
+<http://www.worldcat.org/oclc/973883235> <http://schema.org/alternateName> "Midland naturalist" .
+<http://www.worldcat.org/oclc/973883235> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/9593260837#Thing/zeitschriften> .
+<http://www.worldcat.org/oclc/973883235> <http://schema.org/url> <http://sfx.ethz.ch/sfx_locater?sid=ALEPH:EBI01&genre=journal&issn=0271-6844> .
+<http://www.worldcat.org/oclc/973883235> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/9593260837#Topic/naturwissenschaften> .
+<http://www.worldcat.org/oclc/973883235> <http://schema.org/exampleOfWork> <http://worldcat.org/entity/work/id/9593260837> .
+<http://www.worldcat.org/oclc/973883235> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://www.worldcat.org/oclc/973883235> <http://schema.org/name> "The American Midland naturalist : an international journal of ecology, evolution and environment" .
+<http://www.worldcat.org/oclc/973883235> <http://www.w3.org/2007/05/powder-s#describedby> <http://www.worldcat.org/title/-/oclc/973883235> .
+<http://www.worldcat.org/oclc/973883235> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/9593260837#Thing/biologie> .
+<http://www.worldcat.org/oclc/973883235> <http://schema.org/inLanguage> "en" .
+<http://www.worldcat.org/oclc/973883235> <http://purl.org/library/placeOfPublication> <http://id.loc.gov/vocabulary/countries/inu> .
+<http://www.worldcat.org/oclc/973883235> <http://schema.org/contributor> <http://experiment.worldcat.org/entity/work/data/9593260837#Organization/university_of_notre_dame> .
+<http://www.worldcat.org/oclc/973883235> <http://schema.org/productID> "973883235" .
+<http://www.worldcat.org/oclc/973883235> <http://schema.org/workExample> <http://worldcat.org/issn/0003-0031> .
+<http://www.worldcat.org/oclc/973883235> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/9593260837#Thing/biology> .
+<http://worldcat.org/entity/work/id/9593260837> <http://umbel.org/umbel#isLike> <http://worldcat.org/issn/0003-0031> .
+<http://experiment.worldcat.org/entity/work/data/9593260837#Thing/science_natural_sciences> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> .
+<http://experiment.worldcat.org/entity/work/data/9593260837#Thing/science_natural_sciences> <http://schema.org/name> "SCIENCE (NATURAL SCIENCES)" .
+<http://sfx.ethz.ch/sfx_locater?sid=ALEPH:EBI01&genre=journal&issn=0003-0031> <http://www.w3.org/2000/01/rdf-schema#comment> "Online ab ab vol. 1, no. 5 via SFX" .
+<http://experiment.worldcat.org/entity/work/data/9593260837#Thing/biology> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> .
+<http://experiment.worldcat.org/entity/work/data/9593260837#Thing/biology> <http://schema.org/name> "BIOLOGY" .
+<http://worldcat.org/issn/0003-0031> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://worldcat.org/issn/0003-0031> <http://schema.org/name> "The American Midland naturalist : an international journal of ecology, evolution and environment" .
+<http://worldcat.org/issn/0003-0031> <http://schema.org/issn> "0003-0031" .
+<http://worldcat.org/issn/0003-0031> <http://umbel.org/umbel#isLike> <http://worldcat.org/entity/work/id/9593260837> .
+<http://id.loc.gov/vocabulary/countries/inu> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://id.loc.gov/vocabulary/countries/inu> <http://purl.org/dc/terms/identifier> "inu" .
+<http://experiment.worldcat.org/entity/work/data/9593260837#Thing/zeitschriften> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> .
+<http://experiment.worldcat.org/entity/work/data/9593260837#Thing/zeitschriften> <http://schema.org/name> "Zeitschriften" .
+<http://experiment.worldcat.org/entity/work/data/9593260837#Topic/naturwissenschaften> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/9593260837#Topic/naturwissenschaften> <http://schema.org/name> "Naturwissenschaften" .

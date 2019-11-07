@@ -1,0 +1,50 @@
+<http://id.loc.gov/vocabulary/countries/nyu> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://id.loc.gov/vocabulary/countries/nyu> <http://purl.org/dc/terms/identifier> "nyu" .
+<http://id.worldcat.org/fast/998087> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://id.worldcat.org/fast/998087> <http://schema.org/name> "Lichenology"@en .
+<http://dewey.info/class/680/a14/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://www.worldcat.org/title/-/oclc/427817492#PublicationEvent/bronx_ny_james_c_ledemer> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PublicationEvent> .
+<http://www.worldcat.org/title/-/oclc/427817492#PublicationEvent/bronx_ny_james_c_ledemer> <http://schema.org/location> <http://experiment.worldcat.org/entity/work/data/13772232#Place/bronx_ny> .
+<http://www.worldcat.org/title/-/oclc/427817492#PublicationEvent/bronx_ny_james_c_ledemer> <http://schema.org/organizer> <http://experiment.worldcat.org/entity/work/data/13772232#Agent/james_c_ledemer> .
+<http://www.worldcat.org/title/-/oclc/427817492> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#ContentTypeGenericResource> .
+<http://www.worldcat.org/title/-/oclc/427817492> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#InformationResource> .
+<http://www.worldcat.org/title/-/oclc/427817492> <http://schema.org/about> <http://www.worldcat.org/oclc/427817492> .
+<http://www.worldcat.org/title/-/oclc/427817492> <http://schema.org/dateModified> "2019-02-09" .
+<http://www.worldcat.org/title/-/oclc/427817492> <http://rdfs.org/ns/void#inDataset> <http://purl.oclc.org/dataset/WorldCat> .
+<http://www.worldcat.org/oclc/54770592> <http://schema.org/isSimilarTo> <http://www.worldcat.org/oclc/427817492> .
+<http://www.worldcat.org/oclc/54770592> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://www.worldcat.org/oclc/54770592> <http://www.w3.org/2000/01/rdf-schema#label> "Opuscula philolichenum" .
+<http://www.worldcat.org/oclc/54770592> <http://schema.org/description> "Print version:" .
+<http://id.loc.gov/authorities/subjects/sh96010288> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://id.loc.gov/authorities/subjects/sh96010288> <http://schema.org/name> "Lichenology"@en .
+<http://www.worldcat.org/oclc/427817492> <http://schema.org/about> <http://id.loc.gov/authorities/subjects/sh96010288> .
+<http://www.worldcat.org/oclc/427817492> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/MediaObject> .
+<http://www.worldcat.org/oclc/427817492> <http://purl.org/library/oclcnum> "427817492" .
+<http://www.worldcat.org/oclc/427817492> <http://purl.org/library/placeOfPublication> <http://id.loc.gov/vocabulary/countries/nyu> .
+<http://www.worldcat.org/oclc/427817492> <http://schema.org/inLanguage> "en" .
+<http://www.worldcat.org/oclc/427817492> <http://schema.org/about> <http://id.worldcat.org/fast/998087> .
+<http://www.worldcat.org/oclc/427817492> <http://schema.org/genre> "Periodicals"@en .
+<http://www.worldcat.org/oclc/427817492> <http://schema.org/exampleOfWork> <http://worldcat.org/entity/work/id/13772232> .
+<http://www.worldcat.org/oclc/427817492> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://www.worldcat.org/oclc/427817492> <http://schema.org/productID> "427817492" .
+<http://www.worldcat.org/oclc/427817492> <http://schema.org/url> <http://sweetgum.nybg.org/science/op/volumes.php> .
+<http://www.worldcat.org/oclc/427817492> <http://schema.org/publisher> <http://experiment.worldcat.org/entity/work/data/13772232#Agent/james_c_ledemer> .
+<http://www.worldcat.org/oclc/427817492> <http://schema.org/publication> <http://www.worldcat.org/title/-/oclc/427817492#PublicationEvent/bronx_ny_james_c_ledemer> .
+<http://www.worldcat.org/oclc/427817492> <http://purl.org/library/placeOfPublication> <http://experiment.worldcat.org/entity/work/data/13772232#Place/bronx_ny> .
+<http://www.worldcat.org/oclc/427817492> <http://schema.org/about> <http://dewey.info/class/680/a14/> .
+<http://www.worldcat.org/oclc/427817492> <http://schema.org/datePublished> "2004/9999" .
+<http://www.worldcat.org/oclc/427817492> <http://schema.org/name> "Opuscula philolichenum."@en .
+<http://www.worldcat.org/oclc/427817492> <http://schema.org/isSimilarTo> <http://www.worldcat.org/oclc/54770592> .
+<http://www.worldcat.org/oclc/427817492> <http://schema.org/url> <http://mclink.library.mcgill.ca/sfx?url_ver=Z39.88-2004&ctx_ver=Z39.88-2004&ctx_enc=info:ofi/enc:UTF-8&rfr_id=info:sid/sfxit.com:opac_856&url_ctx_fmt=info:ofi/fmt:kev:mtx:ctx&sfx.ignore_date_threshold=1&rft.object_id=1000000000292014&svc_val_fmt=info:ofi/fmt:kev:mtx:sch_svc&> .
+<http://www.worldcat.org/oclc/427817492> <http://www.w3.org/2007/05/powder-s#describedby> <http://www.worldcat.org/title/-/oclc/427817492> .
+<http://www.worldcat.org/oclc/427817492> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://www.worldcat.org/oclc/427817492> <http://schema.org/workExample> <http://worldcat.org/issn/1941-7519> .
+<http://experiment.worldcat.org/entity/work/data/13772232#Agent/james_c_ledemer> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bibliograph.net/Agent> .
+<http://experiment.worldcat.org/entity/work/data/13772232#Agent/james_c_ledemer> <http://schema.org/name> "James C. Ledemer." .
+<http://worldcat.org/entity/work/id/13772232> <http://umbel.org/umbel#isLike> <http://worldcat.org/issn/1941-7519> .
+<http://experiment.worldcat.org/entity/work/data/13772232#Place/bronx_ny> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://experiment.worldcat.org/entity/work/data/13772232#Place/bronx_ny> <http://schema.org/name> "Bronx, NY" .
+<http://worldcat.org/issn/1941-7519> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://worldcat.org/issn/1941-7519> <http://schema.org/name> "Opuscula philolichenum."@en .
+<http://worldcat.org/issn/1941-7519> <http://schema.org/issn> "1941-7519" .
+<http://worldcat.org/issn/1941-7519> <http://umbel.org/umbel#isLike> <http://worldcat.org/entity/work/id/13772232> .

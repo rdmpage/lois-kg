@@ -1,0 +1,103 @@
+<http://worldcat.org/issn/1043-4534> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://worldcat.org/issn/1043-4534> <http://schema.org/name> "Harvard papers in botany : the journal of the Arnold Arboretum." .
+<http://worldcat.org/issn/1043-4534> <http://schema.org/issn> "1043-4534" .
+<http://worldcat.org/issn/1043-4534> <http://umbel.org/umbel#isLike> <http://worldcat.org/entity/work/id/2999688775> .
+<http://experiment.worldcat.org/entity/work/data/2999688775#Topic/plantenecologie> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/2999688775#Topic/plantenecologie> <http://schema.org/name> "plantenecologie" .
+<http://worldcat.org/entity/work/id/2999688775> <http://umbel.org/umbel#isLike> <http://worldcat.org/issn/1043-4534> .
+<http://worldcat.org/entity/work/data/2999688775#CreativeWork/harvard_papers_in_botany> <http://schema.org/isSimilarTo> <http://www.worldcat.org/oclc/819189645> .
+<http://worldcat.org/entity/work/data/2999688775#CreativeWork/harvard_papers_in_botany> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://worldcat.org/entity/work/data/2999688775#CreativeWork/harvard_papers_in_botany> <http://www.w3.org/2000/01/rdf-schema#label> "Harvard papers in botany" .
+<http://experiment.worldcat.org/entity/work/data/2999688775#Topic/botany> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/2999688775#Topic/botany> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://id.loc.gov/authorities/subjects/sh2007102112> .
+<http://experiment.worldcat.org/entity/work/data/2999688775#Topic/botany> <http://schema.org/name> "Botany" .
+<http://experiment.worldcat.org/entity/work/data/2999688775#Topic/botany> <http://schema.org/name> "botany" .
+<http://experiment.worldcat.org/entity/work/data/2999688775#Place/cambridge_ma> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://experiment.worldcat.org/entity/work/data/2999688775#Place/cambridge_ma> <http://schema.org/name> "Cambridge, MA" .
+<http://experiment.worldcat.org/entity/work/data/2999688775#Topic/plant_collections> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/2999688775#Topic/plant_collections> <http://schema.org/name> "plant collections" .
+<http://experiment.worldcat.org/entity/work/data/2999688775#Topic/onderzoeksinstituten> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/2999688775#Topic/onderzoeksinstituten> <http://schema.org/name> "onderzoeksinstituten" .
+<http://experiment.worldcat.org/entity/work/data/2999688775#Topic/botanie_algemeen> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/2999688775#Topic/botanie_algemeen> <http://schema.org/name> "Botanie (algemeen)" .
+<http://experiment.worldcat.org/entity/work/data/2999688775#Topic/taxonomie> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/2999688775#Topic/taxonomie> <http://schema.org/name> "taxonomie" .
+<http://experiment.worldcat.org/entity/work/data/2999688775#Topic/plantenverzamelingen> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/2999688775#Topic/plantenverzamelingen> <http://schema.org/name> "plantenverzamelingen" .
+<http://experiment.worldcat.org/entity/work/data/2999688775#Topic/massachusetts> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/2999688775#Topic/massachusetts> <http://schema.org/name> "massachusetts" .
+<http://www.worldcat.org/title/-/oclc/819189645> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#ContentTypeGenericResource> .
+<http://www.worldcat.org/title/-/oclc/819189645> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#InformationResource> .
+<http://www.worldcat.org/title/-/oclc/819189645> <http://schema.org/about> <http://www.worldcat.org/oclc/819189645> .
+<http://www.worldcat.org/title/-/oclc/819189645> <http://schema.org/dateModified> "2019-07-29" .
+<http://www.worldcat.org/title/-/oclc/819189645> <http://rdfs.org/ns/void#inDataset> <http://purl.oclc.org/dataset/WorldCat> .
+<http://experiment.worldcat.org/entity/work/data/2999688775#Topic/research> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/2999688775#Topic/research> <http://schema.org/name> "research" .
+<http://experiment.worldcat.org/entity/work/data/2999688775#Topic/plantkunde> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/2999688775#Topic/plantkunde> <http://schema.org/name> "Plantkunde" .
+<http://experiment.worldcat.org/entity/work/data/2999688775#Topic/plantkunde> <http://schema.org/name> "plantkunde" .
+<http://experiment.worldcat.org/entity/work/data/2999688775#Agent/harvard_university_herbaria> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bibliograph.net/Agent> .
+<http://experiment.worldcat.org/entity/work/data/2999688775#Agent/harvard_university_herbaria> <http://schema.org/name> "Harvard University Herbaria" .
+<http://www.worldcat.org/title/-/oclc/819189645#PublicationEvent/cambridge_ma_harvard_university_herbaria_200> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PublicationEvent> .
+<http://www.worldcat.org/title/-/oclc/819189645#PublicationEvent/cambridge_ma_harvard_university_herbaria_200> <http://schema.org/location> <http://experiment.worldcat.org/entity/work/data/2999688775#Place/cambridge_ma> .
+<http://www.worldcat.org/title/-/oclc/819189645#PublicationEvent/cambridge_ma_harvard_university_herbaria_200> <http://schema.org/organizer> <http://experiment.worldcat.org/entity/work/data/2999688775#Agent/harvard_university_herbaria> .
+<http://www.worldcat.org/title/-/oclc/819189645#PublicationEvent/cambridge_ma_harvard_university_herbaria_200> <http://schema.org/startDate> "-" .
+<http://experiment.worldcat.org/entity/work/data/2999688775#Organization/harvard_university_cambridge_arnold_arboretum> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+<http://experiment.worldcat.org/entity/work/data/2999688775#Organization/harvard_university_cambridge_arnold_arboretum> <http://schema.org/name> "Harvard University (Cambridge). Arnold Arboretum." .
+<http://experiment.worldcat.org/entity/work/data/2999688775#Topic/plant_ecology> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/2999688775#Topic/plant_ecology> <http://schema.org/name> "plant ecology" .
+<http://experiment.worldcat.org/entity/work/data/2999688775#Topic/herbaria> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/2999688775#Topic/herbaria> <http://schema.org/name> "herbaria" .
+<http://experiment.worldcat.org/entity/work/data/2999688775#Topic/experimental_stations> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/2999688775#Topic/experimental_stations> <http://schema.org/name> "experimental stations" .
+<http://id.loc.gov/vocabulary/countries/mau> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://id.loc.gov/vocabulary/countries/mau> <http://purl.org/dc/terms/identifier> "mau" .
+<http://dewey.info/class/581.05/e20/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/2999688775#Topic/proefstations> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/2999688775#Topic/proefstations> <http://schema.org/name> "proefstations" .
+<http://experiment.worldcat.org/entity/work/data/2999688775#Topic/taxonomy> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/2999688775#Topic/taxonomy> <http://schema.org/name> "taxonomy" .
+<http://experiment.worldcat.org/entity/work/data/2999688775#Topic/research_institutes> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/2999688775#Topic/research_institutes> <http://schema.org/name> "research institutes" .
+<http://experiment.worldcat.org/entity/work/data/2999688775#Topic/onderzoek> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/2999688775#Topic/onderzoek> <http://schema.org/name> "onderzoek" .
+<http://experiment.worldcat.org/entity/work/data/2999688775#Topic/botany_general> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/2999688775#Topic/botany_general> <http://schema.org/name> "Botany (General)" .
+<http://www.worldcat.org/oclc/819189645> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/2999688775#Topic/plant_ecology> .
+<http://www.worldcat.org/oclc/819189645> <http://purl.org/library/oclcnum> "819189645" .
+<http://www.worldcat.org/oclc/819189645> <http://schema.org/datePublished> "200u/9999" .
+<http://www.worldcat.org/oclc/819189645> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/2999688775#Topic/onderzoek> .
+<http://www.worldcat.org/oclc/819189645> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/2999688775#Topic/research_institutes> .
+<http://www.worldcat.org/oclc/819189645> <http://schema.org/publication> <http://www.worldcat.org/title/-/oclc/819189645#PublicationEvent/cambridge_ma_harvard_university_herbaria_200> .
+<http://www.worldcat.org/oclc/819189645> <http://schema.org/publisher> <http://experiment.worldcat.org/entity/work/data/2999688775#Agent/harvard_university_herbaria> .
+<http://www.worldcat.org/oclc/819189645> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/2999688775#Topic/botanie_algemeen> .
+<http://www.worldcat.org/oclc/819189645> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/2999688775#Topic/plantenverzamelingen> .
+<http://www.worldcat.org/oclc/819189645> <http://purl.org/library/placeOfPublication> <http://experiment.worldcat.org/entity/work/data/2999688775#Place/cambridge_ma> .
+<http://www.worldcat.org/oclc/819189645> <http://schema.org/isSimilarTo> <http://worldcat.org/entity/work/data/2999688775#CreativeWork/harvard_papers_in_botany> .
+<http://www.worldcat.org/oclc/819189645> <http://purl.org/library/placeOfPublication> <http://id.loc.gov/vocabulary/countries/mau> .
+<http://www.worldcat.org/oclc/819189645> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/2999688775#Topic/proefstations> .
+<http://www.worldcat.org/oclc/819189645> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/2999688775#Topic/plantkunde> .
+<http://www.worldcat.org/oclc/819189645> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/2999688775#Topic/plant_collections> .
+<http://www.worldcat.org/oclc/819189645> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/2999688775#Topic/plantenecologie> .
+<http://www.worldcat.org/oclc/819189645> <http://www.w3.org/2007/05/powder-s#describedby> <http://www.worldcat.org/title/-/oclc/819189645> .
+<http://www.worldcat.org/oclc/819189645> <http://schema.org/exampleOfWork> <http://worldcat.org/entity/work/id/2999688775> .
+<http://www.worldcat.org/oclc/819189645> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/2999688775#Topic/botany_general> .
+<http://www.worldcat.org/oclc/819189645> <http://schema.org/genre> "Periodicals" .
+<http://www.worldcat.org/oclc/819189645> <http://schema.org/workExample> <http://worldcat.org/issn/1043-4534> .
+<http://www.worldcat.org/oclc/819189645> <http://schema.org/inLanguage> "en" .
+<http://www.worldcat.org/oclc/819189645> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/2999688775#Topic/experimental_stations> .
+<http://www.worldcat.org/oclc/819189645> <http://schema.org/name> "Harvard papers in botany : the journal of the Arnold Arboretum." .
+<http://www.worldcat.org/oclc/819189645> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/2999688775#Topic/taxonomy> .
+<http://www.worldcat.org/oclc/819189645> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://www.worldcat.org/oclc/819189645> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/2999688775#Topic/massachusetts> .
+<http://www.worldcat.org/oclc/819189645> <http://schema.org/url> <http://www.bioone.org/perlserv/?request=get-archive&issn=1043-4534> .
+<http://www.worldcat.org/oclc/819189645> <http://schema.org/contributor> <http://experiment.worldcat.org/entity/work/data/2999688775#Organization/harvard_university_cambridge_arnold_arboretum> .
+<http://www.worldcat.org/oclc/819189645> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/2999688775#Topic/onderzoeksinstituten> .
+<http://www.worldcat.org/oclc/819189645> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://www.worldcat.org/oclc/819189645> <http://schema.org/about> <http://dewey.info/class/581.05/e20/> .
+<http://www.worldcat.org/oclc/819189645> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/2999688775#Topic/botany> .
+<http://www.worldcat.org/oclc/819189645> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/2999688775#Topic/herbaria> .
+<http://www.worldcat.org/oclc/819189645> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/2999688775#Topic/research> .
+<http://www.worldcat.org/oclc/819189645> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/MediaObject> .
+<http://www.worldcat.org/oclc/819189645> <http://schema.org/productID> "819189645" .
+<http://www.worldcat.org/oclc/819189645> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/2999688775#Topic/taxonomie> .

@@ -1,0 +1,33 @@
+<http://www.worldcat.org/title/-/oclc/994520001> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#ContentTypeGenericResource> .
+<http://www.worldcat.org/title/-/oclc/994520001> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#InformationResource> .
+<http://www.worldcat.org/title/-/oclc/994520001> <http://schema.org/about> <http://www.worldcat.org/oclc/994520001> .
+<http://www.worldcat.org/title/-/oclc/994520001> <http://schema.org/dateModified> "2019-02-09" .
+<http://www.worldcat.org/title/-/oclc/994520001> <http://rdfs.org/ns/void#inDataset> <http://purl.oclc.org/dataset/WorldCat> .
+<http://experiment.worldcat.org/entity/work/data/53857147#Place/paris> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://experiment.worldcat.org/entity/work/data/53857147#Place/paris> <http://schema.org/name> "Paris" .
+<http://www.worldcat.org/title/-/oclc/994520001#PublicationEvent/parislaboratoire_d_agronomie_coloniale> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PublicationEvent> .
+<http://www.worldcat.org/title/-/oclc/994520001#PublicationEvent/parislaboratoire_d_agronomie_coloniale> <http://schema.org/location> <http://experiment.worldcat.org/entity/work/data/53857147#Place/paris> .
+<http://www.worldcat.org/title/-/oclc/994520001#PublicationEvent/parislaboratoire_d_agronomie_coloniale> <http://schema.org/organizer> <http://experiment.worldcat.org/entity/work/data/53857147#Agent/laboratoire_d_agronomie_coloniale> .
+<http://id.loc.gov/vocabulary/countries/fr> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://id.loc.gov/vocabulary/countries/fr> <http://purl.org/dc/terms/identifier> "fr" .
+<http://worldcat.org/entity/work/id/53857147> <http://umbel.org/umbel#isLike> <http://worldcat.org/issn/0370-5412> .
+<http://experiment.worldcat.org/entity/work/data/53857147#Agent/laboratoire_d_agronomie_coloniale> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bibliograph.net/Agent> .
+<http://experiment.worldcat.org/entity/work/data/53857147#Agent/laboratoire_d_agronomie_coloniale> <http://schema.org/name> "Laboratoire d'agronomie coloniale." .
+<http://www.worldcat.org/oclc/994520001> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://www.worldcat.org/oclc/994520001> <http://schema.org/workExample> <http://worldcat.org/issn/0370-5412> .
+<http://www.worldcat.org/oclc/994520001> <http://purl.org/library/oclcnum> "994520001" .
+<http://www.worldcat.org/oclc/994520001> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://www.worldcat.org/oclc/994520001> <http://www.w3.org/2007/05/powder-s#describedby> <http://www.worldcat.org/title/-/oclc/994520001> .
+<http://www.worldcat.org/oclc/994520001> <http://purl.org/library/placeOfPublication> <http://id.loc.gov/vocabulary/countries/fr> .
+<http://www.worldcat.org/oclc/994520001> <http://schema.org/publication> <http://www.worldcat.org/title/-/oclc/994520001#PublicationEvent/parislaboratoire_d_agronomie_coloniale> .
+<http://www.worldcat.org/oclc/994520001> <http://schema.org/name> "Revue internationale de botanique appliquée et d'agriculture tropicale."@en .
+<http://www.worldcat.org/oclc/994520001> <http://schema.org/exampleOfWork> <http://worldcat.org/entity/work/id/53857147> .
+<http://www.worldcat.org/oclc/994520001> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/MediaObject> .
+<http://www.worldcat.org/oclc/994520001> <http://purl.org/library/placeOfPublication> <http://experiment.worldcat.org/entity/work/data/53857147#Place/paris> .
+<http://www.worldcat.org/oclc/994520001> <http://schema.org/inLanguage> "en" .
+<http://www.worldcat.org/oclc/994520001> <http://schema.org/publisher> <http://experiment.worldcat.org/entity/work/data/53857147#Agent/laboratoire_d_agronomie_coloniale> .
+<http://www.worldcat.org/oclc/994520001> <http://schema.org/productID> "994520001" .
+<http://worldcat.org/issn/0370-5412> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://worldcat.org/issn/0370-5412> <http://schema.org/name> "Revue internationale de botanique appliquée et d'agriculture tropicale."@en .
+<http://worldcat.org/issn/0370-5412> <http://schema.org/issn> "0370-5412" .
+<http://worldcat.org/issn/0370-5412> <http://umbel.org/umbel#isLike> <http://worldcat.org/entity/work/id/53857147> .

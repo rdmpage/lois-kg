@@ -1,0 +1,33 @@
+<http://experiment.worldcat.org/entity/work/data/32094924#Place/lindenhurst_ny> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://experiment.worldcat.org/entity/work/data/32094924#Place/lindenhurst_ny> <http://schema.org/name> "Lindenhurst, NY." .
+<http://www.worldcat.org/title/-/oclc/917679882> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#ContentTypeGenericResource> .
+<http://www.worldcat.org/title/-/oclc/917679882> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#InformationResource> .
+<http://www.worldcat.org/title/-/oclc/917679882> <http://schema.org/about> <http://www.worldcat.org/oclc/917679882> .
+<http://www.worldcat.org/title/-/oclc/917679882> <http://schema.org/dateModified> "2018-11-07" .
+<http://www.worldcat.org/title/-/oclc/917679882> <http://rdfs.org/ns/void#inDataset> <http://purl.oclc.org/dataset/WorldCat> .
+<http://www.worldcat.org/title/-/oclc/917679882#PublicationEvent/lindenhurst_ny> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PublicationEvent> .
+<http://www.worldcat.org/title/-/oclc/917679882#PublicationEvent/lindenhurst_ny> <http://schema.org/location> <http://experiment.worldcat.org/entity/work/data/32094924#Place/lindenhurst_ny> .
+<http://worldcat.org/issn/1075-3524> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://worldcat.org/issn/1075-3524> <http://schema.org/name> "Journal of the International Conifer Preservation Society." .
+<http://worldcat.org/issn/1075-3524> <http://schema.org/issn> "1075-3524" .
+<http://worldcat.org/issn/1075-3524> <http://umbel.org/umbel#isLike> <http://worldcat.org/entity/work/id/32094924> .
+<http://experiment.worldcat.org/entity/work/data/32094924#Organization/international_conifer_preservation_society> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+<http://experiment.worldcat.org/entity/work/data/32094924#Organization/international_conifer_preservation_society> <http://schema.org/name> "International Conifer Preservation Society." .
+<http://experiment.worldcat.org/entity/work/data/32094924#Organization/international_conifer_preservation_society> <http://schema.org/sameAs> <http://d-nb.info/gnd/5180782-8> .
+<http://id.loc.gov/vocabulary/countries/xxu> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://id.loc.gov/vocabulary/countries/xxu> <http://purl.org/dc/terms/identifier> "xxu" .
+<http://worldcat.org/entity/work/id/32094924> <http://umbel.org/umbel#isLike> <http://worldcat.org/issn/1075-3524> .
+<http://www.worldcat.org/oclc/917679882> <http://schema.org/productID> "917679882" .
+<http://www.worldcat.org/oclc/917679882> <http://www.w3.org/2007/05/powder-s#describedby> <http://www.worldcat.org/title/-/oclc/917679882> .
+<http://www.worldcat.org/oclc/917679882> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://www.worldcat.org/oclc/917679882> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://www.worldcat.org/oclc/917679882> <http://schema.org/creator> <http://experiment.worldcat.org/entity/work/data/32094924#Organization/international_conifer_preservation_society> .
+<http://www.worldcat.org/oclc/917679882> <http://schema.org/exampleOfWork> <http://worldcat.org/entity/work/id/32094924> .
+<http://www.worldcat.org/oclc/917679882> <http://schema.org/publication> <http://www.worldcat.org/title/-/oclc/917679882#PublicationEvent/lindenhurst_ny> .
+<http://www.worldcat.org/oclc/917679882> <http://purl.org/library/placeOfPublication> <http://id.loc.gov/vocabulary/countries/xxu> .
+<http://www.worldcat.org/oclc/917679882> <http://schema.org/workExample> <http://worldcat.org/issn/1075-3524> .
+<http://www.worldcat.org/oclc/917679882> <http://schema.org/inLanguage> "en" .
+<http://www.worldcat.org/oclc/917679882> <http://schema.org/datePublished> "1994/9999" .
+<http://www.worldcat.org/oclc/917679882> <http://purl.org/library/oclcnum> "917679882" .
+<http://www.worldcat.org/oclc/917679882> <http://purl.org/library/placeOfPublication> <http://experiment.worldcat.org/entity/work/data/32094924#Place/lindenhurst_ny> .
+<http://www.worldcat.org/oclc/917679882> <http://schema.org/name> "Journal of the International Conifer Preservation Society." .

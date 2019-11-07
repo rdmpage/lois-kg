@@ -1,0 +1,42 @@
+<http://www.worldcat.org/title/-/oclc/715148896> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#ContentTypeGenericResource> .
+<http://www.worldcat.org/title/-/oclc/715148896> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#InformationResource> .
+<http://www.worldcat.org/title/-/oclc/715148896> <http://schema.org/about> <http://www.worldcat.org/oclc/715148896> .
+<http://www.worldcat.org/title/-/oclc/715148896> <http://schema.org/dateModified> "2018-11-10" .
+<http://www.worldcat.org/title/-/oclc/715148896> <http://rdfs.org/ns/void#inDataset> <http://purl.oclc.org/dataset/WorldCat> .
+<http://experiment.worldcat.org/entity/work/data/2973899335#Topic/botanique> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/2973899335#Topic/botanique> <http://schema.org/name> "botanique" .
+<http://experiment.worldcat.org/entity/work/data/2973899335#Agent/botanic_gardens_parks_and_recreation_dept> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bibliograph.net/Agent> .
+<http://experiment.worldcat.org/entity/work/data/2973899335#Agent/botanic_gardens_parks_and_recreation_dept> <http://schema.org/name> "Botanic Gardens - Parks and Recreation Dept." .
+<http://viaf.org/viaf/131968846> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+<http://viaf.org/viaf/131968846> <http://schema.org/name> "Singapore Botanic Gardens." .
+<http://www.worldcat.org/oclc/715148896> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://www.worldcat.org/oclc/715148896> <http://schema.org/name> "Gardens' bulletin : a periodical reflecting the interests and activities of the Botanic Gardens Singapore." .
+<http://www.worldcat.org/oclc/715148896> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://www.worldcat.org/oclc/715148896> <http://www.w3.org/2007/05/powder-s#describedby> <http://www.worldcat.org/title/-/oclc/715148896> .
+<http://www.worldcat.org/oclc/715148896> <http://schema.org/datePublished> "1913/" .
+<http://www.worldcat.org/oclc/715148896> <http://purl.org/library/placeOfPublication> <http://id.loc.gov/vocabulary/countries/si> .
+<http://www.worldcat.org/oclc/715148896> <http://schema.org/inLanguage> "en" .
+<http://www.worldcat.org/oclc/715148896> <http://schema.org/contributor> <http://viaf.org/viaf/131968846> .
+<http://www.worldcat.org/oclc/715148896> <http://schema.org/exampleOfWork> <http://worldcat.org/entity/work/id/2973899335> .
+<http://www.worldcat.org/oclc/715148896> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/2973899335#Topic/botanique> .
+<http://www.worldcat.org/oclc/715148896> <http://schema.org/datePublished> "1913/9999" .
+<http://www.worldcat.org/oclc/715148896> <http://schema.org/workExample> <http://worldcat.org/issn/0374-7859> .
+<http://www.worldcat.org/oclc/715148896> <http://schema.org/productID> "715148896" .
+<http://www.worldcat.org/oclc/715148896> <http://purl.org/library/oclcnum> "715148896" .
+<http://www.worldcat.org/oclc/715148896> <http://schema.org/publication> <http://www.worldcat.org/title/-/oclc/715148896#PublicationEvent/singapore_botanic_gardens_parks_and_recreation_dept_1913> .
+<http://www.worldcat.org/oclc/715148896> <http://purl.org/library/placeOfPublication> <http://experiment.worldcat.org/entity/work/data/2973899335#Place/singapore> .
+<http://www.worldcat.org/oclc/715148896> <http://schema.org/genre> "[périodique]" .
+<http://www.worldcat.org/oclc/715148896> <http://schema.org/publisher> <http://experiment.worldcat.org/entity/work/data/2973899335#Agent/botanic_gardens_parks_and_recreation_dept> .
+<http://worldcat.org/entity/work/id/2973899335> <http://umbel.org/umbel#isLike> <http://worldcat.org/issn/0374-7859> .
+<http://worldcat.org/issn/0374-7859> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://worldcat.org/issn/0374-7859> <http://schema.org/name> "Gardens' bulletin : a periodical reflecting the interests and activities of the Botanic Gardens Singapore." .
+<http://worldcat.org/issn/0374-7859> <http://schema.org/issn> "0374-7859" .
+<http://worldcat.org/issn/0374-7859> <http://umbel.org/umbel#isLike> <http://worldcat.org/entity/work/id/2973899335> .
+<http://experiment.worldcat.org/entity/work/data/2973899335#Place/singapore> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://experiment.worldcat.org/entity/work/data/2973899335#Place/singapore> <http://schema.org/name> "Singapore" .
+<http://id.loc.gov/vocabulary/countries/si> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://id.loc.gov/vocabulary/countries/si> <http://purl.org/dc/terms/identifier> "si" .
+<http://www.worldcat.org/title/-/oclc/715148896#PublicationEvent/singapore_botanic_gardens_parks_and_recreation_dept_1913> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PublicationEvent> .
+<http://www.worldcat.org/title/-/oclc/715148896#PublicationEvent/singapore_botanic_gardens_parks_and_recreation_dept_1913> <http://schema.org/location> <http://experiment.worldcat.org/entity/work/data/2973899335#Place/singapore> .
+<http://www.worldcat.org/title/-/oclc/715148896#PublicationEvent/singapore_botanic_gardens_parks_and_recreation_dept_1913> <http://schema.org/organizer> <http://experiment.worldcat.org/entity/work/data/2973899335#Agent/botanic_gardens_parks_and_recreation_dept> .
+<http://www.worldcat.org/title/-/oclc/715148896#PublicationEvent/singapore_botanic_gardens_parks_and_recreation_dept_1913> <http://schema.org/startDate> "1913-" .

@@ -1,0 +1,38 @@
+<http://id.loc.gov/vocabulary/countries/nz> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://id.loc.gov/vocabulary/countries/nz> <http://purl.org/dc/terms/identifier> "nz" .
+<http://worldcat.org/issn/0028-825X> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://worldcat.org/issn/0028-825X> <http://schema.org/name> "New Zealand journal of botany Supplement." .
+<http://worldcat.org/issn/0028-825X> <http://schema.org/issn> "0028-825X" .
+<http://worldcat.org/issn/0028-825X> <http://umbel.org/umbel#isLike> <http://worldcat.org/entity/work/id/3373202428> .
+<http://experiment.worldcat.org/entity/work/data/3373202428#Place/wellington> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://experiment.worldcat.org/entity/work/data/3373202428#Place/wellington> <http://schema.org/name> "Wellington" .
+<http://experiment.worldcat.org/entity/work/data/3373202428#Agent/sir_publ> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bibliograph.net/Agent> .
+<http://experiment.worldcat.org/entity/work/data/3373202428#Agent/sir_publ> <http://schema.org/name> "SIR Publ." .
+<http://www.worldcat.org/title/-/oclc/311498950#PublicationEvent/wellington_sir_publ_1987> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PublicationEvent> .
+<http://www.worldcat.org/title/-/oclc/311498950#PublicationEvent/wellington_sir_publ_1987> <http://schema.org/location> <http://experiment.worldcat.org/entity/work/data/3373202428#Place/wellington> .
+<http://www.worldcat.org/title/-/oclc/311498950#PublicationEvent/wellington_sir_publ_1987> <http://schema.org/organizer> <http://experiment.worldcat.org/entity/work/data/3373202428#Agent/sir_publ> .
+<http://www.worldcat.org/title/-/oclc/311498950#PublicationEvent/wellington_sir_publ_1987> <http://schema.org/startDate> "1987" .
+<http://worldcat.org/entity/work/id/3373202428> <http://umbel.org/umbel#isLike> <http://worldcat.org/issn/0028-825X> .
+<http://www.worldcat.org/title/-/oclc/311498950> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#ContentTypeGenericResource> .
+<http://www.worldcat.org/title/-/oclc/311498950> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#InformationResource> .
+<http://www.worldcat.org/title/-/oclc/311498950> <http://schema.org/about> <http://www.worldcat.org/oclc/311498950> .
+<http://www.worldcat.org/title/-/oclc/311498950> <http://schema.org/dateModified> "2018-11-10" .
+<http://www.worldcat.org/title/-/oclc/311498950> <http://rdfs.org/ns/void#inDataset> <http://purl.oclc.org/dataset/WorldCat> .
+<http://www.worldcat.org/oclc/311498950> <http://schema.org/workExample> <http://worldcat.org/issn/0028-825X> .
+<http://www.worldcat.org/oclc/311498950> <http://purl.org/library/placeOfPublication> <http://experiment.worldcat.org/entity/work/data/3373202428#Place/wellington> .
+<http://www.worldcat.org/oclc/311498950> <http://schema.org/inLanguage> "en" .
+<http://www.worldcat.org/oclc/311498950> <http://purl.org/library/placeOfPublication> <http://id.loc.gov/vocabulary/countries/nz> .
+<http://www.worldcat.org/oclc/311498950> <http://schema.org/alternateName> "New Zealand journal of botany / Supplement" .
+<http://www.worldcat.org/oclc/311498950> <http://schema.org/publication> <http://www.worldcat.org/title/-/oclc/311498950#PublicationEvent/wellington_sir_publ_1987> .
+<http://www.worldcat.org/oclc/311498950> <http://schema.org/name> "New Zealand journal of botany Supplement." .
+<http://www.worldcat.org/oclc/311498950> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://www.worldcat.org/oclc/311498950> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://www.worldcat.org/oclc/311498950> <http://purl.org/library/oclcnum> "311498950" .
+<http://www.worldcat.org/oclc/311498950> <http://schema.org/alternateName> "Supplement" .
+<http://www.worldcat.org/oclc/311498950> <http://www.w3.org/2007/05/powder-s#describedby> <http://www.worldcat.org/title/-/oclc/311498950> .
+<http://www.worldcat.org/oclc/311498950> <http://schema.org/datePublished> "1987" .
+<http://www.worldcat.org/oclc/311498950> <http://umbel.org/umbel#isLike> <http://d-nb.info/016266196> .
+<http://www.worldcat.org/oclc/311498950> <http://schema.org/publisher> <http://experiment.worldcat.org/entity/work/data/3373202428#Agent/sir_publ> .
+<http://www.worldcat.org/oclc/311498950> <http://schema.org/productID> "311498950" .
+<http://www.worldcat.org/oclc/311498950> <http://schema.org/exampleOfWork> <http://worldcat.org/entity/work/id/3373202428> .
+<http://www.worldcat.org/oclc/311498950> <http://schema.org/datePublished> "1987/9999" .

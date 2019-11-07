@@ -1,0 +1,63 @@
+<http://id.worldcat.org/fast/1065823> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://id.worldcat.org/fast/1065823> <http://schema.org/name> "Plants" .
+<http://experiment.worldcat.org/entity/work/data/8908300554#Topic/botanique> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/8908300554#Topic/botanique> <http://schema.org/name> "Botanique"@fr .
+<http://experiment.worldcat.org/entity/work/data/8908300554#Topic/botanique> <http://schema.org/name> "Botanique" .
+<http://experiment.worldcat.org/entity/work/data/8908300554#Agent/council_for_nordic_publications_in_botany> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bibliograph.net/Agent> .
+<http://experiment.worldcat.org/entity/work/data/8908300554#Agent/council_for_nordic_publications_in_botany> <http://schema.org/name> "[Council for Nordic Publications in Botany]" .
+<http://www.worldcat.org/title/-/oclc/300306137> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#ContentTypeGenericResource> .
+<http://www.worldcat.org/title/-/oclc/300306137> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#InformationResource> .
+<http://www.worldcat.org/title/-/oclc/300306137> <http://schema.org/about> <http://www.worldcat.org/oclc/300306137> .
+<http://www.worldcat.org/title/-/oclc/300306137> <http://schema.org/dateModified> "2019-02-16" .
+<http://www.worldcat.org/title/-/oclc/300306137> <http://rdfs.org/ns/void#inDataset> <http://purl.oclc.org/dataset/WorldCat> .
+<http://id.worldcat.org/fast/836869> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://id.worldcat.org/fast/836869> <http://schema.org/name> "Botany" .
+<http://worldcat.org/entity/work/id/8908300554> <http://schema.org/name> "Nordic journal of botany (En ligne)" .
+<http://id.loc.gov/vocabulary/countries/dk> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://id.loc.gov/vocabulary/countries/dk> <http://purl.org/dc/terms/identifier> "dk" .
+<http://www.worldcat.org/oclc/300306137> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/8908300554#Topic/botanique> .
+<http://www.worldcat.org/oclc/300306137> <http://schema.org/about> <http://dewey.info/class/581.05/> .
+<http://www.worldcat.org/oclc/300306137> <http://schema.org/about> <http://id.worldcat.org/fast/1065823> .
+<http://www.worldcat.org/oclc/300306137> <http://purl.org/library/oclcnum> "300306137" .
+<http://www.worldcat.org/oclc/300306137> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://www.worldcat.org/oclc/300306137> <http://schema.org/url> <http://accesbib.uqam.ca/cgi-bin/bduqam/transit.pl?&noMan=25242238a> .
+<http://www.worldcat.org/oclc/300306137> <http://schema.org/datePublished> "1981/9999" .
+<http://www.worldcat.org/oclc/300306137> <http://schema.org/exampleOfWork> <http://worldcat.org/entity/work/id/8908300554> .
+<http://www.worldcat.org/oclc/300306137> <http://schema.org/publisher> <http://experiment.worldcat.org/entity/work/data/8908300554#Agent/council_for_nordic_publications_in_botany> .
+<http://www.worldcat.org/oclc/300306137> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/8908300554#Topic/botany> .
+<http://www.worldcat.org/oclc/300306137> <http://schema.org/genre> "Périodiques"@fr .
+<http://www.worldcat.org/oclc/300306137> <http://purl.org/library/placeOfPublication> <http://id.loc.gov/vocabulary/countries/dk> .
+<http://www.worldcat.org/oclc/300306137> <http://schema.org/genre> "Ressource Internet (Descripteur de forme)" .
+<http://www.worldcat.org/oclc/300306137> <http://schema.org/url> <http://www3.interscience.wiley.com/cgi-bin/jtoc?ID=118902517> .
+<http://www.worldcat.org/oclc/300306137> <http://schema.org/genre> "Periodicals" .
+<http://www.worldcat.org/oclc/300306137> <http://schema.org/productID> "300306137" .
+<http://www.worldcat.org/oclc/300306137> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/8908300554#Topic/plante> .
+<http://www.worldcat.org/oclc/300306137> <http://schema.org/about> <http://id.loc.gov/authorities/subjects/sh85102839> .
+<http://www.worldcat.org/oclc/300306137> <http://schema.org/name> "Nordic journal of botany." .
+<http://www.worldcat.org/oclc/300306137> <http://schema.org/datePublished> "1981/" .
+<http://www.worldcat.org/oclc/300306137> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/MediaObject> .
+<http://www.worldcat.org/oclc/300306137> <http://purl.org/library/placeOfPublication> <http://experiment.worldcat.org/entity/work/data/8908300554#Place/copenhagen> .
+<http://www.worldcat.org/oclc/300306137> <http://schema.org/publication> <http://www.worldcat.org/title/-/oclc/300306137#PublicationEvent/copenhagen_council_for_nordic_publications_in_botany_1981> .
+<http://www.worldcat.org/oclc/300306137> <http://schema.org/contributor> <http://viaf.org/viaf/140991175> .
+<http://www.worldcat.org/oclc/300306137> <http://schema.org/about> <http://id.worldcat.org/fast/836869> .
+<http://www.worldcat.org/oclc/300306137> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://www.worldcat.org/oclc/300306137> <http://schema.org/inLanguage> "en" .
+<http://www.worldcat.org/oclc/300306137> <http://schema.org/genre> "Ressources Internet"@fr .
+<http://www.worldcat.org/oclc/300306137> <http://schema.org/genre> "Périodique électronique (Descripteur de forme)" .
+<http://www.worldcat.org/oclc/300306137> <http://www.w3.org/2007/05/powder-s#describedby> <http://www.worldcat.org/title/-/oclc/300306137> .
+<http://experiment.worldcat.org/entity/work/data/8908300554#Place/copenhagen> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://experiment.worldcat.org/entity/work/data/8908300554#Place/copenhagen> <http://schema.org/name> "Copenhagen" .
+<http://id.loc.gov/authorities/subjects/sh85102839> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://id.loc.gov/authorities/subjects/sh85102839> <http://schema.org/name> "Plants" .
+<http://experiment.worldcat.org/entity/work/data/8908300554#Topic/botany> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/8908300554#Topic/botany> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://id.loc.gov/authorities/subjects/sh2007102112> .
+<http://experiment.worldcat.org/entity/work/data/8908300554#Topic/botany> <http://schema.org/name> "Botany" .
+<http://experiment.worldcat.org/entity/work/data/8908300554#Topic/plante> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/8908300554#Topic/plante> <http://schema.org/name> "Plante" .
+<http://dewey.info/class/581.05/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://www.worldcat.org/title/-/oclc/300306137#PublicationEvent/copenhagen_council_for_nordic_publications_in_botany_1981> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PublicationEvent> .
+<http://www.worldcat.org/title/-/oclc/300306137#PublicationEvent/copenhagen_council_for_nordic_publications_in_botany_1981> <http://schema.org/location> <http://experiment.worldcat.org/entity/work/data/8908300554#Place/copenhagen> .
+<http://www.worldcat.org/title/-/oclc/300306137#PublicationEvent/copenhagen_council_for_nordic_publications_in_botany_1981> <http://schema.org/organizer> <http://experiment.worldcat.org/entity/work/data/8908300554#Agent/council_for_nordic_publications_in_botany> .
+<http://www.worldcat.org/title/-/oclc/300306137#PublicationEvent/copenhagen_council_for_nordic_publications_in_botany_1981> <http://schema.org/startDate> "1981-" .
+<http://viaf.org/viaf/140991175> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+<http://viaf.org/viaf/140991175> <http://schema.org/name> "Wiley InterScience (Online service)" .

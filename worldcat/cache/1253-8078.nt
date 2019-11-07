@@ -1,0 +1,72 @@
+<http://experiment.worldcat.org/entity/work/data/31044082#Topic/plantes> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/31044082#Topic/plantes> <http://schema.org/name> "Plantes"@fr .
+<http://www.worldcat.org/title/-/oclc/609716103#PublicationEvent/paris_societe_botanique_de_france> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PublicationEvent> .
+<http://www.worldcat.org/title/-/oclc/609716103#PublicationEvent/paris_societe_botanique_de_france> <http://schema.org/location> <http://experiment.worldcat.org/entity/work/data/31044082#Place/paris> .
+<http://www.worldcat.org/title/-/oclc/609716103#PublicationEvent/paris_societe_botanique_de_france> <http://schema.org/organizer> <http://experiment.worldcat.org/entity/work/data/31044082#Agent/societe_botanique_de_france> .
+<http://www.worldcat.org/title/-/oclc/609716103#PublicationEvent/mar_2012_abingdon_uk_taylor_&_francis> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PublicationEvent> .
+<http://www.worldcat.org/title/-/oclc/609716103#PublicationEvent/mar_2012_abingdon_uk_taylor_&_francis> <http://schema.org/location> <http://experiment.worldcat.org/entity/work/data/31044082#Place/abingdon_uk> .
+<http://www.worldcat.org/title/-/oclc/609716103#PublicationEvent/mar_2012_abingdon_uk_taylor_&_francis> <http://schema.org/organizer> <http://experiment.worldcat.org/entity/work/data/31044082#Agent/taylor_&_francis> .
+<http://www.worldcat.org/title/-/oclc/609716103#PublicationEvent/mar_2012_abingdon_uk_taylor_&_francis> <http://schema.org/startDate> "Mar.2012" .
+<http://dewey.info/class/581/a14/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/31044082#Place/abingdon_uk> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://experiment.worldcat.org/entity/work/data/31044082#Place/abingdon_uk> <http://schema.org/name> "Abingdon, UK" .
+<http://www.worldcat.org/title/-/oclc/609716103> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#ContentTypeGenericResource> .
+<http://www.worldcat.org/title/-/oclc/609716103> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#InformationResource> .
+<http://www.worldcat.org/title/-/oclc/609716103> <http://schema.org/about> <http://www.worldcat.org/oclc/609716103> .
+<http://www.worldcat.org/title/-/oclc/609716103> <http://schema.org/dateModified> "2019-02-09" .
+<http://www.worldcat.org/title/-/oclc/609716103> <http://rdfs.org/ns/void#inDataset> <http://purl.oclc.org/dataset/WorldCat> .
+<http://id.loc.gov/vocabulary/countries/enk> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://id.loc.gov/vocabulary/countries/enk> <http://purl.org/dc/terms/identifier> "enk" .
+<http://experiment.worldcat.org/entity/work/data/31044082#Topic/plantkunde> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/31044082#Topic/plantkunde> <http://schema.org/name> "Plantkunde"@en .
+<http://experiment.worldcat.org/entity/work/data/31044082#Topic/botany> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/31044082#Topic/botany> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://id.loc.gov/authorities/subjects/sh2007102112> .
+<http://experiment.worldcat.org/entity/work/data/31044082#Topic/botany> <http://schema.org/name> "Botany"@en .
+<http://id.worldcat.org/fast/836869> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://id.worldcat.org/fast/836869> <http://schema.org/name> "Botany"@en .
+<http://experiment.worldcat.org/entity/work/data/31044082#Place/paris> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://experiment.worldcat.org/entity/work/data/31044082#Place/paris> <http://schema.org/name> "Paris" .
+<http://www.worldcat.org/oclc/28347469> <http://schema.org/isSimilarTo> <http://www.worldcat.org/oclc/609716103> .
+<http://www.worldcat.org/oclc/28347469> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://www.worldcat.org/oclc/28347469> <http://www.w3.org/2000/01/rdf-schema#label> "Acta botanica Gallica" .
+<http://www.worldcat.org/oclc/28347469> <http://schema.org/description> "Print version:" .
+<http://viaf.org/viaf/122818027> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+<http://viaf.org/viaf/122818027> <http://schema.org/name> "Société botanique de France." .
+<http://www.worldcat.org/oclc/609716103> <http://schema.org/inLanguage> "en" .
+<http://www.worldcat.org/oclc/609716103> <http://schema.org/productID> "609716103" .
+<http://www.worldcat.org/oclc/609716103> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/31044082#Topic/plantkunde> .
+<http://www.worldcat.org/oclc/609716103> <http://schema.org/workExample> <http://worldcat.org/issn/2166-3408> .
+<http://www.worldcat.org/oclc/609716103> <http://schema.org/url> <http://www.tandfonline.com/loi/tabg20> .
+<http://www.worldcat.org/oclc/609716103> <http://schema.org/about> <http://id.worldcat.org/fast/836869> .
+<http://www.worldcat.org/oclc/609716103> <http://schema.org/publisher> <http://experiment.worldcat.org/entity/work/data/31044082#Agent/societe_botanique_de_france> .
+<http://www.worldcat.org/oclc/609716103> <http://schema.org/about> <http://dewey.info/class/581/a14/> .
+<http://www.worldcat.org/oclc/609716103> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://www.worldcat.org/oclc/609716103> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/31044082#Topic/botany> .
+<http://www.worldcat.org/oclc/609716103> <http://purl.org/library/placeOfPublication> <http://experiment.worldcat.org/entity/work/data/31044082#Place/paris> .
+<http://www.worldcat.org/oclc/609716103> <http://schema.org/genre> "Periodicals"@en .
+<http://www.worldcat.org/oclc/609716103> <http://schema.org/alternateName> "Bulletin de la Société botanique de France" .
+<http://www.worldcat.org/oclc/609716103> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/31044082#Topic/plantes> .
+<http://www.worldcat.org/oclc/609716103> <http://purl.org/library/placeOfPublication> <http://experiment.worldcat.org/entity/work/data/31044082#Place/abingdon_uk> .
+<http://www.worldcat.org/oclc/609716103> <http://www.w3.org/2007/05/powder-s#describedby> <http://www.worldcat.org/title/-/oclc/609716103> .
+<http://www.worldcat.org/oclc/609716103> <http://schema.org/datePublished> "1993/2015" .
+<http://www.worldcat.org/oclc/609716103> <http://schema.org/publication> <http://www.worldcat.org/title/-/oclc/609716103#PublicationEvent/mar_2012_abingdon_uk_taylor_&_francis> .
+<http://www.worldcat.org/oclc/609716103> <http://schema.org/isSimilarTo> <http://www.worldcat.org/oclc/28347469> .
+<http://www.worldcat.org/oclc/609716103> <http://schema.org/name> "Acta botanica Gallica : bulletin de la Société botanique de France."@en .
+<http://www.worldcat.org/oclc/609716103> <http://schema.org/publication> <http://www.worldcat.org/title/-/oclc/609716103#PublicationEvent/paris_societe_botanique_de_france> .
+<http://www.worldcat.org/oclc/609716103> <http://purl.org/library/oclcnum> "609716103" .
+<http://www.worldcat.org/oclc/609716103> <http://schema.org/publisher> <http://experiment.worldcat.org/entity/work/data/31044082#Agent/taylor_&_francis> .
+<http://www.worldcat.org/oclc/609716103> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/MediaObject> .
+<http://www.worldcat.org/oclc/609716103> <http://schema.org/exampleOfWork> <http://worldcat.org/entity/work/id/31044082> .
+<http://www.worldcat.org/oclc/609716103> <http://schema.org/url> <http://www.biusante.parisdescartes.fr/sbf/pub_abg.htm> .
+<http://www.worldcat.org/oclc/609716103> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://www.worldcat.org/oclc/609716103> <http://purl.org/library/placeOfPublication> <http://id.loc.gov/vocabulary/countries/enk> .
+<http://www.worldcat.org/oclc/609716103> <http://schema.org/contributor> <http://viaf.org/viaf/122818027> .
+<http://experiment.worldcat.org/entity/work/data/31044082#Agent/taylor_&_francis> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bibliograph.net/Agent> .
+<http://experiment.worldcat.org/entity/work/data/31044082#Agent/taylor_&_francis> <http://schema.org/name> "Taylor & Francis" .
+<http://worldcat.org/entity/work/id/31044082> <http://umbel.org/umbel#isLike> <http://worldcat.org/issn/2166-3408> .
+<http://worldcat.org/issn/2166-3408> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://worldcat.org/issn/2166-3408> <http://schema.org/name> "Acta botanica Gallica : bulletin de la Société botanique de France."@en .
+<http://worldcat.org/issn/2166-3408> <http://schema.org/issn> "2166-3408" .
+<http://worldcat.org/issn/2166-3408> <http://umbel.org/umbel#isLike> <http://worldcat.org/entity/work/id/31044082> .
+<http://experiment.worldcat.org/entity/work/data/31044082#Agent/societe_botanique_de_france> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bibliograph.net/Agent> .
+<http://experiment.worldcat.org/entity/work/data/31044082#Agent/societe_botanique_de_france> <http://schema.org/name> "Société botanique de France" .

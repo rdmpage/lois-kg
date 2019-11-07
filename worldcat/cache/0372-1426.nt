@@ -1,0 +1,51 @@
+<http://worldcat.org/issn/0372-1426> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://worldcat.org/issn/0372-1426> <http://schema.org/name> "Transactions of the Royal Society of South Australia : incorporating the Records of the South Australian Museum." .
+<http://worldcat.org/issn/0372-1426> <http://schema.org/issn> "0372-1426" .
+<http://worldcat.org/issn/0372-1426> <http://umbel.org/umbel#isLike> <http://worldcat.org/entity/work/id/3856166699> .
+<http://experiment.worldcat.org/entity/work/data/3856166699#Agent/royal_society_of_south_australia> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bibliograph.net/Agent> .
+<http://experiment.worldcat.org/entity/work/data/3856166699#Agent/royal_society_of_south_australia> <http://schema.org/name> "Royal Society of South Australia." .
+<http://experiment.worldcat.org/entity/work/data/3856166699#Place/adelaide> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://experiment.worldcat.org/entity/work/data/3856166699#Place/adelaide> <http://schema.org/name> "Adelaide" .
+<http://experiment.worldcat.org/entity/work/data/3856166699#Thing/naturwissenschaften_und_mathematik> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> .
+<http://experiment.worldcat.org/entity/work/data/3856166699#Thing/naturwissenschaften_und_mathematik> <http://schema.org/name> "NATURWISSENSCHAFTEN UND MATHEMATIK" .
+<http://www.worldcat.org/oclc/888506208> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/3856166699#Topic/naturwissenschaften> .
+<http://www.worldcat.org/oclc/888506208> <http://schema.org/publication> <http://www.worldcat.org/title/-/oclc/888506208#PublicationEvent/adelaide_royal_society_of_south_australia> .
+<http://www.worldcat.org/oclc/888506208> <http://schema.org/datePublished> "1938/9999" .
+<http://www.worldcat.org/oclc/888506208> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/3856166699#Thing/naturwissenschaften_und_mathematik> .
+<http://www.worldcat.org/oclc/888506208> <http://schema.org/url> <http://sfx.metabib.ch/sfx_locater?sid=ALEPH:EBI01&genre=journal&issn=0372-1426> .
+<http://www.worldcat.org/oclc/888506208> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/3856166699#Thing/science_and_mathematics> .
+<http://www.worldcat.org/oclc/888506208> <http://schema.org/inLanguage> "en" .
+<http://www.worldcat.org/oclc/888506208> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/3856166699#Thing/sciences_et_mathematiques> .
+<http://www.worldcat.org/oclc/888506208> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://www.worldcat.org/oclc/888506208> <http://schema.org/workExample> <http://worldcat.org/issn/0372-1426> .
+<http://www.worldcat.org/oclc/888506208> <http://schema.org/exampleOfWork> <http://worldcat.org/entity/work/id/3856166699> .
+<http://www.worldcat.org/oclc/888506208> <http://purl.org/library/placeOfPublication> <http://experiment.worldcat.org/entity/work/data/3856166699#Place/adelaide> .
+<http://www.worldcat.org/oclc/888506208> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://www.worldcat.org/oclc/888506208> <http://schema.org/name> "Transactions of the Royal Society of South Australia : incorporating the Records of the South Australian Museum." .
+<http://www.worldcat.org/oclc/888506208> <http://schema.org/contributor> <http://experiment.worldcat.org/entity/work/data/3856166699#Organization/royal_society_of_south_australia> .
+<http://www.worldcat.org/oclc/888506208> <http://www.w3.org/2007/05/powder-s#describedby> <http://www.worldcat.org/title/-/oclc/888506208> .
+<http://www.worldcat.org/oclc/888506208> <http://purl.org/library/oclcnum> "888506208" .
+<http://www.worldcat.org/oclc/888506208> <http://schema.org/productID> "888506208" .
+<http://www.worldcat.org/oclc/888506208> <http://schema.org/publisher> <http://experiment.worldcat.org/entity/work/data/3856166699#Agent/royal_society_of_south_australia> .
+<http://www.worldcat.org/oclc/888506208> <http://schema.org/genre> "Zeitschrift" .
+<http://www.worldcat.org/oclc/888506208> <http://purl.org/library/placeOfPublication> <http://id.loc.gov/vocabulary/countries/xra> .
+<http://experiment.worldcat.org/entity/work/data/3856166699#Organization/royal_society_of_south_australia> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+<http://experiment.worldcat.org/entity/work/data/3856166699#Organization/royal_society_of_south_australia> <http://schema.org/name> "Royal Society of South Australia." .
+<http://www.worldcat.org/title/-/oclc/888506208> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#ContentTypeGenericResource> .
+<http://www.worldcat.org/title/-/oclc/888506208> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#InformationResource> .
+<http://www.worldcat.org/title/-/oclc/888506208> <http://schema.org/about> <http://www.worldcat.org/oclc/888506208> .
+<http://www.worldcat.org/title/-/oclc/888506208> <http://schema.org/dateModified> "2018-11-09" .
+<http://www.worldcat.org/title/-/oclc/888506208> <http://rdfs.org/ns/void#inDataset> <http://purl.oclc.org/dataset/WorldCat> .
+<http://experiment.worldcat.org/entity/work/data/3856166699#Thing/sciences_et_mathematiques> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> .
+<http://experiment.worldcat.org/entity/work/data/3856166699#Thing/sciences_et_mathematiques> <http://schema.org/name> "SCIENCES ET MATHEMATIQUES" .
+<http://experiment.worldcat.org/entity/work/data/3856166699#Topic/naturwissenschaften> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/3856166699#Topic/naturwissenschaften> <http://schema.org/name> "Naturwissenschaften" .
+<http://worldcat.org/entity/work/id/3856166699> <http://umbel.org/umbel#isLike> <http://worldcat.org/issn/0372-1426> .
+<http://experiment.worldcat.org/entity/work/data/3856166699#Thing/science_and_mathematics> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> .
+<http://experiment.worldcat.org/entity/work/data/3856166699#Thing/science_and_mathematics> <http://schema.org/name> "SCIENCE AND MATHEMATICS" .
+<http://www.worldcat.org/title/-/oclc/888506208#PublicationEvent/adelaide_royal_society_of_south_australia> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PublicationEvent> .
+<http://www.worldcat.org/title/-/oclc/888506208#PublicationEvent/adelaide_royal_society_of_south_australia> <http://schema.org/location> <http://experiment.worldcat.org/entity/work/data/3856166699#Place/adelaide> .
+<http://www.worldcat.org/title/-/oclc/888506208#PublicationEvent/adelaide_royal_society_of_south_australia> <http://schema.org/organizer> <http://experiment.worldcat.org/entity/work/data/3856166699#Agent/royal_society_of_south_australia> .
+<http://id.loc.gov/vocabulary/countries/xra> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://id.loc.gov/vocabulary/countries/xra> <http://purl.org/dc/terms/identifier> "xra" .
+<http://sfx.metabib.ch/sfx_locater?sid=ALEPH:EBI01&genre=journal&issn=0372-1426> <http://www.w3.org/2000/01/rdf-schema#comment> "Online via SFX" .

@@ -1,0 +1,50 @@
+<http://experiment.worldcat.org/entity/work/data/2909280147#Thing/zeitschriften> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> .
+<http://experiment.worldcat.org/entity/work/data/2909280147#Thing/zeitschriften> <http://schema.org/name> "Zeitschriften" .
+<http://viaf.org/viaf/133377113> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+<http://viaf.org/viaf/133377113> <http://schema.org/name> "Lunds universitet. Institutionen för systematisk botanik." .
+<http://experiment.worldcat.org/entity/work/data/2909280147#Agent/gleerup> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bibliograph.net/Agent> .
+<http://experiment.worldcat.org/entity/work/data/2909280147#Agent/gleerup> <http://schema.org/name> "Gleerup" .
+<http://worldcat.org/issn/0078-5237> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://worldcat.org/issn/0078-5237> <http://schema.org/name> "Opera botanica : monograph series of Nordic journal of botany : till 59,1980: an international monograph series(, issued as a supplement to Botaniska notiser)" .
+<http://worldcat.org/issn/0078-5237> <http://schema.org/issn> "0078-5237" .
+<http://worldcat.org/issn/0078-5237> <http://umbel.org/umbel#isLike> <http://worldcat.org/entity/work/id/2909280147> .
+<http://viaf.org/viaf/144869108> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+<http://viaf.org/viaf/144869108> <http://schema.org/name> "Lunds botaniska förening." .
+<http://viaf.org/viaf/261780065> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+<http://viaf.org/viaf/261780065> <http://schema.org/name> "Council for Nordic Publications in Botany." .
+<http://www.worldcat.org/title/-/oclc/729348923> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#ContentTypeGenericResource> .
+<http://www.worldcat.org/title/-/oclc/729348923> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#InformationResource> .
+<http://www.worldcat.org/title/-/oclc/729348923> <http://schema.org/about> <http://www.worldcat.org/oclc/729348923> .
+<http://www.worldcat.org/title/-/oclc/729348923> <http://schema.org/dateModified> "2018-11-10" .
+<http://www.worldcat.org/title/-/oclc/729348923> <http://rdfs.org/ns/void#inDataset> <http://purl.oclc.org/dataset/WorldCat> .
+<http://id.loc.gov/vocabulary/countries/sw> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://id.loc.gov/vocabulary/countries/sw> <http://purl.org/dc/terms/identifier> "sw" .
+<http://www.worldcat.org/title/-/oclc/729348923#PublicationEvent/lund_gleerup_1953> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PublicationEvent> .
+<http://www.worldcat.org/title/-/oclc/729348923#PublicationEvent/lund_gleerup_1953> <http://schema.org/location> <http://experiment.worldcat.org/entity/work/data/2909280147#Place/lund> .
+<http://www.worldcat.org/title/-/oclc/729348923#PublicationEvent/lund_gleerup_1953> <http://schema.org/organizer> <http://experiment.worldcat.org/entity/work/data/2909280147#Agent/gleerup> .
+<http://www.worldcat.org/title/-/oclc/729348923#PublicationEvent/lund_gleerup_1953> <http://schema.org/startDate> "1953 -" .
+<http://www.worldcat.org/oclc/729348923> <http://purl.org/library/oclcnum> "729348923" .
+<http://www.worldcat.org/oclc/729348923> <http://schema.org/inLanguage> "en" .
+<http://www.worldcat.org/oclc/729348923> <http://schema.org/alternateName> "OPERA BOTANICA(BOTANISKa NOTISER)" .
+<http://www.worldcat.org/oclc/729348923> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://www.worldcat.org/oclc/729348923> <http://schema.org/contributor> <http://viaf.org/viaf/144869108> .
+<http://www.worldcat.org/oclc/729348923> <http://schema.org/datePublished> "1953 /" .
+<http://www.worldcat.org/oclc/729348923> <http://schema.org/exampleOfWork> <http://worldcat.org/entity/work/id/2909280147> .
+<http://www.worldcat.org/oclc/729348923> <http://purl.org/library/placeOfPublication> <http://experiment.worldcat.org/entity/work/data/2909280147#Place/lund> .
+<http://www.worldcat.org/oclc/729348923> <http://schema.org/contributor> <http://viaf.org/viaf/133377113> .
+<http://www.worldcat.org/oclc/729348923> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://www.worldcat.org/oclc/729348923> <http://schema.org/productID> "729348923" .
+<http://www.worldcat.org/oclc/729348923> <http://schema.org/alternateName> "BOTANISKa NOTISER; SUPPLEMENTA" .
+<http://www.worldcat.org/oclc/729348923> <http://schema.org/workExample> <http://worldcat.org/issn/0078-5237> .
+<http://www.worldcat.org/oclc/729348923> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/2909280147#Thing/zeitschriften> .
+<http://www.worldcat.org/oclc/729348923> <http://schema.org/contributor> <http://viaf.org/viaf/261780065> .
+<http://www.worldcat.org/oclc/729348923> <http://www.w3.org/2007/05/powder-s#describedby> <http://www.worldcat.org/title/-/oclc/729348923> .
+<http://www.worldcat.org/oclc/729348923> <http://schema.org/datePublished> "1953/9999" .
+<http://www.worldcat.org/oclc/729348923> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bibliograph.net/PublicationSeries> .
+<http://www.worldcat.org/oclc/729348923> <http://schema.org/name> "Opera botanica : monograph series of Nordic journal of botany : till 59,1980: an international monograph series(, issued as a supplement to Botaniska notiser)" .
+<http://www.worldcat.org/oclc/729348923> <http://purl.org/library/placeOfPublication> <http://id.loc.gov/vocabulary/countries/sw> .
+<http://www.worldcat.org/oclc/729348923> <http://schema.org/publication> <http://www.worldcat.org/title/-/oclc/729348923#PublicationEvent/lund_gleerup_1953> .
+<http://www.worldcat.org/oclc/729348923> <http://schema.org/publisher> <http://experiment.worldcat.org/entity/work/data/2909280147#Agent/gleerup> .
+<http://experiment.worldcat.org/entity/work/data/2909280147#Place/lund> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://experiment.worldcat.org/entity/work/data/2909280147#Place/lund> <http://schema.org/name> "Lund" .
+<http://worldcat.org/entity/work/id/2909280147> <http://umbel.org/umbel#isLike> <http://worldcat.org/issn/0078-5237> .

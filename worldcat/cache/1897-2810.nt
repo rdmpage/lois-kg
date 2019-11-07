@@ -1,0 +1,37 @@
+<http://experiment.worldcat.org/entity/work/data/919240150#Agent/versita_open> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bibliograph.net/Agent> .
+<http://experiment.worldcat.org/entity/work/data/919240150#Agent/versita_open> <http://schema.org/name> "Versita Open" .
+<http://worldcat.org/entity/work/id/919240150> <http://umbel.org/umbel#isLike> <http://worldcat.org/issn/1897-2810> .
+<http://worldcat.org/issn/1897-2810> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://worldcat.org/issn/1897-2810> <http://schema.org/name> "Biodiversity : Research and Conservation." .
+<http://worldcat.org/issn/1897-2810> <http://schema.org/issn> "1897-2810" .
+<http://worldcat.org/issn/1897-2810> <http://umbel.org/umbel#isLike> <http://worldcat.org/entity/work/id/919240150> .
+<http://id.loc.gov/vocabulary/countries/pl> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://id.loc.gov/vocabulary/countries/pl> <http://purl.org/dc/terms/identifier> "pl" .
+<http://www.worldcat.org/oclc/766099081> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://www.worldcat.org/oclc/766099081> <http://purl.org/library/oclcnum> "766099081" .
+<http://www.worldcat.org/oclc/766099081> <http://www.w3.org/2007/05/powder-s#describedby> <http://www.worldcat.org/title/-/oclc/766099081> .
+<http://www.worldcat.org/oclc/766099081> <http://schema.org/exampleOfWork> <http://worldcat.org/entity/work/id/919240150> .
+<http://www.worldcat.org/oclc/766099081> <http://purl.org/library/placeOfPublication> <http://id.loc.gov/vocabulary/countries/pl> .
+<http://www.worldcat.org/oclc/766099081> <http://schema.org/publisher> <http://experiment.worldcat.org/entity/work/data/919240150#Agent/versita_open> .
+<http://www.worldcat.org/oclc/766099081> <http://schema.org/url> <http://www.versitaopen.com/brc> .
+<http://www.worldcat.org/oclc/766099081> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://www.worldcat.org/oclc/766099081> <http://schema.org/publication> <http://www.worldcat.org/title/-/oclc/766099081#PublicationEvent/s_l_versita_open_2011> .
+<http://www.worldcat.org/oclc/766099081> <http://schema.org/workExample> <http://worldcat.org/issn/1897-2810> .
+<http://www.worldcat.org/oclc/766099081> <http://schema.org/inLanguage> "en" .
+<http://www.worldcat.org/oclc/766099081> <http://purl.org/library/placeOfPublication> <http://experiment.worldcat.org/entity/work/data/919240150#Place/s_l> .
+<http://www.worldcat.org/oclc/766099081> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/MediaObject> .
+<http://www.worldcat.org/oclc/766099081> <http://schema.org/datePublished> "2011/" .
+<http://www.worldcat.org/oclc/766099081> <http://schema.org/name> "Biodiversity : Research and Conservation." .
+<http://www.worldcat.org/oclc/766099081> <http://schema.org/datePublished> "2011/9999" .
+<http://www.worldcat.org/oclc/766099081> <http://schema.org/productID> "766099081" .
+<http://www.worldcat.org/title/-/oclc/766099081#PublicationEvent/s_l_versita_open_2011> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PublicationEvent> .
+<http://www.worldcat.org/title/-/oclc/766099081#PublicationEvent/s_l_versita_open_2011> <http://schema.org/location> <http://experiment.worldcat.org/entity/work/data/919240150#Place/s_l> .
+<http://www.worldcat.org/title/-/oclc/766099081#PublicationEvent/s_l_versita_open_2011> <http://schema.org/organizer> <http://experiment.worldcat.org/entity/work/data/919240150#Agent/versita_open> .
+<http://www.worldcat.org/title/-/oclc/766099081#PublicationEvent/s_l_versita_open_2011> <http://schema.org/startDate> "2011-" .
+<http://www.worldcat.org/title/-/oclc/766099081> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#ContentTypeGenericResource> .
+<http://www.worldcat.org/title/-/oclc/766099081> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#InformationResource> .
+<http://www.worldcat.org/title/-/oclc/766099081> <http://schema.org/about> <http://www.worldcat.org/oclc/766099081> .
+<http://www.worldcat.org/title/-/oclc/766099081> <http://schema.org/dateModified> "2019-02-09" .
+<http://www.worldcat.org/title/-/oclc/766099081> <http://rdfs.org/ns/void#inDataset> <http://purl.oclc.org/dataset/WorldCat> .
+<http://experiment.worldcat.org/entity/work/data/919240150#Place/s_l> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://experiment.worldcat.org/entity/work/data/919240150#Place/s_l> <http://schema.org/name> "S.l." .

@@ -1,0 +1,56 @@
+<http://www.worldcat.org/oclc/240386147> <http://schema.org/about> <http://dewey.info/class/595.78/a14/> .
+<http://www.worldcat.org/oclc/240386147> <http://schema.org/isSimilarTo> <http://www.worldcat.org/oclc/240433613> .
+<http://www.worldcat.org/oclc/240386147> <http://schema.org/contributor> <http://viaf.org/viaf/159835537> .
+<http://www.worldcat.org/oclc/240386147> <http://purl.org/library/oclcnum> "240386147" .
+<http://www.worldcat.org/oclc/240386147> <http://purl.org/library/placeOfPublication> <http://experiment.worldcat.org/entity/work/data/447014560#Place/gainesville_fl> .
+<http://www.worldcat.org/oclc/240386147> <http://schema.org/productID> "240386147" .
+<http://www.worldcat.org/oclc/240386147> <http://schema.org/about> <http://viaf.org/viaf/159835537> .
+<http://www.worldcat.org/oclc/240386147> <http://schema.org/datePublished> "2007/9999" .
+<http://www.worldcat.org/oclc/240386147> <http://schema.org/exampleOfWork> <http://worldcat.org/entity/work/id/447014560> .
+<http://www.worldcat.org/oclc/240386147> <http://schema.org/about> <http://id.worldcat.org/fast/996288> .
+<http://www.worldcat.org/oclc/240386147> <http://schema.org/publication> <http://www.worldcat.org/title/-/oclc/240386147#PublicationEvent/gainesville_fl_florida_museum_of_natural_history> .
+<http://www.worldcat.org/oclc/240386147> <http://schema.org/about> <http://id.loc.gov/authorities/subjects/sh85076067> .
+<http://www.worldcat.org/oclc/240386147> <http://schema.org/url> <http://www.flmnh.ufl.edu/mcguire/> .
+<http://www.worldcat.org/oclc/240386147> <http://schema.org/name> "McGuire Center news"@en .
+<http://www.worldcat.org/oclc/240386147> <http://schema.org/workExample> <http://worldcat.org/issn/1938-3029> .
+<http://www.worldcat.org/oclc/240386147> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://www.worldcat.org/oclc/240386147> <http://schema.org/contributor> <http://viaf.org/viaf/137870618> .
+<http://www.worldcat.org/oclc/240386147> <http://www.w3.org/2007/05/powder-s#describedby> <http://www.worldcat.org/title/-/oclc/240386147> .
+<http://www.worldcat.org/oclc/240386147> <http://schema.org/publisher> <http://experiment.worldcat.org/entity/work/data/447014560#Agent/florida_museum_of_natural_history> .
+<http://www.worldcat.org/oclc/240386147> <http://purl.org/library/placeOfPublication> <http://id.loc.gov/vocabulary/countries/flu> .
+<http://www.worldcat.org/oclc/240386147> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://www.worldcat.org/oclc/240386147> <http://schema.org/genre> "Periodicals"@en .
+<http://www.worldcat.org/oclc/240386147> <http://schema.org/inLanguage> "en" .
+<http://www.worldcat.org/title/-/oclc/240386147> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#ContentTypeGenericResource> .
+<http://www.worldcat.org/title/-/oclc/240386147> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#InformationResource> .
+<http://www.worldcat.org/title/-/oclc/240386147> <http://schema.org/about> <http://www.worldcat.org/oclc/240386147> .
+<http://www.worldcat.org/title/-/oclc/240386147> <http://schema.org/dateModified> "2018-11-11" .
+<http://www.worldcat.org/title/-/oclc/240386147> <http://rdfs.org/ns/void#inDataset> <http://purl.oclc.org/dataset/WorldCat> .
+<http://id.loc.gov/authorities/subjects/sh85076067> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://id.loc.gov/authorities/subjects/sh85076067> <http://schema.org/name> "Lepidoptera"@en .
+<http://worldcat.org/issn/1938-3029> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://worldcat.org/issn/1938-3029> <http://schema.org/name> "McGuire Center news"@en .
+<http://worldcat.org/issn/1938-3029> <http://schema.org/issn> "1938-3029" .
+<http://worldcat.org/issn/1938-3029> <http://umbel.org/umbel#isLike> <http://worldcat.org/entity/work/id/447014560> .
+<http://experiment.worldcat.org/entity/work/data/447014560#Place/gainesville_fl> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://experiment.worldcat.org/entity/work/data/447014560#Place/gainesville_fl> <http://schema.org/name> "Gainesville, FL" .
+<http://experiment.worldcat.org/entity/work/data/447014560#Agent/florida_museum_of_natural_history> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bibliograph.net/Agent> .
+<http://experiment.worldcat.org/entity/work/data/447014560#Agent/florida_museum_of_natural_history> <http://schema.org/name> "Florida Museum of Natural History" .
+<http://www.worldcat.org/title/-/oclc/240386147#PublicationEvent/gainesville_fl_florida_museum_of_natural_history> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PublicationEvent> .
+<http://www.worldcat.org/title/-/oclc/240386147#PublicationEvent/gainesville_fl_florida_museum_of_natural_history> <http://schema.org/location> <http://experiment.worldcat.org/entity/work/data/447014560#Place/gainesville_fl> .
+<http://www.worldcat.org/title/-/oclc/240386147#PublicationEvent/gainesville_fl_florida_museum_of_natural_history> <http://schema.org/organizer> <http://experiment.worldcat.org/entity/work/data/447014560#Agent/florida_museum_of_natural_history> .
+<http://www.worldcat.org/oclc/240433613> <http://schema.org/isSimilarTo> <http://www.worldcat.org/oclc/240386147> .
+<http://www.worldcat.org/oclc/240433613> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://www.worldcat.org/oclc/240433613> <http://www.w3.org/2000/01/rdf-schema#label> "McGuire Center news" .
+<http://www.worldcat.org/oclc/240433613> <http://schema.org/description> "Online version:" .
+<http://viaf.org/viaf/137870618> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+<http://viaf.org/viaf/137870618> <http://schema.org/name> "Florida Museum of Natural History." .
+<http://viaf.org/viaf/159835537> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+<http://viaf.org/viaf/159835537> <http://schema.org/name> "McGuire Center for Lepidoptera and Biodiversity" .
+<http://viaf.org/viaf/159835537> <http://schema.org/name> "McGuire Center for Lepidoptera and Biodiversity." .
+<http://id.worldcat.org/fast/996288> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://id.worldcat.org/fast/996288> <http://schema.org/name> "Lepidoptera"@en .
+<http://dewey.info/class/595.78/a14/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://id.loc.gov/vocabulary/countries/flu> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://id.loc.gov/vocabulary/countries/flu> <http://purl.org/dc/terms/identifier> "flu" .
+<http://worldcat.org/entity/work/id/447014560> <http://umbel.org/umbel#isLike> <http://worldcat.org/issn/1938-3029> .

@@ -1,0 +1,66 @@
+<http://experiment.worldcat.org/entity/work/data/9587579511#Organization/international_association_of_microbiological_societies_international_committee_of_microbiological_nomenclature> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+<http://experiment.worldcat.org/entity/work/data/9587579511#Organization/international_association_of_microbiological_societies_international_committee_of_microbiological_nomenclature> <http://schema.org/name> "International Association of Microbiological Societies. International Committee of Microbiological Nomenclature." .
+<http://experiment.worldcat.org/entity/work/data/9587579511#Topic/bacteria_classification> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/9587579511#Topic/bacteria_classification> <http://schema.org/name> "Bacteria--Classification"@en .
+<http://worldcat.org/entity/work/id/9587579511> <http://umbel.org/umbel#isLike> <http://worldcat.org/issn/0020-7713> .
+<http://experiment.worldcat.org/entity/work/data/9587579511#Organization/international_union_of_microbiological_societies_bacteria_and_applied_microbiology_division> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+<http://experiment.worldcat.org/entity/work/data/9587579511#Organization/international_union_of_microbiological_societies_bacteria_and_applied_microbiology_division> <http://schema.org/name> "International Union of Microbiological Societies. Bacteria and Applied Microbiology Division." .
+<http://experiment.worldcat.org/entity/work/data/9587579511#Organization/international_union_of_microbiological_societies_international_committee_on_systematic_bacteriology> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+<http://experiment.worldcat.org/entity/work/data/9587579511#Organization/international_union_of_microbiological_societies_international_committee_on_systematic_bacteriology> <http://schema.org/name> "International Union of Microbiological Societies. International Committee on Systematic Bacteriology." .
+<http://experiment.worldcat.org/entity/work/data/9587579511#Organization/international_association_of_microbiological_societies_international_committee_on_nomenclature_of_microbiology> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+<http://experiment.worldcat.org/entity/work/data/9587579511#Organization/international_association_of_microbiological_societies_international_committee_on_nomenclature_of_microbiology> <http://schema.org/name> "International Association of Microbiological Societies. International Committee on Nomenclature of Microbiology." .
+<http://www.worldcat.org/title/-/oclc/1124340977> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#ContentTypeGenericResource> .
+<http://www.worldcat.org/title/-/oclc/1124340977> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#InformationResource> .
+<http://www.worldcat.org/title/-/oclc/1124340977> <http://schema.org/about> <http://www.worldcat.org/oclc/1124340977> .
+<http://www.worldcat.org/title/-/oclc/1124340977> <http://schema.org/dateModified> "2019-10-23" .
+<http://www.worldcat.org/title/-/oclc/1124340977> <http://rdfs.org/ns/void#inDataset> <http://purl.oclc.org/dataset/WorldCat> .
+<http://experiment.worldcat.org/entity/work/data/9587579511#Organization/international_association_of_microbiological_societies_international_committee_on_systematic_bacteriology> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+<http://experiment.worldcat.org/entity/work/data/9587579511#Organization/international_association_of_microbiological_societies_international_committee_on_systematic_bacteriology> <http://schema.org/name> "International Association of Microbiological Societies. International Committee on Systematic Bacteriology." .
+<http://worldcat.org/issn/0020-7713> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://worldcat.org/issn/0020-7713> <http://schema.org/name> "International journal of systematic bacteriology."@en .
+<http://worldcat.org/issn/0020-7713> <http://schema.org/issn> "0020-7713" .
+<http://worldcat.org/issn/0020-7713> <http://umbel.org/umbel#isLike> <http://worldcat.org/entity/work/id/9587579511> .
+<http://www.worldcat.org/oclc/1124340977> <http://schema.org/contributor> <http://experiment.worldcat.org/entity/work/data/9587579511#Organization/international_union_of_microbiological_societies_international_committee_on_systematic_bacteriology> .
+<http://www.worldcat.org/oclc/1124340977> <http://www.w3.org/2007/05/powder-s#describedby> <http://www.worldcat.org/title/-/oclc/1124340977> .
+<http://www.worldcat.org/oclc/1124340977> <http://purl.org/library/placeOfPublication> <http://experiment.worldcat.org/entity/work/data/9587579511#Place/ames_iowa> .
+<http://www.worldcat.org/oclc/1124340977> <http://purl.org/library/oclcnum> "1124340977" .
+<http://www.worldcat.org/oclc/1124340977> <http://schema.org/about> <http://dewey.info/class/589/a12/> .
+<http://www.worldcat.org/oclc/1124340977> <http://schema.org/datePublished> "1951/1999" .
+<http://www.worldcat.org/oclc/1124340977> <http://schema.org/publisher> <http://experiment.worldcat.org/entity/work/data/9587579511#Agent/state_college_press> .
+<http://www.worldcat.org/oclc/1124340977> <http://schema.org/exampleOfWork> <http://worldcat.org/entity/work/id/9587579511> .
+<http://www.worldcat.org/oclc/1124340977> <http://purl.org/library/placeOfPublication> <http://id.loc.gov/vocabulary/countries/iau> .
+<http://www.worldcat.org/oclc/1124340977> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/9587579511#Topic/bacteria> .
+<http://www.worldcat.org/oclc/1124340977> <http://schema.org/contributor> <http://experiment.worldcat.org/entity/work/data/9587579511#Organization/international_association_of_microbiological_societies_international_committee_on_nomenclature_of_microbiology> .
+<http://www.worldcat.org/oclc/1124340977> <http://schema.org/contributor> <http://experiment.worldcat.org/entity/work/data/9587579511#Organization/international_association_of_microbiological_societies_international_committee_of_microbiological_nomenclature> .
+<http://www.worldcat.org/oclc/1124340977> <http://schema.org/contributor> <http://experiment.worldcat.org/entity/work/data/9587579511#Organization/international_union_of_microbiological_societies_bacteria_and_applied_microbiology_division> .
+<http://www.worldcat.org/oclc/1124340977> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/9587579511#Topic/bacteria_classification> .
+<http://www.worldcat.org/oclc/1124340977> <http://schema.org/productID> "1124340977" .
+<http://www.worldcat.org/oclc/1124340977> <http://schema.org/alternateName> "International bulletin of bacteriological nomenclature and taxonomy." .
+<http://www.worldcat.org/oclc/1124340977> <http://schema.org/contributor> <http://experiment.worldcat.org/entity/work/data/9587579511#Organization/international_association_of_microbiological_societies_international_committee_of_microbiological_nomenclature_judicial_commission> .
+<http://www.worldcat.org/oclc/1124340977> <http://schema.org/publication> <http://www.worldcat.org/title/-/oclc/1124340977#PublicationEvent/ames_iowa_state_college_press_1951_1999> .
+<http://www.worldcat.org/oclc/1124340977> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://www.worldcat.org/oclc/1124340977> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://www.worldcat.org/oclc/1124340977> <http://schema.org/workExample> <http://worldcat.org/issn/0020-7713> .
+<http://www.worldcat.org/oclc/1124340977> <http://schema.org/inLanguage> "en" .
+<http://www.worldcat.org/oclc/1124340977> <http://schema.org/contributor> <http://experiment.worldcat.org/entity/work/data/9587579511#Organization/international_association_of_microbiological_societies_international_committee_on_nomenclature_of_microbiology_judicial_commission> .
+<http://www.worldcat.org/oclc/1124340977> <http://schema.org/alternateName> "IJSB" .
+<http://www.worldcat.org/oclc/1124340977> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bibliograph.net/Microform> .
+<http://www.worldcat.org/oclc/1124340977> <http://schema.org/name> "International journal of systematic bacteriology."@en .
+<http://www.worldcat.org/oclc/1124340977> <http://schema.org/contributor> <http://experiment.worldcat.org/entity/work/data/9587579511#Organization/international_association_of_microbiological_societies_international_committee_on_systematic_bacteriology> .
+<http://id.loc.gov/vocabulary/countries/iau> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://id.loc.gov/vocabulary/countries/iau> <http://purl.org/dc/terms/identifier> "iau" .
+<http://experiment.worldcat.org/entity/work/data/9587579511#Topic/bacteria> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/9587579511#Topic/bacteria> <http://schema.org/name> "Bacteria"@en .
+<http://experiment.worldcat.org/entity/work/data/9587579511#Organization/international_association_of_microbiological_societies_international_committee_of_microbiological_nomenclature_judicial_commission> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+<http://experiment.worldcat.org/entity/work/data/9587579511#Organization/international_association_of_microbiological_societies_international_committee_of_microbiological_nomenclature_judicial_commission> <http://schema.org/name> "International Association of Microbiological Societies. International Committee of Microbiological Nomenclature. Judicial Commission." .
+<http://dewey.info/class/589/a12/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/9587579511#Agent/state_college_press> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bibliograph.net/Agent> .
+<http://experiment.worldcat.org/entity/work/data/9587579511#Agent/state_college_press> <http://schema.org/name> "State College Press" .
+<http://www.worldcat.org/title/-/oclc/1124340977#PublicationEvent/ames_iowa_state_college_press_1951_1999> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PublicationEvent> .
+<http://www.worldcat.org/title/-/oclc/1124340977#PublicationEvent/ames_iowa_state_college_press_1951_1999> <http://schema.org/location> <http://experiment.worldcat.org/entity/work/data/9587579511#Place/ames_iowa> .
+<http://www.worldcat.org/title/-/oclc/1124340977#PublicationEvent/ames_iowa_state_college_press_1951_1999> <http://schema.org/organizer> <http://experiment.worldcat.org/entity/work/data/9587579511#Agent/state_college_press> .
+<http://www.worldcat.org/title/-/oclc/1124340977#PublicationEvent/ames_iowa_state_college_press_1951_1999> <http://schema.org/startDate> "1951-1999" .
+<http://experiment.worldcat.org/entity/work/data/9587579511#Place/ames_iowa> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://experiment.worldcat.org/entity/work/data/9587579511#Place/ames_iowa> <http://schema.org/name> "Ames, Iowa" .
+<http://experiment.worldcat.org/entity/work/data/9587579511#Organization/international_association_of_microbiological_societies_international_committee_on_nomenclature_of_microbiology_judicial_commission> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+<http://experiment.worldcat.org/entity/work/data/9587579511#Organization/international_association_of_microbiological_societies_international_committee_on_nomenclature_of_microbiology_judicial_commission> <http://schema.org/name> "International Association of Microbiological Societies. International Committee on Nomenclature of Microbiology. Judicial Commission." .

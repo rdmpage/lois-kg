@@ -1,0 +1,67 @@
+<http://id.worldcat.org/fast/1065839> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://id.worldcat.org/fast/1065839> <http://schema.org/name> "Plants--Classification" .
+<http://experiment.worldcat.org/entity/work/data/3770507171#Organization/nihon_shokubutsu_bunrui_gakkai> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+<http://experiment.worldcat.org/entity/work/data/3770507171#Organization/nihon_shokubutsu_bunrui_gakkai> <http://schema.org/name> "Nihon Shokubutsu Bunrui Gakkai." .
+<http://experiment.worldcat.org/entity/work/data/3770507171#Topic/phytogeography_japan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/3770507171#Topic/phytogeography_japan> <http://schema.org/hasPart> <http://id.loc.gov/authorities/subjects/sh85101689> .
+<http://experiment.worldcat.org/entity/work/data/3770507171#Topic/phytogeography_japan> <http://schema.org/name> "Phytogeography--Japan" .
+<http://id.worldcat.org/fast/1204082> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://id.worldcat.org/fast/1204082> <http://schema.org/name> "Japan." .
+<http://viaf.org/viaf/127533364> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+<http://viaf.org/viaf/127533364> <http://www.w3.org/2000/01/rdf-schema#label> "Nihon Shokubutsu Bunrui Gakkai" .
+<http://viaf.org/viaf/127533364> <http://schema.org/name> "日本植物分類学会"@ja .
+<http://viaf.org/viaf/127533364> <http://www.w3.org/2000/01/rdf-schema#label> "Nihon Shokubutsu Bunrui Gakkai." .
+<http://viaf.org/viaf/127533364> <http://schema.org/name> "日本植物分類学会."@ja .
+<http://www.worldcat.org/oclc/57536015> <http://schema.org/isSimilarTo> <http://www.worldcat.org/oclc/166882773> .
+<http://www.worldcat.org/oclc/57536015> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://www.worldcat.org/oclc/57536015> <http://www.w3.org/2000/01/rdf-schema#label> "Bunrui" .
+<http://experiment.worldcat.org/entity/work/data/3770507171#Topic/plants_classification> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/3770507171#Topic/plants_classification> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://id.loc.gov/authorities/subjects/sh2010106520> .
+<http://experiment.worldcat.org/entity/work/data/3770507171#Topic/plants_classification> <http://schema.org/name> "Plants--Classification" .
+<http://worldcat.org/entity/work/id/3770507171> <http://schema.org/name> "Bunrui (Online)" .
+<http://www.worldcat.org/title/-/oclc/166882773> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#ContentTypeGenericResource> .
+<http://www.worldcat.org/title/-/oclc/166882773> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#InformationResource> .
+<http://www.worldcat.org/title/-/oclc/166882773> <http://schema.org/about> <http://www.worldcat.org/oclc/166882773> .
+<http://www.worldcat.org/title/-/oclc/166882773> <http://schema.org/dateModified> "2019-03-02" .
+<http://www.worldcat.org/title/-/oclc/166882773> <http://rdfs.org/ns/void#inDataset> <http://purl.oclc.org/dataset/WorldCat> .
+<http://id.loc.gov/vocabulary/countries/ja> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://id.loc.gov/vocabulary/countries/ja> <http://purl.org/dc/terms/identifier> "ja" .
+<http://www.worldcat.org/title/-/oclc/166882773#PublicationEvent/sanda_shi_nihon_shokubutsu_bunrui_gakkai> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PublicationEvent> .
+<http://www.worldcat.org/title/-/oclc/166882773#PublicationEvent/sanda_shi_nihon_shokubutsu_bunrui_gakkai> <http://schema.org/location> <http://experiment.worldcat.org/entity/work/data/3770507171#Place/sanda_shi> .
+<http://www.worldcat.org/title/-/oclc/166882773#PublicationEvent/sanda_shi_nihon_shokubutsu_bunrui_gakkai> <http://schema.org/organizer> <http://experiment.worldcat.org/entity/work/data/3770507171#Agent/nihon_shokubutsu_bunrui_gakkai> .
+<http://www.worldcat.org/oclc/166882773> <http://schema.org/about> <http://viaf.org/viaf/127533364> .
+<http://www.worldcat.org/oclc/166882773> <http://purl.org/library/placeOfPublication> <http://experiment.worldcat.org/entity/work/data/3770507171#Place/sanda_shi> .
+<http://www.worldcat.org/oclc/166882773> <http://schema.org/url> <http://rzblx1.uni-regensburg.de/ezeit/warpto.phtml?colors=7&jour_id=85934> .
+<http://www.worldcat.org/oclc/166882773> <http://schema.org/about> <http://id.worldcat.org/fast/1204082> .
+<http://www.worldcat.org/oclc/166882773> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://www.worldcat.org/oclc/166882773> <http://schema.org/datePublished> "2001/9999" .
+<http://www.worldcat.org/oclc/166882773> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://www.worldcat.org/oclc/166882773> <http://schema.org/isSimilarTo> <http://www.worldcat.org/oclc/57536015> .
+<http://www.worldcat.org/oclc/166882773> <http://schema.org/inLanguage> "ja" .
+<http://www.worldcat.org/oclc/166882773> <http://schema.org/about> <http://id.worldcat.org/fast/1063243> .
+<http://www.worldcat.org/oclc/166882773> <http://schema.org/about> <http://id.worldcat.org/fast/1065839> .
+<http://www.worldcat.org/oclc/166882773> <http://schema.org/url> <https://www.jstage.jst.go.jp/browse/bunrui> .
+<http://www.worldcat.org/oclc/166882773> <http://schema.org/genre> "Electronic journals" .
+<http://www.worldcat.org/oclc/166882773> <http://schema.org/publisher> <http://experiment.worldcat.org/entity/work/data/3770507171#Agent/nihon_shokubutsu_bunrui_gakkai> .
+<http://www.worldcat.org/oclc/166882773> <http://schema.org/name> "分類."@ja .
+<http://www.worldcat.org/oclc/166882773> <http://schema.org/genre> "Periodicals" .
+<http://www.worldcat.org/oclc/166882773> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/3770507171#Topic/plants_classification> .
+<http://www.worldcat.org/oclc/166882773> <http://purl.org/library/oclcnum> "166882773" .
+<http://www.worldcat.org/oclc/166882773> <http://schema.org/productID> "166882773" .
+<http://www.worldcat.org/oclc/166882773> <http://www.w3.org/2007/05/powder-s#describedby> <http://www.worldcat.org/title/-/oclc/166882773> .
+<http://www.worldcat.org/oclc/166882773> <http://schema.org/contributor> <http://viaf.org/viaf/127533364> .
+<http://www.worldcat.org/oclc/166882773> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/3770507171#Topic/phytogeography_japan> .
+<http://www.worldcat.org/oclc/166882773> <http://www.w3.org/2000/01/rdf-schema#label> "Bunrui." .
+<http://www.worldcat.org/oclc/166882773> <http://schema.org/publication> <http://www.worldcat.org/title/-/oclc/166882773#PublicationEvent/sanda_shi_nihon_shokubutsu_bunrui_gakkai> .
+<http://www.worldcat.org/oclc/166882773> <http://purl.org/library/placeOfPublication> <http://id.loc.gov/vocabulary/countries/ja> .
+<http://www.worldcat.org/oclc/166882773> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/3770507171#Organization/nihon_shokubutsu_bunrui_gakkai> .
+<http://www.worldcat.org/oclc/166882773> <http://schema.org/exampleOfWork> <http://worldcat.org/entity/work/id/3770507171> .
+<http://www.worldcat.org/oclc/166882773> <http://umbel.org/umbel#isLike> <http://d-nb.info/983936862> .
+<http://www.worldcat.org/oclc/166882773> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/MediaObject> .
+<http://id.worldcat.org/fast/1063243> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://id.worldcat.org/fast/1063243> <http://schema.org/name> "Phytogeography" .
+<http://experiment.worldcat.org/entity/work/data/3770507171#Agent/nihon_shokubutsu_bunrui_gakkai> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bibliograph.net/Agent> .
+<http://experiment.worldcat.org/entity/work/data/3770507171#Agent/nihon_shokubutsu_bunrui_gakkai> <http://schema.org/name> "Nihon Shokubutsu Bunrui Gakkai" .
+<http://experiment.worldcat.org/entity/work/data/3770507171#Place/sanda_shi> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://experiment.worldcat.org/entity/work/data/3770507171#Place/sanda_shi> <http://schema.org/name> "Sanda-shi" .
+<https://www.jstage.jst.go.jp/browse/bunrui> <http://www.w3.org/2000/01/rdf-schema#comment> "Connect to text. (Not all issues available in English.)" .

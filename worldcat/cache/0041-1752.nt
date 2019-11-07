@@ -1,0 +1,49 @@
+<http://experiment.worldcat.org/entity/work/data/3856165293#CreativeWork/annals_of_the_transvaal_museum> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://experiment.worldcat.org/entity/work/data/3856165293#CreativeWork/annals_of_the_transvaal_museum> <http://schema.org/name> "Annals of the Transvaal Museum." .
+<http://worldcat.org/issn/0041-1752> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://worldcat.org/issn/0041-1752> <http://schema.org/name> "Annale Van die Transvaal Museum = Annals of the Transvaal Museum." .
+<http://worldcat.org/issn/0041-1752> <http://schema.org/issn> "0041-1752" .
+<http://worldcat.org/issn/0041-1752> <http://umbel.org/umbel#isLike> <http://worldcat.org/entity/work/id/3856165293> .
+<http://experiment.worldcat.org/entity/work/data/3856165293#Topic/ciencias_naturales> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/3856165293#Topic/ciencias_naturales> <http://schema.org/name> "Ciencias naturales" .
+<http://worldcat.org/entity/work/id/3856165293> <http://umbel.org/umbel#isLike> <http://worldcat.org/issn/0041-1752> .
+<http://experiment.worldcat.org/entity/work/data/3856165293#Topic/ciencias_naturales_publicaciones_periodicas> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/3856165293#Topic/ciencias_naturales_publicaciones_periodicas> <http://schema.org/name> "Ciencias naturales--Publicaciones periódicas" .
+<http://experiment.worldcat.org/entity/work/data/3856165293#Place/pretoria> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://experiment.worldcat.org/entity/work/data/3856165293#Place/pretoria> <http://schema.org/name> "Pretoria" .
+<http://www.worldcat.org/title/-/oclc/1026590111> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#ContentTypeGenericResource> .
+<http://www.worldcat.org/title/-/oclc/1026590111> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#InformationResource> .
+<http://www.worldcat.org/title/-/oclc/1026590111> <http://schema.org/about> <http://www.worldcat.org/oclc/1026590111> .
+<http://www.worldcat.org/title/-/oclc/1026590111> <http://schema.org/dateModified> "2019-10-30" .
+<http://www.worldcat.org/title/-/oclc/1026590111> <http://rdfs.org/ns/void#inDataset> <http://purl.oclc.org/dataset/WorldCat> .
+<http://experiment.worldcat.org/entity/work/data/3856165293#Agent/transvaal_museum> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bibliograph.net/Agent> .
+<http://experiment.worldcat.org/entity/work/data/3856165293#Agent/transvaal_museum> <http://schema.org/name> "Transvaal Museum" .
+<http://id.loc.gov/vocabulary/countries/sa> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://id.loc.gov/vocabulary/countries/sa> <http://purl.org/dc/terms/identifier> "sa" .
+<http://experiment.worldcat.org/entity/work/data/3856165293#Organization/transvaal_museum_pretoria> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+<http://experiment.worldcat.org/entity/work/data/3856165293#Organization/transvaal_museum_pretoria> <http://schema.org/name> "Transvaal Museum (Pretoria)" .
+<http://www.worldcat.org/title/-/oclc/1026590111#PublicationEvent/pretoria_transvaal_museum_1908_2009> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PublicationEvent> .
+<http://www.worldcat.org/title/-/oclc/1026590111#PublicationEvent/pretoria_transvaal_museum_1908_2009> <http://schema.org/location> <http://experiment.worldcat.org/entity/work/data/3856165293#Place/pretoria> .
+<http://www.worldcat.org/title/-/oclc/1026590111#PublicationEvent/pretoria_transvaal_museum_1908_2009> <http://schema.org/organizer> <http://experiment.worldcat.org/entity/work/data/3856165293#Agent/transvaal_museum> .
+<http://www.worldcat.org/title/-/oclc/1026590111#PublicationEvent/pretoria_transvaal_museum_1908_2009> <http://schema.org/startDate> "1908-2009" .
+<http://www.worldcat.org/oclc/1026590111> <http://purl.org/library/oclcnum> "1026590111" .
+<http://www.worldcat.org/oclc/1026590111> <http://schema.org/name> "Annale Van die Transvaal Museum = Annals of the Transvaal Museum." .
+<http://www.worldcat.org/oclc/1026590111> <http://purl.org/library/placeOfPublication> <http://experiment.worldcat.org/entity/work/data/3856165293#Place/pretoria> .
+<http://www.worldcat.org/oclc/1026590111> <http://schema.org/exampleOfWork> <http://worldcat.org/entity/work/id/3856165293> .
+<http://www.worldcat.org/oclc/1026590111> <http://purl.org/library/placeOfPublication> <http://id.loc.gov/vocabulary/countries/sa> .
+<http://www.worldcat.org/oclc/1026590111> <http://schema.org/workExample> <http://worldcat.org/issn/0041-1752> .
+<http://www.worldcat.org/oclc/1026590111> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/3856165293#Topic/ciencias_naturales_sudafrica> .
+<http://www.worldcat.org/oclc/1026590111> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/3856165293#Topic/ciencias_naturales> .
+<http://www.worldcat.org/oclc/1026590111> <http://schema.org/publisher> <http://experiment.worldcat.org/entity/work/data/3856165293#Agent/transvaal_museum> .
+<http://www.worldcat.org/oclc/1026590111> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://experiment.worldcat.org/entity/work/data/3856165293#CreativeWork/annals_of_the_transvaal_museum> .
+<http://www.worldcat.org/oclc/1026590111> <http://schema.org/publication> <http://www.worldcat.org/title/-/oclc/1026590111#PublicationEvent/pretoria_transvaal_museum_1908_2009> .
+<http://www.worldcat.org/oclc/1026590111> <http://schema.org/contributor> <http://experiment.worldcat.org/entity/work/data/3856165293#Organization/transvaal_museum_pretoria> .
+<http://www.worldcat.org/oclc/1026590111> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://www.worldcat.org/oclc/1026590111> <http://schema.org/datePublished> "1908/2009" .
+<http://www.worldcat.org/oclc/1026590111> <http://www.w3.org/2007/05/powder-s#describedby> <http://www.worldcat.org/title/-/oclc/1026590111> .
+<http://www.worldcat.org/oclc/1026590111> <http://schema.org/inLanguage> "en" .
+<http://www.worldcat.org/oclc/1026590111> <http://schema.org/productID> "1026590111" .
+<http://www.worldcat.org/oclc/1026590111> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://www.worldcat.org/oclc/1026590111> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/3856165293#Topic/ciencias_naturales_publicaciones_periodicas> .
+<http://experiment.worldcat.org/entity/work/data/3856165293#Topic/ciencias_naturales_sudafrica> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/3856165293#Topic/ciencias_naturales_sudafrica> <http://schema.org/name> "Ciencias naturales--Sudáfrica" .

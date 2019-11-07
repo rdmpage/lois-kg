@@ -1,0 +1,59 @@
+<http://id.loc.gov/vocabulary/countries/my> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://id.loc.gov/vocabulary/countries/my> <http://purl.org/dc/terms/identifier> "my" .
+<http://worldcat.org/issn/0581-7897> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://worldcat.org/issn/0581-7897> <http://schema.org/name> "The Sarawak Museum journal."@en .
+<http://worldcat.org/issn/0581-7897> <http://schema.org/issn> "0581-7897" .
+<http://worldcat.org/issn/0581-7897> <http://umbel.org/umbel#isLike> <http://worldcat.org/entity/work/id/9609661690> .
+<http://experiment.worldcat.org/entity/work/data/9609661690#Place/kuching> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://experiment.worldcat.org/entity/work/data/9609661690#Place/kuching> <http://schema.org/name> "Kuching" .
+<http://experiment.worldcat.org/entity/work/data/9609661690#Place/borneo> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://experiment.worldcat.org/entity/work/data/9609661690#Place/borneo> <http://schema.org/name> "Borneo" .
+<http://experiment.worldcat.org/entity/work/data/9609661690#Place/borneo> <http://schema.org/name> "Borneo." .
+<http://www.worldcat.org/title/-/oclc/1125882665> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#ContentTypeGenericResource> .
+<http://www.worldcat.org/title/-/oclc/1125882665> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#InformationResource> .
+<http://www.worldcat.org/title/-/oclc/1125882665> <http://schema.org/about> <http://www.worldcat.org/oclc/1125882665> .
+<http://www.worldcat.org/title/-/oclc/1125882665> <http://schema.org/dateModified> "2019-10-31" .
+<http://www.worldcat.org/title/-/oclc/1125882665> <http://rdfs.org/ns/void#inDataset> <http://purl.oclc.org/dataset/WorldCat> .
+<http://experiment.worldcat.org/entity/work/data/9609661690#Agent/sarawak_museum> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bibliograph.net/Agent> .
+<http://experiment.worldcat.org/entity/work/data/9609661690#Agent/sarawak_museum> <http://schema.org/name> "Sarawak Museum." .
+<http://dewey.info/class/570.747/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://www.worldcat.org/title/-/oclc/1125882665#PublicationEvent/kuchingsarawak_museum> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PublicationEvent> .
+<http://www.worldcat.org/title/-/oclc/1125882665#PublicationEvent/kuchingsarawak_museum> <http://schema.org/location> <http://experiment.worldcat.org/entity/work/data/9609661690#Place/kuching> .
+<http://www.worldcat.org/title/-/oclc/1125882665#PublicationEvent/kuchingsarawak_museum> <http://schema.org/organizer> <http://experiment.worldcat.org/entity/work/data/9609661690#Agent/sarawak_museum> .
+<http://worldcat.org/entity/work/data/9609661690#CreativeWork/> <http://schema.org/isSimilarTo> <http://www.worldcat.org/oclc/1125882665> .
+<http://worldcat.org/entity/work/data/9609661690#CreativeWork/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://www.worldcat.org/oclc/1125882665> <http://schema.org/name> "The Sarawak Museum journal."@en .
+<http://www.worldcat.org/oclc/1125882665> <http://schema.org/workExample> <http://worldcat.org/issn/0581-7897> .
+<http://www.worldcat.org/oclc/1125882665> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/9609661690#Topic/musea> .
+<http://www.worldcat.org/oclc/1125882665> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://www.worldcat.org/oclc/1125882665> <http://www.w3.org/2007/05/powder-s#describedby> <http://www.worldcat.org/title/-/oclc/1125882665> .
+<http://www.worldcat.org/oclc/1125882665> <http://schema.org/creator> <http://experiment.worldcat.org/entity/work/data/9609661690#Organization/sarawak_museum> .
+<http://www.worldcat.org/oclc/1125882665> <http://schema.org/productID> "1125882665" .
+<http://www.worldcat.org/oclc/1125882665> <http://schema.org/datePublished> "1911/9999" .
+<http://www.worldcat.org/oclc/1125882665> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/9609661690#Place/malaysia_sarawak> .
+<http://www.worldcat.org/oclc/1125882665> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/9609661690#Place/sarawak_malaysia> .
+<http://www.worldcat.org/oclc/1125882665> <http://schema.org/alternateName> "Sarawak Museum journal" .
+<http://www.worldcat.org/oclc/1125882665> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/9609661690#Place/borneo> .
+<http://www.worldcat.org/oclc/1125882665> <http://schema.org/publication> <http://www.worldcat.org/title/-/oclc/1125882665#PublicationEvent/kuchingsarawak_museum> .
+<http://www.worldcat.org/oclc/1125882665> <http://umbel.org/umbel#isLike> <http://d-nb.info/01248122X> .
+<http://www.worldcat.org/oclc/1125882665> <http://schema.org/inLanguage> "en" .
+<http://www.worldcat.org/oclc/1125882665> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://www.worldcat.org/oclc/1125882665> <http://schema.org/about> <http://dewey.info/class/570.747/> .
+<http://www.worldcat.org/oclc/1125882665> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/MediaObject> .
+<http://www.worldcat.org/oclc/1125882665> <http://schema.org/publisher> <http://experiment.worldcat.org/entity/work/data/9609661690#Agent/sarawak_museum> .
+<http://www.worldcat.org/oclc/1125882665> <http://schema.org/alternateName> "Journal" .
+<http://www.worldcat.org/oclc/1125882665> <http://schema.org/genre> "Periodicals"@en .
+<http://www.worldcat.org/oclc/1125882665> <http://purl.org/library/placeOfPublication> <http://experiment.worldcat.org/entity/work/data/9609661690#Place/kuching> .
+<http://www.worldcat.org/oclc/1125882665> <http://schema.org/isSimilarTo> <http://worldcat.org/entity/work/data/9609661690#CreativeWork/> .
+<http://www.worldcat.org/oclc/1125882665> <http://purl.org/library/placeOfPublication> <http://id.loc.gov/vocabulary/countries/my> .
+<http://www.worldcat.org/oclc/1125882665> <http://schema.org/exampleOfWork> <http://worldcat.org/entity/work/id/9609661690> .
+<http://www.worldcat.org/oclc/1125882665> <http://purl.org/library/oclcnum> "1125882665" .
+<http://experiment.worldcat.org/entity/work/data/9609661690#Place/malaysia_sarawak> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://experiment.worldcat.org/entity/work/data/9609661690#Place/malaysia_sarawak> <http://schema.org/name> "Malaysia--Sarawak." .
+<http://experiment.worldcat.org/entity/work/data/9609661690#Place/sarawak_malaysia> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://experiment.worldcat.org/entity/work/data/9609661690#Place/sarawak_malaysia> <http://schema.org/name> "Sarawak (Malaysia)" .
+<http://worldcat.org/entity/work/id/9609661690> <http://umbel.org/umbel#isLike> <http://worldcat.org/issn/0581-7897> .
+<http://experiment.worldcat.org/entity/work/data/9609661690#Topic/musea> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/9609661690#Topic/musea> <http://schema.org/name> "Musea"@en .
+<http://experiment.worldcat.org/entity/work/data/9609661690#Organization/sarawak_museum> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+<http://experiment.worldcat.org/entity/work/data/9609661690#Organization/sarawak_museum> <http://schema.org/name> "Sarawak Museum." .

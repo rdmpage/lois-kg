@@ -303,7 +303,11 @@ if (item['@graph']) {
 	
 			// schema.org (will need to handle types as array)
 			if (item['tcom:publishedInCitation'][i]['@type'] 
-				&& has_type(item['tcom:publishedInCitation'][i], 'ScholarlyArticle')) {
+				&& (
+					has_type(item['tcom:publishedInCitation'][i], 'ScholarlyArticle') 
+					||  has_type(item['tcom:publishedInCitation'][i], 'CreativeWork')
+					)
+				) {
 			
 					if (item['tcom:publishedInCitation'][i]['name']) { 
 						publishedInCitation_html += '<li>';

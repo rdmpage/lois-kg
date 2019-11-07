@@ -1,0 +1,53 @@
+<http://www.worldcat.org/oclc/38134527> <http://purl.org/library/placeOfPublication> <http://id.loc.gov/vocabulary/countries/fr> .
+<http://www.worldcat.org/oclc/38134527> <http://schema.org/name> "Le journal du SIDA." .
+<http://www.worldcat.org/oclc/38134527> <http://schema.org/datePublished> "1990/2000" .
+<http://www.worldcat.org/oclc/38134527> <http://schema.org/productID> "38134527" .
+<http://www.worldcat.org/oclc/38134527> <http://schema.org/hasPart> <http://experiment.worldcat.org/entity/work/data/3375075883#CreativeWork/afls_information> .
+<http://www.worldcat.org/oclc/38134527> <http://schema.org/workExample> <http://worldcat.org/issn/1153-0863> .
+<http://www.worldcat.org/oclc/38134527> <http://schema.org/genre> "Periodicals" .
+<http://www.worldcat.org/oclc/38134527> <http://schema.org/exampleOfWork> <http://worldcat.org/entity/work/id/3375075883> .
+<http://www.worldcat.org/oclc/38134527> <http://purl.org/library/oclcnum> "38134527" .
+<http://www.worldcat.org/oclc/38134527> <http://schema.org/publication> <http://www.worldcat.org/title/-/oclc/38134527#PublicationEvent/paris_arcat_sida_1990_2000> .
+<http://www.worldcat.org/oclc/38134527> <http://schema.org/inLanguage> "fr" .
+<http://www.worldcat.org/oclc/38134527> <http://schema.org/publisher> <http://experiment.worldcat.org/entity/work/data/3375075883#Agent/arcat_sida> .
+<http://www.worldcat.org/oclc/38134527> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://www.worldcat.org/oclc/38134527> <http://schema.org/contributor> <http://viaf.org/viaf/136535311> .
+<http://www.worldcat.org/oclc/38134527> <http://schema.org/hasPart> <http://experiment.worldcat.org/entity/work/data/3375075883#CreativeWork/lutte_contre_le_sida> .
+<http://www.worldcat.org/oclc/38134527> <http://schema.org/hasPart> <http://experiment.worldcat.org/entity/work/data/3375075883#CreativeWork/hep@tites_com> .
+<http://www.worldcat.org/oclc/38134527> <http://schema.org/about> <http://id.worldcat.org/fast/793808> .
+<http://www.worldcat.org/oclc/38134527> <http://purl.org/library/placeOfPublication> <http://experiment.worldcat.org/entity/work/data/3375075883#Place/paris> .
+<http://www.worldcat.org/oclc/38134527> <http://www.w3.org/2007/05/powder-s#describedby> <http://www.worldcat.org/title/-/oclc/38134527> .
+<http://www.worldcat.org/oclc/38134527> <http://schema.org/hasPart> <http://experiment.worldcat.org/entity/work/data/3375075883#CreativeWork/journal_des_hepatites> .
+<http://www.worldcat.org/oclc/38134527> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://worldcat.org/entity/work/id/3375075883> <http://umbel.org/umbel#isLike> <http://worldcat.org/issn/1153-0863> .
+<http://worldcat.org/issn/1153-0863> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://worldcat.org/issn/1153-0863> <http://schema.org/name> "Le journal du SIDA." .
+<http://worldcat.org/issn/1153-0863> <http://schema.org/issn> "1153-0863" .
+<http://worldcat.org/issn/1153-0863> <http://umbel.org/umbel#isLike> <http://worldcat.org/entity/work/id/3375075883> .
+<http://experiment.worldcat.org/entity/work/data/3375075883#CreativeWork/afls_information> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://experiment.worldcat.org/entity/work/data/3375075883#CreativeWork/afls_information> <http://schema.org/name> "AFLS information." .
+<http://id.loc.gov/vocabulary/countries/fr> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://id.loc.gov/vocabulary/countries/fr> <http://purl.org/dc/terms/identifier> "fr" .
+<http://viaf.org/viaf/136535311> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+<http://viaf.org/viaf/136535311> <http://schema.org/name> "ARCAT-SIDA." .
+<http://www.worldcat.org/title/-/oclc/38134527> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#ContentTypeGenericResource> .
+<http://www.worldcat.org/title/-/oclc/38134527> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#InformationResource> .
+<http://www.worldcat.org/title/-/oclc/38134527> <http://schema.org/about> <http://www.worldcat.org/oclc/38134527> .
+<http://www.worldcat.org/title/-/oclc/38134527> <http://schema.org/dateModified> "2018-11-11" .
+<http://www.worldcat.org/title/-/oclc/38134527> <http://rdfs.org/ns/void#inDataset> <http://purl.oclc.org/dataset/WorldCat> .
+<http://experiment.worldcat.org/entity/work/data/3375075883#Agent/arcat_sida> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bibliograph.net/Agent> .
+<http://experiment.worldcat.org/entity/work/data/3375075883#Agent/arcat_sida> <http://schema.org/name> "ARCAT-SIDA" .
+<http://experiment.worldcat.org/entity/work/data/3375075883#CreativeWork/lutte_contre_le_sida> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://experiment.worldcat.org/entity/work/data/3375075883#CreativeWork/lutte_contre_le_sida> <http://schema.org/name> "Lutte contre le SIDA." .
+<http://experiment.worldcat.org/entity/work/data/3375075883#CreativeWork/hep@tites_com> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://experiment.worldcat.org/entity/work/data/3375075883#CreativeWork/hep@tites_com> <http://schema.org/name> "Hép@tites.com." .
+<http://www.worldcat.org/title/-/oclc/38134527#PublicationEvent/paris_arcat_sida_1990_2000> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PublicationEvent> .
+<http://www.worldcat.org/title/-/oclc/38134527#PublicationEvent/paris_arcat_sida_1990_2000> <http://schema.org/location> <http://experiment.worldcat.org/entity/work/data/3375075883#Place/paris> .
+<http://www.worldcat.org/title/-/oclc/38134527#PublicationEvent/paris_arcat_sida_1990_2000> <http://schema.org/organizer> <http://experiment.worldcat.org/entity/work/data/3375075883#Agent/arcat_sida> .
+<http://www.worldcat.org/title/-/oclc/38134527#PublicationEvent/paris_arcat_sida_1990_2000> <http://schema.org/startDate> "" .
+<http://experiment.worldcat.org/entity/work/data/3375075883#CreativeWork/journal_des_hepatites> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://experiment.worldcat.org/entity/work/data/3375075883#CreativeWork/journal_des_hepatites> <http://schema.org/name> "Journal des hépatites." .
+<http://id.worldcat.org/fast/793808> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://id.worldcat.org/fast/793808> <http://schema.org/name> "AIDS (Disease)" .
+<http://experiment.worldcat.org/entity/work/data/3375075883#Place/paris> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://experiment.worldcat.org/entity/work/data/3375075883#Place/paris> <http://schema.org/name> "Paris" .

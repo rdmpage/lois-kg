@@ -1,0 +1,36 @@
+<http://www.worldcat.org/oclc/643864697> <http://schema.org/publication> <http://www.worldcat.org/title/-/oclc/643864697#PublicationEvent/ky_iv_inst> .
+<http://www.worldcat.org/oclc/643864697> <http://purl.org/library/oclcnum> "643864697" .
+<http://www.worldcat.org/oclc/643864697> <http://www.w3.org/2007/05/powder-s#describedby> <http://www.worldcat.org/title/-/oclc/643864697> .
+<http://www.worldcat.org/oclc/643864697> <http://schema.org/alternateName> "Ukrains'kij botaničnij žurnal" .
+<http://www.worldcat.org/oclc/643864697> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://www.worldcat.org/oclc/643864697> <http://schema.org/inLanguage> "uk" .
+<http://www.worldcat.org/oclc/643864697> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://www.worldcat.org/oclc/643864697> <http://schema.org/datePublished> "1956/9999" .
+<http://www.worldcat.org/oclc/643864697> <http://schema.org/exampleOfWork> <http://worldcat.org/entity/work/id/155198196> .
+<http://www.worldcat.org/oclc/643864697> <http://schema.org/publisher> <http://experiment.worldcat.org/entity/work/data/155198196#Agent/inst> .
+<http://www.worldcat.org/oclc/643864697> <http://purl.org/library/placeOfPublication> <http://id.loc.gov/vocabulary/countries/un> .
+<http://www.worldcat.org/oclc/643864697> <http://schema.org/name> "Ukra·ins'kyj botaničnyj žurnal = Ukrainian botanical journal" .
+<http://www.worldcat.org/oclc/643864697> <http://umbel.org/umbel#isLike> <http://d-nb.info/010038124> .
+<http://www.worldcat.org/oclc/643864697> <http://schema.org/productID> "643864697" .
+<http://www.worldcat.org/oclc/643864697> <http://schema.org/workExample> <http://worldcat.org/issn/0372-4123> .
+<http://www.worldcat.org/oclc/643864697> <http://purl.org/library/placeOfPublication> <http://experiment.worldcat.org/entity/work/data/155198196#Place/ky_iv> .
+<http://www.worldcat.org/oclc/643864697> <http://schema.org/alternateName> "Ukrains'kij botaničeskij žurnal" .
+<http://id.loc.gov/vocabulary/countries/un> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://id.loc.gov/vocabulary/countries/un> <http://purl.org/dc/terms/identifier> "un" .
+<http://worldcat.org/issn/0372-4123> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://worldcat.org/issn/0372-4123> <http://schema.org/name> "Ukra·ins'kyj botaničnyj žurnal = Ukrainian botanical journal" .
+<http://worldcat.org/issn/0372-4123> <http://schema.org/issn> "0372-4123" .
+<http://worldcat.org/issn/0372-4123> <http://umbel.org/umbel#isLike> <http://worldcat.org/entity/work/id/155198196> .
+<http://experiment.worldcat.org/entity/work/data/155198196#Place/ky_iv> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://experiment.worldcat.org/entity/work/data/155198196#Place/ky_iv> <http://schema.org/name> "Ky·iv" .
+<http://worldcat.org/entity/work/id/155198196> <http://umbel.org/umbel#isLike> <http://worldcat.org/issn/0372-4123> .
+<http://www.worldcat.org/title/-/oclc/643864697> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#ContentTypeGenericResource> .
+<http://www.worldcat.org/title/-/oclc/643864697> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#InformationResource> .
+<http://www.worldcat.org/title/-/oclc/643864697> <http://schema.org/about> <http://www.worldcat.org/oclc/643864697> .
+<http://www.worldcat.org/title/-/oclc/643864697> <http://schema.org/dateModified> "2018-11-09" .
+<http://www.worldcat.org/title/-/oclc/643864697> <http://rdfs.org/ns/void#inDataset> <http://purl.oclc.org/dataset/WorldCat> .
+<http://www.worldcat.org/title/-/oclc/643864697#PublicationEvent/ky_iv_inst> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PublicationEvent> .
+<http://www.worldcat.org/title/-/oclc/643864697#PublicationEvent/ky_iv_inst> <http://schema.org/location> <http://experiment.worldcat.org/entity/work/data/155198196#Place/ky_iv> .
+<http://www.worldcat.org/title/-/oclc/643864697#PublicationEvent/ky_iv_inst> <http://schema.org/organizer> <http://experiment.worldcat.org/entity/work/data/155198196#Agent/inst> .
+<http://experiment.worldcat.org/entity/work/data/155198196#Agent/inst> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bibliograph.net/Agent> .
+<http://experiment.worldcat.org/entity/work/data/155198196#Agent/inst> <http://schema.org/name> "Inst." .

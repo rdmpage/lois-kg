@@ -1,0 +1,32 @@
+<http://www.worldcat.org/title/-/oclc/475050298> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#ContentTypeGenericResource> .
+<http://www.worldcat.org/title/-/oclc/475050298> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#InformationResource> .
+<http://www.worldcat.org/title/-/oclc/475050298> <http://schema.org/about> <http://www.worldcat.org/oclc/475050298> .
+<http://www.worldcat.org/title/-/oclc/475050298> <http://schema.org/dateModified> "2019-05-04" .
+<http://www.worldcat.org/title/-/oclc/475050298> <http://rdfs.org/ns/void#inDataset> <http://purl.oclc.org/dataset/WorldCat> .
+<http://www.worldcat.org/title/-/oclc/475050298#PublicationEvent/lille> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PublicationEvent> .
+<http://www.worldcat.org/title/-/oclc/475050298#PublicationEvent/lille> <http://schema.org/location> <http://experiment.worldcat.org/entity/work/data/3373938004#Place/lille> .
+<http://id.loc.gov/vocabulary/countries/fr> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://id.loc.gov/vocabulary/countries/fr> <http://purl.org/dc/terms/identifier> "fr" .
+<http://www.worldcat.org/oclc/475050298> <http://schema.org/productID> "475050298" .
+<http://www.worldcat.org/oclc/475050298> <http://schema.org/datePublished> "1971/9999" .
+<http://www.worldcat.org/oclc/475050298> <http://schema.org/publication> <http://www.worldcat.org/title/-/oclc/475050298#PublicationEvent/lille> .
+<http://www.worldcat.org/oclc/475050298> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://www.worldcat.org/oclc/475050298> <http://www.w3.org/2007/05/powder-s#describedby> <http://www.worldcat.org/title/-/oclc/475050298> .
+<http://www.worldcat.org/oclc/475050298> <http://schema.org/name> "Documents Mycologiques. Nouvelle Série." .
+<http://www.worldcat.org/oclc/475050298> <http://schema.org/inLanguage> "fr" .
+<http://www.worldcat.org/oclc/475050298> <http://schema.org/exampleOfWork> <http://worldcat.org/entity/work/id/3373938004> .
+<http://www.worldcat.org/oclc/475050298> <http://purl.org/library/oclcnum> "475050298" .
+<http://www.worldcat.org/oclc/475050298> <http://purl.org/library/placeOfPublication> <http://id.loc.gov/vocabulary/countries/fr> .
+<http://www.worldcat.org/oclc/475050298> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://www.worldcat.org/oclc/475050298> <http://schema.org/workExample> <http://worldcat.org/issn/0291-8420> .
+<http://www.worldcat.org/oclc/475050298> <http://purl.org/library/placeOfPublication> <http://experiment.worldcat.org/entity/work/data/3373938004#Place/lille> .
+<http://www.worldcat.org/oclc/475050298> <http://schema.org/contributor> <http://viaf.org/viaf/128870257> .
+<http://worldcat.org/entity/work/id/3373938004> <http://umbel.org/umbel#isLike> <http://worldcat.org/issn/0291-8420> .
+<http://worldcat.org/issn/0291-8420> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://worldcat.org/issn/0291-8420> <http://schema.org/name> "Documents Mycologiques. Nouvelle Série." .
+<http://worldcat.org/issn/0291-8420> <http://schema.org/issn> "0291-8420" .
+<http://worldcat.org/issn/0291-8420> <http://umbel.org/umbel#isLike> <http://worldcat.org/entity/work/id/3373938004> .
+<http://viaf.org/viaf/128870257> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+<http://viaf.org/viaf/128870257> <http://schema.org/name> "Association d'Écologie et de Mycologie." .
+<http://experiment.worldcat.org/entity/work/data/3373938004#Place/lille> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://experiment.worldcat.org/entity/work/data/3373938004#Place/lille> <http://schema.org/name> "Lille." .

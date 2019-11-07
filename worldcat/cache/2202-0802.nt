@@ -1,0 +1,52 @@
+<http://www.worldcat.org/oclc/1057934404> <http://purl.org/library/placeOfPublication> <http://id.loc.gov/vocabulary/countries/qea> .
+<http://www.worldcat.org/oclc/1057934404> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/59627731#Topic/plants_classification> .
+<http://www.worldcat.org/oclc/1057934404> <http://schema.org/inLanguage> "en" .
+<http://www.worldcat.org/oclc/1057934404> <http://schema.org/name> "Contributions from the Queensland Herbarium"@en .
+<http://www.worldcat.org/oclc/1057934404> <http://www.w3.org/2000/01/rdf-schema#comment> "Unknown 'gen' value: sgp" .
+<http://www.worldcat.org/oclc/1057934404> <http://schema.org/exampleOfWork> <http://worldcat.org/entity/work/id/59627731> .
+<http://www.worldcat.org/oclc/1057934404> <http://schema.org/contributor> <http://experiment.worldcat.org/entity/work/data/59627731#Organization/queensland_herbarium> .
+<http://www.worldcat.org/oclc/1057934404> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bibliograph.net/PublicationSeries> .
+<http://www.worldcat.org/oclc/1057934404> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://www.worldcat.org/oclc/1057934404> <http://schema.org/productID> "1057934404" .
+<http://www.worldcat.org/oclc/1057934404> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/59627731#Topic/botany> .
+<http://www.worldcat.org/oclc/1057934404> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://www.worldcat.org/oclc/1057934404> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/59627731#Topic/botany_classification> .
+<http://www.worldcat.org/oclc/1057934404> <http://purl.org/library/oclcnum> "1057934404" .
+<http://www.worldcat.org/oclc/1057934404> <http://purl.org/library/placeOfPublication> <http://experiment.worldcat.org/entity/work/data/59627731#Place/brisbane> .
+<http://www.worldcat.org/oclc/1057934404> <http://schema.org/publisher> <http://experiment.worldcat.org/entity/work/data/59627731#Agent/the_herbarium> .
+<http://www.worldcat.org/oclc/1057934404> <http://schema.org/publication> <http://www.worldcat.org/title/-/oclc/1057934404#PublicationEvent/brisbane_the_herbarium_1968_1977> .
+<http://www.worldcat.org/oclc/1057934404> <http://schema.org/datePublished> "1968/1977" .
+<http://www.worldcat.org/oclc/1057934404> <http://schema.org/about> <http://dewey.info/class/581.9943/> .
+<http://www.worldcat.org/oclc/1057934404> <http://schema.org/genre> "Periodicals"@en .
+<http://www.worldcat.org/oclc/1057934404> <http://www.w3.org/2007/05/powder-s#describedby> <http://www.worldcat.org/title/-/oclc/1057934404> .
+<http://www.worldcat.org/oclc/1057934404> <http://schema.org/workExample> <http://worldcat.org/issn/2202-0802> .
+<http://www.worldcat.org/oclc/1057934404> <http://schema.org/genre> "Government publication"@en .
+<http://www.worldcat.org/title/-/oclc/1057934404> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#ContentTypeGenericResource> .
+<http://www.worldcat.org/title/-/oclc/1057934404> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#InformationResource> .
+<http://www.worldcat.org/title/-/oclc/1057934404> <http://schema.org/about> <http://www.worldcat.org/oclc/1057934404> .
+<http://www.worldcat.org/title/-/oclc/1057934404> <http://schema.org/dateModified> "2019-02-27" .
+<http://www.worldcat.org/title/-/oclc/1057934404> <http://rdfs.org/ns/void#inDataset> <http://purl.oclc.org/dataset/WorldCat> .
+<http://experiment.worldcat.org/entity/work/data/59627731#Topic/botany_classification> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/59627731#Topic/botany_classification> <http://schema.org/name> "Botany--Classification"@en .
+<http://id.loc.gov/vocabulary/countries/qea> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://id.loc.gov/vocabulary/countries/qea> <http://purl.org/dc/terms/identifier> "qea" .
+<http://dewey.info/class/581.9943/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://worldcat.org/issn/2202-0802> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://worldcat.org/issn/2202-0802> <http://schema.org/name> "Contributions from the Queensland Herbarium"@en .
+<http://worldcat.org/issn/2202-0802> <http://schema.org/issn> "2202-0802" .
+<http://worldcat.org/issn/2202-0802> <http://umbel.org/umbel#isLike> <http://worldcat.org/entity/work/id/59627731> .
+<http://experiment.worldcat.org/entity/work/data/59627731#Topic/botany> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/59627731#Topic/botany> <http://schema.org/name> "Botany"@en .
+<http://experiment.worldcat.org/entity/work/data/59627731#Place/brisbane> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://experiment.worldcat.org/entity/work/data/59627731#Place/brisbane> <http://schema.org/name> "Brisbane" .
+<http://worldcat.org/entity/work/id/59627731> <http://umbel.org/umbel#isLike> <http://worldcat.org/issn/2202-0802> .
+<http://www.worldcat.org/title/-/oclc/1057934404#PublicationEvent/brisbane_the_herbarium_1968_1977> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PublicationEvent> .
+<http://www.worldcat.org/title/-/oclc/1057934404#PublicationEvent/brisbane_the_herbarium_1968_1977> <http://schema.org/location> <http://experiment.worldcat.org/entity/work/data/59627731#Place/brisbane> .
+<http://www.worldcat.org/title/-/oclc/1057934404#PublicationEvent/brisbane_the_herbarium_1968_1977> <http://schema.org/organizer> <http://experiment.worldcat.org/entity/work/data/59627731#Agent/the_herbarium> .
+<http://www.worldcat.org/title/-/oclc/1057934404#PublicationEvent/brisbane_the_herbarium_1968_1977> <http://schema.org/startDate> "1968-1977" .
+<http://experiment.worldcat.org/entity/work/data/59627731#Topic/plants_classification> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/59627731#Topic/plants_classification> <http://schema.org/name> "Plants--Classification"@en .
+<http://experiment.worldcat.org/entity/work/data/59627731#Organization/queensland_herbarium> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+<http://experiment.worldcat.org/entity/work/data/59627731#Organization/queensland_herbarium> <http://schema.org/name> "Queensland Herbarium." .
+<http://experiment.worldcat.org/entity/work/data/59627731#Agent/the_herbarium> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bibliograph.net/Agent> .
+<http://experiment.worldcat.org/entity/work/data/59627731#Agent/the_herbarium> <http://schema.org/name> "The Herbarium" .

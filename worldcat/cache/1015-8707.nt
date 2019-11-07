@@ -1,0 +1,51 @@
+<http://id.worldcat.org/fast/1034268> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://id.worldcat.org/fast/1034268> <http://schema.org/name> "Natural history"@en .
+<http://experiment.worldcat.org/entity/work/data/21463079#Place/nairobi_kenya> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://experiment.worldcat.org/entity/work/data/21463079#Place/nairobi_kenya> <http://schema.org/name> "Nairobi, Kenya" .
+<http://experiment.worldcat.org/entity/work/data/21463079#Topic/natural_history_kenya> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/21463079#Topic/natural_history_kenya> <http://schema.org/hasPart> <http://id.loc.gov/authorities/subjects/sh85090222> .
+<http://experiment.worldcat.org/entity/work/data/21463079#Topic/natural_history_kenya> <http://schema.org/name> "Natural history--Kenya"@en .
+<http://www.worldcat.org/title/-/oclc/19224055> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#ContentTypeGenericResource> .
+<http://www.worldcat.org/title/-/oclc/19224055> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#InformationResource> .
+<http://www.worldcat.org/title/-/oclc/19224055> <http://schema.org/about> <http://www.worldcat.org/oclc/19224055> .
+<http://www.worldcat.org/title/-/oclc/19224055> <http://schema.org/dateModified> "2018-11-10" .
+<http://www.worldcat.org/title/-/oclc/19224055> <http://rdfs.org/ns/void#inDataset> <http://purl.oclc.org/dataset/WorldCat> .
+<http://viaf.org/viaf/151097226> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+<http://viaf.org/viaf/151097226> <http://schema.org/name> "National Museums of Kenya." .
+<http://experiment.worldcat.org/entity/work/data/21463079#Agent/the_museums> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bibliograph.net/Agent> .
+<http://experiment.worldcat.org/entity/work/data/21463079#Agent/the_museums> <http://schema.org/name> "The Museums" .
+<http://id.worldcat.org/fast/1208718> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://id.worldcat.org/fast/1208718> <http://schema.org/name> "Kenya." .
+<http://dewey.info/class/508.676205/e20/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://worldcat.org/issn/1015-8707> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://worldcat.org/issn/1015-8707> <http://schema.org/name> "Utafiti : occasional papers of the National Museums of Kenya."@en .
+<http://worldcat.org/issn/1015-8707> <http://schema.org/issn> "1015-8707" .
+<http://worldcat.org/issn/1015-8707> <http://umbel.org/umbel#isLike> <http://worldcat.org/entity/work/id/21463079> .
+<http://www.worldcat.org/oclc/19224055> <http://purl.org/library/placeOfPublication> <http://experiment.worldcat.org/entity/work/data/21463079#Place/nairobi_kenya> .
+<http://www.worldcat.org/oclc/19224055> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://www.worldcat.org/oclc/19224055> <http://schema.org/about> <http://id.worldcat.org/fast/1208718> .
+<http://www.worldcat.org/oclc/19224055> <http://www.w3.org/2007/05/powder-s#describedby> <http://www.worldcat.org/title/-/oclc/19224055> .
+<http://www.worldcat.org/oclc/19224055> <http://schema.org/productID> "19224055" .
+<http://www.worldcat.org/oclc/19224055> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://www.worldcat.org/oclc/19224055> <http://schema.org/name> "Utafiti : occasional papers of the National Museums of Kenya."@en .
+<http://www.worldcat.org/oclc/19224055> <http://schema.org/exampleOfWork> <http://worldcat.org/entity/work/id/21463079> .
+<http://www.worldcat.org/oclc/19224055> <http://purl.org/library/placeOfPublication> <http://id.loc.gov/vocabulary/countries/ke> .
+<http://www.worldcat.org/oclc/19224055> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/21463079#Topic/natural_history_kenya> .
+<http://www.worldcat.org/oclc/19224055> <http://schema.org/inLanguage> "en" .
+<http://www.worldcat.org/oclc/19224055> <http://purl.org/library/oclcnum> "19224055" .
+<http://www.worldcat.org/oclc/19224055> <http://schema.org/publisher> <http://experiment.worldcat.org/entity/work/data/21463079#Agent/the_museums> .
+<http://www.worldcat.org/oclc/19224055> <http://schema.org/workExample> <http://worldcat.org/issn/1015-8707> .
+<http://www.worldcat.org/oclc/19224055> <http://schema.org/datePublished> "1988/1993" .
+<http://www.worldcat.org/oclc/19224055> <http://schema.org/genre> "Periodicals"@en .
+<http://www.worldcat.org/oclc/19224055> <http://schema.org/publication> <http://www.worldcat.org/title/-/oclc/19224055#PublicationEvent/nairobi_kenya_the_museums_1988> .
+<http://www.worldcat.org/oclc/19224055> <http://schema.org/about> <http://dewey.info/class/508.676205/e20/> .
+<http://www.worldcat.org/oclc/19224055> <http://schema.org/contributor> <http://viaf.org/viaf/151097226> .
+<http://www.worldcat.org/oclc/19224055> <http://schema.org/about> <http://id.worldcat.org/fast/1034268> .
+<http://www.worldcat.org/title/-/oclc/19224055#PublicationEvent/nairobi_kenya_the_museums_1988> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PublicationEvent> .
+<http://www.worldcat.org/title/-/oclc/19224055#PublicationEvent/nairobi_kenya_the_museums_1988> <http://schema.org/location> <http://experiment.worldcat.org/entity/work/data/21463079#Place/nairobi_kenya> .
+<http://www.worldcat.org/title/-/oclc/19224055#PublicationEvent/nairobi_kenya_the_museums_1988> <http://schema.org/organizer> <http://experiment.worldcat.org/entity/work/data/21463079#Agent/the_museums> .
+<http://www.worldcat.org/title/-/oclc/19224055#PublicationEvent/nairobi_kenya_the_museums_1988> <http://schema.org/startDate> "" .
+<http://id.loc.gov/vocabulary/countries/ke> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://id.loc.gov/vocabulary/countries/ke> <http://purl.org/dc/terms/identifier> "ke" .
+<http://worldcat.org/entity/work/id/21463079> <http://schema.org/name> "Utafiti (National Museums of Kenya)"@en .
+<http://worldcat.org/entity/work/id/21463079> <http://umbel.org/umbel#isLike> <http://worldcat.org/issn/1015-8707> .

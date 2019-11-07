@@ -1,0 +1,41 @@
+<http://www.worldcat.org/oclc/900946374> <http://purl.org/library/oclcnum> "900946374" .
+<http://www.worldcat.org/oclc/900946374> <http://schema.org/exampleOfWork> <http://worldcat.org/entity/work/id/9463359493> .
+<http://www.worldcat.org/oclc/900946374> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://www.worldcat.org/oclc/900946374> <http://schema.org/publication> <http://www.worldcat.org/title/-/oclc/900946374#PublicationEvent/amsterdam> .
+<http://www.worldcat.org/oclc/900946374> <http://schema.org/url> <http://link.springer.com.bib-proxy.uhasselt.be/journal/10482> .
+<http://www.worldcat.org/oclc/900946374> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/MediaObject> .
+<http://www.worldcat.org/oclc/900946374> <http://purl.org/library/placeOfPublication> <http://experiment.worldcat.org/entity/work/data/9463359493#Place/amsterdam> .
+<http://www.worldcat.org/oclc/900946374> <http://schema.org/genre> "Tijdschrift" .
+<http://www.worldcat.org/oclc/900946374> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/9463359493#Topic/algemene_microbiologie> .
+<http://www.worldcat.org/oclc/900946374> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://www.worldcat.org/oclc/900946374> <http://www.w3.org/2007/05/powder-s#describedby> <http://www.worldcat.org/title/-/oclc/900946374> .
+<http://www.worldcat.org/oclc/900946374> <http://schema.org/name> "Antonie van Leeuwenhoek : journal of microbiology and serology." .
+<http://www.worldcat.org/oclc/900946374> <http://schema.org/productID> "900946374" .
+<http://www.worldcat.org/oclc/900946374> <http://schema.org/url> <http://bib-proxy.uhasselt.be/login?url=https://link.springer.com/journal/10482> .
+<http://www.worldcat.org/oclc/900946374> <http://schema.org/workExample> <http://worldcat.org/issn/0003-6072> .
+<http://www.worldcat.org/oclc/900946374> <http://purl.org/library/placeOfPublication> <http://id.loc.gov/vocabulary/countries/ne> .
+<http://www.worldcat.org/oclc/900946374> <http://schema.org/inLanguage> "en" .
+<http://www.worldcat.org/oclc/900946374> <http://schema.org/url> <http://link.springer.com/journal/10482> .
+<http://experiment.worldcat.org/entity/work/data/9463359493#Place/amsterdam> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://experiment.worldcat.org/entity/work/data/9463359493#Place/amsterdam> <http://schema.org/name> "Amsterdam." .
+<http://worldcat.org/issn/0003-6072> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://worldcat.org/issn/0003-6072> <http://schema.org/name> "Antonie van Leeuwenhoek : journal of microbiology and serology." .
+<http://worldcat.org/issn/0003-6072> <http://schema.org/issn> "0003-6072" .
+<http://worldcat.org/issn/0003-6072> <http://umbel.org/umbel#isLike> <http://worldcat.org/entity/work/id/9463359493> .
+<http://worldcat.org/entity/work/id/9463359493> <http://umbel.org/umbel#isLike> <http://worldcat.org/issn/0003-6072> .
+<http://link.springer.com/journal/10482> <http://www.w3.org/2000/01/rdf-schema#comment> "ap" .
+<http://link.springer.com/journal/10482> <http://www.w3.org/2000/01/rdf-schema#comment> "kdg" .
+<http://link.springer.com/journal/10482> <http://www.w3.org/2000/01/rdf-schema#comment> "ua" .
+<http://link.springer.com.bib-proxy.uhasselt.be/journal/10482> <http://www.w3.org/2000/01/rdf-schema#comment> "uh" .
+<http://id.loc.gov/vocabulary/countries/ne> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://id.loc.gov/vocabulary/countries/ne> <http://purl.org/dc/terms/identifier> "ne" .
+<http://www.worldcat.org/title/-/oclc/900946374> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#ContentTypeGenericResource> .
+<http://www.worldcat.org/title/-/oclc/900946374> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#InformationResource> .
+<http://www.worldcat.org/title/-/oclc/900946374> <http://schema.org/about> <http://www.worldcat.org/oclc/900946374> .
+<http://www.worldcat.org/title/-/oclc/900946374> <http://schema.org/dateModified> "2019-08-22" .
+<http://www.worldcat.org/title/-/oclc/900946374> <http://rdfs.org/ns/void#inDataset> <http://purl.oclc.org/dataset/WorldCat> .
+<http://experiment.worldcat.org/entity/work/data/9463359493#Topic/algemene_microbiologie> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/9463359493#Topic/algemene_microbiologie> <http://schema.org/name> "Algemene microbiologie" .
+<http://www.worldcat.org/title/-/oclc/900946374#PublicationEvent/amsterdam> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PublicationEvent> .
+<http://www.worldcat.org/title/-/oclc/900946374#PublicationEvent/amsterdam> <http://schema.org/location> <http://experiment.worldcat.org/entity/work/data/9463359493#Place/amsterdam> .
+<http://bib-proxy.uhasselt.be/login?url=https://link.springer.com/journal/10482> <http://www.w3.org/2000/01/rdf-schema#comment> "Toegang via de bibliotheken van UHasselt" .

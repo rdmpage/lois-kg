@@ -1,0 +1,58 @@
+<http://experiment.worldcat.org/entity/work/data/5453648711#Organization/field_museum_of_natural_history_chicago_il_ab_1966> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+<http://experiment.worldcat.org/entity/work/data/5453648711#Organization/field_museum_of_natural_history_chicago_il_ab_1966> <http://schema.org/name> "Field Museum of Natural History (Chicago, IL ; ab 1966)" .
+<http://experiment.worldcat.org/entity/work/data/5453648711#Organization/field_museum_of_natural_history_chicago_il_vor_1943> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+<http://experiment.worldcat.org/entity/work/data/5453648711#Organization/field_museum_of_natural_history_chicago_il_vor_1943> <http://schema.org/name> "Field Museum of Natural History (Chicago, IL ; vor 1943)" .
+<http://experiment.worldcat.org/entity/work/data/5453648711#Agent/field_museum_of_natural_history> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bibliograph.net/Agent> .
+<http://experiment.worldcat.org/entity/work/data/5453648711#Agent/field_museum_of_natural_history> <http://schema.org/name> "Field Museum of Natural History." .
+<http://worldcat.org/entity/work/id/5453648711> <http://umbel.org/umbel#isLike> <http://worldcat.org/issn/0894-8399> .
+<http://experiment.worldcat.org/entity/work/data/5453648711#Thing/naturwissenschaften_und_mathematik> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> .
+<http://experiment.worldcat.org/entity/work/data/5453648711#Thing/naturwissenschaften_und_mathematik> <http://schema.org/name> "NATURWISSENSCHAFTEN UND MATHEMATIK" .
+<http://www.worldcat.org/oclc/888512103> <http://schema.org/alternateName> "Publications of the Field Museum of Natural History" .
+<http://www.worldcat.org/oclc/888512103> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://experiment.worldcat.org/entity/work/data/5453648711#CreativeWork/publication_field_museum_of_natural_history> .
+<http://www.worldcat.org/oclc/888512103> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://www.worldcat.org/oclc/888512103> <http://schema.org/contributor> <http://experiment.worldcat.org/entity/work/data/5453648711#Organization/field_museum_of_natural_history_chicago_il_ab_1966> .
+<http://www.worldcat.org/oclc/888512103> <http://schema.org/workExample> <http://worldcat.org/issn/0894-8399> .
+<http://www.worldcat.org/oclc/888512103> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/5453648711#Thing/naturwissenschaften_und_mathematik> .
+<http://www.worldcat.org/oclc/888512103> <http://schema.org/alternateName> "Publications / Field Museum of Natural History" .
+<http://www.worldcat.org/oclc/888512103> <http://schema.org/exampleOfWork> <http://worldcat.org/entity/work/id/5453648711> .
+<http://www.worldcat.org/oclc/888512103> <http://schema.org/productID> "888512103" .
+<http://www.worldcat.org/oclc/888512103> <http://schema.org/publication> <http://www.worldcat.org/title/-/oclc/888512103#PublicationEvent/chicago_field_museum_of_natural_history> .
+<http://www.worldcat.org/oclc/888512103> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bibliograph.net/PublicationSeries> .
+<http://www.worldcat.org/oclc/888512103> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/5453648711#Thing/science_and_mathematics> .
+<http://www.worldcat.org/oclc/888512103> <http://schema.org/contributor> <http://experiment.worldcat.org/entity/work/data/5453648711#Organization/chicago_natural_history_museum> .
+<http://www.worldcat.org/oclc/888512103> <http://purl.org/library/placeOfPublication> <http://id.loc.gov/vocabulary/countries/ilu> .
+<http://www.worldcat.org/oclc/888512103> <http://schema.org/datePublished> "1907/9999" .
+<http://www.worldcat.org/oclc/888512103> <http://schema.org/name> "Publication" .
+<http://www.worldcat.org/oclc/888512103> <http://purl.org/library/placeOfPublication> <http://dbpedia.org/resource/Chicago> .
+<http://www.worldcat.org/oclc/888512103> <http://www.w3.org/2007/05/powder-s#describedby> <http://www.worldcat.org/title/-/oclc/888512103> .
+<http://www.worldcat.org/oclc/888512103> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://www.worldcat.org/oclc/888512103> <http://schema.org/publisher> <http://experiment.worldcat.org/entity/work/data/5453648711#Agent/field_museum_of_natural_history> .
+<http://www.worldcat.org/oclc/888512103> <http://schema.org/contributor> <http://experiment.worldcat.org/entity/work/data/5453648711#Organization/field_museum_of_natural_history_chicago_il_vor_1943> .
+<http://www.worldcat.org/oclc/888512103> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/5453648711#Thing/sciences_et_mathematiques> .
+<http://www.worldcat.org/oclc/888512103> <http://schema.org/inLanguage> "en" .
+<http://www.worldcat.org/oclc/888512103> <http://schema.org/alternateName> "Publication / Chicago Natural History Museum" .
+<http://www.worldcat.org/oclc/888512103> <http://purl.org/library/oclcnum> "888512103" .
+<http://experiment.worldcat.org/entity/work/data/5453648711#Thing/science_and_mathematics> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> .
+<http://experiment.worldcat.org/entity/work/data/5453648711#Thing/science_and_mathematics> <http://schema.org/name> "SCIENCE AND MATHEMATICS" .
+<http://experiment.worldcat.org/entity/work/data/5453648711#CreativeWork/publication_field_museum_of_natural_history> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://experiment.worldcat.org/entity/work/data/5453648711#CreativeWork/publication_field_museum_of_natural_history> <http://schema.org/name> "Publication / Field Museum of Natural History." .
+<http://experiment.worldcat.org/entity/work/data/5453648711#Thing/sciences_et_mathematiques> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> .
+<http://experiment.worldcat.org/entity/work/data/5453648711#Thing/sciences_et_mathematiques> <http://schema.org/name> "SCIENCES ET MATHEMATIQUES" .
+<http://worldcat.org/issn/0894-8399> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://worldcat.org/issn/0894-8399> <http://schema.org/name> "Publication" .
+<http://worldcat.org/issn/0894-8399> <http://schema.org/issn> "0894-8399" .
+<http://worldcat.org/issn/0894-8399> <http://umbel.org/umbel#isLike> <http://worldcat.org/entity/work/id/5453648711> .
+<http://id.loc.gov/vocabulary/countries/ilu> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://id.loc.gov/vocabulary/countries/ilu> <http://purl.org/dc/terms/identifier> "ilu" .
+<http://experiment.worldcat.org/entity/work/data/5453648711#Organization/chicago_natural_history_museum> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+<http://experiment.worldcat.org/entity/work/data/5453648711#Organization/chicago_natural_history_museum> <http://schema.org/name> "Chicago Natural History Museum." .
+<http://dbpedia.org/resource/Chicago> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://dbpedia.org/resource/Chicago> <http://schema.org/name> "Chicago" .
+<http://www.worldcat.org/title/-/oclc/888512103#PublicationEvent/chicago_field_museum_of_natural_history> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PublicationEvent> .
+<http://www.worldcat.org/title/-/oclc/888512103#PublicationEvent/chicago_field_museum_of_natural_history> <http://schema.org/location> <http://dbpedia.org/resource/Chicago> .
+<http://www.worldcat.org/title/-/oclc/888512103#PublicationEvent/chicago_field_museum_of_natural_history> <http://schema.org/organizer> <http://experiment.worldcat.org/entity/work/data/5453648711#Agent/field_museum_of_natural_history> .
+<http://www.worldcat.org/title/-/oclc/888512103> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#ContentTypeGenericResource> .
+<http://www.worldcat.org/title/-/oclc/888512103> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#InformationResource> .
+<http://www.worldcat.org/title/-/oclc/888512103> <http://schema.org/about> <http://www.worldcat.org/oclc/888512103> .
+<http://www.worldcat.org/title/-/oclc/888512103> <http://schema.org/dateModified> "2018-11-09" .
+<http://www.worldcat.org/title/-/oclc/888512103> <http://rdfs.org/ns/void#inDataset> <http://purl.oclc.org/dataset/WorldCat> .

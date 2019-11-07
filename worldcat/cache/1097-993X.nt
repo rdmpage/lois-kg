@@ -1,0 +1,29 @@
+<http://www.worldcat.org/title/-/oclc/917686829> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#ContentTypeGenericResource> .
+<http://www.worldcat.org/title/-/oclc/917686829> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#InformationResource> .
+<http://www.worldcat.org/title/-/oclc/917686829> <http://schema.org/about> <http://www.worldcat.org/oclc/917686829> .
+<http://www.worldcat.org/title/-/oclc/917686829> <http://schema.org/dateModified> "2018-11-07" .
+<http://www.worldcat.org/title/-/oclc/917686829> <http://rdfs.org/ns/void#inDataset> <http://purl.oclc.org/dataset/WorldCat> .
+<http://www.worldcat.org/title/-/oclc/917686829#PublicationEvent/austin_tex> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PublicationEvent> .
+<http://www.worldcat.org/title/-/oclc/917686829#PublicationEvent/austin_tex> <http://schema.org/location> <http://experiment.worldcat.org/entity/work/data/890548149#Place/austin_tex> .
+<http://www.worldcat.org/oclc/917686829> <http://schema.org/workExample> <http://worldcat.org/issn/1097-993X> .
+<http://www.worldcat.org/oclc/917686829> <http://schema.org/datePublished> "1998/9999" .
+<http://www.worldcat.org/oclc/917686829> <http://schema.org/publication> <http://www.worldcat.org/title/-/oclc/917686829#PublicationEvent/austin_tex> .
+<http://www.worldcat.org/oclc/917686829> <http://schema.org/inLanguage> "en" .
+<http://www.worldcat.org/oclc/917686829> <http://schema.org/productID> "917686829" .
+<http://www.worldcat.org/oclc/917686829> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://www.worldcat.org/oclc/917686829> <http://www.w3.org/2007/05/powder-s#describedby> <http://www.worldcat.org/title/-/oclc/917686829> .
+<http://www.worldcat.org/oclc/917686829> <http://schema.org/name> "Lundellia : journal of the Plant Resources Center of the University of Texas at Austin." .
+<http://www.worldcat.org/oclc/917686829> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://www.worldcat.org/oclc/917686829> <http://purl.org/library/placeOfPublication> <http://experiment.worldcat.org/entity/work/data/890548149#Place/austin_tex> .
+<http://www.worldcat.org/oclc/917686829> <http://purl.org/library/placeOfPublication> <http://id.loc.gov/vocabulary/countries/xxu> .
+<http://www.worldcat.org/oclc/917686829> <http://schema.org/exampleOfWork> <http://worldcat.org/entity/work/id/890548149> .
+<http://www.worldcat.org/oclc/917686829> <http://purl.org/library/oclcnum> "917686829" .
+<http://id.loc.gov/vocabulary/countries/xxu> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://id.loc.gov/vocabulary/countries/xxu> <http://purl.org/dc/terms/identifier> "xxu" .
+<http://experiment.worldcat.org/entity/work/data/890548149#Place/austin_tex> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://experiment.worldcat.org/entity/work/data/890548149#Place/austin_tex> <http://schema.org/name> "Austin, Tex." .
+<http://worldcat.org/entity/work/id/890548149> <http://umbel.org/umbel#isLike> <http://worldcat.org/issn/1097-993X> .
+<http://worldcat.org/issn/1097-993X> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://worldcat.org/issn/1097-993X> <http://schema.org/name> "Lundellia : journal of the Plant Resources Center of the University of Texas at Austin." .
+<http://worldcat.org/issn/1097-993X> <http://schema.org/issn> "1097-993X" .
+<http://worldcat.org/issn/1097-993X> <http://umbel.org/umbel#isLike> <http://worldcat.org/entity/work/id/890548149> .

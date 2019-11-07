@@ -1,0 +1,51 @@
+<http://experiment.worldcat.org/entity/work/data/9587581889#Place/lawrence_ks> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://experiment.worldcat.org/entity/work/data/9587581889#Place/lawrence_ks> <http://schema.org/name> "Lawrence, KS" .
+<http://experiment.worldcat.org/entity/work/data/9587581889#Organization/torrey_botanical_society> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+<http://experiment.worldcat.org/entity/work/data/9587581889#Organization/torrey_botanical_society> <http://schema.org/name> "Torrey Botanical Society." .
+<http://experiment.worldcat.org/entity/work/data/9587581889#Agent/allen_press> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bibliograph.net/Agent> .
+<http://experiment.worldcat.org/entity/work/data/9587581889#Agent/allen_press> <http://schema.org/name> "Allen Press" .
+<http://worldcat.org/issn/1940-0616> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://worldcat.org/issn/1940-0616> <http://schema.org/name> "Journal of the Torrey Botanical Society."@en .
+<http://worldcat.org/issn/1940-0616> <http://schema.org/issn> "1940-0616" .
+<http://worldcat.org/issn/1940-0616> <http://umbel.org/umbel#isLike> <http://worldcat.org/entity/work/id/9587581889> .
+<http://worldcat.org/issn/1095-5674> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://worldcat.org/issn/1095-5674> <http://schema.org/name> "Journal of the Torrey Botanical Society."@en .
+<http://worldcat.org/issn/1095-5674> <http://schema.org/issn> "1095-5674" .
+<http://worldcat.org/issn/1095-5674> <http://umbel.org/umbel#isLike> <http://worldcat.org/entity/work/id/9587581889> .
+<http://experiment.worldcat.org/entity/work/data/9587581889#Topic/botany> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/9587581889#Topic/botany> <http://schema.org/name> "Botany"@en .
+<http://www.worldcat.org/title/-/oclc/1124342138> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#ContentTypeGenericResource> .
+<http://www.worldcat.org/title/-/oclc/1124342138> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#InformationResource> .
+<http://www.worldcat.org/title/-/oclc/1124342138> <http://schema.org/about> <http://www.worldcat.org/oclc/1124342138> .
+<http://www.worldcat.org/title/-/oclc/1124342138> <http://schema.org/dateModified> "2019-10-23" .
+<http://www.worldcat.org/title/-/oclc/1124342138> <http://rdfs.org/ns/void#inDataset> <http://purl.oclc.org/dataset/WorldCat> .
+<http://www.worldcat.org/title/-/oclc/1124342138#PublicationEvent/lawrence_ks_allen_press_1997> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PublicationEvent> .
+<http://www.worldcat.org/title/-/oclc/1124342138#PublicationEvent/lawrence_ks_allen_press_1997> <http://schema.org/location> <http://experiment.worldcat.org/entity/work/data/9587581889#Place/lawrence_ks> .
+<http://www.worldcat.org/title/-/oclc/1124342138#PublicationEvent/lawrence_ks_allen_press_1997> <http://schema.org/organizer> <http://experiment.worldcat.org/entity/work/data/9587581889#Agent/allen_press> .
+<http://www.worldcat.org/title/-/oclc/1124342138#PublicationEvent/lawrence_ks_allen_press_1997> <http://schema.org/startDate> "1997-" .
+<http://worldcat.org/entity/work/id/9587581889> <http://umbel.org/umbel#isLike> <http://worldcat.org/issn/1095-5674> .
+<http://worldcat.org/entity/work/id/9587581889> <http://umbel.org/umbel#isLike> <http://worldcat.org/issn/1940-0616> .
+<http://experiment.worldcat.org/entity/work/data/9587581889#Organization/jstor_organization> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+<http://experiment.worldcat.org/entity/work/data/9587581889#Organization/jstor_organization> <http://schema.org/name> "JSTOR (Organization)." .
+<http://www.worldcat.org/oclc/1124342138> <http://purl.org/library/placeOfPublication> <http://experiment.worldcat.org/entity/work/data/9587581889#Place/lawrence_ks> .
+<http://www.worldcat.org/oclc/1124342138> <http://schema.org/productID> "1124342138" .
+<http://www.worldcat.org/oclc/1124342138> <http://schema.org/publisher> <http://experiment.worldcat.org/entity/work/data/9587581889#Agent/allen_press> .
+<http://www.worldcat.org/oclc/1124342138> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://www.worldcat.org/oclc/1124342138> <http://schema.org/inLanguage> "en" .
+<http://www.worldcat.org/oclc/1124342138> <http://schema.org/name> "Journal of the Torrey Botanical Society."@en .
+<http://www.worldcat.org/oclc/1124342138> <http://schema.org/datePublished> "1997/9999" .
+<http://www.worldcat.org/oclc/1124342138> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://www.worldcat.org/oclc/1124342138> <http://schema.org/exampleOfWork> <http://worldcat.org/entity/work/id/9587581889> .
+<http://www.worldcat.org/oclc/1124342138> <http://schema.org/publication> <http://www.worldcat.org/title/-/oclc/1124342138#PublicationEvent/lawrence_ks_allen_press_1997> .
+<http://www.worldcat.org/oclc/1124342138> <http://schema.org/workExample> <http://worldcat.org/issn/1940-0616> .
+<http://www.worldcat.org/oclc/1124342138> <http://schema.org/contributor> <http://experiment.worldcat.org/entity/work/data/9587581889#Organization/jstor_organization> .
+<http://www.worldcat.org/oclc/1124342138> <http://schema.org/workExample> <http://worldcat.org/issn/1095-5674> .
+<http://www.worldcat.org/oclc/1124342138> <http://purl.org/library/placeOfPublication> <http://id.loc.gov/vocabulary/countries/ksu> .
+<http://www.worldcat.org/oclc/1124342138> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bibliograph.net/Microform> .
+<http://www.worldcat.org/oclc/1124342138> <http://www.w3.org/2007/05/powder-s#describedby> <http://www.worldcat.org/title/-/oclc/1124342138> .
+<http://www.worldcat.org/oclc/1124342138> <http://schema.org/datePublished> "1997/" .
+<http://www.worldcat.org/oclc/1124342138> <http://purl.org/library/oclcnum> "1124342138" .
+<http://www.worldcat.org/oclc/1124342138> <http://schema.org/contributor> <http://experiment.worldcat.org/entity/work/data/9587581889#Organization/torrey_botanical_society> .
+<http://www.worldcat.org/oclc/1124342138> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/9587581889#Topic/botany> .
+<http://id.loc.gov/vocabulary/countries/ksu> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://id.loc.gov/vocabulary/countries/ksu> <http://purl.org/dc/terms/identifier> "ksu" .

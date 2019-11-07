@@ -1,0 +1,73 @@
+<http://www.worldcat.org/title/-/oclc/882906412#PublicationEvent/new_york_begell_house_200> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PublicationEvent> .
+<http://www.worldcat.org/title/-/oclc/882906412#PublicationEvent/new_york_begell_house_200> <http://schema.org/location> <http://dbpedia.org/resource/New_York_City> .
+<http://www.worldcat.org/title/-/oclc/882906412#PublicationEvent/new_york_begell_house_200> <http://schema.org/organizer> <http://experiment.worldcat.org/entity/work/data/1172953929#Agent/begell_house> .
+<http://www.worldcat.org/title/-/oclc/882906412#PublicationEvent/new_york_begell_house_200> <http://schema.org/startDate> "-" .
+<http://experiment.worldcat.org/entity/work/data/1172953929#Topic/mushrooms> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/1172953929#Topic/mushrooms> <http://schema.org/name> "Mushrooms" .
+<http://experiment.worldcat.org/entity/work/data/1172953929#Topic/mushrooms> <http://schema.org/name> "mushrooms" .
+<http://experiment.worldcat.org/entity/work/data/1172953929#Topic/agaricales> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/1172953929#Topic/agaricales> <http://schema.org/name> "Agaricales" .
+<http://www.worldcat.org/title/-/oclc/882906412> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#ContentTypeGenericResource> .
+<http://www.worldcat.org/title/-/oclc/882906412> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#InformationResource> .
+<http://www.worldcat.org/title/-/oclc/882906412> <http://schema.org/about> <http://www.worldcat.org/oclc/882906412> .
+<http://www.worldcat.org/title/-/oclc/882906412> <http://schema.org/dateModified> "2019-09-23" .
+<http://www.worldcat.org/title/-/oclc/882906412> <http://rdfs.org/ns/void#inDataset> <http://purl.oclc.org/dataset/WorldCat> .
+<http://worldcat.org/issn/1521-9437> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://worldcat.org/issn/1521-9437> <http://schema.org/name> "International journal of medicinal mushrooms." .
+<http://worldcat.org/issn/1521-9437> <http://schema.org/issn> "1521-9437" .
+<http://worldcat.org/issn/1521-9437> <http://umbel.org/umbel#isLike> <http://worldcat.org/entity/work/id/1172953929> .
+<http://experiment.worldcat.org/entity/work/data/1172953929#Topic/eetbare_paddestoelen> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/1172953929#Topic/eetbare_paddestoelen> <http://schema.org/name> "eetbare paddestoelen" .
+<http://dbpedia.org/resource/New_York_City> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://dbpedia.org/resource/New_York_City> <http://schema.org/name> "New York" .
+<http://experiment.worldcat.org/entity/work/data/1172953929#Topic/paddestoelen> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/1172953929#Topic/paddestoelen> <http://schema.org/name> "paddestoelen" .
+<http://id.loc.gov/vocabulary/countries/nyu> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://id.loc.gov/vocabulary/countries/nyu> <http://purl.org/dc/terms/identifier> "nyu" .
+<http://www.worldcat.org/oclc/882906412> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/MediaObject> .
+<http://www.worldcat.org/oclc/882906412> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/1172953929#Topic/farmacologie> .
+<http://www.worldcat.org/oclc/882906412> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://www.worldcat.org/oclc/882906412> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/1172953929#Topic/medicinal_plants> .
+<http://www.worldcat.org/oclc/882906412> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/1172953929#Topic/eetbare_paddestoelen> .
+<http://www.worldcat.org/oclc/882906412> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/1172953929#Topic/medicinal_crops> .
+<http://www.worldcat.org/oclc/882906412> <http://schema.org/name> "International journal of medicinal mushrooms." .
+<http://www.worldcat.org/oclc/882906412> <http://schema.org/productID> "882906412" .
+<http://www.worldcat.org/oclc/882906412> <http://schema.org/inLanguage> "en" .
+<http://www.worldcat.org/oclc/882906412> <http://purl.org/library/placeOfPublication> <http://dbpedia.org/resource/New_York_City> .
+<http://www.worldcat.org/oclc/882906412> <http://schema.org/exampleOfWork> <http://worldcat.org/entity/work/id/1172953929> .
+<http://www.worldcat.org/oclc/882906412> <http://schema.org/publication> <http://www.worldcat.org/title/-/oclc/882906412#PublicationEvent/new_york_begell_house_200> .
+<http://www.worldcat.org/oclc/882906412> <http://schema.org/genre> "Periodicals" .
+<http://www.worldcat.org/oclc/882906412> <http://schema.org/workExample> <http://worldcat.org/issn/1521-9437> .
+<http://www.worldcat.org/oclc/882906412> <http://www.w3.org/2007/05/powder-s#describedby> <http://www.worldcat.org/title/-/oclc/882906412> .
+<http://www.worldcat.org/oclc/882906412> <http://schema.org/datePublished> "200u/9999" .
+<http://www.worldcat.org/oclc/882906412> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/1172953929#Topic/agaricales> .
+<http://www.worldcat.org/oclc/882906412> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/1172953929#Topic/pharmacology> .
+<http://www.worldcat.org/oclc/882906412> <http://purl.org/library/oclcnum> "882906412" .
+<http://www.worldcat.org/oclc/882906412> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/1172953929#Topic/mushrooms> .
+<http://www.worldcat.org/oclc/882906412> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/1172953929#Topic/paddestoelen> .
+<http://www.worldcat.org/oclc/882906412> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/1172953929#Topic/medicinale_planten> .
+<http://www.worldcat.org/oclc/882906412> <http://purl.org/library/placeOfPublication> <http://id.loc.gov/vocabulary/countries/nyu> .
+<http://www.worldcat.org/oclc/882906412> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/1172953929#Topic/mushrooms_therapeutic_use> .
+<http://www.worldcat.org/oclc/882906412> <http://schema.org/about> <http://dewey.info/class/615/e14/> .
+<http://www.worldcat.org/oclc/882906412> <http://schema.org/publisher> <http://experiment.worldcat.org/entity/work/data/1172953929#Agent/begell_house> .
+<http://www.worldcat.org/oclc/882906412> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://www.worldcat.org/oclc/882906412> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/1172953929#Topic/edible_fungi> .
+<http://experiment.worldcat.org/entity/work/data/1172953929#Topic/pharmacology> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/1172953929#Topic/pharmacology> <http://schema.org/name> "pharmacology" .
+<http://experiment.worldcat.org/entity/work/data/1172953929#Topic/mushrooms_therapeutic_use> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/1172953929#Topic/mushrooms_therapeutic_use> <http://schema.org/name> "Mushrooms--Therapeutic use" .
+<http://experiment.worldcat.org/entity/work/data/1172953929#Topic/farmacologie> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/1172953929#Topic/farmacologie> <http://schema.org/name> "farmacologie" .
+<http://experiment.worldcat.org/entity/work/data/1172953929#Topic/medicinale_planten> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/1172953929#Topic/medicinale_planten> <http://schema.org/name> "medicinale planten" .
+<http://experiment.worldcat.org/entity/work/data/1172953929#Topic/medicinale_planten> <http://schema.org/name> "Medicinale planten" .
+<http://dewey.info/class/615/e14/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/1172953929#Topic/edible_fungi> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/1172953929#Topic/edible_fungi> <http://schema.org/name> "edible fungi" .
+<http://experiment.worldcat.org/entity/work/data/1172953929#Topic/medicinal_crops> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/1172953929#Topic/medicinal_crops> <http://schema.org/name> "Medicinal Crops" .
+<http://worldcat.org/entity/work/id/1172953929> <http://umbel.org/umbel#isLike> <http://worldcat.org/issn/1521-9437> .
+<http://experiment.worldcat.org/entity/work/data/1172953929#Topic/medicinal_plants> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/1172953929#Topic/medicinal_plants> <http://schema.org/name> "medicinal plants" .
+<http://experiment.worldcat.org/entity/work/data/1172953929#Agent/begell_house> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bibliograph.net/Agent> .
+<http://experiment.worldcat.org/entity/work/data/1172953929#Agent/begell_house> <http://schema.org/name> "Begell House" .

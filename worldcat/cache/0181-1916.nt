@@ -1,0 +1,99 @@
+<http://id.loc.gov/vocabulary/countries/fr> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://id.loc.gov/vocabulary/countries/fr> <http://purl.org/dc/terms/identifier> "fr" .
+<http://experiment.worldcat.org/entity/work/data/22231208#Topic/human_development> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/22231208#Topic/human_development> <http://schema.org/name> "Human Development"@en .
+<http://www.worldcat.org/title/-/oclc/1034281250> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#ContentTypeGenericResource> .
+<http://www.worldcat.org/title/-/oclc/1034281250> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#InformationResource> .
+<http://www.worldcat.org/title/-/oclc/1034281250> <http://schema.org/about> <http://www.worldcat.org/oclc/1034281250> .
+<http://www.worldcat.org/title/-/oclc/1034281250> <http://schema.org/dateModified> "2019-10-24" .
+<http://www.worldcat.org/title/-/oclc/1034281250> <http://rdfs.org/ns/void#inDataset> <http://purl.oclc.org/dataset/WorldCat> .
+<http://www.worldcat.org/title/-/oclc/1034281250#PublicationEvent/paris_france_elsevier_inra_1989_2006> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PublicationEvent> .
+<http://www.worldcat.org/title/-/oclc/1034281250#PublicationEvent/paris_france_elsevier_inra_1989_2006> <http://schema.org/location> <http://experiment.worldcat.org/entity/work/data/22231208#Place/paris_france> .
+<http://www.worldcat.org/title/-/oclc/1034281250#PublicationEvent/paris_france_elsevier_inra_1989_2006> <http://schema.org/organizer> <http://experiment.worldcat.org/entity/work/data/22231208#Agent/elsevier> .
+<http://www.worldcat.org/title/-/oclc/1034281250#PublicationEvent/paris_france_elsevier_inra_1989_2006> <http://schema.org/organizer> <http://experiment.worldcat.org/entity/work/data/22231208#Agent/inra> .
+<http://experiment.worldcat.org/entity/work/data/22231208#Topic/animal_nutrition> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/22231208#Topic/animal_nutrition> <http://schema.org/name> "Animal nutrition"@en .
+<http://experiment.worldcat.org/entity/work/data/22231208#Topic/nutritional_physiological_phenomena> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/22231208#Topic/nutritional_physiological_phenomena> <http://schema.org/name> "Nutritional Physiological Phenomena"@en .
+<http://experiment.worldcat.org/entity/work/data/22231208#Topic/zoology> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/22231208#Topic/zoology> <http://schema.org/name> "Zoology"@en .
+<http://www.worldcat.org/oclc/20224294> <http://schema.org/isSimilarTo> <http://www.worldcat.org/oclc/1034281250> .
+<http://www.worldcat.org/oclc/20224294> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://www.worldcat.org/oclc/20224294> <http://www.w3.org/2000/01/rdf-schema#label> "Reproduction, nutrition, development" .
+<http://www.worldcat.org/oclc/20224294> <http://schema.org/description> "Print version:" .
+<http://www.library.yorku.ca/eresolver/?id=63878> <http://www.w3.org/2000/01/rdf-schema#comment> "(EDP Sciences Journals)" .
+<http://experiment.worldcat.org/entity/work/data/22231208#Organization/institut_national_de_la_recherche_agronomique_france> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+<http://experiment.worldcat.org/entity/work/data/22231208#Organization/institut_national_de_la_recherche_agronomique_france> <http://schema.org/name> "Institut national de la recherche agronomique (France)" .
+<http://experiment.worldcat.org/entity/work/data/22231208#Topic/nutrition> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/22231208#Topic/nutrition> <http://schema.org/name> "Nutrition"@fr .
+<http://experiment.worldcat.org/entity/work/data/22231208#Topic/physiologie_veterinaire> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/22231208#Topic/physiologie_veterinaire> <http://schema.org/name> "Physiologie vétérinaire"@fr .
+<http://experiment.worldcat.org/entity/work/data/22231208#Agent/inra> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bibliograph.net/Agent> .
+<http://experiment.worldcat.org/entity/work/data/22231208#Agent/inra> <http://schema.org/name> "INRA" .
+<http://experiment.worldcat.org/entity/work/data/22231208#Topic/developmental_biology> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/22231208#Topic/developmental_biology> <http://schema.org/name> "Developmental biology"@en .
+<http://experiment.worldcat.org/entity/work/data/22231208#Topic/reproduction> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/22231208#Topic/reproduction> <http://schema.org/name> "Reproduction"@en .
+<http://experiment.worldcat.org/entity/work/data/22231208#Topic/reproduction> <http://schema.org/name> "Reproduction"@fr .
+<http://experiment.worldcat.org/entity/work/data/22231208#Topic/veeteelt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/22231208#Topic/veeteelt> <http://schema.org/name> "Veeteelt"@en .
+<http://experiment.worldcat.org/entity/work/data/22231208#Topic/animal_nutritional_physiological_phenomena> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/22231208#Topic/animal_nutritional_physiological_phenomena> <http://schema.org/name> "Animal Nutritional Physiological Phenomena"@en .
+<http://experiment.worldcat.org/entity/work/data/22231208#Topic/dierkunde> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/22231208#Topic/dierkunde> <http://schema.org/name> "Dierkunde"@en .
+<http://experiment.worldcat.org/entity/work/data/22231208#Topic/fysiologie> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/22231208#Topic/fysiologie> <http://schema.org/name> "Fysiologie"@en .
+<http://experiment.worldcat.org/entity/work/data/22231208#Topic/biologie_du_developpement> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/22231208#Topic/biologie_du_developpement> <http://schema.org/name> "Biologie du développement"@fr .
+<http://experiment.worldcat.org/entity/work/data/22231208#Topic/voortplanting_biologie> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/22231208#Topic/voortplanting_biologie> <http://schema.org/name> "Voortplanting (biologie)"@en .
+<http://experiment.worldcat.org/entity/work/data/22231208#Agent/elsevier> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bibliograph.net/Agent> .
+<http://experiment.worldcat.org/entity/work/data/22231208#Agent/elsevier> <http://schema.org/name> "Elsevier" .
+<http://experiment.worldcat.org/entity/work/data/22231208#Place/paris_france> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://experiment.worldcat.org/entity/work/data/22231208#Place/paris_france> <http://schema.org/name> "Paris, France" .
+<http://experiment.worldcat.org/entity/work/data/22231208#Topic/animal_population_groups_growth_&_development> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/22231208#Topic/animal_population_groups_growth_&_development> <http://schema.org/name> "Animal Population Groups--growth & development"@en .
+<http://www.worldcat.org/oclc/1034281250> <http://schema.org/url> <http://catalog.hathitrust.org/api/volumes/oclc/20224294.html> .
+<http://www.worldcat.org/oclc/1034281250> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/22231208#Topic/veeteelt> .
+<http://www.worldcat.org/oclc/1034281250> <http://schema.org/copyrightYear> "1989/2006" .
+<http://www.worldcat.org/oclc/1034281250> <http://schema.org/inLanguage> "en" .
+<http://www.worldcat.org/oclc/1034281250> <http://schema.org/publisher> <http://experiment.worldcat.org/entity/work/data/22231208#Agent/elsevier> .
+<http://www.worldcat.org/oclc/1034281250> <http://schema.org/name> "Reproduction, nutrition, development"@en .
+<http://www.worldcat.org/oclc/1034281250> <http://purl.org/library/placeOfPublication> <http://id.loc.gov/vocabulary/countries/fr> .
+<http://www.worldcat.org/oclc/1034281250> <http://schema.org/alternateName> "RND" .
+<http://www.worldcat.org/oclc/1034281250> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/MediaObject> .
+<http://www.worldcat.org/oclc/1034281250> <http://schema.org/publication> <http://www.worldcat.org/title/-/oclc/1034281250#PublicationEvent/paris_france_elsevier_inra_1989_2006> .
+<http://www.worldcat.org/oclc/1034281250> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://www.worldcat.org/oclc/1034281250> <http://schema.org/url> <http://books.google.com/books?id=6WaLihPRILcC> .
+<http://www.worldcat.org/oclc/1034281250> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/22231208#Topic/animal_nutritional_physiological_phenomena> .
+<http://www.worldcat.org/oclc/1034281250> <http://schema.org/url> <http://mclink.library.mcgill.ca/sfx?url_ver=Z39.88-2004&ctx_ver=Z39.88-2004&ctx_enc=info:ofi/enc:UTF-8&rfr_id=info:sid/sfxit.com:opac_856&url_ctx_fmt=info:ofi/fmt:kev:mtx:ctx&svc_val_fmt=info:ofi/fmt:kev:mtx:sch_svc&sfx.ignore_date_threshold=1&rft.object_id=954925567757> .
+<http://www.worldcat.org/oclc/1034281250> <http://purl.org/library/oclcnum> "1034281250" .
+<http://www.worldcat.org/oclc/1034281250> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/22231208#Topic/reproduction> .
+<http://www.worldcat.org/oclc/1034281250> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/22231208#Topic/nutrition> .
+<http://www.worldcat.org/oclc/1034281250> <http://schema.org/productID> "1034281250" .
+<http://www.worldcat.org/oclc/1034281250> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/22231208#Topic/physiologie_veterinaire> .
+<http://www.worldcat.org/oclc/1034281250> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/22231208#Topic/biologie_du_developpement> .
+<http://www.worldcat.org/oclc/1034281250> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/22231208#Topic/voortplanting_biologie> .
+<http://www.worldcat.org/oclc/1034281250> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/22231208#Topic/nutritional_physiological_phenomena> .
+<http://www.worldcat.org/oclc/1034281250> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/22231208#Topic/fysiologie> .
+<http://www.worldcat.org/oclc/1034281250> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://www.worldcat.org/oclc/1034281250> <http://schema.org/publisher> <http://experiment.worldcat.org/entity/work/data/22231208#Agent/inra> .
+<http://www.worldcat.org/oclc/1034281250> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/22231208#Topic/animal_population_groups_growth_&_development> .
+<http://www.worldcat.org/oclc/1034281250> <http://schema.org/contributor> <http://experiment.worldcat.org/entity/work/data/22231208#Organization/institut_national_de_la_recherche_agronomique_france> .
+<http://www.worldcat.org/oclc/1034281250> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/22231208#Topic/human_development> .
+<http://www.worldcat.org/oclc/1034281250> <http://schema.org/datePublished> "1989/2006" .
+<http://www.worldcat.org/oclc/1034281250> <http://schema.org/url> <http://www.library.yorku.ca/eresolver/?id=63878> .
+<http://www.worldcat.org/oclc/1034281250> <http://schema.org/isSimilarTo> <http://www.worldcat.org/oclc/20224294> .
+<http://www.worldcat.org/oclc/1034281250> <http://schema.org/exampleOfWork> <http://worldcat.org/entity/work/id/22231208> .
+<http://www.worldcat.org/oclc/1034281250> <http://purl.org/library/placeOfPublication> <http://experiment.worldcat.org/entity/work/data/22231208#Place/paris_france> .
+<http://www.worldcat.org/oclc/1034281250> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/22231208#Topic/dierkunde> .
+<http://www.worldcat.org/oclc/1034281250> <http://schema.org/url> <http://www.library.yorku.ca/eresolver/?id=5445> .
+<http://www.worldcat.org/oclc/1034281250> <http://schema.org/url> <http://resolver.library.ualberta.ca/resolver?ctx_enc=info:ofi/enc:UTF-8&ctx_ver=Z39.88-2004&rfr_id=info:sid/ualberta.ca:opac&rft.genre=journal&rft.object_id=954925567757&rft.issn=0926-5287&rft.eissn=1297-9708&rft_val_fmt=info:ofi/fmt:kev:mtx:journal&url_ctx_fmt=info:ofi/fmt:kev:mtx:ctx&url_ver=Z39.88-2004> .
+<http://www.worldcat.org/oclc/1034281250> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/22231208#Topic/zoology> .
+<http://www.worldcat.org/oclc/1034281250> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/22231208#Topic/developmental_biology> .
+<http://www.worldcat.org/oclc/1034281250> <http://schema.org/genre> "Periodical"@en .
+<http://www.worldcat.org/oclc/1034281250> <http://schema.org/genre> "Periodicals"@en .
+<http://www.worldcat.org/oclc/1034281250> <http://schema.org/url> <http://books.google.com/books?id=abvXevhQ2YcC> .
+<http://www.worldcat.org/oclc/1034281250> <http://www.w3.org/2007/05/powder-s#describedby> <http://www.worldcat.org/title/-/oclc/1034281250> .
+<http://www.worldcat.org/oclc/1034281250> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/22231208#Topic/animal_nutrition> .
+<http://www.library.yorku.ca/eresolver/?id=5445> <http://www.w3.org/2000/01/rdf-schema#comment> "(Elsevier Journals)" .

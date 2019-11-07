@@ -1,0 +1,32 @@
+<http://www.library.yorku.ca/eresolver/?id=1065078> <http://www.w3.org/2000/01/rdf-schema#comment> "(JSTOR)" .
+<http://experiment.worldcat.org/entity/work/data/195570563#Topic/botany> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/195570563#Topic/botany> <http://schema.org/name> "Botany"@en .
+<http://www.worldcat.org/title/-/oclc/830947746> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#ContentTypeGenericResource> .
+<http://www.worldcat.org/title/-/oclc/830947746> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#InformationResource> .
+<http://www.worldcat.org/title/-/oclc/830947746> <http://schema.org/about> <http://www.worldcat.org/oclc/830947746> .
+<http://www.worldcat.org/title/-/oclc/830947746> <http://schema.org/dateModified> "2019-02-09" .
+<http://www.worldcat.org/title/-/oclc/830947746> <http://rdfs.org/ns/void#inDataset> <http://purl.oclc.org/dataset/WorldCat> .
+<http://www.worldcat.org/title/-/oclc/830947746#PublicationEvent/botanischer_garten_u_botanisches_museum> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PublicationEvent> .
+<http://www.worldcat.org/title/-/oclc/830947746#PublicationEvent/botanischer_garten_u_botanisches_museum> <http://schema.org/organizer> <http://experiment.worldcat.org/entity/work/data/195570563#Agent/botanischer_garten_u_botanisches_museum> .
+<http://www.jstor.org/journal/notikonibotagart> <http://www.w3.org/2000/01/rdf-schema#comment> "View journal online via JSTOR Biological Sciences Archive Collection (1895 - 1944)" .
+<http://www.worldcat.org/oclc/830947746> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/MediaObject> .
+<http://www.worldcat.org/oclc/830947746> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/195570563#Topic/botany> .
+<http://www.worldcat.org/oclc/830947746> <http://schema.org/exampleOfWork> <http://worldcat.org/entity/work/id/195570563> .
+<http://www.worldcat.org/oclc/830947746> <http://schema.org/datePublished> "uuuu/9999" .
+<http://www.worldcat.org/oclc/830947746> <http://schema.org/url> <http://www.jstor.org/journal/notikonibotagart> .
+<http://www.worldcat.org/oclc/830947746> <http://purl.org/library/oclcnum> "830947746" .
+<http://www.worldcat.org/oclc/830947746> <http://schema.org/url> <http://www.jstor.org/action/showPublication?journalCode=notikonibotagart> .
+<http://www.worldcat.org/oclc/830947746> <http://schema.org/productID> "830947746" .
+<http://www.worldcat.org/oclc/830947746> <http://www.w3.org/2007/05/powder-s#describedby> <http://www.worldcat.org/title/-/oclc/830947746> .
+<http://www.worldcat.org/oclc/830947746> <http://schema.org/publisher> <http://experiment.worldcat.org/entity/work/data/195570563#Agent/botanischer_garten_u_botanisches_museum> .
+<http://www.worldcat.org/oclc/830947746> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://www.worldcat.org/oclc/830947746> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://www.worldcat.org/oclc/830947746> <http://schema.org/publication> <http://www.worldcat.org/title/-/oclc/830947746#PublicationEvent/botanischer_garten_u_botanisches_museum> .
+<http://www.worldcat.org/oclc/830947746> <http://schema.org/genre> "Periodicals"@en .
+<http://www.worldcat.org/oclc/830947746> <http://schema.org/url> <http://www.library.yorku.ca/eresolver/?id=1065078> .
+<http://www.worldcat.org/oclc/830947746> <http://schema.org/name> "Notizblatt des Königl. botanischen Gartens und Museums zu Berlin."@en .
+<http://www.worldcat.org/oclc/830947746> <http://schema.org/inLanguage> "en" .
+<http://experiment.worldcat.org/entity/work/data/195570563#Agent/botanischer_garten_u_botanisches_museum> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bibliograph.net/Agent> .
+<http://experiment.worldcat.org/entity/work/data/195570563#Agent/botanischer_garten_u_botanisches_museum> <http://schema.org/name> "Botanischer Garten u Botanisches Museum." .
+<http://www.jstor.org/action/showPublication?journalCode=notikonibotagart> <http://www.w3.org/2000/01/rdf-schema#comment> "Full text available in JSTOR Biological Sciences Archive Collection" .
+<http://www.jstor.org/action/showPublication?journalCode=notikonibotagart> <http://www.w3.org/2000/01/rdf-schema#comment> "Full text available in JSTOR Life Sciences Archive Collection" .

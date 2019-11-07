@@ -1,0 +1,48 @@
+<http://www.worldcat.org/title/-/oclc/263597067> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#ContentTypeGenericResource> .
+<http://www.worldcat.org/title/-/oclc/263597067> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#InformationResource> .
+<http://www.worldcat.org/title/-/oclc/263597067> <http://schema.org/about> <http://www.worldcat.org/oclc/263597067> .
+<http://www.worldcat.org/title/-/oclc/263597067> <http://schema.org/dateModified> "2018-11-09" .
+<http://www.worldcat.org/title/-/oclc/263597067> <http://rdfs.org/ns/void#inDataset> <http://purl.oclc.org/dataset/WorldCat> .
+<http://www.worldcat.org/oclc/263597067> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://www.worldcat.org/oclc/263597067> <http://schema.org/alternateName> "Proceedings of the Academy of Natural Sciences of Philadelphia" .
+<http://www.worldcat.org/oclc/263597067> <http://schema.org/name> "Proceedings of the Academy of Natural Sciences" .
+<http://www.worldcat.org/oclc/263597067> <http://schema.org/inLanguage> "en" .
+<http://www.worldcat.org/oclc/263597067> <http://schema.org/publisher> <http://experiment.worldcat.org/entity/work/data/4535808012#Agent/acad_of_natural_sciences> .
+<http://www.worldcat.org/oclc/263597067> <http://schema.org/creator> <http://viaf.org/viaf/130770679> .
+<http://www.worldcat.org/oclc/263597067> <http://schema.org/isSimilarTo> <http://worldcat.org/entity/work/data/4535808012#CreativeWork/proceedings_of_the_academy_of_natural_sciences_of_philadelphia> .
+<http://www.worldcat.org/oclc/263597067> <http://schema.org/workExample> <http://worldcat.org/issn/0097-3157> .
+<http://www.worldcat.org/oclc/263597067> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://www.worldcat.org/oclc/263597067> <http://schema.org/datePublished> "1841/9999" .
+<http://www.worldcat.org/oclc/263597067> <http://purl.org/library/placeOfPublication> <http://id.loc.gov/vocabulary/countries/pau> .
+<http://www.worldcat.org/oclc/263597067> <http://purl.org/library/placeOfPublication> <http://experiment.worldcat.org/entity/work/data/4535808012#Place/philadelphia_pa> .
+<http://www.worldcat.org/oclc/263597067> <http://schema.org/exampleOfWork> <http://worldcat.org/entity/work/id/4535808012> .
+<http://www.worldcat.org/oclc/263597067> <http://umbel.org/umbel#isLike> <http://d-nb.info/011209585> .
+<http://www.worldcat.org/oclc/263597067> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/4535808012#Topic/naturwissenschaften> .
+<http://www.worldcat.org/oclc/263597067> <http://purl.org/library/oclcnum> "263597067" .
+<http://www.worldcat.org/oclc/263597067> <http://schema.org/publication> <http://www.worldcat.org/title/-/oclc/263597067#PublicationEvent/philadelphia_pa_acad_of_natural_sciences_1841> .
+<http://www.worldcat.org/oclc/263597067> <http://schema.org/datePublished> "1841/" .
+<http://www.worldcat.org/oclc/263597067> <http://schema.org/productID> "263597067" .
+<http://www.worldcat.org/oclc/263597067> <http://www.w3.org/2007/05/powder-s#describedby> <http://www.worldcat.org/title/-/oclc/263597067> .
+<http://viaf.org/viaf/130770679> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+<http://viaf.org/viaf/130770679> <http://schema.org/name> "Academy of Natural Sciences (Philadelphia, Pa.)" .
+<http://experiment.worldcat.org/entity/work/data/4535808012#Topic/naturwissenschaften> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/4535808012#Topic/naturwissenschaften> <http://schema.org/name> "Naturwissenschaften" .
+<http://worldcat.org/entity/work/data/4535808012#CreativeWork/proceedings_of_the_academy_of_natural_sciences_of_philadelphia> <http://schema.org/isSimilarTo> <http://www.worldcat.org/oclc/263597067> .
+<http://worldcat.org/entity/work/data/4535808012#CreativeWork/proceedings_of_the_academy_of_natural_sciences_of_philadelphia> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://worldcat.org/entity/work/data/4535808012#CreativeWork/proceedings_of_the_academy_of_natural_sciences_of_philadelphia> <http://www.w3.org/2000/01/rdf-schema#label> "Proceedings of the Academy of Natural Sciences of Philadelphia" .
+<http://worldcat.org/entity/work/data/4535808012#CreativeWork/proceedings_of_the_academy_of_natural_sciences_of_philadelphia> <http://schema.org/description> "Internetausg." .
+<http://id.loc.gov/vocabulary/countries/pau> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://id.loc.gov/vocabulary/countries/pau> <http://purl.org/dc/terms/identifier> "pau" .
+<http://worldcat.org/issn/0097-3157> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://worldcat.org/issn/0097-3157> <http://schema.org/name> "Proceedings of the Academy of Natural Sciences" .
+<http://worldcat.org/issn/0097-3157> <http://schema.org/issn> "0097-3157" .
+<http://worldcat.org/issn/0097-3157> <http://umbel.org/umbel#isLike> <http://worldcat.org/entity/work/id/4535808012> .
+<http://experiment.worldcat.org/entity/work/data/4535808012#Agent/acad_of_natural_sciences> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bibliograph.net/Agent> .
+<http://experiment.worldcat.org/entity/work/data/4535808012#Agent/acad_of_natural_sciences> <http://schema.org/name> "Acad. of Natural Sciences" .
+<http://www.worldcat.org/title/-/oclc/263597067#PublicationEvent/philadelphia_pa_acad_of_natural_sciences_1841> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PublicationEvent> .
+<http://www.worldcat.org/title/-/oclc/263597067#PublicationEvent/philadelphia_pa_acad_of_natural_sciences_1841> <http://schema.org/location> <http://experiment.worldcat.org/entity/work/data/4535808012#Place/philadelphia_pa> .
+<http://www.worldcat.org/title/-/oclc/263597067#PublicationEvent/philadelphia_pa_acad_of_natural_sciences_1841> <http://schema.org/organizer> <http://experiment.worldcat.org/entity/work/data/4535808012#Agent/acad_of_natural_sciences> .
+<http://www.worldcat.org/title/-/oclc/263597067#PublicationEvent/philadelphia_pa_acad_of_natural_sciences_1841> <http://schema.org/startDate> "1841-" .
+<http://worldcat.org/entity/work/id/4535808012> <http://umbel.org/umbel#isLike> <http://worldcat.org/issn/0097-3157> .
+<http://experiment.worldcat.org/entity/work/data/4535808012#Place/philadelphia_pa> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://experiment.worldcat.org/entity/work/data/4535808012#Place/philadelphia_pa> <http://schema.org/name> "Philadelphia, Pa." .

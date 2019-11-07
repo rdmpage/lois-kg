@@ -1,0 +1,63 @@
+<http://experiment.worldcat.org/entity/work/data/9614328402#Topic/biology> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/9614328402#Topic/biology> <http://schema.org/name> "Biology"@en .
+<http://experiment.worldcat.org/entity/work/data/9614328402#Place/rio_de_janeiro> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://experiment.worldcat.org/entity/work/data/9614328402#Place/rio_de_janeiro> <http://schema.org/name> "Rio de Janeiro." .
+<http://worldcat.org/entity/work/id/9614328402> <http://umbel.org/umbel#isLike> <http://worldcat.org/issn/0074-0276> .
+<http://experiment.worldcat.org/entity/work/data/9614328402#Topic/medicine_brazil> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/9614328402#Topic/medicine_brazil> <http://schema.org/name> "Medicine--Brazil"@en .
+<http://experiment.worldcat.org/entity/work/data/9614328402#Agent/publisher_not_identified> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bibliograph.net/Agent> .
+<http://experiment.worldcat.org/entity/work/data/9614328402#Agent/publisher_not_identified> <http://schema.org/name> "[publisher not identified]" .
+<http://experiment.worldcat.org/entity/work/data/9614328402#Topic/parasitology> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/9614328402#Topic/parasitology> <http://schema.org/name> "Parasitology"@en .
+<http://experiment.worldcat.org/entity/work/data/9614328402#Place/brazil> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://experiment.worldcat.org/entity/work/data/9614328402#Place/brazil> <http://schema.org/name> "Brazil." .
+<http://id.loc.gov/vocabulary/countries/bl> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://id.loc.gov/vocabulary/countries/bl> <http://purl.org/dc/terms/identifier> "bl" .
+<http://worldcat.org/issn/0074-0276> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://worldcat.org/issn/0074-0276> <http://schema.org/name> "Memórias do Instituto Oswaldo Cruz."@en .
+<http://worldcat.org/issn/0074-0276> <http://schema.org/issn> "0074-0276" .
+<http://worldcat.org/issn/0074-0276> <http://umbel.org/umbel#isLike> <http://worldcat.org/entity/work/id/9614328402> .
+<https://login.libproxy.uregina.ca:8443/login?url=http://www.ncbi.nlm.nih.gov/pmc/journals/2285/> <http://www.w3.org/2000/01/rdf-schema#comment> "Full text available from PubMed Central: 2013 to present" .
+<http://www.scielo.br/scielo.php?script=sci_issues&pid=0074-0276&lng=en&nrm=iso> <http://www.w3.org/2000/01/rdf-schema#comment> "Freely available from Freely Accessible Science Journals: 1996 to present" .
+<http://www.worldcat.org/oclc/1126197822> <http://purl.org/library/oclcnum> "1126197822" .
+<http://www.worldcat.org/oclc/1126197822> <http://purl.org/library/placeOfPublication> <http://experiment.worldcat.org/entity/work/data/9614328402#Place/rio_de_janeiro> .
+<http://www.worldcat.org/oclc/1126197822> <http://schema.org/url> <http://www.scielo.br/scielo.php?script=sci_issues&pid=0074-0276&lng=en&nrm=iso> .
+<http://www.worldcat.org/oclc/1126197822> <http://schema.org/genre> "Periodicals"@en .
+<http://www.worldcat.org/oclc/1126197822> <http://schema.org/publisher> <http://experiment.worldcat.org/entity/work/data/9614328402#Agent/publisher_not_identified> .
+<http://www.worldcat.org/oclc/1126197822> <http://schema.org/url> <https://login.libproxy.uregina.ca:8443/login?url=http://www.ncbi.nlm.nih.gov/pmc/journals/2285/> .
+<http://www.worldcat.org/oclc/1126197822> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/9614328402#Place/brazil> .
+<http://www.worldcat.org/oclc/1126197822> <http://schema.org/exampleOfWork> <http://worldcat.org/entity/work/id/9614328402> .
+<http://www.worldcat.org/oclc/1126197822> <http://schema.org/publication> <http://www.worldcat.org/title/-/oclc/1126197822#PublicationEvent/rio_de_janeiro_publisher_not_identified_1909> .
+<http://www.worldcat.org/oclc/1126197822> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/MediaObject> .
+<http://www.worldcat.org/oclc/1126197822> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/9614328402#Topic/parasitology> .
+<http://www.worldcat.org/oclc/1126197822> <http://schema.org/genre> "series"@en .
+<http://www.worldcat.org/oclc/1126197822> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/9614328402#Topic/medicine> .
+<http://www.worldcat.org/oclc/1126197822> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/9614328402#Topic/medicine_brazil> .
+<http://www.worldcat.org/oclc/1126197822> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/9614328402#Topic/59_06_81_a> .
+<http://www.worldcat.org/oclc/1126197822> <http://www.w3.org/2007/05/powder-s#describedby> <http://www.worldcat.org/title/-/oclc/1126197822> .
+<http://www.worldcat.org/oclc/1126197822> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/9614328402#Topic/biology> .
+<http://www.worldcat.org/oclc/1126197822> <http://schema.org/name> "Memórias do Instituto Oswaldo Cruz."@en .
+<http://www.worldcat.org/oclc/1126197822> <http://schema.org/datePublished> "1909" .
+<http://www.worldcat.org/oclc/1126197822> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://www.worldcat.org/oclc/1126197822> <http://purl.org/library/placeOfPublication> <http://id.loc.gov/vocabulary/countries/bl> .
+<http://www.worldcat.org/oclc/1126197822> <http://schema.org/productID> "1126197822" .
+<http://www.worldcat.org/oclc/1126197822> <http://schema.org/url> <https://www.biodiversitylibrary.org/bibliography/13264> .
+<http://www.worldcat.org/oclc/1126197822> <http://schema.org/workExample> <http://worldcat.org/issn/0074-0276> .
+<http://www.worldcat.org/oclc/1126197822> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://www.worldcat.org/oclc/1126197822> <http://schema.org/contributor> <http://experiment.worldcat.org/entity/work/data/9614328402#Organization/instituto_oswaldo_cruz> .
+<http://www.worldcat.org/oclc/1126197822> <http://schema.org/inLanguage> "en" .
+<http://experiment.worldcat.org/entity/work/data/9614328402#Topic/medicine> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/9614328402#Topic/medicine> <http://schema.org/name> "Medicine"@en .
+<http://experiment.worldcat.org/entity/work/data/9614328402#Topic/59_06_81_a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/9614328402#Topic/59_06_81_a> <http://schema.org/name> "59.06(81)A"@en .
+<http://www.worldcat.org/title/-/oclc/1126197822#PublicationEvent/rio_de_janeiro_publisher_not_identified_1909> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PublicationEvent> .
+<http://www.worldcat.org/title/-/oclc/1126197822#PublicationEvent/rio_de_janeiro_publisher_not_identified_1909> <http://schema.org/location> <http://experiment.worldcat.org/entity/work/data/9614328402#Place/rio_de_janeiro> .
+<http://www.worldcat.org/title/-/oclc/1126197822#PublicationEvent/rio_de_janeiro_publisher_not_identified_1909> <http://schema.org/organizer> <http://experiment.worldcat.org/entity/work/data/9614328402#Agent/publisher_not_identified> .
+<http://www.worldcat.org/title/-/oclc/1126197822#PublicationEvent/rio_de_janeiro_publisher_not_identified_1909> <http://schema.org/startDate> "1909" .
+<http://www.worldcat.org/title/-/oclc/1126197822> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#ContentTypeGenericResource> .
+<http://www.worldcat.org/title/-/oclc/1126197822> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#InformationResource> .
+<http://www.worldcat.org/title/-/oclc/1126197822> <http://schema.org/about> <http://www.worldcat.org/oclc/1126197822> .
+<http://www.worldcat.org/title/-/oclc/1126197822> <http://schema.org/dateModified> "2019-11-04" .
+<http://www.worldcat.org/title/-/oclc/1126197822> <http://rdfs.org/ns/void#inDataset> <http://purl.oclc.org/dataset/WorldCat> .
+<http://experiment.worldcat.org/entity/work/data/9614328402#Organization/instituto_oswaldo_cruz> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+<http://experiment.worldcat.org/entity/work/data/9614328402#Organization/instituto_oswaldo_cruz> <http://schema.org/name> "Instituto Oswaldo Cruz," .

@@ -1,0 +1,65 @@
+<http://experiment.worldcat.org/entity/work/data/3145808067#Agent/cramer> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bibliograph.net/Agent> .
+<http://experiment.worldcat.org/entity/work/data/3145808067#Agent/cramer> <http://schema.org/name> "Cramer." .
+<http://experiment.worldcat.org/entity/work/data/3145808067#Thing/systematics_taxonomy_and_relationship_botany_and_palaeobotany> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> .
+<http://experiment.worldcat.org/entity/work/data/3145808067#Thing/systematics_taxonomy_and_relationship_botany_and_palaeobotany> <http://schema.org/name> "SYSTEMATICS, TAXONOMY AND RELATIONSHIP (BOTANY AND PALAEOBOTANY)" .
+<http://worldcat.org/entity/work/id/3145808067> <http://umbel.org/umbel#isLike> <http://worldcat.org/issn/1438-9134> .
+<http://experiment.worldcat.org/entity/work/data/3145808067#Thing/cryptogamae_botany> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> .
+<http://experiment.worldcat.org/entity/work/data/3145808067#Thing/cryptogamae_botany> <http://schema.org/name> "CRYPTOGAMAE (BOTANY)" .
+<http://id.loc.gov/vocabulary/countries/gw> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://id.loc.gov/vocabulary/countries/gw> <http://purl.org/dc/terms/identifier> "gw" .
+<http://experiment.worldcat.org/entity/work/data/3145808067#Thing/systematik_taxonomie_und_verwandtschaft_botanik_und_palaobotanik> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> .
+<http://experiment.worldcat.org/entity/work/data/3145808067#Thing/systematik_taxonomie_und_verwandtschaft_botanik_und_palaobotanik> <http://schema.org/name> "SYSTEMATIK, TAXONOMIE UND VERWANDTSCHAFT (BOTANIK UND PALÄOBOTANIK)" .
+<http://www.worldcat.org/title/-/oclc/729353581#PublicationEvent/berlin_cramer> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PublicationEvent> .
+<http://www.worldcat.org/title/-/oclc/729353581#PublicationEvent/berlin_cramer> <http://schema.org/location> <http://experiment.worldcat.org/entity/work/data/3145808067#Place/berlin> .
+<http://www.worldcat.org/title/-/oclc/729353581#PublicationEvent/berlin_cramer> <http://schema.org/organizer> <http://experiment.worldcat.org/entity/work/data/3145808067#Agent/cramer> .
+<http://www.worldcat.org/title/-/oclc/729353581> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#ContentTypeGenericResource> .
+<http://www.worldcat.org/title/-/oclc/729353581> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#InformationResource> .
+<http://www.worldcat.org/title/-/oclc/729353581> <http://schema.org/about> <http://www.worldcat.org/oclc/729353581> .
+<http://www.worldcat.org/title/-/oclc/729353581> <http://schema.org/dateModified> "2018-11-10" .
+<http://www.worldcat.org/title/-/oclc/729353581> <http://rdfs.org/ns/void#inDataset> <http://purl.oclc.org/dataset/WorldCat> .
+<http://experiment.worldcat.org/entity/work/data/3145808067#Thing/systematique_taxonomie_et_affinite_botanique_et_paleobotanique> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> .
+<http://experiment.worldcat.org/entity/work/data/3145808067#Thing/systematique_taxonomie_et_affinite_botanique_et_paleobotanique> <http://schema.org/name> "SYSTÉMATIQUE, TAXONOMIE ET AFFINITÉ (BOTANIQUE ET PALÉOBOTANIQUE)" .
+<http://experiment.worldcat.org/entity/work/data/3145808067#Thing/cryptogamae_botanique> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> .
+<http://experiment.worldcat.org/entity/work/data/3145808067#Thing/cryptogamae_botanique> <http://schema.org/name> "CRYPTOGAMAE (BOTANIQUE)" .
+<http://experiment.worldcat.org/entity/work/data/3145808067#Thing/flora_geobotanik> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> .
+<http://experiment.worldcat.org/entity/work/data/3145808067#Thing/flora_geobotanik> <http://schema.org/name> "FLORA (GEOBOTANIK)" .
+<http://experiment.worldcat.org/entity/work/data/3145808067#Topic/kryptogamen> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/3145808067#Topic/kryptogamen> <http://schema.org/name> "Kryptogamen" .
+<http://experiment.worldcat.org/entity/work/data/3145808067#Thing/flore_geobotanique> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> .
+<http://experiment.worldcat.org/entity/work/data/3145808067#Thing/flore_geobotanique> <http://schema.org/name> "FLORE (GÉOBOTANIQUE)" .
+<http://experiment.worldcat.org/entity/work/data/3145808067#Thing/cryptogamae_botanik> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> .
+<http://experiment.worldcat.org/entity/work/data/3145808067#Thing/cryptogamae_botanik> <http://schema.org/name> "CRYPTOGAMAE (BOTANIK)" .
+<http://www.worldcat.org/oclc/729353581> <http://schema.org/publisher> <http://experiment.worldcat.org/entity/work/data/3145808067#Agent/cramer> .
+<http://www.worldcat.org/oclc/729353581> <http://schema.org/publication> <http://www.worldcat.org/title/-/oclc/729353581#PublicationEvent/berlin_cramer> .
+<http://www.worldcat.org/oclc/729353581> <http://schema.org/datePublished> "1993/9999" .
+<http://www.worldcat.org/oclc/729353581> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/3145808067#Thing/flora_geobotany> .
+<http://www.worldcat.org/oclc/729353581> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/3145808067#Thing/cryptogamae_botanique> .
+<http://www.worldcat.org/oclc/729353581> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bibliograph.net/PublicationSeries> .
+<http://www.worldcat.org/oclc/729353581> <http://www.w3.org/2007/05/powder-s#describedby> <http://www.worldcat.org/title/-/oclc/729353581> .
+<http://www.worldcat.org/oclc/729353581> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/3145808067#Thing/systematique_taxonomie_et_affinite_botanique_et_paleobotanique> .
+<http://www.worldcat.org/oclc/729353581> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/3145808067#Thing/cryptogamae_botany> .
+<http://www.worldcat.org/oclc/729353581> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/3145808067#Thing/systematics_taxonomy_and_relationship_botany_and_palaeobotany> .
+<http://www.worldcat.org/oclc/729353581> <http://purl.org/library/placeOfPublication> <http://experiment.worldcat.org/entity/work/data/3145808067#Place/berlin> .
+<http://www.worldcat.org/oclc/729353581> <http://schema.org/genre> "Schriftenreihe" .
+<http://www.worldcat.org/oclc/729353581> <http://schema.org/inLanguage> "en" .
+<http://www.worldcat.org/oclc/729353581> <http://schema.org/name> "Nova Hedwigia. Beiheft." .
+<http://www.worldcat.org/oclc/729353581> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/3145808067#Thing/systematik_taxonomie_und_verwandtschaft_botanik_und_palaobotanik> .
+<http://www.worldcat.org/oclc/729353581> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/3145808067#Thing/flora_geobotanik> .
+<http://www.worldcat.org/oclc/729353581> <http://schema.org/productID> "729353581" .
+<http://www.worldcat.org/oclc/729353581> <http://purl.org/library/oclcnum> "729353581" .
+<http://www.worldcat.org/oclc/729353581> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://www.worldcat.org/oclc/729353581> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/3145808067#Topic/kryptogamen> .
+<http://www.worldcat.org/oclc/729353581> <http://schema.org/workExample> <http://worldcat.org/issn/1438-9134> .
+<http://www.worldcat.org/oclc/729353581> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/3145808067#Thing/flore_geobotanique> .
+<http://www.worldcat.org/oclc/729353581> <http://schema.org/exampleOfWork> <http://worldcat.org/entity/work/id/3145808067> .
+<http://www.worldcat.org/oclc/729353581> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://www.worldcat.org/oclc/729353581> <http://purl.org/library/placeOfPublication> <http://id.loc.gov/vocabulary/countries/gw> .
+<http://www.worldcat.org/oclc/729353581> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/3145808067#Thing/cryptogamae_botanik> .
+<http://experiment.worldcat.org/entity/work/data/3145808067#Place/berlin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://experiment.worldcat.org/entity/work/data/3145808067#Place/berlin> <http://schema.org/name> "Berlin" .
+<http://worldcat.org/issn/1438-9134> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://worldcat.org/issn/1438-9134> <http://schema.org/name> "Nova Hedwigia. Beiheft." .
+<http://worldcat.org/issn/1438-9134> <http://schema.org/issn> "1438-9134" .
+<http://worldcat.org/issn/1438-9134> <http://umbel.org/umbel#isLike> <http://worldcat.org/entity/work/id/3145808067> .
+<http://experiment.worldcat.org/entity/work/data/3145808067#Thing/flora_geobotany> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> .
+<http://experiment.worldcat.org/entity/work/data/3145808067#Thing/flora_geobotany> <http://schema.org/name> "FLORA (GEOBOTANY)" .

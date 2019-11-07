@@ -1,0 +1,63 @@
+<https://archive.org/details/adansoniarecueil05bail> <http://www.w3.org/2000/01/rdf-schema#comment> "Free eBook from the Internet Archive" .
+<http://experiment.worldcat.org/entity/work/data/3859747063#Person/baillon_h_henri_1827_1895> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+<http://experiment.worldcat.org/entity/work/data/3859747063#Person/baillon_h_henri_1827_1895> <http://schema.org/familyName> "Baillon" .
+<http://experiment.worldcat.org/entity/work/data/3859747063#Person/baillon_h_henri_1827_1895> <http://schema.org/givenName> "H." .
+<http://experiment.worldcat.org/entity/work/data/3859747063#Person/baillon_h_henri_1827_1895> <http://schema.org/givenName> "Henri" .
+<http://experiment.worldcat.org/entity/work/data/3859747063#Person/baillon_h_henri_1827_1895> <http://schema.org/name> "Henri Baillon" .
+<http://experiment.worldcat.org/entity/work/data/3859747063#Person/baillon_h_henri_1827_1895> <http://schema.org/birthDate> "1827" .
+<http://experiment.worldcat.org/entity/work/data/3859747063#Person/baillon_h_henri_1827_1895> <http://schema.org/deathDate> "1895" .
+<http://www.worldcat.org/oclc/5519009> <http://schema.org/isSimilarTo> <http://www.worldcat.org/oclc/874776796> .
+<http://www.worldcat.org/oclc/5519009> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://www.worldcat.org/oclc/5519009> <http://www.w3.org/2000/01/rdf-schema#label> "Adansonia" .
+<http://www.worldcat.org/oclc/5519009> <http://schema.org/description> "Print version:" .
+<https://archive.org/details/adansoniarecueil06bail> <http://www.w3.org/2000/01/rdf-schema#comment> "Free eBook from the Internet Archive" .
+<http://id.loc.gov/vocabulary/countries/fr> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://id.loc.gov/vocabulary/countries/fr> <http://purl.org/dc/terms/identifier> "fr" .
+<http://www.worldcat.org/title/-/oclc/874776796> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#ContentTypeGenericResource> .
+<http://www.worldcat.org/title/-/oclc/874776796> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#InformationResource> .
+<http://www.worldcat.org/title/-/oclc/874776796> <http://schema.org/about> <http://www.worldcat.org/oclc/874776796> .
+<http://www.worldcat.org/title/-/oclc/874776796> <http://schema.org/dateModified> "2019-11-05" .
+<http://www.worldcat.org/title/-/oclc/874776796> <http://rdfs.org/ns/void#inDataset> <http://purl.oclc.org/dataset/WorldCat> .
+<https://archive.org/details/adansoniarecueil10bail> <http://www.w3.org/2000/01/rdf-schema#comment> "Free eBook from the Internet Archive" .
+<http://experiment.worldcat.org/entity/work/data/3859747063#Place/paris_france> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://experiment.worldcat.org/entity/work/data/3859747063#Place/paris_france> <http://schema.org/name> "Paris, France" .
+<https://archive.org/details/adansoniarecueil07bail> <http://www.w3.org/2000/01/rdf-schema#comment> "Free eBook from the Internet Archive" .
+<https://archive.org/details/adansoniarecueil09bail> <http://www.w3.org/2000/01/rdf-schema#comment> "Free eBook from the Internet Archive" .
+<https://archive.org/details/adansoniarecueil11bail> <http://www.w3.org/2000/01/rdf-schema#comment> "Free eBook from the Internet Archive" .
+<http://experiment.worldcat.org/entity/work/data/3859747063#Topic/botany> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/3859747063#Topic/botany> <http://schema.org/name> "Botany" .
+<http://www.worldcat.org/title/-/oclc/874776796#PublicationEvent/paris_france_h_baillon_et_f_savy> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PublicationEvent> .
+<http://www.worldcat.org/title/-/oclc/874776796#PublicationEvent/paris_france_h_baillon_et_f_savy> <http://schema.org/location> <http://experiment.worldcat.org/entity/work/data/3859747063#Place/paris_france> .
+<http://www.worldcat.org/title/-/oclc/874776796#PublicationEvent/paris_france_h_baillon_et_f_savy> <http://schema.org/organizer> <http://experiment.worldcat.org/entity/work/data/3859747063#Agent/h_baillon_et_f_savy> .
+<http://www.worldcat.org/oclc/874776796> <http://schema.org/url> <http://catalog.hathitrust.org/api/volumes/oclc/5519009.html> .
+<http://www.worldcat.org/oclc/874776796> <http://schema.org/exampleOfWork> <http://worldcat.org/entity/work/id/3859747063> .
+<http://www.worldcat.org/oclc/874776796> <http://schema.org/url> <https://archive.org/details/adansoniarecueil09bail> .
+<http://www.worldcat.org/oclc/874776796> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://www.worldcat.org/oclc/874776796> <http://schema.org/url> <http://www.biodiversitylibrary.org/bibliography/600> .
+<http://www.worldcat.org/oclc/874776796> <http://schema.org/url> <http://books.google.com/books?id=7So-AQAAMAAJ> .
+<http://www.worldcat.org/oclc/874776796> <http://purl.org/library/placeOfPublication> <http://id.loc.gov/vocabulary/countries/fr> .
+<http://www.worldcat.org/oclc/874776796> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/3859747063#Topic/botany> .
+<http://www.worldcat.org/oclc/874776796> <http://schema.org/name> "Adansonia : recueil d'observations botaniques" .
+<http://www.worldcat.org/oclc/874776796> <http://schema.org/isSimilarTo> <http://www.worldcat.org/oclc/5519009> .
+<http://www.worldcat.org/oclc/874776796> <http://schema.org/url> <https://archive.org/details/adansoniarecueil12bail> .
+<http://www.worldcat.org/oclc/874776796> <http://schema.org/contributor> <http://experiment.worldcat.org/entity/work/data/3859747063#Person/baillon_h_henri_1827_1895> .
+<http://www.worldcat.org/oclc/874776796> <http://schema.org/publisher> <http://experiment.worldcat.org/entity/work/data/3859747063#Agent/h_baillon_et_f_savy> .
+<http://www.worldcat.org/oclc/874776796> <http://schema.org/url> <https://archive.org/details/adansoniarecueil11bail> .
+<http://www.worldcat.org/oclc/874776796> <http://schema.org/url> <https://archive.org/details/adansoniarecueil05bail> .
+<http://www.worldcat.org/oclc/874776796> <http://www.w3.org/2007/05/powder-s#describedby> <http://www.worldcat.org/title/-/oclc/874776796> .
+<http://www.worldcat.org/oclc/874776796> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://www.worldcat.org/oclc/874776796> <http://schema.org/url> <https://archive.org/details/adansoniarecueil06bail> .
+<http://www.worldcat.org/oclc/874776796> <http://purl.org/library/oclcnum> "874776796" .
+<http://www.worldcat.org/oclc/874776796> <http://schema.org/url> <https://www.biodiversitylibrary.org/bibliography/600> .
+<http://www.worldcat.org/oclc/874776796> <http://schema.org/productID> "874776796" .
+<http://www.worldcat.org/oclc/874776796> <http://schema.org/datePublished> "1860/1879" .
+<http://www.worldcat.org/oclc/874776796> <http://purl.org/library/placeOfPublication> <http://experiment.worldcat.org/entity/work/data/3859747063#Place/paris_france> .
+<http://www.worldcat.org/oclc/874776796> <http://schema.org/genre> "series" .
+<http://www.worldcat.org/oclc/874776796> <http://schema.org/url> <https://archive.org/details/adansoniarecueil10bail> .
+<http://www.worldcat.org/oclc/874776796> <http://schema.org/url> <https://archive.org/details/adansoniarecueil07bail> .
+<http://www.worldcat.org/oclc/874776796> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/MediaObject> .
+<http://www.worldcat.org/oclc/874776796> <http://schema.org/publication> <http://www.worldcat.org/title/-/oclc/874776796#PublicationEvent/paris_france_h_baillon_et_f_savy> .
+<http://www.worldcat.org/oclc/874776796> <http://schema.org/inLanguage> "fr" .
+<http://experiment.worldcat.org/entity/work/data/3859747063#Agent/h_baillon_et_f_savy> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bibliograph.net/Agent> .
+<http://experiment.worldcat.org/entity/work/data/3859747063#Agent/h_baillon_et_f_savy> <http://schema.org/name> "H. Baillon et F. Savy." .
+<https://archive.org/details/adansoniarecueil12bail> <http://www.w3.org/2000/01/rdf-schema#comment> "Free eBook from the Internet Archive" .

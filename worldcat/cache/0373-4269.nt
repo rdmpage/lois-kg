@@ -1,0 +1,37 @@
+<http://experiment.worldcat.org/entity/work/data/4095613888#Agent/almqvist_&_wiksells> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bibliograph.net/Agent> .
+<http://experiment.worldcat.org/entity/work/data/4095613888#Agent/almqvist_&_wiksells> <http://schema.org/name> "Almqvist & Wiksells" .
+<http://experiment.worldcat.org/entity/work/data/4095613888#Place/uppsala> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://experiment.worldcat.org/entity/work/data/4095613888#Place/uppsala> <http://schema.org/name> "Uppsala" .
+<http://experiment.worldcat.org/entity/work/data/4095613888#Organization/svenska_vetenskapsakademien_stockholm_suede_tradgard_bergielund> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+<http://experiment.worldcat.org/entity/work/data/4095613888#Organization/svenska_vetenskapsakademien_stockholm_suede_tradgard_bergielund> <http://schema.org/name> "Svenska vetenskapsakademien, Stockholm, Suède. Trädgård Bergielund." .
+<http://worldcat.org/entity/work/id/4095613888> <http://umbel.org/umbel#isLike> <http://worldcat.org/issn/0373-4269> .
+<http://www.worldcat.org/title/-/oclc/869305222#PublicationEvent/uppsala_almqvist_&_wiksells_1891_1966> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PublicationEvent> .
+<http://www.worldcat.org/title/-/oclc/869305222#PublicationEvent/uppsala_almqvist_&_wiksells_1891_1966> <http://schema.org/location> <http://experiment.worldcat.org/entity/work/data/4095613888#Place/uppsala> .
+<http://www.worldcat.org/title/-/oclc/869305222#PublicationEvent/uppsala_almqvist_&_wiksells_1891_1966> <http://schema.org/organizer> <http://experiment.worldcat.org/entity/work/data/4095613888#Agent/almqvist_&_wiksells> .
+<http://www.worldcat.org/title/-/oclc/869305222#PublicationEvent/uppsala_almqvist_&_wiksells_1891_1966> <http://schema.org/startDate> "1891-1966" .
+<http://worldcat.org/issn/0373-4269> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://worldcat.org/issn/0373-4269> <http://schema.org/name> "Acta Horti Bergiani." .
+<http://worldcat.org/issn/0373-4269> <http://schema.org/issn> "0373-4269" .
+<http://worldcat.org/issn/0373-4269> <http://umbel.org/umbel#isLike> <http://worldcat.org/entity/work/id/4095613888> .
+<http://www.worldcat.org/title/-/oclc/869305222> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#ContentTypeGenericResource> .
+<http://www.worldcat.org/title/-/oclc/869305222> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#InformationResource> .
+<http://www.worldcat.org/title/-/oclc/869305222> <http://schema.org/about> <http://www.worldcat.org/oclc/869305222> .
+<http://www.worldcat.org/title/-/oclc/869305222> <http://schema.org/dateModified> "2018-11-10" .
+<http://www.worldcat.org/title/-/oclc/869305222> <http://rdfs.org/ns/void#inDataset> <http://purl.oclc.org/dataset/WorldCat> .
+<http://id.loc.gov/vocabulary/countries/sw> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://id.loc.gov/vocabulary/countries/sw> <http://purl.org/dc/terms/identifier> "sw" .
+<http://www.worldcat.org/oclc/869305222> <http://schema.org/workExample> <http://worldcat.org/issn/0373-4269> .
+<http://www.worldcat.org/oclc/869305222> <http://www.w3.org/2007/05/powder-s#describedby> <http://www.worldcat.org/title/-/oclc/869305222> .
+<http://www.worldcat.org/oclc/869305222> <http://schema.org/inLanguage> "en" .
+<http://www.worldcat.org/oclc/869305222> <http://schema.org/publication> <http://www.worldcat.org/title/-/oclc/869305222#PublicationEvent/uppsala_almqvist_&_wiksells_1891_1966> .
+<http://www.worldcat.org/oclc/869305222> <http://schema.org/exampleOfWork> <http://worldcat.org/entity/work/id/4095613888> .
+<http://www.worldcat.org/oclc/869305222> <http://purl.org/library/placeOfPublication> <http://experiment.worldcat.org/entity/work/data/4095613888#Place/uppsala> .
+<http://www.worldcat.org/oclc/869305222> <http://purl.org/library/placeOfPublication> <http://id.loc.gov/vocabulary/countries/sw> .
+<http://www.worldcat.org/oclc/869305222> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://www.worldcat.org/oclc/869305222> <http://schema.org/publisher> <http://experiment.worldcat.org/entity/work/data/4095613888#Agent/almqvist_&_wiksells> .
+<http://www.worldcat.org/oclc/869305222> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://www.worldcat.org/oclc/869305222> <http://schema.org/productID> "869305222" .
+<http://www.worldcat.org/oclc/869305222> <http://schema.org/datePublished> "1891/1966" .
+<http://www.worldcat.org/oclc/869305222> <http://schema.org/name> "Acta Horti Bergiani." .
+<http://www.worldcat.org/oclc/869305222> <http://purl.org/library/oclcnum> "869305222" .
+<http://www.worldcat.org/oclc/869305222> <http://schema.org/contributor> <http://experiment.worldcat.org/entity/work/data/4095613888#Organization/svenska_vetenskapsakademien_stockholm_suede_tradgard_bergielund> .

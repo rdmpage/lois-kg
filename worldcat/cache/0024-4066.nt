@@ -1,0 +1,79 @@
+<http://experiment.worldcat.org/entity/work/data/9021749169#Thing/electronic_journals_+_online_serials_document_types> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> .
+<http://experiment.worldcat.org/entity/work/data/9021749169#Thing/electronic_journals_+_online_serials_document_types> <http://schema.org/name> "ELECTRONIC JOURNALS + ONLINE SERIALS (DOCUMENT TYPES)" .
+<http://worldcat.org/entity/work/id/9021749169> <http://umbel.org/umbel#isLike> <http://worldcat.org/issn/0024-4066> .
+<http://worldcat.org/entity/work/id/9021749169> <http://umbel.org/umbel#isLike> <http://worldcat.org/issn/1095-8312> .
+<http://experiment.worldcat.org/entity/work/data/9021749169#Thing/elektronische_zeitschriften_+_elektronische_schriftenreihen_dokumententyp> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> .
+<http://experiment.worldcat.org/entity/work/data/9021749169#Thing/elektronische_zeitschriften_+_elektronische_schriftenreihen_dokumententyp> <http://schema.org/name> "ELEKTRONISCHE ZEITSCHRIFTEN + ELEKTRONISCHE SCHRIFTENREIHEN (DOKUMENTENTYP)" .
+<http://experiment.worldcat.org/entity/work/data/9021749169#Thing/biologie> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> .
+<http://experiment.worldcat.org/entity/work/data/9021749169#Thing/biologie> <http://schema.org/name> "BIOLOGIE" .
+<http://worldcat.org/issn/0024-4066> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://worldcat.org/issn/0024-4066> <http://schema.org/name> "Biological journal of the Linnean Society : a living forum for biology." .
+<http://worldcat.org/issn/0024-4066> <http://schema.org/issn> "0024-4066" .
+<http://worldcat.org/issn/0024-4066> <http://umbel.org/umbel#isLike> <http://worldcat.org/entity/work/id/9021749169> .
+<http://sfx.ethz.ch/sfx_locater?sid=ALEPH:EBI01&genre=journal&issn=0024-4066> <http://www.w3.org/2000/01/rdf-schema#comment> "Online via SFX" .
+<http://experiment.worldcat.org/entity/work/data/9021749169#Thing/publications_of_organizations_document_type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> .
+<http://experiment.worldcat.org/entity/work/data/9021749169#Thing/publications_of_organizations_document_type> <http://schema.org/name> "PUBLICATIONS OF ORGANIZATIONS (DOCUMENT TYPE)" .
+<http://id.loc.gov/vocabulary/countries/enk> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://id.loc.gov/vocabulary/countries/enk> <http://purl.org/dc/terms/identifier> "enk" .
+<http://experiment.worldcat.org/entity/work/data/9021749169#Topic/biologie> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/9021749169#Topic/biologie> <http://schema.org/name> "Biologie" .
+<http://experiment.worldcat.org/entity/work/data/9021749169#Organization/linnean_society_of_london> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+<http://experiment.worldcat.org/entity/work/data/9021749169#Organization/linnean_society_of_london> <http://schema.org/name> "Linnean Society of London." .
+<http://experiment.worldcat.org/entity/work/data/9021749169#Thing/periodiques_electroniques_+_series_electroniques_types_des_documents> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> .
+<http://experiment.worldcat.org/entity/work/data/9021749169#Thing/periodiques_electroniques_+_series_electroniques_types_des_documents> <http://schema.org/name> "PÉRIODIQUES ÉLECTRONIQUES + SÉRIES ÉLECTRONIQUES (TYPES DES DOCUMENTS)" .
+<http://www.worldcat.org/title/-/oclc/889388524> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#ContentTypeGenericResource> .
+<http://www.worldcat.org/title/-/oclc/889388524> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#InformationResource> .
+<http://www.worldcat.org/title/-/oclc/889388524> <http://schema.org/about> <http://www.worldcat.org/oclc/889388524> .
+<http://www.worldcat.org/title/-/oclc/889388524> <http://schema.org/dateModified> "2019-04-11" .
+<http://www.worldcat.org/title/-/oclc/889388524> <http://rdfs.org/ns/void#inDataset> <http://purl.oclc.org/dataset/WorldCat> .
+<http://experiment.worldcat.org/entity/work/data/9021749169#Thing/zeitschriften> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> .
+<http://experiment.worldcat.org/entity/work/data/9021749169#Thing/zeitschriften> <http://schema.org/name> "Zeitschriften" .
+<http://experiment.worldcat.org/entity/work/data/9021749169#Thing/publications_des_collectivites_type_de_document> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> .
+<http://experiment.worldcat.org/entity/work/data/9021749169#Thing/publications_des_collectivites_type_de_document> <http://schema.org/name> "PUBLICATIONS DES COLLECTIVITÉS (TYPE DE DOCUMENT)" .
+<http://experiment.worldcat.org/entity/work/data/9021749169#Thing/linnean_society_of_london> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> .
+<http://experiment.worldcat.org/entity/work/data/9021749169#Thing/linnean_society_of_london> <http://schema.org/name> "Linnean Society of London" .
+<http://experiment.worldcat.org/entity/work/data/9021749169#Thing/korperschaftspublikationen_dokumententyp> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> .
+<http://experiment.worldcat.org/entity/work/data/9021749169#Thing/korperschaftspublikationen_dokumententyp> <http://schema.org/name> "KÖRPERSCHAFTSPUBLIKATIONEN (DOKUMENTENTYP)" .
+<http://experiment.worldcat.org/entity/work/data/9021749169#Agent/wiley_blackwell> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bibliograph.net/Agent> .
+<http://experiment.worldcat.org/entity/work/data/9021749169#Agent/wiley_blackwell> <http://schema.org/name> "Wiley-Blackwell." .
+<http://www.worldcat.org/title/-/oclc/889388524#PublicationEvent/oxford_wiley_blackwell> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PublicationEvent> .
+<http://www.worldcat.org/title/-/oclc/889388524#PublicationEvent/oxford_wiley_blackwell> <http://schema.org/location> <http://experiment.worldcat.org/entity/work/data/9021749169#Place/oxford> .
+<http://www.worldcat.org/title/-/oclc/889388524#PublicationEvent/oxford_wiley_blackwell> <http://schema.org/organizer> <http://experiment.worldcat.org/entity/work/data/9021749169#Agent/wiley_blackwell> .
+<http://www.worldcat.org/oclc/889388524> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://www.worldcat.org/oclc/889388524> <http://umbel.org/umbel#isLike> <http://d-nb.info/01130068X> .
+<http://www.worldcat.org/oclc/889388524> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/9021749169#Thing/zeitschriften> .
+<http://www.worldcat.org/oclc/889388524> <http://schema.org/exampleOfWork> <http://worldcat.org/entity/work/id/9021749169> .
+<http://www.worldcat.org/oclc/889388524> <http://schema.org/workExample> <http://worldcat.org/issn/0024-4066> .
+<http://www.worldcat.org/oclc/889388524> <http://schema.org/publication> <http://www.worldcat.org/title/-/oclc/889388524#PublicationEvent/oxford_wiley_blackwell> .
+<http://www.worldcat.org/oclc/889388524> <http://www.w3.org/2007/05/powder-s#describedby> <http://www.worldcat.org/title/-/oclc/889388524> .
+<http://www.worldcat.org/oclc/889388524> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/9021749169#Thing/elektronische_zeitschriften_+_elektronische_schriftenreihen_dokumententyp> .
+<http://www.worldcat.org/oclc/889388524> <http://schema.org/contributor> <http://experiment.worldcat.org/entity/work/data/9021749169#Organization/linnean_society_of_london> .
+<http://www.worldcat.org/oclc/889388524> <http://schema.org/url> <http://sfx.ethz.ch/sfx_locater?sid=ALEPH:EBI01&genre=journal&issn=0024-4066> .
+<http://www.worldcat.org/oclc/889388524> <http://schema.org/datePublished> "1969/9999" .
+<http://www.worldcat.org/oclc/889388524> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/9021749169#Thing/publications_of_organizations_document_type> .
+<http://www.worldcat.org/oclc/889388524> <http://schema.org/genre> "Zeitschrift" .
+<http://www.worldcat.org/oclc/889388524> <http://schema.org/workExample> <http://worldcat.org/issn/1095-8312> .
+<http://www.worldcat.org/oclc/889388524> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/9021749169#Thing/biologie> .
+<http://www.worldcat.org/oclc/889388524> <http://schema.org/publisher> <http://experiment.worldcat.org/entity/work/data/9021749169#Agent/wiley_blackwell> .
+<http://www.worldcat.org/oclc/889388524> <http://schema.org/inLanguage> "en" .
+<http://www.worldcat.org/oclc/889388524> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/9021749169#Thing/linnean_society_of_london> .
+<http://www.worldcat.org/oclc/889388524> <http://schema.org/name> "Biological journal of the Linnean Society : a living forum for biology." .
+<http://www.worldcat.org/oclc/889388524> <http://purl.org/library/placeOfPublication> <http://id.loc.gov/vocabulary/countries/enk> .
+<http://www.worldcat.org/oclc/889388524> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/9021749169#Thing/publications_des_collectivites_type_de_document> .
+<http://www.worldcat.org/oclc/889388524> <http://purl.org/library/oclcnum> "889388524" .
+<http://www.worldcat.org/oclc/889388524> <http://purl.org/library/placeOfPublication> <http://experiment.worldcat.org/entity/work/data/9021749169#Place/oxford> .
+<http://www.worldcat.org/oclc/889388524> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://www.worldcat.org/oclc/889388524> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/9021749169#Thing/korperschaftspublikationen_dokumententyp> .
+<http://www.worldcat.org/oclc/889388524> <http://schema.org/productID> "889388524" .
+<http://www.worldcat.org/oclc/889388524> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/9021749169#Topic/biologie> .
+<http://www.worldcat.org/oclc/889388524> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/9021749169#Thing/periodiques_electroniques_+_series_electroniques_types_des_documents> .
+<http://www.worldcat.org/oclc/889388524> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/9021749169#Thing/electronic_journals_+_online_serials_document_types> .
+<http://www.worldcat.org/oclc/889388524> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/9021749169#Thing/biology> .
+<http://experiment.worldcat.org/entity/work/data/9021749169#Thing/biology> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> .
+<http://experiment.worldcat.org/entity/work/data/9021749169#Thing/biology> <http://schema.org/name> "BIOLOGY" .
+<http://worldcat.org/issn/1095-8312> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://worldcat.org/issn/1095-8312> <http://schema.org/name> "Biological journal of the Linnean Society : a living forum for biology." .
+<http://worldcat.org/issn/1095-8312> <http://schema.org/issn> "1095-8312" .
+<http://worldcat.org/issn/1095-8312> <http://umbel.org/umbel#isLike> <http://worldcat.org/entity/work/id/9021749169> .
+<http://experiment.worldcat.org/entity/work/data/9021749169#Place/oxford> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://experiment.worldcat.org/entity/work/data/9021749169#Place/oxford> <http://schema.org/name> "Oxford" .

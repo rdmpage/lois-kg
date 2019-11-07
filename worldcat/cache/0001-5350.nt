@@ -1,0 +1,80 @@
+<http://experiment.worldcat.org/entity/work/data/3857156681#Topic/plants_hungary> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/3857156681#Topic/plants_hungary> <http://schema.org/hasPart> <http://id.loc.gov/authorities/subjects/sh85102839> .
+<http://experiment.worldcat.org/entity/work/data/3857156681#Topic/plants_hungary> <http://schema.org/name> "Plants--Hungary"@en .
+<http://id.worldcat.org/fast/1065823> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://id.worldcat.org/fast/1065823> <http://schema.org/name> "Plants"@en .
+<http://www.worldcat.org/title/-/oclc/568759202> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#ContentTypeGenericResource> .
+<http://www.worldcat.org/title/-/oclc/568759202> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#InformationResource> .
+<http://www.worldcat.org/title/-/oclc/568759202> <http://schema.org/about> <http://www.worldcat.org/oclc/568759202> .
+<http://www.worldcat.org/title/-/oclc/568759202> <http://schema.org/dateModified> "2019-04-17" .
+<http://www.worldcat.org/title/-/oclc/568759202> <http://rdfs.org/ns/void#inDataset> <http://purl.oclc.org/dataset/WorldCat> .
+<http://experiment.worldcat.org/entity/work/data/3857156681#Topic/botany> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/3857156681#Topic/botany> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://id.loc.gov/authorities/subjects/sh2007102112> .
+<http://experiment.worldcat.org/entity/work/data/3857156681#Topic/botany> <http://schema.org/name> "Botany"@en .
+<http://id.worldcat.org/fast/836869> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://id.worldcat.org/fast/836869> <http://schema.org/name> "Botany"@en .
+<http://www.worldcat.org/title/-/oclc/568759202#PublicationEvent/budapest_magyar_tudomanyos_akademia_1954_1982> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PublicationEvent> .
+<http://www.worldcat.org/title/-/oclc/568759202#PublicationEvent/budapest_magyar_tudomanyos_akademia_1954_1982> <http://schema.org/location> <http://experiment.worldcat.org/entity/work/data/3857156681#Place/budapest> .
+<http://www.worldcat.org/title/-/oclc/568759202#PublicationEvent/budapest_magyar_tudomanyos_akademia_1954_1982> <http://schema.org/organizer> <http://experiment.worldcat.org/entity/work/data/3857156681#Agent/magyar_tudomanyos_akademia> .
+<http://www.worldcat.org/title/-/oclc/568759202#PublicationEvent/budapest_magyar_tudomanyos_akademia_1954_1982> <http://schema.org/startDate> "1954-1982" .
+<http://experiment.worldcat.org/entity/work/data/3857156681#Agent/magyar_tudomanyos_akademia> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bibliograph.net/Agent> .
+<http://experiment.worldcat.org/entity/work/data/3857156681#Agent/magyar_tudomanyos_akademia> <http://schema.org/name> "Magyar Tudományos Akadémia" .
+<http://id.worldcat.org/fast/1205132> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://id.worldcat.org/fast/1205132> <http://schema.org/name> "Hungary." .
+<http://experiment.worldcat.org/entity/work/data/3857156681#Organization/magyar_tudomanyos_akademia> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+<http://experiment.worldcat.org/entity/work/data/3857156681#Organization/magyar_tudomanyos_akademia> <http://schema.org/name> "Magyar Tudományos Akadémia." .
+<http://viaf.org/viaf/264754576> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+<http://viaf.org/viaf/264754576> <http://schema.org/name> "Magyar Tudományos Akadémia" .
+<http://viaf.org/viaf/264754576> <http://schema.org/name> "Magyar Tudományos Akadémia." .
+<http://id.loc.gov/vocabulary/countries/hu> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://id.loc.gov/vocabulary/countries/hu> <http://purl.org/dc/terms/identifier> "hu" .
+<http://www.worldcat.org/oclc/2659116> <http://schema.org/isSimilarTo> <http://www.worldcat.org/oclc/568759202> .
+<http://www.worldcat.org/oclc/2659116> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://www.worldcat.org/oclc/2659116> <http://www.w3.org/2000/01/rdf-schema#label> "Acta botanica Academiae Scientiarum Hungaricae" .
+<http://www.worldcat.org/oclc/2659116> <http://schema.org/description> "Print version:" .
+<http://experiment.worldcat.org/entity/work/data/3857156681#Place/budapest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://experiment.worldcat.org/entity/work/data/3857156681#Place/budapest> <http://schema.org/name> "Budapest" .
+<http://www.worldcat.org/oclc/568759202> <http://schema.org/url> <http://catalog.hathitrust.org/api/volumes/oclc/2659116.html> .
+<http://www.worldcat.org/oclc/568759202> <http://schema.org/contributor> <http://viaf.org/viaf/264754576> .
+<http://www.worldcat.org/oclc/568759202> <http://schema.org/productID> "568759202" .
+<http://www.worldcat.org/oclc/568759202> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/3857156681#Organization/magyar_tudomanyos_akademia> .
+<http://www.worldcat.org/oclc/568759202> <http://schema.org/exampleOfWork> <http://worldcat.org/entity/work/id/3857156681> .
+<http://www.worldcat.org/oclc/568759202> <http://schema.org/url> <http://books.google.com/books?id=U7bzAAAAMAAJ> .
+<http://www.worldcat.org/oclc/568759202> <http://schema.org/publication> <http://www.worldcat.org/title/-/oclc/568759202#PublicationEvent/budapest_magyar_tudomanyos_akademia_1954_1982> .
+<http://www.worldcat.org/oclc/568759202> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://www.worldcat.org/oclc/568759202> <http://schema.org/publisher> <http://experiment.worldcat.org/entity/work/data/3857156681#Agent/magyar_tudomanyos_akademia> .
+<http://www.worldcat.org/oclc/568759202> <http://schema.org/alternateName> "Acta botanica" .
+<http://www.worldcat.org/oclc/568759202> <http://schema.org/url> <http://books.google.com/books?id=uLXzAAAAMAAJ> .
+<http://www.worldcat.org/oclc/568759202> <http://schema.org/url> <http://books.google.com/books?id=mhpUAAAAMAAJ> .
+<http://www.worldcat.org/oclc/568759202> <http://schema.org/isSimilarTo> <http://www.worldcat.org/oclc/2659116> .
+<http://www.worldcat.org/oclc/568759202> <http://schema.org/url> <http://books.google.com/books?id=dxtUAAAAMAAJ> .
+<http://www.worldcat.org/oclc/568759202> <http://www.w3.org/2007/05/powder-s#describedby> <http://www.worldcat.org/title/-/oclc/568759202> .
+<http://www.worldcat.org/oclc/568759202> <http://purl.org/library/oclcnum> "568759202" .
+<http://www.worldcat.org/oclc/568759202> <http://schema.org/url> <http://books.google.com/books?id=UiBUAAAAMAAJ> .
+<http://www.worldcat.org/oclc/568759202> <http://schema.org/url> <http://books.google.com/books?id=PBdUAAAAMAAJ> .
+<http://www.worldcat.org/oclc/568759202> <http://schema.org/about> <http://id.worldcat.org/fast/1065823> .
+<http://www.worldcat.org/oclc/568759202> <http://purl.org/library/placeOfPublication> <http://id.loc.gov/vocabulary/countries/hu> .
+<http://www.worldcat.org/oclc/568759202> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/MediaObject> .
+<http://www.worldcat.org/oclc/568759202> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/3857156681#Topic/plants_hungary> .
+<http://www.worldcat.org/oclc/568759202> <http://schema.org/url> <http://books.google.com/books?id=vxVUAAAAMAAJ> .
+<http://www.worldcat.org/oclc/568759202> <http://schema.org/datePublished> "1954/1982" .
+<http://www.worldcat.org/oclc/568759202> <http://schema.org/genre> "Periodicals"@en .
+<http://www.worldcat.org/oclc/568759202> <http://schema.org/url> <http://books.google.com/books?id=apohAQAAMAAJ> .
+<http://www.worldcat.org/oclc/568759202> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/3857156681#Topic/botany_hungary> .
+<http://www.worldcat.org/oclc/568759202> <http://schema.org/about> <http://id.worldcat.org/fast/836869> .
+<http://www.worldcat.org/oclc/568759202> <http://schema.org/url> <http://books.google.com/books?id=xh1UAAAAMAAJ> .
+<http://www.worldcat.org/oclc/568759202> <http://schema.org/about> <http://viaf.org/viaf/264754576> .
+<http://www.worldcat.org/oclc/568759202> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/3857156681#Topic/botany> .
+<http://www.worldcat.org/oclc/568759202> <http://schema.org/url> <http://books.google.com/books?id=kx5UAAAAMAAJ> .
+<http://www.worldcat.org/oclc/568759202> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://www.worldcat.org/oclc/568759202> <http://schema.org/url> <http://books.google.com/books?id=yRxUAAAAMAAJ> .
+<http://www.worldcat.org/oclc/568759202> <http://schema.org/url> <http://books.google.com/books?id=ziFUAAAAMAAJ> .
+<http://www.worldcat.org/oclc/568759202> <http://purl.org/library/placeOfPublication> <http://experiment.worldcat.org/entity/work/data/3857156681#Place/budapest> .
+<http://www.worldcat.org/oclc/568759202> <http://schema.org/name> "Acta botanica Academiae Scientiarum Hungaricae."@en .
+<http://www.worldcat.org/oclc/568759202> <http://schema.org/url> <http://books.google.com/books?id=0iJUAAAAMAAJ> .
+<http://www.worldcat.org/oclc/568759202> <http://schema.org/url> <http://books.google.com/books?id=axJUAAAAMAAJ> .
+<http://www.worldcat.org/oclc/568759202> <http://schema.org/inLanguage> "en" .
+<http://www.worldcat.org/oclc/568759202> <http://schema.org/about> <http://id.worldcat.org/fast/1205132> .
+<http://experiment.worldcat.org/entity/work/data/3857156681#Topic/botany_hungary> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/3857156681#Topic/botany_hungary> <http://schema.org/hasPart> <http://id.loc.gov/authorities/subjects/sh85015976> .
+<http://experiment.worldcat.org/entity/work/data/3857156681#Topic/botany_hungary> <http://schema.org/name> "Botany--Hungary"@en .

@@ -1,0 +1,52 @@
+<http://experiment.worldcat.org/entity/work/data/54397837#Organization/consejo_superior_de_investigaciones_cientificas> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+<http://experiment.worldcat.org/entity/work/data/54397837#Organization/consejo_superior_de_investigaciones_cientificas> <http://schema.org/name> "Consejo superior de investigaciones científicas," .
+<http://experiment.worldcat.org/entity/work/data/54397837#Topic/publicacion_periodica> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/54397837#Topic/publicacion_periodica> <http://schema.org/name> "Publicación periódica" .
+<http://site.ebrary.com/lib/interpuertoricosp/Doc?id=10804112> <http://www.w3.org/2000/01/rdf-schema#comment> "An electronic book accessible through the World Wide Web; click to view" .
+<http://experiment.worldcat.org/entity/work/data/54397837#Topic/botany> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/54397837#Topic/botany> <http://schema.org/name> "Botany" .
+<http://www.worldcat.org/oclc/949107869> <http://purl.org/library/oclcnum> "949107869" .
+<http://www.worldcat.org/oclc/949107869> <http://schema.org/name> "Anales del Jardín Botánico de Madrid" .
+<http://www.worldcat.org/oclc/949107869> <http://schema.org/exampleOfWork> <http://worldcat.org/entity/work/id/54397837> .
+<http://www.worldcat.org/oclc/949107869> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/54397837#Topic/botany> .
+<http://www.worldcat.org/oclc/949107869> <http://schema.org/url> <http://site.ebrary.com/lib/bibliotecaupsasp/Doc?id=10804112> .
+<http://www.worldcat.org/oclc/949107869> <http://schema.org/inLanguage> "en" .
+<http://www.worldcat.org/oclc/949107869> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/54397837#Topic/publicacion_periodica> .
+<http://www.worldcat.org/oclc/949107869> <http://schema.org/genre> "Periodicals" .
+<http://www.worldcat.org/oclc/949107869> <http://schema.org/genre> "Libros electronicos" .
+<http://www.worldcat.org/oclc/949107869> <http://www.w3.org/2007/05/powder-s#describedby> <http://www.worldcat.org/title/-/oclc/949107869> .
+<http://www.worldcat.org/oclc/949107869> <http://schema.org/productID> "949107869" .
+<http://www.worldcat.org/oclc/949107869> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/54397837#Topic/botanica> .
+<http://www.worldcat.org/oclc/949107869> <http://schema.org/url> <http://site.ebrary.com/lib/interpuertoricosp/Doc?id=10804112> .
+<http://www.worldcat.org/oclc/949107869> <http://schema.org/datePublished> "2013/9999" .
+<http://www.worldcat.org/oclc/949107869> <http://schema.org/url> <http://site.ebrary.com/lib/interpuertoricosp/Doc?id=11162454> .
+<http://www.worldcat.org/oclc/949107869> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/MediaObject> .
+<http://www.worldcat.org/oclc/949107869> <http://purl.org/library/placeOfPublication> <http://id.loc.gov/vocabulary/countries/sp> .
+<http://www.worldcat.org/oclc/949107869> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://www.worldcat.org/oclc/949107869> <http://schema.org/url> <http://site.ebrary.com/lib/interpuertoricosp/Doc?id=10957959> .
+<http://www.worldcat.org/oclc/949107869> <http://schema.org/isPartOf> <http://worldcat.org/issn/0211-1322> .
+<http://www.worldcat.org/oclc/949107869> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://www.worldcat.org/oclc/949107869> <http://schema.org/editor> <http://experiment.worldcat.org/entity/work/data/54397837#Organization/consejo_superior_de_investigaciones_cientificas> .
+<http://www.worldcat.org/oclc/949107869> <http://schema.org/url> <http://site.ebrary.com/lib/interpuertoricosp/Doc?id=11162453> .
+<http://www.worldcat.org/oclc/949107869> <http://schema.org/about> <http://dewey.info/class/580/e23/> .
+<http://www.worldcat.org/oclc/949107869> <http://schema.org/workExample> <http://worldcat.org/issn/0211-1322> .
+<http://site.ebrary.com/lib/interpuertoricosp/Doc?id=11162453> <http://www.w3.org/2000/01/rdf-schema#comment> "An electronic book accessible through the World Wide Web; click to view" .
+<http://experiment.worldcat.org/entity/work/data/54397837#Topic/botanica> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/54397837#Topic/botanica> <http://schema.org/name> "Botánica" .
+<http://site.ebrary.com/lib/bibliotecaupsasp/Doc?id=10804112> <http://www.w3.org/2000/01/rdf-schema#comment> "Click para texto completo. Acceso restringido UPSA" .
+<http://www.worldcat.org/title/-/oclc/949107869> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#ContentTypeGenericResource> .
+<http://www.worldcat.org/title/-/oclc/949107869> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#InformationResource> .
+<http://www.worldcat.org/title/-/oclc/949107869> <http://schema.org/about> <http://www.worldcat.org/oclc/949107869> .
+<http://www.worldcat.org/title/-/oclc/949107869> <http://schema.org/dateModified> "2019-02-13" .
+<http://www.worldcat.org/title/-/oclc/949107869> <http://rdfs.org/ns/void#inDataset> <http://purl.oclc.org/dataset/WorldCat> .
+<http://dewey.info/class/580/e23/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://worldcat.org/entity/work/id/54397837> <http://umbel.org/umbel#isLike> <http://worldcat.org/issn/0211-1322> .
+<http://site.ebrary.com/lib/interpuertoricosp/Doc?id=10957959> <http://www.w3.org/2000/01/rdf-schema#comment> "An electronic book accessible through the World Wide Web; click to view" .
+<http://id.loc.gov/vocabulary/countries/sp> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://id.loc.gov/vocabulary/countries/sp> <http://purl.org/dc/terms/identifier> "sp" .
+<http://site.ebrary.com/lib/interpuertoricosp/Doc?id=11162454> <http://www.w3.org/2000/01/rdf-schema#comment> "An electronic book accessible through the World Wide Web; click to view" .
+<http://worldcat.org/issn/0211-1322> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://worldcat.org/issn/0211-1322> <http://schema.org/name> "Anales del Jardín Botánico de Madrid" .
+<http://worldcat.org/issn/0211-1322> <http://schema.org/issn> "0211-1322" .
+<http://worldcat.org/issn/0211-1322> <http://umbel.org/umbel#isLike> <http://worldcat.org/entity/work/id/54397837> .
+<http://worldcat.org/issn/0211-1322> <http://www.w3.org/2000/01/rdf-schema#label> "Anales del Jardín Botánico de Madrid" .

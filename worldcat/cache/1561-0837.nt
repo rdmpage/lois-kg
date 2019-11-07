@@ -1,0 +1,44 @@
+<http://www.worldcat.org/title/-/oclc/778070434> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#ContentTypeGenericResource> .
+<http://www.worldcat.org/title/-/oclc/778070434> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#InformationResource> .
+<http://www.worldcat.org/title/-/oclc/778070434> <http://schema.org/about> <http://www.worldcat.org/oclc/778070434> .
+<http://www.worldcat.org/title/-/oclc/778070434> <http://schema.org/dateModified> "2018-11-09" .
+<http://www.worldcat.org/title/-/oclc/778070434> <http://rdfs.org/ns/void#inDataset> <http://purl.oclc.org/dataset/WorldCat> .
+<http://worldcat.org/entity/work/data/1101075#CreativeWork/revista_peruana_de_biologia> <http://schema.org/isSimilarTo> <http://www.worldcat.org/oclc/778070434> .
+<http://worldcat.org/entity/work/data/1101075#CreativeWork/revista_peruana_de_biologia> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://worldcat.org/entity/work/data/1101075#CreativeWork/revista_peruana_de_biologia> <http://www.w3.org/2000/01/rdf-schema#label> "Revista peruana de biología" .
+<http://experiment.worldcat.org/entity/work/data/1101075#Organization/ciudad_universitaria_lima_facultad_de_ciencias_biologicas_unmsm> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+<http://experiment.worldcat.org/entity/work/data/1101075#Organization/ciudad_universitaria_lima_facultad_de_ciencias_biologicas_unmsm> <http://schema.org/name> "Ciudad Universitaria Lima. Facultad de Ciencias Biologicas UNMSM." .
+<http://www.worldcat.org/oclc/778070434> <http://www.w3.org/2007/05/powder-s#describedby> <http://www.worldcat.org/title/-/oclc/778070434> .
+<http://www.worldcat.org/oclc/778070434> <http://schema.org/workExample> <http://worldcat.org/issn/1561-0837> .
+<http://www.worldcat.org/oclc/778070434> <http://schema.org/exampleOfWork> <http://worldcat.org/entity/work/id/1101075> .
+<http://www.worldcat.org/oclc/778070434> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://www.worldcat.org/oclc/778070434> <http://schema.org/productID> "778070434" .
+<http://www.worldcat.org/oclc/778070434> <http://schema.org/publisher> <http://experiment.worldcat.org/entity/work/data/1101075#Agent/ciudad_universitaria_lima> .
+<http://www.worldcat.org/oclc/778070434> <http://schema.org/contributor> <http://experiment.worldcat.org/entity/work/data/1101075#Organization/ciudad_universitaria_lima_facultad_de_ciencias_biologicas_unmsm> .
+<http://www.worldcat.org/oclc/778070434> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/1101075#Topic/biologie> .
+<http://www.worldcat.org/oclc/778070434> <http://purl.org/library/placeOfPublication> <http://id.loc.gov/vocabulary/countries/pe> .
+<http://www.worldcat.org/oclc/778070434> <http://schema.org/name> "Revista peruana de biología" .
+<http://www.worldcat.org/oclc/778070434> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://www.worldcat.org/oclc/778070434> <http://schema.org/publication> <http://www.worldcat.org/title/-/oclc/778070434#PublicationEvent/lima_ciudad_universitaria_lima_199> .
+<http://www.worldcat.org/oclc/778070434> <http://schema.org/isSimilarTo> <http://worldcat.org/entity/work/data/1101075#CreativeWork/revista_peruana_de_biologia> .
+<http://www.worldcat.org/oclc/778070434> <http://purl.org/library/oclcnum> "778070434" .
+<http://www.worldcat.org/oclc/778070434> <http://schema.org/inLanguage> "en" .
+<http://www.worldcat.org/oclc/778070434> <http://purl.org/library/placeOfPublication> <http://experiment.worldcat.org/entity/work/data/1101075#Place/lima> .
+<http://www.worldcat.org/oclc/778070434> <http://schema.org/datePublished> "199u/9999" .
+<http://experiment.worldcat.org/entity/work/data/1101075#Topic/biologie> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/1101075#Topic/biologie> <http://schema.org/name> "Biologie" .
+<http://worldcat.org/entity/work/id/1101075> <http://umbel.org/umbel#isLike> <http://worldcat.org/issn/1561-0837> .
+<http://www.worldcat.org/title/-/oclc/778070434#PublicationEvent/lima_ciudad_universitaria_lima_199> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PublicationEvent> .
+<http://www.worldcat.org/title/-/oclc/778070434#PublicationEvent/lima_ciudad_universitaria_lima_199> <http://schema.org/location> <http://experiment.worldcat.org/entity/work/data/1101075#Place/lima> .
+<http://www.worldcat.org/title/-/oclc/778070434#PublicationEvent/lima_ciudad_universitaria_lima_199> <http://schema.org/organizer> <http://experiment.worldcat.org/entity/work/data/1101075#Agent/ciudad_universitaria_lima> .
+<http://www.worldcat.org/title/-/oclc/778070434#PublicationEvent/lima_ciudad_universitaria_lima_199> <http://schema.org/startDate> "-" .
+<http://experiment.worldcat.org/entity/work/data/1101075#Place/lima> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://experiment.worldcat.org/entity/work/data/1101075#Place/lima> <http://schema.org/name> "Lima" .
+<http://id.loc.gov/vocabulary/countries/pe> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://id.loc.gov/vocabulary/countries/pe> <http://purl.org/dc/terms/identifier> "pe" .
+<http://worldcat.org/issn/1561-0837> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://worldcat.org/issn/1561-0837> <http://schema.org/name> "Revista peruana de biología" .
+<http://worldcat.org/issn/1561-0837> <http://schema.org/issn> "1561-0837" .
+<http://worldcat.org/issn/1561-0837> <http://umbel.org/umbel#isLike> <http://worldcat.org/entity/work/id/1101075> .
+<http://experiment.worldcat.org/entity/work/data/1101075#Agent/ciudad_universitaria_lima> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bibliograph.net/Agent> .
+<http://experiment.worldcat.org/entity/work/data/1101075#Agent/ciudad_universitaria_lima> <http://schema.org/name> "Ciudad Universitaria Lima" .

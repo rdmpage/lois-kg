@@ -1,0 +1,42 @@
+<http://www.worldcat.org/title/-/oclc/925592408#PublicationEvent/1981_kuei_lin_shihkuanghsi_chih_wu_yen_chiu_so> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PublicationEvent> .
+<http://www.worldcat.org/title/-/oclc/925592408#PublicationEvent/1981_kuei_lin_shihkuanghsi_chih_wu_yen_chiu_so> <http://schema.org/location> <http://experiment.worldcat.org/entity/work/data/2768089227#Place/kuei_lin_shih> .
+<http://www.worldcat.org/title/-/oclc/925592408#PublicationEvent/1981_kuei_lin_shihkuanghsi_chih_wu_yen_chiu_so> <http://schema.org/organizer> <http://experiment.worldcat.org/entity/work/data/2768089227#Agent/kuang> .
+<http://www.worldcat.org/title/-/oclc/925592408#PublicationEvent/1981_kuei_lin_shihkuanghsi_chih_wu_yen_chiu_so> <http://schema.org/organizer> <http://experiment.worldcat.org/entity/work/data/2768089227#Agent/hsi_chih_wu_yen_chiu_so> .
+<http://www.worldcat.org/title/-/oclc/925592408#PublicationEvent/1981_kuei_lin_shihkuanghsi_chih_wu_yen_chiu_so> <http://schema.org/startDate> "1981-" .
+<http://www.worldcat.org/oclc/925592408> <http://schema.org/publication> <http://www.worldcat.org/title/-/oclc/925592408#PublicationEvent/1981_kuei_lin_shihkuanghsi_chih_wu_yen_chiu_so> .
+<http://www.worldcat.org/oclc/925592408> <http://purl.org/library/placeOfPublication> <http://experiment.worldcat.org/entity/work/data/2768089227#Place/kuei_lin_shih> .
+<http://www.worldcat.org/oclc/925592408> <http://www.w3.org/2007/05/powder-s#describedby> <http://www.worldcat.org/title/-/oclc/925592408> .
+<http://www.worldcat.org/oclc/925592408> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://www.worldcat.org/oclc/925592408> <http://purl.org/library/oclcnum> "925592408" .
+<http://www.worldcat.org/oclc/925592408> <http://schema.org/datePublished> "1981/9999" .
+<http://www.worldcat.org/oclc/925592408> <http://schema.org/workExample> <http://worldcat.org/issn/1000-3142> .
+<http://www.worldcat.org/oclc/925592408> <http://schema.org/datePublished> "1981/" .
+<http://www.worldcat.org/oclc/925592408> <http://schema.org/name> "Kuang-hsi chih wu."@en .
+<http://www.worldcat.org/oclc/925592408> <http://schema.org/publisher> <http://experiment.worldcat.org/entity/work/data/2768089227#Agent/hsi_chih_wu_yen_chiu_so> .
+<http://www.worldcat.org/oclc/925592408> <http://schema.org/inLanguage> "en" .
+<http://www.worldcat.org/oclc/925592408> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/2768089227#Topic/botany_china_periodicals> .
+<http://www.worldcat.org/oclc/925592408> <http://schema.org/contributor> <http://experiment.worldcat.org/entity/work/data/2768089227#Organization/kuang_hsi_chih_wu_hsueh_hui_kuang_hsi_chih_wu_yen_chiu_so> .
+<http://www.worldcat.org/oclc/925592408> <http://schema.org/exampleOfWork> <http://worldcat.org/entity/work/id/2768089227> .
+<http://www.worldcat.org/oclc/925592408> <http://schema.org/productID> "925592408" .
+<http://www.worldcat.org/oclc/925592408> <http://schema.org/publisher> <http://experiment.worldcat.org/entity/work/data/2768089227#Agent/kuang> .
+<http://www.worldcat.org/oclc/925592408> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://worldcat.org/entity/work/id/2768089227> <http://umbel.org/umbel#isLike> <http://worldcat.org/issn/1000-3142> .
+<http://worldcat.org/issn/1000-3142> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://worldcat.org/issn/1000-3142> <http://schema.org/name> "Kuang-hsi chih wu."@en .
+<http://worldcat.org/issn/1000-3142> <http://schema.org/issn> "1000-3142" .
+<http://worldcat.org/issn/1000-3142> <http://umbel.org/umbel#isLike> <http://worldcat.org/entity/work/id/2768089227> .
+<http://experiment.worldcat.org/entity/work/data/2768089227#Place/kuei_lin_shih> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://experiment.worldcat.org/entity/work/data/2768089227#Place/kuei_lin_shih> <http://schema.org/name> "Kuei-lin shih" .
+<http://experiment.worldcat.org/entity/work/data/2768089227#Agent/kuang> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bibliograph.net/Agent> .
+<http://experiment.worldcat.org/entity/work/data/2768089227#Agent/kuang> <http://schema.org/name> "Kuang" .
+<http://experiment.worldcat.org/entity/work/data/2768089227#Topic/botany_china_periodicals> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/2768089227#Topic/botany_china_periodicals> <http://schema.org/name> "Botany - China - Periodicals"@en .
+<http://experiment.worldcat.org/entity/work/data/2768089227#Agent/hsi_chih_wu_yen_chiu_so> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bibliograph.net/Agent> .
+<http://experiment.worldcat.org/entity/work/data/2768089227#Agent/hsi_chih_wu_yen_chiu_so> <http://schema.org/name> "hsi chih wu yen chiu so." .
+<http://experiment.worldcat.org/entity/work/data/2768089227#Organization/kuang_hsi_chih_wu_hsueh_hui_kuang_hsi_chih_wu_yen_chiu_so> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+<http://experiment.worldcat.org/entity/work/data/2768089227#Organization/kuang_hsi_chih_wu_hsueh_hui_kuang_hsi_chih_wu_yen_chiu_so> <http://schema.org/name> "Kuang-hsi chih wu hsüeh hui. Kuang-hsi chih wu yen chiu so." .
+<http://www.worldcat.org/title/-/oclc/925592408> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#ContentTypeGenericResource> .
+<http://www.worldcat.org/title/-/oclc/925592408> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#InformationResource> .
+<http://www.worldcat.org/title/-/oclc/925592408> <http://schema.org/about> <http://www.worldcat.org/oclc/925592408> .
+<http://www.worldcat.org/title/-/oclc/925592408> <http://schema.org/dateModified> "2018-11-09" .
+<http://www.worldcat.org/title/-/oclc/925592408> <http://rdfs.org/ns/void#inDataset> <http://purl.oclc.org/dataset/WorldCat> .

@@ -1,0 +1,66 @@
+<http://www.worldcat.org/title/-/oclc/1047664165> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#ContentTypeGenericResource> .
+<http://www.worldcat.org/title/-/oclc/1047664165> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#InformationResource> .
+<http://www.worldcat.org/title/-/oclc/1047664165> <http://schema.org/about> <http://www.worldcat.org/oclc/1047664165> .
+<http://www.worldcat.org/title/-/oclc/1047664165> <http://schema.org/dateModified> "2019-06-02" .
+<http://www.worldcat.org/title/-/oclc/1047664165> <http://rdfs.org/ns/void#inDataset> <http://purl.oclc.org/dataset/WorldCat> .
+<http://id.loc.gov/vocabulary/countries/bl> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://id.loc.gov/vocabulary/countries/bl> <http://purl.org/dc/terms/identifier> "bl" .
+<http://worldcat.org/entity/work/id/6022911> <http://schema.org/name> "Boletim de botânica (Online)"@en .
+<http://worldcat.org/entity/work/id/6022911> <http://umbel.org/umbel#isLike> <http://worldcat.org/issn/2316-9052> .
+<http://experiment.worldcat.org/entity/work/data/6022911#Place/brazil> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://experiment.worldcat.org/entity/work/data/6022911#Place/brazil> <http://schema.org/name> "Brazil." .
+<http://www.worldcat.org/oclc/1047664165> <http://schema.org/publication> <http://www.worldcat.org/title/-/oclc/1047664165#PublicationEvent/sao_paulo_sp_brasil_instituto_de_biociencias_universidade_de_sao_paulo_1973> .
+<http://www.worldcat.org/oclc/1047664165> <http://schema.org/datePublished> "1973/9999" .
+<http://www.worldcat.org/oclc/1047664165> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/6022911#Place/brazil> .
+<http://www.worldcat.org/oclc/1047664165> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://www.worldcat.org/oclc/1047664165> <http://purl.org/library/placeOfPublication> <http://id.loc.gov/vocabulary/countries/bl> .
+<http://www.worldcat.org/oclc/1047664165> <http://schema.org/publisher> <http://experiment.worldcat.org/entity/work/data/6022911#Agent/instituto_de_biociencias_universidade_de_sao_paulo> .
+<http://www.worldcat.org/oclc/1047664165> <http://schema.org/genre> "Periodicals"@en .
+<http://www.worldcat.org/oclc/1047664165> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/6022911#Topic/botany_brazil> .
+<http://www.worldcat.org/oclc/1047664165> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/MediaObject> .
+<http://www.worldcat.org/oclc/1047664165> <http://schema.org/genre> "Electronic journals"@en .
+<http://www.worldcat.org/oclc/1047664165> <http://schema.org/workExample> <http://worldcat.org/issn/2316-9052> .
+<http://www.worldcat.org/oclc/1047664165> <http://schema.org/datePublished> "1973/" .
+<http://www.worldcat.org/oclc/1047664165> <http://schema.org/isSimilarTo> <http://www.worldcat.org/oclc/2805020> .
+<http://www.worldcat.org/oclc/1047664165> <http://schema.org/about> <http://dewey.info/class/581.981/e23/> .
+<http://www.worldcat.org/oclc/1047664165> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/6022911#Topic/plantkunde> .
+<http://www.worldcat.org/oclc/1047664165> <http://schema.org/exampleOfWork> <http://worldcat.org/entity/work/id/6022911> .
+<http://www.worldcat.org/oclc/1047664165> <http://purl.org/library/oclcnum> "1047664165" .
+<http://www.worldcat.org/oclc/1047664165> <http://schema.org/alternateName> "Boletim de botânica da Universidade de São Paulo" .
+<http://www.worldcat.org/oclc/1047664165> <http://schema.org/productID> "1047664165" .
+<http://www.worldcat.org/oclc/1047664165> <http://schema.org/url> <http://VH7QX3XE2P.search.serialssolutions.com/?V=1.0&L=VH7QX3XE2P&S=JCs&C=TC0001357948&T=marc> .
+<http://www.worldcat.org/oclc/1047664165> <http://www.w3.org/2007/05/powder-s#describedby> <http://www.worldcat.org/title/-/oclc/1047664165> .
+<http://www.worldcat.org/oclc/1047664165> <http://schema.org/inLanguage> "en" .
+<http://www.worldcat.org/oclc/1047664165> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://www.worldcat.org/oclc/1047664165> <http://purl.org/library/placeOfPublication> <http://experiment.worldcat.org/entity/work/data/6022911#Place/sao_paulo_sp_brasil> .
+<http://www.worldcat.org/oclc/1047664165> <http://schema.org/contributor> <http://experiment.worldcat.org/entity/work/data/6022911#Organization/universidade_de_sao_paulo_instituto_de_biociencias> .
+<http://www.worldcat.org/oclc/1047664165> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/6022911#Topic/botany> .
+<http://www.worldcat.org/oclc/1047664165> <http://schema.org/name> "Boletim de botânica"@en .
+<http://www.worldcat.org/oclc/1047664165> <http://schema.org/url> <http://www.jstor.org/journal/bolbotunisaopau> .
+<http://experiment.worldcat.org/entity/work/data/6022911#Place/sao_paulo_sp_brasil> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://experiment.worldcat.org/entity/work/data/6022911#Place/sao_paulo_sp_brasil> <http://schema.org/name> "São Paulo, SP, Brasil" .
+<http://www.jstor.org/journal/bolbotunisaopau> <http://www.w3.org/2000/01/rdf-schema#comment> "01/01/1973 to 01/31/2007" .
+<http://www.worldcat.org/title/-/oclc/1047664165#PublicationEvent/sao_paulo_sp_brasil_instituto_de_biociencias_universidade_de_sao_paulo_1973> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PublicationEvent> .
+<http://www.worldcat.org/title/-/oclc/1047664165#PublicationEvent/sao_paulo_sp_brasil_instituto_de_biociencias_universidade_de_sao_paulo_1973> <http://schema.org/location> <http://experiment.worldcat.org/entity/work/data/6022911#Place/sao_paulo_sp_brasil> .
+<http://www.worldcat.org/title/-/oclc/1047664165#PublicationEvent/sao_paulo_sp_brasil_instituto_de_biociencias_universidade_de_sao_paulo_1973> <http://schema.org/organizer> <http://experiment.worldcat.org/entity/work/data/6022911#Agent/instituto_de_biociencias_universidade_de_sao_paulo> .
+<http://www.worldcat.org/title/-/oclc/1047664165#PublicationEvent/sao_paulo_sp_brasil_instituto_de_biociencias_universidade_de_sao_paulo_1973> <http://schema.org/startDate> "1973-" .
+<http://www.worldcat.org/oclc/2805020> <http://schema.org/isSimilarTo> <http://www.worldcat.org/oclc/1047664165> .
+<http://www.worldcat.org/oclc/2805020> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://www.worldcat.org/oclc/2805020> <http://www.w3.org/2000/01/rdf-schema#label> "Boletim de botânica" .
+<http://www.worldcat.org/oclc/2805020> <http://schema.org/description> "Print version, 1973-2014:" .
+<http://experiment.worldcat.org/entity/work/data/6022911#Organization/universidade_de_sao_paulo_instituto_de_biociencias> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+<http://experiment.worldcat.org/entity/work/data/6022911#Organization/universidade_de_sao_paulo_instituto_de_biociencias> <http://schema.org/name> "Universidade de São Paulo. Instituto de Biociências." .
+<http://dewey.info/class/581.981/e23/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/6022911#Topic/botany_brazil> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/6022911#Topic/botany_brazil> <http://schema.org/name> "Botany--Brazil"@en .
+<http://experiment.worldcat.org/entity/work/data/6022911#Topic/botany> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/6022911#Topic/botany> <http://schema.org/name> "Botany"@en .
+<http://experiment.worldcat.org/entity/work/data/6022911#Agent/instituto_de_biociencias_universidade_de_sao_paulo> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bibliograph.net/Agent> .
+<http://experiment.worldcat.org/entity/work/data/6022911#Agent/instituto_de_biociencias_universidade_de_sao_paulo> <http://schema.org/name> "Instituto de Biociências, Universidade de São Paulo" .
+<http://worldcat.org/issn/2316-9052> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://worldcat.org/issn/2316-9052> <http://schema.org/name> "Boletim de botânica"@en .
+<http://worldcat.org/issn/2316-9052> <http://schema.org/issn> "2316-9052" .
+<http://worldcat.org/issn/2316-9052> <http://umbel.org/umbel#isLike> <http://worldcat.org/entity/work/id/6022911> .
+<http://experiment.worldcat.org/entity/work/data/6022911#Topic/plantkunde> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/6022911#Topic/plantkunde> <http://schema.org/name> "Plantkunde"@en .
+<http://VH7QX3XE2P.search.serialssolutions.com/?V=1.0&L=VH7QX3XE2P&S=JCs&C=TC0001357948&T=marc> <http://www.w3.org/2000/01/rdf-schema#comment> "VIEW FULL TEXT" .

@@ -1,0 +1,94 @@
+<http://experiment.worldcat.org/entity/work/data/836861624#Thing/australis_geobotanik> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> .
+<http://experiment.worldcat.org/entity/work/data/836861624#Thing/australis_geobotanik> <http://schema.org/name> "AUSTRALIS (GEOBOTANIK)" .
+<http://experiment.worldcat.org/entity/work/data/836861624#Thing/botanique> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> .
+<http://experiment.worldcat.org/entity/work/data/836861624#Thing/botanique> <http://schema.org/name> "BOTANIQUE" .
+<http://www.worldcat.org/oclc/889067746> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/836861624#Thing/systematische_botanik> .
+<http://www.worldcat.org/oclc/889067746> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/836861624#Thing/australis_geobotanik> .
+<http://www.worldcat.org/oclc/889067746> <http://schema.org/publication> <http://www.worldcat.org/title/-/oclc/889067746#PublicationEvent/melbourne_csiro> .
+<http://www.worldcat.org/oclc/889067746> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/836861624#Thing/australien_ozeanien_australischer_bund_commonwealth_of_australia> .
+<http://www.worldcat.org/oclc/889067746> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/836861624#Thing/australis_geobotanique> .
+<http://www.worldcat.org/oclc/889067746> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://www.worldcat.org/oclc/889067746> <http://schema.org/exampleOfWork> <http://worldcat.org/entity/work/id/836861624> .
+<http://www.worldcat.org/oclc/889067746> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://www.worldcat.org/oclc/889067746> <http://purl.org/library/placeOfPublication> <http://id.loc.gov/vocabulary/countries/vra> .
+<http://www.worldcat.org/oclc/889067746> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/836861624#Topic/pflanzen> .
+<http://www.worldcat.org/oclc/889067746> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/836861624#Thing/botanik> .
+<http://www.worldcat.org/oclc/889067746> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/836861624#Thing/systematic_botany> .
+<http://www.worldcat.org/oclc/889067746> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/836861624#Place/australien> .
+<http://www.worldcat.org/oclc/889067746> <http://www.w3.org/2007/05/powder-s#describedby> <http://www.worldcat.org/title/-/oclc/889067746> .
+<http://www.worldcat.org/oclc/889067746> <http://purl.org/library/oclcnum> "889067746" .
+<http://www.worldcat.org/oclc/889067746> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/836861624#Thing/australia_oceania_commonwealth_of_australia> .
+<http://www.worldcat.org/oclc/889067746> <http://schema.org/inLanguage> "en" .
+<http://www.worldcat.org/oclc/889067746> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/836861624#Topic/systematik> .
+<http://www.worldcat.org/oclc/889067746> <http://schema.org/genre> "Online-Publikation" .
+<http://www.worldcat.org/oclc/889067746> <http://schema.org/publisher> <http://experiment.worldcat.org/entity/work/data/836861624#Agent/csiro> .
+<http://www.worldcat.org/oclc/889067746> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/836861624#Thing/botanique> .
+<http://www.worldcat.org/oclc/889067746> <http://schema.org/url> <http://sfx.metabib.ch/sfx_locater?sid=ALEPH:EBI01&issn=1030-1887> .
+<http://www.worldcat.org/oclc/889067746> <http://schema.org/productID> "889067746" .
+<http://www.worldcat.org/oclc/889067746> <http://schema.org/datePublished> "1988/9999" .
+<http://www.worldcat.org/oclc/889067746> <http://schema.org/contributor> <http://experiment.worldcat.org/entity/work/data/836861624#Organization/australian_academy_of_science_canberra_a_c_t> .
+<http://www.worldcat.org/oclc/889067746> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/836861624#Thing/australis_geobotany> .
+<http://www.worldcat.org/oclc/889067746> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/836861624#Thing/botanique_systematique_+_mycologie_systematique> .
+<http://www.worldcat.org/oclc/889067746> <http://schema.org/contributor> <http://experiment.worldcat.org/entity/work/data/836861624#Organization/commonwealth_scientific_and_industrial_research_organization_australia> .
+<http://www.worldcat.org/oclc/889067746> <http://purl.org/library/placeOfPublication> <http://experiment.worldcat.org/entity/work/data/836861624#Place/melbourne> .
+<http://www.worldcat.org/oclc/889067746> <http://schema.org/about> <http://dewey.info/class/580.120994/> .
+<http://www.worldcat.org/oclc/889067746> <http://schema.org/workExample> <http://worldcat.org/issn/1030-1887> .
+<http://www.worldcat.org/oclc/889067746> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/836861624#Thing/botany> .
+<http://www.worldcat.org/oclc/889067746> <http://schema.org/genre> "Zeitschrift" .
+<http://www.worldcat.org/oclc/889067746> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/836861624#Thing/zeitschriften> .
+<http://www.worldcat.org/oclc/889067746> <http://schema.org/name> "Australian systematic botany : a journal for the systematic botany of all plant groups : a journal for papers in systematic botany of all plant groups, fossil and non-fossil, relevant to Australia and biogeographically related areas" .
+<http://www.worldcat.org/oclc/889067746> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/836861624#Thing/australie_oceanie_commonwealth_d_australie> .
+<http://id.loc.gov/vocabulary/countries/vra> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://id.loc.gov/vocabulary/countries/vra> <http://purl.org/dc/terms/identifier> "vra" .
+<http://experiment.worldcat.org/entity/work/data/836861624#Place/australien> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://experiment.worldcat.org/entity/work/data/836861624#Place/australien> <http://schema.org/name> "Australien." .
+<http://experiment.worldcat.org/entity/work/data/836861624#Place/australien> <http://schema.org/sameAs> <http://d-nb.info/gnd/4003900-6> .
+<http://experiment.worldcat.org/entity/work/data/836861624#Thing/australia_oceania_commonwealth_of_australia> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> .
+<http://experiment.worldcat.org/entity/work/data/836861624#Thing/australia_oceania_commonwealth_of_australia> <http://schema.org/name> "AUSTRALIA (OCEANIA). COMMONWEALTH OF AUSTRALIA" .
+<http://experiment.worldcat.org/entity/work/data/836861624#Place/melbourne> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://experiment.worldcat.org/entity/work/data/836861624#Place/melbourne> <http://schema.org/name> "Melbourne" .
+<http://experiment.worldcat.org/entity/work/data/836861624#Thing/botanique_systematique_+_mycologie_systematique> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> .
+<http://experiment.worldcat.org/entity/work/data/836861624#Thing/botanique_systematique_+_mycologie_systematique> <http://schema.org/name> "BOTANIQUE SYSTEMATIQUE + MYCOLOGIE SYSTEMATIQUE" .
+<http://worldcat.org/issn/1030-1887> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://worldcat.org/issn/1030-1887> <http://schema.org/name> "Australian systematic botany : a journal for the systematic botany of all plant groups : a journal for papers in systematic botany of all plant groups, fossil and non-fossil, relevant to Australia and biogeographically related areas" .
+<http://worldcat.org/issn/1030-1887> <http://schema.org/issn> "1030-1887" .
+<http://worldcat.org/issn/1030-1887> <http://umbel.org/umbel#isLike> <http://worldcat.org/entity/work/id/836861624> .
+<http://dewey.info/class/580.120994/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/836861624#Organization/australian_academy_of_science_canberra_a_c_t> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+<http://experiment.worldcat.org/entity/work/data/836861624#Organization/australian_academy_of_science_canberra_a_c_t> <http://schema.org/name> "Australian Academy of Science (Canberra, A.C.T.)" .
+<http://experiment.worldcat.org/entity/work/data/836861624#Thing/australis_geobotanique> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> .
+<http://experiment.worldcat.org/entity/work/data/836861624#Thing/australis_geobotanique> <http://schema.org/name> "AUSTRALIS (GÉOBOTANIQUE)" .
+<http://experiment.worldcat.org/entity/work/data/836861624#Thing/botanik> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> .
+<http://experiment.worldcat.org/entity/work/data/836861624#Thing/botanik> <http://schema.org/name> "BOTANIK" .
+<http://experiment.worldcat.org/entity/work/data/836861624#Organization/commonwealth_scientific_and_industrial_research_organization_australia> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+<http://experiment.worldcat.org/entity/work/data/836861624#Organization/commonwealth_scientific_and_industrial_research_organization_australia> <http://schema.org/name> "Commonwealth Scientific and Industrial Research Organization (Australia)" .
+<http://www.worldcat.org/title/-/oclc/889067746#PublicationEvent/melbourne_csiro> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PublicationEvent> .
+<http://www.worldcat.org/title/-/oclc/889067746#PublicationEvent/melbourne_csiro> <http://schema.org/location> <http://experiment.worldcat.org/entity/work/data/836861624#Place/melbourne> .
+<http://www.worldcat.org/title/-/oclc/889067746#PublicationEvent/melbourne_csiro> <http://schema.org/organizer> <http://experiment.worldcat.org/entity/work/data/836861624#Agent/csiro> .
+<http://worldcat.org/entity/work/id/836861624> <http://umbel.org/umbel#isLike> <http://worldcat.org/issn/1030-1887> .
+<http://experiment.worldcat.org/entity/work/data/836861624#Thing/australis_geobotany> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> .
+<http://experiment.worldcat.org/entity/work/data/836861624#Thing/australis_geobotany> <http://schema.org/name> "AUSTRALIS (GEOBOTANY)" .
+<http://experiment.worldcat.org/entity/work/data/836861624#Thing/australien_ozeanien_australischer_bund_commonwealth_of_australia> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> .
+<http://experiment.worldcat.org/entity/work/data/836861624#Thing/australien_ozeanien_australischer_bund_commonwealth_of_australia> <http://schema.org/name> "AUSTRALIEN (OZEANIEN). AUSTRALISCHER BUND, COMMONWEALTH OF AUSTRALIA" .
+<http://sfx.metabib.ch/sfx_locater?sid=ALEPH:EBI01&issn=1030-1887> <http://www.w3.org/2000/01/rdf-schema#comment> "Online via SFX" .
+<http://experiment.worldcat.org/entity/work/data/836861624#Topic/systematik> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/836861624#Topic/systematik> <http://schema.org/name> "Systematik" .
+<http://experiment.worldcat.org/entity/work/data/836861624#Thing/systematic_botany> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> .
+<http://experiment.worldcat.org/entity/work/data/836861624#Thing/systematic_botany> <http://schema.org/name> "SYSTEMATIC BOTANY" .
+<http://experiment.worldcat.org/entity/work/data/836861624#Topic/pflanzen> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/836861624#Topic/pflanzen> <http://schema.org/name> "Pflanzen" .
+<http://experiment.worldcat.org/entity/work/data/836861624#Agent/csiro> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bibliograph.net/Agent> .
+<http://experiment.worldcat.org/entity/work/data/836861624#Agent/csiro> <http://schema.org/name> "CSIRO." .
+<http://www.worldcat.org/title/-/oclc/889067746> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#ContentTypeGenericResource> .
+<http://www.worldcat.org/title/-/oclc/889067746> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#InformationResource> .
+<http://www.worldcat.org/title/-/oclc/889067746> <http://schema.org/about> <http://www.worldcat.org/oclc/889067746> .
+<http://www.worldcat.org/title/-/oclc/889067746> <http://schema.org/dateModified> "2019-09-09" .
+<http://www.worldcat.org/title/-/oclc/889067746> <http://rdfs.org/ns/void#inDataset> <http://purl.oclc.org/dataset/WorldCat> .
+<http://experiment.worldcat.org/entity/work/data/836861624#Thing/systematische_botanik> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> .
+<http://experiment.worldcat.org/entity/work/data/836861624#Thing/systematische_botanik> <http://schema.org/name> "SYSTEMATISCHE BOTANIK" .
+<http://experiment.worldcat.org/entity/work/data/836861624#Thing/zeitschriften> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> .
+<http://experiment.worldcat.org/entity/work/data/836861624#Thing/zeitschriften> <http://schema.org/name> "Zeitschriften" .
+<http://experiment.worldcat.org/entity/work/data/836861624#Thing/australie_oceanie_commonwealth_d_australie> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> .
+<http://experiment.worldcat.org/entity/work/data/836861624#Thing/australie_oceanie_commonwealth_d_australie> <http://schema.org/name> "AUSTRALIE (OCÉANIE). COMMONWEALTH D'AUSTRALIE" .
+<http://experiment.worldcat.org/entity/work/data/836861624#Thing/botany> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> .
+<http://experiment.worldcat.org/entity/work/data/836861624#Thing/botany> <http://schema.org/name> "BOTANY" .

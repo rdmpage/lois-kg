@@ -1,0 +1,40 @@
+<http://worldcat.org/issn/0187-7054> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://worldcat.org/issn/0187-7054> <http://schema.org/name> "Boletín del Instituto de Botánica, Universidad de Guadalajara." .
+<http://worldcat.org/issn/0187-7054> <http://schema.org/issn> "0187-7054" .
+<http://worldcat.org/issn/0187-7054> <http://umbel.org/umbel#isLike> <http://worldcat.org/entity/work/id/60002808> .
+<http://experiment.worldcat.org/entity/work/data/60002808#Place/zapopan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://experiment.worldcat.org/entity/work/data/60002808#Place/zapopan> <http://schema.org/name> "Zapopan" .
+<http://worldcat.org/entity/work/id/60002808> <http://umbel.org/umbel#isLike> <http://worldcat.org/issn/0187-7054> .
+<http://www.worldcat.org/oclc/73453354> <http://schema.org/workExample> <http://worldcat.org/issn/0187-7054> .
+<http://www.worldcat.org/oclc/73453354> <http://purl.org/library/placeOfPublication> <http://id.loc.gov/vocabulary/countries/mx> .
+<http://www.worldcat.org/oclc/73453354> <http://purl.org/library/oclcnum> "73453354" .
+<http://www.worldcat.org/oclc/73453354> <http://schema.org/productID> "73453354" .
+<http://www.worldcat.org/oclc/73453354> <http://schema.org/inLanguage> "es" .
+<http://www.worldcat.org/oclc/73453354> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://www.worldcat.org/oclc/73453354> <http://www.w3.org/2007/05/powder-s#describedby> <http://www.worldcat.org/title/-/oclc/73453354> .
+<http://www.worldcat.org/oclc/73453354> <http://purl.org/library/placeOfPublication> <http://experiment.worldcat.org/entity/work/data/60002808#Place/zapopan> .
+<http://www.worldcat.org/oclc/73453354> <http://schema.org/exampleOfWork> <http://worldcat.org/entity/work/id/60002808> .
+<http://www.worldcat.org/oclc/73453354> <http://schema.org/contributor> <http://experiment.worldcat.org/entity/work/data/60002808#Organization/universidad_de_guadalajara_instituto_de_botanica_ibug> .
+<http://www.worldcat.org/oclc/73453354> <http://schema.org/datePublished> "1991/" .
+<http://www.worldcat.org/oclc/73453354> <http://schema.org/datePublished> "1991/9999" .
+<http://www.worldcat.org/oclc/73453354> <http://schema.org/alternateName> "IBUG Boletín del Instituto de Botánica" .
+<http://www.worldcat.org/oclc/73453354> <http://schema.org/publication> <http://www.worldcat.org/title/-/oclc/73453354#PublicationEvent/zapopan_universidad_de_guadalajara_ibug_1991> .
+<http://www.worldcat.org/oclc/73453354> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://www.worldcat.org/oclc/73453354> <http://schema.org/publisher> <http://experiment.worldcat.org/entity/work/data/60002808#Agent/universidad_de_guadalajara_ibug> .
+<http://www.worldcat.org/oclc/73453354> <http://schema.org/alternateName> "Ibugana" .
+<http://www.worldcat.org/oclc/73453354> <http://schema.org/name> "Boletín del Instituto de Botánica, Universidad de Guadalajara." .
+<http://www.worldcat.org/title/-/oclc/73453354#PublicationEvent/zapopan_universidad_de_guadalajara_ibug_1991> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PublicationEvent> .
+<http://www.worldcat.org/title/-/oclc/73453354#PublicationEvent/zapopan_universidad_de_guadalajara_ibug_1991> <http://schema.org/location> <http://experiment.worldcat.org/entity/work/data/60002808#Place/zapopan> .
+<http://www.worldcat.org/title/-/oclc/73453354#PublicationEvent/zapopan_universidad_de_guadalajara_ibug_1991> <http://schema.org/organizer> <http://experiment.worldcat.org/entity/work/data/60002808#Agent/universidad_de_guadalajara_ibug> .
+<http://www.worldcat.org/title/-/oclc/73453354#PublicationEvent/zapopan_universidad_de_guadalajara_ibug_1991> <http://schema.org/startDate> "1991-" .
+<http://experiment.worldcat.org/entity/work/data/60002808#Agent/universidad_de_guadalajara_ibug> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bibliograph.net/Agent> .
+<http://experiment.worldcat.org/entity/work/data/60002808#Agent/universidad_de_guadalajara_ibug> <http://schema.org/name> "Universidad de Guadalajara, IBUG" .
+<http://id.loc.gov/vocabulary/countries/mx> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://id.loc.gov/vocabulary/countries/mx> <http://purl.org/dc/terms/identifier> "mx" .
+<http://www.worldcat.org/title/-/oclc/73453354> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#ContentTypeGenericResource> .
+<http://www.worldcat.org/title/-/oclc/73453354> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#InformationResource> .
+<http://www.worldcat.org/title/-/oclc/73453354> <http://schema.org/about> <http://www.worldcat.org/oclc/73453354> .
+<http://www.worldcat.org/title/-/oclc/73453354> <http://schema.org/dateModified> "2018-11-09" .
+<http://www.worldcat.org/title/-/oclc/73453354> <http://rdfs.org/ns/void#inDataset> <http://purl.oclc.org/dataset/WorldCat> .
+<http://experiment.worldcat.org/entity/work/data/60002808#Organization/universidad_de_guadalajara_instituto_de_botanica_ibug> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+<http://experiment.worldcat.org/entity/work/data/60002808#Organization/universidad_de_guadalajara_instituto_de_botanica_ibug> <http://schema.org/name> "Universidad de Guadalajara. Instituto de Botánica (IBUG)" .

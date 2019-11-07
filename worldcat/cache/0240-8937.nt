@@ -1,0 +1,65 @@
+<http://www.worldcat.org/oclc/656172690> <http://schema.org/name> "Bulletin du Muséum national d'histoire naturelle. Section B, Adansonia, botanique, phytochimie."@en .
+<http://www.worldcat.org/oclc/656172690> <http://purl.org/library/placeOfPublication> <http://experiment.worldcat.org/entity/work/data/353406130#Place/paris> .
+<http://www.worldcat.org/oclc/656172690> <http://schema.org/url> <http://www.biodiversitylibrary.org/bibliography/13855> .
+<http://www.worldcat.org/oclc/656172690> <http://www.w3.org/2007/05/powder-s#describedby> <http://www.worldcat.org/title/-/oclc/656172690> .
+<http://www.worldcat.org/oclc/656172690> <http://schema.org/url> <http://catalog.hathitrust.org/api/volumes/oclc/8093302.html> .
+<http://www.worldcat.org/oclc/656172690> <http://schema.org/datePublished> "1981/1996" .
+<http://www.worldcat.org/oclc/656172690> <http://schema.org/about> <http://id.worldcat.org/fast/836819> .
+<http://www.worldcat.org/oclc/656172690> <http://purl.org/library/oclcnum> "656172690" .
+<http://www.worldcat.org/oclc/656172690> <http://schema.org/exampleOfWork> <http://worldcat.org/entity/work/id/353406130> .
+<http://www.worldcat.org/oclc/656172690> <http://schema.org/url> <http://books.google.com/books?id=AJYaAQAAIAAJ> .
+<http://www.worldcat.org/oclc/656172690> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/MediaObject> .
+<http://www.worldcat.org/oclc/656172690> <http://schema.org/about> <http://dewey.info/class/581.05/e19/> .
+<http://www.worldcat.org/oclc/656172690> <http://schema.org/contributor> <http://viaf.org/viaf/125620226> .
+<http://www.worldcat.org/oclc/656172690> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://www.worldcat.org/oclc/656172690> <http://schema.org/url> <https://www.biodiversitylibrary.org/bibliography/13855> .
+<http://www.worldcat.org/oclc/656172690> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/353406130#Topic/plantkunde> .
+<http://www.worldcat.org/oclc/656172690> <http://schema.org/genre> "series"@en .
+<http://www.worldcat.org/oclc/656172690> <http://schema.org/url> <http://books.google.com/books?id=JCEaAQAAIAAJ> .
+<http://www.worldcat.org/oclc/656172690> <http://schema.org/alternateName> "Adansonia, botanique, phytochimie" .
+<http://www.worldcat.org/oclc/656172690> <http://schema.org/publisher> <http://experiment.worldcat.org/entity/work/data/353406130#Agent/museum_national_d_histoire_naturelle> .
+<http://www.worldcat.org/oclc/656172690> <http://purl.org/library/placeOfPublication> <http://id.loc.gov/vocabulary/countries/fr> .
+<http://www.worldcat.org/oclc/656172690> <http://schema.org/productID> "656172690" .
+<http://www.worldcat.org/oclc/656172690> <http://schema.org/genre> "Periodicals"@en .
+<http://www.worldcat.org/oclc/656172690> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/353406130#Topic/botanical_chemistry> .
+<http://www.worldcat.org/oclc/656172690> <http://schema.org/inLanguage> "en" .
+<http://www.worldcat.org/oclc/656172690> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://www.worldcat.org/oclc/656172690> <http://schema.org/publication> <http://www.worldcat.org/title/-/oclc/656172690#PublicationEvent/paris_museum_national_d_histoire_naturelle_1981_1996> .
+<http://www.worldcat.org/oclc/656172690> <http://schema.org/isSimilarTo> <http://www.worldcat.org/oclc/8093302> .
+<http://www.worldcat.org/oclc/656172690> <http://schema.org/about> <http://id.worldcat.org/fast/836869> .
+<http://www.worldcat.org/oclc/656172690> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/353406130#Topic/botany> .
+<http://www.worldcat.org/oclc/656172690> <http://schema.org/url> <http://books.google.com/books?id=CiIaAQAAIAAJ> .
+<http://id.worldcat.org/fast/836869> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://id.worldcat.org/fast/836869> <http://schema.org/name> "Botany"@en .
+<http://id.loc.gov/vocabulary/countries/fr> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://id.loc.gov/vocabulary/countries/fr> <http://purl.org/dc/terms/identifier> "fr" .
+<http://id.worldcat.org/fast/836819> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://id.worldcat.org/fast/836819> <http://schema.org/name> "Botanical chemistry"@en .
+<http://dewey.info/class/581.05/e19/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://www.worldcat.org/oclc/8093302> <http://schema.org/isSimilarTo> <http://www.worldcat.org/oclc/656172690> .
+<http://www.worldcat.org/oclc/8093302> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://www.worldcat.org/oclc/8093302> <http://www.w3.org/2000/01/rdf-schema#label> "Bulletin du Muséum national d'histoire naturelle. Section B, Adansonia, botanique, phytochimie" .
+<http://www.worldcat.org/oclc/8093302> <http://schema.org/description> "Print version:" .
+<http://experiment.worldcat.org/entity/work/data/353406130#Agent/museum_national_d_histoire_naturelle> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bibliograph.net/Agent> .
+<http://experiment.worldcat.org/entity/work/data/353406130#Agent/museum_national_d_histoire_naturelle> <http://schema.org/name> "Muséum national d'histoire naturelle" .
+<http://experiment.worldcat.org/entity/work/data/353406130#Place/paris> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://experiment.worldcat.org/entity/work/data/353406130#Place/paris> <http://schema.org/name> "Paris" .
+<http://www.worldcat.org/title/-/oclc/656172690#PublicationEvent/paris_museum_national_d_histoire_naturelle_1981_1996> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PublicationEvent> .
+<http://www.worldcat.org/title/-/oclc/656172690#PublicationEvent/paris_museum_national_d_histoire_naturelle_1981_1996> <http://schema.org/location> <http://experiment.worldcat.org/entity/work/data/353406130#Place/paris> .
+<http://www.worldcat.org/title/-/oclc/656172690#PublicationEvent/paris_museum_national_d_histoire_naturelle_1981_1996> <http://schema.org/organizer> <http://experiment.worldcat.org/entity/work/data/353406130#Agent/museum_national_d_histoire_naturelle> .
+<http://www.worldcat.org/title/-/oclc/656172690#PublicationEvent/paris_museum_national_d_histoire_naturelle_1981_1996> <http://schema.org/startDate> "" .
+<http://viaf.org/viaf/125620226> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+<http://viaf.org/viaf/125620226> <http://schema.org/name> "Muséum national d'histoire naturelle (France)" .
+<http://www.worldcat.org/title/-/oclc/656172690> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#ContentTypeGenericResource> .
+<http://www.worldcat.org/title/-/oclc/656172690> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#InformationResource> .
+<http://www.worldcat.org/title/-/oclc/656172690> <http://schema.org/about> <http://www.worldcat.org/oclc/656172690> .
+<http://www.worldcat.org/title/-/oclc/656172690> <http://schema.org/dateModified> "2019-11-03" .
+<http://www.worldcat.org/title/-/oclc/656172690> <http://rdfs.org/ns/void#inDataset> <http://purl.oclc.org/dataset/WorldCat> .
+<http://experiment.worldcat.org/entity/work/data/353406130#Topic/botany> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/353406130#Topic/botany> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://id.loc.gov/authorities/subjects/sh2007102112> .
+<http://experiment.worldcat.org/entity/work/data/353406130#Topic/botany> <http://schema.org/name> "Botany"@en .
+<http://experiment.worldcat.org/entity/work/data/353406130#Topic/plantkunde> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/353406130#Topic/plantkunde> <http://schema.org/name> "Plantkunde"@en .
+<http://experiment.worldcat.org/entity/work/data/353406130#Topic/botanical_chemistry> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/353406130#Topic/botanical_chemistry> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://id.loc.gov/authorities/subjects/sh2009117432> .
+<http://experiment.worldcat.org/entity/work/data/353406130#Topic/botanical_chemistry> <http://schema.org/name> "Botanical chemistry"@en .

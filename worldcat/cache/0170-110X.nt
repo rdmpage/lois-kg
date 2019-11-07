@@ -1,0 +1,44 @@
+<http://www.worldcat.org/title/-/oclc/1081568037#PublicationEvent/schwabisch_gmundeinhorn_verlag1978> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PublicationEvent> .
+<http://www.worldcat.org/title/-/oclc/1081568037#PublicationEvent/schwabisch_gmundeinhorn_verlag1978> <http://schema.org/location> <http://experiment.worldcat.org/entity/work/data/14537587#Place/schwabisch_gmund> .
+<http://www.worldcat.org/title/-/oclc/1081568037#PublicationEvent/schwabisch_gmundeinhorn_verlag1978> <http://schema.org/organizer> <http://experiment.worldcat.org/entity/work/data/14537587#Agent/einhorn_verlag> .
+<http://www.worldcat.org/title/-/oclc/1081568037#PublicationEvent/schwabisch_gmundeinhorn_verlag1978> <http://schema.org/startDate> "1978-" .
+<http://experiment.worldcat.org/entity/work/data/14537587#Place/schwabisch_gmund> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://experiment.worldcat.org/entity/work/data/14537587#Place/schwabisch_gmund> <http://schema.org/name> "Schwäbisch Gmünd" .
+<http://www.worldcat.org/oclc/1081568037> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/14537587#Topic/periodika_npa_elte> .
+<http://www.worldcat.org/oclc/1081568037> <http://purl.org/library/oclcnum> "1081568037" .
+<http://www.worldcat.org/oclc/1081568037> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://www.worldcat.org/oclc/1081568037> <http://schema.org/inLanguage> "de" .
+<http://www.worldcat.org/oclc/1081568037> <http://schema.org/name> "Zeitschrift für Mykologie" .
+<http://www.worldcat.org/oclc/1081568037> <http://schema.org/contributor> <http://experiment.worldcat.org/entity/work/data/14537587#Organization/deutsche_gesellschaft_fur_mykologie> .
+<http://www.worldcat.org/oclc/1081568037> <http://purl.org/library/placeOfPublication> <http://experiment.worldcat.org/entity/work/data/14537587#Place/schwabisch_gmund> .
+<http://www.worldcat.org/oclc/1081568037> <http://schema.org/publication> <http://www.worldcat.org/title/-/oclc/1081568037#PublicationEvent/schwabisch_gmundeinhorn_verlag1978> .
+<http://www.worldcat.org/oclc/1081568037> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://www.worldcat.org/oclc/1081568037> <http://schema.org/exampleOfWork> <http://worldcat.org/entity/work/id/14537587> .
+<http://www.worldcat.org/oclc/1081568037> <http://www.w3.org/2007/05/powder-s#describedby> <http://www.worldcat.org/title/-/oclc/1081568037> .
+<http://www.worldcat.org/oclc/1081568037> <http://schema.org/datePublished> "1978/" .
+<http://www.worldcat.org/oclc/1081568037> <http://schema.org/datePublished> "1978/9999" .
+<http://www.worldcat.org/oclc/1081568037> <http://schema.org/workExample> <http://worldcat.org/issn/0170-110X> .
+<http://www.worldcat.org/oclc/1081568037> <http://schema.org/publisher> <http://experiment.worldcat.org/entity/work/data/14537587#Agent/einhorn_verlag> .
+<http://www.worldcat.org/oclc/1081568037> <http://purl.org/library/placeOfPublication> <http://id.loc.gov/vocabulary/countries/gw> .
+<http://www.worldcat.org/oclc/1081568037> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/14537587#Topic/mikologia_periodika> .
+<http://www.worldcat.org/oclc/1081568037> <http://schema.org/productID> "1081568037" .
+<http://experiment.worldcat.org/entity/work/data/14537587#Agent/einhorn_verlag> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bibliograph.net/Agent> .
+<http://experiment.worldcat.org/entity/work/data/14537587#Agent/einhorn_verlag> <http://schema.org/name> "Einhorn-Verlag" .
+<http://www.worldcat.org/title/-/oclc/1081568037> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#ContentTypeGenericResource> .
+<http://www.worldcat.org/title/-/oclc/1081568037> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#InformationResource> .
+<http://www.worldcat.org/title/-/oclc/1081568037> <http://schema.org/about> <http://www.worldcat.org/oclc/1081568037> .
+<http://www.worldcat.org/title/-/oclc/1081568037> <http://schema.org/dateModified> "2019-08-08" .
+<http://www.worldcat.org/title/-/oclc/1081568037> <http://rdfs.org/ns/void#inDataset> <http://purl.oclc.org/dataset/WorldCat> .
+<http://experiment.worldcat.org/entity/work/data/14537587#Topic/mikologia_periodika> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/14537587#Topic/mikologia_periodika> <http://schema.org/name> "mikológia--periodika" .
+<http://worldcat.org/issn/0170-110X> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://worldcat.org/issn/0170-110X> <http://schema.org/name> "Zeitschrift für Mykologie" .
+<http://worldcat.org/issn/0170-110X> <http://schema.org/issn> "0170-110X" .
+<http://worldcat.org/issn/0170-110X> <http://umbel.org/umbel#isLike> <http://worldcat.org/entity/work/id/14537587> .
+<http://experiment.worldcat.org/entity/work/data/14537587#Topic/periodika_npa_elte> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/14537587#Topic/periodika_npa_elte> <http://schema.org/name> "periodika--NPA--ELTE" .
+<http://experiment.worldcat.org/entity/work/data/14537587#Organization/deutsche_gesellschaft_fur_mykologie> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+<http://experiment.worldcat.org/entity/work/data/14537587#Organization/deutsche_gesellschaft_fur_mykologie> <http://schema.org/name> "Deutsche Gesellschaft für Mykologie" .
+<http://id.loc.gov/vocabulary/countries/gw> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://id.loc.gov/vocabulary/countries/gw> <http://purl.org/dc/terms/identifier> "gw" .
+<http://worldcat.org/entity/work/id/14537587> <http://umbel.org/umbel#isLike> <http://worldcat.org/issn/0170-110X> .

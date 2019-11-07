@@ -1,0 +1,38 @@
+<http://www.worldcat.org/oclc/972039442> <http://schema.org/isPartOf> <http://experiment.worldcat.org/entity/work/data/4062858848#Series/online_access_scielo_scielo> .
+<http://www.worldcat.org/oclc/972039442> <http://schema.org/publication> <http://www.worldcat.org/title/-/oclc/972039442#PublicationEvent/universidad_de_costa_rica_publicaciones> .
+<http://www.worldcat.org/oclc/972039442> <http://schema.org/workExample> <http://worldcat.org/issn/2215-2067> .
+<http://www.worldcat.org/oclc/972039442> <http://schema.org/productID> "972039442" .
+<http://www.worldcat.org/oclc/972039442> <http://schema.org/name> "Lankesteriana: International Journal of Orchidology."@en .
+<http://www.worldcat.org/oclc/972039442> <http://purl.org/library/oclcnum> "972039442" .
+<http://www.worldcat.org/oclc/972039442> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://www.worldcat.org/oclc/972039442> <http://www.w3.org/2007/05/powder-s#describedby> <http://www.worldcat.org/title/-/oclc/972039442> .
+<http://www.worldcat.org/oclc/972039442> <http://schema.org/url> <http://www.scielo.sa.cr/scielo.php?script=sci_serial&pid=1409-3871&lng=en&nrm=iso> .
+<http://www.worldcat.org/oclc/972039442> <http://schema.org/exampleOfWork> <http://worldcat.org/entity/work/id/4062858848> .
+<http://www.worldcat.org/oclc/972039442> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://www.worldcat.org/oclc/972039442> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/MediaObject> .
+<http://www.worldcat.org/oclc/972039442> <http://schema.org/url> <http://revistas.ucr.ac.cr/index.php/lankesteriana/index> .
+<http://www.worldcat.org/oclc/972039442> <http://schema.org/isPartOf> <http://experiment.worldcat.org/entity/work/data/4062858848#Series/online_access_doaj_directory_of_open_access_journals_doaj_directory_of_open_access_journals> .
+<http://www.worldcat.org/oclc/972039442> <http://schema.org/publisher> <http://experiment.worldcat.org/entity/work/data/4062858848#Agent/universidad_de_costa_rica_publicaciones> .
+<http://www.worldcat.org/oclc/972039442> <http://schema.org/inLanguage> "en" .
+<http://www.scielo.sa.cr/scielo.php?script=sci_serial&pid=1409-3871&lng=en&nrm=iso> <http://www.w3.org/2000/01/rdf-schema#comment> "View journal online via SciELO (2014 - 2014)" .
+<http://experiment.worldcat.org/entity/work/data/4062858848#Series/online_access_scielo_scielo> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bibliograph.net/PublicationSeries> .
+<http://experiment.worldcat.org/entity/work/data/4062858848#Series/online_access_scielo_scielo> <http://schema.org/hasPart> <http://www.worldcat.org/oclc/972039442> .
+<http://experiment.worldcat.org/entity/work/data/4062858848#Series/online_access_scielo_scielo> <http://schema.org/name> "Online access: SciELO SciELO." .
+<http://worldcat.org/entity/work/id/4062858848> <http://umbel.org/umbel#isLike> <http://worldcat.org/issn/2215-2067> .
+<http://revistas.ucr.ac.cr/index.php/lankesteriana/index> <http://www.w3.org/2000/01/rdf-schema#comment> "View journal online via DOAJ: Directory of Open Access Journals (2001 to present)" .
+<http://www.worldcat.org/title/-/oclc/972039442#PublicationEvent/universidad_de_costa_rica_publicaciones> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PublicationEvent> .
+<http://www.worldcat.org/title/-/oclc/972039442#PublicationEvent/universidad_de_costa_rica_publicaciones> <http://schema.org/organizer> <http://experiment.worldcat.org/entity/work/data/4062858848#Agent/universidad_de_costa_rica_publicaciones> .
+<http://worldcat.org/issn/2215-2067> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://worldcat.org/issn/2215-2067> <http://schema.org/name> "Lankesteriana: International Journal of Orchidology."@en .
+<http://worldcat.org/issn/2215-2067> <http://schema.org/issn> "2215-2067" .
+<http://worldcat.org/issn/2215-2067> <http://umbel.org/umbel#isLike> <http://worldcat.org/entity/work/id/4062858848> .
+<http://experiment.worldcat.org/entity/work/data/4062858848#Agent/universidad_de_costa_rica_publicaciones> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bibliograph.net/Agent> .
+<http://experiment.worldcat.org/entity/work/data/4062858848#Agent/universidad_de_costa_rica_publicaciones> <http://schema.org/name> "Universidad de Costa Rica / Publicaciones." .
+<http://experiment.worldcat.org/entity/work/data/4062858848#Series/online_access_doaj_directory_of_open_access_journals_doaj_directory_of_open_access_journals> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bibliograph.net/PublicationSeries> .
+<http://experiment.worldcat.org/entity/work/data/4062858848#Series/online_access_doaj_directory_of_open_access_journals_doaj_directory_of_open_access_journals> <http://schema.org/hasPart> <http://www.worldcat.org/oclc/972039442> .
+<http://experiment.worldcat.org/entity/work/data/4062858848#Series/online_access_doaj_directory_of_open_access_journals_doaj_directory_of_open_access_journals> <http://schema.org/name> "Online access: DOAJ: Directory of Open Access Journals DOAJ: Directory of Open Access Journals." .
+<http://www.worldcat.org/title/-/oclc/972039442> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#ContentTypeGenericResource> .
+<http://www.worldcat.org/title/-/oclc/972039442> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#InformationResource> .
+<http://www.worldcat.org/title/-/oclc/972039442> <http://schema.org/about> <http://www.worldcat.org/oclc/972039442> .
+<http://www.worldcat.org/title/-/oclc/972039442> <http://schema.org/dateModified> "2019-02-09" .
+<http://www.worldcat.org/title/-/oclc/972039442> <http://rdfs.org/ns/void#inDataset> <http://purl.oclc.org/dataset/WorldCat> .

@@ -1,0 +1,72 @@
+<http://viaf.org/viaf/265113822> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+<http://viaf.org/viaf/265113822> <http://schema.org/name> "Rijksherbarium/Hortus Botanicus (Netherlands)," .
+<http://www.worldcat.org/oclc/733974793> <http://schema.org/isSimilarTo> <http://www.worldcat.org/oclc/2053096> .
+<http://www.worldcat.org/oclc/733974793> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://www.worldcat.org/oclc/733974793> <http://www.w3.org/2000/01/rdf-schema#label> "Blumea" .
+<http://www.worldcat.org/oclc/733974793> <http://schema.org/description> "Online version, -2016:" .
+<http://www.worldcat.org/oclc/2053096> <http://schema.org/contributor> <http://viaf.org/viaf/132063008> .
+<http://www.worldcat.org/oclc/2053096> <http://schema.org/productID> "2053096" .
+<http://www.worldcat.org/oclc/2053096> <http://schema.org/isSimilarTo> <http://www.worldcat.org/oclc/733974793> .
+<http://www.worldcat.org/oclc/2053096> <http://schema.org/url> <http://openurl.ingenta.com/content?genre=journal&issn=0006-5196> .
+<http://www.worldcat.org/oclc/2053096> <http://schema.org/datePublished> "1934/2016" .
+<http://www.worldcat.org/oclc/2053096> <http://purl.org/library/placeOfPublication> <http://id.loc.gov/vocabulary/countries/ne> .
+<http://www.worldcat.org/oclc/2053096> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/3856330316#Topic/taxonomie> .
+<http://www.worldcat.org/oclc/2053096> <http://schema.org/exampleOfWork> <http://worldcat.org/entity/work/id/3856330316> .
+<http://www.worldcat.org/oclc/2053096> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/3856330316#Topic/botany> .
+<http://www.worldcat.org/oclc/2053096> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/3856330316#Topic/biogeografie> .
+<http://www.worldcat.org/oclc/2053096> <http://schema.org/contributor> <http://viaf.org/viaf/265113822> .
+<http://www.worldcat.org/oclc/2053096> <http://schema.org/contributor> <http://viaf.org/viaf/168262030> .
+<http://www.worldcat.org/oclc/2053096> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://www.worldcat.org/oclc/2053096> <http://schema.org/inLanguage> "en" .
+<http://www.worldcat.org/oclc/2053096> <http://schema.org/about> <http://id.worldcat.org/fast/1063243> .
+<http://www.worldcat.org/oclc/2053096> <http://schema.org/name> "Blumea : tijdschrift voor de systematiek en de geografie der planten : a journal of plant taxonomy and plant geography."@en .
+<http://www.worldcat.org/oclc/2053096> <http://schema.org/about> <http://dewey.info/class/580.5/> .
+<http://www.worldcat.org/oclc/2053096> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/3856330316#Topic/planten> .
+<http://www.worldcat.org/oclc/2053096> <http://schema.org/genre> "Electronic journals"@en .
+<http://www.worldcat.org/oclc/2053096> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://www.worldcat.org/oclc/2053096> <http://www.w3.org/2007/05/powder-s#describedby> <http://www.worldcat.org/title/-/oclc/2053096> .
+<http://www.worldcat.org/oclc/2053096> <http://schema.org/genre> "Classification"@en .
+<http://www.worldcat.org/oclc/2053096> <http://schema.org/about> <http://id.loc.gov/authorities/subjects/sh85101689> .
+<http://www.worldcat.org/oclc/2053096> <http://schema.org/workExample> <http://worldcat.org/issn/0006-5196> .
+<http://www.worldcat.org/oclc/2053096> <http://schema.org/genre> "Periodicals"@en .
+<http://www.worldcat.org/oclc/2053096> <http://purl.org/library/oclcnum> "2053096" .
+<http://www.worldcat.org/oclc/2053096> <http://schema.org/about> <http://id.worldcat.org/fast/1065823> .
+<http://www.worldcat.org/oclc/2053096> <http://schema.org/about> <http://id.worldcat.org/fast/836869> .
+<http://www.worldcat.org/oclc/2053096> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/3856330316#Topic/plants> .
+<http://experiment.worldcat.org/entity/work/data/3856330316#Topic/botany> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/3856330316#Topic/botany> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://id.loc.gov/authorities/subjects/sh2007102112> .
+<http://experiment.worldcat.org/entity/work/data/3856330316#Topic/botany> <http://schema.org/name> "Botany"@en .
+<http://worldcat.org/entity/work/id/3856330316> <http://umbel.org/umbel#isLike> <http://worldcat.org/issn/0006-5196> .
+<http://viaf.org/viaf/132063008> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+<http://viaf.org/viaf/132063008> <http://schema.org/name> "Naturalis Biodiversity Center," .
+<http://experiment.worldcat.org/entity/work/data/3856330316#Topic/plants> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/3856330316#Topic/plants> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://id.loc.gov/authorities/subjects/sh85015982> .
+<http://experiment.worldcat.org/entity/work/data/3856330316#Topic/plants> <http://schema.org/name> "Plants"@en .
+<http://id.loc.gov/vocabulary/countries/ne> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://id.loc.gov/vocabulary/countries/ne> <http://purl.org/dc/terms/identifier> "ne" .
+<http://www.worldcat.org/title/-/oclc/2053096> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#ContentTypeGenericResource> .
+<http://www.worldcat.org/title/-/oclc/2053096> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#InformationResource> .
+<http://www.worldcat.org/title/-/oclc/2053096> <http://schema.org/about> <http://www.worldcat.org/oclc/2053096> .
+<http://www.worldcat.org/title/-/oclc/2053096> <http://schema.org/dateModified> "2019-03-16" .
+<http://www.worldcat.org/title/-/oclc/2053096> <http://rdfs.org/ns/void#inDataset> <http://purl.oclc.org/dataset/WorldCat> .
+<http://id.worldcat.org/fast/836869> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://id.worldcat.org/fast/836869> <http://schema.org/name> "Botany"@en .
+<http://experiment.worldcat.org/entity/work/data/3856330316#Topic/taxonomie> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/3856330316#Topic/taxonomie> <http://schema.org/name> "Taxonomie"@en .
+<http://id.worldcat.org/fast/1065823> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://id.worldcat.org/fast/1065823> <http://schema.org/name> "Plants"@en .
+<http://experiment.worldcat.org/entity/work/data/3856330316#Topic/planten> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/3856330316#Topic/planten> <http://schema.org/name> "Planten"@en .
+<http://worldcat.org/issn/0006-5196> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://worldcat.org/issn/0006-5196> <http://schema.org/name> "Blumea : tijdschrift voor de systematiek en de geografie der planten : a journal of plant taxonomy and plant geography."@en .
+<http://worldcat.org/issn/0006-5196> <http://schema.org/issn> "0006-5196" .
+<http://worldcat.org/issn/0006-5196> <http://umbel.org/umbel#isLike> <http://worldcat.org/entity/work/id/3856330316> .
+<http://dewey.info/class/580.5/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://viaf.org/viaf/168262030> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+<http://viaf.org/viaf/168262030> <http://schema.org/name> "Rijksherbarium (Netherlands)," .
+<http://experiment.worldcat.org/entity/work/data/3856330316#Topic/biogeografie> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/3856330316#Topic/biogeografie> <http://schema.org/name> "Biogeografie"@en .
+<http://id.worldcat.org/fast/1063243> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://id.worldcat.org/fast/1063243> <http://schema.org/name> "Phytogeography"@en .
+<http://id.loc.gov/authorities/subjects/sh85101689> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://id.loc.gov/authorities/subjects/sh85101689> <http://schema.org/name> "Phytogeography"@en .

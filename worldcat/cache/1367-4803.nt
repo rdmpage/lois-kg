@@ -1,0 +1,75 @@
+<http://dewey.info/class/570.285/e1/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://id.worldcat.org/fast/998329> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://id.worldcat.org/fast/998329> <http://schema.org/name> "Life sciences--Data processing"@en .
+<http://www.worldcat.org/oclc/222290269> <http://schema.org/genre> "Periodicals"@en .
+<http://www.worldcat.org/oclc/222290269> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/1163432493#Topic/computational_biology> .
+<http://www.worldcat.org/oclc/222290269> <http://schema.org/alternateName> "Bioinformatics online" .
+<http://www.worldcat.org/oclc/222290269> <http://schema.org/isSimilarTo> <http://www.worldcat.org/oclc/39184474> .
+<http://www.worldcat.org/oclc/222290269> <http://schema.org/publication> <http://www.worldcat.org/title/-/oclc/222290269#PublicationEvent/oxford_oxford_university_press_1998> .
+<http://www.worldcat.org/oclc/222290269> <http://www.w3.org/2007/05/powder-s#describedby> <http://www.worldcat.org/title/-/oclc/222290269> .
+<http://www.worldcat.org/oclc/222290269> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/1163432493#Topic/life_sciences_data_processing> .
+<http://www.worldcat.org/oclc/222290269> <http://schema.org/url> <http://www.oxfordjournals.org/content?genre=journal&issn=1367-4803> .
+<http://www.worldcat.org/oclc/222290269> <http://schema.org/url> <http://firstsearch.oclc.org> .
+<http://www.worldcat.org/oclc/222290269> <http://purl.org/library/placeOfPublication> <http://id.loc.gov/vocabulary/countries/enk> .
+<http://www.worldcat.org/oclc/222290269> <http://schema.org/about> <http://id.worldcat.org/fast/998329> .
+<http://www.worldcat.org/oclc/222290269> <http://schema.org/url> <http://highwire.stanford.edu/lists/freeart.dtl> .
+<http://www.worldcat.org/oclc/222290269> <http://schema.org/about> <http://dewey.info/class/570.285/e1/> .
+<http://www.worldcat.org/oclc/222290269> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://www.worldcat.org/oclc/222290269> <http://schema.org/datePublished> "1998/9999" .
+<http://www.worldcat.org/oclc/222290269> <http://schema.org/workExample> <http://worldcat.org/issn/1367-4803> .
+<http://www.worldcat.org/oclc/222290269> <http://schema.org/url> <http://bioinformatics.oxfordjournals.org> .
+<http://www.worldcat.org/oclc/222290269> <http://schema.org/publisher> <http://experiment.worldcat.org/entity/work/data/1163432493#Agent/oxford_university_press> .
+<http://www.worldcat.org/oclc/222290269> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/1163432493#Topic/genomes_data_processing> .
+<http://www.worldcat.org/oclc/222290269> <http://purl.org/library/oclcnum> "222290269" .
+<http://www.worldcat.org/oclc/222290269> <http://schema.org/copyrightYear> "1998/" .
+<http://www.worldcat.org/oclc/222290269> <http://schema.org/about> <http://id.worldcat.org/fast/940226> .
+<http://www.worldcat.org/oclc/222290269> <http://schema.org/genre> "Electronic journals"@en .
+<http://www.worldcat.org/oclc/222290269> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://www.worldcat.org/oclc/222290269> <http://schema.org/exampleOfWork> <http://worldcat.org/entity/work/id/1163432493> .
+<http://www.worldcat.org/oclc/222290269> <http://purl.org/library/placeOfPublication> <http://experiment.worldcat.org/entity/work/data/1163432493#Place/oxford> .
+<http://www.worldcat.org/oclc/222290269> <http://schema.org/name> "Bioinformatics."@en .
+<http://www.worldcat.org/oclc/222290269> <http://schema.org/url> <http://bioinformatics.oupjournals.org> .
+<http://www.worldcat.org/oclc/222290269> <http://schema.org/inLanguage> "en" .
+<http://www.worldcat.org/oclc/222290269> <http://schema.org/url> <http://firstsearch.oclc.org/journal=1367-4803;screen=info;ECOIP> .
+<http://www.worldcat.org/oclc/222290269> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/1163432493#Topic/genome> .
+<http://www.worldcat.org/oclc/222290269> <http://umbel.org/umbel#isLike> <http://bnb.data.bl.uk/id/resource/GB9840139> .
+<http://www.worldcat.org/oclc/222290269> <http://schema.org/genre> "Computer network resources"@en .
+<http://www.worldcat.org/oclc/222290269> <http://schema.org/productID> "222290269" .
+<http://experiment.worldcat.org/entity/work/data/1163432493#Topic/life_sciences_data_processing> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/1163432493#Topic/life_sciences_data_processing> <http://schema.org/hasPart> <http://id.loc.gov/authorities/subjects/sh85076841> .
+<http://experiment.worldcat.org/entity/work/data/1163432493#Topic/life_sciences_data_processing> <http://schema.org/name> "Life sciences--Data processing"@en .
+<http://id.worldcat.org/fast/940226> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://id.worldcat.org/fast/940226> <http://schema.org/name> "Genomes--Data processing"@en .
+<http://experiment.worldcat.org/entity/work/data/1163432493#Topic/genome> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/1163432493#Topic/genome> <http://schema.org/name> "Genome"@en .
+<http://worldcat.org/entity/work/id/1163432493> <http://schema.org/name> "Bioinformatics (Oxford, England)"@en .
+<http://worldcat.org/entity/work/id/1163432493> <http://umbel.org/umbel#isLike> <http://worldcat.org/issn/1367-4803> .
+<http://id.loc.gov/vocabulary/countries/enk> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://id.loc.gov/vocabulary/countries/enk> <http://purl.org/dc/terms/identifier> "enk" .
+<http://experiment.worldcat.org/entity/work/data/1163432493#Place/oxford> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://experiment.worldcat.org/entity/work/data/1163432493#Place/oxford> <http://schema.org/name> "Oxford" .
+<http://bioinformatics.oupjournals.org> <http://www.w3.org/2000/01/rdf-schema#comment> "Oxford Journals" .
+<http://experiment.worldcat.org/entity/work/data/1163432493#Topic/computational_biology> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/1163432493#Topic/computational_biology> <http://schema.org/name> "Computational Biology"@en .
+<http://worldcat.org/issn/1367-4803> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://worldcat.org/issn/1367-4803> <http://schema.org/name> "Bioinformatics."@en .
+<http://worldcat.org/issn/1367-4803> <http://schema.org/issn> "1367-4803" .
+<http://worldcat.org/issn/1367-4803> <http://umbel.org/umbel#isLike> <http://worldcat.org/entity/work/id/1163432493> .
+<http://firstsearch.oclc.org> <http://www.w3.org/2000/01/rdf-schema#comment> "Address for accessing the journal using authorization number and password through OCLC FirstSearch Electronic Collections Online. Subscription to online journal required for access to abstracts and full text" .
+<http://www.worldcat.org/title/-/oclc/222290269> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#ContentTypeGenericResource> .
+<http://www.worldcat.org/title/-/oclc/222290269> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#InformationResource> .
+<http://www.worldcat.org/title/-/oclc/222290269> <http://schema.org/about> <http://www.worldcat.org/oclc/222290269> .
+<http://www.worldcat.org/title/-/oclc/222290269> <http://schema.org/dateModified> "2018-11-11" .
+<http://www.worldcat.org/title/-/oclc/222290269> <http://rdfs.org/ns/void#inDataset> <http://purl.oclc.org/dataset/WorldCat> .
+<http://experiment.worldcat.org/entity/work/data/1163432493#Topic/genomes_data_processing> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/1163432493#Topic/genomes_data_processing> <http://schema.org/hasPart> <http://id.loc.gov/authorities/subjects/sh85053924> .
+<http://experiment.worldcat.org/entity/work/data/1163432493#Topic/genomes_data_processing> <http://schema.org/name> "Genomes--Data processing"@en .
+<http://www.worldcat.org/title/-/oclc/222290269#PublicationEvent/oxford_oxford_university_press_1998> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PublicationEvent> .
+<http://www.worldcat.org/title/-/oclc/222290269#PublicationEvent/oxford_oxford_university_press_1998> <http://schema.org/location> <http://experiment.worldcat.org/entity/work/data/1163432493#Place/oxford> .
+<http://www.worldcat.org/title/-/oclc/222290269#PublicationEvent/oxford_oxford_university_press_1998> <http://schema.org/organizer> <http://experiment.worldcat.org/entity/work/data/1163432493#Agent/oxford_university_press> .
+<http://www.worldcat.org/oclc/39184474> <http://schema.org/isSimilarTo> <http://www.worldcat.org/oclc/222290269> .
+<http://www.worldcat.org/oclc/39184474> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://www.worldcat.org/oclc/39184474> <http://www.w3.org/2000/01/rdf-schema#label> "Bioionformatics (Oxford, England : Online)" .
+<http://experiment.worldcat.org/entity/work/data/1163432493#Agent/oxford_university_press> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bibliograph.net/Agent> .
+<http://experiment.worldcat.org/entity/work/data/1163432493#Agent/oxford_university_press> <http://schema.org/name> "Oxford University Press" .
+<http://firstsearch.oclc.org/journal=1367-4803;screen=info;ECOIP> <http://www.w3.org/2000/01/rdf-schema#comment> "Address for accessing the journal from an authorized IP address through OCLC FirstSearch Electronic Collections Online. Subscription to online journal required for access to abstracts and full text" .

@@ -1,0 +1,49 @@
+<http://worldcat.org/entity/work/id/2398027> <http://umbel.org/umbel#isLike> <http://worldcat.org/issn/1945-9432> .
+<http://experiment.worldcat.org/entity/work/data/2398027#Agent/the_society> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bibliograph.net/Agent> .
+<http://experiment.worldcat.org/entity/work/data/2398027#Agent/the_society> <http://schema.org/name> "The Society" .
+<http://experiment.worldcat.org/entity/work/data/2398027#Topic/zoology> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/2398027#Topic/zoology> <http://schema.org/name> "Zoology"@en .
+<http://www.worldcat.org/title/-/oclc/1064318605> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#ContentTypeGenericResource> .
+<http://www.worldcat.org/title/-/oclc/1064318605> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#InformationResource> .
+<http://www.worldcat.org/title/-/oclc/1064318605> <http://schema.org/about> <http://www.worldcat.org/oclc/1064318605> .
+<http://www.worldcat.org/title/-/oclc/1064318605> <http://schema.org/dateModified> "2019-02-23" .
+<http://www.worldcat.org/title/-/oclc/1064318605> <http://rdfs.org/ns/void#inDataset> <http://purl.oclc.org/dataset/WorldCat> .
+<http://id.loc.gov/vocabulary/countries/enk> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://id.loc.gov/vocabulary/countries/enk> <http://purl.org/dc/terms/identifier> "enk" .
+<http://www.worldcat.org/oclc/1064318605> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/2398027#Topic/zoology> .
+<http://www.worldcat.org/oclc/1064318605> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://www.worldcat.org/oclc/1064318605> <http://schema.org/contributor> <http://experiment.worldcat.org/entity/work/data/2398027#Organization/linnean_society_of_london> .
+<http://www.worldcat.org/oclc/1064318605> <http://schema.org/inLanguage> "en" .
+<http://www.worldcat.org/oclc/1064318605> <http://purl.org/library/placeOfPublication> <http://id.loc.gov/vocabulary/countries/enk> .
+<http://www.worldcat.org/oclc/1064318605> <http://purl.org/library/placeOfPublication> <http://dbpedia.org/resource/London> .
+<http://www.worldcat.org/oclc/1064318605> <http://www.w3.org/2007/05/powder-s#describedby> <http://www.worldcat.org/title/-/oclc/1064318605> .
+<http://www.worldcat.org/oclc/1064318605> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://www.worldcat.org/oclc/1064318605> <http://schema.org/exampleOfWork> <http://worldcat.org/entity/work/id/2398027> .
+<http://www.worldcat.org/oclc/1064318605> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/2398027#Topic/botany> .
+<http://www.worldcat.org/oclc/1064318605> <http://purl.org/library/oclcnum> "1064318605" .
+<http://www.worldcat.org/oclc/1064318605> <http://schema.org/alternateName> "Transactions of the Linnean Society of London" .
+<http://www.worldcat.org/oclc/1064318605> <http://schema.org/workExample> <http://worldcat.org/issn/1945-9432> .
+<http://www.worldcat.org/oclc/1064318605> <http://schema.org/genre> "Periodicals"@en .
+<http://www.worldcat.org/oclc/1064318605> <http://schema.org/publisher> <http://experiment.worldcat.org/entity/work/data/2398027#Agent/the_society> .
+<http://www.worldcat.org/oclc/1064318605> <http://schema.org/datePublished> "1791/" .
+<http://www.worldcat.org/oclc/1064318605> <http://schema.org/productID> "1064318605" .
+<http://www.worldcat.org/oclc/1064318605> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/2398027#Topic/natural_history> .
+<http://www.worldcat.org/oclc/1064318605> <http://schema.org/name> "Transactions of the Linnean Society."@en .
+<http://www.worldcat.org/oclc/1064318605> <http://schema.org/publication> <http://www.worldcat.org/title/-/oclc/1064318605#PublicationEvent/london_the_society_1791> .
+<http://www.worldcat.org/oclc/1064318605> <http://schema.org/datePublished> "1791/1875" .
+<http://dbpedia.org/resource/London> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://dbpedia.org/resource/London> <http://schema.org/name> "London" .
+<http://experiment.worldcat.org/entity/work/data/2398027#Topic/natural_history> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/2398027#Topic/natural_history> <http://schema.org/name> "Natural history"@en .
+<http://experiment.worldcat.org/entity/work/data/2398027#Organization/linnean_society_of_london> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+<http://experiment.worldcat.org/entity/work/data/2398027#Organization/linnean_society_of_london> <http://schema.org/name> "Linnean Society of London." .
+<http://worldcat.org/issn/1945-9432> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://worldcat.org/issn/1945-9432> <http://schema.org/name> "Transactions of the Linnean Society."@en .
+<http://worldcat.org/issn/1945-9432> <http://schema.org/issn> "1945-9432" .
+<http://worldcat.org/issn/1945-9432> <http://umbel.org/umbel#isLike> <http://worldcat.org/entity/work/id/2398027> .
+<http://www.worldcat.org/title/-/oclc/1064318605#PublicationEvent/london_the_society_1791> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PublicationEvent> .
+<http://www.worldcat.org/title/-/oclc/1064318605#PublicationEvent/london_the_society_1791> <http://schema.org/location> <http://dbpedia.org/resource/London> .
+<http://www.worldcat.org/title/-/oclc/1064318605#PublicationEvent/london_the_society_1791> <http://schema.org/organizer> <http://experiment.worldcat.org/entity/work/data/2398027#Agent/the_society> .
+<http://www.worldcat.org/title/-/oclc/1064318605#PublicationEvent/london_the_society_1791> <http://schema.org/startDate> "1791-" .
+<http://experiment.worldcat.org/entity/work/data/2398027#Topic/botany> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/2398027#Topic/botany> <http://schema.org/name> "Botany"@en .

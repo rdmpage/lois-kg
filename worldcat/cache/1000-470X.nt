@@ -1,0 +1,25 @@
+<http://worldcat.org/entity/work/id/378156054> <http://umbel.org/umbel#isLike> <http://worldcat.org/issn/1000-470X> .
+<http://id.loc.gov/vocabulary/countries/cc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://id.loc.gov/vocabulary/countries/cc> <http://purl.org/dc/terms/identifier> "cc" .
+<http://worldcat.org/issn/1000-470X> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://worldcat.org/issn/1000-470X> <http://schema.org/name> "Wuhan zhiwuxue yanjiu = Journal of Wuhan botanical research." .
+<http://worldcat.org/issn/1000-470X> <http://schema.org/issn> "1000-470X" .
+<http://worldcat.org/issn/1000-470X> <http://umbel.org/umbel#isLike> <http://worldcat.org/entity/work/id/378156054> .
+<http://www.worldcat.org/oclc/73415682> <http://www.w3.org/2007/05/powder-s#describedby> <http://www.worldcat.org/title/-/oclc/73415682> .
+<http://www.worldcat.org/oclc/73415682> <http://schema.org/productID> "73415682" .
+<http://www.worldcat.org/oclc/73415682> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://www.worldcat.org/oclc/73415682> <http://schema.org/inLanguage> "zh" .
+<http://www.worldcat.org/oclc/73415682> <http://schema.org/name> "Wuhan zhiwuxue yanjiu = Journal of Wuhan botanical research." .
+<http://www.worldcat.org/oclc/73415682> <http://umbel.org/umbel#isLike> <http://d-nb.info/015820777> .
+<http://www.worldcat.org/oclc/73415682> <http://schema.org/datePublished> "1985/9999" .
+<http://www.worldcat.org/oclc/73415682> <http://schema.org/workExample> <http://worldcat.org/issn/1000-470X> .
+<http://www.worldcat.org/oclc/73415682> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://www.worldcat.org/oclc/73415682> <http://schema.org/exampleOfWork> <http://worldcat.org/entity/work/id/378156054> .
+<http://www.worldcat.org/oclc/73415682> <http://purl.org/library/placeOfPublication> <http://id.loc.gov/vocabulary/countries/cc> .
+<http://www.worldcat.org/oclc/73415682> <http://schema.org/alternateName> "Journal of Wuhan botanical research" .
+<http://www.worldcat.org/oclc/73415682> <http://purl.org/library/oclcnum> "73415682" .
+<http://www.worldcat.org/title/-/oclc/73415682> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#ContentTypeGenericResource> .
+<http://www.worldcat.org/title/-/oclc/73415682> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#InformationResource> .
+<http://www.worldcat.org/title/-/oclc/73415682> <http://schema.org/about> <http://www.worldcat.org/oclc/73415682> .
+<http://www.worldcat.org/title/-/oclc/73415682> <http://schema.org/dateModified> "2019-07-23" .
+<http://www.worldcat.org/title/-/oclc/73415682> <http://rdfs.org/ns/void#inDataset> <http://purl.oclc.org/dataset/WorldCat> .

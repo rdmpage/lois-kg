@@ -1,0 +1,58 @@
+<http://experiment.worldcat.org/entity/work/data/1183038536#Place/jena_germany> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://experiment.worldcat.org/entity/work/data/1183038536#Place/jena_germany> <http://schema.org/name> "Jena, Germany" .
+<http://experiment.worldcat.org/entity/work/data/1183038536#Agent/urban_&_fischer> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bibliograph.net/Agent> .
+<http://experiment.worldcat.org/entity/work/data/1183038536#Agent/urban_&_fischer> <http://schema.org/name> "Urban & Fischer" .
+<http://experiment.worldcat.org/entity/work/data/1183038536#Topic/evolution_biology> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/1183038536#Topic/evolution_biology> <http://schema.org/name> "Evolution (Biology)"@en .
+<http://experiment.worldcat.org/entity/work/data/1183038536#Topic/biology> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/1183038536#Topic/biology> <http://schema.org/name> "Biology"@en .
+<http://worldcat.org/issn/1439-6092> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://worldcat.org/issn/1439-6092> <http://schema.org/name> "Organisms, diversity, & evolution."@en .
+<http://worldcat.org/issn/1439-6092> <http://schema.org/issn> "1439-6092" .
+<http://worldcat.org/issn/1439-6092> <http://umbel.org/umbel#isLike> <http://worldcat.org/entity/work/id/1183038536> .
+<http://www.worldcat.org/title/-/oclc/1030841311#PublicationEvent/jena_germany_urban_&_fischer_2001> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PublicationEvent> .
+<http://www.worldcat.org/title/-/oclc/1030841311#PublicationEvent/jena_germany_urban_&_fischer_2001> <http://schema.org/location> <http://experiment.worldcat.org/entity/work/data/1183038536#Place/jena_germany> .
+<http://www.worldcat.org/title/-/oclc/1030841311#PublicationEvent/jena_germany_urban_&_fischer_2001> <http://schema.org/organizer> <http://experiment.worldcat.org/entity/work/data/1183038536#Agent/urban_&_fischer> .
+<http://www.library.yorku.ca/eresolver/?id=993478> <http://www.w3.org/2000/01/rdf-schema#comment> "(Scholars Portal)" .
+<http://worldcat.org/entity/work/id/1183038536> <http://umbel.org/umbel#isLike> <http://worldcat.org/issn/1439-6092> .
+<http://www.worldcat.org/oclc/1030841311> <http://schema.org/name> "Organisms, diversity, & evolution."@en .
+<http://www.worldcat.org/oclc/1030841311> <http://schema.org/genre> "Periodicals"@en .
+<http://www.worldcat.org/oclc/1030841311> <http://purl.org/library/placeOfPublication> <http://experiment.worldcat.org/entity/work/data/1183038536#Place/jena_germany> .
+<http://www.worldcat.org/oclc/1030841311> <http://schema.org/workExample> <http://worldcat.org/issn/1439-6092> .
+<http://www.worldcat.org/oclc/1030841311> <http://schema.org/url> <http://resolver.library.ualberta.ca/resolver?ctx_enc=info%3Aofi%2Fenc%3AUTF-8&ctx_ver=Z39.88-2004&rfr_id=info%3Asid%2Fualberta.ca%3Aopac&rft.genre=journal&rft.object_id=111002735699012&rft.issn=1439-6092&rft.eissn=1618-1077&rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&url_ctx_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Actx&url_ver=Z39.88-2004> .
+<http://www.worldcat.org/oclc/1030841311> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://www.worldcat.org/oclc/1030841311> <http://schema.org/datePublished> "2001/9999" .
+<http://www.worldcat.org/oclc/1030841311> <http://schema.org/url> <http://resolver.lrc.macewan.ca/macewan?url%5Fver=Z39.88-2004&ctx%5Fver=Z39.88-2004&ctx%5Fenc=info:ofi/enc:UTF-8&rfr%5Fid=info:sid/sfxit.com:opac%5F856&url%5Fctx%5Ffmt=info:ofi/fmt:kev:mtx:ctx&sfx.ignore%5Fdate%5Fthreshold=1&rft.object%5Fid=111002735699012&svc%5Fval%5Ffmt=info:ofi/fmt:kev:mtx:sch%5Fsvc&> .
+<http://www.worldcat.org/oclc/1030841311> <http://schema.org/genre> "Classification"@en .
+<http://www.worldcat.org/oclc/1030841311> <http://purl.org/library/oclcnum> "1030841311" .
+<http://www.worldcat.org/oclc/1030841311> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/MediaObject> .
+<http://www.worldcat.org/oclc/1030841311> <http://schema.org/exampleOfWork> <http://worldcat.org/entity/work/id/1183038536> .
+<http://www.worldcat.org/oclc/1030841311> <http://schema.org/contributor> <http://experiment.worldcat.org/entity/work/data/1183038536#Organization/gesellschaft_fur_biologische_systematik> .
+<http://www.worldcat.org/oclc/1030841311> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/1183038536#Topic/biodiversity> .
+<http://www.worldcat.org/oclc/1030841311> <http://schema.org/url> <http://www.library.yorku.ca/eresolver/?id=993478> .
+<http://www.worldcat.org/oclc/1030841311> <http://schema.org/copyrightYear> "2001/" .
+<http://www.worldcat.org/oclc/1030841311> <http://www.w3.org/2007/05/powder-s#describedby> <http://www.worldcat.org/title/-/oclc/1030841311> .
+<http://www.worldcat.org/oclc/1030841311> <http://schema.org/alternateName> "Organisms, diversity, and evolution" .
+<http://www.worldcat.org/oclc/1030841311> <http://purl.org/library/placeOfPublication> <http://id.loc.gov/vocabulary/countries/gw> .
+<http://www.worldcat.org/oclc/1030841311> <http://schema.org/publication> <http://www.worldcat.org/title/-/oclc/1030841311#PublicationEvent/jena_germany_urban_&_fischer_2001> .
+<http://www.worldcat.org/oclc/1030841311> <http://schema.org/alternateName> "Org. divers. evol" .
+<http://www.worldcat.org/oclc/1030841311> <http://schema.org/productID> "1030841311" .
+<http://www.worldcat.org/oclc/1030841311> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://www.worldcat.org/oclc/1030841311> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/1183038536#Topic/evolution_biology> .
+<http://www.worldcat.org/oclc/1030841311> <http://schema.org/publisher> <http://experiment.worldcat.org/entity/work/data/1183038536#Agent/urban_&_fischer> .
+<http://www.worldcat.org/oclc/1030841311> <http://schema.org/inLanguage> "en" .
+<http://www.worldcat.org/oclc/1030841311> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/1183038536#Topic/biology> .
+<http://www.worldcat.org/oclc/1030841311> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/1183038536#Topic/phylogeny> .
+<http://experiment.worldcat.org/entity/work/data/1183038536#Topic/biodiversity> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/1183038536#Topic/biodiversity> <http://schema.org/name> "Biodiversity"@en .
+<http://id.loc.gov/vocabulary/countries/gw> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://id.loc.gov/vocabulary/countries/gw> <http://purl.org/dc/terms/identifier> "gw" .
+<http://www.worldcat.org/title/-/oclc/1030841311> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#ContentTypeGenericResource> .
+<http://www.worldcat.org/title/-/oclc/1030841311> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#InformationResource> .
+<http://www.worldcat.org/title/-/oclc/1030841311> <http://schema.org/about> <http://www.worldcat.org/oclc/1030841311> .
+<http://www.worldcat.org/title/-/oclc/1030841311> <http://schema.org/dateModified> "2019-02-10" .
+<http://www.worldcat.org/title/-/oclc/1030841311> <http://rdfs.org/ns/void#inDataset> <http://purl.oclc.org/dataset/WorldCat> .
+<http://experiment.worldcat.org/entity/work/data/1183038536#Topic/phylogeny> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/1183038536#Topic/phylogeny> <http://schema.org/name> "Phylogeny"@en .
+<http://experiment.worldcat.org/entity/work/data/1183038536#Organization/gesellschaft_fur_biologische_systematik> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+<http://experiment.worldcat.org/entity/work/data/1183038536#Organization/gesellschaft_fur_biologische_systematik> <http://schema.org/name> "Gesellschaft für Biologische Systematik." .

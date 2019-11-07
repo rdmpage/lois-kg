@@ -1,0 +1,61 @@
+<http://www.worldcat.org/oclc/977848077> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/901092812#Topic/plants_alps_regions> .
+<http://www.worldcat.org/oclc/977848077> <http://schema.org/datePublished> "2011/9999" .
+<http://www.worldcat.org/oclc/977848077> <http://schema.org/publisher> <http://experiment.worldcat.org/entity/work/data/901092812#Agent/springer_basel_ag> .
+<http://www.worldcat.org/oclc/977848077> <http://schema.org/publication> <http://www.worldcat.org/title/-/oclc/977848077#PublicationEvent/basel_switzerland_springer_basel_ag> .
+<http://www.worldcat.org/oclc/977848077> <http://purl.org/library/placeOfPublication> <http://id.loc.gov/vocabulary/countries/sz> .
+<http://www.worldcat.org/oclc/977848077> <http://purl.org/library/oclcnum> "977848077" .
+<http://www.worldcat.org/oclc/977848077> <http://schema.org/contributor> <http://experiment.worldcat.org/entity/work/data/901092812#Organization/schweizerische_botanische_gesellschaft> .
+<http://www.worldcat.org/oclc/977848077> <http://schema.org/genre> "Periodicals"@en .
+<http://www.worldcat.org/oclc/977848077> <http://schema.org/isSimilarTo> <http://worldcat.org/entity/work/data/901092812#CreativeWork/> .
+<http://www.worldcat.org/oclc/977848077> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://www.worldcat.org/oclc/977848077> <http://schema.org/inLanguage> "en" .
+<http://www.worldcat.org/oclc/977848077> <http://schema.org/description> "\"An international journal providing forum for botanical studies with a particular interest in the plant ecology, vegetation and flora of mountain regions\"--V. 121 (2011), p. 1."@en .
+<http://www.worldcat.org/oclc/977848077> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/901092812#Topic/botany> .
+<http://www.worldcat.org/oclc/977848077> <http://schema.org/productID> "977848077" .
+<http://www.worldcat.org/oclc/977848077> <http://purl.org/library/placeOfPublication> <http://experiment.worldcat.org/entity/work/data/901092812#Place/basel_switzerland> .
+<http://www.worldcat.org/oclc/977848077> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/901092812#Topic/plants> .
+<http://www.worldcat.org/oclc/977848077> <http://schema.org/workExample> <http://worldcat.org/issn/1664-2201> .
+<http://www.worldcat.org/oclc/977848077> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/901092812#Place/alps_region> .
+<http://www.worldcat.org/oclc/977848077> <http://www.w3.org/2007/05/powder-s#describedby> <http://www.worldcat.org/title/-/oclc/977848077> .
+<http://www.worldcat.org/oclc/977848077> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/901092812#Topic/mountain_plants> .
+<http://www.worldcat.org/oclc/977848077> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://www.worldcat.org/oclc/977848077> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/MediaObject> .
+<http://www.worldcat.org/oclc/977848077> <http://schema.org/exampleOfWork> <http://worldcat.org/entity/work/id/901092812> .
+<http://www.worldcat.org/oclc/977848077> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/901092812#Topic/botany_alps_regions> .
+<http://www.worldcat.org/oclc/977848077> <http://schema.org/name> "Alpine botany."@en .
+<http://worldcat.org/entity/work/id/901092812> <http://umbel.org/umbel#isLike> <http://worldcat.org/issn/1664-2201> .
+<http://experiment.worldcat.org/entity/work/data/901092812#Topic/mountain_plants> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/901092812#Topic/mountain_plants> <http://schema.org/name> "Mountain plants"@en .
+<http://experiment.worldcat.org/entity/work/data/901092812#Topic/plants_alps_regions> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/901092812#Topic/plants_alps_regions> <http://schema.org/name> "Plants--Alps regions"@en .
+<http://experiment.worldcat.org/entity/work/data/901092812#Organization/schweizerische_botanische_gesellschaft> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+<http://experiment.worldcat.org/entity/work/data/901092812#Organization/schweizerische_botanische_gesellschaft> <http://schema.org/name> "Schweizerische Botanische Gesellschaft." .
+<http://experiment.worldcat.org/entity/work/data/901092812#Topic/plants> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/901092812#Topic/plants> <http://schema.org/name> "Plants"@en .
+<http://www.worldcat.org/title/-/oclc/977848077#PublicationEvent/basel_switzerland_springer_basel_ag> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PublicationEvent> .
+<http://www.worldcat.org/title/-/oclc/977848077#PublicationEvent/basel_switzerland_springer_basel_ag> <http://schema.org/location> <http://experiment.worldcat.org/entity/work/data/901092812#Place/basel_switzerland> .
+<http://www.worldcat.org/title/-/oclc/977848077#PublicationEvent/basel_switzerland_springer_basel_ag> <http://schema.org/organizer> <http://experiment.worldcat.org/entity/work/data/901092812#Agent/springer_basel_ag> .
+<http://worldcat.org/entity/work/data/901092812#CreativeWork/> <http://schema.org/isSimilarTo> <http://www.worldcat.org/oclc/977848077> .
+<http://worldcat.org/entity/work/data/901092812#CreativeWork/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://experiment.worldcat.org/entity/work/data/901092812#Topic/botany> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/901092812#Topic/botany> <http://schema.org/name> "Botany"@en .
+<http://experiment.worldcat.org/entity/work/data/901092812#Topic/botany_alps_regions> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/901092812#Topic/botany_alps_regions> <http://schema.org/name> "Botany--Alps regions"@en .
+<http://experiment.worldcat.org/entity/work/data/901092812#Place/alps_region> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://experiment.worldcat.org/entity/work/data/901092812#Place/alps_region> <http://schema.org/name> "Alps Region" .
+<http://experiment.worldcat.org/entity/work/data/901092812#Place/alps_region> <http://schema.org/name> "Alps Region." .
+<http://www.worldcat.org/title/-/oclc/977848077> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#ContentTypeGenericResource> .
+<http://www.worldcat.org/title/-/oclc/977848077> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#InformationResource> .
+<http://www.worldcat.org/title/-/oclc/977848077> <http://schema.org/about> <http://www.worldcat.org/oclc/977848077> .
+<http://www.worldcat.org/title/-/oclc/977848077> <http://schema.org/dateModified> "2019-03-21" .
+<http://www.worldcat.org/title/-/oclc/977848077> <http://rdfs.org/ns/void#inDataset> <http://purl.oclc.org/dataset/WorldCat> .
+<http://worldcat.org/issn/1664-2201> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://worldcat.org/issn/1664-2201> <http://schema.org/name> "Alpine botany."@en .
+<http://worldcat.org/issn/1664-2201> <http://schema.org/issn> "1664-2201" .
+<http://worldcat.org/issn/1664-2201> <http://umbel.org/umbel#isLike> <http://worldcat.org/entity/work/id/901092812> .
+<http://id.loc.gov/vocabulary/countries/sz> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://id.loc.gov/vocabulary/countries/sz> <http://purl.org/dc/terms/identifier> "sz" .
+<http://experiment.worldcat.org/entity/work/data/901092812#Place/basel_switzerland> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://experiment.worldcat.org/entity/work/data/901092812#Place/basel_switzerland> <http://schema.org/name> "Basel, Switzerland" .
+<http://experiment.worldcat.org/entity/work/data/901092812#Agent/springer_basel_ag> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bibliograph.net/Agent> .
+<http://experiment.worldcat.org/entity/work/data/901092812#Agent/springer_basel_ag> <http://schema.org/name> "Springer Basel AG." .

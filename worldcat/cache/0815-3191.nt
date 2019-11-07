@@ -1,0 +1,94 @@
+<http://www.worldcat.org/title/-/oclc/776246526#PublicationEvent/blackburn_australasian_plant_pathology_society_1984> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PublicationEvent> .
+<http://www.worldcat.org/title/-/oclc/776246526#PublicationEvent/blackburn_australasian_plant_pathology_society_1984> <http://schema.org/location> <http://experiment.worldcat.org/entity/work/data/1028486468#Place/blackburn> .
+<http://www.worldcat.org/title/-/oclc/776246526#PublicationEvent/blackburn_australasian_plant_pathology_society_1984> <http://schema.org/organizer> <http://experiment.worldcat.org/entity/work/data/1028486468#Agent/australasian_plant_pathology_society> .
+<http://www.worldcat.org/title/-/oclc/776246526#PublicationEvent/blackburn_australasian_plant_pathology_society_1984> <http://schema.org/startDate> "1984-" .
+<http://experiment.worldcat.org/entity/work/data/1028486468#Topic/plantenziekten_plagen_en_afwijkingen_algemeen> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/1028486468#Topic/plantenziekten_plagen_en_afwijkingen_algemeen> <http://schema.org/name> "Plantenziekten, -plagen en -afwijkingen (algemeen)" .
+<http://experiment.worldcat.org/entity/work/data/1028486468#Topic/diseases_pests_and_disorders_of_plants_general> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/1028486468#Topic/diseases_pests_and_disorders_of_plants_general> <http://schema.org/name> "Diseases, Pests and Disorders of Plants (General)" .
+<http://experiment.worldcat.org/entity/work/data/1028486468#Topic/nematoda> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/1028486468#Topic/nematoda> <http://schema.org/name> "nematoda" .
+<http://link.springer.com.bib-proxy.uhasselt.be/journal/13313> <http://www.w3.org/2000/01/rdf-schema#comment> "Toegang via de bibliotheken van UHasselt" .
+<http://link.springer.com/journal/13313> <http://www.w3.org/2000/01/rdf-schema#comment> "Toegang via de bibliotheken van de Artesis Plantijn Hogeschool" .
+<http://link.springer.com/journal/13313> <http://www.w3.org/2000/01/rdf-schema#comment> "Toegang via de bibliotheken van de Karel de Grote Hogeschool" .
+<http://link.springer.com/journal/13313> <http://www.w3.org/2000/01/rdf-schema#comment> "Toegang via de bibliotheken van de Universiteit Antwerpen" .
+<http://experiment.worldcat.org/entity/work/data/1028486468#Topic/plant_diseases> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/1028486468#Topic/plant_diseases> <http://schema.org/name> "plant diseases" .
+<http://experiment.worldcat.org/entity/work/data/1028486468#Topic/plant_pathogenic_fungi> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/1028486468#Topic/plant_pathogenic_fungi> <http://schema.org/name> "plant pathogenic fungi" .
+<http://experiment.worldcat.org/entity/work/data/1028486468#Place/blackburn> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://experiment.worldcat.org/entity/work/data/1028486468#Place/blackburn> <http://schema.org/name> "Blackburn" .
+<http://experiment.worldcat.org/entity/work/data/1028486468#Agent/australasian_plant_pathology_society> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bibliograph.net/Agent> .
+<http://experiment.worldcat.org/entity/work/data/1028486468#Agent/australasian_plant_pathology_society> <http://schema.org/name> "Australasian Plant Pathology Society" .
+<http://www.worldcat.org/title/-/oclc/776246526> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#ContentTypeGenericResource> .
+<http://www.worldcat.org/title/-/oclc/776246526> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#InformationResource> .
+<http://www.worldcat.org/title/-/oclc/776246526> <http://schema.org/about> <http://www.worldcat.org/oclc/776246526> .
+<http://www.worldcat.org/title/-/oclc/776246526> <http://schema.org/dateModified> "2019-05-17" .
+<http://www.worldcat.org/title/-/oclc/776246526> <http://rdfs.org/ns/void#inDataset> <http://purl.oclc.org/dataset/WorldCat> .
+<http://experiment.worldcat.org/entity/work/data/1028486468#Topic/plantenziekteverwekkende_schimmels> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/1028486468#Topic/plantenziekteverwekkende_schimmels> <http://schema.org/name> "plantenziekteverwekkende schimmels" .
+<http://worldcat.org/entity/work/id/1028486468> <http://umbel.org/umbel#isLike> <http://worldcat.org/issn/0815-3191> .
+<http://experiment.worldcat.org/entity/work/data/1028486468#Topic/plant_pathogenic_bacteria> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/1028486468#Topic/plant_pathogenic_bacteria> <http://schema.org/name> "plant pathogenic bacteria" .
+<http://experiment.worldcat.org/entity/work/data/1028486468#Topic/plant_viruses> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/1028486468#Topic/plant_viruses> <http://schema.org/name> "plant viruses" .
+<http://experiment.worldcat.org/entity/work/data/1028486468#Topic/oceania> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/1028486468#Topic/oceania> <http://schema.org/name> "oceania" .
+<http://experiment.worldcat.org/entity/work/data/1028486468#Topic/plant_pests> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/1028486468#Topic/plant_pests> <http://schema.org/name> "plant pests" .
+<http://experiment.worldcat.org/entity/work/data/1028486468#Topic/australia> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/1028486468#Topic/australia> <http://schema.org/name> "australia" .
+<http://www.worldcat.org/oclc/776246526> <http://schema.org/datePublished> "1984/1984" .
+<http://www.worldcat.org/oclc/776246526> <http://schema.org/url> <http://link.springer.com.bib-proxy.uhasselt.be/journal/13313> .
+<http://www.worldcat.org/oclc/776246526> <http://schema.org/workExample> <http://worldcat.org/issn/0815-3191> .
+<http://www.worldcat.org/oclc/776246526> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/1028486468#Topic/plantenvirussen> .
+<http://www.worldcat.org/oclc/776246526> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/1028486468#Topic/plant_pathology> .
+<http://www.worldcat.org/oclc/776246526> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/1028486468#Topic/plant_pathogenic_fungi> .
+<http://www.worldcat.org/oclc/776246526> <http://purl.org/library/placeOfPublication> <http://experiment.worldcat.org/entity/work/data/1028486468#Place/blackburn> .
+<http://www.worldcat.org/oclc/776246526> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/1028486468#Topic/plant_diseases> .
+<http://www.worldcat.org/oclc/776246526> <http://schema.org/datePublished> "1984/" .
+<http://www.worldcat.org/oclc/776246526> <http://schema.org/productID> "776246526" .
+<http://www.worldcat.org/oclc/776246526> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/1028486468#Topic/plantenplagen> .
+<http://www.worldcat.org/oclc/776246526> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/1028486468#Topic/plant_pests> .
+<http://www.worldcat.org/oclc/776246526> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/1028486468#Topic/australia> .
+<http://www.worldcat.org/oclc/776246526> <http://schema.org/isSimilarTo> <http://worldcat.org/entity/work/data/1028486468#CreativeWork/australasian_plant_pathology> .
+<http://www.worldcat.org/oclc/776246526> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://www.worldcat.org/oclc/776246526> <http://schema.org/exampleOfWork> <http://worldcat.org/entity/work/id/1028486468> .
+<http://www.worldcat.org/oclc/776246526> <http://schema.org/contributor> <http://experiment.worldcat.org/entity/work/data/1028486468#Organization/australasian_plant_pathology_society_blackburn> .
+<http://www.worldcat.org/oclc/776246526> <http://www.w3.org/2007/05/powder-s#describedby> <http://www.worldcat.org/title/-/oclc/776246526> .
+<http://www.worldcat.org/oclc/776246526> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/1028486468#Topic/diseases_pests_and_disorders_of_plants_general> .
+<http://www.worldcat.org/oclc/776246526> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/1028486468#Topic/plantenziekten_plagen_en_afwijkingen_algemeen> .
+<http://www.worldcat.org/oclc/776246526> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/1028486468#Topic/nematoda> .
+<http://www.worldcat.org/oclc/776246526> <http://schema.org/publisher> <http://experiment.worldcat.org/entity/work/data/1028486468#Agent/australasian_plant_pathology_society> .
+<http://www.worldcat.org/oclc/776246526> <http://schema.org/genre> "Tijdschrift" .
+<http://www.worldcat.org/oclc/776246526> <http://schema.org/name> "Australasian plant pathology." .
+<http://www.worldcat.org/oclc/776246526> <http://schema.org/inLanguage> "en" .
+<http://www.worldcat.org/oclc/776246526> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/1028486468#Topic/plant_viruses> .
+<http://www.worldcat.org/oclc/776246526> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://www.worldcat.org/oclc/776246526> <http://purl.org/library/oclcnum> "776246526" .
+<http://www.worldcat.org/oclc/776246526> <http://schema.org/publication> <http://www.worldcat.org/title/-/oclc/776246526#PublicationEvent/blackburn_australasian_plant_pathology_society_1984> .
+<http://www.worldcat.org/oclc/776246526> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/1028486468#Topic/plantenziekteverwekkende_schimmels> .
+<http://www.worldcat.org/oclc/776246526> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/1028486468#Topic/plant_pathogenic_bacteria> .
+<http://www.worldcat.org/oclc/776246526> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/1028486468#Topic/plantenziektekunde> .
+<http://www.worldcat.org/oclc/776246526> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/1028486468#Topic/oceania> .
+<http://www.worldcat.org/oclc/776246526> <http://schema.org/url> <http://link.springer.com/journal/13313> .
+<http://www.worldcat.org/oclc/776246526> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/1028486468#Topic/plantenziekten> .
+<http://experiment.worldcat.org/entity/work/data/1028486468#Topic/plantenziekten> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/1028486468#Topic/plantenziekten> <http://schema.org/name> "plantenziekten" .
+<http://experiment.worldcat.org/entity/work/data/1028486468#Organization/australasian_plant_pathology_society_blackburn> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+<http://experiment.worldcat.org/entity/work/data/1028486468#Organization/australasian_plant_pathology_society_blackburn> <http://schema.org/name> "Australasian Plant Pathology Society, Blackburn." .
+<http://worldcat.org/entity/work/data/1028486468#CreativeWork/australasian_plant_pathology> <http://schema.org/isSimilarTo> <http://www.worldcat.org/oclc/776246526> .
+<http://worldcat.org/entity/work/data/1028486468#CreativeWork/australasian_plant_pathology> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://worldcat.org/entity/work/data/1028486468#CreativeWork/australasian_plant_pathology> <http://www.w3.org/2000/01/rdf-schema#label> "Australasian plant pathology" .
+<http://experiment.worldcat.org/entity/work/data/1028486468#Topic/plant_pathology> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/1028486468#Topic/plant_pathology> <http://schema.org/name> "plant pathology" .
+<http://experiment.worldcat.org/entity/work/data/1028486468#Topic/plantenziektekunde> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/1028486468#Topic/plantenziektekunde> <http://schema.org/name> "plantenziektekunde" .
+<http://experiment.worldcat.org/entity/work/data/1028486468#Topic/plantenplagen> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/1028486468#Topic/plantenplagen> <http://schema.org/name> "plantenplagen" .
+<http://worldcat.org/issn/0815-3191> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://worldcat.org/issn/0815-3191> <http://schema.org/name> "Australasian plant pathology." .
+<http://worldcat.org/issn/0815-3191> <http://schema.org/issn> "0815-3191" .
+<http://worldcat.org/issn/0815-3191> <http://umbel.org/umbel#isLike> <http://worldcat.org/entity/work/id/1028486468> .
+<http://experiment.worldcat.org/entity/work/data/1028486468#Topic/plantenvirussen> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/1028486468#Topic/plantenvirussen> <http://schema.org/name> "plantenvirussen" .

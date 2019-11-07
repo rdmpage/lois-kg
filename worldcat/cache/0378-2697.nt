@@ -1,0 +1,57 @@
+<http://www.worldcat.org/title/-/oclc/715577552#PublicationEvent/wien_new_york_springer_1974> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PublicationEvent> .
+<http://www.worldcat.org/title/-/oclc/715577552#PublicationEvent/wien_new_york_springer_1974> <http://schema.org/location> <http://experiment.worldcat.org/entity/work/data/3377292912#Place/wien> .
+<http://www.worldcat.org/title/-/oclc/715577552#PublicationEvent/wien_new_york_springer_1974> <http://schema.org/organizer> <http://experiment.worldcat.org/entity/work/data/3377292912#Agent/new_york> .
+<http://www.worldcat.org/title/-/oclc/715577552#PublicationEvent/wien_new_york_springer_1974> <http://schema.org/organizer> <http://experiment.worldcat.org/entity/work/data/3377292912#Agent/springer> .
+<http://www.worldcat.org/title/-/oclc/715577552#PublicationEvent/wien_new_york_springer_1974> <http://schema.org/startDate> "1974-" .
+<http://experiment.worldcat.org/entity/work/data/3377292912#Topic/plante> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/3377292912#Topic/plante> <http://schema.org/name> "plante" .
+<http://experiment.worldcat.org/entity/work/data/3377292912#Agent/new_york> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bibliograph.net/Agent> .
+<http://experiment.worldcat.org/entity/work/data/3377292912#Agent/new_york> <http://schema.org/name> "New York" .
+<http://worldcat.org/entity/work/id/3377292912> <http://umbel.org/umbel#isLike> <http://worldcat.org/issn/0378-2697> .
+<http://worldcat.org/issn/0378-2697> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://worldcat.org/issn/0378-2697> <http://schema.org/name> "Plant systematics and evolution : Entwicklungsgeschichte und Systematik der Pflanzen." .
+<http://worldcat.org/issn/0378-2697> <http://schema.org/issn> "0378-2697" .
+<http://worldcat.org/issn/0378-2697> <http://umbel.org/umbel#isLike> <http://worldcat.org/entity/work/id/3377292912> .
+<http://experiment.worldcat.org/entity/work/data/3377292912#Topic/phylogenese_plante> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/3377292912#Topic/phylogenese_plante> <http://schema.org/name> "phylogenèse--plante" .
+<http://experiment.worldcat.org/entity/work/data/3377292912#Place/wien> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://experiment.worldcat.org/entity/work/data/3377292912#Place/wien> <http://schema.org/name> "Wien" .
+<http://experiment.worldcat.org/entity/work/data/3377292912#Agent/springer> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bibliograph.net/Agent> .
+<http://experiment.worldcat.org/entity/work/data/3377292912#Agent/springer> <http://schema.org/name> "Springer" .
+<http://experiment.worldcat.org/entity/work/data/3377292912#Topic/botanique_systematique> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/3377292912#Topic/botanique_systematique> <http://schema.org/name> "botanique systématique" .
+<http://www.worldcat.org/title/-/oclc/715577552> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#ContentTypeGenericResource> .
+<http://www.worldcat.org/title/-/oclc/715577552> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#InformationResource> .
+<http://www.worldcat.org/title/-/oclc/715577552> <http://schema.org/about> <http://www.worldcat.org/oclc/715577552> .
+<http://www.worldcat.org/title/-/oclc/715577552> <http://schema.org/dateModified> "2018-12-10" .
+<http://www.worldcat.org/title/-/oclc/715577552> <http://rdfs.org/ns/void#inDataset> <http://purl.oclc.org/dataset/WorldCat> .
+<http://id.loc.gov/vocabulary/countries/au> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://id.loc.gov/vocabulary/countries/au> <http://purl.org/dc/terms/identifier> "au" .
+<http://experiment.worldcat.org/entity/work/data/3377292912#Topic/phylogenese> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/3377292912#Topic/phylogenese> <http://schema.org/name> "phylogenèse" .
+<http://www.worldcat.org/oclc/715577552> <http://schema.org/inLanguage> "en" .
+<http://www.worldcat.org/oclc/715577552> <http://schema.org/exampleOfWork> <http://worldcat.org/entity/work/id/3377292912> .
+<http://www.worldcat.org/oclc/715577552> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/3377292912#Topic/phylogenese_plante> .
+<http://www.worldcat.org/oclc/715577552> <http://schema.org/publication> <http://www.worldcat.org/title/-/oclc/715577552#PublicationEvent/wien_new_york_springer_1974> .
+<http://www.worldcat.org/oclc/715577552> <http://schema.org/publisher> <http://experiment.worldcat.org/entity/work/data/3377292912#Agent/springer> .
+<http://www.worldcat.org/oclc/715577552> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://www.worldcat.org/oclc/715577552> <http://schema.org/datePublished> "1974/9999" .
+<http://www.worldcat.org/oclc/715577552> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/3377292912#Topic/phylogenese> .
+<http://www.worldcat.org/oclc/715577552> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/3377292912#Topic/plante> .
+<http://www.worldcat.org/oclc/715577552> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://www.worldcat.org/oclc/715577552> <http://schema.org/publisher> <http://experiment.worldcat.org/entity/work/data/3377292912#Agent/new_york> .
+<http://www.worldcat.org/oclc/715577552> <http://schema.org/url> <http://www.springerlink.com/content/104878/> .
+<http://www.worldcat.org/oclc/715577552> <http://schema.org/datePublished> "1974/" .
+<http://www.worldcat.org/oclc/715577552> <http://purl.org/library/placeOfPublication> <http://id.loc.gov/vocabulary/countries/au> .
+<http://www.worldcat.org/oclc/715577552> <http://schema.org/name> "Plant systematics and evolution : Entwicklungsgeschichte und Systematik der Pflanzen." .
+<http://www.worldcat.org/oclc/715577552> <http://schema.org/productID> "715577552" .
+<http://www.worldcat.org/oclc/715577552> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/3377292912#Topic/botanique_systematique> .
+<http://www.worldcat.org/oclc/715577552> <http://purl.org/library/placeOfPublication> <http://experiment.worldcat.org/entity/work/data/3377292912#Place/wien> .
+<http://www.worldcat.org/oclc/715577552> <http://www.w3.org/2007/05/powder-s#describedby> <http://www.worldcat.org/title/-/oclc/715577552> .
+<http://www.worldcat.org/oclc/715577552> <http://schema.org/workExample> <http://worldcat.org/issn/0378-2697> .
+<http://www.worldcat.org/oclc/715577552> <http://schema.org/genre> "[périodique]" .
+<http://www.worldcat.org/oclc/715577552> <http://schema.org/isSimilarTo> <http://worldcat.org/entity/work/data/3377292912#CreativeWork/plant_systematics_and_evolution> .
+<http://www.worldcat.org/oclc/715577552> <http://purl.org/library/oclcnum> "715577552" .
+<http://worldcat.org/entity/work/data/3377292912#CreativeWork/plant_systematics_and_evolution> <http://schema.org/isSimilarTo> <http://www.worldcat.org/oclc/715577552> .
+<http://worldcat.org/entity/work/data/3377292912#CreativeWork/plant_systematics_and_evolution> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://worldcat.org/entity/work/data/3377292912#CreativeWork/plant_systematics_and_evolution> <http://www.w3.org/2000/01/rdf-schema#label> "Plant systematics and evolution" .

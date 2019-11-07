@@ -1,0 +1,42 @@
+<http://worldcat.org/issn/2052-1758> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://worldcat.org/issn/2052-1758> <http://schema.org/name> "Austral Entomology" .
+<http://worldcat.org/issn/2052-1758> <http://schema.org/issn> "2052-1758" .
+<http://worldcat.org/issn/2052-1758> <http://umbel.org/umbel#isLike> <http://worldcat.org/entity/work/id/2999738254> .
+<http://experiment.worldcat.org/entity/work/data/2999738254#Agent/wiley> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bibliograph.net/Agent> .
+<http://experiment.worldcat.org/entity/work/data/2999738254#Agent/wiley> <http://schema.org/name> "Wiley." .
+<http://id.loc.gov/vocabulary/countries/xxk> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://id.loc.gov/vocabulary/countries/xxk> <http://purl.org/dc/terms/identifier> "xxk" .
+<http://experiment.worldcat.org/entity/work/data/2999738254#Place/chichester> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://experiment.worldcat.org/entity/work/data/2999738254#Place/chichester> <http://schema.org/name> "Chichester" .
+<http://www.worldcat.org/title/-/oclc/872622987#PublicationEvent/chichester_wiley> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PublicationEvent> .
+<http://www.worldcat.org/title/-/oclc/872622987#PublicationEvent/chichester_wiley> <http://schema.org/location> <http://experiment.worldcat.org/entity/work/data/2999738254#Place/chichester> .
+<http://www.worldcat.org/title/-/oclc/872622987#PublicationEvent/chichester_wiley> <http://schema.org/organizer> <http://experiment.worldcat.org/entity/work/data/2999738254#Agent/wiley> .
+<http://sfx.metabib.ch/sfx_locater?sid=ALEPH:DSV01&issn=2052-174X> <http://www.w3.org/2000/01/rdf-schema#comment> "Onlinezugriff via SFX" .
+<http://worldcat.org/entity/work/id/2999738254> <http://umbel.org/umbel#isLike> <http://worldcat.org/issn/1442-9985> .
+<http://worldcat.org/entity/work/id/2999738254> <http://umbel.org/umbel#isLike> <http://worldcat.org/issn/2052-1758> .
+<http://worldcat.org/issn/1442-9985> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://worldcat.org/issn/1442-9985> <http://schema.org/name> "Austral Entomology" .
+<http://worldcat.org/issn/1442-9985> <http://schema.org/issn> "1442-9985" .
+<http://worldcat.org/issn/1442-9985> <http://umbel.org/umbel#isLike> <http://worldcat.org/entity/work/id/2999738254> .
+<http://www.worldcat.org/oclc/872622987> <http://schema.org/productID> "872622987" .
+<http://www.worldcat.org/oclc/872622987> <http://schema.org/url> <http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)2052-1758> .
+<http://www.worldcat.org/oclc/872622987> <http://schema.org/publication> <http://www.worldcat.org/title/-/oclc/872622987#PublicationEvent/chichester_wiley> .
+<http://www.worldcat.org/oclc/872622987> <http://schema.org/url> <http://sfx.metabib.ch/sfx_locater?sid=ALEPH:DSV01&issn=2052-174X> .
+<http://www.worldcat.org/oclc/872622987> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://www.worldcat.org/oclc/872622987> <http://schema.org/workExample> <http://worldcat.org/issn/2052-1758> .
+<http://www.worldcat.org/oclc/872622987> <http://purl.org/library/placeOfPublication> <http://experiment.worldcat.org/entity/work/data/2999738254#Place/chichester> .
+<http://www.worldcat.org/oclc/872622987> <http://www.w3.org/2007/05/powder-s#describedby> <http://www.worldcat.org/title/-/oclc/872622987> .
+<http://www.worldcat.org/oclc/872622987> <http://schema.org/workExample> <http://worldcat.org/issn/1442-9985> .
+<http://www.worldcat.org/oclc/872622987> <http://schema.org/inLanguage> "en" .
+<http://www.worldcat.org/oclc/872622987> <http://schema.org/exampleOfWork> <http://worldcat.org/entity/work/id/2999738254> .
+<http://www.worldcat.org/oclc/872622987> <http://schema.org/name> "Austral Entomology" .
+<http://www.worldcat.org/oclc/872622987> <http://purl.org/library/placeOfPublication> <http://id.loc.gov/vocabulary/countries/xxk> .
+<http://www.worldcat.org/oclc/872622987> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://www.worldcat.org/oclc/872622987> <http://schema.org/url> <http://www.bibliothek.uni-regensburg.de/ezeit/?2756933> .
+<http://www.worldcat.org/oclc/872622987> <http://schema.org/publisher> <http://experiment.worldcat.org/entity/work/data/2999738254#Agent/wiley> .
+<http://www.worldcat.org/oclc/872622987> <http://purl.org/library/oclcnum> "872622987" .
+<http://www.worldcat.org/title/-/oclc/872622987> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#ContentTypeGenericResource> .
+<http://www.worldcat.org/title/-/oclc/872622987> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#InformationResource> .
+<http://www.worldcat.org/title/-/oclc/872622987> <http://schema.org/about> <http://www.worldcat.org/oclc/872622987> .
+<http://www.worldcat.org/title/-/oclc/872622987> <http://schema.org/dateModified> "2018-11-10" .
+<http://www.worldcat.org/title/-/oclc/872622987> <http://rdfs.org/ns/void#inDataset> <http://purl.oclc.org/dataset/WorldCat> .

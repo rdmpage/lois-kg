@@ -1,0 +1,76 @@
+<http://experiment.worldcat.org/entity/work/data/4452027609#Topic/naturwissenschaften> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/4452027609#Topic/naturwissenschaften> <http://schema.org/name> "Naturwissenschaften" .
+<http://worldcat.org/entity/work/id/4452027609> <http://umbel.org/umbel#isLike> <http://worldcat.org/issn/1476-4687> .
+<http://www.worldcat.org/title/-/oclc/869881564#PublicationEvent/london_nature_publ_group> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PublicationEvent> .
+<http://www.worldcat.org/title/-/oclc/869881564#PublicationEvent/london_nature_publ_group> <http://schema.org/location> <http://dbpedia.org/resource/London> .
+<http://www.worldcat.org/title/-/oclc/869881564#PublicationEvent/london_nature_publ_group> <http://schema.org/organizer> <http://experiment.worldcat.org/entity/work/data/4452027609#Agent/nature_publ_group> .
+<http://www.nature.com/nature> <http://www.w3.org/2000/01/rdf-schema#comment> "Deutschlandweit zugänglich" .
+<https://www.nature.com/nature/archive/index.html> <http://www.w3.org/2000/01/rdf-schema#comment> "Deutschlandweit zugänglich" .
+<http://www.nature.com/nature/archive/index.html> <http://www.w3.org/2000/01/rdf-schema#comment> "Deutschlandweit zugänglich" .
+<http://id.loc.gov/vocabulary/countries/xxk> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://id.loc.gov/vocabulary/countries/xxk> <http://purl.org/dc/terms/identifier> "xxk" .
+<http://www.worldcat.org/title/-/oclc/869881564> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#ContentTypeGenericResource> .
+<http://www.worldcat.org/title/-/oclc/869881564> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#InformationResource> .
+<http://www.worldcat.org/title/-/oclc/869881564> <http://schema.org/about> <http://www.worldcat.org/oclc/869881564> .
+<http://www.worldcat.org/title/-/oclc/869881564> <http://schema.org/dateModified> "2019-07-01" .
+<http://www.worldcat.org/title/-/oclc/869881564> <http://rdfs.org/ns/void#inDataset> <http://purl.oclc.org/dataset/WorldCat> .
+<http://worldcat.org/entity/work/data/4452027609#CreativeWork/nature_london> <http://schema.org/isSimilarTo> <http://www.worldcat.org/oclc/869881564> .
+<http://worldcat.org/entity/work/data/4452027609#CreativeWork/nature_london> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://worldcat.org/entity/work/data/4452027609#CreativeWork/nature_london> <http://www.w3.org/2000/01/rdf-schema#label> "Nature <London>" .
+<http://worldcat.org/entity/work/data/4452027609#CreativeWork/nature_london> <http://schema.org/description> "Druckausg." .
+<http://worldcat.org/issn/1476-4687> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://worldcat.org/issn/1476-4687> <http://schema.org/name> "Nature the international weekly journal of science." .
+<http://worldcat.org/issn/1476-4687> <http://schema.org/issn> "1476-4687" .
+<http://worldcat.org/issn/1476-4687> <http://umbel.org/umbel#isLike> <http://worldcat.org/entity/work/id/4452027609> .
+<http://dewey.info/class/070/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/4452027609#Agent/nature_publ_group> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bibliograph.net/Agent> .
+<http://experiment.worldcat.org/entity/work/data/4452027609#Agent/nature_publ_group> <http://schema.org/name> "Nature Publ. Group." .
+<http://dbpedia.org/resource/London> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://dbpedia.org/resource/London> <http://schema.org/name> "London" .
+<http://opacplus.bsb-muenchen.de/title/120714-3> <http://www.w3.org/2000/01/rdf-schema#comment> "kostenfrei" .
+<http://www.worldcat.org/oclc/869881564> <http://schema.org/alternateName> "Science in Spain" .
+<http://www.worldcat.org/oclc/869881564> <http://schema.org/exampleOfWork> <http://worldcat.org/entity/work/id/4452027609> .
+<http://www.worldcat.org/oclc/869881564> <http://schema.org/genre> "Zeitschrift" .
+<http://www.worldcat.org/oclc/869881564> <http://schema.org/alternateName> "Genome directory" .
+<http://www.worldcat.org/oclc/869881564> <http://schema.org/alternateName> "Yeast genome directory" .
+<http://www.worldcat.org/oclc/869881564> <http://purl.org/library/placeOfPublication> <http://id.loc.gov/vocabulary/countries/xxk> .
+<http://www.worldcat.org/oclc/869881564> <http://schema.org/workExample> <http://worldcat.org/issn/1476-4687> .
+<http://www.worldcat.org/oclc/869881564> <http://schema.org/publication> <http://www.worldcat.org/title/-/oclc/869881564#PublicationEvent/london_nature_publ_group> .
+<http://www.worldcat.org/oclc/869881564> <http://schema.org/url> <http://search.ebscohost.com/> .
+<http://www.worldcat.org/oclc/869881564> <http://schema.org/url> <https://www.nature.com/nature/index.html> .
+<http://www.worldcat.org/oclc/869881564> <http://schema.org/name> "Nature the international weekly journal of science." .
+<http://www.worldcat.org/oclc/869881564> <http://schema.org/url> <http://www.nature.com/nature> .
+<http://www.worldcat.org/oclc/869881564> <http://www.w3.org/2007/05/powder-s#describedby> <http://www.worldcat.org/title/-/oclc/869881564> .
+<http://www.worldcat.org/oclc/869881564> <http://schema.org/about> <http://dewey.info/class/070/> .
+<http://www.worldcat.org/oclc/869881564> <http://schema.org/url> <http://www.nature.com/nature/archive/index.html> .
+<http://www.worldcat.org/oclc/869881564> <http://schema.org/productID> "869881564" .
+<http://www.worldcat.org/oclc/869881564> <http://schema.org/url> <http://www.bibliothek.uni-regensburg.de/ezeit/?1413423> .
+<http://www.worldcat.org/oclc/869881564> <http://schema.org/datePublished> "1869/9999" .
+<http://www.worldcat.org/oclc/869881564> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://www.worldcat.org/oclc/869881564> <http://schema.org/alternateName> "Nature outlook" .
+<http://www.worldcat.org/oclc/869881564> <http://schema.org/publisher> <http://experiment.worldcat.org/entity/work/data/4452027609#Agent/nature_publ_group> .
+<http://www.worldcat.org/oclc/869881564> <http://schema.org/url> <https://www.nature.com/nature/archive/index.html> .
+<http://www.worldcat.org/oclc/869881564> <http://schema.org/inLanguage> "en" .
+<http://www.worldcat.org/oclc/869881564> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/4452027609#Topic/naturwissenschaften> .
+<http://www.worldcat.org/oclc/869881564> <http://schema.org/url> <http://opacplus.bsb-muenchen.de/title/120714-3> .
+<http://www.worldcat.org/oclc/869881564> <http://schema.org/isSimilarTo> <http://worldcat.org/entity/work/data/4452027609#CreativeWork/nature_london> .
+<http://www.worldcat.org/oclc/869881564> <http://schema.org/alternateName> "Nature publishing index" .
+<http://www.worldcat.org/oclc/869881564> <http://umbel.org/umbel#isLike> <http://d-nb.info/019080638> .
+<http://www.worldcat.org/oclc/869881564> <http://purl.org/library/placeOfPublication> <http://dbpedia.org/resource/London> .
+<http://www.worldcat.org/oclc/869881564> <http://schema.org/alternateName> "international weekly journal of science" .
+<http://www.worldcat.org/oclc/869881564> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://www.worldcat.org/oclc/869881564> <http://schema.org/alternateName> "Weekly illustrated journal of science" .
+<http://www.worldcat.org/oclc/869881564> <http://schema.org/alternateName> "Science in Latin America" .
+<http://www.worldcat.org/oclc/869881564> <http://purl.org/library/oclcnum> "869881564" .
+<http://www.worldcat.org/oclc/869881564> <http://schema.org/alternateName> "Nature net guide" .
+<http://www.worldcat.org/oclc/869881564> <http://schema.org/alternateName> "International weekly journal of science" .
+<http://www.worldcat.org/oclc/869881564> <http://schema.org/alternateName> "Nature jobs" .
+<http://www.worldcat.org/oclc/869881564> <http://schema.org/alternateName> "Nature <London>" .
+<http://www.worldcat.org/oclc/869881564> <http://schema.org/alternateName> "Nature insight" .
+<http://www.worldcat.org/oclc/869881564> <http://schema.org/alternateName> "Science and technology networks in Scandinavia" .
+<http://www.worldcat.org/oclc/869881564> <http://schema.org/alternateName> "Produktschau für Deutschland" .
+<http://www.worldcat.org/oclc/869881564> <http://schema.org/url> <https://digipress.digitale-sammlungen.de/calendar/newspaper/bsbmult00000679> .
+<http://www.worldcat.org/oclc/869881564> <http://schema.org/alternateName> "Science et technology networks in Scandinavia" .
+<http://www.worldcat.org/oclc/869881564> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/MediaObject> .
+<http://www.worldcat.org/oclc/869881564> <http://schema.org/url> <http://www.nature.com/nature/index.html> .
+<https://digipress.digitale-sammlungen.de/calendar/newspaper/bsbmult00000679> <http://www.w3.org/2000/01/rdf-schema#comment> "kostenfrei" .

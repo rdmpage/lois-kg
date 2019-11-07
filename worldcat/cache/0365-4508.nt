@@ -1,0 +1,67 @@
+<http://experiment.worldcat.org/entity/work/data/2177235#Thing/zoologie> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> .
+<http://experiment.worldcat.org/entity/work/data/2177235#Thing/zoologie> <http://schema.org/name> "ZOOLOGIE" .
+<http://experiment.worldcat.org/entity/work/data/2177235#Thing/periodiques_electroniques_+_series_electroniques_types_des_documents> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> .
+<http://experiment.worldcat.org/entity/work/data/2177235#Thing/periodiques_electroniques_+_series_electroniques_types_des_documents> <http://schema.org/name> "PÉRIODIQUES ÉLECTRONIQUES + SÉRIES ÉLECTRONIQUES (TYPES DES DOCUMENTS)" .
+<http://experiment.worldcat.org/entity/work/data/2177235#Agent/museu_nacional> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bibliograph.net/Agent> .
+<http://experiment.worldcat.org/entity/work/data/2177235#Agent/museu_nacional> <http://schema.org/name> "Museu nacional." .
+<http://www.worldcat.org/oclc/609917551> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/2177235#Thing/zoologie> .
+<http://www.worldcat.org/oclc/609917551> <http://schema.org/inLanguage> "en" .
+<http://www.worldcat.org/oclc/609917551> <http://schema.org/contributor> <http://viaf.org/viaf/158060942> .
+<http://www.worldcat.org/oclc/609917551> <http://schema.org/exampleOfWork> <http://worldcat.org/entity/work/id/2177235> .
+<http://www.worldcat.org/oclc/609917551> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/2177235#Thing/elektronische_zeitschriften_+_elektronische_schriftenreihen_dokumententyp> .
+<http://www.worldcat.org/oclc/609917551> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/2177235#Thing/periodiques_electroniques_+_series_electroniques_types_des_documents> .
+<http://www.worldcat.org/oclc/609917551> <http://schema.org/datePublished> "1927/9999" .
+<http://www.worldcat.org/oclc/609917551> <http://purl.org/library/placeOfPublication> <http://id.loc.gov/vocabulary/countries/bl> .
+<http://www.worldcat.org/oclc/609917551> <http://schema.org/alternateName> "Archivos do Museu Nacional" .
+<http://www.worldcat.org/oclc/609917551> <http://schema.org/workExample> <http://worldcat.org/issn/0365-4508> .
+<http://www.worldcat.org/oclc/609917551> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/2177235#Thing/science_and_mathematics> .
+<http://www.worldcat.org/oclc/609917551> <http://schema.org/url> <http://sfx.ethz.ch:9003/sfx_locater?sid=ALEPH:EBI01&genre=journal&issn=0365-4508> .
+<http://www.worldcat.org/oclc/609917551> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/2177235#Thing/electronic_journals_+_online_serials_document_types> .
+<http://www.worldcat.org/oclc/609917551> <http://schema.org/publisher> <http://experiment.worldcat.org/entity/work/data/2177235#Agent/museu_nacional> .
+<http://www.worldcat.org/oclc/609917551> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/2177235#Topic/naturwissenschaften> .
+<http://www.worldcat.org/oclc/609917551> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://www.worldcat.org/oclc/609917551> <http://purl.org/library/oclcnum> "609917551" .
+<http://www.worldcat.org/oclc/609917551> <http://purl.org/library/placeOfPublication> <http://experiment.worldcat.org/entity/work/data/2177235#Place/rio_de_janeiro> .
+<http://www.worldcat.org/oclc/609917551> <http://schema.org/genre> "Zeitschrift" .
+<http://www.worldcat.org/oclc/609917551> <http://schema.org/productID> "609917551" .
+<http://www.worldcat.org/oclc/609917551> <http://www.w3.org/2007/05/powder-s#describedby> <http://www.worldcat.org/title/-/oclc/609917551> .
+<http://www.worldcat.org/oclc/609917551> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/2177235#Thing/zoology> .
+<http://www.worldcat.org/oclc/609917551> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/2177235#Thing/naturwissenschaften_und_mathematik> .
+<http://www.worldcat.org/oclc/609917551> <http://schema.org/name> "Arquivos do Museu Nacional." .
+<http://www.worldcat.org/oclc/609917551> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://www.worldcat.org/oclc/609917551> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/2177235#Thing/sciences_et_mathematiques> .
+<http://www.worldcat.org/oclc/609917551> <http://schema.org/publication> <http://www.worldcat.org/title/-/oclc/609917551#PublicationEvent/rio_de_janeiro_museu_nacional> .
+<http://experiment.worldcat.org/entity/work/data/2177235#Thing/electronic_journals_+_online_serials_document_types> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> .
+<http://experiment.worldcat.org/entity/work/data/2177235#Thing/electronic_journals_+_online_serials_document_types> <http://schema.org/name> "ELECTRONIC JOURNALS + ONLINE SERIALS (DOCUMENT TYPES)" .
+<http://worldcat.org/entity/work/id/2177235> <http://umbel.org/umbel#isLike> <http://worldcat.org/issn/0365-4508> .
+<http://experiment.worldcat.org/entity/work/data/2177235#Thing/naturwissenschaften_und_mathematik> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> .
+<http://experiment.worldcat.org/entity/work/data/2177235#Thing/naturwissenschaften_und_mathematik> <http://schema.org/name> "NATURWISSENSCHAFTEN UND MATHEMATIK" .
+<http://experiment.worldcat.org/entity/work/data/2177235#Topic/naturwissenschaften> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/2177235#Topic/naturwissenschaften> <http://schema.org/name> "Naturwissenschaften" .
+<http://experiment.worldcat.org/entity/work/data/2177235#Thing/sciences_et_mathematiques> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> .
+<http://experiment.worldcat.org/entity/work/data/2177235#Thing/sciences_et_mathematiques> <http://schema.org/name> "SCIENCES ET MATHEMATIQUES" .
+<http://sfx.ethz.ch:9003/sfx_locater?sid=ALEPH:EBI01&genre=journal&issn=0365-4508> <http://www.w3.org/2000/01/rdf-schema#comment> "Online via SFX" .
+<http://www.worldcat.org/title/-/oclc/609917551#PublicationEvent/rio_de_janeiro_museu_nacional> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PublicationEvent> .
+<http://www.worldcat.org/title/-/oclc/609917551#PublicationEvent/rio_de_janeiro_museu_nacional> <http://schema.org/location> <http://experiment.worldcat.org/entity/work/data/2177235#Place/rio_de_janeiro> .
+<http://www.worldcat.org/title/-/oclc/609917551#PublicationEvent/rio_de_janeiro_museu_nacional> <http://schema.org/organizer> <http://experiment.worldcat.org/entity/work/data/2177235#Agent/museu_nacional> .
+<http://experiment.worldcat.org/entity/work/data/2177235#Thing/science_and_mathematics> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> .
+<http://experiment.worldcat.org/entity/work/data/2177235#Thing/science_and_mathematics> <http://schema.org/name> "SCIENCE AND MATHEMATICS" .
+<http://experiment.worldcat.org/entity/work/data/2177235#Place/rio_de_janeiro> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://experiment.worldcat.org/entity/work/data/2177235#Place/rio_de_janeiro> <http://schema.org/name> "Rio de Janeiro" .
+<http://viaf.org/viaf/158060942> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+<http://viaf.org/viaf/158060942> <http://schema.org/name> "Museu Nacional (Rio de Janeiro)" .
+<http://id.loc.gov/vocabulary/countries/bl> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://id.loc.gov/vocabulary/countries/bl> <http://purl.org/dc/terms/identifier> "bl" .
+<http://www.worldcat.org/title/-/oclc/609917551> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#ContentTypeGenericResource> .
+<http://www.worldcat.org/title/-/oclc/609917551> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#InformationResource> .
+<http://www.worldcat.org/title/-/oclc/609917551> <http://schema.org/about> <http://www.worldcat.org/oclc/609917551> .
+<http://www.worldcat.org/title/-/oclc/609917551> <http://schema.org/dateModified> "2018-11-10" .
+<http://www.worldcat.org/title/-/oclc/609917551> <http://rdfs.org/ns/void#inDataset> <http://purl.oclc.org/dataset/WorldCat> .
+<http://worldcat.org/issn/0365-4508> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://worldcat.org/issn/0365-4508> <http://schema.org/name> "Arquivos do Museu Nacional." .
+<http://worldcat.org/issn/0365-4508> <http://schema.org/issn> "0365-4508" .
+<http://worldcat.org/issn/0365-4508> <http://umbel.org/umbel#isLike> <http://worldcat.org/entity/work/id/2177235> .
+<http://experiment.worldcat.org/entity/work/data/2177235#Thing/zoology> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> .
+<http://experiment.worldcat.org/entity/work/data/2177235#Thing/zoology> <http://schema.org/name> "ZOOLOGY" .
+<http://experiment.worldcat.org/entity/work/data/2177235#Thing/elektronische_zeitschriften_+_elektronische_schriftenreihen_dokumententyp> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> .
+<http://experiment.worldcat.org/entity/work/data/2177235#Thing/elektronische_zeitschriften_+_elektronische_schriftenreihen_dokumententyp> <http://schema.org/name> "ELEKTRONISCHE ZEITSCHRIFTEN + ELEKTRONISCHE SCHRIFTENREIHEN (DOKUMENTENTYP)" .

@@ -1,0 +1,36 @@
+<http://experiment.worldcat.org/entity/work/data/9268337341#Place/leiden> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://experiment.worldcat.org/entity/work/data/9268337341#Place/leiden> <http://schema.org/name> "Leiden" .
+<http://www.worldcat.org/title/-/oclc/847771882> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#ContentTypeGenericResource> .
+<http://www.worldcat.org/title/-/oclc/847771882> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#InformationResource> .
+<http://www.worldcat.org/title/-/oclc/847771882> <http://schema.org/about> <http://www.worldcat.org/oclc/847771882> .
+<http://www.worldcat.org/title/-/oclc/847771882> <http://schema.org/dateModified> "2019-10-23" .
+<http://www.worldcat.org/title/-/oclc/847771882> <http://rdfs.org/ns/void#inDataset> <http://purl.oclc.org/dataset/WorldCat> .
+<http://experiment.worldcat.org/entity/work/data/9268337341#Organization/rijksherbarium_leiden> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+<http://experiment.worldcat.org/entity/work/data/9268337341#Organization/rijksherbarium_leiden> <http://schema.org/name> "Rijksherbarium (Leiden)" .
+<http://experiment.worldcat.org/entity/work/data/9268337341#Agent/nationaal_herbarium_nederland> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bibliograph.net/Agent> .
+<http://experiment.worldcat.org/entity/work/data/9268337341#Agent/nationaal_herbarium_nederland> <http://schema.org/name> "Nationaal Herbarium Nederland." .
+<http://id.loc.gov/vocabulary/countries/nl> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://id.loc.gov/vocabulary/countries/nl> <http://purl.org/dc/terms/identifier> "nl" .
+<http://worldcat.org/entity/work/id/9268337341> <http://umbel.org/umbel#isLike> <http://worldcat.org/issn/0031-5850> .
+<http://worldcat.org/issn/0031-5850> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://worldcat.org/issn/0031-5850> <http://schema.org/name> "Persoonia : molecular phylogeny and evolution of fungi." .
+<http://worldcat.org/issn/0031-5850> <http://schema.org/issn> "0031-5850" .
+<http://worldcat.org/issn/0031-5850> <http://umbel.org/umbel#isLike> <http://worldcat.org/entity/work/id/9268337341> .
+<http://www.worldcat.org/title/-/oclc/847771882#PublicationEvent/leiden_nationaal_herbarium_nederland> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PublicationEvent> .
+<http://www.worldcat.org/title/-/oclc/847771882#PublicationEvent/leiden_nationaal_herbarium_nederland> <http://schema.org/location> <http://experiment.worldcat.org/entity/work/data/9268337341#Place/leiden> .
+<http://www.worldcat.org/title/-/oclc/847771882#PublicationEvent/leiden_nationaal_herbarium_nederland> <http://schema.org/organizer> <http://experiment.worldcat.org/entity/work/data/9268337341#Agent/nationaal_herbarium_nederland> .
+<http://www.worldcat.org/oclc/847771882> <http://schema.org/productID> "847771882" .
+<http://www.worldcat.org/oclc/847771882> <http://purl.org/library/placeOfPublication> <http://experiment.worldcat.org/entity/work/data/9268337341#Place/leiden> .
+<http://www.worldcat.org/oclc/847771882> <http://schema.org/publication> <http://www.worldcat.org/title/-/oclc/847771882#PublicationEvent/leiden_nationaal_herbarium_nederland> .
+<http://www.worldcat.org/oclc/847771882> <http://purl.org/library/placeOfPublication> <http://id.loc.gov/vocabulary/countries/nl> .
+<http://www.worldcat.org/oclc/847771882> <http://schema.org/datePublished> "1959/9999" .
+<http://www.worldcat.org/oclc/847771882> <http://schema.org/name> "Persoonia : molecular phylogeny and evolution of fungi." .
+<http://www.worldcat.org/oclc/847771882> <http://purl.org/library/oclcnum> "847771882" .
+<http://www.worldcat.org/oclc/847771882> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://www.worldcat.org/oclc/847771882> <http://schema.org/inLanguage> "en" .
+<http://www.worldcat.org/oclc/847771882> <http://schema.org/workExample> <http://worldcat.org/issn/0031-5850> .
+<http://www.worldcat.org/oclc/847771882> <http://schema.org/exampleOfWork> <http://worldcat.org/entity/work/id/9268337341> .
+<http://www.worldcat.org/oclc/847771882> <http://schema.org/publisher> <http://experiment.worldcat.org/entity/work/data/9268337341#Agent/nationaal_herbarium_nederland> .
+<http://www.worldcat.org/oclc/847771882> <http://schema.org/contributor> <http://experiment.worldcat.org/entity/work/data/9268337341#Organization/rijksherbarium_leiden> .
+<http://www.worldcat.org/oclc/847771882> <http://www.w3.org/2007/05/powder-s#describedby> <http://www.worldcat.org/title/-/oclc/847771882> .
+<http://www.worldcat.org/oclc/847771882> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .

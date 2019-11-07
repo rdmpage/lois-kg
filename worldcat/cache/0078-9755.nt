@@ -1,0 +1,18 @@
+<http://www.worldcat.org/title/-/oclc/499724500> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#ContentTypeGenericResource> .
+<http://www.worldcat.org/title/-/oclc/499724500> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#InformationResource> .
+<http://www.worldcat.org/title/-/oclc/499724500> <http://schema.org/about> <http://www.worldcat.org/oclc/499724500> .
+<http://www.worldcat.org/title/-/oclc/499724500> <http://schema.org/dateModified> "2018-11-10" .
+<http://www.worldcat.org/title/-/oclc/499724500> <http://rdfs.org/ns/void#inDataset> <http://purl.oclc.org/dataset/WorldCat> .
+<http://worldcat.org/entity/work/id/373289452> <http://umbel.org/umbel#isLike> <http://worldcat.org/issn/0078-9755> .
+<http://www.worldcat.org/oclc/499724500> <http://www.w3.org/2007/05/powder-s#describedby> <http://www.worldcat.org/title/-/oclc/499724500> .
+<http://www.worldcat.org/oclc/499724500> <http://schema.org/exampleOfWork> <http://worldcat.org/entity/work/id/373289452> .
+<http://www.worldcat.org/oclc/499724500> <http://schema.org/productID> "499724500" .
+<http://www.worldcat.org/oclc/499724500> <http://purl.org/library/oclcnum> "499724500" .
+<http://www.worldcat.org/oclc/499724500> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://www.worldcat.org/oclc/499724500> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://www.worldcat.org/oclc/499724500> <http://schema.org/workExample> <http://worldcat.org/issn/0078-9755> .
+<http://www.worldcat.org/oclc/499724500> <http://schema.org/name> "Memoires- museum national d histoire naturelle paris serie b." .
+<http://worldcat.org/issn/0078-9755> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://worldcat.org/issn/0078-9755> <http://schema.org/name> "Memoires- museum national d histoire naturelle paris serie b." .
+<http://worldcat.org/issn/0078-9755> <http://schema.org/issn> "0078-9755" .
+<http://worldcat.org/issn/0078-9755> <http://umbel.org/umbel#isLike> <http://worldcat.org/entity/work/id/373289452> .

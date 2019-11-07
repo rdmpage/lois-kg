@@ -1,0 +1,47 @@
+<http://experiment.worldcat.org/entity/work/data/820758572#Topic/succulent_plants> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/820758572#Topic/succulent_plants> <http://schema.org/name> "Succulent plants"@en .
+<http://www.worldcat.org/title/-/oclc/1028647868#PublicationEvent/oxford_the_society_1983> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PublicationEvent> .
+<http://www.worldcat.org/title/-/oclc/1028647868#PublicationEvent/oxford_the_society_1983> <http://schema.org/location> <http://experiment.worldcat.org/entity/work/data/820758572#Place/oxford> .
+<http://www.worldcat.org/title/-/oclc/1028647868#PublicationEvent/oxford_the_society_1983> <http://schema.org/organizer> <http://experiment.worldcat.org/entity/work/data/820758572#Agent/the_society> .
+<http://experiment.worldcat.org/entity/work/data/820758572#Place/oxford> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://experiment.worldcat.org/entity/work/data/820758572#Place/oxford> <http://schema.org/name> "Oxford" .
+<http://experiment.worldcat.org/entity/work/data/820758572#Organization/british_cactus_and_succulent_society> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+<http://experiment.worldcat.org/entity/work/data/820758572#Organization/british_cactus_and_succulent_society> <http://schema.org/name> "British Cactus and Succulent Society." .
+<http://id.loc.gov/vocabulary/countries/enk> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://id.loc.gov/vocabulary/countries/enk> <http://purl.org/dc/terms/identifier> "enk" .
+<http://www.worldcat.org/oclc/1028647868> <http://schema.org/isSimilarTo> <http://www.worldcat.org/oclc/643839382> .
+<http://www.worldcat.org/oclc/1028647868> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/820758572#Topic/succulent_plants> .
+<http://www.worldcat.org/oclc/1028647868> <http://schema.org/datePublished> "1983/9999" .
+<http://www.worldcat.org/oclc/1028647868> <http://schema.org/genre> "Electronic journals"@en .
+<http://www.worldcat.org/oclc/1028647868> <http://www.w3.org/2007/05/powder-s#describedby> <http://www.worldcat.org/title/-/oclc/1028647868> .
+<http://www.worldcat.org/oclc/1028647868> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/MediaObject> .
+<http://www.worldcat.org/oclc/1028647868> <http://schema.org/url> <http://www.bioone.org/loi/brad> .
+<http://www.worldcat.org/oclc/1028647868> <http://schema.org/name> "Bradleya : yearbook of the British Cactus and Succulent Society."@en .
+<http://www.worldcat.org/oclc/1028647868> <http://umbel.org/umbel#isLike> <http://bnb.data.bl.uk/id/resource/GB8521441> .
+<http://www.worldcat.org/oclc/1028647868> <http://schema.org/copyrightYear> "1983/" .
+<http://www.worldcat.org/oclc/1028647868> <http://schema.org/exampleOfWork> <http://worldcat.org/entity/work/id/820758572> .
+<http://www.worldcat.org/oclc/1028647868> <http://schema.org/publication> <http://www.worldcat.org/title/-/oclc/1028647868#PublicationEvent/oxford_the_society_1983> .
+<http://www.worldcat.org/oclc/1028647868> <http://schema.org/contributor> <http://experiment.worldcat.org/entity/work/data/820758572#Organization/british_cactus_and_succulent_society> .
+<http://www.worldcat.org/oclc/1028647868> <http://purl.org/library/placeOfPublication> <http://experiment.worldcat.org/entity/work/data/820758572#Place/oxford> .
+<http://www.worldcat.org/oclc/1028647868> <http://purl.org/library/oclcnum> "1028647868" .
+<http://www.worldcat.org/oclc/1028647868> <http://schema.org/productID> "1028647868" .
+<http://www.worldcat.org/oclc/1028647868> <http://schema.org/inLanguage> "en" .
+<http://www.worldcat.org/oclc/1028647868> <http://schema.org/url> <http://VH7QX3XE2P.search.serialssolutions.com/?V=1.0&L=VH7QX3XE2P&S=JCs&C=TC0001934929&T=marc> .
+<http://www.worldcat.org/oclc/1028647868> <http://purl.org/library/placeOfPublication> <http://id.loc.gov/vocabulary/countries/enk> .
+<http://www.worldcat.org/oclc/1028647868> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://www.worldcat.org/oclc/1028647868> <http://schema.org/publisher> <http://experiment.worldcat.org/entity/work/data/820758572#Agent/the_society> .
+<http://www.worldcat.org/oclc/1028647868> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://www.worldcat.org/oclc/1028647868> <http://schema.org/genre> "Periodicals"@en .
+<http://www.worldcat.org/oclc/1028647868> <http://schema.org/url> <https://www.bioone.org/journals/paleontological-contributions> .
+<http://www.worldcat.org/oclc/643839382> <http://schema.org/isSimilarTo> <http://www.worldcat.org/oclc/1028647868> .
+<http://www.worldcat.org/oclc/643839382> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://www.worldcat.org/oclc/643839382> <http://www.w3.org/2000/01/rdf-schema#label> "Bradleya" .
+<http://www.worldcat.org/oclc/643839382> <http://schema.org/description> "Online version:" .
+<http://worldcat.org/entity/work/id/820758572> <http://schema.org/name> "Bradleya (Online)"@en .
+<http://www.worldcat.org/title/-/oclc/1028647868> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#ContentTypeGenericResource> .
+<http://www.worldcat.org/title/-/oclc/1028647868> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#InformationResource> .
+<http://www.worldcat.org/title/-/oclc/1028647868> <http://schema.org/about> <http://www.worldcat.org/oclc/1028647868> .
+<http://www.worldcat.org/title/-/oclc/1028647868> <http://schema.org/dateModified> "2019-09-12" .
+<http://www.worldcat.org/title/-/oclc/1028647868> <http://rdfs.org/ns/void#inDataset> <http://purl.oclc.org/dataset/WorldCat> .
+<http://experiment.worldcat.org/entity/work/data/820758572#Agent/the_society> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bibliograph.net/Agent> .
+<http://experiment.worldcat.org/entity/work/data/820758572#Agent/the_society> <http://schema.org/name> "The Society" .

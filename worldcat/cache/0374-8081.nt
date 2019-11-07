@@ -1,0 +1,43 @@
+<http://worldcat.org/entity/work/id/1155750136> <http://umbel.org/umbel#isLike> <http://worldcat.org/issn/0374-8081> .
+<http://experiment.worldcat.org/entity/work/data/1155750136#Agent/hokuriku_no_shokubutsu_no_kai> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bibliograph.net/Agent> .
+<http://experiment.worldcat.org/entity/work/data/1155750136#Agent/hokuriku_no_shokubutsu_no_kai> <http://schema.org/name> "Hokuriku no Shokubutsu no Kai." .
+<http://experiment.worldcat.org/entity/work/data/1155750136#Thing/botany> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> .
+<http://experiment.worldcat.org/entity/work/data/1155750136#Thing/botany> <http://schema.org/name> "BOTANY" .
+<http://experiment.worldcat.org/entity/work/data/1155750136#Thing/botanique> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> .
+<http://experiment.worldcat.org/entity/work/data/1155750136#Thing/botanique> <http://schema.org/name> "BOTANIQUE" .
+<http://id.loc.gov/vocabulary/countries/ja> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://id.loc.gov/vocabulary/countries/ja> <http://purl.org/dc/terms/identifier> "ja" .
+<http://experiment.worldcat.org/entity/work/data/1155750136#Thing/botanik> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> .
+<http://experiment.worldcat.org/entity/work/data/1155750136#Thing/botanik> <http://schema.org/name> "BOTANIK" .
+<http://experiment.worldcat.org/entity/work/data/1155750136#Place/kanazawa> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://experiment.worldcat.org/entity/work/data/1155750136#Place/kanazawa> <http://schema.org/name> "Kanazawa" .
+<http://www.worldcat.org/oclc/888444997> <http://purl.org/library/placeOfPublication> <http://id.loc.gov/vocabulary/countries/ja> .
+<http://www.worldcat.org/oclc/888444997> <http://schema.org/datePublished> "1965/1979" .
+<http://www.worldcat.org/oclc/888444997> <http://purl.org/library/oclcnum> "888444997" .
+<http://www.worldcat.org/oclc/888444997> <http://schema.org/workExample> <http://worldcat.org/issn/0374-8081> .
+<http://www.worldcat.org/oclc/888444997> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/1155750136#Thing/botanik> .
+<http://www.worldcat.org/oclc/888444997> <http://schema.org/productID> "888444997" .
+<http://www.worldcat.org/oclc/888444997> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://www.worldcat.org/oclc/888444997> <http://schema.org/inLanguage> "en" .
+<http://www.worldcat.org/oclc/888444997> <http://schema.org/name> "The journal of geobotany = Hokuriku no Shokubutsu." .
+<http://www.worldcat.org/oclc/888444997> <http://www.w3.org/2007/05/powder-s#describedby> <http://www.worldcat.org/title/-/oclc/888444997> .
+<http://www.worldcat.org/oclc/888444997> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://www.worldcat.org/oclc/888444997> <http://purl.org/library/placeOfPublication> <http://experiment.worldcat.org/entity/work/data/1155750136#Place/kanazawa> .
+<http://www.worldcat.org/oclc/888444997> <http://schema.org/publisher> <http://experiment.worldcat.org/entity/work/data/1155750136#Agent/hokuriku_no_shokubutsu_no_kai> .
+<http://www.worldcat.org/oclc/888444997> <http://schema.org/exampleOfWork> <http://worldcat.org/entity/work/id/1155750136> .
+<http://www.worldcat.org/oclc/888444997> <http://schema.org/alternateName> "Hokuriku journal of botany" .
+<http://www.worldcat.org/oclc/888444997> <http://schema.org/publication> <http://www.worldcat.org/title/-/oclc/888444997#PublicationEvent/kanazawa_hokuriku_no_shokubutsu_no_kai> .
+<http://www.worldcat.org/oclc/888444997> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/1155750136#Thing/botany> .
+<http://www.worldcat.org/oclc/888444997> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/1155750136#Thing/botanique> .
+<http://worldcat.org/issn/0374-8081> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://worldcat.org/issn/0374-8081> <http://schema.org/name> "The journal of geobotany = Hokuriku no Shokubutsu." .
+<http://worldcat.org/issn/0374-8081> <http://schema.org/issn> "0374-8081" .
+<http://worldcat.org/issn/0374-8081> <http://umbel.org/umbel#isLike> <http://worldcat.org/entity/work/id/1155750136> .
+<http://www.worldcat.org/title/-/oclc/888444997#PublicationEvent/kanazawa_hokuriku_no_shokubutsu_no_kai> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PublicationEvent> .
+<http://www.worldcat.org/title/-/oclc/888444997#PublicationEvent/kanazawa_hokuriku_no_shokubutsu_no_kai> <http://schema.org/location> <http://experiment.worldcat.org/entity/work/data/1155750136#Place/kanazawa> .
+<http://www.worldcat.org/title/-/oclc/888444997#PublicationEvent/kanazawa_hokuriku_no_shokubutsu_no_kai> <http://schema.org/organizer> <http://experiment.worldcat.org/entity/work/data/1155750136#Agent/hokuriku_no_shokubutsu_no_kai> .
+<http://www.worldcat.org/title/-/oclc/888444997> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#ContentTypeGenericResource> .
+<http://www.worldcat.org/title/-/oclc/888444997> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#InformationResource> .
+<http://www.worldcat.org/title/-/oclc/888444997> <http://schema.org/about> <http://www.worldcat.org/oclc/888444997> .
+<http://www.worldcat.org/title/-/oclc/888444997> <http://schema.org/dateModified> "2018-11-09" .
+<http://www.worldcat.org/title/-/oclc/888444997> <http://rdfs.org/ns/void#inDataset> <http://purl.oclc.org/dataset/WorldCat> .

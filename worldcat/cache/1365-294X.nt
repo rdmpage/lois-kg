@@ -1,0 +1,57 @@
+<http://experiment.worldcat.org/entity/work/data/155200387#Topic/biologia_molecular_revistes> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/155200387#Topic/biologia_molecular_revistes> <http://schema.org/name> "Biologia molecular--Revistes" .
+<http://worldcat.org/issn/1365-294X> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://worldcat.org/issn/1365-294X> <http://schema.org/name> "Molecular ecology" .
+<http://worldcat.org/issn/1365-294X> <http://schema.org/issn> "1365-294X" .
+<http://worldcat.org/issn/1365-294X> <http://umbel.org/umbel#isLike> <http://worldcat.org/entity/work/id/155200387> .
+<http://experiment.worldcat.org/entity/work/data/155200387#Topic/ecologia_revistes> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/155200387#Topic/ecologia_revistes> <http://schema.org/name> "Ecologia--Revistes" .
+<http://www.worldcat.org/title/-/oclc/865201905> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#ContentTypeGenericResource> .
+<http://www.worldcat.org/title/-/oclc/865201905> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#InformationResource> .
+<http://www.worldcat.org/title/-/oclc/865201905> <http://schema.org/about> <http://www.worldcat.org/oclc/865201905> .
+<http://www.worldcat.org/title/-/oclc/865201905> <http://schema.org/dateModified> "2019-10-29" .
+<http://www.worldcat.org/title/-/oclc/865201905> <http://rdfs.org/ns/void#inDataset> <http://purl.oclc.org/dataset/WorldCat> .
+<http://experiment.worldcat.org/entity/work/data/155200387#Place/london_etc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://experiment.worldcat.org/entity/work/data/155200387#Place/london_etc> <http://schema.org/name> "London, etc." .
+<http://experiment.worldcat.org/entity/work/data/155200387#Topic/biologia_de_poblacions> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/155200387#Topic/biologia_de_poblacions> <http://schema.org/name> "Biologia de poblacions" .
+<http://id.loc.gov/vocabulary/countries/enk> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://id.loc.gov/vocabulary/countries/enk> <http://purl.org/dc/terms/identifier> "enk" .
+<http://experiment.worldcat.org/entity/work/data/155200387#Topic/biologia_molecular> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/155200387#Topic/biologia_molecular> <http://schema.org/name> "Biologia molecular" .
+<http://www.worldcat.org/oclc/865201905> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/155200387#Topic/biologia_de_poblacions> .
+<http://www.worldcat.org/oclc/865201905> <http://schema.org/inLanguage> "en" .
+<http://www.worldcat.org/oclc/865201905> <http://schema.org/name> "Molecular ecology" .
+<http://www.worldcat.org/oclc/865201905> <http://schema.org/workExample> <http://worldcat.org/issn/1365-294X> .
+<http://www.worldcat.org/oclc/865201905> <http://www.w3.org/2007/05/powder-s#describedby> <http://www.worldcat.org/title/-/oclc/865201905> .
+<http://www.worldcat.org/oclc/865201905> <http://purl.org/library/oclcnum> "865201905" .
+<http://www.worldcat.org/oclc/865201905> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://www.worldcat.org/oclc/865201905> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/155200387#Topic/ecologia> .
+<http://www.worldcat.org/oclc/865201905> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/155200387#Topic/biologia_molecular_revistes> .
+<http://www.worldcat.org/oclc/865201905> <http://purl.org/library/placeOfPublication> <http://experiment.worldcat.org/entity/work/data/155200387#Place/london_etc> .
+<http://www.worldcat.org/oclc/865201905> <http://purl.org/library/placeOfPublication> <http://id.loc.gov/vocabulary/countries/enk> .
+<http://www.worldcat.org/oclc/865201905> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/MediaObject> .
+<http://www.worldcat.org/oclc/865201905> <http://schema.org/productID> "865201905" .
+<http://www.worldcat.org/oclc/865201905> <http://schema.org/publication> <http://www.worldcat.org/title/-/oclc/865201905#PublicationEvent/london_etc_carfax_publishing_part_of_the_taylor_&_francis_group_200> .
+<http://www.worldcat.org/oclc/865201905> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/155200387#Topic/ecologia_revistes> .
+<http://www.worldcat.org/oclc/865201905> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://www.worldcat.org/oclc/865201905> <http://schema.org/datePublished> "200u/9999" .
+<http://www.worldcat.org/oclc/865201905> <http://schema.org/publisher> <http://experiment.worldcat.org/entity/work/data/155200387#Agent/carfax_publishing_part_of_the_taylor_&_francis_group> .
+<http://www.worldcat.org/oclc/865201905> <http://schema.org/exampleOfWork> <http://worldcat.org/entity/work/id/155200387> .
+<http://www.worldcat.org/oclc/865201905> <http://schema.org/url> <http://www.blackwell-synergy.com/servlet/useragent?func=showIssues&code=mec> .
+<http://www.worldcat.org/oclc/865201905> <http://schema.org/alternateName> "Mol. ecol. (Online)" .
+<http://www.worldcat.org/oclc/865201905> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/155200387#Topic/biologia_molecular> .
+<http://www.worldcat.org/oclc/865201905> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://experiment.worldcat.org/entity/work/data/155200387#CreativeWork/wiley_interscience> .
+<http://www.worldcat.org/oclc/865201905> <http://schema.org/genre> "Revistes electròniques" .
+<http://experiment.worldcat.org/entity/work/data/155200387#CreativeWork/wiley_interscience> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://experiment.worldcat.org/entity/work/data/155200387#CreativeWork/wiley_interscience> <http://schema.org/name> "Wiley InterScience." .
+<http://experiment.worldcat.org/entity/work/data/155200387#Topic/ecologia> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/155200387#Topic/ecologia> <http://schema.org/name> "Ecologia" .
+<http://www.blackwell-synergy.com/servlet/useragent?func=showIssues&code=mec> <http://www.w3.org/2000/01/rdf-schema#comment> "Accés restringit als usuaris de la UB, UAB, UPC, UPF, UdG, UdL, URV, UOC, BC, UJI i UVIC" .
+<http://www.worldcat.org/title/-/oclc/865201905#PublicationEvent/london_etc_carfax_publishing_part_of_the_taylor_&_francis_group_200> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PublicationEvent> .
+<http://www.worldcat.org/title/-/oclc/865201905#PublicationEvent/london_etc_carfax_publishing_part_of_the_taylor_&_francis_group_200> <http://schema.org/location> <http://experiment.worldcat.org/entity/work/data/155200387#Place/london_etc> .
+<http://www.worldcat.org/title/-/oclc/865201905#PublicationEvent/london_etc_carfax_publishing_part_of_the_taylor_&_francis_group_200> <http://schema.org/organizer> <http://experiment.worldcat.org/entity/work/data/155200387#Agent/carfax_publishing_part_of_the_taylor_&_francis_group> .
+<http://www.worldcat.org/title/-/oclc/865201905#PublicationEvent/london_etc_carfax_publishing_part_of_the_taylor_&_francis_group_200> <http://schema.org/startDate> "-" .
+<http://experiment.worldcat.org/entity/work/data/155200387#Agent/carfax_publishing_part_of_the_taylor_&_francis_group> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bibliograph.net/Agent> .
+<http://experiment.worldcat.org/entity/work/data/155200387#Agent/carfax_publishing_part_of_the_taylor_&_francis_group> <http://schema.org/name> "Carfax Publishing, part of the Taylor & Francis Group" .
+<http://worldcat.org/entity/work/id/155200387> <http://umbel.org/umbel#isLike> <http://worldcat.org/issn/1365-294X> .

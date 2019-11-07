@@ -1,0 +1,47 @@
+<http://experiment.worldcat.org/entity/work/data/424546491#Organization/california_state_university_fullerton_arboretum> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+<http://experiment.worldcat.org/entity/work/data/424546491#Organization/california_state_university_fullerton_arboretum> <http://schema.org/name> "California State University, Fullerton. Arboretum." .
+<http://experiment.worldcat.org/entity/work/data/424546491#Place/fullerton_ca_etc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://experiment.worldcat.org/entity/work/data/424546491#Place/fullerton_ca_etc> <http://schema.org/name> "Fullerton, CA, etc." .
+<http://www.worldcat.org/title/-/oclc/1041640172> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#ContentTypeGenericResource> .
+<http://www.worldcat.org/title/-/oclc/1041640172> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#InformationResource> .
+<http://www.worldcat.org/title/-/oclc/1041640172> <http://schema.org/about> <http://www.worldcat.org/oclc/1041640172> .
+<http://www.worldcat.org/title/-/oclc/1041640172> <http://schema.org/dateModified> "2019-02-19" .
+<http://www.worldcat.org/title/-/oclc/1041640172> <http://rdfs.org/ns/void#inDataset> <http://purl.oclc.org/dataset/WorldCat> .
+<http://www.carnivorousplants.org/cpn/RecentIssues.php> <http://www.w3.org/2000/01/rdf-schema#comment> "Index available with some PDF articles" .
+<http://experiment.worldcat.org/entity/work/data/424546491#Topic/carnivorous_plants> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/424546491#Topic/carnivorous_plants> <http://schema.org/name> "Carnivorous plants"@en .
+<http://www.worldcat.org/oclc/1041640172> <http://schema.org/name> "Carnivorous plant newsletter."@en .
+<http://www.worldcat.org/oclc/1041640172> <http://purl.org/library/placeOfPublication> <http://experiment.worldcat.org/entity/work/data/424546491#Place/fullerton_ca_etc> .
+<http://www.worldcat.org/oclc/1041640172> <http://schema.org/url> <http://www.carnivorousplants.org/cpn/RecentIssues.php> .
+<http://www.worldcat.org/oclc/1041640172> <http://schema.org/inLanguage> "en" .
+<http://www.worldcat.org/oclc/1041640172> <http://purl.org/library/oclcnum> "1041640172" .
+<http://www.worldcat.org/oclc/1041640172> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://www.worldcat.org/oclc/1041640172> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://www.worldcat.org/oclc/1041640172> <http://schema.org/publication> <http://www.worldcat.org/title/-/oclc/1041640172#PublicationEvent/fullerton_ca_etc_arboretum_dept_of_biology_california_state_university> .
+<http://www.worldcat.org/oclc/1041640172> <http://schema.org/url> <http://www.biodiversitylibrary.org/bibliography/133901> .
+<http://www.worldcat.org/oclc/1041640172> <http://schema.org/productID> "1041640172" .
+<http://www.worldcat.org/oclc/1041640172> <http://schema.org/contributor> <http://experiment.worldcat.org/entity/work/data/424546491#Organization/california_state_university_fullerton_arboretum> .
+<http://www.worldcat.org/oclc/1041640172> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/424546491#Topic/carnivorous_plants> .
+<http://www.worldcat.org/oclc/1041640172> <http://schema.org/exampleOfWork> <http://worldcat.org/entity/work/id/424546491> .
+<http://www.worldcat.org/oclc/1041640172> <http://purl.org/library/placeOfPublication> <http://id.loc.gov/vocabulary/countries/cau> .
+<http://www.worldcat.org/oclc/1041640172> <http://schema.org/publisher> <http://experiment.worldcat.org/entity/work/data/424546491#Agent/arboretum_dept_of_biology_california_state_university> .
+<http://www.worldcat.org/oclc/1041640172> <http://schema.org/datePublished> "1972/9999" .
+<http://www.worldcat.org/oclc/1041640172> <http://schema.org/workExample> <http://worldcat.org/issn/0190-9215> .
+<http://www.worldcat.org/oclc/1041640172> <http://schema.org/url> <https://archive.org/details/carnivorousplant5141cali> .
+<http://www.worldcat.org/oclc/1041640172> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/MediaObject> .
+<http://www.worldcat.org/oclc/1041640172> <http://www.w3.org/2007/05/powder-s#describedby> <http://www.worldcat.org/title/-/oclc/1041640172> .
+<http://www.worldcat.org/oclc/1041640172> <http://schema.org/genre> "Periodicals"@en .
+<http://www.worldcat.org/title/-/oclc/1041640172#PublicationEvent/fullerton_ca_etc_arboretum_dept_of_biology_california_state_university> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PublicationEvent> .
+<http://www.worldcat.org/title/-/oclc/1041640172#PublicationEvent/fullerton_ca_etc_arboretum_dept_of_biology_california_state_university> <http://schema.org/location> <http://experiment.worldcat.org/entity/work/data/424546491#Place/fullerton_ca_etc> .
+<http://www.worldcat.org/title/-/oclc/1041640172#PublicationEvent/fullerton_ca_etc_arboretum_dept_of_biology_california_state_university> <http://schema.org/organizer> <http://experiment.worldcat.org/entity/work/data/424546491#Agent/arboretum_dept_of_biology_california_state_university> .
+<http://www.biodiversitylibrary.org/bibliography/133901> <http://www.w3.org/2000/01/rdf-schema#comment> "Some issues available on BHL" .
+<https://archive.org/details/carnivorousplant5141cali> <http://www.w3.org/2000/01/rdf-schema#comment> "Free eBook from the Internet Archive" .
+<http://worldcat.org/issn/0190-9215> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://worldcat.org/issn/0190-9215> <http://schema.org/name> "Carnivorous plant newsletter."@en .
+<http://worldcat.org/issn/0190-9215> <http://schema.org/issn> "0190-9215" .
+<http://worldcat.org/issn/0190-9215> <http://umbel.org/umbel#isLike> <http://worldcat.org/entity/work/id/424546491> .
+<http://worldcat.org/entity/work/id/424546491> <http://umbel.org/umbel#isLike> <http://worldcat.org/issn/0190-9215> .
+<http://experiment.worldcat.org/entity/work/data/424546491#Agent/arboretum_dept_of_biology_california_state_university> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bibliograph.net/Agent> .
+<http://experiment.worldcat.org/entity/work/data/424546491#Agent/arboretum_dept_of_biology_california_state_university> <http://schema.org/name> "[Arboretum, Dept. of Biology, California State University" .
+<http://id.loc.gov/vocabulary/countries/cau> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://id.loc.gov/vocabulary/countries/cau> <http://purl.org/dc/terms/identifier> "cau" .

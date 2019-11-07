@@ -1,0 +1,68 @@
+<http://experiment.worldcat.org/entity/work/data/2475458#Place/berkeley_ca> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://experiment.worldcat.org/entity/work/data/2475458#Place/berkeley_ca> <http://schema.org/name> "Berkeley, CA" .
+<http://id.loc.gov/vocabulary/countries/cau> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://id.loc.gov/vocabulary/countries/cau> <http://purl.org/dc/terms/identifier> "cau" .
+<http://www.worldcat.org/oclc/819189659> <http://schema.org/inLanguage> "en" .
+<http://www.worldcat.org/oclc/819189659> <http://schema.org/publisher> <http://experiment.worldcat.org/entity/work/data/2475458#Agent/california_botanical_society> .
+<http://www.worldcat.org/oclc/819189659> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/2475458#Topic/plantkunde> .
+<http://www.worldcat.org/oclc/819189659> <http://schema.org/datePublished> "200u/9999" .
+<http://www.worldcat.org/oclc/819189659> <http://schema.org/workExample> <http://worldcat.org/issn/0024-9637> .
+<http://www.worldcat.org/oclc/819189659> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/2475458#Place/california> .
+<http://www.worldcat.org/oclc/819189659> <http://schema.org/name> "Madroño : a West-American journal of botany" .
+<http://www.worldcat.org/oclc/819189659> <http://schema.org/genre> "Periodicals" .
+<http://www.worldcat.org/oclc/819189659> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/MediaObject> .
+<http://www.worldcat.org/oclc/819189659> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/2475458#Topic/plants> .
+<http://www.worldcat.org/oclc/819189659> <http://schema.org/contributor> <http://viaf.org/viaf/131428872> .
+<http://www.worldcat.org/oclc/819189659> <http://schema.org/exampleOfWork> <http://worldcat.org/entity/work/id/2475458> .
+<http://www.worldcat.org/oclc/819189659> <http://schema.org/about> <http://dewey.info/class/580/e14/> .
+<http://www.worldcat.org/oclc/819189659> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/2475458#Place/westen_verenigde_staten> .
+<http://www.worldcat.org/oclc/819189659> <http://www.w3.org/2007/05/powder-s#describedby> <http://www.worldcat.org/title/-/oclc/819189659> .
+<http://www.worldcat.org/oclc/819189659> <http://schema.org/publication> <http://www.worldcat.org/title/-/oclc/819189659#PublicationEvent/berkeley_ca_california_botanical_society_200> .
+<http://www.worldcat.org/oclc/819189659> <http://purl.org/library/placeOfPublication> <http://experiment.worldcat.org/entity/work/data/2475458#Place/berkeley_ca> .
+<http://www.worldcat.org/oclc/819189659> <http://purl.org/library/placeOfPublication> <http://id.loc.gov/vocabulary/countries/cau> .
+<http://www.worldcat.org/oclc/819189659> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://www.worldcat.org/oclc/819189659> <http://schema.org/productID> "819189659" .
+<http://www.worldcat.org/oclc/819189659> <http://purl.org/library/oclcnum> "819189659" .
+<http://www.worldcat.org/oclc/819189659> <http://schema.org/isSimilarTo> <http://worldcat.org/entity/work/data/2475458#CreativeWork/madrono> .
+<http://www.worldcat.org/oclc/819189659> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://www.worldcat.org/oclc/819189659> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/2475458#Place/west_united_states> .
+<http://www.worldcat.org/oclc/819189659> <http://schema.org/about> <http://id.loc.gov/authorities/subjects/sh2010106544> .
+<http://www.worldcat.org/oclc/819189659> <http://schema.org/url> <http://www.bioone.org/perlserv/?request=get-archive&issn=0024-9637> .
+<http://www.worldcat.org/oclc/819189659> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/2475458#Topic/plants_west_u_s> .
+<http://dewey.info/class/580/e14/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://www.worldcat.org/title/-/oclc/819189659#PublicationEvent/berkeley_ca_california_botanical_society_200> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PublicationEvent> .
+<http://www.worldcat.org/title/-/oclc/819189659#PublicationEvent/berkeley_ca_california_botanical_society_200> <http://schema.org/location> <http://experiment.worldcat.org/entity/work/data/2475458#Place/berkeley_ca> .
+<http://www.worldcat.org/title/-/oclc/819189659#PublicationEvent/berkeley_ca_california_botanical_society_200> <http://schema.org/organizer> <http://experiment.worldcat.org/entity/work/data/2475458#Agent/california_botanical_society> .
+<http://www.worldcat.org/title/-/oclc/819189659#PublicationEvent/berkeley_ca_california_botanical_society_200> <http://schema.org/startDate> "-" .
+<http://experiment.worldcat.org/entity/work/data/2475458#Place/west_united_states> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://experiment.worldcat.org/entity/work/data/2475458#Place/west_united_states> <http://schema.org/name> "West United States." .
+<http://experiment.worldcat.org/entity/work/data/2475458#Topic/plants_west_u_s> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/2475458#Topic/plants_west_u_s> <http://schema.org/hasPart> <http://id.loc.gov/authorities/subjects/sh85102839> .
+<http://experiment.worldcat.org/entity/work/data/2475458#Topic/plants_west_u_s> <http://schema.org/name> "Plants--West (U.S.)" .
+<http://viaf.org/viaf/131428872> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+<http://viaf.org/viaf/131428872> <http://schema.org/name> "California Botanical Society." .
+<http://experiment.worldcat.org/entity/work/data/2475458#Place/westen_verenigde_staten> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://experiment.worldcat.org/entity/work/data/2475458#Place/westen_verenigde_staten> <http://schema.org/name> "Westen (Verenigde Staten)" .
+<http://id.loc.gov/authorities/subjects/sh2010106544> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://id.loc.gov/authorities/subjects/sh2010106544> <http://schema.org/name> "Plants--California" .
+<http://worldcat.org/entity/work/data/2475458#CreativeWork/madrono> <http://schema.org/isSimilarTo> <http://www.worldcat.org/oclc/819189659> .
+<http://worldcat.org/entity/work/data/2475458#CreativeWork/madrono> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://worldcat.org/entity/work/data/2475458#CreativeWork/madrono> <http://www.w3.org/2000/01/rdf-schema#label> "Madroño" .
+<http://experiment.worldcat.org/entity/work/data/2475458#Topic/plants> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/2475458#Topic/plants> <http://schema.org/name> "Plants" .
+<http://www.worldcat.org/title/-/oclc/819189659> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#ContentTypeGenericResource> .
+<http://www.worldcat.org/title/-/oclc/819189659> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#InformationResource> .
+<http://www.worldcat.org/title/-/oclc/819189659> <http://schema.org/about> <http://www.worldcat.org/oclc/819189659> .
+<http://www.worldcat.org/title/-/oclc/819189659> <http://schema.org/dateModified> "2019-09-02" .
+<http://www.worldcat.org/title/-/oclc/819189659> <http://rdfs.org/ns/void#inDataset> <http://purl.oclc.org/dataset/WorldCat> .
+<http://worldcat.org/entity/work/id/2475458> <http://umbel.org/umbel#isLike> <http://worldcat.org/issn/0024-9637> .
+<http://experiment.worldcat.org/entity/work/data/2475458#Topic/plantkunde> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/2475458#Topic/plantkunde> <http://schema.org/name> "Plantkunde" .
+<http://worldcat.org/issn/0024-9637> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://worldcat.org/issn/0024-9637> <http://schema.org/name> "Madroño : a West-American journal of botany" .
+<http://worldcat.org/issn/0024-9637> <http://schema.org/issn> "0024-9637" .
+<http://worldcat.org/issn/0024-9637> <http://umbel.org/umbel#isLike> <http://worldcat.org/entity/work/id/2475458> .
+<http://experiment.worldcat.org/entity/work/data/2475458#Agent/california_botanical_society> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bibliograph.net/Agent> .
+<http://experiment.worldcat.org/entity/work/data/2475458#Agent/california_botanical_society> <http://schema.org/name> "California Botanical Society" .
+<http://experiment.worldcat.org/entity/work/data/2475458#Place/california> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://experiment.worldcat.org/entity/work/data/2475458#Place/california> <http://schema.org/name> "California." .

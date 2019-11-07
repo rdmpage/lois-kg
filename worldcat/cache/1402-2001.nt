@@ -1,0 +1,78 @@
+<http://id.worldcat.org/fast/1065637> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://id.worldcat.org/fast/1065637> <http://schema.org/name> "Plant populations"@en .
+<http://proxy.library.carleton.ca/login?url=http://resolver.scholarsportal.info/resolve/14022001> <http://www.w3.org/2000/01/rdf-schema#comment> "via ScholarsPortal" .
+<http://id.worldcat.org/fast/1065339> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://id.worldcat.org/fast/1065339> <http://schema.org/name> "Plant communities"@en .
+<http://viaf.org/viaf/128171244> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+<http://viaf.org/viaf/128171244> <http://schema.org/name> "BioOne (Organization)" .
+<http://www.bioone.org/loi/apve> <http://www.w3.org/2000/01/rdf-schema#comment> "BioOne: v.5 (2002)-v.11 (2008)" .
+<http://id.loc.gov/authorities/subjects/sh85102717> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://id.loc.gov/authorities/subjects/sh85102717> <http://schema.org/name> "Plant communities"@en .
+<http://worldcat.org/issn/1402-2001> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://worldcat.org/issn/1402-2001> <http://schema.org/name> "Applied vegetation science."@en .
+<http://worldcat.org/issn/1402-2001> <http://schema.org/issn> "1402-2001" .
+<http://worldcat.org/issn/1402-2001> <http://umbel.org/umbel#isLike> <http://worldcat.org/entity/work/id/7529411> .
+<http://www.worldcat.org/oclc/40155567> <http://schema.org/isSimilarTo> <http://www.worldcat.org/oclc/145401868> .
+<http://www.worldcat.org/oclc/40155567> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://www.worldcat.org/oclc/40155567> <http://www.w3.org/2000/01/rdf-schema#label> "Applied vegetation science" .
+<http://id.loc.gov/authorities/subjects/sh85102798> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://id.loc.gov/authorities/subjects/sh85102798> <http://schema.org/name> "Plant populations"@en .
+<http://www.worldcat.org/title/-/oclc/145401868#PublicationEvent/grangarde_sweden_opulus_press_2002> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PublicationEvent> .
+<http://www.worldcat.org/title/-/oclc/145401868#PublicationEvent/grangarde_sweden_opulus_press_2002> <http://schema.org/location> <http://experiment.worldcat.org/entity/work/data/7529411#Place/grangarde_sweden> .
+<http://www.worldcat.org/title/-/oclc/145401868#PublicationEvent/grangarde_sweden_opulus_press_2002> <http://schema.org/organizer> <http://experiment.worldcat.org/entity/work/data/7529411#Agent/opulus_press> .
+<http://www.worldcat.org/title/-/oclc/145401868#PublicationEvent/grangarde_sweden_opulus_press_2002> <http://schema.org/startDate> "2002-" .
+<http://experiment.worldcat.org/entity/work/data/7529411#Topic/plant_ecology> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/7529411#Topic/plant_ecology> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://id.loc.gov/authorities/subjects/sh2010106518> .
+<http://experiment.worldcat.org/entity/work/data/7529411#Topic/plant_ecology> <http://schema.org/name> "Plant ecology"@en .
+<http://www.bioone.org/bioone/?request=get-journals-list&issn=1402-2001> <http://www.w3.org/2000/01/rdf-schema#comment> "Available to Stanford-affiliated users at:" .
+<http://www.jstor.org/journals/14022001.html> <http://www.w3.org/2000/01/rdf-schema#comment> "JSTOR: v.1(1998)-v.6 (2003)" .
+<http://www.worldcat.org/oclc/45534631> <http://www.w3.org/2000/01/rdf-schema#label> "BioOne" .
+<http://www.worldcat.org/title/-/oclc/145401868> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#ContentTypeGenericResource> .
+<http://www.worldcat.org/title/-/oclc/145401868> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#InformationResource> .
+<http://www.worldcat.org/title/-/oclc/145401868> <http://schema.org/about> <http://www.worldcat.org/oclc/145401868> .
+<http://www.worldcat.org/title/-/oclc/145401868> <http://schema.org/dateModified> "2019-02-09" .
+<http://www.worldcat.org/title/-/oclc/145401868> <http://rdfs.org/ns/void#inDataset> <http://purl.oclc.org/dataset/WorldCat> .
+<http://worldcat.org/entity/work/id/7529411> <http://schema.org/name> "Applied vegetation science (Online)"@en .
+<http://worldcat.org/entity/work/id/7529411> <http://umbel.org/umbel#isLike> <http://worldcat.org/issn/1402-2001> .
+<http://experiment.worldcat.org/entity/work/data/7529411#Agent/opulus_press> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bibliograph.net/Agent> .
+<http://experiment.worldcat.org/entity/work/data/7529411#Agent/opulus_press> <http://schema.org/name> "Opulus Press" .
+<http://viaf.org/viaf/137860501> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+<http://viaf.org/viaf/137860501> <http://schema.org/name> "International Association for Vegetation Science." .
+<http://experiment.worldcat.org/entity/work/data/7529411#Place/grangarde_sweden> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://experiment.worldcat.org/entity/work/data/7529411#Place/grangarde_sweden> <http://schema.org/name> "Grangarde, Sweden" .
+<http://id.loc.gov/vocabulary/countries/sw> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://id.loc.gov/vocabulary/countries/sw> <http://purl.org/dc/terms/identifier> "sw" .
+<http://id.worldcat.org/fast/1065415> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://id.worldcat.org/fast/1065415> <http://schema.org/name> "Plant ecology"@en .
+<http://www.worldcat.org/oclc/145401868> <http://schema.org/url> <http://proxy.library.carleton.ca/login?url=http://resolver.scholarsportal.info/resolve/14022001> .
+<http://www.worldcat.org/oclc/145401868> <http://schema.org/publisher> <http://experiment.worldcat.org/entity/work/data/7529411#Agent/opulus_press> .
+<http://www.worldcat.org/oclc/145401868> <http://schema.org/about> <http://id.worldcat.org/fast/1065339> .
+<http://www.worldcat.org/oclc/145401868> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/MediaObject> .
+<http://www.worldcat.org/oclc/145401868> <http://schema.org/about> <http://id.worldcat.org/fast/1065637> .
+<http://www.worldcat.org/oclc/145401868> <http://schema.org/publication> <http://www.worldcat.org/title/-/oclc/145401868#PublicationEvent/grangarde_sweden_opulus_press_2002> .
+<http://www.worldcat.org/oclc/145401868> <http://schema.org/about> <http://id.loc.gov/authorities/subjects/sh85102798> .
+<http://www.worldcat.org/oclc/145401868> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://www.worldcat.org/oclc/145401868> <http://schema.org/genre> "Periodicals"@en .
+<http://www.worldcat.org/oclc/145401868> <http://schema.org/about> <http://id.loc.gov/authorities/subjects/sh85102717> .
+<http://www.worldcat.org/oclc/145401868> <http://purl.org/library/placeOfPublication> <http://experiment.worldcat.org/entity/work/data/7529411#Place/grangarde_sweden> .
+<http://www.worldcat.org/oclc/145401868> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/7529411#Topic/plant_ecology> .
+<http://www.worldcat.org/oclc/145401868> <http://schema.org/about> <http://id.worldcat.org/fast/1065415> .
+<http://www.worldcat.org/oclc/145401868> <http://schema.org/datePublished> "2002/9999" .
+<http://www.worldcat.org/oclc/145401868> <http://schema.org/exampleOfWork> <http://worldcat.org/entity/work/id/7529411> .
+<http://www.worldcat.org/oclc/145401868> <http://schema.org/url> <http://www.bioone.org/loi/apve> .
+<http://www.worldcat.org/oclc/145401868> <http://schema.org/url> <http://www.jstor.org/journals/14022001.html> .
+<http://www.worldcat.org/oclc/145401868> <http://schema.org/isPartOf> <http://www.worldcat.org/oclc/45534631> .
+<http://www.worldcat.org/oclc/145401868> <http://schema.org/inLanguage> "en" .
+<http://www.worldcat.org/oclc/145401868> <http://schema.org/datePublished> "2002/" .
+<http://www.worldcat.org/oclc/145401868> <http://schema.org/isSimilarTo> <http://www.worldcat.org/oclc/40155567> .
+<http://www.worldcat.org/oclc/145401868> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://www.worldcat.org/oclc/145401868> <http://schema.org/contributor> <http://viaf.org/viaf/128171244> .
+<http://www.worldcat.org/oclc/145401868> <http://schema.org/contributor> <http://viaf.org/viaf/137860501> .
+<http://www.worldcat.org/oclc/145401868> <http://purl.org/library/oclcnum> "145401868" .
+<http://www.worldcat.org/oclc/145401868> <http://www.w3.org/2007/05/powder-s#describedby> <http://www.worldcat.org/title/-/oclc/145401868> .
+<http://www.worldcat.org/oclc/145401868> <http://schema.org/genre> "Electronic Journal"@en .
+<http://www.worldcat.org/oclc/145401868> <http://schema.org/name> "Applied vegetation science."@en .
+<http://www.worldcat.org/oclc/145401868> <http://schema.org/productID> "145401868" .
+<http://www.worldcat.org/oclc/145401868> <http://schema.org/url> <http://www.bioone.org/bioone/?request=get-journals-list&issn=1402-2001> .
+<http://www.worldcat.org/oclc/145401868> <http://schema.org/workExample> <http://worldcat.org/issn/1402-2001> .
+<http://www.worldcat.org/oclc/145401868> <http://purl.org/library/placeOfPublication> <http://id.loc.gov/vocabulary/countries/sw> .

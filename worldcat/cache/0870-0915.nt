@@ -1,0 +1,42 @@
+<http://experiment.worldcat.org/entity/work/data/3861166332#Series/memorias_junta_de_investigacoes_do_ultramar> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bibliograph.net/PublicationSeries> .
+<http://experiment.worldcat.org/entity/work/data/3861166332#Series/memorias_junta_de_investigacoes_do_ultramar> <http://schema.org/hasPart> <http://www.worldcat.org/oclc/72921622> .
+<http://experiment.worldcat.org/entity/work/data/3861166332#Series/memorias_junta_de_investigacoes_do_ultramar> <http://schema.org/name> "Memórias Junta de Investigações do Ultramar." .
+<http://www.worldcat.org/title/-/oclc/72921622#PublicationEvent/lisboa_junta_de_investigacoes_do_ultramar_1955_1957> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PublicationEvent> .
+<http://www.worldcat.org/title/-/oclc/72921622#PublicationEvent/lisboa_junta_de_investigacoes_do_ultramar_1955_1957> <http://schema.org/location> <http://experiment.worldcat.org/entity/work/data/3861166332#Place/lisboa> .
+<http://www.worldcat.org/title/-/oclc/72921622#PublicationEvent/lisboa_junta_de_investigacoes_do_ultramar_1955_1957> <http://schema.org/organizer> <http://experiment.worldcat.org/entity/work/data/3861166332#Agent/junta_de_investigacoes_do_ultramar> .
+<http://www.worldcat.org/title/-/oclc/72921622#PublicationEvent/lisboa_junta_de_investigacoes_do_ultramar_1955_1957> <http://schema.org/startDate> "1955?-1957" .
+<http://worldcat.org/issn/0870-0915> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://worldcat.org/issn/0870-0915> <http://schema.org/name> "Memórias Série de botânica." .
+<http://worldcat.org/issn/0870-0915> <http://schema.org/issn> "0870-0915" .
+<http://worldcat.org/issn/0870-0915> <http://umbel.org/umbel#isLike> <http://worldcat.org/entity/work/id/3861166332> .
+<http://www.worldcat.org/oclc/72921622> <http://schema.org/contributor> <http://viaf.org/viaf/126471270> .
+<http://www.worldcat.org/oclc/72921622> <http://schema.org/isPartOf> <http://experiment.worldcat.org/entity/work/data/3861166332#Series/memorias_junta_de_investigacoes_do_ultramar> .
+<http://www.worldcat.org/oclc/72921622> <http://schema.org/inLanguage> "pt" .
+<http://www.worldcat.org/oclc/72921622> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://www.worldcat.org/oclc/72921622> <http://schema.org/name> "Memórias Série de botânica." .
+<http://www.worldcat.org/oclc/72921622> <http://purl.org/library/placeOfPublication> <http://experiment.worldcat.org/entity/work/data/3861166332#Place/lisboa> .
+<http://www.worldcat.org/oclc/72921622> <http://schema.org/workExample> <http://worldcat.org/issn/0870-0915> .
+<http://www.worldcat.org/oclc/72921622> <http://schema.org/productID> "72921622" .
+<http://www.worldcat.org/oclc/72921622> <http://schema.org/datePublished> "1955?/1957" .
+<http://www.worldcat.org/oclc/72921622> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://www.worldcat.org/oclc/72921622> <http://schema.org/datePublished> "1955/1957" .
+<http://www.worldcat.org/oclc/72921622> <http://schema.org/publication> <http://www.worldcat.org/title/-/oclc/72921622#PublicationEvent/lisboa_junta_de_investigacoes_do_ultramar_1955_1957> .
+<http://www.worldcat.org/oclc/72921622> <http://schema.org/exampleOfWork> <http://worldcat.org/entity/work/id/3861166332> .
+<http://www.worldcat.org/oclc/72921622> <http://purl.org/library/placeOfPublication> <http://id.loc.gov/vocabulary/countries/po> .
+<http://www.worldcat.org/oclc/72921622> <http://www.w3.org/2007/05/powder-s#describedby> <http://www.worldcat.org/title/-/oclc/72921622> .
+<http://www.worldcat.org/oclc/72921622> <http://schema.org/publisher> <http://experiment.worldcat.org/entity/work/data/3861166332#Agent/junta_de_investigacoes_do_ultramar> .
+<http://www.worldcat.org/oclc/72921622> <http://purl.org/library/oclcnum> "72921622" .
+<http://experiment.worldcat.org/entity/work/data/3861166332#Place/lisboa> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://experiment.worldcat.org/entity/work/data/3861166332#Place/lisboa> <http://schema.org/name> "Lisboa" .
+<http://id.loc.gov/vocabulary/countries/po> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://id.loc.gov/vocabulary/countries/po> <http://purl.org/dc/terms/identifier> "po" .
+<http://experiment.worldcat.org/entity/work/data/3861166332#Agent/junta_de_investigacoes_do_ultramar> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bibliograph.net/Agent> .
+<http://experiment.worldcat.org/entity/work/data/3861166332#Agent/junta_de_investigacoes_do_ultramar> <http://schema.org/name> "Junta de Investigações do Ultramar" .
+<http://viaf.org/viaf/126471270> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+<http://viaf.org/viaf/126471270> <http://schema.org/name> "Junta de Investigações do Ultramar." .
+<http://www.worldcat.org/title/-/oclc/72921622> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#ContentTypeGenericResource> .
+<http://www.worldcat.org/title/-/oclc/72921622> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#InformationResource> .
+<http://www.worldcat.org/title/-/oclc/72921622> <http://schema.org/about> <http://www.worldcat.org/oclc/72921622> .
+<http://www.worldcat.org/title/-/oclc/72921622> <http://schema.org/dateModified> "2018-11-10" .
+<http://www.worldcat.org/title/-/oclc/72921622> <http://rdfs.org/ns/void#inDataset> <http://purl.oclc.org/dataset/WorldCat> .
+<http://worldcat.org/entity/work/id/3861166332> <http://umbel.org/umbel#isLike> <http://worldcat.org/issn/0870-0915> .

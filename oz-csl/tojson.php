@@ -9,9 +9,13 @@ require_once('couchsimple.php');
 require_once(dirname(dirname(__FILE__)) . '/vendor/autoload.php');
 
 
+// A JSTOR reference
 $guid = 'http://localhost/~rpage/microcitation/www/citeproc-api.php?guid=http://www.jstor.org/stable/24529694';
 
-$url = '_design/csl/_list/triples/nt';	
+// DOI with ORCID
+$guid = 'https://doi.org/10.1080/0028825X.2017.1383276';
+
+$url = '_design/work/_list/triples/nt';	
 
 $url .= '?key=' . urlencode('"' . $guid . '"');	
 
@@ -45,8 +49,3 @@ echo "\n";
 
 
 ?>
-
-
-
-
-

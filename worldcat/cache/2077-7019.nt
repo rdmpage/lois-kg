@@ -1,0 +1,64 @@
+<http://id.loc.gov/vocabulary/countries/th> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://id.loc.gov/vocabulary/countries/th> <http://purl.org/dc/terms/identifier> "th" .
+<http://experiment.worldcat.org/entity/work/data/9021356350#Agent/mycosphere_press> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bibliograph.net/Agent> .
+<http://experiment.worldcat.org/entity/work/data/9021356350#Agent/mycosphere_press> <http://schema.org/name> "Mycosphere Press" .
+<http://id.loc.gov/authorities/subjects/sh85076770> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://id.loc.gov/authorities/subjects/sh85076770> <http://schema.org/name> "Lichens"@en .
+<http://id.worldcat.org/fast/998091> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://id.worldcat.org/fast/998091> <http://schema.org/name> "Lichens"@en .
+<http://experiment.worldcat.org/entity/work/data/9021356350#Place/chiang_rai_thailand> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://experiment.worldcat.org/entity/work/data/9021356350#Place/chiang_rai_thailand> <http://schema.org/name> "Chiang Rai, Thailand?" .
+<http://worldcat.org/entity/work/id/9021356350> <http://schema.org/name> "Mycosphere (Online)"@en .
+<http://worldcat.org/entity/work/id/9021356350> <http://umbel.org/umbel#isLike> <http://worldcat.org/issn/2077-7019> .
+<http://www.mycosphere.org/index.php> <http://www.w3.org/2000/01/rdf-schema#comment> "Connect to full text." .
+<http://www.worldcat.org/title/-/oclc/680269690> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#ContentTypeGenericResource> .
+<http://www.worldcat.org/title/-/oclc/680269690> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#InformationResource> .
+<http://www.worldcat.org/title/-/oclc/680269690> <http://schema.org/about> <http://www.worldcat.org/oclc/680269690> .
+<http://www.worldcat.org/title/-/oclc/680269690> <http://schema.org/dateModified> "2019-04-10" .
+<http://www.worldcat.org/title/-/oclc/680269690> <http://rdfs.org/ns/void#inDataset> <http://purl.oclc.org/dataset/WorldCat> .
+<http://id.worldcat.org/fast/1031307> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://id.worldcat.org/fast/1031307> <http://schema.org/name> "Mycology"@en .
+<http://worldcat.org/issn/2077-7019> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://worldcat.org/issn/2077-7019> <http://schema.org/name> "Mycosphere."@en .
+<http://worldcat.org/issn/2077-7019> <http://schema.org/issn> "2077-7019" .
+<http://worldcat.org/issn/2077-7019> <http://umbel.org/umbel#isLike> <http://worldcat.org/entity/work/id/9021356350> .
+<http://www.worldcat.org/oclc/680269690> <http://schema.org/exampleOfWork> <http://worldcat.org/entity/work/id/9021356350> .
+<http://www.worldcat.org/oclc/680269690> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/MediaObject> .
+<http://www.worldcat.org/oclc/680269690> <http://schema.org/isSimilarTo> <http://www.worldcat.org/oclc/652409945> .
+<http://www.worldcat.org/oclc/680269690> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://www.worldcat.org/oclc/680269690> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://www.worldcat.org/oclc/680269690> <http://schema.org/about> <http://id.worldcat.org/fast/936289> .
+<http://www.worldcat.org/oclc/680269690> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/9021356350#Topic/mycology> .
+<http://www.worldcat.org/oclc/680269690> <http://schema.org/productID> "680269690" .
+<http://www.worldcat.org/oclc/680269690> <http://purl.org/library/placeOfPublication> <http://id.loc.gov/vocabulary/countries/th> .
+<http://www.worldcat.org/oclc/680269690> <http://schema.org/datePublished> "2010/9999" .
+<http://www.worldcat.org/oclc/680269690> <http://schema.org/name> "Mycosphere."@en .
+<http://www.worldcat.org/oclc/680269690> <http://purl.org/library/placeOfPublication> <http://experiment.worldcat.org/entity/work/data/9021356350#Place/chiang_rai_thailand> .
+<http://www.worldcat.org/oclc/680269690> <http://purl.org/library/oclcnum> "680269690" .
+<http://www.worldcat.org/oclc/680269690> <http://schema.org/about> <http://id.worldcat.org/fast/998091> .
+<http://www.worldcat.org/oclc/680269690> <http://schema.org/about> <http://id.loc.gov/authorities/subjects/sh85076770> .
+<http://www.worldcat.org/oclc/680269690> <http://schema.org/alternateName> "Journal of fungal biology" .
+<http://www.worldcat.org/oclc/680269690> <http://schema.org/publication> <http://www.worldcat.org/title/-/oclc/680269690#PublicationEvent/chiang_rai_thailand_mycosphere_press> .
+<http://www.worldcat.org/oclc/680269690> <http://schema.org/about> <http://id.worldcat.org/fast/1031307> .
+<http://www.worldcat.org/oclc/680269690> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/9021356350#Topic/fungi> .
+<http://www.worldcat.org/oclc/680269690> <http://schema.org/genre> "Periodicals"@en .
+<http://www.worldcat.org/oclc/680269690> <http://www.w3.org/2007/05/powder-s#describedby> <http://www.worldcat.org/title/-/oclc/680269690> .
+<http://www.worldcat.org/oclc/680269690> <http://schema.org/inLanguage> "en" .
+<http://www.worldcat.org/oclc/680269690> <http://schema.org/url> <http://www.mycosphere.org/index.php> .
+<http://www.worldcat.org/oclc/680269690> <http://schema.org/publisher> <http://experiment.worldcat.org/entity/work/data/9021356350#Agent/mycosphere_press> .
+<http://www.worldcat.org/oclc/680269690> <http://schema.org/workExample> <http://worldcat.org/issn/2077-7019> .
+<http://www.worldcat.org/oclc/680269690> <http://schema.org/url> <http://www.mycosphere.org/> .
+<http://id.worldcat.org/fast/936289> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://id.worldcat.org/fast/936289> <http://schema.org/name> "Fungi"@en .
+<http://experiment.worldcat.org/entity/work/data/9021356350#Topic/fungi> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/9021356350#Topic/fungi> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://id.loc.gov/authorities/subjects/sh2009125636> .
+<http://experiment.worldcat.org/entity/work/data/9021356350#Topic/fungi> <http://schema.org/name> "Fungi"@en .
+<http://www.worldcat.org/oclc/652409945> <http://schema.org/isSimilarTo> <http://www.worldcat.org/oclc/680269690> .
+<http://www.worldcat.org/oclc/652409945> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://www.worldcat.org/oclc/652409945> <http://schema.org/description> "Print version:" .
+<http://www.worldcat.org/title/-/oclc/680269690#PublicationEvent/chiang_rai_thailand_mycosphere_press> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PublicationEvent> .
+<http://www.worldcat.org/title/-/oclc/680269690#PublicationEvent/chiang_rai_thailand_mycosphere_press> <http://schema.org/location> <http://experiment.worldcat.org/entity/work/data/9021356350#Place/chiang_rai_thailand> .
+<http://www.worldcat.org/title/-/oclc/680269690#PublicationEvent/chiang_rai_thailand_mycosphere_press> <http://schema.org/organizer> <http://experiment.worldcat.org/entity/work/data/9021356350#Agent/mycosphere_press> .
+<http://experiment.worldcat.org/entity/work/data/9021356350#Topic/mycology> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/9021356350#Topic/mycology> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://id.loc.gov/authorities/subjects/sh2010103003> .
+<http://experiment.worldcat.org/entity/work/data/9021356350#Topic/mycology> <http://schema.org/name> "Mycology"@en .

@@ -1,0 +1,47 @@
+<http://www.worldcat.org/oclc/145097116> <http://schema.org/isSimilarTo> <http://www.worldcat.org/oclc/1086295458> .
+<http://www.worldcat.org/oclc/145097116> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://www.worldcat.org/oclc/145097116> <http://www.w3.org/2000/01/rdf-schema#label> "Boletim. Nova série. Botânica" .
+<http://www.worldcat.org/oclc/145097116> <http://schema.org/description> "Print version: Museu Paraense Emílio Goeldi." .
+<http://www.worldcat.org/title/-/oclc/1086295458#PublicationEvent/belem_museu_paraense_emilio_goeldi> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PublicationEvent> .
+<http://www.worldcat.org/title/-/oclc/1086295458#PublicationEvent/belem_museu_paraense_emilio_goeldi> <http://schema.org/location> <http://experiment.worldcat.org/entity/work/data/8931615993#Place/belem> .
+<http://www.worldcat.org/title/-/oclc/1086295458#PublicationEvent/belem_museu_paraense_emilio_goeldi> <http://schema.org/organizer> <http://experiment.worldcat.org/entity/work/data/8931615993#Agent/museu_paraense_emilio_goeldi> .
+<http://experiment.worldcat.org/entity/work/data/8931615993#Topic/botany_brazil> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/8931615993#Topic/botany_brazil> <http://schema.org/name> "Botany--Brazil" .
+<http://experiment.worldcat.org/entity/work/data/8931615993#Topic/botany> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/8931615993#Topic/botany> <http://schema.org/name> "Botany" .
+<http://experiment.worldcat.org/entity/work/data/8931615993#Agent/museu_paraense_emilio_goeldi> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bibliograph.net/Agent> .
+<http://experiment.worldcat.org/entity/work/data/8931615993#Agent/museu_paraense_emilio_goeldi> <http://schema.org/name> "Museu Paraense Emílio Goeldi." .
+<http://experiment.worldcat.org/entity/work/data/8931615993#Organization/museu_paraense_emilio_goeldi> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+<http://experiment.worldcat.org/entity/work/data/8931615993#Organization/museu_paraense_emilio_goeldi> <http://schema.org/name> "Museu Paraense Emílio Goeldi." .
+<http://id.loc.gov/vocabulary/countries/bl> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://id.loc.gov/vocabulary/countries/bl> <http://purl.org/dc/terms/identifier> "bl" .
+<http://experiment.worldcat.org/entity/work/data/8931615993#Place/brazil> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://experiment.worldcat.org/entity/work/data/8931615993#Place/brazil> <http://schema.org/name> "Brazil." .
+<http://www.worldcat.org/oclc/1086295458> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/8931615993#Topic/botany_brazil> .
+<http://www.worldcat.org/oclc/1086295458> <http://schema.org/publication> <http://www.worldcat.org/title/-/oclc/1086295458#PublicationEvent/belem_museu_paraense_emilio_goeldi> .
+<http://www.worldcat.org/oclc/1086295458> <http://schema.org/datePublished> "1958/19uu" .
+<http://www.worldcat.org/oclc/1086295458> <http://schema.org/publisher> <http://experiment.worldcat.org/entity/work/data/8931615993#Agent/museu_paraense_emilio_goeldi> .
+<http://www.worldcat.org/oclc/1086295458> <http://schema.org/name> "Boletim. Nova série. Botânica" .
+<http://www.worldcat.org/oclc/1086295458> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/MediaObject> .
+<http://www.worldcat.org/oclc/1086295458> <http://schema.org/exampleOfWork> <http://worldcat.org/entity/work/id/8931615993> .
+<http://www.worldcat.org/oclc/1086295458> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://www.worldcat.org/oclc/1086295458> <http://schema.org/inLanguage> "pt" .
+<http://www.worldcat.org/oclc/1086295458> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://www.worldcat.org/oclc/1086295458> <http://purl.org/library/placeOfPublication> <http://experiment.worldcat.org/entity/work/data/8931615993#Place/belem> .
+<http://www.worldcat.org/oclc/1086295458> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/8931615993#Place/brazil> .
+<http://www.worldcat.org/oclc/1086295458> <http://schema.org/isSimilarTo> <http://www.worldcat.org/oclc/145097116> .
+<http://www.worldcat.org/oclc/1086295458> <http://schema.org/creator> <http://experiment.worldcat.org/entity/work/data/8931615993#Organization/museu_paraense_emilio_goeldi> .
+<http://www.worldcat.org/oclc/1086295458> <http://schema.org/productID> "1086295458" .
+<http://www.worldcat.org/oclc/1086295458> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/8931615993#Topic/botany> .
+<http://www.worldcat.org/oclc/1086295458> <http://schema.org/url> <http://books.google.com/books?id=Rftf2UKqsNIC> .
+<http://www.worldcat.org/oclc/1086295458> <http://purl.org/library/placeOfPublication> <http://id.loc.gov/vocabulary/countries/bl> .
+<http://www.worldcat.org/oclc/1086295458> <http://www.w3.org/2007/05/powder-s#describedby> <http://www.worldcat.org/title/-/oclc/1086295458> .
+<http://www.worldcat.org/oclc/1086295458> <http://purl.org/library/oclcnum> "1086295458" .
+<http://www.worldcat.org/oclc/1086295458> <http://schema.org/url> <http://catalog.hathitrust.org/api/volumes/oclc/145097116.html> .
+<http://www.worldcat.org/title/-/oclc/1086295458> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#ContentTypeGenericResource> .
+<http://www.worldcat.org/title/-/oclc/1086295458> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#InformationResource> .
+<http://www.worldcat.org/title/-/oclc/1086295458> <http://schema.org/about> <http://www.worldcat.org/oclc/1086295458> .
+<http://www.worldcat.org/title/-/oclc/1086295458> <http://schema.org/dateModified> "2019-10-22" .
+<http://www.worldcat.org/title/-/oclc/1086295458> <http://rdfs.org/ns/void#inDataset> <http://purl.oclc.org/dataset/WorldCat> .
+<http://experiment.worldcat.org/entity/work/data/8931615993#Place/belem> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://experiment.worldcat.org/entity/work/data/8931615993#Place/belem> <http://schema.org/name> "Belém" .

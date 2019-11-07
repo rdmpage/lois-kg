@@ -1,0 +1,79 @@
+<http://www.worldcat.org/oclc/299333537> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/2494661523#Thing/parasite> .
+<http://www.worldcat.org/oclc/299333537> <http://schema.org/inLanguage> "en" .
+<http://www.worldcat.org/oclc/299333537> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/MediaObject> .
+<http://www.worldcat.org/oclc/299333537> <http://schema.org/genre> "Périodiques"@fr .
+<http://www.worldcat.org/oclc/299333537> <http://schema.org/productID> "299333537" .
+<http://www.worldcat.org/oclc/299333537> <http://purl.org/library/placeOfPublication> <http://experiment.worldcat.org/entity/work/data/2494661523#Place/kluwer_academic_european_foundation_of_plant_pathology> .
+<http://www.worldcat.org/oclc/299333537> <http://schema.org/publication> <http://www.worldcat.org/title/-/oclc/299333537#PublicationEvent/s_l_s_n_dordrecht_netherlands_kluwer_academic_european_foundation_of_plant_pathology_1997> .
+<http://www.worldcat.org/oclc/299333537> <http://schema.org/workExample> <http://worldcat.org/issn/0929-1873> .
+<http://www.worldcat.org/oclc/299333537> <http://purl.org/library/placeOfPublication> <http://experiment.worldcat.org/entity/work/data/2494661523#Place/s_l> .
+<http://www.worldcat.org/oclc/299333537> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/2494661523#Thing/pathologie> .
+<http://www.worldcat.org/oclc/299333537> <http://schema.org/genre> "Ressources internet"@fr .
+<http://www.worldcat.org/oclc/299333537> <http://schema.org/datePublished> "1997/" .
+<http://www.worldcat.org/oclc/299333537> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/2494661523#Thing/kluwer> .
+<http://www.worldcat.org/oclc/299333537> <http://schema.org/url> <http://www.kluweronline.com/issn/0929-1873/contents> .
+<http://www.worldcat.org/oclc/299333537> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/2494661523#Thing/plante> .
+<http://www.worldcat.org/oclc/299333537> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://www.worldcat.org/oclc/299333537> <http://schema.org/name> "European journal of plant pathology (Online)." .
+<http://www.worldcat.org/oclc/299333537> <http://purl.org/library/placeOfPublication> <http://id.loc.gov/vocabulary/countries/ne> .
+<http://www.worldcat.org/oclc/299333537> <http://schema.org/publisher> <http://experiment.worldcat.org/entity/work/data/2494661523#Agent/s_n> .
+<http://www.worldcat.org/oclc/299333537> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/2494661523#Thing/maladie> .
+<http://www.worldcat.org/oclc/299333537> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/2494661523#Thing/pathologique> .
+<http://www.worldcat.org/oclc/299333537> <http://schema.org/contributor> <http://viaf.org/viaf/137477272> .
+<http://www.worldcat.org/oclc/299333537> <http://purl.org/library/oclcnum> "299333537" .
+<http://www.worldcat.org/oclc/299333537> <http://schema.org/alternateName> "European journal of plant pathology [ressource électronique]" .
+<http://www.worldcat.org/oclc/299333537> <http://schema.org/publisher> <http://experiment.worldcat.org/entity/work/data/2494661523#Agent/dordrecht_netherlands> .
+<http://www.worldcat.org/oclc/299333537> <http://www.w3.org/2007/05/powder-s#describedby> <http://www.worldcat.org/title/-/oclc/299333537> .
+<http://www.worldcat.org/oclc/299333537> <http://schema.org/exampleOfWork> <http://worldcat.org/entity/work/id/2494661523> .
+<http://www.worldcat.org/oclc/299333537> <http://schema.org/contributor> <http://experiment.worldcat.org/entity/work/data/2494661523#Organization/european_foundation_of_plant_pathology> .
+<http://www.worldcat.org/oclc/299333537> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://www.worldcat.org/oclc/299333537> <http://schema.org/datePublished> "1997/9999" .
+<http://www.worldcat.org/oclc/299333537> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/2494661523#Thing/protection> .
+<http://www.worldcat.org/oclc/299333537> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/2494661523#Thing/europe> .
+<http://experiment.worldcat.org/entity/work/data/2494661523#Thing/pathologique> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> .
+<http://experiment.worldcat.org/entity/work/data/2494661523#Thing/pathologique> <http://schema.org/name> "Pathologique" .
+<http://worldcat.org/entity/work/id/2494661523> <http://schema.org/name> "European journal of plant pathology (En ligne)" .
+<http://worldcat.org/entity/work/id/2494661523> <http://umbel.org/umbel#isLike> <http://worldcat.org/issn/0929-1873> .
+<http://experiment.worldcat.org/entity/work/data/2494661523#Thing/plante> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> .
+<http://experiment.worldcat.org/entity/work/data/2494661523#Thing/plante> <http://schema.org/name> "Plante" .
+<http://experiment.worldcat.org/entity/work/data/2494661523#Thing/parasite> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> .
+<http://experiment.worldcat.org/entity/work/data/2494661523#Thing/parasite> <http://schema.org/name> "Parasite" .
+<http://www.worldcat.org/title/-/oclc/299333537#PublicationEvent/s_l_s_n_dordrecht_netherlands_kluwer_academic_european_foundation_of_plant_pathology_1997> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PublicationEvent> .
+<http://www.worldcat.org/title/-/oclc/299333537#PublicationEvent/s_l_s_n_dordrecht_netherlands_kluwer_academic_european_foundation_of_plant_pathology_1997> <http://schema.org/location> <http://experiment.worldcat.org/entity/work/data/2494661523#Place/s_l> .
+<http://www.worldcat.org/title/-/oclc/299333537#PublicationEvent/s_l_s_n_dordrecht_netherlands_kluwer_academic_european_foundation_of_plant_pathology_1997> <http://schema.org/location> <http://experiment.worldcat.org/entity/work/data/2494661523#Place/kluwer_academic_european_foundation_of_plant_pathology> .
+<http://www.worldcat.org/title/-/oclc/299333537#PublicationEvent/s_l_s_n_dordrecht_netherlands_kluwer_academic_european_foundation_of_plant_pathology_1997> <http://schema.org/organizer> <http://experiment.worldcat.org/entity/work/data/2494661523#Agent/s_n> .
+<http://www.worldcat.org/title/-/oclc/299333537#PublicationEvent/s_l_s_n_dordrecht_netherlands_kluwer_academic_european_foundation_of_plant_pathology_1997> <http://schema.org/organizer> <http://experiment.worldcat.org/entity/work/data/2494661523#Agent/dordrecht_netherlands> .
+<http://www.worldcat.org/title/-/oclc/299333537#PublicationEvent/s_l_s_n_dordrecht_netherlands_kluwer_academic_european_foundation_of_plant_pathology_1997> <http://schema.org/startDate> "1997-" .
+<http://id.loc.gov/vocabulary/countries/ne> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://id.loc.gov/vocabulary/countries/ne> <http://purl.org/dc/terms/identifier> "ne" .
+<http://experiment.worldcat.org/entity/work/data/2494661523#Organization/european_foundation_of_plant_pathology> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+<http://experiment.worldcat.org/entity/work/data/2494661523#Organization/european_foundation_of_plant_pathology> <http://schema.org/name> "European Foundation of Plant Pathology." .
+<http://experiment.worldcat.org/entity/work/data/2494661523#Thing/kluwer> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> .
+<http://experiment.worldcat.org/entity/work/data/2494661523#Thing/kluwer> <http://schema.org/name> "Kluwer" .
+<http://experiment.worldcat.org/entity/work/data/2494661523#Place/s_l> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://experiment.worldcat.org/entity/work/data/2494661523#Place/s_l> <http://schema.org/name> "S.l." .
+<http://experiment.worldcat.org/entity/work/data/2494661523#Thing/pathologie> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> .
+<http://experiment.worldcat.org/entity/work/data/2494661523#Thing/pathologie> <http://schema.org/name> "Pathologie" .
+<http://experiment.worldcat.org/entity/work/data/2494661523#Agent/dordrecht_netherlands> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bibliograph.net/Agent> .
+<http://experiment.worldcat.org/entity/work/data/2494661523#Agent/dordrecht_netherlands> <http://schema.org/name> "Dordrecht, Netherlands" .
+<http://experiment.worldcat.org/entity/work/data/2494661523#Thing/protection> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> .
+<http://experiment.worldcat.org/entity/work/data/2494661523#Thing/protection> <http://schema.org/name> "Protection" .
+<http://viaf.org/viaf/137477272> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+<http://viaf.org/viaf/137477272> <http://schema.org/name> "Kluwer Online." .
+<http://experiment.worldcat.org/entity/work/data/2494661523#Thing/maladie> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> .
+<http://experiment.worldcat.org/entity/work/data/2494661523#Thing/maladie> <http://schema.org/name> "Maladie" .
+<http://experiment.worldcat.org/entity/work/data/2494661523#Agent/s_n> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bibliograph.net/Agent> .
+<http://experiment.worldcat.org/entity/work/data/2494661523#Agent/s_n> <http://schema.org/name> "[s.n.]" .
+<http://experiment.worldcat.org/entity/work/data/2494661523#Place/kluwer_academic_european_foundation_of_plant_pathology> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://experiment.worldcat.org/entity/work/data/2494661523#Place/kluwer_academic_european_foundation_of_plant_pathology> <http://schema.org/name> "Kluwer Academic, European Foundation of plant Pathology." .
+<http://www.worldcat.org/title/-/oclc/299333537> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#ContentTypeGenericResource> .
+<http://www.worldcat.org/title/-/oclc/299333537> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#InformationResource> .
+<http://www.worldcat.org/title/-/oclc/299333537> <http://schema.org/about> <http://www.worldcat.org/oclc/299333537> .
+<http://www.worldcat.org/title/-/oclc/299333537> <http://schema.org/dateModified> "2019-02-09" .
+<http://www.worldcat.org/title/-/oclc/299333537> <http://rdfs.org/ns/void#inDataset> <http://purl.oclc.org/dataset/WorldCat> .
+<http://experiment.worldcat.org/entity/work/data/2494661523#Thing/europe> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> .
+<http://experiment.worldcat.org/entity/work/data/2494661523#Thing/europe> <http://schema.org/name> "Europe" .
+<http://worldcat.org/issn/0929-1873> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://worldcat.org/issn/0929-1873> <http://schema.org/name> "European journal of plant pathology (Online)." .
+<http://worldcat.org/issn/0929-1873> <http://schema.org/issn> "0929-1873" .
+<http://worldcat.org/issn/0929-1873> <http://umbel.org/umbel#isLike> <http://worldcat.org/entity/work/id/2494661523> .

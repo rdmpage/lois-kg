@@ -1,0 +1,52 @@
+<http://search.proquest.com/publication/1126338> <http://www.w3.org/2000/01/rdf-schema#comment> "Accés restringit als usuaris de la UAB" .
+<http://experiment.worldcat.org/entity/work/data/2566473#Organization/washington_academy_of_sciences> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+<http://experiment.worldcat.org/entity/work/data/2566473#Organization/washington_academy_of_sciences> <http://schema.org/name> "Washington Academy of Sciences." .
+<http://experiment.worldcat.org/entity/work/data/2566473#CreativeWork/health_&_medical_collection> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://experiment.worldcat.org/entity/work/data/2566473#CreativeWork/health_&_medical_collection> <http://schema.org/name> "Health & Medical Collection." .
+<http://www.worldcat.org/title/-/oclc/1120656058> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#ContentTypeGenericResource> .
+<http://www.worldcat.org/title/-/oclc/1120656058> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#InformationResource> .
+<http://www.worldcat.org/title/-/oclc/1120656058> <http://schema.org/about> <http://www.worldcat.org/oclc/1120656058> .
+<http://www.worldcat.org/title/-/oclc/1120656058> <http://schema.org/dateModified> "2019-10-22" .
+<http://www.worldcat.org/title/-/oclc/1120656058> <http://rdfs.org/ns/void#inDataset> <http://purl.oclc.org/dataset/WorldCat> .
+<https://search.proquest.com/publication/1126338> <http://www.w3.org/2000/01/rdf-schema#comment> "Accés restringit als usuaris de la UB, UAB, UPC, UPF, UdG, UdL, URV, UOC, BC, UVic-UCC, UIC" .
+<http://experiment.worldcat.org/entity/work/data/2566473#CreativeWork/proceedings_of_the_washington_academy_of_sciences> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://experiment.worldcat.org/entity/work/data/2566473#CreativeWork/proceedings_of_the_washington_academy_of_sciences> <http://schema.org/name> "Proceedings of the Washington Academy of Sciences." .
+<http://experiment.worldcat.org/entity/work/data/2566473#CreativeWork/proquest_earth_science_journals> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://experiment.worldcat.org/entity/work/data/2566473#CreativeWork/proquest_earth_science_journals> <http://schema.org/name> "ProQuest Earth Science Journals." .
+<http://experiment.worldcat.org/entity/work/data/2566473#Agent/the_academy> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bibliograph.net/Agent> .
+<http://experiment.worldcat.org/entity/work/data/2566473#Agent/the_academy> <http://schema.org/name> "the Academy" .
+<http://experiment.worldcat.org/entity/work/data/2566473#Topic/ciencia_revistes> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/2566473#Topic/ciencia_revistes> <http://schema.org/name> "Ciència--Revistes" .
+<http://www.worldcat.org/oclc/1120656058> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://experiment.worldcat.org/entity/work/data/2566473#CreativeWork/proceedings_of_the_washington_academy_of_sciences> .
+<http://www.worldcat.org/oclc/1120656058> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://experiment.worldcat.org/entity/work/data/2566473#CreativeWork/health_&_medical_collection> .
+<http://www.worldcat.org/oclc/1120656058> <http://schema.org/contributor> <http://experiment.worldcat.org/entity/work/data/2566473#Organization/washington_academy_of_sciences> .
+<http://www.worldcat.org/oclc/1120656058> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://www.worldcat.org/oclc/1120656058> <http://schema.org/datePublished> "2011/" .
+<http://www.worldcat.org/oclc/1120656058> <http://schema.org/datePublished> "1911/9999" .
+<http://www.worldcat.org/oclc/1120656058> <http://schema.org/url> <http://www.uic.es/progs/proxy/ezproxy.uic?q1=aHR0cDovL2F0b3ouZWJzY28uY29tL1RpdGxlcy8xMDM3MQ%3D%3D&q2=aHR0cDovL2F0b3ouZWJzY28uY29tLmJpYmxpb3RlY2FkaWdpdGFsLnVpYy5lczo5MDAwL1RpdGxlcy8xMDM3MQ%3D%3D> .
+<http://www.worldcat.org/oclc/1120656058> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://experiment.worldcat.org/entity/work/data/2566473#CreativeWork/proquest_earth_science_journals> .
+<http://www.worldcat.org/oclc/1120656058> <http://schema.org/name> "Journal of the Washington Academy of Sciences" .
+<http://www.worldcat.org/oclc/1120656058> <http://schema.org/publication> <http://www.worldcat.org/title/-/oclc/1120656058#PublicationEvent/washington_the_academy_2011> .
+<http://www.worldcat.org/oclc/1120656058> <http://schema.org/inLanguage> "en" .
+<http://www.worldcat.org/oclc/1120656058> <http://schema.org/exampleOfWork> <http://worldcat.org/entity/work/id/2566473> .
+<http://www.worldcat.org/oclc/1120656058> <http://schema.org/genre> "Revistes electròniques" .
+<http://www.worldcat.org/oclc/1120656058> <http://www.w3.org/2007/05/powder-s#describedby> <http://www.worldcat.org/title/-/oclc/1120656058> .
+<http://www.worldcat.org/oclc/1120656058> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/2566473#Topic/ciencia_revistes> .
+<http://www.worldcat.org/oclc/1120656058> <http://schema.org/url> <http://search.proquest.com/publication/1126338> .
+<http://www.worldcat.org/oclc/1120656058> <http://purl.org/library/placeOfPublication> <http://id.loc.gov/vocabulary/countries/dcu> .
+<http://www.worldcat.org/oclc/1120656058> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/MediaObject> .
+<http://www.worldcat.org/oclc/1120656058> <http://schema.org/url> <https://search.proquest.com/publication/1126338> .
+<http://www.worldcat.org/oclc/1120656058> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://www.worldcat.org/oclc/1120656058> <http://purl.org/library/oclcnum> "1120656058" .
+<http://www.worldcat.org/oclc/1120656058> <http://purl.org/library/placeOfPublication> <http://experiment.worldcat.org/entity/work/data/2566473#Place/washington> .
+<http://www.worldcat.org/oclc/1120656058> <http://schema.org/publisher> <http://experiment.worldcat.org/entity/work/data/2566473#Agent/the_academy> .
+<http://www.worldcat.org/oclc/1120656058> <http://schema.org/productID> "1120656058" .
+<http://www.uic.es/progs/proxy/ezproxy.uic?q1=aHR0cDovL2F0b3ouZWJzY28uY29tL1RpdGxlcy8xMDM3MQ%3D%3D&q2=aHR0cDovL2F0b3ouZWJzY28uY29tLmJpYmxpb3RlY2FkaWdpdGFsLnVpYy5lczo5MDAwL1RpdGxlcy8xMDM3MQ%3D%3D> <http://www.w3.org/2000/01/rdf-schema#comment> "Accés restringit als usuaris de la UIC" .
+<http://id.loc.gov/vocabulary/countries/dcu> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://id.loc.gov/vocabulary/countries/dcu> <http://purl.org/dc/terms/identifier> "dcu" .
+<http://experiment.worldcat.org/entity/work/data/2566473#Place/washington> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://experiment.worldcat.org/entity/work/data/2566473#Place/washington> <http://schema.org/name> "Washington" .
+<http://www.worldcat.org/title/-/oclc/1120656058#PublicationEvent/washington_the_academy_2011> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PublicationEvent> .
+<http://www.worldcat.org/title/-/oclc/1120656058#PublicationEvent/washington_the_academy_2011> <http://schema.org/location> <http://experiment.worldcat.org/entity/work/data/2566473#Place/washington> .
+<http://www.worldcat.org/title/-/oclc/1120656058#PublicationEvent/washington_the_academy_2011> <http://schema.org/organizer> <http://experiment.worldcat.org/entity/work/data/2566473#Agent/the_academy> .
+<http://www.worldcat.org/title/-/oclc/1120656058#PublicationEvent/washington_the_academy_2011> <http://schema.org/startDate> "2011-" .

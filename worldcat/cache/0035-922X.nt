@@ -1,0 +1,29 @@
+<http://www.worldcat.org/title/-/oclc/932470291> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#ContentTypeGenericResource> .
+<http://www.worldcat.org/title/-/oclc/932470291> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#InformationResource> .
+<http://www.worldcat.org/title/-/oclc/932470291> <http://schema.org/about> <http://www.worldcat.org/oclc/932470291> .
+<http://www.worldcat.org/title/-/oclc/932470291> <http://schema.org/dateModified> "2019-06-06" .
+<http://www.worldcat.org/title/-/oclc/932470291> <http://rdfs.org/ns/void#inDataset> <http://purl.oclc.org/dataset/WorldCat> .
+<http://experiment.worldcat.org/entity/work/data/3863472005#Topic/natural_history> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/3863472005#Topic/natural_history> <http://schema.org/name> "Natural history"@en .
+<http://www.worldcat.org/oclc/932470291> <http://www.w3.org/2007/05/powder-s#describedby> <http://www.worldcat.org/title/-/oclc/932470291> .
+<http://www.worldcat.org/oclc/932470291> <http://schema.org/alternateName> "Journal of the Royal Society of Western Australia" .
+<http://www.worldcat.org/oclc/932470291> <http://purl.org/library/placeOfPublication> <http://id.loc.gov/vocabulary/countries/au> .
+<http://www.worldcat.org/oclc/932470291> <http://schema.org/alternateName> "W A science" .
+<http://www.worldcat.org/oclc/932470291> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://www.worldcat.org/oclc/932470291> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/3863472005#Topic/natural_history> .
+<http://www.worldcat.org/oclc/932470291> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://www.worldcat.org/oclc/932470291> <http://schema.org/inLanguage> "en" .
+<http://www.worldcat.org/oclc/932470291> <http://schema.org/contributor> <http://experiment.worldcat.org/entity/work/data/3863472005#Organization/royal_society_of_western_australia> .
+<http://www.worldcat.org/oclc/932470291> <http://schema.org/exampleOfWork> <http://worldcat.org/entity/work/id/3863472005> .
+<http://www.worldcat.org/oclc/932470291> <http://schema.org/genre> "Periodicals"@en .
+<http://www.worldcat.org/oclc/932470291> <http://schema.org/datePublished> "2014/2015" .
+<http://www.worldcat.org/oclc/932470291> <http://purl.org/library/oclcnum> "932470291" .
+<http://www.worldcat.org/oclc/932470291> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/3863472005#Topic/science> .
+<http://www.worldcat.org/oclc/932470291> <http://schema.org/name> "WA science : the journal of the Royal Society of Western Australia."@en .
+<http://www.worldcat.org/oclc/932470291> <http://schema.org/productID> "932470291" .
+<http://experiment.worldcat.org/entity/work/data/3863472005#Topic/science> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/3863472005#Topic/science> <http://schema.org/name> "Science"@en .
+<http://id.loc.gov/vocabulary/countries/au> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://id.loc.gov/vocabulary/countries/au> <http://purl.org/dc/terms/identifier> "au" .
+<http://experiment.worldcat.org/entity/work/data/3863472005#Organization/royal_society_of_western_australia> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+<http://experiment.worldcat.org/entity/work/data/3863472005#Organization/royal_society_of_western_australia> <http://schema.org/name> "Royal Society of Western Australia," .

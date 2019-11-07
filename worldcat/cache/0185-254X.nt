@@ -1,0 +1,45 @@
+<http://www.worldcat.org/oclc/436469211> <http://purl.org/library/placeOfPublication> <http://experiment.worldcat.org/entity/work/data/3856177641#Place/mexico> .
+<http://www.worldcat.org/oclc/436469211> <http://www.w3.org/2007/05/powder-s#describedby> <http://www.worldcat.org/title/-/oclc/436469211> .
+<http://www.worldcat.org/oclc/436469211> <http://schema.org/datePublished> "1967/9999" .
+<http://www.worldcat.org/oclc/436469211> <http://schema.org/alternateName> "Serie Botánica" .
+<http://www.worldcat.org/oclc/436469211> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/3856177641#Topic/botanica_publicaciones_periodicas> .
+<http://www.worldcat.org/oclc/436469211> <http://schema.org/genre> "Government publication"@en .
+<http://www.worldcat.org/oclc/436469211> <http://purl.org/library/oclcnum> "436469211" .
+<http://www.worldcat.org/oclc/436469211> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://www.worldcat.org/oclc/436469211> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://www.worldcat.org/oclc/436469211> <http://schema.org/exampleOfWork> <http://worldcat.org/entity/work/id/3856177641> .
+<http://www.worldcat.org/oclc/436469211> <http://schema.org/productID> "436469211" .
+<http://www.worldcat.org/oclc/436469211> <http://schema.org/publisher> <http://experiment.worldcat.org/entity/work/data/3856177641#Agent/instituto_de_biologia_universidad_nacional_autonoma_de_mexico> .
+<http://www.worldcat.org/oclc/436469211> <http://schema.org/workExample> <http://worldcat.org/issn/0185-254X> .
+<http://www.worldcat.org/oclc/436469211> <http://schema.org/publication> <http://www.worldcat.org/title/-/oclc/436469211#PublicationEvent/mexicoinstituto_de_biologia_universidad_nacional_autonoma_de_mexico> .
+<http://www.worldcat.org/oclc/436469211> <http://purl.org/library/placeOfPublication> <http://id.loc.gov/vocabulary/countries/mx> .
+<http://www.worldcat.org/oclc/436469211> <http://schema.org/contributor> <http://viaf.org/viaf/167895256> .
+<http://www.worldcat.org/oclc/436469211> <http://schema.org/name> "Anales del Instituto de Biología Serie Botánica" .
+<http://www.worldcat.org/oclc/436469211> <http://schema.org/inLanguage> "en" .
+<http://www.worldcat.org/oclc/436469211> <http://www.w3.org/2000/01/rdf-schema#comment> "Unknown 'gen' value: arc" .
+<http://www.worldcat.org/oclc/436469211> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/3856177641#Topic/flora_mexico> .
+<http://www.worldcat.org/title/-/oclc/436469211#PublicationEvent/mexicoinstituto_de_biologia_universidad_nacional_autonoma_de_mexico> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PublicationEvent> .
+<http://www.worldcat.org/title/-/oclc/436469211#PublicationEvent/mexicoinstituto_de_biologia_universidad_nacional_autonoma_de_mexico> <http://schema.org/location> <http://experiment.worldcat.org/entity/work/data/3856177641#Place/mexico> .
+<http://www.worldcat.org/title/-/oclc/436469211#PublicationEvent/mexicoinstituto_de_biologia_universidad_nacional_autonoma_de_mexico> <http://schema.org/organizer> <http://experiment.worldcat.org/entity/work/data/3856177641#Agent/instituto_de_biologia_universidad_nacional_autonoma_de_mexico> .
+<http://worldcat.org/issn/0185-254X> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://worldcat.org/issn/0185-254X> <http://schema.org/name> "Anales del Instituto de Biología Serie Botánica" .
+<http://worldcat.org/issn/0185-254X> <http://schema.org/issn> "0185-254X" .
+<http://worldcat.org/issn/0185-254X> <http://umbel.org/umbel#isLike> <http://worldcat.org/entity/work/id/3856177641> .
+<http://experiment.worldcat.org/entity/work/data/3856177641#Agent/instituto_de_biologia_universidad_nacional_autonoma_de_mexico> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bibliograph.net/Agent> .
+<http://experiment.worldcat.org/entity/work/data/3856177641#Agent/instituto_de_biologia_universidad_nacional_autonoma_de_mexico> <http://schema.org/name> "Instituto de Biología, Universidad Nacional Autónoma de México." .
+<http://experiment.worldcat.org/entity/work/data/3856177641#Topic/flora_mexico> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/3856177641#Topic/flora_mexico> <http://schema.org/name> "Flora--México" .
+<http://experiment.worldcat.org/entity/work/data/3856177641#Place/mexico> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://experiment.worldcat.org/entity/work/data/3856177641#Place/mexico> <http://schema.org/name> "México" .
+<http://experiment.worldcat.org/entity/work/data/3856177641#Topic/botanica_publicaciones_periodicas> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/3856177641#Topic/botanica_publicaciones_periodicas> <http://schema.org/name> "Botánica--Publicaciones periódicas" .
+<http://viaf.org/viaf/167895256> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+<http://viaf.org/viaf/167895256> <http://schema.org/name> "Universidad Nacional Autónoma de México. Instituto de Biología." .
+<http://id.loc.gov/vocabulary/countries/mx> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://id.loc.gov/vocabulary/countries/mx> <http://purl.org/dc/terms/identifier> "mx" .
+<http://www.worldcat.org/title/-/oclc/436469211> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#ContentTypeGenericResource> .
+<http://www.worldcat.org/title/-/oclc/436469211> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#InformationResource> .
+<http://www.worldcat.org/title/-/oclc/436469211> <http://schema.org/about> <http://www.worldcat.org/oclc/436469211> .
+<http://www.worldcat.org/title/-/oclc/436469211> <http://schema.org/dateModified> "2018-11-11" .
+<http://www.worldcat.org/title/-/oclc/436469211> <http://rdfs.org/ns/void#inDataset> <http://purl.oclc.org/dataset/WorldCat> .
+<http://worldcat.org/entity/work/id/3856177641> <http://umbel.org/umbel#isLike> <http://worldcat.org/issn/0185-254X> .

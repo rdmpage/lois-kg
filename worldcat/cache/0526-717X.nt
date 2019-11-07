@@ -1,0 +1,33 @@
+<http://www.worldcat.org/title/-/oclc/1096792833#PublicationEvent/mexico_sociedad_mexicana_de_cactologia> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PublicationEvent> .
+<http://www.worldcat.org/title/-/oclc/1096792833#PublicationEvent/mexico_sociedad_mexicana_de_cactologia> <http://schema.org/location> <http://experiment.worldcat.org/entity/work/data/6050334#Place/mexico> .
+<http://www.worldcat.org/title/-/oclc/1096792833#PublicationEvent/mexico_sociedad_mexicana_de_cactologia> <http://schema.org/organizer> <http://experiment.worldcat.org/entity/work/data/6050334#Agent/sociedad_mexicana_de_cactologia> .
+<http://experiment.worldcat.org/entity/work/data/6050334#Agent/sociedad_mexicana_de_cactologia> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bibliograph.net/Agent> .
+<http://experiment.worldcat.org/entity/work/data/6050334#Agent/sociedad_mexicana_de_cactologia> <http://schema.org/name> "Sociedad mexicana de cactología." .
+<http://worldcat.org/issn/0526-717X> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://worldcat.org/issn/0526-717X> <http://schema.org/name> "CACTACEAS Y SUCULENTAS MEXICANAS."@en .
+<http://worldcat.org/issn/0526-717X> <http://schema.org/issn> "0526-717X" .
+<http://worldcat.org/issn/0526-717X> <http://umbel.org/umbel#isLike> <http://worldcat.org/entity/work/id/6050334> .
+<http://experiment.worldcat.org/entity/work/data/6050334#Place/mexico> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://experiment.worldcat.org/entity/work/data/6050334#Place/mexico> <http://schema.org/name> "México" .
+<http://www.worldcat.org/title/-/oclc/1096792833> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#ContentTypeGenericResource> .
+<http://www.worldcat.org/title/-/oclc/1096792833> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#InformationResource> .
+<http://www.worldcat.org/title/-/oclc/1096792833> <http://schema.org/about> <http://www.worldcat.org/oclc/1096792833> .
+<http://www.worldcat.org/title/-/oclc/1096792833> <http://schema.org/dateModified> "2019-05-08" .
+<http://www.worldcat.org/title/-/oclc/1096792833> <http://rdfs.org/ns/void#inDataset> <http://purl.oclc.org/dataset/WorldCat> .
+<http://id.loc.gov/vocabulary/countries/mx> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://id.loc.gov/vocabulary/countries/mx> <http://purl.org/dc/terms/identifier> "mx" .
+<http://www.worldcat.org/oclc/1096792833> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/MediaObject> .
+<http://www.worldcat.org/oclc/1096792833> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://www.worldcat.org/oclc/1096792833> <http://www.w3.org/2007/05/powder-s#describedby> <http://www.worldcat.org/title/-/oclc/1096792833> .
+<http://www.worldcat.org/oclc/1096792833> <http://schema.org/workExample> <http://worldcat.org/issn/0526-717X> .
+<http://www.worldcat.org/oclc/1096792833> <http://schema.org/exampleOfWork> <http://worldcat.org/entity/work/id/6050334> .
+<http://www.worldcat.org/oclc/1096792833> <http://purl.org/library/placeOfPublication> <http://id.loc.gov/vocabulary/countries/mx> .
+<http://www.worldcat.org/oclc/1096792833> <http://schema.org/publisher> <http://experiment.worldcat.org/entity/work/data/6050334#Agent/sociedad_mexicana_de_cactologia> .
+<http://www.worldcat.org/oclc/1096792833> <http://schema.org/productID> "1096792833" .
+<http://www.worldcat.org/oclc/1096792833> <http://schema.org/inLanguage> "en" .
+<http://www.worldcat.org/oclc/1096792833> <http://schema.org/publication> <http://www.worldcat.org/title/-/oclc/1096792833#PublicationEvent/mexico_sociedad_mexicana_de_cactologia> .
+<http://www.worldcat.org/oclc/1096792833> <http://purl.org/library/placeOfPublication> <http://experiment.worldcat.org/entity/work/data/6050334#Place/mexico> .
+<http://www.worldcat.org/oclc/1096792833> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://www.worldcat.org/oclc/1096792833> <http://schema.org/name> "CACTACEAS Y SUCULENTAS MEXICANAS."@en .
+<http://www.worldcat.org/oclc/1096792833> <http://purl.org/library/oclcnum> "1096792833" .
+<http://worldcat.org/entity/work/id/6050334> <http://umbel.org/umbel#isLike> <http://worldcat.org/issn/0526-717X> .

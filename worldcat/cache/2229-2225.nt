@@ -1,0 +1,39 @@
+<http://www.worldcat.org/title/-/oclc/865032292#PublicationEvent/chiang_raimushroom_research_foundation2011_2011> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PublicationEvent> .
+<http://www.worldcat.org/title/-/oclc/865032292#PublicationEvent/chiang_raimushroom_research_foundation2011_2011> <http://schema.org/location> <http://experiment.worldcat.org/entity/work/data/1654672238#Place/chiang_rai> .
+<http://www.worldcat.org/title/-/oclc/865032292#PublicationEvent/chiang_raimushroom_research_foundation2011_2011> <http://schema.org/organizer> <http://experiment.worldcat.org/entity/work/data/1654672238#Agent/mushroom_research_foundation> .
+<http://www.worldcat.org/title/-/oclc/865032292#PublicationEvent/chiang_raimushroom_research_foundation2011_2011> <http://schema.org/startDate> "2011" .
+<http://experiment.worldcat.org/entity/work/data/1654672238#Agent/mushroom_research_foundation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bibliograph.net/Agent> .
+<http://experiment.worldcat.org/entity/work/data/1654672238#Agent/mushroom_research_foundation> <http://schema.org/name> "Mushroom Research Foundation" .
+<http://worldcat.org/entity/work/id/1654672238> <http://umbel.org/umbel#isLike> <http://worldcat.org/issn/2229-2225> .
+<http://www.worldcat.org/oclc/865032292> <http://schema.org/inLanguage> "en" .
+<http://www.worldcat.org/oclc/865032292> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/MediaObject> .
+<http://www.worldcat.org/oclc/865032292> <http://purl.org/library/oclcnum> "865032292" .
+<http://www.worldcat.org/oclc/865032292> <http://schema.org/publisher> <http://experiment.worldcat.org/entity/work/data/1654672238#Agent/mushroom_research_foundation> .
+<http://www.worldcat.org/oclc/865032292> <http://umbel.org/umbel#isLike> <http://d-nb.info/1045296198> .
+<http://www.worldcat.org/oclc/865032292> <http://schema.org/name> "Current research in environmental & applied mycology journal of fungal biology" .
+<http://www.worldcat.org/oclc/865032292> <http://schema.org/url> <http://www.bibliothek.uni-regensburg.de/ezeit/?2745970> .
+<http://www.worldcat.org/oclc/865032292> <http://schema.org/publication> <http://www.worldcat.org/title/-/oclc/865032292#PublicationEvent/chiang_raimushroom_research_foundation2011_2011> .
+<http://www.worldcat.org/oclc/865032292> <http://schema.org/exampleOfWork> <http://worldcat.org/entity/work/id/1654672238> .
+<http://www.worldcat.org/oclc/865032292> <http://schema.org/about> <http://dewey.info/class/580/> .
+<http://www.worldcat.org/oclc/865032292> <http://schema.org/datePublished> "2011" .
+<http://www.worldcat.org/oclc/865032292> <http://schema.org/productID> "865032292" .
+<http://www.worldcat.org/oclc/865032292> <http://www.w3.org/2007/05/powder-s#describedby> <http://www.worldcat.org/title/-/oclc/865032292> .
+<http://www.worldcat.org/oclc/865032292> <http://schema.org/workExample> <http://worldcat.org/issn/2229-2225> .
+<http://www.worldcat.org/oclc/865032292> <http://schema.org/datePublished> "2011/9999" .
+<http://www.worldcat.org/oclc/865032292> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://www.worldcat.org/oclc/865032292> <http://purl.org/library/placeOfPublication> <http://experiment.worldcat.org/entity/work/data/1654672238#Place/chiang_rai> .
+<http://www.worldcat.org/oclc/865032292> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://www.worldcat.org/oclc/865032292> <http://schema.org/url> <http://www.creamjournal.org/journals.php> .
+<http://dewey.info/class/580/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://www.worldcat.org/title/-/oclc/865032292> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#ContentTypeGenericResource> .
+<http://www.worldcat.org/title/-/oclc/865032292> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#InformationResource> .
+<http://www.worldcat.org/title/-/oclc/865032292> <http://schema.org/about> <http://www.worldcat.org/oclc/865032292> .
+<http://www.worldcat.org/title/-/oclc/865032292> <http://schema.org/dateModified> "2019-02-09" .
+<http://www.worldcat.org/title/-/oclc/865032292> <http://rdfs.org/ns/void#inDataset> <http://purl.oclc.org/dataset/WorldCat> .
+<http://worldcat.org/issn/2229-2225> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://worldcat.org/issn/2229-2225> <http://schema.org/name> "Current research in environmental & applied mycology journal of fungal biology" .
+<http://worldcat.org/issn/2229-2225> <http://schema.org/issn> "2229-2225" .
+<http://worldcat.org/issn/2229-2225> <http://umbel.org/umbel#isLike> <http://worldcat.org/entity/work/id/1654672238> .
+<http://experiment.worldcat.org/entity/work/data/1654672238#Place/chiang_rai> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://experiment.worldcat.org/entity/work/data/1654672238#Place/chiang_rai> <http://schema.org/name> "Chiang Rai" .
+<http://www.creamjournal.org/journals.php> <http://www.w3.org/2000/01/rdf-schema#comment> "kostenfrei" .

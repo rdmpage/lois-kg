@@ -6,7 +6,7 @@ require_once (dirname(__FILE__) . '/config.inc.php');
 require_once (dirname(__FILE__) . '/couchsimple.php');
 require_once (dirname(dirname(__FILE__)) . '/www/config.inc.php');
 
-$limit = 1000;
+$limit = 10;
 
 $url = '_changes?limit=' . $limit . '&descending=true';
 

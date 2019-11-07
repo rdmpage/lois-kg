@@ -1,0 +1,60 @@
+<http://experiment.worldcat.org/entity/work/data/500607561#Place/chicago_ill> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://experiment.worldcat.org/entity/work/data/500607561#Place/chicago_ill> <http://schema.org/name> "Chicago - Ill" .
+<http://experiment.worldcat.org/entity/work/data/500607561#Organization/field_museum_of_natural_history_chicago_il_vor_1943> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+<http://experiment.worldcat.org/entity/work/data/500607561#Organization/field_museum_of_natural_history_chicago_il_vor_1943> <http://schema.org/name> "Field Museum of Natural History (Chicago, IL ; vor 1943)" .
+<http://experiment.worldcat.org/entity/work/data/500607561#Thing/nordamerika_usa_+_kanada> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> .
+<http://experiment.worldcat.org/entity/work/data/500607561#Thing/nordamerika_usa_+_kanada> <http://schema.org/name> "NORDAMERIKA (USA + KANADA)" .
+<http://experiment.worldcat.org/entity/work/data/500607561#Topic/geologie> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/500607561#Topic/geologie> <http://schema.org/name> "Geologie" .
+<http://experiment.worldcat.org/entity/work/data/500607561#Agent/field_museum_of_natural_history> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bibliograph.net/Agent> .
+<http://experiment.worldcat.org/entity/work/data/500607561#Agent/field_museum_of_natural_history> <http://schema.org/name> "Field Museum of natural History." .
+<http://experiment.worldcat.org/entity/work/data/500607561#Thing/geologie_+_geologie_regionale_+_sciences_de_la_terre> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> .
+<http://experiment.worldcat.org/entity/work/data/500607561#Thing/geologie_+_geologie_regionale_+_sciences_de_la_terre> <http://schema.org/name> "GÉOLOGIE + GÉOLOGIE RÉGIONALE + SCIENCES DE LA TERRE" .
+<http://experiment.worldcat.org/entity/work/data/500607561#Thing/north_america_usa_and_canada> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> .
+<http://experiment.worldcat.org/entity/work/data/500607561#Thing/north_america_usa_and_canada> <http://schema.org/name> "NORTH AMERICA (USA AND CANADA)" .
+<http://worldcat.org/issn/0015-0746> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://worldcat.org/issn/0015-0746> <http://schema.org/name> "Memoirs. Geology" .
+<http://worldcat.org/issn/0015-0746> <http://schema.org/issn> "0015-0746" .
+<http://worldcat.org/issn/0015-0746> <http://umbel.org/umbel#isLike> <http://worldcat.org/entity/work/id/500607561> .
+<http://id.loc.gov/vocabulary/countries/xxu> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://id.loc.gov/vocabulary/countries/xxu> <http://purl.org/dc/terms/identifier> "xxu" .
+<http://www.worldcat.org/title/-/oclc/637722727> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#ContentTypeGenericResource> .
+<http://www.worldcat.org/title/-/oclc/637722727> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#InformationResource> .
+<http://www.worldcat.org/title/-/oclc/637722727> <http://schema.org/about> <http://www.worldcat.org/oclc/637722727> .
+<http://www.worldcat.org/title/-/oclc/637722727> <http://schema.org/dateModified> "2018-11-08" .
+<http://www.worldcat.org/title/-/oclc/637722727> <http://rdfs.org/ns/void#inDataset> <http://purl.oclc.org/dataset/WorldCat> .
+<http://www.worldcat.org/title/-/oclc/637722727#PublicationEvent/chicago_ill_field_museum_of_natural_history> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PublicationEvent> .
+<http://www.worldcat.org/title/-/oclc/637722727#PublicationEvent/chicago_ill_field_museum_of_natural_history> <http://schema.org/location> <http://experiment.worldcat.org/entity/work/data/500607561#Place/chicago_ill> .
+<http://www.worldcat.org/title/-/oclc/637722727#PublicationEvent/chicago_ill_field_museum_of_natural_history> <http://schema.org/organizer> <http://experiment.worldcat.org/entity/work/data/500607561#Agent/field_museum_of_natural_history> .
+<http://worldcat.org/entity/work/id/500607561> <http://umbel.org/umbel#isLike> <http://worldcat.org/issn/0015-0746> .
+<http://www.worldcat.org/oclc/637722727> <http://schema.org/workExample> <http://worldcat.org/issn/0015-0746> .
+<http://www.worldcat.org/oclc/637722727> <http://schema.org/contributor> <http://experiment.worldcat.org/entity/work/data/500607561#Organization/field_museum_of_natural_history_chicago_il_vor_1943> .
+<http://www.worldcat.org/oclc/637722727> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/500607561#Thing/geologie_+_regional_geologie_+_erdwissenschaften> .
+<http://www.worldcat.org/oclc/637722727> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/500607561#Thing/geologie_+_geologie_regionale_+_sciences_de_la_terre> .
+<http://www.worldcat.org/oclc/637722727> <http://schema.org/exampleOfWork> <http://worldcat.org/entity/work/id/500607561> .
+<http://www.worldcat.org/oclc/637722727> <http://www.w3.org/2007/05/powder-s#describedby> <http://www.worldcat.org/title/-/oclc/637722727> .
+<http://www.worldcat.org/oclc/637722727> <http://schema.org/name> "Memoirs. Geology" .
+<http://www.worldcat.org/oclc/637722727> <http://purl.org/library/oclcnum> "637722727" .
+<http://www.worldcat.org/oclc/637722727> <http://schema.org/productID> "637722727" .
+<http://www.worldcat.org/oclc/637722727> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/500607561#Thing/geology_+_regional_geology_+_earth_sciences> .
+<http://www.worldcat.org/oclc/637722727> <http://schema.org/alternateName> "Geology memoirs / Field museum of natural history" .
+<http://www.worldcat.org/oclc/637722727> <http://purl.org/library/placeOfPublication> <http://experiment.worldcat.org/entity/work/data/500607561#Place/chicago_ill> .
+<http://www.worldcat.org/oclc/637722727> <http://schema.org/publisher> <http://experiment.worldcat.org/entity/work/data/500607561#Agent/field_museum_of_natural_history> .
+<http://www.worldcat.org/oclc/637722727> <http://schema.org/datePublished> "1930/1941" .
+<http://www.worldcat.org/oclc/637722727> <http://schema.org/alternateName> "Field museum of natural history. Geology, Memoirs" .
+<http://www.worldcat.org/oclc/637722727> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/500607561#Topic/geologie> .
+<http://www.worldcat.org/oclc/637722727> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/500607561#Thing/amerique_du_nord_etats_unis_et_canada> .
+<http://www.worldcat.org/oclc/637722727> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/500607561#Thing/nordamerika_usa_+_kanada> .
+<http://www.worldcat.org/oclc/637722727> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/500607561#Thing/north_america_usa_and_canada> .
+<http://www.worldcat.org/oclc/637722727> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://www.worldcat.org/oclc/637722727> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://www.worldcat.org/oclc/637722727> <http://schema.org/publication> <http://www.worldcat.org/title/-/oclc/637722727#PublicationEvent/chicago_ill_field_museum_of_natural_history> .
+<http://www.worldcat.org/oclc/637722727> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bibliograph.net/PublicationSeries> .
+<http://www.worldcat.org/oclc/637722727> <http://purl.org/library/placeOfPublication> <http://id.loc.gov/vocabulary/countries/xxu> .
+<http://www.worldcat.org/oclc/637722727> <http://schema.org/inLanguage> "en" .
+<http://experiment.worldcat.org/entity/work/data/500607561#Thing/amerique_du_nord_etats_unis_et_canada> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> .
+<http://experiment.worldcat.org/entity/work/data/500607561#Thing/amerique_du_nord_etats_unis_et_canada> <http://schema.org/name> "AMERIQUE DU NORD (ETATS-UNIS ET CANADA)" .
+<http://experiment.worldcat.org/entity/work/data/500607561#Thing/geologie_+_regional_geologie_+_erdwissenschaften> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> .
+<http://experiment.worldcat.org/entity/work/data/500607561#Thing/geologie_+_regional_geologie_+_erdwissenschaften> <http://schema.org/name> "GEOLOGIE + REGIONAL GEOLOGIE + ERDWISSENSCHAFTEN" .
+<http://experiment.worldcat.org/entity/work/data/500607561#Thing/geology_+_regional_geology_+_earth_sciences> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> .
+<http://experiment.worldcat.org/entity/work/data/500607561#Thing/geology_+_regional_geology_+_earth_sciences> <http://schema.org/name> "GEOLOGY + REGIONAL GEOLOGY + EARTH SCIENCES" .

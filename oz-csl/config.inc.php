@@ -28,18 +28,18 @@ $config['proxy_port'] 	= '';
 
 // CouchDB--------------------------------------------------------------------------------
 		
-if (0)
+if (1)
 {
 		// local
 		$config['couchdb_options'] = array(
 				'database' => 'oz-csl',
 				'host' => 'localhost',
-				'port' => 5984,
+				'port' => 32769,
 				'prefix' => 'http://'
 				);		
 }
 
-if (1)
+if (0)
 {			
 		// Digital Ocean
 		$config['couchdb_options'] = array(

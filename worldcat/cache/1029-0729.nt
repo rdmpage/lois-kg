@@ -1,0 +1,32 @@
+<http://www.worldcat.org/title/-/oclc/939090161#PublicationEvent/wien_l_w_seidel> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PublicationEvent> .
+<http://www.worldcat.org/title/-/oclc/939090161#PublicationEvent/wien_l_w_seidel> <http://schema.org/location> <http://experiment.worldcat.org/entity/work/data/11088389#Place/wien> .
+<http://www.worldcat.org/title/-/oclc/939090161#PublicationEvent/wien_l_w_seidel> <http://schema.org/organizer> <http://experiment.worldcat.org/entity/work/data/11088389#Agent/l_w_seidel> .
+<http://www.worldcat.org/title/-/oclc/939090161> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#ContentTypeGenericResource> .
+<http://www.worldcat.org/title/-/oclc/939090161> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#InformationResource> .
+<http://www.worldcat.org/title/-/oclc/939090161> <http://schema.org/about> <http://www.worldcat.org/oclc/939090161> .
+<http://www.worldcat.org/title/-/oclc/939090161> <http://schema.org/dateModified> "2019-02-09" .
+<http://www.worldcat.org/title/-/oclc/939090161> <http://rdfs.org/ns/void#inDataset> <http://purl.oclc.org/dataset/WorldCat> .
+<http://experiment.worldcat.org/entity/work/data/11088389#Place/wien> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://experiment.worldcat.org/entity/work/data/11088389#Place/wien> <http://schema.org/name> "Wien" .
+<http://experiment.worldcat.org/entity/work/data/11088389#Agent/l_w_seidel> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bibliograph.net/Agent> .
+<http://experiment.worldcat.org/entity/work/data/11088389#Agent/l_w_seidel> <http://schema.org/name> "L.W. Seidel." .
+<http://id.loc.gov/vocabulary/countries/au> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://id.loc.gov/vocabulary/countries/au> <http://purl.org/dc/terms/identifier> "au" .
+<http://worldcat.org/entity/work/data/11088389#CreativeWork/oesterreichisches_botanisches_wochenblatt_print> <http://schema.org/isSimilarTo> <http://www.worldcat.org/oclc/939090161> .
+<http://worldcat.org/entity/work/data/11088389#CreativeWork/oesterreichisches_botanisches_wochenblatt_print> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://worldcat.org/entity/work/data/11088389#CreativeWork/oesterreichisches_botanisches_wochenblatt_print> <http://www.w3.org/2000/01/rdf-schema#label> "Oesterreichisches botanisches Wochenblatt (Print)" .
+<http://www.worldcat.org/oclc/939090161> <http://purl.org/library/placeOfPublication> <http://id.loc.gov/vocabulary/countries/au> .
+<http://www.worldcat.org/oclc/939090161> <http://purl.org/library/oclcnum> "939090161" .
+<http://www.worldcat.org/oclc/939090161> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://www.worldcat.org/oclc/939090161> <http://schema.org/publisher> <http://experiment.worldcat.org/entity/work/data/11088389#Agent/l_w_seidel> .
+<http://www.worldcat.org/oclc/939090161> <http://schema.org/publication> <http://www.worldcat.org/title/-/oclc/939090161#PublicationEvent/wien_l_w_seidel> .
+<http://www.worldcat.org/oclc/939090161> <http://www.w3.org/2007/05/powder-s#describedby> <http://www.worldcat.org/title/-/oclc/939090161> .
+<http://www.worldcat.org/oclc/939090161> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://www.worldcat.org/oclc/939090161> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/MediaObject> .
+<http://www.worldcat.org/oclc/939090161> <http://schema.org/productID> "939090161" .
+<http://www.worldcat.org/oclc/939090161> <http://schema.org/exampleOfWork> <http://worldcat.org/entity/work/id/11088389> .
+<http://www.worldcat.org/oclc/939090161> <http://schema.org/inLanguage> "en" .
+<http://www.worldcat.org/oclc/939090161> <http://schema.org/name> "Oesterreichisches botanisches Wochenblatt" .
+<http://www.worldcat.org/oclc/939090161> <http://schema.org/isSimilarTo> <http://worldcat.org/entity/work/data/11088389#CreativeWork/oesterreichisches_botanisches_wochenblatt_print> .
+<http://www.worldcat.org/oclc/939090161> <http://purl.org/library/placeOfPublication> <http://experiment.worldcat.org/entity/work/data/11088389#Place/wien> .
+<http://www.worldcat.org/oclc/939090161> <http://schema.org/datePublished> "1851/1857" .

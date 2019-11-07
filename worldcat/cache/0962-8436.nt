@@ -1,0 +1,35 @@
+<http://www.worldcat.org/title/-/oclc/605928227#PublicationEvent/london_royal_society_of_london> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PublicationEvent> .
+<http://www.worldcat.org/title/-/oclc/605928227#PublicationEvent/london_royal_society_of_london> <http://schema.org/location> <http://dbpedia.org/resource/London> .
+<http://www.worldcat.org/title/-/oclc/605928227#PublicationEvent/london_royal_society_of_london> <http://schema.org/organizer> <http://experiment.worldcat.org/entity/work/data/1910526554#Agent/royal_society_of_london> .
+<http://worldcat.org/entity/work/id/1910526554> <http://umbel.org/umbel#isLike> <http://worldcat.org/issn/0962-8436> .
+<http://experiment.worldcat.org/entity/work/data/1910526554#Agent/royal_society_of_london> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bibliograph.net/Agent> .
+<http://experiment.worldcat.org/entity/work/data/1910526554#Agent/royal_society_of_london> <http://schema.org/name> "Royal Society of London." .
+<http://id.loc.gov/vocabulary/countries/enk> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://id.loc.gov/vocabulary/countries/enk> <http://purl.org/dc/terms/identifier> "enk" .
+<http://www.worldcat.org/title/-/oclc/605928227> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#ContentTypeGenericResource> .
+<http://www.worldcat.org/title/-/oclc/605928227> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#InformationResource> .
+<http://www.worldcat.org/title/-/oclc/605928227> <http://schema.org/about> <http://www.worldcat.org/oclc/605928227> .
+<http://www.worldcat.org/title/-/oclc/605928227> <http://schema.org/dateModified> "2018-11-09" .
+<http://www.worldcat.org/title/-/oclc/605928227> <http://rdfs.org/ns/void#inDataset> <http://purl.oclc.org/dataset/WorldCat> .
+<http://experiment.worldcat.org/entity/work/data/1910526554#Thing/biology> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> .
+<http://experiment.worldcat.org/entity/work/data/1910526554#Thing/biology> <http://schema.org/name> "Biology" .
+<http://www.worldcat.org/oclc/605928227> <http://schema.org/publisher> <http://experiment.worldcat.org/entity/work/data/1910526554#Agent/royal_society_of_london> .
+<http://www.worldcat.org/oclc/605928227> <http://schema.org/productID> "605928227" .
+<http://www.worldcat.org/oclc/605928227> <http://purl.org/library/placeOfPublication> <http://id.loc.gov/vocabulary/countries/enk> .
+<http://www.worldcat.org/oclc/605928227> <http://www.w3.org/2007/05/powder-s#describedby> <http://www.worldcat.org/title/-/oclc/605928227> .
+<http://www.worldcat.org/oclc/605928227> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/1910526554#Thing/biology> .
+<http://www.worldcat.org/oclc/605928227> <http://schema.org/publication> <http://www.worldcat.org/title/-/oclc/605928227#PublicationEvent/london_royal_society_of_london> .
+<http://www.worldcat.org/oclc/605928227> <http://schema.org/exampleOfWork> <http://worldcat.org/entity/work/id/1910526554> .
+<http://www.worldcat.org/oclc/605928227> <http://schema.org/name> "Philosophical transactions of the royal society series - b : biological sciences."@en .
+<http://www.worldcat.org/oclc/605928227> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://www.worldcat.org/oclc/605928227> <http://purl.org/library/placeOfPublication> <http://dbpedia.org/resource/London> .
+<http://www.worldcat.org/oclc/605928227> <http://schema.org/inLanguage> "en" .
+<http://www.worldcat.org/oclc/605928227> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://www.worldcat.org/oclc/605928227> <http://purl.org/library/oclcnum> "605928227" .
+<http://www.worldcat.org/oclc/605928227> <http://schema.org/workExample> <http://worldcat.org/issn/0962-8436> .
+<http://dbpedia.org/resource/London> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://dbpedia.org/resource/London> <http://schema.org/name> "London" .
+<http://worldcat.org/issn/0962-8436> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://worldcat.org/issn/0962-8436> <http://schema.org/name> "Philosophical transactions of the royal society series - b : biological sciences."@en .
+<http://worldcat.org/issn/0962-8436> <http://schema.org/issn> "0962-8436" .
+<http://worldcat.org/issn/0962-8436> <http://umbel.org/umbel#isLike> <http://worldcat.org/entity/work/id/1910526554> .

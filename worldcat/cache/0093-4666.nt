@@ -1,0 +1,80 @@
+<http://experiment.worldcat.org/entity/work/data/2059324516#Thing/systematik_taxonomie_und_verwandtschaft_mykologie_und_palaomykologie> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> .
+<http://experiment.worldcat.org/entity/work/data/2059324516#Thing/systematik_taxonomie_und_verwandtschaft_mykologie_und_palaomykologie> <http://schema.org/name> "SYSTEMATIK, TAXONOMIE UND VERWANDTSCHAFT (MYKOLOGIE UND PALÄOMYKOLOGIE)" .
+<http://worldcat.org/issn/0093-4666> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://worldcat.org/issn/0093-4666> <http://schema.org/name> "Mycotaxon : the international journal of fungal taxonomy and nomenclature." .
+<http://worldcat.org/issn/0093-4666> <http://schema.org/issn> "0093-4666" .
+<http://worldcat.org/issn/0093-4666> <http://umbel.org/umbel#isLike> <http://worldcat.org/entity/work/id/2059324516> .
+<http://sfx.ethz.ch/sfx_locater?sid=ALEPH:EBI01&genre=journal&issn=0093-4666> <http://www.w3.org/2000/01/rdf-schema#comment> "Online via SFX" .
+<http://experiment.worldcat.org/entity/work/data/2059324516#Thing/eumycota_mycologie> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> .
+<http://experiment.worldcat.org/entity/work/data/2059324516#Thing/eumycota_mycologie> <http://schema.org/name> "EUMYCOTA (MYCOLOGIE)" .
+<http://experiment.worldcat.org/entity/work/data/2059324516#Agent/mycotaxon> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bibliograph.net/Agent> .
+<http://experiment.worldcat.org/entity/work/data/2059324516#Agent/mycotaxon> <http://schema.org/name> "Mycotaxon." .
+<http://id.loc.gov/vocabulary/countries/nyu> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://id.loc.gov/vocabulary/countries/nyu> <http://purl.org/dc/terms/identifier> "nyu" .
+<http://www.worldcat.org/title/-/oclc/889239195#PublicationEvent/ithaca_ny_mycotaxon> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PublicationEvent> .
+<http://www.worldcat.org/title/-/oclc/889239195#PublicationEvent/ithaca_ny_mycotaxon> <http://schema.org/location> <http://experiment.worldcat.org/entity/work/data/2059324516#Place/ithaca_ny> .
+<http://www.worldcat.org/title/-/oclc/889239195#PublicationEvent/ithaca_ny_mycotaxon> <http://schema.org/organizer> <http://experiment.worldcat.org/entity/work/data/2059324516#Agent/mycotaxon> .
+<http://experiment.worldcat.org/entity/work/data/2059324516#Place/ithaca_ny> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://experiment.worldcat.org/entity/work/data/2059324516#Place/ithaca_ny> <http://schema.org/name> "Ithaca, NY" .
+<http://www.worldcat.org/title/-/oclc/889239195> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#ContentTypeGenericResource> .
+<http://www.worldcat.org/title/-/oclc/889239195> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#InformationResource> .
+<http://www.worldcat.org/title/-/oclc/889239195> <http://schema.org/about> <http://www.worldcat.org/oclc/889239195> .
+<http://www.worldcat.org/title/-/oclc/889239195> <http://schema.org/dateModified> "2018-11-09" .
+<http://www.worldcat.org/title/-/oclc/889239195> <http://rdfs.org/ns/void#inDataset> <http://purl.oclc.org/dataset/WorldCat> .
+<http://experiment.worldcat.org/entity/work/data/2059324516#Thing/systematic_mycology> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> .
+<http://experiment.worldcat.org/entity/work/data/2059324516#Thing/systematic_mycology> <http://schema.org/name> "SYSTEMATIC MYCOLOGY" .
+<http://experiment.worldcat.org/entity/work/data/2059324516#Thing/electronic_journals_+_online_serials_document_types> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> .
+<http://experiment.worldcat.org/entity/work/data/2059324516#Thing/electronic_journals_+_online_serials_document_types> <http://schema.org/name> "ELECTRONIC JOURNALS + ONLINE SERIALS (DOCUMENT TYPES)" .
+<http://experiment.worldcat.org/entity/work/data/2059324516#Thing/eumycota_mycology> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> .
+<http://experiment.worldcat.org/entity/work/data/2059324516#Thing/eumycota_mycology> <http://schema.org/name> "EUMYCOTA (MYCOLOGY)" .
+<http://www.worldcat.org/oclc/889239195> <http://schema.org/workExample> <http://worldcat.org/issn/0093-4666> .
+<http://www.worldcat.org/oclc/889239195> <http://schema.org/publication> <http://www.worldcat.org/title/-/oclc/889239195#PublicationEvent/ithaca_ny_mycotaxon> .
+<http://www.worldcat.org/oclc/889239195> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/2059324516#Thing/electronic_journals_+_online_serials_document_types> .
+<http://www.worldcat.org/oclc/889239195> <http://schema.org/name> "Mycotaxon : the international journal of fungal taxonomy and nomenclature." .
+<http://www.worldcat.org/oclc/889239195> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://www.worldcat.org/oclc/889239195> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/2059324516#Thing/eumycota_mykologie> .
+<http://www.worldcat.org/oclc/889239195> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/2059324516#Thing/elektronische_zeitschriften_+_elektronische_schriftenreihen_dokumententyp> .
+<http://www.worldcat.org/oclc/889239195> <http://schema.org/url> <http://sfx.ethz.ch/sfx_locater?sid=ALEPH:EBI01&genre=journal&issn=0093-4666> .
+<http://www.worldcat.org/oclc/889239195> <http://www.w3.org/2007/05/powder-s#describedby> <http://www.worldcat.org/title/-/oclc/889239195> .
+<http://www.worldcat.org/oclc/889239195> <http://schema.org/datePublished> "1974/9999" .
+<http://www.worldcat.org/oclc/889239195> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/2059324516#Thing/eumycota_mycology> .
+<http://www.worldcat.org/oclc/889239195> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/2059324516#Thing/mykologische_nomenklatur_mykologie_und_palaomykologie> .
+<http://www.worldcat.org/oclc/889239195> <http://purl.org/library/oclcnum> "889239195" .
+<http://www.worldcat.org/oclc/889239195> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://www.worldcat.org/oclc/889239195> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/2059324516#Thing/systematique_taxonomie_et_affinite_mycologie_et_paleomycologie> .
+<http://www.worldcat.org/oclc/889239195> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/2059324516#Thing/systematische_mykologie> .
+<http://www.worldcat.org/oclc/889239195> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/2059324516#Thing/mycologie_systematique> .
+<http://www.worldcat.org/oclc/889239195> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/2059324516#Thing/systematic_mycology> .
+<http://www.worldcat.org/oclc/889239195> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/2059324516#Thing/eumycota_mycologie> .
+<http://www.worldcat.org/oclc/889239195> <http://purl.org/library/placeOfPublication> <http://experiment.worldcat.org/entity/work/data/2059324516#Place/ithaca_ny> .
+<http://www.worldcat.org/oclc/889239195> <http://schema.org/publisher> <http://experiment.worldcat.org/entity/work/data/2059324516#Agent/mycotaxon> .
+<http://www.worldcat.org/oclc/889239195> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/2059324516#Thing/mycological_nomenclature_mycology_and_palaeomycology> .
+<http://www.worldcat.org/oclc/889239195> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/2059324516#Thing/systematics_taxonomy_and_relationship_mycology_and_palaeomycology> .
+<http://www.worldcat.org/oclc/889239195> <http://schema.org/productID> "889239195" .
+<http://www.worldcat.org/oclc/889239195> <http://schema.org/exampleOfWork> <http://worldcat.org/entity/work/id/2059324516> .
+<http://www.worldcat.org/oclc/889239195> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/2059324516#Thing/nomenclature_mycologique_mycologie_et_paleomycologie> .
+<http://www.worldcat.org/oclc/889239195> <http://purl.org/library/placeOfPublication> <http://id.loc.gov/vocabulary/countries/nyu> .
+<http://www.worldcat.org/oclc/889239195> <http://schema.org/inLanguage> "en" .
+<http://www.worldcat.org/oclc/889239195> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/2059324516#Thing/periodiques_electroniques_+_series_electroniques_types_des_documents> .
+<http://www.worldcat.org/oclc/889239195> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/2059324516#Thing/systematik_taxonomie_und_verwandtschaft_mykologie_und_palaomykologie> .
+<http://experiment.worldcat.org/entity/work/data/2059324516#Thing/eumycota_mykologie> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> .
+<http://experiment.worldcat.org/entity/work/data/2059324516#Thing/eumycota_mykologie> <http://schema.org/name> "EUMYCOTA (MYKOLOGIE)" .
+<http://experiment.worldcat.org/entity/work/data/2059324516#Thing/systematische_mykologie> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> .
+<http://experiment.worldcat.org/entity/work/data/2059324516#Thing/systematische_mykologie> <http://schema.org/name> "SYSTEMATISCHE MYKOLOGIE" .
+<http://experiment.worldcat.org/entity/work/data/2059324516#Thing/systematique_taxonomie_et_affinite_mycologie_et_paleomycologie> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> .
+<http://experiment.worldcat.org/entity/work/data/2059324516#Thing/systematique_taxonomie_et_affinite_mycologie_et_paleomycologie> <http://schema.org/name> "SYSTÉMATIQUE, TAXONOMIE ET AFFINITÉ (MYCOLOGIE ET PALÉOMYCOLOGIE)" .
+<http://experiment.worldcat.org/entity/work/data/2059324516#Thing/systematics_taxonomy_and_relationship_mycology_and_palaeomycology> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> .
+<http://experiment.worldcat.org/entity/work/data/2059324516#Thing/systematics_taxonomy_and_relationship_mycology_and_palaeomycology> <http://schema.org/name> "SYSTEMATICS, TAXONOMY AND RELATIONSHIP (MYCOLOGY AND PALAEOMYCOLOGY)" .
+<http://experiment.worldcat.org/entity/work/data/2059324516#Thing/periodiques_electroniques_+_series_electroniques_types_des_documents> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> .
+<http://experiment.worldcat.org/entity/work/data/2059324516#Thing/periodiques_electroniques_+_series_electroniques_types_des_documents> <http://schema.org/name> "PÉRIODIQUES ÉLECTRONIQUES + SÉRIES ÉLECTRONIQUES (TYPES DES DOCUMENTS)" .
+<http://experiment.worldcat.org/entity/work/data/2059324516#Thing/mykologische_nomenklatur_mykologie_und_palaomykologie> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> .
+<http://experiment.worldcat.org/entity/work/data/2059324516#Thing/mykologische_nomenklatur_mykologie_und_palaomykologie> <http://schema.org/name> "MYKOLOGISCHE NOMENKLATUR (MYKOLOGIE UND PALÄOMYKOLOGIE)" .
+<http://experiment.worldcat.org/entity/work/data/2059324516#Thing/nomenclature_mycologique_mycologie_et_paleomycologie> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> .
+<http://experiment.worldcat.org/entity/work/data/2059324516#Thing/nomenclature_mycologique_mycologie_et_paleomycologie> <http://schema.org/name> "NOMENCLATURE MYCOLOGIQUE (MYCOLOGIE ET PALÉOMYCOLOGIE)" .
+<http://experiment.worldcat.org/entity/work/data/2059324516#Thing/mycologie_systematique> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> .
+<http://experiment.worldcat.org/entity/work/data/2059324516#Thing/mycologie_systematique> <http://schema.org/name> "MYCOLOGIE SYSTEMATIQUE" .
+<http://experiment.worldcat.org/entity/work/data/2059324516#Thing/mycological_nomenclature_mycology_and_palaeomycology> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> .
+<http://experiment.worldcat.org/entity/work/data/2059324516#Thing/mycological_nomenclature_mycology_and_palaeomycology> <http://schema.org/name> "MYCOLOGICAL NOMENCLATURE (MYCOLOGY AND PALAEOMYCOLOGY)" .
+<http://experiment.worldcat.org/entity/work/data/2059324516#Thing/elektronische_zeitschriften_+_elektronische_schriftenreihen_dokumententyp> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> .
+<http://experiment.worldcat.org/entity/work/data/2059324516#Thing/elektronische_zeitschriften_+_elektronische_schriftenreihen_dokumententyp> <http://schema.org/name> "ELEKTRONISCHE ZEITSCHRIFTEN + ELEKTRONISCHE SCHRIFTENREIHEN (DOKUMENTENTYP)" .
+<http://worldcat.org/entity/work/id/2059324516> <http://umbel.org/umbel#isLike> <http://worldcat.org/issn/0093-4666> .

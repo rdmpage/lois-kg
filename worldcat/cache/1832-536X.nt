@@ -1,0 +1,37 @@
+<http://viaf.org/viaf/138981429> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+<http://viaf.org/viaf/138981429> <http://schema.org/name> "Tasmanian Museum and Art Gallery <Hobart, Tasmania>" .
+<http://experiment.worldcat.org/entity/work/data/899425362#Place/hobart> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://experiment.worldcat.org/entity/work/data/899425362#Place/hobart> <http://schema.org/name> "Hobart" .
+<http://experiment.worldcat.org/entity/work/data/899425362#Agent/tasmanian_museum_and_art_gallery> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bibliograph.net/Agent> .
+<http://experiment.worldcat.org/entity/work/data/899425362#Agent/tasmanian_museum_and_art_gallery> <http://schema.org/name> "Tasmanian Museum and Art Gallery" .
+<http://worldcat.org/issn/1832-536X> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://worldcat.org/issn/1832-536X> <http://schema.org/name> "Kanunnah the research journal of the Tasmanian Museum and Art Gallery" .
+<http://worldcat.org/issn/1832-536X> <http://schema.org/issn> "1832-536X" .
+<http://worldcat.org/issn/1832-536X> <http://umbel.org/umbel#isLike> <http://worldcat.org/entity/work/id/899425362> .
+<http://www.worldcat.org/title/-/oclc/723498368> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#ContentTypeGenericResource> .
+<http://www.worldcat.org/title/-/oclc/723498368> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#InformationResource> .
+<http://www.worldcat.org/title/-/oclc/723498368> <http://schema.org/about> <http://www.worldcat.org/oclc/723498368> .
+<http://www.worldcat.org/title/-/oclc/723498368> <http://schema.org/dateModified> "2018-11-08" .
+<http://www.worldcat.org/title/-/oclc/723498368> <http://rdfs.org/ns/void#inDataset> <http://purl.oclc.org/dataset/WorldCat> .
+<http://id.loc.gov/vocabulary/countries/tma> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://id.loc.gov/vocabulary/countries/tma> <http://purl.org/dc/terms/identifier> "tma" .
+<http://www.worldcat.org/oclc/723498368> <http://schema.org/workExample> <http://worldcat.org/issn/1832-536X> .
+<http://www.worldcat.org/oclc/723498368> <http://schema.org/name> "Kanunnah the research journal of the Tasmanian Museum and Art Gallery" .
+<http://www.worldcat.org/oclc/723498368> <http://schema.org/publication> <http://www.worldcat.org/title/-/oclc/723498368#PublicationEvent/hobarttasmanian_museum_and_art_gallery> .
+<http://www.worldcat.org/oclc/723498368> <http://schema.org/productID> "723498368" .
+<http://www.worldcat.org/oclc/723498368> <http://schema.org/contributor> <http://viaf.org/viaf/138981429> .
+<http://www.worldcat.org/oclc/723498368> <http://schema.org/datePublished> "2005/9999" .
+<http://www.worldcat.org/oclc/723498368> <http://purl.org/library/oclcnum> "723498368" .
+<http://www.worldcat.org/oclc/723498368> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://www.worldcat.org/oclc/723498368> <http://schema.org/publisher> <http://experiment.worldcat.org/entity/work/data/899425362#Agent/tasmanian_museum_and_art_gallery> .
+<http://www.worldcat.org/oclc/723498368> <http://www.w3.org/2007/05/powder-s#describedby> <http://www.worldcat.org/title/-/oclc/723498368> .
+<http://www.worldcat.org/oclc/723498368> <http://purl.org/library/placeOfPublication> <http://experiment.worldcat.org/entity/work/data/899425362#Place/hobart> .
+<http://www.worldcat.org/oclc/723498368> <http://schema.org/exampleOfWork> <http://worldcat.org/entity/work/id/899425362> .
+<http://www.worldcat.org/oclc/723498368> <http://schema.org/inLanguage> "en" .
+<http://www.worldcat.org/oclc/723498368> <http://umbel.org/umbel#isLike> <http://d-nb.info/976607131> .
+<http://www.worldcat.org/oclc/723498368> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://www.worldcat.org/oclc/723498368> <http://purl.org/library/placeOfPublication> <http://id.loc.gov/vocabulary/countries/tma> .
+<http://worldcat.org/entity/work/id/899425362> <http://umbel.org/umbel#isLike> <http://worldcat.org/issn/1832-536X> .
+<http://www.worldcat.org/title/-/oclc/723498368#PublicationEvent/hobarttasmanian_museum_and_art_gallery> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PublicationEvent> .
+<http://www.worldcat.org/title/-/oclc/723498368#PublicationEvent/hobarttasmanian_museum_and_art_gallery> <http://schema.org/location> <http://experiment.worldcat.org/entity/work/data/899425362#Place/hobart> .
+<http://www.worldcat.org/title/-/oclc/723498368#PublicationEvent/hobarttasmanian_museum_and_art_gallery> <http://schema.org/organizer> <http://experiment.worldcat.org/entity/work/data/899425362#Agent/tasmanian_museum_and_art_gallery> .

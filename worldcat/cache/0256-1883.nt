@@ -1,0 +1,36 @@
+<http://experiment.worldcat.org/entity/work/data/2865653338#Organization/institute_of_microbiology_academia_sinica> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+<http://experiment.worldcat.org/entity/work/data/2865653338#Organization/institute_of_microbiology_academia_sinica> <http://schema.org/name> "Institute of Microbiology, Academia Sinica." .
+<http://experiment.worldcat.org/entity/work/data/2865653338#Agent/science_press> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bibliograph.net/Agent> .
+<http://experiment.worldcat.org/entity/work/data/2865653338#Agent/science_press> <http://schema.org/name> "Science Press." .
+<http://www.worldcat.org/title/-/oclc/475050075#PublicationEvent/beijing_science_press> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PublicationEvent> .
+<http://www.worldcat.org/title/-/oclc/475050075#PublicationEvent/beijing_science_press> <http://schema.org/location> <http://experiment.worldcat.org/entity/work/data/2865653338#Place/beijing> .
+<http://www.worldcat.org/title/-/oclc/475050075#PublicationEvent/beijing_science_press> <http://schema.org/organizer> <http://experiment.worldcat.org/entity/work/data/2865653338#Agent/science_press> .
+<http://id.loc.gov/vocabulary/countries/cc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://id.loc.gov/vocabulary/countries/cc> <http://purl.org/dc/terms/identifier> "cc" .
+<http://worldcat.org/entity/work/id/2865653338> <http://umbel.org/umbel#isLike> <http://worldcat.org/issn/0256-1883> .
+<http://worldcat.org/issn/0256-1883> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://worldcat.org/issn/0256-1883> <http://schema.org/name> "Acta Mycologica Sinica." .
+<http://worldcat.org/issn/0256-1883> <http://schema.org/issn> "0256-1883" .
+<http://worldcat.org/issn/0256-1883> <http://umbel.org/umbel#isLike> <http://worldcat.org/entity/work/id/2865653338> .
+<http://www.worldcat.org/title/-/oclc/475050075> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#ContentTypeGenericResource> .
+<http://www.worldcat.org/title/-/oclc/475050075> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#InformationResource> .
+<http://www.worldcat.org/title/-/oclc/475050075> <http://schema.org/about> <http://www.worldcat.org/oclc/475050075> .
+<http://www.worldcat.org/title/-/oclc/475050075> <http://schema.org/dateModified> "2018-11-11" .
+<http://www.worldcat.org/title/-/oclc/475050075> <http://rdfs.org/ns/void#inDataset> <http://purl.oclc.org/dataset/WorldCat> .
+<http://experiment.worldcat.org/entity/work/data/2865653338#Place/beijing> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://experiment.worldcat.org/entity/work/data/2865653338#Place/beijing> <http://schema.org/name> "Beijing" .
+<http://www.worldcat.org/oclc/475050075> <http://schema.org/inLanguage> "mul" .
+<http://www.worldcat.org/oclc/475050075> <http://www.w3.org/2007/05/powder-s#describedby> <http://www.worldcat.org/title/-/oclc/475050075> .
+<http://www.worldcat.org/oclc/475050075> <http://schema.org/publisher> <http://experiment.worldcat.org/entity/work/data/2865653338#Agent/science_press> .
+<http://www.worldcat.org/oclc/475050075> <http://schema.org/exampleOfWork> <http://worldcat.org/entity/work/id/2865653338> .
+<http://www.worldcat.org/oclc/475050075> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://www.worldcat.org/oclc/475050075> <http://purl.org/library/placeOfPublication> <http://experiment.worldcat.org/entity/work/data/2865653338#Place/beijing> .
+<http://www.worldcat.org/oclc/475050075> <http://purl.org/library/placeOfPublication> <http://id.loc.gov/vocabulary/countries/cc> .
+<http://www.worldcat.org/oclc/475050075> <http://schema.org/productID> "475050075" .
+<http://www.worldcat.org/oclc/475050075> <http://schema.org/name> "Acta Mycologica Sinica." .
+<http://www.worldcat.org/oclc/475050075> <http://schema.org/contributor> <http://experiment.worldcat.org/entity/work/data/2865653338#Organization/institute_of_microbiology_academia_sinica> .
+<http://www.worldcat.org/oclc/475050075> <http://purl.org/library/oclcnum> "475050075" .
+<http://www.worldcat.org/oclc/475050075> <http://schema.org/publication> <http://www.worldcat.org/title/-/oclc/475050075#PublicationEvent/beijing_science_press> .
+<http://www.worldcat.org/oclc/475050075> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://www.worldcat.org/oclc/475050075> <http://schema.org/workExample> <http://worldcat.org/issn/0256-1883> .
+<http://www.worldcat.org/oclc/475050075> <http://schema.org/datePublished> "1982/1996" .

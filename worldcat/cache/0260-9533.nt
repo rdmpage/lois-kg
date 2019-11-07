@@ -1,0 +1,42 @@
+<http://www.worldcat.org/title/-/oclc/715558912> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#ContentTypeGenericResource> .
+<http://www.worldcat.org/title/-/oclc/715558912> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#InformationResource> .
+<http://www.worldcat.org/title/-/oclc/715558912> <http://schema.org/about> <http://www.worldcat.org/oclc/715558912> .
+<http://www.worldcat.org/title/-/oclc/715558912> <http://schema.org/dateModified> "2018-11-08" .
+<http://www.worldcat.org/title/-/oclc/715558912> <http://rdfs.org/ns/void#inDataset> <http://purl.oclc.org/dataset/WorldCat> .
+<http://experiment.worldcat.org/entity/work/data/54465342#Place/burgess_hill> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://experiment.worldcat.org/entity/work/data/54465342#Place/burgess_hill> <http://schema.org/name> "Burgess Hill" .
+<http://id.loc.gov/vocabulary/countries/xxk> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://id.loc.gov/vocabulary/countries/xxk> <http://purl.org/dc/terms/identifier> "xxk" .
+<http://experiment.worldcat.org/entity/work/data/54465342#Agent/southern_reprographics> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bibliograph.net/Agent> .
+<http://experiment.worldcat.org/entity/work/data/54465342#Agent/southern_reprographics> <http://schema.org/name> "Southern Reprographics" .
+<http://viaf.org/viaf/136119004> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+<http://viaf.org/viaf/136119004> <http://schema.org/name> "International Asclepiad Society." .
+<http://www.worldcat.org/title/-/oclc/715558912#PublicationEvent/burgess_hill_southern_reprographics_1981> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PublicationEvent> .
+<http://www.worldcat.org/title/-/oclc/715558912#PublicationEvent/burgess_hill_southern_reprographics_1981> <http://schema.org/location> <http://experiment.worldcat.org/entity/work/data/54465342#Place/burgess_hill> .
+<http://www.worldcat.org/title/-/oclc/715558912#PublicationEvent/burgess_hill_southern_reprographics_1981> <http://schema.org/organizer> <http://experiment.worldcat.org/entity/work/data/54465342#Agent/southern_reprographics> .
+<http://www.worldcat.org/title/-/oclc/715558912#PublicationEvent/burgess_hill_southern_reprographics_1981> <http://schema.org/startDate> "1981-" .
+<http://experiment.worldcat.org/entity/work/data/54465342#Topic/asclepiadaceae> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/54465342#Topic/asclepiadaceae> <http://schema.org/name> "Asclepiadaceae" .
+<http://www.worldcat.org/oclc/715558912> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://www.worldcat.org/oclc/715558912> <http://schema.org/datePublished> "1981/" .
+<http://www.worldcat.org/oclc/715558912> <http://schema.org/name> "Asklepios : the journal of the International Asclepiad Society." .
+<http://www.worldcat.org/oclc/715558912> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://www.worldcat.org/oclc/715558912> <http://www.w3.org/2007/05/powder-s#describedby> <http://www.worldcat.org/title/-/oclc/715558912> .
+<http://www.worldcat.org/oclc/715558912> <http://schema.org/genre> "[périodique]" .
+<http://www.worldcat.org/oclc/715558912> <http://schema.org/productID> "715558912" .
+<http://www.worldcat.org/oclc/715558912> <http://schema.org/publisher> <http://experiment.worldcat.org/entity/work/data/54465342#Agent/southern_reprographics> .
+<http://www.worldcat.org/oclc/715558912> <http://purl.org/library/oclcnum> "715558912" .
+<http://www.worldcat.org/oclc/715558912> <http://schema.org/publication> <http://www.worldcat.org/title/-/oclc/715558912#PublicationEvent/burgess_hill_southern_reprographics_1981> .
+<http://www.worldcat.org/oclc/715558912> <http://purl.org/library/placeOfPublication> <http://experiment.worldcat.org/entity/work/data/54465342#Place/burgess_hill> .
+<http://www.worldcat.org/oclc/715558912> <http://schema.org/contributor> <http://viaf.org/viaf/136119004> .
+<http://www.worldcat.org/oclc/715558912> <http://schema.org/exampleOfWork> <http://worldcat.org/entity/work/id/54465342> .
+<http://www.worldcat.org/oclc/715558912> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/54465342#Topic/asclepiadaceae> .
+<http://www.worldcat.org/oclc/715558912> <http://purl.org/library/placeOfPublication> <http://id.loc.gov/vocabulary/countries/xxk> .
+<http://www.worldcat.org/oclc/715558912> <http://schema.org/workExample> <http://worldcat.org/issn/0260-9533> .
+<http://www.worldcat.org/oclc/715558912> <http://schema.org/inLanguage> "en" .
+<http://www.worldcat.org/oclc/715558912> <http://schema.org/datePublished> "1981/9999" .
+<http://worldcat.org/issn/0260-9533> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://worldcat.org/issn/0260-9533> <http://schema.org/name> "Asklepios : the journal of the International Asclepiad Society." .
+<http://worldcat.org/issn/0260-9533> <http://schema.org/issn> "0260-9533" .
+<http://worldcat.org/issn/0260-9533> <http://umbel.org/umbel#isLike> <http://worldcat.org/entity/work/id/54465342> .
+<http://worldcat.org/entity/work/id/54465342> <http://umbel.org/umbel#isLike> <http://worldcat.org/issn/0260-9533> .

@@ -1126,5 +1126,19 @@ if (0)
 
 }
 
+if (0)
+{
+	$url = 'http://coldb.mnhn.fr/catalognumber/mnhn/p/p04060480';
+	
+	$doc = resolve_url($url);	
+	
+	echo json_encode($doc, JSON_PRETTY_PRINT | JSON_UNESCAPED_SLASHES | JSON_UNESCAPED_UNICODE);
+	echo "\n";
+	
+	
+	
+
+}
+
 
 ?>

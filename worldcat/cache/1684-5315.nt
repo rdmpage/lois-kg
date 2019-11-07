@@ -1,0 +1,41 @@
+<http://www.worldcat.org/oclc/615044499> <http://schema.org/inLanguage> "en" .
+<http://www.worldcat.org/oclc/615044499> <http://schema.org/publisher> <http://experiment.worldcat.org/entity/work/data/8910540833#Agent/academic_journals> .
+<http://www.worldcat.org/oclc/615044499> <http://schema.org/url> <http://www.bibliothek.uni-regensburg.de/ezeit/?2104110> .
+<http://www.worldcat.org/oclc/615044499> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://www.worldcat.org/oclc/615044499> <http://schema.org/url> <http://www.academicjournals.org/AJB/Archive.htm> .
+<http://www.worldcat.org/oclc/615044499> <http://schema.org/datePublished> "2002/9999" .
+<http://www.worldcat.org/oclc/615044499> <http://schema.org/alternateName> "AJB" .
+<http://www.worldcat.org/oclc/615044499> <http://schema.org/url> <http://www.ajol.info/index.php/ajb/index> .
+<http://www.worldcat.org/oclc/615044499> <http://schema.org/publication> <http://www.worldcat.org/title/-/oclc/615044499#PublicationEvent/nairobi_kenya_academic_journals_2002> .
+<http://www.worldcat.org/oclc/615044499> <http://purl.org/library/placeOfPublication> <http://experiment.worldcat.org/entity/work/data/8910540833#Place/nairobi_kenya> .
+<http://www.worldcat.org/oclc/615044499> <http://schema.org/datePublished> "2002/" .
+<http://www.worldcat.org/oclc/615044499> <http://umbel.org/umbel#isLike> <http://d-nb.info/024400890> .
+<http://www.worldcat.org/oclc/615044499> <http://purl.org/library/oclcnum> "615044499" .
+<http://www.worldcat.org/oclc/615044499> <http://purl.org/library/placeOfPublication> <http://id.loc.gov/vocabulary/countries/ke> .
+<http://www.worldcat.org/oclc/615044499> <http://www.w3.org/2007/05/powder-s#describedby> <http://www.worldcat.org/title/-/oclc/615044499> .
+<http://www.worldcat.org/oclc/615044499> <http://schema.org/productID> "615044499" .
+<http://www.worldcat.org/oclc/615044499> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://www.worldcat.org/oclc/615044499> <http://schema.org/workExample> <http://worldcat.org/issn/1684-5315> .
+<http://www.worldcat.org/oclc/615044499> <http://schema.org/name> "African journal of biotechnology AJB." .
+<http://www.worldcat.org/oclc/615044499> <http://schema.org/exampleOfWork> <http://worldcat.org/entity/work/id/8910540833> .
+<http://experiment.worldcat.org/entity/work/data/8910540833#Agent/academic_journals> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bibliograph.net/Agent> .
+<http://experiment.worldcat.org/entity/work/data/8910540833#Agent/academic_journals> <http://schema.org/name> "Academic Journals" .
+<http://worldcat.org/entity/work/id/8910540833> <http://umbel.org/umbel#isLike> <http://worldcat.org/issn/1684-5315> .
+<http://www.worldcat.org/title/-/oclc/615044499#PublicationEvent/nairobi_kenya_academic_journals_2002> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PublicationEvent> .
+<http://www.worldcat.org/title/-/oclc/615044499#PublicationEvent/nairobi_kenya_academic_journals_2002> <http://schema.org/location> <http://experiment.worldcat.org/entity/work/data/8910540833#Place/nairobi_kenya> .
+<http://www.worldcat.org/title/-/oclc/615044499#PublicationEvent/nairobi_kenya_academic_journals_2002> <http://schema.org/organizer> <http://experiment.worldcat.org/entity/work/data/8910540833#Agent/academic_journals> .
+<http://www.worldcat.org/title/-/oclc/615044499#PublicationEvent/nairobi_kenya_academic_journals_2002> <http://schema.org/startDate> "2002-" .
+<http://worldcat.org/issn/1684-5315> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://worldcat.org/issn/1684-5315> <http://schema.org/name> "African journal of biotechnology AJB." .
+<http://worldcat.org/issn/1684-5315> <http://schema.org/issn> "1684-5315" .
+<http://worldcat.org/issn/1684-5315> <http://umbel.org/umbel#isLike> <http://worldcat.org/entity/work/id/8910540833> .
+<http://id.loc.gov/vocabulary/countries/ke> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://id.loc.gov/vocabulary/countries/ke> <http://purl.org/dc/terms/identifier> "ke" .
+<http://www.ajol.info/index.php/ajb/index> <http://www.w3.org/2000/01/rdf-schema#comment> "Kostenfrei" .
+<http://www.worldcat.org/title/-/oclc/615044499> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#ContentTypeGenericResource> .
+<http://www.worldcat.org/title/-/oclc/615044499> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#InformationResource> .
+<http://www.worldcat.org/title/-/oclc/615044499> <http://schema.org/about> <http://www.worldcat.org/oclc/615044499> .
+<http://www.worldcat.org/title/-/oclc/615044499> <http://schema.org/dateModified> "2019-02-15" .
+<http://www.worldcat.org/title/-/oclc/615044499> <http://rdfs.org/ns/void#inDataset> <http://purl.oclc.org/dataset/WorldCat> .
+<http://experiment.worldcat.org/entity/work/data/8910540833#Place/nairobi_kenya> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://experiment.worldcat.org/entity/work/data/8910540833#Place/nairobi_kenya> <http://schema.org/name> "Nairobi, Kenya" .

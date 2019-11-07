@@ -1,0 +1,59 @@
+<http://id.loc.gov/vocabulary/countries/onc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://id.loc.gov/vocabulary/countries/onc> <http://purl.org/dc/terms/identifier> "onc" .
+<http://experiment.worldcat.org/entity/work/data/1781955896#Place/ottawa> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://experiment.worldcat.org/entity/work/data/1781955896#Place/ottawa> <http://schema.org/name> "Ottawa" .
+<http://experiment.worldcat.org/entity/work/data/1781955896#Agent/les_presses_scientifiques_du_cnrc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bibliograph.net/Agent> .
+<http://experiment.worldcat.org/entity/work/data/1781955896#Agent/les_presses_scientifiques_du_cnrc> <http://schema.org/name> "Les Presses scientifiques du CNRC" .
+<http://experiment.worldcat.org/entity/work/data/1781955896#Topic/microbiologie> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/1781955896#Topic/microbiologie> <http://schema.org/name> "Microbiologie"@fr .
+<http://www.worldcat.org/title/-/oclc/869708578> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#ContentTypeGenericResource> .
+<http://www.worldcat.org/title/-/oclc/869708578> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#InformationResource> .
+<http://www.worldcat.org/title/-/oclc/869708578> <http://schema.org/about> <http://www.worldcat.org/oclc/869708578> .
+<http://www.worldcat.org/title/-/oclc/869708578> <http://schema.org/dateModified> "2019-02-09" .
+<http://www.worldcat.org/title/-/oclc/869708578> <http://rdfs.org/ns/void#inDataset> <http://purl.oclc.org/dataset/WorldCat> .
+<http://experiment.worldcat.org/entity/work/data/1781955896#Series/cbca_complete> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bibliograph.net/PublicationSeries> .
+<http://experiment.worldcat.org/entity/work/data/1781955896#Series/cbca_complete> <http://schema.org/hasPart> <http://www.worldcat.org/oclc/869708578> .
+<http://experiment.worldcat.org/entity/work/data/1781955896#Series/cbca_complete> <http://schema.org/name> "CBCA complete." .
+<http://experiment.worldcat.org/entity/work/data/1781955896#Series/cpi_q> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bibliograph.net/PublicationSeries> .
+<http://experiment.worldcat.org/entity/work/data/1781955896#Series/cpi_q> <http://schema.org/hasPart> <http://www.worldcat.org/oclc/869708578> .
+<http://experiment.worldcat.org/entity/work/data/1781955896#Series/cpi_q> <http://schema.org/name> "CPI. Q." .
+<http://opurl.bib.umontreal.ca:9003/sfx_local?rfr_id=info:sid/sfx:atrium&sfx.ignore_date_threshold=1&svc.fulltext=yes&rft.issn=0008-4166> <http://www.w3.org/2000/01/rdf-schema#comment> "Accès réservé UdeM" .
+<http://worldcat.org/issn/1480-3275> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://worldcat.org/issn/1480-3275> <http://schema.org/name> "Revue canadienne de microbiologie Canadian journal of microbiology." .
+<http://worldcat.org/issn/1480-3275> <http://schema.org/issn> "1480-3275" .
+<http://worldcat.org/issn/1480-3275> <http://umbel.org/umbel#isLike> <http://worldcat.org/entity/work/id/1781955896> .
+<http://www.worldcat.org/oclc/869708578> <http://schema.org/isPartOf> <http://experiment.worldcat.org/entity/work/data/1781955896#Series/cbca_complete> .
+<http://www.worldcat.org/oclc/869708578> <http://www.w3.org/2007/05/powder-s#describedby> <http://www.worldcat.org/title/-/oclc/869708578> .
+<http://www.worldcat.org/oclc/869708578> <http://schema.org/genre> "National government publication"@en .
+<http://www.worldcat.org/oclc/869708578> <http://purl.org/library/placeOfPublication> <http://id.loc.gov/vocabulary/countries/onc> .
+<http://www.worldcat.org/oclc/869708578> <http://schema.org/isPartOf> <http://experiment.worldcat.org/entity/work/data/1781955896#Series/cpi_q> .
+<http://www.worldcat.org/oclc/869708578> <http://schema.org/productID> "869708578" .
+<http://www.worldcat.org/oclc/869708578> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://www.worldcat.org/oclc/869708578> <http://schema.org/publication> <http://www.worldcat.org/title/-/oclc/869708578#PublicationEvent/ottawa_les_presses_scientifiques_du_cnrc_1998> .
+<http://www.worldcat.org/oclc/869708578> <http://schema.org/inLanguage> "en" .
+<http://www.worldcat.org/oclc/869708578> <http://schema.org/contributor> <http://experiment.worldcat.org/entity/work/data/1781955896#Organization/conseil_national_de_recherches_du_canada> .
+<http://www.worldcat.org/oclc/869708578> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/1781955896#Topic/microbiologie> .
+<http://www.worldcat.org/oclc/869708578> <http://schema.org/alternateName> "Canadian journal of microbiology" .
+<http://www.worldcat.org/oclc/869708578> <http://schema.org/datePublished> "1954/9999" .
+<http://www.worldcat.org/oclc/869708578> <http://schema.org/isSimilarTo> <http://worldcat.org/entity/work/data/1781955896#CreativeWork/canadian_journal_of_microbiology> .
+<http://www.worldcat.org/oclc/869708578> <http://purl.org/library/oclcnum> "869708578" .
+<http://www.worldcat.org/oclc/869708578> <http://schema.org/publisher> <http://experiment.worldcat.org/entity/work/data/1781955896#Agent/les_presses_scientifiques_du_cnrc> .
+<http://www.worldcat.org/oclc/869708578> <http://schema.org/genre> "Government publication"@en .
+<http://www.worldcat.org/oclc/869708578> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://www.worldcat.org/oclc/869708578> <http://schema.org/exampleOfWork> <http://worldcat.org/entity/work/id/1781955896> .
+<http://www.worldcat.org/oclc/869708578> <http://schema.org/url> <http://opurl.bib.umontreal.ca:9003/sfx_local?rfr_id=info:sid/sfx:atrium&sfx.ignore_date_threshold=1&svc.fulltext=yes&rft.issn=0008-4166> .
+<http://www.worldcat.org/oclc/869708578> <http://schema.org/name> "Revue canadienne de microbiologie Canadian journal of microbiology." .
+<http://www.worldcat.org/oclc/869708578> <http://schema.org/datePublished> "1998/" .
+<http://www.worldcat.org/oclc/869708578> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/MediaObject> .
+<http://www.worldcat.org/oclc/869708578> <http://schema.org/workExample> <http://worldcat.org/issn/1480-3275> .
+<http://www.worldcat.org/oclc/869708578> <http://purl.org/library/placeOfPublication> <http://experiment.worldcat.org/entity/work/data/1781955896#Place/ottawa> .
+<http://experiment.worldcat.org/entity/work/data/1781955896#Organization/conseil_national_de_recherches_du_canada> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+<http://experiment.worldcat.org/entity/work/data/1781955896#Organization/conseil_national_de_recherches_du_canada> <http://schema.org/name> "Conseil national de recherches du Canada." .
+<http://www.worldcat.org/title/-/oclc/869708578#PublicationEvent/ottawa_les_presses_scientifiques_du_cnrc_1998> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PublicationEvent> .
+<http://www.worldcat.org/title/-/oclc/869708578#PublicationEvent/ottawa_les_presses_scientifiques_du_cnrc_1998> <http://schema.org/location> <http://experiment.worldcat.org/entity/work/data/1781955896#Place/ottawa> .
+<http://www.worldcat.org/title/-/oclc/869708578#PublicationEvent/ottawa_les_presses_scientifiques_du_cnrc_1998> <http://schema.org/organizer> <http://experiment.worldcat.org/entity/work/data/1781955896#Agent/les_presses_scientifiques_du_cnrc> .
+<http://www.worldcat.org/title/-/oclc/869708578#PublicationEvent/ottawa_les_presses_scientifiques_du_cnrc_1998> <http://schema.org/startDate> "1998-" .
+<http://worldcat.org/entity/work/data/1781955896#CreativeWork/canadian_journal_of_microbiology> <http://schema.org/isSimilarTo> <http://www.worldcat.org/oclc/869708578> .
+<http://worldcat.org/entity/work/data/1781955896#CreativeWork/canadian_journal_of_microbiology> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://worldcat.org/entity/work/data/1781955896#CreativeWork/canadian_journal_of_microbiology> <http://www.w3.org/2000/01/rdf-schema#label> "Canadian journal of microbiology" .
+<http://worldcat.org/entity/work/id/1781955896> <http://umbel.org/umbel#isLike> <http://worldcat.org/issn/1480-3275> .

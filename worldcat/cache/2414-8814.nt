@@ -1,0 +1,56 @@
+<http://www.worldcat.org/oclc/1049154793> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/5393073452#Topic/plants> .
+<http://www.worldcat.org/oclc/1049154793> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://www.worldcat.org/oclc/1049154793> <http://schema.org/datePublished> "2016/9999" .
+<http://www.worldcat.org/oclc/1049154793> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/5393073452#Place/peru> .
+<http://www.worldcat.org/oclc/1049154793> <http://schema.org/name> "Weberbauerella : a journal on botanical curiosities"@en .
+<http://www.worldcat.org/oclc/1049154793> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/5393073452#Place/south_america> .
+<http://www.worldcat.org/oclc/1049154793> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/5393073452#Topic/plants_south_america> .
+<http://www.worldcat.org/oclc/1049154793> <http://schema.org/contributor> <http://experiment.worldcat.org/entity/work/data/5393073452#Organization/universidad_nacional_agraria_peru> .
+<http://www.worldcat.org/oclc/1049154793> <http://www.w3.org/2007/05/powder-s#describedby> <http://www.worldcat.org/title/-/oclc/1049154793> .
+<http://www.worldcat.org/oclc/1049154793> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/5393073452#Topic/botany_south_america> .
+<http://www.worldcat.org/oclc/1049154793> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/5393073452#Topic/plants_peru> .
+<http://www.worldcat.org/oclc/1049154793> <http://schema.org/workExample> <http://worldcat.org/issn/2414-8814> .
+<http://www.worldcat.org/oclc/1049154793> <http://schema.org/contributor> <http://experiment.worldcat.org/entity/work/data/5393073452#Person/sanchez_ocharan_carlos> .
+<http://www.worldcat.org/oclc/1049154793> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/5393073452#Topic/botany_peru> .
+<http://www.worldcat.org/oclc/1049154793> <http://schema.org/inLanguage> "en" .
+<http://www.worldcat.org/oclc/1049154793> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/5393073452#Topic/botany> .
+<http://www.worldcat.org/oclc/1049154793> <http://purl.org/library/placeOfPublication> <http://id.loc.gov/vocabulary/countries/pe> .
+<http://www.worldcat.org/oclc/1049154793> <http://schema.org/exampleOfWork> <http://worldcat.org/entity/work/id/5393073452> .
+<http://www.worldcat.org/oclc/1049154793> <http://schema.org/genre> "Periodicals"@en .
+<http://www.worldcat.org/oclc/1049154793> <http://schema.org/productID> "1049154793" .
+<http://www.worldcat.org/oclc/1049154793> <http://purl.org/library/oclcnum> "1049154793" .
+<http://www.worldcat.org/oclc/1049154793> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://experiment.worldcat.org/entity/work/data/5393073452#Place/south_america> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://experiment.worldcat.org/entity/work/data/5393073452#Place/south_america> <http://schema.org/name> "South America." .
+<http://experiment.worldcat.org/entity/work/data/5393073452#Person/sanchez_ocharan_carlos> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+<http://experiment.worldcat.org/entity/work/data/5393073452#Person/sanchez_ocharan_carlos> <http://schema.org/familyName> "Sánchez Ocharan" .
+<http://experiment.worldcat.org/entity/work/data/5393073452#Person/sanchez_ocharan_carlos> <http://schema.org/givenName> "Carlos" .
+<http://experiment.worldcat.org/entity/work/data/5393073452#Person/sanchez_ocharan_carlos> <http://schema.org/name> "Carlos Sánchez Ocharan" .
+<http://experiment.worldcat.org/entity/work/data/5393073452#Place/peru> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://experiment.worldcat.org/entity/work/data/5393073452#Place/peru> <http://schema.org/name> "Peru." .
+<http://experiment.worldcat.org/entity/work/data/5393073452#Topic/botany_peru> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/5393073452#Topic/botany_peru> <http://schema.org/name> "Botany--Peru"@en .
+<http://experiment.worldcat.org/entity/work/data/5393073452#Topic/plants_south_america> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/5393073452#Topic/plants_south_america> <http://schema.org/name> "Plants--South America"@en .
+<http://worldcat.org/entity/work/id/5393073452> <http://umbel.org/umbel#isLike> <http://worldcat.org/issn/2414-8814> .
+<http://experiment.worldcat.org/entity/work/data/5393073452#Topic/plants_peru> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/5393073452#Topic/plants_peru> <http://schema.org/name> "Plants--Peru"@en .
+<http://id.loc.gov/vocabulary/countries/pe> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://id.loc.gov/vocabulary/countries/pe> <http://purl.org/dc/terms/identifier> "pe" .
+<http://worldcat.org/issn/2414-8814> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://worldcat.org/issn/2414-8814> <http://schema.org/name> "Weberbauerella : a journal on botanical curiosities"@en .
+<http://worldcat.org/issn/2414-8814> <http://schema.org/issn> "2414-8814" .
+<http://worldcat.org/issn/2414-8814> <http://umbel.org/umbel#isLike> <http://worldcat.org/entity/work/id/5393073452> .
+<http://experiment.worldcat.org/entity/work/data/5393073452#Topic/plants> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/5393073452#Topic/plants> <http://schema.org/name> "Plants"@en .
+<http://www.worldcat.org/title/-/oclc/1049154793> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#ContentTypeGenericResource> .
+<http://www.worldcat.org/title/-/oclc/1049154793> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#InformationResource> .
+<http://www.worldcat.org/title/-/oclc/1049154793> <http://schema.org/about> <http://www.worldcat.org/oclc/1049154793> .
+<http://www.worldcat.org/title/-/oclc/1049154793> <http://schema.org/dateModified> "2018-11-10" .
+<http://www.worldcat.org/title/-/oclc/1049154793> <http://rdfs.org/ns/void#inDataset> <http://purl.oclc.org/dataset/WorldCat> .
+<http://experiment.worldcat.org/entity/work/data/5393073452#Organization/universidad_nacional_agraria_peru> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+<http://experiment.worldcat.org/entity/work/data/5393073452#Organization/universidad_nacional_agraria_peru> <http://schema.org/name> "Universidad Nacional Agraria (Peru)" .
+<http://experiment.worldcat.org/entity/work/data/5393073452#Topic/botany> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/5393073452#Topic/botany> <http://schema.org/name> "Botany"@en .
+<http://experiment.worldcat.org/entity/work/data/5393073452#Topic/botany_south_america> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/5393073452#Topic/botany_south_america> <http://schema.org/name> "Botany--South America"@en .

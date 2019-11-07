@@ -1,0 +1,43 @@
+<http://experiment.worldcat.org/entity/work/data/3372973336#Thing/botany> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> .
+<http://experiment.worldcat.org/entity/work/data/3372973336#Thing/botany> <http://schema.org/name> "Botany" .
+<http://experiment.worldcat.org/entity/work/data/3372973336#Thing/botany> <http://schema.org/name> "Botany." .
+<http://www.worldcat.org/title/-/oclc/969759485> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#ContentTypeGenericResource> .
+<http://www.worldcat.org/title/-/oclc/969759485> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#InformationResource> .
+<http://www.worldcat.org/title/-/oclc/969759485> <http://schema.org/about> <http://www.worldcat.org/oclc/969759485> .
+<http://www.worldcat.org/title/-/oclc/969759485> <http://schema.org/dateModified> "2019-02-10" .
+<http://www.worldcat.org/title/-/oclc/969759485> <http://rdfs.org/ns/void#inDataset> <http://purl.oclc.org/dataset/WorldCat> .
+<http://experiment.worldcat.org/entity/work/data/3372973336#Thing/brazil> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> .
+<http://experiment.worldcat.org/entity/work/data/3372973336#Thing/brazil> <http://schema.org/name> "Brazil" .
+<http://experiment.worldcat.org/entity/work/data/3372973336#Organization/fundacao_zoobotanica_do_rio_grande_do_sul_museu_de_ciencias_naturais> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+<http://experiment.worldcat.org/entity/work/data/3372973336#Organization/fundacao_zoobotanica_do_rio_grande_do_sul_museu_de_ciencias_naturais> <http://schema.org/name> "Fundação Zoobotânica do Rio Grande do Sul. Museu de Ciências Naturais." .
+<http://experiment.worldcat.org/entity/work/data/3372973336#Place/porto_alegre_brazil> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://experiment.worldcat.org/entity/work/data/3372973336#Place/porto_alegre_brazil> <http://schema.org/name> "Pôrto Alegre Brazil" .
+<http://XV9LX6CM3J.search.serialssolutions.com/?V=1.0&L=XV9LX6CM3J&S=JCs&C=TC0000578967&T=marc> <http://www.w3.org/2000/01/rdf-schema#comment> "Versió electrònica" .
+<http://id.loc.gov/vocabulary/countries/bl> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://id.loc.gov/vocabulary/countries/bl> <http://purl.org/dc/terms/identifier> "bl" .
+<http://www.worldcat.org/oclc/969759485> <http://schema.org/productID> "969759485" .
+<http://www.worldcat.org/oclc/969759485> <http://schema.org/exampleOfWork> <http://worldcat.org/entity/work/id/3372973336> .
+<http://www.worldcat.org/oclc/969759485> <http://schema.org/inLanguage> "en" .
+<http://www.worldcat.org/oclc/969759485> <http://schema.org/contributor> <http://experiment.worldcat.org/entity/work/data/3372973336#Organization/museu_rio_grandense_de_ciencias_naturais> .
+<http://www.worldcat.org/oclc/969759485> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/3372973336#Thing/botany> .
+<http://www.worldcat.org/oclc/969759485> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/3372973336#Thing/brazil> .
+<http://www.worldcat.org/oclc/969759485> <http://schema.org/datePublished> "19uu/9999" .
+<http://www.worldcat.org/oclc/969759485> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://www.worldcat.org/oclc/969759485> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/MediaObject> .
+<http://www.worldcat.org/oclc/969759485> <http://schema.org/publisher> <http://experiment.worldcat.org/entity/work/data/3372973336#Agent/museu_de_ciencias_naturais_da_fundacao_zoobotanica_do_rio_grande_do_sul> .
+<http://www.worldcat.org/oclc/969759485> <http://purl.org/library/placeOfPublication> <http://id.loc.gov/vocabulary/countries/bl> .
+<http://www.worldcat.org/oclc/969759485> <http://purl.org/library/placeOfPublication> <http://experiment.worldcat.org/entity/work/data/3372973336#Place/porto_alegre_brazil> .
+<http://www.worldcat.org/oclc/969759485> <http://schema.org/url> <http://XV9LX6CM3J.search.serialssolutions.com/?V=1.0&L=XV9LX6CM3J&S=JCs&C=TC0000578967&T=marc> .
+<http://www.worldcat.org/oclc/969759485> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://www.worldcat.org/oclc/969759485> <http://schema.org/name> "Iheringia. Série botânica" .
+<http://www.worldcat.org/oclc/969759485> <http://www.w3.org/2007/05/powder-s#describedby> <http://www.worldcat.org/title/-/oclc/969759485> .
+<http://www.worldcat.org/oclc/969759485> <http://purl.org/library/oclcnum> "969759485" .
+<http://www.worldcat.org/oclc/969759485> <http://schema.org/publication> <http://www.worldcat.org/title/-/oclc/969759485#PublicationEvent/porto_alegre_brazil_museu_de_ciencias_naturais_da_fundacao_zoobotanica_do_rio_grande_do_sul> .
+<http://www.worldcat.org/oclc/969759485> <http://schema.org/contributor> <http://experiment.worldcat.org/entity/work/data/3372973336#Organization/fundacao_zoobotanica_do_rio_grande_do_sul_museu_de_ciencias_naturais> .
+<http://experiment.worldcat.org/entity/work/data/3372973336#Agent/museu_de_ciencias_naturais_da_fundacao_zoobotanica_do_rio_grande_do_sul> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bibliograph.net/Agent> .
+<http://experiment.worldcat.org/entity/work/data/3372973336#Agent/museu_de_ciencias_naturais_da_fundacao_zoobotanica_do_rio_grande_do_sul> <http://schema.org/name> "Museu de Ciências Naturais da Fundação Zoobotânica do Rio Grande do Sul." .
+<http://www.worldcat.org/title/-/oclc/969759485#PublicationEvent/porto_alegre_brazil_museu_de_ciencias_naturais_da_fundacao_zoobotanica_do_rio_grande_do_sul> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PublicationEvent> .
+<http://www.worldcat.org/title/-/oclc/969759485#PublicationEvent/porto_alegre_brazil_museu_de_ciencias_naturais_da_fundacao_zoobotanica_do_rio_grande_do_sul> <http://schema.org/location> <http://experiment.worldcat.org/entity/work/data/3372973336#Place/porto_alegre_brazil> .
+<http://www.worldcat.org/title/-/oclc/969759485#PublicationEvent/porto_alegre_brazil_museu_de_ciencias_naturais_da_fundacao_zoobotanica_do_rio_grande_do_sul> <http://schema.org/organizer> <http://experiment.worldcat.org/entity/work/data/3372973336#Agent/museu_de_ciencias_naturais_da_fundacao_zoobotanica_do_rio_grande_do_sul> .
+<http://experiment.worldcat.org/entity/work/data/3372973336#Organization/museu_rio_grandense_de_ciencias_naturais> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+<http://experiment.worldcat.org/entity/work/data/3372973336#Organization/museu_rio_grandense_de_ciencias_naturais> <http://schema.org/name> "Museu Rio-Grandense de Ciências Naturais." .

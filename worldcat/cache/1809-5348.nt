@@ -1,0 +1,47 @@
+<http://experiment.worldcat.org/entity/work/data/4574522161#Place/feira_de_santana_bahia_brazil> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://experiment.worldcat.org/entity/work/data/4574522161#Place/feira_de_santana_bahia_brazil> <http://schema.org/name> "Feira de Santana, Bahia, Brazil" .
+<http://id.worldcat.org/fast/1429860> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://id.worldcat.org/fast/1429860> <http://schema.org/name> "Biodiversity"@en .
+<http://id.worldcat.org/fast/1245945> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://id.worldcat.org/fast/1245945> <http://schema.org/name> "Latin America." .
+<http://experiment.worldcat.org/entity/work/data/4574522161#Agent/neodiversity> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bibliograph.net/Agent> .
+<http://experiment.worldcat.org/entity/work/data/4574522161#Agent/neodiversity> <http://schema.org/name> "Neodiversity" .
+<http://www.worldcat.org/oclc/71675569> <http://schema.org/isSimilarTo> <http://www.worldcat.org/oclc/191872127> .
+<http://www.worldcat.org/oclc/71675569> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://www.worldcat.org/oclc/71675569> <http://www.w3.org/2000/01/rdf-schema#label> "Neodiversity" .
+<http://www.worldcat.org/oclc/71675569> <http://schema.org/description> "Print version:" .
+<http://id.loc.gov/vocabulary/countries/bl> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://id.loc.gov/vocabulary/countries/bl> <http://purl.org/dc/terms/identifier> "bl" .
+<http://www.worldcat.org/title/-/oclc/191872127#PublicationEvent/feira_de_santana_bahia_brazil_neodiversity_2006> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PublicationEvent> .
+<http://www.worldcat.org/title/-/oclc/191872127#PublicationEvent/feira_de_santana_bahia_brazil_neodiversity_2006> <http://schema.org/location> <http://experiment.worldcat.org/entity/work/data/4574522161#Place/feira_de_santana_bahia_brazil> .
+<http://www.worldcat.org/title/-/oclc/191872127#PublicationEvent/feira_de_santana_bahia_brazil_neodiversity_2006> <http://schema.org/organizer> <http://experiment.worldcat.org/entity/work/data/4574522161#Agent/neodiversity> .
+<http://www.worldcat.org/title/-/oclc/191872127#PublicationEvent/feira_de_santana_bahia_brazil_neodiversity_2006> <http://schema.org/startDate> "2006-" .
+<http://www.worldcat.org/oclc/191872127> <http://purl.org/library/placeOfPublication> <http://id.loc.gov/vocabulary/countries/bl> .
+<http://www.worldcat.org/oclc/191872127> <http://schema.org/publisher> <http://experiment.worldcat.org/entity/work/data/4574522161#Agent/neodiversity> .
+<http://www.worldcat.org/oclc/191872127> <http://schema.org/datePublished> "2006/9999" .
+<http://www.worldcat.org/oclc/191872127> <http://schema.org/about> <http://id.worldcat.org/fast/1245945> .
+<http://www.worldcat.org/oclc/191872127> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://www.worldcat.org/oclc/191872127> <http://www.w3.org/2007/05/powder-s#describedby> <http://www.worldcat.org/title/-/oclc/191872127> .
+<http://www.worldcat.org/oclc/191872127> <http://purl.org/library/placeOfPublication> <http://experiment.worldcat.org/entity/work/data/4574522161#Place/feira_de_santana_bahia_brazil> .
+<http://www.worldcat.org/oclc/191872127> <http://schema.org/isSimilarTo> <http://www.worldcat.org/oclc/71675569> .
+<http://www.worldcat.org/oclc/191872127> <http://schema.org/productID> "191872127" .
+<http://www.worldcat.org/oclc/191872127> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://www.worldcat.org/oclc/191872127> <http://schema.org/name> "Neodiversity."@en .
+<http://www.worldcat.org/oclc/191872127> <http://schema.org/inLanguage> "en" .
+<http://www.worldcat.org/oclc/191872127> <http://schema.org/genre> "Periodicals"@en .
+<http://www.worldcat.org/oclc/191872127> <http://schema.org/datePublished> "2006/" .
+<http://www.worldcat.org/oclc/191872127> <http://schema.org/about> <http://id.worldcat.org/fast/1429860> .
+<http://www.worldcat.org/oclc/191872127> <http://schema.org/exampleOfWork> <http://worldcat.org/entity/work/id/4574522161> .
+<http://www.worldcat.org/oclc/191872127> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/MediaObject> .
+<http://www.worldcat.org/oclc/191872127> <http://schema.org/publication> <http://www.worldcat.org/title/-/oclc/191872127#PublicationEvent/feira_de_santana_bahia_brazil_neodiversity_2006> .
+<http://www.worldcat.org/oclc/191872127> <http://schema.org/url> <http://www.neodiversity.org/index.html> .
+<http://www.worldcat.org/oclc/191872127> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/4574522161#Topic/biodiversity_latin_america> .
+<http://www.worldcat.org/oclc/191872127> <http://purl.org/library/oclcnum> "191872127" .
+<http://experiment.worldcat.org/entity/work/data/4574522161#Topic/biodiversity_latin_america> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/4574522161#Topic/biodiversity_latin_america> <http://schema.org/hasPart> <http://id.loc.gov/authorities/subjects/sh87005569> .
+<http://experiment.worldcat.org/entity/work/data/4574522161#Topic/biodiversity_latin_america> <http://schema.org/name> "Biodiversity--Latin America"@en .
+<http://www.worldcat.org/title/-/oclc/191872127> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#ContentTypeGenericResource> .
+<http://www.worldcat.org/title/-/oclc/191872127> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#InformationResource> .
+<http://www.worldcat.org/title/-/oclc/191872127> <http://schema.org/about> <http://www.worldcat.org/oclc/191872127> .
+<http://www.worldcat.org/title/-/oclc/191872127> <http://schema.org/dateModified> "2019-02-08" .
+<http://www.worldcat.org/title/-/oclc/191872127> <http://rdfs.org/ns/void#inDataset> <http://purl.oclc.org/dataset/WorldCat> .

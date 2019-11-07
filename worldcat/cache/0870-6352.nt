@@ -1,0 +1,39 @@
+<http://experiment.worldcat.org/entity/work/data/39100313#Topic/forests_and_forestry_portugal> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/39100313#Topic/forests_and_forestry_portugal> <http://schema.org/hasPart> <http://id.loc.gov/authorities/subjects/sh85050707> .
+<http://experiment.worldcat.org/entity/work/data/39100313#Topic/forests_and_forestry_portugal> <http://schema.org/name> "Forests and forestry--Portugal" .
+<http://www.worldcat.org/oclc/240897392> <http://schema.org/about> <http://id.worldcat.org/fast/1155984> .
+<http://www.worldcat.org/oclc/240897392> <http://schema.org/about> <http://id.worldcat.org/fast/932632> .
+<http://www.worldcat.org/oclc/240897392> <http://schema.org/name> "Silva Lusitana." .
+<http://www.worldcat.org/oclc/240897392> <http://purl.org/library/oclcnum> "240897392" .
+<http://www.worldcat.org/oclc/240897392> <http://www.w3.org/2007/05/powder-s#describedby> <http://www.worldcat.org/title/-/oclc/240897392> .
+<http://www.worldcat.org/oclc/240897392> <http://schema.org/about> <http://id.worldcat.org/fast/1208476> .
+<http://www.worldcat.org/oclc/240897392> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/MediaObject> .
+<http://www.worldcat.org/oclc/240897392> <http://schema.org/url> <http://cufts2.lib.sfu.ca/CJDB/BVAS/journal/257857> .
+<http://www.worldcat.org/oclc/240897392> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/39100313#Topic/trees_portugal> .
+<http://www.worldcat.org/oclc/240897392> <http://schema.org/genre> "Periodicals" .
+<http://www.worldcat.org/oclc/240897392> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/39100313#Topic/forests_and_forestry_portugal> .
+<http://www.worldcat.org/oclc/240897392> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://www.worldcat.org/oclc/240897392> <http://schema.org/productID> "240897392" .
+<http://www.worldcat.org/oclc/240897392> <http://schema.org/inLanguage> "zxx" .
+<http://www.worldcat.org/oclc/240897392> <http://schema.org/exampleOfWork> <http://worldcat.org/entity/work/id/39100313> .
+<http://www.worldcat.org/oclc/240897392> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://www.worldcat.org/oclc/240897392> <http://schema.org/workExample> <http://worldcat.org/issn/0870-6352> .
+<http://id.worldcat.org/fast/1208476> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://id.worldcat.org/fast/1208476> <http://schema.org/name> "Portugal." .
+<http://id.worldcat.org/fast/1155984> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://id.worldcat.org/fast/1155984> <http://schema.org/name> "Trees" .
+<http://experiment.worldcat.org/entity/work/data/39100313#Topic/trees_portugal> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/39100313#Topic/trees_portugal> <http://schema.org/hasPart> <http://id.loc.gov/authorities/subjects/sh85137241> .
+<http://experiment.worldcat.org/entity/work/data/39100313#Topic/trees_portugal> <http://schema.org/name> "Trees--Portugal" .
+<http://id.worldcat.org/fast/932632> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://id.worldcat.org/fast/932632> <http://schema.org/name> "Forests and forestry" .
+<http://worldcat.org/issn/0870-6352> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://worldcat.org/issn/0870-6352> <http://schema.org/name> "Silva Lusitana." .
+<http://worldcat.org/issn/0870-6352> <http://schema.org/issn> "0870-6352" .
+<http://worldcat.org/issn/0870-6352> <http://umbel.org/umbel#isLike> <http://worldcat.org/entity/work/id/39100313> .
+<http://worldcat.org/entity/work/id/39100313> <http://umbel.org/umbel#isLike> <http://worldcat.org/issn/0870-6352> .
+<http://www.worldcat.org/title/-/oclc/240897392> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#ContentTypeGenericResource> .
+<http://www.worldcat.org/title/-/oclc/240897392> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#InformationResource> .
+<http://www.worldcat.org/title/-/oclc/240897392> <http://schema.org/about> <http://www.worldcat.org/oclc/240897392> .
+<http://www.worldcat.org/title/-/oclc/240897392> <http://schema.org/dateModified> "2019-02-09" .
+<http://www.worldcat.org/title/-/oclc/240897392> <http://rdfs.org/ns/void#inDataset> <http://purl.oclc.org/dataset/WorldCat> .

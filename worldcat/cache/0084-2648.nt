@@ -1,0 +1,76 @@
+<http://experiment.worldcat.org/entity/work/data/1152980682#Topic/plants_america> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/1152980682#Topic/plants_america> <http://schema.org/hasPart> <http://id.loc.gov/authorities/subjects/sh85102839> .
+<http://experiment.worldcat.org/entity/work/data/1152980682#Topic/plants_america> <http://schema.org/name> "Plants--America"@en .
+<http://viaf.org/viaf/295891507> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+<http://viaf.org/viaf/295891507> <http://schema.org/name> "Southern Methodist University." .
+<http://www.worldcat.org/oclc/1770223> <http://schema.org/name> "Wrightia."@en .
+<http://www.worldcat.org/oclc/1770223> <http://schema.org/genre> "Periodicals"@en .
+<http://www.worldcat.org/oclc/1770223> <http://schema.org/workExample> <http://worldcat.org/issn/0084-2648> .
+<http://www.worldcat.org/oclc/1770223> <http://schema.org/about> <http://dewey.info/class/581/> .
+<http://www.worldcat.org/oclc/1770223> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://www.worldcat.org/oclc/1770223> <http://purl.org/library/oclcnum> "1770223" .
+<http://www.worldcat.org/oclc/1770223> <http://schema.org/contributor> <http://viaf.org/viaf/158863595> .
+<http://www.worldcat.org/oclc/1770223> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/1152980682#Topic/botany> .
+<http://www.worldcat.org/oclc/1770223> <http://schema.org/contributor> <http://viaf.org/viaf/295891507> .
+<http://www.worldcat.org/oclc/1770223> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/1152980682#Topic/plants_america> .
+<http://www.worldcat.org/oclc/1770223> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://www.worldcat.org/oclc/1770223> <http://schema.org/isSimilarTo> <http://www.worldcat.org/oclc/570941796> .
+<http://www.worldcat.org/oclc/1770223> <http://schema.org/publisher> <http://experiment.worldcat.org/entity/work/data/1152980682#Agent/university_of_texas_at_dallas> .
+<http://www.worldcat.org/oclc/1770223> <http://purl.org/library/placeOfPublication> <http://experiment.worldcat.org/entity/work/data/1152980682#Place/richardson_tex> .
+<http://www.worldcat.org/oclc/1770223> <http://purl.org/library/placeOfPublication> <http://id.loc.gov/vocabulary/countries/txu> .
+<http://www.worldcat.org/oclc/1770223> <http://schema.org/genre> "Electronic journals"@en .
+<http://www.worldcat.org/oclc/1770223> <http://www.w3.org/2007/05/powder-s#describedby> <http://www.worldcat.org/title/-/oclc/1770223> .
+<http://www.worldcat.org/oclc/1770223> <http://schema.org/exampleOfWork> <http://worldcat.org/entity/work/id/1152980682> .
+<http://www.worldcat.org/oclc/1770223> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/1152980682#Topic/plants> .
+<http://www.worldcat.org/oclc/1770223> <http://schema.org/inLanguage> "en" .
+<http://www.worldcat.org/oclc/1770223> <http://schema.org/about> <http://id.loc.gov/authorities/subjects/sh2009117438> .
+<http://www.worldcat.org/oclc/1770223> <http://schema.org/publication> <http://www.worldcat.org/title/-/oclc/1770223#PublicationEvent/richardson_tex_university_of_texas_at_dallas> .
+<http://www.worldcat.org/oclc/1770223> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/1152980682#Topic/plantkunde> .
+<http://www.worldcat.org/oclc/1770223> <http://schema.org/about> <http://id.worldcat.org/fast/1239786> .
+<http://www.worldcat.org/oclc/1770223> <http://schema.org/isSimilarTo> <http://www.worldcat.org/oclc/607793531> .
+<http://www.worldcat.org/oclc/1770223> <http://schema.org/contributor> <http://viaf.org/viaf/125412983> .
+<http://www.worldcat.org/oclc/1770223> <http://schema.org/productID> "1770223" .
+<http://www.worldcat.org/oclc/1770223> <http://schema.org/datePublished> "1945/1984" .
+<http://viaf.org/viaf/158863595> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+<http://viaf.org/viaf/158863595> <http://schema.org/name> "Texas Research Foundation." .
+<http://dewey.info/class/581/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://www.worldcat.org/title/-/oclc/1770223> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#ContentTypeGenericResource> .
+<http://www.worldcat.org/title/-/oclc/1770223> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#InformationResource> .
+<http://www.worldcat.org/title/-/oclc/1770223> <http://schema.org/about> <http://www.worldcat.org/oclc/1770223> .
+<http://www.worldcat.org/title/-/oclc/1770223> <http://schema.org/dateModified> "2019-03-21" .
+<http://www.worldcat.org/title/-/oclc/1770223> <http://rdfs.org/ns/void#inDataset> <http://purl.oclc.org/dataset/WorldCat> .
+<http://www.worldcat.org/oclc/607793531> <http://schema.org/isSimilarTo> <http://www.worldcat.org/oclc/1770223> .
+<http://www.worldcat.org/oclc/607793531> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://www.worldcat.org/oclc/607793531> <http://www.w3.org/2000/01/rdf-schema#label> "Wrightia" .
+<http://www.worldcat.org/oclc/607793531> <http://schema.org/description> "Online version:" .
+<http://experiment.worldcat.org/entity/work/data/1152980682#Place/richardson_tex> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://experiment.worldcat.org/entity/work/data/1152980682#Place/richardson_tex> <http://schema.org/name> "Richardson, Tex." .
+<http://worldcat.org/entity/work/id/1152980682> <http://umbel.org/umbel#isLike> <http://worldcat.org/issn/0084-2648> .
+<http://worldcat.org/issn/0084-2648> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://worldcat.org/issn/0084-2648> <http://schema.org/name> "Wrightia."@en .
+<http://worldcat.org/issn/0084-2648> <http://schema.org/issn> "0084-2648" .
+<http://worldcat.org/issn/0084-2648> <http://umbel.org/umbel#isLike> <http://worldcat.org/entity/work/id/1152980682> .
+<http://id.loc.gov/vocabulary/countries/txu> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://id.loc.gov/vocabulary/countries/txu> <http://purl.org/dc/terms/identifier> "txu" .
+<http://www.worldcat.org/oclc/570941796> <http://schema.org/isSimilarTo> <http://www.worldcat.org/oclc/1770223> .
+<http://www.worldcat.org/oclc/570941796> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://www.worldcat.org/oclc/570941796> <http://www.w3.org/2000/01/rdf-schema#label> "Wrightia" .
+<http://www.worldcat.org/oclc/570941796> <http://schema.org/description> "Online version:" .
+<http://www.worldcat.org/title/-/oclc/1770223#PublicationEvent/richardson_tex_university_of_texas_at_dallas> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PublicationEvent> .
+<http://www.worldcat.org/title/-/oclc/1770223#PublicationEvent/richardson_tex_university_of_texas_at_dallas> <http://schema.org/location> <http://experiment.worldcat.org/entity/work/data/1152980682#Place/richardson_tex> .
+<http://www.worldcat.org/title/-/oclc/1770223#PublicationEvent/richardson_tex_university_of_texas_at_dallas> <http://schema.org/organizer> <http://experiment.worldcat.org/entity/work/data/1152980682#Agent/university_of_texas_at_dallas> .
+<http://experiment.worldcat.org/entity/work/data/1152980682#Topic/plantkunde> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/1152980682#Topic/plantkunde> <http://schema.org/name> "Plantkunde"@en .
+<http://id.loc.gov/authorities/subjects/sh2009117438> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://id.loc.gov/authorities/subjects/sh2009117438> <http://schema.org/name> "Botany--America"@en .
+<http://experiment.worldcat.org/entity/work/data/1152980682#Topic/botany> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/1152980682#Topic/botany> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://id.loc.gov/authorities/subjects/sh2007102112> .
+<http://experiment.worldcat.org/entity/work/data/1152980682#Topic/botany> <http://schema.org/name> "Botany"@en .
+<http://id.worldcat.org/fast/1239786> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://id.worldcat.org/fast/1239786> <http://schema.org/name> "America." .
+<http://experiment.worldcat.org/entity/work/data/1152980682#Agent/university_of_texas_at_dallas> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bibliograph.net/Agent> .
+<http://experiment.worldcat.org/entity/work/data/1152980682#Agent/university_of_texas_at_dallas> <http://schema.org/name> "University of Texas at Dallas." .
+<http://experiment.worldcat.org/entity/work/data/1152980682#Topic/plants> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/1152980682#Topic/plants> <http://schema.org/name> "Plants"@en .
+<http://viaf.org/viaf/125412983> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+<http://viaf.org/viaf/125412983> <http://schema.org/name> "University of Texas at Dallas." .

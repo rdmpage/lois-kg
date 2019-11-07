@@ -1,0 +1,42 @@
+<http://www.worldcat.org/title/-/oclc/741262996#PublicationEvent/bruxelles_1990_2010> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PublicationEvent> .
+<http://www.worldcat.org/title/-/oclc/741262996#PublicationEvent/bruxelles_1990_2010> <http://schema.org/location> <http://experiment.worldcat.org/entity/work/data/2999360182#Place/bruxelles> .
+<http://www.worldcat.org/title/-/oclc/741262996#PublicationEvent/bruxelles_1990_2010> <http://schema.org/startDate> "1990-2010" .
+<http://www.worldcat.org/oclc/741262996> <http://purl.org/library/placeOfPublication> <http://id.loc.gov/vocabulary/countries/be> .
+<http://www.worldcat.org/oclc/741262996> <http://schema.org/contributor> <http://viaf.org/viaf/159308115> .
+<http://www.worldcat.org/oclc/741262996> <http://schema.org/url> <http://www.jstor.org/action/showPublication?journalCode=belgjbota> .
+<http://www.worldcat.org/oclc/741262996> <http://schema.org/inLanguage> "en" .
+<http://www.worldcat.org/oclc/741262996> <http://www.w3.org/2007/05/powder-s#describedby> <http://www.worldcat.org/title/-/oclc/741262996> .
+<http://www.worldcat.org/oclc/741262996> <http://schema.org/name> "Belgian journal of botany."@en .
+<http://www.worldcat.org/oclc/741262996> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://www.worldcat.org/oclc/741262996> <http://purl.org/library/placeOfPublication> <http://experiment.worldcat.org/entity/work/data/2999360182#Place/bruxelles> .
+<http://www.worldcat.org/oclc/741262996> <http://schema.org/exampleOfWork> <http://worldcat.org/entity/work/id/2999360182> .
+<http://www.worldcat.org/oclc/741262996> <http://schema.org/productID> "741262996" .
+<http://www.worldcat.org/oclc/741262996> <http://schema.org/publication> <http://www.worldcat.org/title/-/oclc/741262996#PublicationEvent/bruxelles_1990_2010> .
+<http://www.worldcat.org/oclc/741262996> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/MediaObject> .
+<http://www.worldcat.org/oclc/741262996> <http://schema.org/workExample> <http://worldcat.org/issn/0037-9557> .
+<http://www.worldcat.org/oclc/741262996> <http://schema.org/workExample> <http://worldcat.org/issn/0778-4031> .
+<http://www.worldcat.org/oclc/741262996> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://www.worldcat.org/oclc/741262996> <http://schema.org/datePublished> "1990/2010" .
+<http://www.worldcat.org/oclc/741262996> <http://purl.org/library/oclcnum> "741262996" .
+<http://worldcat.org/issn/0778-4031> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://worldcat.org/issn/0778-4031> <http://schema.org/name> "Belgian journal of botany."@en .
+<http://worldcat.org/issn/0778-4031> <http://schema.org/issn> "0778-4031" .
+<http://worldcat.org/issn/0778-4031> <http://umbel.org/umbel#isLike> <http://worldcat.org/entity/work/id/2999360182> .
+<http://worldcat.org/entity/work/id/2999360182> <http://umbel.org/umbel#isLike> <http://worldcat.org/issn/0037-9557> .
+<http://worldcat.org/entity/work/id/2999360182> <http://umbel.org/umbel#isLike> <http://worldcat.org/issn/0778-4031> .
+<http://experiment.worldcat.org/entity/work/data/2999360182#Place/bruxelles> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://experiment.worldcat.org/entity/work/data/2999360182#Place/bruxelles> <http://schema.org/name> "Bruxelles" .
+<http://www.worldcat.org/title/-/oclc/741262996> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#ContentTypeGenericResource> .
+<http://www.worldcat.org/title/-/oclc/741262996> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#InformationResource> .
+<http://www.worldcat.org/title/-/oclc/741262996> <http://schema.org/about> <http://www.worldcat.org/oclc/741262996> .
+<http://www.worldcat.org/title/-/oclc/741262996> <http://schema.org/dateModified> "2019-10-24" .
+<http://www.worldcat.org/title/-/oclc/741262996> <http://rdfs.org/ns/void#inDataset> <http://purl.oclc.org/dataset/WorldCat> .
+<http://worldcat.org/issn/0037-9557> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://worldcat.org/issn/0037-9557> <http://schema.org/name> "Belgian journal of botany."@en .
+<http://worldcat.org/issn/0037-9557> <http://schema.org/issn> "0037-9557" .
+<http://worldcat.org/issn/0037-9557> <http://umbel.org/umbel#isLike> <http://worldcat.org/entity/work/id/2999360182> .
+<http://viaf.org/viaf/159308115> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+<http://viaf.org/viaf/159308115> <http://schema.org/name> "Société royale de botanique de Belgique." .
+<http://www.jstor.org/action/showPublication?journalCode=belgjbota> <http://www.w3.org/2000/01/rdf-schema#comment> "(JSTOR archive A&S VIII)" .
+<http://id.loc.gov/vocabulary/countries/be> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://id.loc.gov/vocabulary/countries/be> <http://purl.org/dc/terms/identifier> "be" .

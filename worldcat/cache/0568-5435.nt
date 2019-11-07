@@ -1,0 +1,60 @@
+<http://www.worldcat.org/title/-/oclc/3584141#PublicationEvent/leningrad_nauka_leningradskoe_otd_nie_1964> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PublicationEvent> .
+<http://www.worldcat.org/title/-/oclc/3584141#PublicationEvent/leningrad_nauka_leningradskoe_otd_nie_1964> <http://schema.org/location> <http://experiment.worldcat.org/entity/work/data/4162041411#Place/leningrad> .
+<http://www.worldcat.org/title/-/oclc/3584141#PublicationEvent/leningrad_nauka_leningradskoe_otd_nie_1964> <http://schema.org/organizer> <http://experiment.worldcat.org/entity/work/data/4162041411#Agent/nauka_leningradskoe_otd_nie> .
+<http://www.worldcat.org/title/-/oclc/3584141#PublicationEvent/leningrad_nauka_leningradskoe_otd_nie_1964> <http://schema.org/startDate> "1964-" .
+<http://worldcat.org/issn/0568-5435> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://worldcat.org/issn/0568-5435> <http://schema.org/name> "Novosti sistematiki nizshikh rasteniĭ" .
+<http://worldcat.org/issn/0568-5435> <http://schema.org/issn> "0568-5435" .
+<http://worldcat.org/issn/0568-5435> <http://umbel.org/umbel#isLike> <http://worldcat.org/entity/work/id/4162041411> .
+<http://id.worldcat.org/fast/884542> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://id.worldcat.org/fast/884542> <http://schema.org/name> "Cryptogams" .
+<http://id.loc.gov/vocabulary/countries/ru> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://id.loc.gov/vocabulary/countries/ru> <http://purl.org/dc/terms/identifier> "ru" .
+<http://experiment.worldcat.org/entity/work/data/4162041411#Topic/cryptogams_classification> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/4162041411#Topic/cryptogams_classification> <http://schema.org/hasPart> <http://id.loc.gov/authorities/subjects/sh85034449> .
+<http://experiment.worldcat.org/entity/work/data/4162041411#Topic/cryptogams_classification> <http://schema.org/name> "Cryptogams--Classification" .
+<http://experiment.worldcat.org/entity/work/data/4162041411#Agent/nauka_leningradskoe_otd_nie> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bibliograph.net/Agent> .
+<http://experiment.worldcat.org/entity/work/data/4162041411#Agent/nauka_leningradskoe_otd_nie> <http://schema.org/name> "Nauka, Leningradskoe otd-nie" .
+<http://worldcat.org/entity/work/id/4162041411> <http://umbel.org/umbel#isLike> <http://worldcat.org/issn/0568-5435> .
+<http://experiment.worldcat.org/entity/work/data/4162041411#Place/leningrad> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://experiment.worldcat.org/entity/work/data/4162041411#Place/leningrad> <http://schema.org/name> "Leningrad" .
+<http://viaf.org/viaf/150723016> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+<http://viaf.org/viaf/150723016> <http://schema.org/name> "Botanicheskiĭ institut im. V.L. Komarova." .
+<http://www.worldcat.org/oclc/3584141> <http://schema.org/isSimilarTo> <http://www.worldcat.org/oclc/604078030> .
+<http://www.worldcat.org/oclc/3584141> <http://schema.org/alternateName> "Novitates systematicae plantarum non vascularium" .
+<http://www.worldcat.org/oclc/3584141> <http://schema.org/productID> "3584141" .
+<http://www.worldcat.org/oclc/3584141> <http://schema.org/isSimilarTo> <http://www.worldcat.org/oclc/613042829> .
+<http://www.worldcat.org/oclc/3584141> <http://purl.org/library/oclcnum> "3584141" .
+<http://www.worldcat.org/oclc/3584141> <http://schema.org/datePublished> "1964/9999" .
+<http://www.worldcat.org/oclc/3584141> <http://purl.org/library/placeOfPublication> <http://experiment.worldcat.org/entity/work/data/4162041411#Place/leningrad> .
+<http://www.worldcat.org/oclc/3584141> <http://schema.org/publisher> <http://experiment.worldcat.org/entity/work/data/4162041411#Agent/nauka_leningradskoe_otd_nie> .
+<http://www.worldcat.org/oclc/3584141> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://www.worldcat.org/oclc/3584141> <http://schema.org/inLanguage> "ru" .
+<http://www.worldcat.org/oclc/3584141> <http://schema.org/publication> <http://www.worldcat.org/title/-/oclc/3584141#PublicationEvent/leningrad_nauka_leningradskoe_otd_nie_1964> .
+<http://www.worldcat.org/oclc/3584141> <http://schema.org/genre> "Periodicals" .
+<http://www.worldcat.org/oclc/3584141> <http://www.w3.org/2007/05/powder-s#describedby> <http://www.worldcat.org/title/-/oclc/3584141> .
+<http://www.worldcat.org/oclc/3584141> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/4162041411#Topic/cryptogams_classification> .
+<http://www.worldcat.org/oclc/3584141> <http://schema.org/exampleOfWork> <http://worldcat.org/entity/work/id/4162041411> .
+<http://www.worldcat.org/oclc/3584141> <http://schema.org/name> "Novosti sistematiki nizshikh rasteniĭ" .
+<http://www.worldcat.org/oclc/3584141> <http://schema.org/datePublished> "1964/" .
+<http://www.worldcat.org/oclc/3584141> <http://schema.org/about> <http://id.worldcat.org/fast/884542> .
+<http://www.worldcat.org/oclc/3584141> <http://purl.org/library/placeOfPublication> <http://id.loc.gov/vocabulary/countries/ru> .
+<http://www.worldcat.org/oclc/3584141> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://www.worldcat.org/oclc/3584141> <http://schema.org/about> <http://id.worldcat.org/fast/884543> .
+<http://www.worldcat.org/oclc/3584141> <http://schema.org/contributor> <http://viaf.org/viaf/150723016> .
+<http://www.worldcat.org/oclc/3584141> <http://schema.org/workExample> <http://worldcat.org/issn/0568-5435> .
+<http://id.worldcat.org/fast/884543> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://id.worldcat.org/fast/884543> <http://schema.org/name> "Cryptogams--Classification" .
+<http://www.worldcat.org/oclc/604078030> <http://schema.org/isSimilarTo> <http://www.worldcat.org/oclc/3584141> .
+<http://www.worldcat.org/oclc/604078030> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://www.worldcat.org/oclc/604078030> <http://www.w3.org/2000/01/rdf-schema#label> "Novosti sistematiki nizshikh rasteniĭ" .
+<http://www.worldcat.org/oclc/604078030> <http://schema.org/description> "Online version:" .
+<http://www.worldcat.org/oclc/613042829> <http://schema.org/isSimilarTo> <http://www.worldcat.org/oclc/3584141> .
+<http://www.worldcat.org/oclc/613042829> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://www.worldcat.org/oclc/613042829> <http://www.w3.org/2000/01/rdf-schema#label> "Novosti sistematiki nizshikh rasteniĭ" .
+<http://www.worldcat.org/oclc/613042829> <http://schema.org/description> "Online version:" .
+<http://www.worldcat.org/title/-/oclc/3584141> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#ContentTypeGenericResource> .
+<http://www.worldcat.org/title/-/oclc/3584141> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#InformationResource> .
+<http://www.worldcat.org/title/-/oclc/3584141> <http://schema.org/about> <http://www.worldcat.org/oclc/3584141> .
+<http://www.worldcat.org/title/-/oclc/3584141> <http://schema.org/dateModified> "2018-11-24" .
+<http://www.worldcat.org/title/-/oclc/3584141> <http://rdfs.org/ns/void#inDataset> <http://purl.oclc.org/dataset/WorldCat> .

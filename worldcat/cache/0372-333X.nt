@@ -1,0 +1,31 @@
+<http://worldcat.org/issn/0065-1125> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://worldcat.org/issn/0065-1125> <http://schema.org/name> "Taiwania; science reports of the botany Department of the National Taiwan University."@en .
+<http://worldcat.org/issn/0065-1125> <http://schema.org/issn> "0065-1125" .
+<http://worldcat.org/issn/0065-1125> <http://umbel.org/umbel#isLike> <http://worldcat.org/entity/work/id/499947516> .
+<http://www.worldcat.org/title/-/oclc/636766120> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#ContentTypeGenericResource> .
+<http://www.worldcat.org/title/-/oclc/636766120> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#InformationResource> .
+<http://www.worldcat.org/title/-/oclc/636766120> <http://schema.org/about> <http://www.worldcat.org/oclc/636766120> .
+<http://www.worldcat.org/title/-/oclc/636766120> <http://schema.org/dateModified> "2018-11-10" .
+<http://www.worldcat.org/title/-/oclc/636766120> <http://rdfs.org/ns/void#inDataset> <http://purl.oclc.org/dataset/WorldCat> .
+<http://www.worldcat.org/oclc/636766120> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://www.worldcat.org/oclc/636766120> <http://schema.org/publication> <http://www.worldcat.org/title/-/oclc/636766120#PublicationEvent/0000> .
+<http://www.worldcat.org/oclc/636766120> <http://schema.org/inLanguage> "en" .
+<http://www.worldcat.org/oclc/636766120> <http://schema.org/workExample> <http://worldcat.org/issn/0372-333X> .
+<http://www.worldcat.org/oclc/636766120> <http://purl.org/library/oclcnum> "636766120" .
+<http://www.worldcat.org/oclc/636766120> <http://schema.org/exampleOfWork> <http://worldcat.org/entity/work/id/499947516> .
+<http://www.worldcat.org/oclc/636766120> <http://schema.org/workExample> <http://worldcat.org/issn/0065-1125> .
+<http://www.worldcat.org/oclc/636766120> <http://schema.org/productID> "636766120" .
+<http://www.worldcat.org/oclc/636766120> <http://schema.org/datePublished> "0000" .
+<http://www.worldcat.org/oclc/636766120> <http://schema.org/datePublished> "0000/9999" .
+<http://www.worldcat.org/oclc/636766120> <http://schema.org/name> "Taiwania; science reports of the botany Department of the National Taiwan University."@en .
+<http://www.worldcat.org/oclc/636766120> <http://schema.org/alternateName> "Science reports of the botany Department of the National Taiwan University" .
+<http://www.worldcat.org/oclc/636766120> <http://www.w3.org/2007/05/powder-s#describedby> <http://www.worldcat.org/title/-/oclc/636766120> .
+<http://www.worldcat.org/oclc/636766120> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://worldcat.org/issn/0372-333X> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://worldcat.org/issn/0372-333X> <http://schema.org/name> "Taiwania; science reports of the botany Department of the National Taiwan University."@en .
+<http://worldcat.org/issn/0372-333X> <http://schema.org/issn> "0372-333X" .
+<http://worldcat.org/issn/0372-333X> <http://umbel.org/umbel#isLike> <http://worldcat.org/entity/work/id/499947516> .
+<http://worldcat.org/entity/work/id/499947516> <http://umbel.org/umbel#isLike> <http://worldcat.org/issn/0372-333X> .
+<http://worldcat.org/entity/work/id/499947516> <http://umbel.org/umbel#isLike> <http://worldcat.org/issn/0065-1125> .
+<http://www.worldcat.org/title/-/oclc/636766120#PublicationEvent/0000> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PublicationEvent> .
+<http://www.worldcat.org/title/-/oclc/636766120#PublicationEvent/0000> <http://schema.org/startDate> "0000" .

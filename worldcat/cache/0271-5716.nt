@@ -1,0 +1,37 @@
+<http://www.worldcat.org/title/-/oclc/924690019> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#ContentTypeGenericResource> .
+<http://www.worldcat.org/title/-/oclc/924690019> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#InformationResource> .
+<http://www.worldcat.org/title/-/oclc/924690019> <http://schema.org/about> <http://www.worldcat.org/oclc/924690019> .
+<http://www.worldcat.org/title/-/oclc/924690019> <http://schema.org/dateModified> "2018-11-08" .
+<http://www.worldcat.org/title/-/oclc/924690019> <http://rdfs.org/ns/void#inDataset> <http://purl.oclc.org/dataset/WorldCat> .
+<http://www.worldcat.org/title/-/oclc/924690019#PublicationEvent/boston_boston_society_of_natural_history_1837_1863> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PublicationEvent> .
+<http://www.worldcat.org/title/-/oclc/924690019#PublicationEvent/boston_boston_society_of_natural_history_1837_1863> <http://schema.org/location> <http://dbpedia.org/resource/Boston> .
+<http://www.worldcat.org/title/-/oclc/924690019#PublicationEvent/boston_boston_society_of_natural_history_1837_1863> <http://schema.org/organizer> <http://experiment.worldcat.org/entity/work/data/54059694#Agent/boston_society_of_natural_history> .
+<http://www.worldcat.org/title/-/oclc/924690019#PublicationEvent/boston_boston_society_of_natural_history_1837_1863> <http://schema.org/startDate> "1837-1863" .
+<http://dbpedia.org/resource/Boston> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://dbpedia.org/resource/Boston> <http://schema.org/name> "Boston" .
+<http://worldcat.org/issn/0271-5716> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://worldcat.org/issn/0271-5716> <http://schema.org/name> "Boston journal of natural history : containing papers and communications read to the Boston Society of Natural History ..." .
+<http://worldcat.org/issn/0271-5716> <http://schema.org/issn> "0271-5716" .
+<http://worldcat.org/issn/0271-5716> <http://umbel.org/umbel#isLike> <http://worldcat.org/entity/work/id/54059694> .
+<http://www.worldcat.org/oclc/924690019> <http://schema.org/name> "Boston journal of natural history : containing papers and communications read to the Boston Society of Natural History ..." .
+<http://www.worldcat.org/oclc/924690019> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://www.worldcat.org/oclc/924690019> <http://schema.org/productID> "924690019" .
+<http://www.worldcat.org/oclc/924690019> <http://schema.org/publisher> <http://experiment.worldcat.org/entity/work/data/54059694#Agent/boston_society_of_natural_history> .
+<http://www.worldcat.org/oclc/924690019> <http://purl.org/library/placeOfPublication> <http://dbpedia.org/resource/Boston> .
+<http://www.worldcat.org/oclc/924690019> <http://schema.org/publication> <http://www.worldcat.org/title/-/oclc/924690019#PublicationEvent/boston_boston_society_of_natural_history_1837_1863> .
+<http://www.worldcat.org/oclc/924690019> <http://purl.org/library/oclcnum> "924690019" .
+<http://www.worldcat.org/oclc/924690019> <http://schema.org/exampleOfWork> <http://worldcat.org/entity/work/id/54059694> .
+<http://www.worldcat.org/oclc/924690019> <http://schema.org/inLanguage> "en" .
+<http://www.worldcat.org/oclc/924690019> <http://schema.org/contributor> <http://experiment.worldcat.org/entity/work/data/54059694#Organization/boston_society_of_natural_history> .
+<http://www.worldcat.org/oclc/924690019> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://www.worldcat.org/oclc/924690019> <http://schema.org/datePublished> "1837/1863" .
+<http://www.worldcat.org/oclc/924690019> <http://purl.org/library/placeOfPublication> <http://id.loc.gov/vocabulary/countries/mau> .
+<http://www.worldcat.org/oclc/924690019> <http://www.w3.org/2007/05/powder-s#describedby> <http://www.worldcat.org/title/-/oclc/924690019> .
+<http://www.worldcat.org/oclc/924690019> <http://schema.org/workExample> <http://worldcat.org/issn/0271-5716> .
+<http://worldcat.org/entity/work/id/54059694> <http://umbel.org/umbel#isLike> <http://worldcat.org/issn/0271-5716> .
+<http://experiment.worldcat.org/entity/work/data/54059694#Agent/boston_society_of_natural_history> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bibliograph.net/Agent> .
+<http://experiment.worldcat.org/entity/work/data/54059694#Agent/boston_society_of_natural_history> <http://schema.org/name> "[Boston Society of Natural History]" .
+<http://id.loc.gov/vocabulary/countries/mau> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://id.loc.gov/vocabulary/countries/mau> <http://purl.org/dc/terms/identifier> "mau" .
+<http://experiment.worldcat.org/entity/work/data/54059694#Organization/boston_society_of_natural_history> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+<http://experiment.worldcat.org/entity/work/data/54059694#Organization/boston_society_of_natural_history> <http://schema.org/name> "Boston Society of Natural History." .

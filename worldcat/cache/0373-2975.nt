@@ -1,0 +1,61 @@
+<http://experiment.worldcat.org/entity/work/data/3860209714#Thing/zeitschriften> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> .
+<http://experiment.worldcat.org/entity/work/data/3860209714#Thing/zeitschriften> <http://schema.org/name> "Zeitschriften" .
+<http://www.worldcat.org/title/-/oclc/609865919> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#ContentTypeGenericResource> .
+<http://www.worldcat.org/title/-/oclc/609865919> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#InformationResource> .
+<http://www.worldcat.org/title/-/oclc/609865919> <http://schema.org/about> <http://www.worldcat.org/oclc/609865919> .
+<http://www.worldcat.org/title/-/oclc/609865919> <http://schema.org/dateModified> "2018-11-11" .
+<http://www.worldcat.org/title/-/oclc/609865919> <http://rdfs.org/ns/void#inDataset> <http://purl.oclc.org/dataset/WorldCat> .
+<http://viaf.org/viaf/146456946> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+<http://viaf.org/viaf/146456946> <http://schema.org/name> "Conservatoire et Jardin botaniques de Genève." .
+<http://www.worldcat.org/title/-/oclc/609865919#PublicationEvent/geneve_conservatoire_et_jardin_botaniques_1936> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PublicationEvent> .
+<http://www.worldcat.org/title/-/oclc/609865919#PublicationEvent/geneve_conservatoire_et_jardin_botaniques_1936> <http://schema.org/location> <http://experiment.worldcat.org/entity/work/data/3860209714#Place/geneve> .
+<http://www.worldcat.org/title/-/oclc/609865919#PublicationEvent/geneve_conservatoire_et_jardin_botaniques_1936> <http://schema.org/organizer> <http://experiment.worldcat.org/entity/work/data/3860209714#Agent/conservatoire_et_jardin_botaniques> .
+<http://www.worldcat.org/title/-/oclc/609865919#PublicationEvent/geneve_conservatoire_et_jardin_botaniques_1936> <http://schema.org/startDate> "1936-" .
+<http://experiment.worldcat.org/entity/work/data/3860209714#Thing/systematische_botanik> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> .
+<http://experiment.worldcat.org/entity/work/data/3860209714#Thing/systematische_botanik> <http://schema.org/name> "SYSTEMATISCHE BOTANIK" .
+<http://experiment.worldcat.org/entity/work/data/3860209714#Topic/botanik> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/3860209714#Topic/botanik> <http://schema.org/name> "Botanik" .
+<http://experiment.worldcat.org/entity/work/data/3860209714#Place/geneve> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://experiment.worldcat.org/entity/work/data/3860209714#Place/geneve> <http://schema.org/name> "Genève" .
+<http://worldcat.org/issn/0373-2975> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://worldcat.org/issn/0373-2975> <http://schema.org/name> "Boissiera : mémoires des Conservatoire et Jardin botaniques de la Ville de Genève." .
+<http://worldcat.org/issn/0373-2975> <http://schema.org/issn> "0373-2975" .
+<http://worldcat.org/issn/0373-2975> <http://umbel.org/umbel#isLike> <http://worldcat.org/entity/work/id/3860209714> .
+<http://experiment.worldcat.org/entity/work/data/3860209714#Agent/conservatoire_et_jardin_botaniques> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bibliograph.net/Agent> .
+<http://experiment.worldcat.org/entity/work/data/3860209714#Agent/conservatoire_et_jardin_botaniques> <http://schema.org/name> "Conservatoire et jardin botaniques" .
+<http://experiment.worldcat.org/entity/work/data/3860209714#Thing/systematic_botany> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> .
+<http://experiment.worldcat.org/entity/work/data/3860209714#Thing/systematic_botany> <http://schema.org/name> "SYSTEMATIC BOTANY" .
+<http://worldcat.org/entity/work/id/3860209714> <http://umbel.org/umbel#isLike> <http://worldcat.org/issn/0373-2975> .
+<http://experiment.worldcat.org/entity/work/data/3860209714#Thing/botanique_systematique_+_mycologie_systematique> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> .
+<http://experiment.worldcat.org/entity/work/data/3860209714#Thing/botanique_systematique_+_mycologie_systematique> <http://schema.org/name> "BOTANIQUE SYSTEMATIQUE + MYCOLOGIE SYSTEMATIQUE" .
+<http://id.loc.gov/vocabulary/countries/sz> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://id.loc.gov/vocabulary/countries/sz> <http://purl.org/dc/terms/identifier> "sz" .
+<http://dewey.info/class/581/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://viaf.org/viaf/266555153> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+<http://viaf.org/viaf/266555153> <http://schema.org/familyName> "Hochreutiner" .
+<http://viaf.org/viaf/266555153> <http://schema.org/givenName> "B. P. G." .
+<http://viaf.org/viaf/266555153> <http://schema.org/name> "B. P. G. Hochreutiner" .
+<http://www.worldcat.org/oclc/609865919> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bibliograph.net/PublicationSeries> .
+<http://www.worldcat.org/oclc/609865919> <http://schema.org/datePublished> "1936/9999" .
+<http://www.worldcat.org/oclc/609865919> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://www.worldcat.org/oclc/609865919> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/3860209714#Thing/zeitschriften> .
+<http://www.worldcat.org/oclc/609865919> <http://schema.org/inLanguage> "en" .
+<http://www.worldcat.org/oclc/609865919> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://www.worldcat.org/oclc/609865919> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/3860209714#Thing/systematic_botany> .
+<http://www.worldcat.org/oclc/609865919> <http://schema.org/workExample> <http://worldcat.org/issn/0373-2975> .
+<http://www.worldcat.org/oclc/609865919> <http://www.w3.org/2007/05/powder-s#describedby> <http://www.worldcat.org/title/-/oclc/609865919> .
+<http://www.worldcat.org/oclc/609865919> <http://schema.org/publication> <http://www.worldcat.org/title/-/oclc/609865919#PublicationEvent/geneve_conservatoire_et_jardin_botaniques_1936> .
+<http://www.worldcat.org/oclc/609865919> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/3860209714#Topic/botanik> .
+<http://www.worldcat.org/oclc/609865919> <http://schema.org/contributor> <http://viaf.org/viaf/266555153> .
+<http://www.worldcat.org/oclc/609865919> <http://purl.org/library/placeOfPublication> <http://id.loc.gov/vocabulary/countries/sz> .
+<http://www.worldcat.org/oclc/609865919> <http://schema.org/productID> "609865919" .
+<http://www.worldcat.org/oclc/609865919> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/3860209714#Thing/systematische_botanik> .
+<http://www.worldcat.org/oclc/609865919> <http://schema.org/name> "Boissiera : mémoires des Conservatoire et Jardin botaniques de la Ville de Genève." .
+<http://www.worldcat.org/oclc/609865919> <http://schema.org/about> <http://dewey.info/class/581/> .
+<http://www.worldcat.org/oclc/609865919> <http://purl.org/library/oclcnum> "609865919" .
+<http://www.worldcat.org/oclc/609865919> <http://schema.org/datePublished> "1936/" .
+<http://www.worldcat.org/oclc/609865919> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/3860209714#Thing/botanique_systematique_+_mycologie_systematique> .
+<http://www.worldcat.org/oclc/609865919> <http://schema.org/exampleOfWork> <http://worldcat.org/entity/work/id/3860209714> .
+<http://www.worldcat.org/oclc/609865919> <http://purl.org/library/placeOfPublication> <http://experiment.worldcat.org/entity/work/data/3860209714#Place/geneve> .
+<http://www.worldcat.org/oclc/609865919> <http://schema.org/publisher> <http://experiment.worldcat.org/entity/work/data/3860209714#Agent/conservatoire_et_jardin_botaniques> .
+<http://www.worldcat.org/oclc/609865919> <http://schema.org/contributor> <http://viaf.org/viaf/146456946> .

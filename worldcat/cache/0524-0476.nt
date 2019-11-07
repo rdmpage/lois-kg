@@ -1,0 +1,36 @@
+<http://experiment.worldcat.org/entity/work/data/53721732#Agent/consejo_nacional_de_investigaciones_cientificas_y_tecnicas_conicet> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bibliograph.net/Agent> .
+<http://experiment.worldcat.org/entity/work/data/53721732#Agent/consejo_nacional_de_investigaciones_cientificas_y_tecnicas_conicet> <http://schema.org/name> "Consejo Nacional de Investigaciones Cientificas y Tecnicas (CONICET)" .
+<http://www.worldcat.org/oclc/1000379394> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://www.worldcat.org/oclc/1000379394> <http://purl.org/library/placeOfPublication> <http://experiment.worldcat.org/entity/work/data/53721732#Place/corrientes> .
+<http://www.worldcat.org/oclc/1000379394> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/53721732#Topic/plant_propagation_&_horticulture> .
+<http://www.worldcat.org/oclc/1000379394> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/MediaObject> .
+<http://www.worldcat.org/oclc/1000379394> <http://schema.org/publication> <http://www.worldcat.org/title/-/oclc/1000379394#PublicationEvent/corrientes_consejo_nacional_de_investigaciones_cientificas_y_tecnicas_conicet> .
+<http://www.worldcat.org/oclc/1000379394> <http://schema.org/url> <http://search.ebscohost.com/direct.asp?db=a9h&jid=%221HKF%22&scope=site&LoginPage=cpidlogin.asp&custID=s9204635> .
+<http://www.worldcat.org/oclc/1000379394> <http://www.w3.org/2007/05/powder-s#describedby> <http://www.worldcat.org/title/-/oclc/1000379394> .
+<http://www.worldcat.org/oclc/1000379394> <http://schema.org/name> "Bonplandia."@en .
+<http://www.worldcat.org/oclc/1000379394> <http://schema.org/publisher> <http://experiment.worldcat.org/entity/work/data/53721732#Agent/consejo_nacional_de_investigaciones_cientificas_y_tecnicas_conicet> .
+<http://www.worldcat.org/oclc/1000379394> <http://schema.org/datePublished> "uuuu/9999" .
+<http://www.worldcat.org/oclc/1000379394> <http://schema.org/exampleOfWork> <http://worldcat.org/entity/work/id/53721732> .
+<http://www.worldcat.org/oclc/1000379394> <http://schema.org/workExample> <http://worldcat.org/issn/0524-0476> .
+<http://www.worldcat.org/oclc/1000379394> <http://purl.org/library/oclcnum> "1000379394" .
+<http://www.worldcat.org/oclc/1000379394> <http://schema.org/inLanguage> "en" .
+<http://www.worldcat.org/oclc/1000379394> <http://schema.org/productID> "1000379394" .
+<http://www.worldcat.org/oclc/1000379394> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://worldcat.org/issn/0524-0476> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://worldcat.org/issn/0524-0476> <http://schema.org/name> "Bonplandia."@en .
+<http://worldcat.org/issn/0524-0476> <http://schema.org/issn> "0524-0476" .
+<http://worldcat.org/issn/0524-0476> <http://umbel.org/umbel#isLike> <http://worldcat.org/entity/work/id/53721732> .
+<http://www.worldcat.org/title/-/oclc/1000379394> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#ContentTypeGenericResource> .
+<http://www.worldcat.org/title/-/oclc/1000379394> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#InformationResource> .
+<http://www.worldcat.org/title/-/oclc/1000379394> <http://schema.org/about> <http://www.worldcat.org/oclc/1000379394> .
+<http://www.worldcat.org/title/-/oclc/1000379394> <http://schema.org/dateModified> "2019-02-12" .
+<http://www.worldcat.org/title/-/oclc/1000379394> <http://rdfs.org/ns/void#inDataset> <http://purl.oclc.org/dataset/WorldCat> .
+<http://experiment.worldcat.org/entity/work/data/53721732#Place/corrientes> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://experiment.worldcat.org/entity/work/data/53721732#Place/corrientes> <http://schema.org/name> "Corrientes" .
+<http://worldcat.org/entity/work/id/53721732> <http://umbel.org/umbel#isLike> <http://worldcat.org/issn/0524-0476> .
+<http://search.ebscohost.com/direct.asp?db=a9h&jid=%221HKF%22&scope=site&LoginPage=cpidlogin.asp&custID=s9204635> <http://www.w3.org/2000/01/rdf-schema#comment> "Available on EBSCOhost." .
+<http://experiment.worldcat.org/entity/work/data/53721732#Topic/plant_propagation_&_horticulture> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/53721732#Topic/plant_propagation_&_horticulture> <http://schema.org/name> "Plant Propagation & Horticulture"@en .
+<http://www.worldcat.org/title/-/oclc/1000379394#PublicationEvent/corrientes_consejo_nacional_de_investigaciones_cientificas_y_tecnicas_conicet> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PublicationEvent> .
+<http://www.worldcat.org/title/-/oclc/1000379394#PublicationEvent/corrientes_consejo_nacional_de_investigaciones_cientificas_y_tecnicas_conicet> <http://schema.org/location> <http://experiment.worldcat.org/entity/work/data/53721732#Place/corrientes> .
+<http://www.worldcat.org/title/-/oclc/1000379394#PublicationEvent/corrientes_consejo_nacional_de_investigaciones_cientificas_y_tecnicas_conicet> <http://schema.org/organizer> <http://experiment.worldcat.org/entity/work/data/53721732#Agent/consejo_nacional_de_investigaciones_cientificas_y_tecnicas_conicet> .

@@ -1,0 +1,40 @@
+<http://dewey.info/class/579.5/e21/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/372997620#Organization/international_mycological_institute> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+<http://experiment.worldcat.org/entity/work/data/372997620#Organization/international_mycological_institute> <http://schema.org/name> "International Mycological Institute." .
+<http://id.loc.gov/vocabulary/countries/enk> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://id.loc.gov/vocabulary/countries/enk> <http://purl.org/dc/terms/identifier> "enk" .
+<http://www.worldcat.org/oclc/499342402> <http://schema.org/publisher> <http://experiment.worldcat.org/entity/work/data/372997620#Agent/cab_international> .
+<http://www.worldcat.org/oclc/499342402> <http://schema.org/about> <http://dewey.info/class/579.5/e21/> .
+<http://www.worldcat.org/oclc/499342402> <http://purl.org/library/placeOfPublication> <http://experiment.worldcat.org/entity/work/data/372997620#Place/wallingford> .
+<http://www.worldcat.org/oclc/499342402> <http://purl.org/library/oclcnum> "499342402" .
+<http://www.worldcat.org/oclc/499342402> <http://schema.org/datePublished> "1986/" .
+<http://www.worldcat.org/oclc/499342402> <http://purl.org/library/placeOfPublication> <http://id.loc.gov/vocabulary/countries/enk> .
+<http://www.worldcat.org/oclc/499342402> <http://schema.org/publication> <http://www.worldcat.org/title/-/oclc/499342402#PublicationEvent/wallingford_cab_international_1986> .
+<http://www.worldcat.org/oclc/499342402> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://www.worldcat.org/oclc/499342402> <http://www.w3.org/2007/05/powder-s#describedby> <http://www.worldcat.org/title/-/oclc/499342402> .
+<http://www.worldcat.org/oclc/499342402> <http://schema.org/name> "Mycological papers - CAB International Mycological Institute."@en .
+<http://www.worldcat.org/oclc/499342402> <http://schema.org/exampleOfWork> <http://worldcat.org/entity/work/id/372997620> .
+<http://www.worldcat.org/oclc/499342402> <http://schema.org/inLanguage> "en" .
+<http://www.worldcat.org/oclc/499342402> <http://schema.org/productID> "499342402" .
+<http://www.worldcat.org/oclc/499342402> <http://schema.org/creator> <http://experiment.worldcat.org/entity/work/data/372997620#Organization/international_mycological_institute> .
+<http://www.worldcat.org/oclc/499342402> <http://schema.org/workExample> <http://worldcat.org/issn/0027-5522> .
+<http://www.worldcat.org/oclc/499342402> <http://schema.org/datePublished> "1986/9999" .
+<http://www.worldcat.org/oclc/499342402> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://www.worldcat.org/title/-/oclc/499342402> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#ContentTypeGenericResource> .
+<http://www.worldcat.org/title/-/oclc/499342402> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#InformationResource> .
+<http://www.worldcat.org/title/-/oclc/499342402> <http://schema.org/about> <http://www.worldcat.org/oclc/499342402> .
+<http://www.worldcat.org/title/-/oclc/499342402> <http://schema.org/dateModified> "2018-11-09" .
+<http://www.worldcat.org/title/-/oclc/499342402> <http://rdfs.org/ns/void#inDataset> <http://purl.oclc.org/dataset/WorldCat> .
+<http://www.worldcat.org/title/-/oclc/499342402#PublicationEvent/wallingford_cab_international_1986> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PublicationEvent> .
+<http://www.worldcat.org/title/-/oclc/499342402#PublicationEvent/wallingford_cab_international_1986> <http://schema.org/location> <http://experiment.worldcat.org/entity/work/data/372997620#Place/wallingford> .
+<http://www.worldcat.org/title/-/oclc/499342402#PublicationEvent/wallingford_cab_international_1986> <http://schema.org/organizer> <http://experiment.worldcat.org/entity/work/data/372997620#Agent/cab_international> .
+<http://www.worldcat.org/title/-/oclc/499342402#PublicationEvent/wallingford_cab_international_1986> <http://schema.org/startDate> "1986-" .
+<http://experiment.worldcat.org/entity/work/data/372997620#Agent/cab_international> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bibliograph.net/Agent> .
+<http://experiment.worldcat.org/entity/work/data/372997620#Agent/cab_international> <http://schema.org/name> "CAB International" .
+<http://worldcat.org/issn/0027-5522> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://worldcat.org/issn/0027-5522> <http://schema.org/name> "Mycological papers - CAB International Mycological Institute."@en .
+<http://worldcat.org/issn/0027-5522> <http://schema.org/issn> "0027-5522" .
+<http://worldcat.org/issn/0027-5522> <http://umbel.org/umbel#isLike> <http://worldcat.org/entity/work/id/372997620> .
+<http://worldcat.org/entity/work/id/372997620> <http://umbel.org/umbel#isLike> <http://worldcat.org/issn/0027-5522> .
+<http://experiment.worldcat.org/entity/work/data/372997620#Place/wallingford> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://experiment.worldcat.org/entity/work/data/372997620#Place/wallingford> <http://schema.org/name> "Wallingford" .

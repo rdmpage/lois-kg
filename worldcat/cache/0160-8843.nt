@@ -1,0 +1,66 @@
+<http://experiment.worldcat.org/entity/work/data/3859238681#Thing/dinophyta_paleobotanique> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> .
+<http://experiment.worldcat.org/entity/work/data/3859238681#Thing/dinophyta_paleobotanique> <http://schema.org/name> "DINOPHYTA (PALÉOBOTANIQUE)" .
+<http://experiment.worldcat.org/entity/work/data/3859238681#Thing/palynologie_palaontologie> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> .
+<http://experiment.worldcat.org/entity/work/data/3859238681#Thing/palynologie_palaontologie> <http://schema.org/name> "PALYNOLOGIE (PALÄONTOLOGIE)" .
+<http://experiment.worldcat.org/entity/work/data/3859238681#Agent/aasp_foundation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bibliograph.net/Agent> .
+<http://experiment.worldcat.org/entity/work/data/3859238681#Agent/aasp_foundation> <http://schema.org/name> "AASP Foundation." .
+<http://www.worldcat.org/oclc/609934004> <http://schema.org/exampleOfWork> <http://worldcat.org/entity/work/id/3859238681> .
+<http://www.worldcat.org/oclc/609934004> <http://schema.org/publisher> <http://experiment.worldcat.org/entity/work/data/3859238681#Agent/aasp_foundation> .
+<http://www.worldcat.org/oclc/609934004> <http://schema.org/name> "AASP contribution series" .
+<http://www.worldcat.org/oclc/609934004> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bibliograph.net/PublicationSeries> .
+<http://www.worldcat.org/oclc/609934004> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/3859238681#Thing/dinophyta_paleobotanique> .
+<http://www.worldcat.org/oclc/609934004> <http://schema.org/alternateName> "Contributions series / American Association of Stratigraphic Palynologists" .
+<http://www.worldcat.org/oclc/609934004> <http://purl.org/library/placeOfPublication> <http://experiment.worldcat.org/entity/work/data/3859238681#Place/dallas_tex> .
+<http://www.worldcat.org/oclc/609934004> <http://purl.org/library/placeOfPublication> <http://id.loc.gov/vocabulary/countries/txu> .
+<http://www.worldcat.org/oclc/609934004> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/3859238681#Thing/dinophyta_palaeobotany> .
+<http://www.worldcat.org/oclc/609934004> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/3859238681#Thing/dinophyta_palaobotanik> .
+<http://www.worldcat.org/oclc/609934004> <http://schema.org/workExample> <http://worldcat.org/issn/0160-8843> .
+<http://www.worldcat.org/oclc/609934004> <http://purl.org/library/oclcnum> "609934004" .
+<http://www.worldcat.org/oclc/609934004> <http://schema.org/datePublished> "1971/9999" .
+<http://www.worldcat.org/oclc/609934004> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/3859238681#Thing/palaeobotany> .
+<http://www.worldcat.org/oclc/609934004> <http://schema.org/inLanguage> "en" .
+<http://www.worldcat.org/oclc/609934004> <http://schema.org/contributor> <http://viaf.org/viaf/144839019> .
+<http://www.worldcat.org/oclc/609934004> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/3859238681#Thing/palynologie_paleontologie> .
+<http://www.worldcat.org/oclc/609934004> <http://schema.org/publication> <http://www.worldcat.org/title/-/oclc/609934004#PublicationEvent/dallas_tex_aasp_foundation> .
+<http://www.worldcat.org/oclc/609934004> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://www.worldcat.org/oclc/609934004> <http://schema.org/productID> "609934004" .
+<http://www.worldcat.org/oclc/609934004> <http://schema.org/alternateName> "AASP contributions series" .
+<http://www.worldcat.org/oclc/609934004> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/3859238681#Thing/palaobotanik> .
+<http://www.worldcat.org/oclc/609934004> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://www.worldcat.org/oclc/609934004> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/3859238681#Thing/palynology_palaeontology> .
+<http://www.worldcat.org/oclc/609934004> <http://www.w3.org/2007/05/powder-s#describedby> <http://www.worldcat.org/title/-/oclc/609934004> .
+<http://www.worldcat.org/oclc/609934004> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/3859238681#Thing/paleobotanique> .
+<http://www.worldcat.org/oclc/609934004> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/3859238681#Thing/palynologie_palaontologie> .
+<http://worldcat.org/issn/0160-8843> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://worldcat.org/issn/0160-8843> <http://schema.org/name> "AASP contribution series" .
+<http://worldcat.org/issn/0160-8843> <http://schema.org/issn> "0160-8843" .
+<http://worldcat.org/issn/0160-8843> <http://umbel.org/umbel#isLike> <http://worldcat.org/entity/work/id/3859238681> .
+<http://experiment.worldcat.org/entity/work/data/3859238681#Place/dallas_tex> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://experiment.worldcat.org/entity/work/data/3859238681#Place/dallas_tex> <http://schema.org/name> "Dallas (Tex.)" .
+<http://experiment.worldcat.org/entity/work/data/3859238681#Thing/palaobotanik> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> .
+<http://experiment.worldcat.org/entity/work/data/3859238681#Thing/palaobotanik> <http://schema.org/name> "PALÄOBOTANIK" .
+<http://experiment.worldcat.org/entity/work/data/3859238681#Thing/palynology_palaeontology> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> .
+<http://experiment.worldcat.org/entity/work/data/3859238681#Thing/palynology_palaeontology> <http://schema.org/name> "PALYNOLOGY (PALAEONTOLOGY)" .
+<http://www.worldcat.org/title/-/oclc/609934004#PublicationEvent/dallas_tex_aasp_foundation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PublicationEvent> .
+<http://www.worldcat.org/title/-/oclc/609934004#PublicationEvent/dallas_tex_aasp_foundation> <http://schema.org/location> <http://experiment.worldcat.org/entity/work/data/3859238681#Place/dallas_tex> .
+<http://www.worldcat.org/title/-/oclc/609934004#PublicationEvent/dallas_tex_aasp_foundation> <http://schema.org/organizer> <http://experiment.worldcat.org/entity/work/data/3859238681#Agent/aasp_foundation> .
+<http://experiment.worldcat.org/entity/work/data/3859238681#Thing/paleobotanique> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> .
+<http://experiment.worldcat.org/entity/work/data/3859238681#Thing/paleobotanique> <http://schema.org/name> "PALÉOBOTANIQUE" .
+<http://experiment.worldcat.org/entity/work/data/3859238681#Thing/dinophyta_palaeobotany> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> .
+<http://experiment.worldcat.org/entity/work/data/3859238681#Thing/dinophyta_palaeobotany> <http://schema.org/name> "DINOPHYTA (PALAEOBOTANY)" .
+<http://id.loc.gov/vocabulary/countries/txu> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://id.loc.gov/vocabulary/countries/txu> <http://purl.org/dc/terms/identifier> "txu" .
+<http://experiment.worldcat.org/entity/work/data/3859238681#Thing/palynologie_paleontologie> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> .
+<http://experiment.worldcat.org/entity/work/data/3859238681#Thing/palynologie_paleontologie> <http://schema.org/name> "PALYNOLOGIE (PALÉONTOLOGIE)" .
+<http://www.worldcat.org/title/-/oclc/609934004> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#ContentTypeGenericResource> .
+<http://www.worldcat.org/title/-/oclc/609934004> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#InformationResource> .
+<http://www.worldcat.org/title/-/oclc/609934004> <http://schema.org/about> <http://www.worldcat.org/oclc/609934004> .
+<http://www.worldcat.org/title/-/oclc/609934004> <http://schema.org/dateModified> "2018-11-10" .
+<http://www.worldcat.org/title/-/oclc/609934004> <http://rdfs.org/ns/void#inDataset> <http://purl.oclc.org/dataset/WorldCat> .
+<http://worldcat.org/entity/work/id/3859238681> <http://umbel.org/umbel#isLike> <http://worldcat.org/issn/0160-8843> .
+<http://experiment.worldcat.org/entity/work/data/3859238681#Thing/palaeobotany> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> .
+<http://experiment.worldcat.org/entity/work/data/3859238681#Thing/palaeobotany> <http://schema.org/name> "PALAEOBOTANY" .
+<http://experiment.worldcat.org/entity/work/data/3859238681#Thing/dinophyta_palaobotanik> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> .
+<http://experiment.worldcat.org/entity/work/data/3859238681#Thing/dinophyta_palaobotanik> <http://schema.org/name> "DINOPHYTA (PALÄOBOTANIK)" .
+<http://viaf.org/viaf/144839019> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+<http://viaf.org/viaf/144839019> <http://schema.org/name> "American Association of Stratigraphic Palynologists." .

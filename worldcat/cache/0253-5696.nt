@@ -1,0 +1,51 @@
+<http://www.worldcat.org/title/-/oclc/716037299#PublicationEvent/la_habana_universidad_de_la_habana_1981> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PublicationEvent> .
+<http://www.worldcat.org/title/-/oclc/716037299#PublicationEvent/la_habana_universidad_de_la_habana_1981> <http://schema.org/location> <http://experiment.worldcat.org/entity/work/data/357438136#Place/la_habana> .
+<http://www.worldcat.org/title/-/oclc/716037299#PublicationEvent/la_habana_universidad_de_la_habana_1981> <http://schema.org/organizer> <http://experiment.worldcat.org/entity/work/data/357438136#Agent/universidad_de_la_habana> .
+<http://www.worldcat.org/title/-/oclc/716037299#PublicationEvent/la_habana_universidad_de_la_habana_1981> <http://schema.org/startDate> "1981-" .
+<http://experiment.worldcat.org/entity/work/data/357438136#Topic/vegetation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/357438136#Topic/vegetation> <http://schema.org/name> "végétation" .
+<http://experiment.worldcat.org/entity/work/data/357438136#Topic/flore> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/357438136#Topic/flore> <http://schema.org/name> "flore" .
+<http://experiment.worldcat.org/entity/work/data/357438136#Place/la_habana> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://experiment.worldcat.org/entity/work/data/357438136#Place/la_habana> <http://schema.org/name> "La Habana" .
+<http://www.worldcat.org/oclc/716037299> <http://schema.org/contributor> <http://viaf.org/viaf/126106801> .
+<http://www.worldcat.org/oclc/716037299> <http://purl.org/library/oclcnum> "716037299" .
+<http://www.worldcat.org/oclc/716037299> <http://schema.org/publisher> <http://experiment.worldcat.org/entity/work/data/357438136#Agent/universidad_de_la_habana> .
+<http://www.worldcat.org/oclc/716037299> <http://schema.org/productID> "716037299" .
+<http://www.worldcat.org/oclc/716037299> <http://schema.org/genre> "[périodique]" .
+<http://www.worldcat.org/oclc/716037299> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/357438136#Topic/flore> .
+<http://www.worldcat.org/oclc/716037299> <http://schema.org/publication> <http://www.worldcat.org/title/-/oclc/716037299#PublicationEvent/la_habana_universidad_de_la_habana_1981> .
+<http://www.worldcat.org/oclc/716037299> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://www.worldcat.org/oclc/716037299> <http://schema.org/datePublished> "1981/9999" .
+<http://www.worldcat.org/oclc/716037299> <http://purl.org/library/placeOfPublication> <http://experiment.worldcat.org/entity/work/data/357438136#Place/la_habana> .
+<http://www.worldcat.org/oclc/716037299> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/357438136#Topic/vegetation> .
+<http://www.worldcat.org/oclc/716037299> <http://schema.org/name> "Revista del Jardín Botánico Nacional, Universidad de La Habana." .
+<http://www.worldcat.org/oclc/716037299> <http://schema.org/exampleOfWork> <http://worldcat.org/entity/work/id/357438136> .
+<http://www.worldcat.org/oclc/716037299> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/357438136#Topic/flore_vegetation_cuba> .
+<http://www.worldcat.org/oclc/716037299> <http://purl.org/library/placeOfPublication> <http://id.loc.gov/vocabulary/countries/cu> .
+<http://www.worldcat.org/oclc/716037299> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://www.worldcat.org/oclc/716037299> <http://schema.org/datePublished> "1981/" .
+<http://www.worldcat.org/oclc/716037299> <http://www.w3.org/2007/05/powder-s#describedby> <http://www.worldcat.org/title/-/oclc/716037299> .
+<http://www.worldcat.org/oclc/716037299> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/357438136#Topic/botanique> .
+<http://www.worldcat.org/oclc/716037299> <http://schema.org/inLanguage> "es" .
+<http://www.worldcat.org/oclc/716037299> <http://schema.org/workExample> <http://worldcat.org/issn/0253-5696> .
+<http://experiment.worldcat.org/entity/work/data/357438136#Topic/botanique> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/357438136#Topic/botanique> <http://schema.org/name> "botanique" .
+<http://worldcat.org/issn/0253-5696> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://worldcat.org/issn/0253-5696> <http://schema.org/name> "Revista del Jardín Botánico Nacional, Universidad de La Habana." .
+<http://worldcat.org/issn/0253-5696> <http://schema.org/issn> "0253-5696" .
+<http://worldcat.org/issn/0253-5696> <http://umbel.org/umbel#isLike> <http://worldcat.org/entity/work/id/357438136> .
+<http://www.worldcat.org/title/-/oclc/716037299> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#ContentTypeGenericResource> .
+<http://www.worldcat.org/title/-/oclc/716037299> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#InformationResource> .
+<http://www.worldcat.org/title/-/oclc/716037299> <http://schema.org/about> <http://www.worldcat.org/oclc/716037299> .
+<http://www.worldcat.org/title/-/oclc/716037299> <http://schema.org/dateModified> "2018-12-12" .
+<http://www.worldcat.org/title/-/oclc/716037299> <http://rdfs.org/ns/void#inDataset> <http://purl.oclc.org/dataset/WorldCat> .
+<http://id.loc.gov/vocabulary/countries/cu> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://id.loc.gov/vocabulary/countries/cu> <http://purl.org/dc/terms/identifier> "cu" .
+<http://viaf.org/viaf/126106801> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+<http://viaf.org/viaf/126106801> <http://schema.org/name> "Jardín Botánico Nacional (La Habana)" .
+<http://experiment.worldcat.org/entity/work/data/357438136#Agent/universidad_de_la_habana> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bibliograph.net/Agent> .
+<http://experiment.worldcat.org/entity/work/data/357438136#Agent/universidad_de_la_habana> <http://schema.org/name> "Universidad de La Habana" .
+<http://experiment.worldcat.org/entity/work/data/357438136#Topic/flore_vegetation_cuba> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/357438136#Topic/flore_vegetation_cuba> <http://schema.org/name> "flore--végétation--Cuba" .
+<http://worldcat.org/entity/work/id/357438136> <http://umbel.org/umbel#isLike> <http://worldcat.org/issn/0253-5696> .

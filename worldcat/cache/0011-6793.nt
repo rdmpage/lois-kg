@@ -1,0 +1,32 @@
+<http://www.worldcat.org/oclc/610585381> <http://schema.org/contributor> <http://viaf.org/viaf/136645413> .
+<http://www.worldcat.org/oclc/610585381> <http://schema.org/name> "Darwiniana."@en .
+<http://www.worldcat.org/oclc/610585381> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://www.worldcat.org/oclc/610585381> <http://schema.org/contributor> <http://viaf.org/viaf/131977828> .
+<http://www.worldcat.org/oclc/610585381> <http://schema.org/exampleOfWork> <http://worldcat.org/entity/work/id/390738019> .
+<http://www.worldcat.org/oclc/610585381> <http://www.w3.org/2007/05/powder-s#describedby> <http://www.worldcat.org/title/-/oclc/610585381> .
+<http://www.worldcat.org/oclc/610585381> <http://schema.org/inLanguage> "en" .
+<http://www.worldcat.org/oclc/610585381> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://www.worldcat.org/oclc/610585381> <http://schema.org/datePublished> "1929/" .
+<http://www.worldcat.org/oclc/610585381> <http://schema.org/url> <http://infotrac.galegroup.com/itw/infomark/1/1/1/purl=rc18%5fAONE%5F0%5F%5Fjn+%22Darwiniana%22> .
+<http://www.worldcat.org/oclc/610585381> <http://schema.org/workExample> <http://worldcat.org/issn/0011-6793> .
+<http://www.worldcat.org/oclc/610585381> <http://purl.org/library/oclcnum> "610585381" .
+<http://www.worldcat.org/oclc/610585381> <http://schema.org/productID> "610585381" .
+<http://www.worldcat.org/oclc/610585381> <http://schema.org/datePublished> "1929/9999" .
+<http://www.worldcat.org/oclc/610585381> <http://schema.org/publication> <http://www.worldcat.org/title/-/oclc/610585381#PublicationEvent/1929> .
+<http://www.worldcat.org/title/-/oclc/610585381> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#ContentTypeGenericResource> .
+<http://www.worldcat.org/title/-/oclc/610585381> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#InformationResource> .
+<http://www.worldcat.org/title/-/oclc/610585381> <http://schema.org/about> <http://www.worldcat.org/oclc/610585381> .
+<http://www.worldcat.org/title/-/oclc/610585381> <http://schema.org/dateModified> "2018-11-10" .
+<http://www.worldcat.org/title/-/oclc/610585381> <http://rdfs.org/ns/void#inDataset> <http://purl.oclc.org/dataset/WorldCat> .
+<http://worldcat.org/issn/0011-6793> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://worldcat.org/issn/0011-6793> <http://schema.org/name> "Darwiniana."@en .
+<http://worldcat.org/issn/0011-6793> <http://schema.org/issn> "0011-6793" .
+<http://worldcat.org/issn/0011-6793> <http://umbel.org/umbel#isLike> <http://worldcat.org/entity/work/id/390738019> .
+<http://viaf.org/viaf/131977828> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+<http://viaf.org/viaf/131977828> <http://schema.org/name> "Instituto de Botánica Darwinion (San Isidro, Argentina)" .
+<http://worldcat.org/entity/work/id/390738019> <http://umbel.org/umbel#isLike> <http://worldcat.org/issn/0011-6793> .
+<http://viaf.org/viaf/136645413> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+<http://viaf.org/viaf/136645413> <http://schema.org/name> "Academia Nacional de Ciencias Exactas, Físicas y Naturales (Argentina)" .
+<http://www.worldcat.org/title/-/oclc/610585381#PublicationEvent/1929> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PublicationEvent> .
+<http://www.worldcat.org/title/-/oclc/610585381#PublicationEvent/1929> <http://schema.org/startDate> "1929-" .
+<http://infotrac.galegroup.com/itw/infomark/1/1/1/purl=rc18%5fAONE%5F0%5F%5Fjn+%22Darwiniana%22> <http://www.w3.org/2000/01/rdf-schema#comment> "GALE Academic OneFile" .

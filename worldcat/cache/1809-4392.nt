@@ -1,0 +1,38 @@
+<http://www.worldcat.org/oclc/768085919> <http://purl.org/library/placeOfPublication> <http://id.loc.gov/vocabulary/countries/bl> .
+<http://www.worldcat.org/oclc/768085919> <http://schema.org/exampleOfWork> <http://worldcat.org/entity/work/id/53721251> .
+<http://www.worldcat.org/oclc/768085919> <http://schema.org/publication> <http://www.worldcat.org/title/-/oclc/768085919#PublicationEvent/manaus_instituto_nacional_de_pesquisas_da_amazonia> .
+<http://www.worldcat.org/oclc/768085919> <http://schema.org/name> "Acta Amazonica" .
+<http://www.worldcat.org/oclc/768085919> <http://purl.org/library/placeOfPublication> <http://experiment.worldcat.org/entity/work/data/53721251#Place/manaus> .
+<http://www.worldcat.org/oclc/768085919> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://www.worldcat.org/oclc/768085919> <http://schema.org/publisher> <http://experiment.worldcat.org/entity/work/data/53721251#Agent/instituto_nacional_de_pesquisas_da_amazonia> .
+<http://www.worldcat.org/oclc/768085919> <http://schema.org/inLanguage> "mul" .
+<http://www.worldcat.org/oclc/768085919> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/MediaObject> .
+<http://www.worldcat.org/oclc/768085919> <http://schema.org/workExample> <http://worldcat.org/issn/1809-4392> .
+<http://www.worldcat.org/oclc/768085919> <http://schema.org/datePublished> "2003/9999" .
+<http://www.worldcat.org/oclc/768085919> <http://purl.org/library/oclcnum> "768085919" .
+<http://www.worldcat.org/oclc/768085919> <http://schema.org/url> <http://www.scielo.br/scielo.php?script=sci_serial&pid=0044-5967&lng=en&nrm=iso> .
+<http://www.worldcat.org/oclc/768085919> <http://schema.org/contributor> <http://viaf.org/viaf/132238752> .
+<http://www.worldcat.org/oclc/768085919> <http://schema.org/productID> "768085919" .
+<http://www.worldcat.org/oclc/768085919> <http://www.w3.org/2007/05/powder-s#describedby> <http://www.worldcat.org/title/-/oclc/768085919> .
+<http://www.worldcat.org/oclc/768085919> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://viaf.org/viaf/132238752> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+<http://viaf.org/viaf/132238752> <http://schema.org/name> "Instituto Nacional de Pesquisas da Amazònia." .
+<http://www.worldcat.org/title/-/oclc/768085919#PublicationEvent/manaus_instituto_nacional_de_pesquisas_da_amazonia> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PublicationEvent> .
+<http://www.worldcat.org/title/-/oclc/768085919#PublicationEvent/manaus_instituto_nacional_de_pesquisas_da_amazonia> <http://schema.org/location> <http://experiment.worldcat.org/entity/work/data/53721251#Place/manaus> .
+<http://www.worldcat.org/title/-/oclc/768085919#PublicationEvent/manaus_instituto_nacional_de_pesquisas_da_amazonia> <http://schema.org/organizer> <http://experiment.worldcat.org/entity/work/data/53721251#Agent/instituto_nacional_de_pesquisas_da_amazonia> .
+<http://worldcat.org/entity/work/id/53721251> <http://umbel.org/umbel#isLike> <http://worldcat.org/issn/1809-4392> .
+<http://worldcat.org/issn/1809-4392> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://worldcat.org/issn/1809-4392> <http://schema.org/name> "Acta Amazonica" .
+<http://worldcat.org/issn/1809-4392> <http://schema.org/issn> "1809-4392" .
+<http://worldcat.org/issn/1809-4392> <http://umbel.org/umbel#isLike> <http://worldcat.org/entity/work/id/53721251> .
+<http://id.loc.gov/vocabulary/countries/bl> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://id.loc.gov/vocabulary/countries/bl> <http://purl.org/dc/terms/identifier> "bl" .
+<http://experiment.worldcat.org/entity/work/data/53721251#Place/manaus> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://experiment.worldcat.org/entity/work/data/53721251#Place/manaus> <http://schema.org/name> "Manaus" .
+<http://www.worldcat.org/title/-/oclc/768085919> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#ContentTypeGenericResource> .
+<http://www.worldcat.org/title/-/oclc/768085919> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#InformationResource> .
+<http://www.worldcat.org/title/-/oclc/768085919> <http://schema.org/about> <http://www.worldcat.org/oclc/768085919> .
+<http://www.worldcat.org/title/-/oclc/768085919> <http://schema.org/dateModified> "2019-09-07" .
+<http://www.worldcat.org/title/-/oclc/768085919> <http://rdfs.org/ns/void#inDataset> <http://purl.oclc.org/dataset/WorldCat> .
+<http://experiment.worldcat.org/entity/work/data/53721251#Agent/instituto_nacional_de_pesquisas_da_amazonia> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bibliograph.net/Agent> .
+<http://experiment.worldcat.org/entity/work/data/53721251#Agent/instituto_nacional_de_pesquisas_da_amazonia> <http://schema.org/name> "Instituto Nacional de Pesquisas da Amazônia." .

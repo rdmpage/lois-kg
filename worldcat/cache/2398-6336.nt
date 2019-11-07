@@ -1,0 +1,42 @@
+<http://worldcat.org/entity/work/id/5545208918> <http://umbel.org/umbel#isLike> <http://worldcat.org/issn/2398-6336> .
+<http://dewey.info/class/580.12/e23/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://worldcat.org/issn/2398-6336> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://worldcat.org/issn/2398-6336> <http://schema.org/name> "Plant Gateway's the global flora : a practical flora to vascular plant species of the world."@en .
+<http://worldcat.org/issn/2398-6336> <http://schema.org/issn> "2398-6336" .
+<http://worldcat.org/issn/2398-6336> <http://umbel.org/umbel#isLike> <http://worldcat.org/entity/work/id/5545208918> .
+<http://id.loc.gov/vocabulary/countries/enk> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://id.loc.gov/vocabulary/countries/enk> <http://purl.org/dc/terms/identifier> "enk" .
+<http://worldcat.org/entity/work/data/5545208918#CreativeWork/plant_gateway_s_the_global_flora> <http://schema.org/isSimilarTo> <http://www.worldcat.org/oclc/1063768604> .
+<http://worldcat.org/entity/work/data/5545208918#CreativeWork/plant_gateway_s_the_global_flora> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://worldcat.org/entity/work/data/5545208918#CreativeWork/plant_gateway_s_the_global_flora> <http://www.w3.org/2000/01/rdf-schema#label> "Plant Gateway's the global flora" .
+<http://worldcat.org/entity/work/data/5545208918#CreativeWork/plant_gateway_s_the_global_flora> <http://schema.org/description> "Online version as:" .
+<http://www.worldcat.org/oclc/1063768604> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://www.worldcat.org/oclc/1063768604> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://www.worldcat.org/oclc/1063768604> <http://schema.org/exampleOfWork> <http://worldcat.org/entity/work/id/5545208918> .
+<http://www.worldcat.org/oclc/1063768604> <http://purl.org/library/oclcnum> "1063768604" .
+<http://www.worldcat.org/oclc/1063768604> <http://schema.org/datePublished> "2016/9999" .
+<http://www.worldcat.org/oclc/1063768604> <http://schema.org/alternateName> "Global flora" .
+<http://www.worldcat.org/oclc/1063768604> <http://umbel.org/umbel#isLike> <http://bnb.data.bl.uk/id/resource/GBB858577> .
+<http://www.worldcat.org/oclc/1063768604> <http://schema.org/isSimilarTo> <http://worldcat.org/entity/work/data/5545208918#CreativeWork/plant_gateway_s_the_global_flora> .
+<http://www.worldcat.org/oclc/1063768604> <http://purl.org/library/placeOfPublication> <http://id.loc.gov/vocabulary/countries/enk> .
+<http://www.worldcat.org/oclc/1063768604> <http://schema.org/name> "Plant Gateway's the global flora : a practical flora to vascular plant species of the world."@en .
+<http://www.worldcat.org/oclc/1063768604> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/5545208918#Topic/plants_classification> .
+<http://www.worldcat.org/oclc/1063768604> <http://schema.org/productID> "1063768604" .
+<http://www.worldcat.org/oclc/1063768604> <http://schema.org/about> <http://dewey.info/class/580.12/e23/> .
+<http://www.worldcat.org/oclc/1063768604> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/5545208918#Topic/plant_species> .
+<http://www.worldcat.org/oclc/1063768604> <http://schema.org/workExample> <http://worldcat.org/issn/2398-6336> .
+<http://www.worldcat.org/oclc/1063768604> <http://schema.org/contributor> <http://experiment.worldcat.org/entity/work/data/5545208918#Organization/plant_gateway_firm> .
+<http://www.worldcat.org/oclc/1063768604> <http://schema.org/inLanguage> "en" .
+<http://www.worldcat.org/oclc/1063768604> <http://www.w3.org/2007/05/powder-s#describedby> <http://www.worldcat.org/title/-/oclc/1063768604> .
+<http://www.worldcat.org/oclc/1063768604> <http://schema.org/genre> "Periodicals"@en .
+<http://www.worldcat.org/title/-/oclc/1063768604> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#ContentTypeGenericResource> .
+<http://www.worldcat.org/title/-/oclc/1063768604> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#InformationResource> .
+<http://www.worldcat.org/title/-/oclc/1063768604> <http://schema.org/about> <http://www.worldcat.org/oclc/1063768604> .
+<http://www.worldcat.org/title/-/oclc/1063768604> <http://schema.org/dateModified> "2019-09-17" .
+<http://www.worldcat.org/title/-/oclc/1063768604> <http://rdfs.org/ns/void#inDataset> <http://purl.oclc.org/dataset/WorldCat> .
+<http://experiment.worldcat.org/entity/work/data/5545208918#Organization/plant_gateway_firm> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+<http://experiment.worldcat.org/entity/work/data/5545208918#Organization/plant_gateway_firm> <http://schema.org/name> "Plant Gateway (Firm)," .
+<http://experiment.worldcat.org/entity/work/data/5545208918#Topic/plant_species> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/5545208918#Topic/plant_species> <http://schema.org/name> "Plant species"@en .
+<http://experiment.worldcat.org/entity/work/data/5545208918#Topic/plants_classification> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/5545208918#Topic/plants_classification> <http://schema.org/name> "Plants--Classification"@en .

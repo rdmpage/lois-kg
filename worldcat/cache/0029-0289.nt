@@ -1,0 +1,29 @@
+<http://www.worldcat.org/title/-/oclc/961884740> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#ContentTypeGenericResource> .
+<http://www.worldcat.org/title/-/oclc/961884740> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#InformationResource> .
+<http://www.worldcat.org/title/-/oclc/961884740> <http://schema.org/about> <http://www.worldcat.org/oclc/961884740> .
+<http://www.worldcat.org/title/-/oclc/961884740> <http://schema.org/dateModified> "2019-02-12" .
+<http://www.worldcat.org/title/-/oclc/961884740> <http://rdfs.org/ns/void#inDataset> <http://purl.oclc.org/dataset/WorldCat> .
+<http://worldcat.org/entity/work/id/1064699364> <http://schema.org/name> "Japanese Journal of Mycology (Online)"@en .
+<http://www.worldcat.org/oclc/961884740> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://www.worldcat.org/oclc/961884740> <http://schema.org/genre> "Electronic journals"@en .
+<http://www.worldcat.org/oclc/961884740> <http://schema.org/name> "Japanese Journal of Mycology."@en .
+<http://www.worldcat.org/oclc/961884740> <http://schema.org/genre> "Periodicals"@en .
+<http://www.worldcat.org/oclc/961884740> <http://purl.org/library/oclcnum> "961884740" .
+<http://www.worldcat.org/oclc/961884740> <http://schema.org/url> <https://www.jstage.jst.go.jp/browse/jjom> .
+<http://www.worldcat.org/oclc/961884740> <http://schema.org/publisher> <http://experiment.worldcat.org/entity/work/data/1064699364#Agent/publisher_not_identified> .
+<http://www.worldcat.org/oclc/961884740> <http://www.w3.org/2007/05/powder-s#describedby> <http://www.worldcat.org/title/-/oclc/961884740> .
+<http://www.worldcat.org/oclc/961884740> <http://purl.org/library/placeOfPublication> <http://experiment.worldcat.org/entity/work/data/1064699364#Place/place_of_publication_not_identified> .
+<http://www.worldcat.org/oclc/961884740> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://www.worldcat.org/oclc/961884740> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/MediaObject> .
+<http://www.worldcat.org/oclc/961884740> <http://schema.org/inLanguage> "en" .
+<http://www.worldcat.org/oclc/961884740> <http://schema.org/productID> "961884740" .
+<http://www.worldcat.org/oclc/961884740> <http://schema.org/publication> <http://www.worldcat.org/title/-/oclc/961884740#PublicationEvent/place_of_publication_not_identified_publisher_not_identified> .
+<http://www.worldcat.org/oclc/961884740> <http://schema.org/exampleOfWork> <http://worldcat.org/entity/work/id/1064699364> .
+<https://www.jstage.jst.go.jp/browse/jjom> <http://www.w3.org/2000/01/rdf-schema#comment> "2016 to present" .
+<http://www.worldcat.org/title/-/oclc/961884740#PublicationEvent/place_of_publication_not_identified_publisher_not_identified> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PublicationEvent> .
+<http://www.worldcat.org/title/-/oclc/961884740#PublicationEvent/place_of_publication_not_identified_publisher_not_identified> <http://schema.org/location> <http://experiment.worldcat.org/entity/work/data/1064699364#Place/place_of_publication_not_identified> .
+<http://www.worldcat.org/title/-/oclc/961884740#PublicationEvent/place_of_publication_not_identified_publisher_not_identified> <http://schema.org/organizer> <http://experiment.worldcat.org/entity/work/data/1064699364#Agent/publisher_not_identified> .
+<http://experiment.worldcat.org/entity/work/data/1064699364#Place/place_of_publication_not_identified> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://experiment.worldcat.org/entity/work/data/1064699364#Place/place_of_publication_not_identified> <http://schema.org/name> "Place of publication not identified" .
+<http://experiment.worldcat.org/entity/work/data/1064699364#Agent/publisher_not_identified> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://bibliograph.net/Agent> .
+<http://experiment.worldcat.org/entity/work/data/1064699364#Agent/publisher_not_identified> <http://schema.org/name> "[publisher not identified" .

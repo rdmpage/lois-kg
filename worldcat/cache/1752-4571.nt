@@ -1,0 +1,53 @@
+<http://experiment.worldcat.org/entity/work/data/4189457615#Topic/genetic_phenomena> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/4189457615#Topic/genetic_phenomena> <http://schema.org/name> "Genetic Phenomena"@en .
+<http://id.loc.gov/vocabulary/countries/enk> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://id.loc.gov/vocabulary/countries/enk> <http://purl.org/dc/terms/identifier> "enk" .
+<http://experiment.worldcat.org/entity/work/data/4189457615#Topic/biological_evolution> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/4189457615#Topic/biological_evolution> <http://schema.org/name> "Biological Evolution"@en .
+<http://www.worldcat.org/title/-/oclc/921421483> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#ContentTypeGenericResource> .
+<http://www.worldcat.org/title/-/oclc/921421483> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/gen/ont#InformationResource> .
+<http://www.worldcat.org/title/-/oclc/921421483> <http://schema.org/about> <http://www.worldcat.org/oclc/921421483> .
+<http://www.worldcat.org/title/-/oclc/921421483> <http://schema.org/dateModified> "2019-02-10" .
+<http://www.worldcat.org/title/-/oclc/921421483> <http://rdfs.org/ns/void#inDataset> <http://purl.oclc.org/dataset/WorldCat> .
+<http://experiment.worldcat.org/entity/work/data/4189457615#Topic/natural_selection> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/4189457615#Topic/natural_selection> <http://schema.org/name> "Natural selection"@en .
+<http://dewey.info/class/576.8/e23/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/4189457615#Topic/evolution_biology> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/4189457615#Topic/evolution_biology> <http://schema.org/name> "Evolution (Biology)"@en .
+<http://worldcat.org/entity/work/id/4189457615> <http://umbel.org/umbel#isLike> <http://worldcat.org/issn/1752-4571> .
+<http://www.worldcat.org/oclc/921421483> <http://schema.org/genre> "Periodical"@en .
+<http://www.worldcat.org/oclc/921421483> <http://schema.org/description> "This journal features \"papers that utilize concepts from evolutionary biology to address biological questions of health, social and economic relevance. Papers are expected to employ evolutionary concepts or methods to make contributions to areas such as (but not limited to): agriculture, aquaculture, biomedicine, biotechnology, climate change, conservation biology, disease biology, fisheries and wildlife management, forestry, invasion biology and toxicology. Theoretical, empirical, synthesis or perspective papers are welcome.\""@en .
+<http://www.worldcat.org/oclc/921421483> <http://schema.org/url> <http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1752-4571> .
+<http://www.worldcat.org/oclc/921421483> <http://schema.org/exampleOfWork> <http://worldcat.org/entity/work/id/4189457615> .
+<http://www.worldcat.org/oclc/921421483> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/4189457615#Topic/ecology> .
+<http://www.worldcat.org/oclc/921421483> <http://www.w3.org/2007/05/powder-s#describedby> <http://www.worldcat.org/title/-/oclc/921421483> .
+<http://www.worldcat.org/oclc/921421483> <http://schema.org/productID> "921421483" .
+<http://www.worldcat.org/oclc/921421483> <http://schema.org/datePublished> "2008/9999" .
+<http://www.worldcat.org/oclc/921421483> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/4189457615#Topic/evolution_biology> .
+<http://www.worldcat.org/oclc/921421483> <http://schema.org/workExample> <http://worldcat.org/issn/1752-4571> .
+<http://www.worldcat.org/oclc/921421483> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/MediaObject> .
+<http://www.worldcat.org/oclc/921421483> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/4189457615#Topic/genetics> .
+<http://www.worldcat.org/oclc/921421483> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/4189457615#Topic/biological_evolution> .
+<http://www.worldcat.org/oclc/921421483> <http://schema.org/url> <http://www.blackwellpublishing.com/journal.asp?ref=1752-4571&site=1> .
+<http://www.worldcat.org/oclc/921421483> <http://schema.org/genre> "Fulltext"@en .
+<http://www.worldcat.org/oclc/921421483> <http://schema.org/inLanguage> "en" .
+<http://www.worldcat.org/oclc/921421483> <http://schema.org/name> "Evolutionary applications : evolutionary approaches to environmental, biomedical and socio-economic issues."@en .
+<http://www.worldcat.org/oclc/921421483> <http://schema.org/genre> "Internet Resources"@en .
+<http://www.worldcat.org/oclc/921421483> <http://schema.org/about> <http://dewey.info/class/576.8/e23/> .
+<http://www.worldcat.org/oclc/921421483> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://www.worldcat.org/oclc/921421483> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/4189457615#Topic/natural_selection> .
+<http://www.worldcat.org/oclc/921421483> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://www.worldcat.org/oclc/921421483> <http://umbel.org/umbel#isLike> <http://bnb.data.bl.uk/id/resource/GBB352570> .
+<http://www.worldcat.org/oclc/921421483> <http://purl.org/library/placeOfPublication> <http://id.loc.gov/vocabulary/countries/enk> .
+<http://www.worldcat.org/oclc/921421483> <http://schema.org/genre> "Periodicals"@en .
+<http://www.worldcat.org/oclc/921421483> <http://schema.org/about> <http://experiment.worldcat.org/entity/work/data/4189457615#Topic/genetic_phenomena> .
+<http://www.worldcat.org/oclc/921421483> <http://purl.org/library/oclcnum> "921421483" .
+<http://www.worldcat.org/oclc/921421483> <http://schema.org/url> <http://www3.interscience.wiley.com/journal/119423602/home> .
+<http://worldcat.org/issn/1752-4571> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> .
+<http://worldcat.org/issn/1752-4571> <http://schema.org/name> "Evolutionary applications : evolutionary approaches to environmental, biomedical and socio-economic issues."@en .
+<http://worldcat.org/issn/1752-4571> <http://schema.org/issn> "1752-4571" .
+<http://worldcat.org/issn/1752-4571> <http://umbel.org/umbel#isLike> <http://worldcat.org/entity/work/id/4189457615> .
+<http://experiment.worldcat.org/entity/work/data/4189457615#Topic/genetics> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/4189457615#Topic/genetics> <http://schema.org/name> "Genetics"@en .
+<http://experiment.worldcat.org/entity/work/data/4189457615#Topic/ecology> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> .
+<http://experiment.worldcat.org/entity/work/data/4189457615#Topic/ecology> <http://schema.org/name> "Ecology"@en .
