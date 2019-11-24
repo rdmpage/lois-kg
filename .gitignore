@@ -14,4 +14,13 @@ oz-gbif/*.nt
 oz-orcid/*.nt
 oz-orcid/junk
 
+references/*.ris
+references/*.sql
+
 resolvers/*.nt
+resolvers/triples/*.nt
+
+sameAs/*.nt
+
+thumbnails/*.nt
+thumbnails/tmp/
