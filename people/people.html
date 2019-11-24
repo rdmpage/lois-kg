@@ -16,7 +16,7 @@ String.prototype.latinize=String.prototype.latinise;
 String.prototype.isLatin=function(){return this==this.latinise()}
 
 
-
+//----------------------------------------------------------------------------------------
 function finger_print(s) {
 
 	s = s.toLowerCase();
@@ -24,6 +24,7 @@ function finger_print(s) {
   	s = s.latinise();
   	s = s.toLowerCase();
 
+	/*
 	// stop words
 	// en
 	s = s.replace(/\bfor\b/g, '');
@@ -41,6 +42,8 @@ function finger_print(s) {
 	s = s.replace(/\bdas\b/g, '');
 	s = s.replace(/\bder\b/g, '');
 	s = s.replace(/\bfur\b/g, '');
+	
+	*/
 
 	// numbers
 	s = s.replace(/\d+/g, '');
@@ -58,9 +61,13 @@ function finger_print(s) {
 	return s;
 }
 
+//----------------------------------------------------------------------------------------
+
 function capitalizeFirstLetter(word) {
     return word[0].toUpperCase() + word.slice(1).toLowerCase();
 }
+
+//----------------------------------------------------------------------------------------
 
 function capitalizeWords(s) {
 	var arr = s.split(" ");
@@ -72,21 +79,30 @@ function capitalizeWords(s) {
     return arr.join(" ");
 }
 
+//----------------------------------------------------------------------------------------
 function tidy_up(s) {
-	// Title case
-	s = capitalizeWords(s);
+	// Handles cases where initial is stuck on end of first names
+	var regex = /([A-ZÉ][^A-Z]+)(([A-Z]\.)([A-Z]\.)?)/g;
+	if (s.match(regex)) {
+   	 s = s.replace(regex, "$1 $2");
+	}	
 	
 	// Make sure initials are separated by a space
-	var regex = /([A-Z])\.([A-Z])/g;
+	regex = /([A-Z])\.([A-Z])/g;
 	if (s.match(regex)) {
    	 s = s.replace(regex, "$1. $2");
 	}	
 	
-	// Intials need a period
+	// Initials need a period
 	regex = /([A-Z])\s/g;
 	if (s.match(regex)) {
    	 s = s.replace(regex, "$1. ");
 	}		
+	
+	// Title case
+	s = capitalizeWords(s);
+	
+	
 	
 	// spacing
 	s = s.replace(/\s\s*/g, ' ');
@@ -128,6 +144,28 @@ function tidy_up(s) {
 	[ "BATISTA", "JOÃO A. N." ]		
 	
 	
+	];
+	
+	people = [[
+                "Wojciechowski",
+                "Martin F"
+            ],
+             [
+                "Wojciechowski",
+                "Martin F."
+            ],
+             [
+                "Wojciechowski",
+                "MartinF."
+            ],
+            [
+            "Iganci",
+            "JoãoR.V."
+            ],
+            [
+             "de Souza", "ÉlviaR."
+            
+            ]
 	];
 
 	/*
