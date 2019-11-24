@@ -1,0 +1,329 @@
+#NEXUS
+begin taxa;
+	dimensions ntax=227;
+	taxlabels
+	'Ipomoea abutiloides (=Turbina abutiloides)'
+	'Ipomoea acanthocarpa'
+	'Ipomoea aff theodori'
+	'Ipomoea aff. psammophila'
+	'Ipomoea alba'
+	'Ipomoea alpina'
+	'Ipomoea amazonica (=Turbina amazonica)'
+	'Ipomoea ampullacea'
+	'Ipomoea ancisa'
+	'Ipomoea appendiculata'
+	'Ipomoea arborescens'
+	'Ipomoea argentaurata'
+	'Ipomoea argentea'
+	'Ipomoea argentinica'
+	'Ipomoea argillicola'
+	'Ipomoea aristolochiifolia'
+	'Ipomoea asarifolia'
+	'Ipomoea asplundii'
+	'Ipomoea aurifolia'
+	'Ipomoea australis'
+	'Ipomoea austroindica (=Argyreia bracteata)'
+	'Ipomoea bahiensis'
+	'Ipomoea batatas'
+	'Ipomoea batatas2'
+	'Ipomoea batatoides'
+	'Ipomoea beraviensis (=Stictocardia beraviensis)'
+	'Ipomoea bernouilliana'
+	'Ipomoea biflora'
+	'Ipomoea binectarifera (= Lepistemon binectariferum)'
+	'Ipomoea bonariensis'
+	'Ipomoea bracteata'
+	'Ipomoea brasiliana subincana'
+	'Ipomoea brassii'
+	'Ipomoea cairica'
+	'Ipomoea calobra'
+	'Ipomoea calyptrata'
+	'Ipomoea cambodiensis'
+	'Ipomoea capillacea'
+	'Ipomoea cardiophylla'
+	'Ipomoea carnea carnea'
+	'Ipomoea carnea fistulosa'
+	'Ipomoea cerradoensis'
+	'Ipomoea cheirophylla'
+	'Ipomoea chondrosepala'
+	'Ipomoea chrysosperma'
+	'Ipomoea ciervensis'
+	'Ipomoea clausa'
+	'Ipomoea clavata'
+	'Ipomoea coccinea'
+	'Ipomoea cordatotriloba'
+	'Ipomoea corymbosa (=Turbina corymbosa)'
+	'Ipomoea coscinosperma'
+	'Ipomoea costellata'
+	'Ipomoea costellata2'
+	'Ipomoea crinicalyx'
+	'Ipomoea cryptica'
+	'Ipomoea cuneifolia'
+	'Ipomoea cynanchifolia'
+	'Ipomoea decasperma'
+	'Ipomoea descolei'
+	'Ipomoea desmophylla'
+	'Ipomoea dichroa'
+	'Ipomoea dumetorum'
+	'Ipomoea dumosa'
+	'Ipomoea dumosa2'
+	'Ipomoea elythrocephala'
+	'Ipomoea emetica'
+	'Ipomoea eriocarpa'
+	'Ipomoea formosa (= Argyreia venusta)'
+	'Ipomoea furcyensis'
+	'Ipomoea geophylifolia'
+	'Ipomoea goyazensis'
+	'Ipomoea gracilis'
+	'Ipomoea gracilis2'
+	'Ipomoea grandifolia'
+	'Ipomoea graniticola'
+	'Ipomoea granulosa'
+	'Ipomoea haenkeana'
+	'Ipomoea hartmannii'
+	'Ipomoea hederacea'
+	'Ipomoea hederifolia'
+	'Ipomoea hieronymi'
+	'Ipomoea himalayana (= Argyreia hookeri)'
+	'Ipomoea hirtifructa'
+	'Ipomoea hochstetteri'
+	'Ipomoea holubii (Turbina holubii)'
+	'Ipomoea homotrichoidea'
+	'Ipomoea imperati'
+	'Ipomoea incompta (=Stictocardia incomta)'
+	'Ipomoea indica'
+	'Ipomoea indica2'
+	'Ipomoea indica3'
+	'Ipomoea indica4'
+	'Ipomoea intrapilosa'
+	'Ipomoea involucrata operosa'
+	'Ipomoea jalapa'
+	'Ipomoea kotschyana'
+	'Ipomoea lachnosperma (=Astripomoea lachnosperma)'
+	'Ipomoea lactifera'
+	'Ipomoea lacunosa'
+	'Ipomoea leptophylla'
+	'Ipomoea leucotricha'
+	'Ipomoea lilloana'
+	'Ipomoea lindenii'
+	'Ipomoea littoralis'
+	'Ipomoea littoralis2'
+	'Ipomoea longeramosa'
+	'Ipomoea longibarbis'
+	'Ipomoea lutea'
+	'Ipomoea macalusoi (=Stictocardia macalusoi)'
+	'Ipomoea magnifolia'
+	'Ipomoea malvacea (= Astripomoea malvaceaea)'
+	'Ipomoea malvaeoides'
+	'Ipomoea marcellia'
+	'Ipomoea marginisepala'
+	'Ipomoea mauritiana'
+	'Ipomoea megapotamica'
+	'Ipomoea megapotamica2'
+	'Ipomoea melvillei (= Argyreia melvillei)'
+	'Ipomoea meyeri'
+	'Ipomoea microdactyla'
+	'Ipomoea mucronatoproducta'
+	'Ipomoea mucronifolia'
+	'Ipomoea muelleri'
+	'Ipomoea muricata'
+	'Ipomoea murucoides'
+	'Ipomoea neei'
+	'Ipomoea nervosa (= Argyreia nervosa)'
+	'Ipomoea neurocephala'
+	'Ipomoea nil'
+	'Ipomoea nitida'
+	'Ipomoea nitida krapovickasii'
+	'Ipomoea nogalensis (= Astripomoea nogalensis)'
+	'Ipomoea oblongata (=Turbina oblongata)'
+	'Ipomoea obtusifolia (=Argyreia obtusifolia)'
+	'Ipomoea ochracea'
+	'Ipomoea odontophylla'
+	'Ipomoea oenotherae'
+	'Ipomoea oenotheroides (=Turbina oenotheroides)'
+	'Ipomoea opulifolia'
+	'Ipomoea oranensis'
+	'Ipomoea orizabensis'
+	'Ipomoea orizabensis2'
+	'Ipomoea osyrensis (= Argyreia osyrensis)'
+	'Ipomoea owariensis (=Lepistemon owariense)'
+	'Ipomoea padillae'
+	'Ipomoea paludicola'
+	'Ipomoea paludosa'
+	'Ipomoea pandurata'
+	'Ipomoea papilio'
+	'Ipomoea parasitica'
+	'Ipomoea pauciflora'
+	'Ipomoea paulistana'
+	'Ipomoea pescaprae'
+	'Ipomoea pestigridis'
+	'Ipomoea pharbitiformis'
+	'Ipomoea philomega'
+	'Ipomoea pileata'
+	'Ipomoea pinifolia'
+	'Ipomoea pintoi'
+	'Ipomoea plummerae'
+	'Ipomoea polpha'
+	'Ipomoea porphyrea (= Turbina bracteata)'
+	'Ipomoea praecana'
+	'Ipomoea procumbens'
+	'Ipomoea procumbens2'
+	'Ipomoea procurrens'
+	'Ipomoea psammophila'
+	'Ipomoea pterocaulis'
+	'Ipomoea pubescens'
+	'Ipomoea puncticulata'
+	'Ipomoea purpurea'
+	'Ipomoea pyrophila'
+	'Ipomoea queirozii'
+	'Ipomoea ramosissima'
+	'Ipomoea regnellii'
+	'Ipomoea reticulata'
+	'Ipomoea retropilosa'
+	'Ipomoea rosea'
+	'Ipomoea rubens'
+	'Ipomoea rubriflora'
+	'Ipomoea sagittata'
+	'Ipomoea seducta'
+	'Ipomoea sericosepala'
+	'Ipomoea sescossiana'
+	'Ipomoea setifera'
+	'Ipomoea setosa'
+	'Ipomoea setosa sepacuitensis'
+	'Ipomoea shirensis (=Turbina shirensis)'
+	'Ipomoea silvicola'
+	'Ipomoea simonsiana'
+	'Ipomoea sinensis blepharosepala'
+	'Ipomoea sp nov'
+	'Ipomoea splendens (= Argyreia splendens)'
+	'Ipomoea splendorsylvae'
+	'Ipomoea splendorsylvae2'
+	'Ipomoea squamisepala'
+	'Ipomoea squamosa'
+	'Ipomoea stans'
+	'Ipomoea staplesii (= Argyreia wallichii)'
+	'Ipomoea stenobasis'
+	'Ipomoea strigosa (= Argyreia capitiformis)'
+	'Ipomoea subrevoluta'
+	'Ipomoea suffulta'
+	'Ipomoea sumatrana'
+	'Ipomoea tenuirostris'
+	'Ipomoea tenuissima'
+	'Ipomoea tiliacea'
+	'Ipomoea tiliifolia (=Stictocardia tiliifolia)'
+	'Ipomoea tiliifolia2 (=Stictocardia tiliifolia)'
+	'Ipomoea trifida'
+	'Ipomoea triloba'
+	'Ipomoea tuboides'
+	'Ipomoea ugandensis (= Astripomoea grantii)'
+	'Ipomoea ugandensis2 (= Astripomoea grantii)'
+	'Ipomoea uninervis'
+	'Ipomoea uninervis2'
+	'Ipomoea urbaniana'
+	'Ipomoea valenzulensis'
+	'Ipomoea velardei'
+	'Ipomoea verbascoidea'
+	'Ipomoea villifera'
+	'Ipomoea violacea'
+	'Ipomoea welwitschii'
+	'Ipomoea wolcottiana'
+	'Operculina pteripes'
+	'Operculina sp'
+;
+end;
+
+begin trees;
+	tree tree_1 = [&R] ((((((((((((((((((((((((((('Ipomoea nitida':0.005052,'Ipomoea valenzulensis':0.004674)[&support=1.0]:8.15E-4,('Ipomoea aff theodori':0.00472,'Ipomoea malvaeoides':0.004768)[&support=1.0]:7.28E-4)[&support=1.0]:7.96E-4,'Ipomoea paludosa':0.004862)[&support=0.931]:5.0E-4,(('Ipomoea nitida krapovickasii':0.004289,'Ipomoea padillae':0.004103)[&support=1.0]:8.94E-4,('Ipomoea hieronymi':0.001339,'Ipomoea megapotamica2':0.002206)[&support=1.0]:0.003059)[&support=1.0]:5.27E-4)[&support=1.0]:6.44E-4,((('Ipomoea uninervis':0.002336,'Ipomoea uninervis2':0.003898)[&support=1.0,!name="Ipomoea uninervis",!collapse={"collapsed",0.017654899999999987}]:0.001208,'Ipomoea geophylifolia':0.004197)[&support=1.0]:7.07E-4,'Ipomoea hirtifructa':0.005317,'Ipomoea aurifolia':0.004442)[&support=1.0]:7.71E-4)[&support=0.907]:4.44E-4,(((('Ipomoea argentinica':0.004117,'Ipomoea longibarbis':0.003694)[&support=1.0]:0.001477,'Ipomoea mucronifolia':0.005259)[&support=1.0]:8.48E-4,('Ipomoea aff. psammophila':0.003046,'Ipomoea psammophila':0.00506)[&support=1.0]:0.001315)[&support=0.998]:2.94E-4,(('Ipomoea haenkeana':0.006501,'Ipomoea megapotamica':0.006303)[&support=1.0]:0.001035,('Ipomoea cerradoensis':0.005007,'Ipomoea cuneifolia':0.005679)[&support=1.0]:6.97E-4)[&support=1.0]:4.39E-4)[&support=1.0]:5.73E-4)[&support=1.0]:6.01E-4,'Ipomoea opulifolia':0.007592)[&support=1.0]:3.82E-4,((('Ipomoea chondrosepala':0.003839,'Ipomoea lilloana':0.00367)[&support=1.0]:8.77E-4,'Ipomoea jalapa':0.005862)[&support=1.0]:8.93E-4,'Ipomoea appendiculata':0.007714)[&support=0.787]:2.83E-4)[&support=1.0]:5.32E-4,'Ipomoea praecana':0.006723)[&support=1.0]:9.08E-4,'Ipomoea marcellia':0.008023)[&support=1.0]:0.001226,(('Ipomoea carnea carnea':0.004238,'Ipomoea carnea fistulosa':0.003879)[&support=1.0,!name="Ipomoea carnea",!collapse={"collapsed",0.020378568999999992}]:0.002808,'Ipomoea reticulata':0.006399)[&support=1.0]:9.07E-4)[&support=0.638]:2.56E-4,(('Ipomoea graniticola':0.005224,'Ipomoea rosea':0.005839)[&support=1.0]:0.00316,'Ipomoea pterocaulis':0.006353)[&support=1.0]:7.22E-4)[&support=1.0]:4.72E-4,((('Ipomoea brasiliana subincana':0.004496,'Ipomoea queirozii':0.004501)[&support=1.0]:7.32E-4,'Ipomoea verbascoidea':0.00751)[&support=1.0]:4.5E-4,('Ipomoea calyptrata':0.005953,'Ipomoea descolei':0.005759)[&support=0.974]:5.47E-4)[&support=1.0]:0.001693)[&support=1.0]:3.69E-4,(((('Ipomoea intrapilosa':0.003968,'Ipomoea wolcottiana':0.002796)[&support=1.0]:7.13E-4,'Ipomoea arborescens':0.00347)[&support=1.0]:9.17E-4,'Ipomoea pauciflora':0.003466)[&support=1.0]:0.001381,'Ipomoea murucoides':0.004918)[&support=1.0]:0.002577)[&support=0.99]:3.82E-4,(('Ipomoea calobra':0.00516,'Ipomoea polpha':0.005913)[&support=1.0]:0.003163,'Ipomoea sumatrana':0.007845)[&support=1.0]:0.001433)[&support=1.0]:0.003901,((((((('Ipomoea cheirophylla':0.005789,'Ipomoea mauritiana':0.005759)[&support=1.0]:0.003637,('Ipomoea bonariensis':0.006872,'Ipomoea homotrichoidea':0.007078)[&support=1.0]:0.001654)[&support=1.0]:6.49E-4,'Ipomoea batatoides':0.006812)[&support=0.877]:2.02E-4,'Ipomoea oranensis':0.006058)[&support=0.976]:3.02E-4,((('Ipomoea argentea':0.0057,'Ipomoea paulistana':0.006315)[&support=1.0]:0.001564,'Ipomoea asplundii':0.008432)[&support=1.0]:0.002153,'Ipomoea goyazensis':0.008238)[&support=1.0]:6.82E-4,'Ipomoea pintoi':0.00893)[&support=1.0]:0.0012,(('Ipomoea clausa':0.008791,'Ipomoea furcyensis':0.006681)[&support=1.0]:0.001304,'Ipomoea microdactyla':0.008139)[&support=1.0]:0.001027)[&support=1.0]:0.001657,'Ipomoea ciervensis':0.009309)[&support=1.0]:0.003529)[&support=1.0]:0.002184,('Ipomoea setosa':0.008557,'Ipomoea setosa sepacuitensis':0.006909)[&support=1.0,!name="Ipomoea setosa",!collapse={"collapsed",0.023193193}]:0.004146)[&support=1.0]:7.49E-4,(((((((((('Ipomoea australis':9.51E-4,'Ipomoea cynanchifolia':0.001195)[&support=1.0]:8.04E-4,'Ipomoea grandifolia':0.001591)[&support=1.0]:0.001271,'Ipomoea tenuissima':0.004906)[&support=1.0]:9.02E-4,'Ipomoea triloba':0.004242)[&support=1.0]:0.001013,('Ipomoea cordatotriloba':0.003679,'Ipomoea lacunosa':0.001983)[&support=1.0]:0.003705)[&support=1.0]:0.005872,(('Ipomoea batatas':0.003593,'Ipomoea batatas2':0.00602)[&support=1.0,!name="Ipomoea batatas",!collapse={"collapsed",0.014822571999999992}]:0.002381,'Ipomoea trifida':0.007607)[&support=1.0]:0.002058)[&support=1.0]:0.001777,('Ipomoea ramosissima':0.008709,'Ipomoea tiliacea':0.004207)[&support=1.0]:0.002932)[&support=1.0]:0.001829,(('Ipomoea littoralis':0.002714,'Ipomoea littoralis2':0.003061)[&support=1.0,!name="Ipomoea littoralis",!collapse={"collapsed",0.013435730999999992}]:0.009782,'Ipomoea lactifera':0.004683)[&support=1.0]:0.002608)[&support=1.0]:0.001651,('Ipomoea splendorsylvae':0.005633,'Ipomoea splendorsylvae2':0.006218)[&support=1.0]:0.005567)[&support=1.0]:0.004498,'Ipomoea cryptica':0.01429)[&support=1.0]:0.00161)[&support=1.0]:0.001827,((((((((((((('Ipomoea indica3':0.00447,'Ipomoea indica4':0.004238)[&support=1.0]:0.001581,'Ipomoea indica2':0.004198)[&support=0.999]:0.001148,'Ipomoea indica':0.006432)[&support=1.0,!name="Ipomoea indica",!collapse={"collapsed",0.008646506999999984}]:0.001738,'Ipomoea sp nov':0.006786)[&support=1.0]:0.005171,('Ipomoea hederacea':0.006948,'Ipomoea nil':0.006895)[&support=1.0]:0.004976)[&support=1.0]:0.002147,('Ipomoea pubescens':0.010413,'Ipomoea purpurea':0.012766)[&support=1.0]:0.00168)[&support=1.0]:0.001705,'Ipomoea neurocephala':0.011477)[&support=1.0]:0.001562,(('Ipomoea magnifolia':0.006206,'Ipomoea villifera':0.006258)[&support=1.0]:0.002608,'Ipomoea ampullacea':0.009475)[&support=1.0]:0.003907)[&support=1.0]:0.002352,(((('Ipomoea orizabensis':0.003975,'Ipomoea orizabensis2':0.005003)[&support=1.0,!name="Ipomoea orizabensis",!collapse={"collapsed",0.012804099}]:0.004076,('Ipomoea decasperma':0.003967,'Ipomoea emetica':0.005692)[&support=1.0]:0.003942)[&support=1.0]:0.001251,(('Ipomoea retropilosa':0.007181,'Ipomoea tuboides':0.006818)[&support=1.0]:0.001275,'Ipomoea leucotricha':0.008024)[&support=1.0]:0.00111)[&support=1.0]:0.005276,('Ipomoea cardiophylla':0.007495,'Ipomoea marginisepala':0.007683)[&support=1.0]:0.008244)[&support=1.0]:0.00211)[&support=1.0]:0.001106,(('Ipomoea ancisa':0.003634,'Ipomoea sescossiana':0.005408)[&support=1.0]:0.003757,'Ipomoea stans':0.008831)[&support=1.0]:0.004109)[&support=1.0]:9.24E-4,(('Ipomoea alba':0.010365,'Ipomoea muricata':0.009259)[&support=1.0]:0.008292,'Ipomoea parasitica':0.012693)[&support=1.0]:0.002741)[&support=1.0]:0.001328,(('Ipomoea capillacea':0.008067,'Ipomoea plummerae':0.006329)[&support=1.0]:0.01118,'Ipomoea dumetorum':0.019502)[&support=1.0]:0.002041)[&support=0.855]:6.63E-4,(((((((('Ipomoea dumosa':0.006159,'Ipomoea dumosa2':0.005661)[&support=0.733,!name="Ipomoea dumosa",!collapse={"collapsed",0.0014637869999999942}]:0.001675,'Ipomoea seducta':0.005233)[&support=1.0]:0.014556,(('Ipomoea puncticulata':0.015955,'Ipomoea meyeri':0.013123)[&support=1.0]:0.002186,'Ipomoea velardei':0.015213)[&support=1.0]:0.005712)[&support=1.0]:0.001483,'Ipomoea aristolochiifolia':0.01731)[&support=0.996]:0.002141,'Ipomoea odontophylla':0.017187)[&support=1.0]:0.003096,'Ipomoea bernouilliana':0.018167)[&support=1.0]:0.001856,('Ipomoea bracteata':0.013248,'Ipomoea suffulta':0.008282)[&support=1.0]:0.016714)[&support=0.996]:7.05E-4,(((('Ipomoea lutea':0.010973,'Ipomoea neei':0.009615)[&support=0.997]:0.001519,'Ipomoea hederifolia':0.010912)[&support=1.0]:0.001811,('Ipomoea coccinea':0.005774,'Ipomoea rubriflora':0.005478)[&support=1.0]:0.006286)[&support=1.0]:0.009313,('Ipomoea costellata':0.014547,'Ipomoea costellata2':0.01038)[&support=1.0,!name="Ipomoea costellata",!collapse={"collapsed",0.0037671959999999866}]:0.009545)[&support=1.0]:0.005275)[&support=1.0]:0.001408)[&support=1.0]:0.00393)[&support=1.0]:0.001765,((((((((('Ipomoea brassii':0.001811,'Ipomoea muelleri':0.001501)[&support=1.0]:9.62E-4,'Ipomoea gracilis':0.002937)[&support=1.0]:0.001334,('Ipomoea argillicola':0.004778,'Ipomoea gracilis2':0.005943)[&support=1.0]:6.85E-4)[&support=1.0]:0.001959,'Ipomoea pescaprae':0.009035)[&support=1.0]:0.004457,'Ipomoea setifera':0.01145)[&support=1.0]:0.001371,(('Ipomoea asarifolia':0.004267,'Ipomoea paludicola':0.003686)[&support=1.0]:0.005739,'Ipomoea procurrens':0.007925)[&support=1.0]:0.002948)[&support=1.0]:0.004078,(((('Ipomoea granulosa':0.004277,'Ipomoea procumbens2':0.004866)[&support=1.0]:0.001295,'Ipomoea procumbens':0.004514)[&support=1.0]:0.004211,('Ipomoea pinifolia':0.004281,'Ipomoea squamisepala':0.006392)[&support=1.0]:0.004192)[&support=1.0]:0.001538,'Ipomoea mucronatoproducta':0.011274)[&support=1.0]:4.86E-4)[&support=0.997]:4.33E-4,((('Ipomoea leptophylla':0.007155,'Ipomoea pandurata':0.00409)[&support=1.0]:0.003973,('Ipomoea philomega':0.00765,'Ipomoea sagittata':0.01144)[&support=1.0]:0.00131)[&support=1.0]:0.001334,'Ipomoea amazonica (=Turbina amazonica)':0.01262)[&support=1.0]:4.69E-4)[&support=1.0]:0.001006,'Ipomoea subrevoluta':0.022153)[&support=1.0]:0.002426)[&support=0.994]:0.001627,((('Ipomoea imperati':0.016233,'Ipomoea longeramosa':0.014463)[&support=1.0]:0.002625,('Ipomoea bahiensis':0.014518,'Ipomoea squamosa':0.012984)[&support=1.0]:0.002192)[&support=1.0]:0.001335,'Ipomoea acanthocarpa':0.014413)[&support=1.0]:0.004144)[&support=1.0]:0.007157,(('Ipomoea cairica':0.01461,'Ipomoea hochstetteri':0.015176)[&support=1.0]:0.011466,'Ipomoea violacea':0.025369)[&support=1.0]:0.002594)[&support=1.0]:0.002378,('Ipomoea desmophylla':0.010965,'Ipomoea welwitschii':0.016859)[&support=1.0]:0.011053)[&support=1.0]:0.002295,('Ipomoea kotschyana':0.022409,'Ipomoea oenotherae':0.022714)[&support=1.0]:0.021171)[&support=1.0]:0.002407,(((('Ipomoea ugandensis2 (= Astripomoea grantii)':0.014159,'Ipomoea lachnosperma (=Astripomoea lachnosperma)':0.013322)[&support=1.0]:0.004168,'Ipomoea nogalensis (= Astripomoea nogalensis)':0.017362)[&support=1.0]:0.003878,('Ipomoea ugandensis (= Astripomoea grantii)':0.010966,'Ipomoea malvacea (= Astripomoea malvaceaea)':0.009562)[&support=1.0]:0.007799)[&support=1.0]:0.011545,('Ipomoea papilio':0.021277,'Ipomoea simonsiana':0.026449)[&support=1.0]:0.004408)[&support=1.0]:0.012294)[&support=1.0]:0.002478,((((((((((((((('Ipomoea staplesii (= Argyreia wallichii)':0.010103,'Ipomoea osyrensis (= Argyreia osyrensis)':0.009898)[&support=0.77]:0.001386,'Ipomoea obtusifolia (=Argyreia obtusifolia)':0.009388)[&support=1.0]:0.001877,'Ipomoea melvillei (= Argyreia melvillei)':0.01012)[&support=1.0]:0.002691,(('Ipomoea nervosa (= Argyreia nervosa)':0.009803,'Ipomoea splendens (= Argyreia splendens)':0.007182)[&support=1.0]:0.004739,'Ipomoea strigosa (= Argyreia capitiformis)':0.011676)[&support=0.977]:0.00115,('Ipomoea himalayana (= Argyreia hookeri)':0.00818,'Ipomoea formosa (= Argyreia venusta)':0.005594)[&support=1.0]:0.009106)[&support=1.0]:0.001741,'Ipomoea porphyrea (= Turbina bracteata)':0.012972)[&support=1.0]:0.002983,((('Ipomoea oblongata (=Turbina oblongata)':0.009292,'Ipomoea oenotheroides (=Turbina oenotheroides)':0.009038)[&support=1.0]:0.002352,'Ipomoea holubii (Turbina holubii)':0.012185)[&support=1.0]:0.001442,('Ipomoea abutiloides (=Turbina abutiloides)':0.006701,'Ipomoea sericosepala':0.005596)[&support=1.0]:0.007014)[&support=1.0]:0.004268)[&support=1.0]:0.003184,(('Ipomoea chrysosperma':0.009883,'Ipomoea urbaniana':0.00942)[&support=1.0]:0.005412,'Ipomoea hartmannii':0.012637)[&support=1.0]:0.004375)[&support=1.0]:0.006446,(('Ipomoea dichroa':0.016951,'Ipomoea elythrocephala':0.015971)[&support=1.0]:0.009631,'Ipomoea pestigridis':0.025983)[&support=1.0]:0.002332)[&support=1.0]:0.002836,(((('Ipomoea coscinosperma':0.008929,'Ipomoea eriocarpa':0.008687)[&support=1.0]:0.007123,'Ipomoea pyrophila':0.013764)[&support=1.0]:0.0061,(('Ipomoea biflora':0.01334,'Ipomoea tenuirostris':0.013655)[&support=1.0]:0.00661,'Ipomoea sinensis blepharosepala':0.020388)[&support=1.0]:0.004423)[&support=1.0]:0.00534,'Ipomoea alpina':0.03039)[&support=1.0]:0.003843)[&support=0.992]:0.001102,('Ipomoea binectarifera (= Lepistemon binectariferum)':0.018719,'Ipomoea owariensis (=Lepistemon owariense)':0.022528)[&support=1.0]:0.00599)[&support=1.0]:9.03E-4,(((('Ipomoea corymbosa (=Turbina corymbosa)':0.018318,'Ipomoea lindenii':0.011503)[&support=1.0]:0.002985,'Ipomoea clavata':0.014725)[&support=1.0]:9.66E-4,('Ipomoea crinicalyx':0.018501,'Ipomoea silvicola':0.01548)[&support=1.0]:0.002616)[&support=1.0]:0.010899,(('Ipomoea cambodiensis':0.019543,'Ipomoea ochracea':0.016602)[&support=1.0]:0.005392,'Ipomoea regnellii':0.026876)[&support=1.0]:0.003363)[&support=1.0]:0.00234,'Ipomoea rubens':0.031963)[&support=0.994]:8.71E-4,((('Ipomoea macalusoi (=Stictocardia macalusoi)':0.007778,'Ipomoea incompta (=Stictocardia incomta)':0.005882)[&support=0.796]:0.001306,'Ipomoea beraviensis (=Stictocardia beraviensis)':0.006427)[&support=1.0]:0.002507,('Ipomoea tiliifolia (=Stictocardia tiliifolia)':0.00297,'Ipomoea tiliifolia2 (=Stictocardia tiliifolia)':0.003716)[&support=1.0,!name="Ipomoea tiliifolia (=Stictocardia tiliifolia)",!collapse={"collapsed",0.022048940000000003}]:0.005065)[&support=1.0]:0.017385)[&support=1.0]:0.0019,(('Ipomoea involucrata operosa':0.018738,'Ipomoea pileata':0.016748)[&support=0.992]:0.002695,'Ipomoea pharbitiformis':0.022523)[&support=1.0]:0.00533)[&support=1.0]:0.001932,'Ipomoea argentaurata':0.031414)[&support=1.0]:0.003809,(('Ipomoea austroindica (=Argyreia bracteata)':0.014089,'Ipomoea shirensis (=Turbina shirensis)':0.01949)[&support=1.0]:0.005332,'Ipomoea stenobasis':0.020115)[&support=1.0]:0.003301)[&support=1.0]:0.002723)[&support=1.0]:0.016447,('Operculina pteripes':0.058653,'Operculina sp':0.046437)[&support=1.0]:1.46E-4);
+end;
+
+begin figtree;
+	set appearance.backgroundColorAttribute="Default";
+	set appearance.backgroundColour=#ffffff;
+	set appearance.branchColorAttribute="User selection";
+	set appearance.branchColorGradient=false;
+	set appearance.branchLineWidth=1.0;
+	set appearance.branchMinLineWidth=0.0;
+	set appearance.branchWidthAttribute="Fixed";
+	set appearance.foregroundColour=#000000;
+	set appearance.hilightingGradient=false;
+	set appearance.selectionColour=#2d3680;
+	set branchLabels.colorAttribute="User selection";
+	set branchLabels.displayAttribute="support";
+	set branchLabels.fontName="Arial";
+	set branchLabels.fontSize=14;
+	set branchLabels.fontStyle=0;
+	set branchLabels.isShown=true;
+	set branchLabels.significantDigits=2;
+	set layout.expansion=553;
+	set layout.layoutType="RECTILINEAR";
+	set layout.zoom=0;
+	set legend.attribute="support";
+	set legend.fontSize=10.0;
+	set legend.isShown=false;
+	set legend.significantDigits=4;
+	set nodeBars.barWidth=4.0;
+	set nodeBars.displayAttribute=null;
+	set nodeBars.isShown=false;
+	set nodeLabels.colorAttribute="User selection";
+	set nodeLabels.displayAttribute="Node ages";
+	set nodeLabels.fontName="sansserif";
+	set nodeLabels.fontSize=8;
+	set nodeLabels.fontStyle=0;
+	set nodeLabels.isShown=false;
+	set nodeLabels.significantDigits=4;
+	set nodeShapeExternal.colourAttribute="User selection";
+	set nodeShapeExternal.isShown=false;
+	set nodeShapeExternal.minSize=10.0;
+	set nodeShapeExternal.scaleType=Width;
+	set nodeShapeExternal.shapeType=Circle;
+	set nodeShapeExternal.size=4.0;
+	set nodeShapeExternal.sizeAttribute="Fixed";
+	set nodeShapeInternal.colourAttribute="User selection";
+	set nodeShapeInternal.isShown=false;
+	set nodeShapeInternal.minSize=10.0;
+	set nodeShapeInternal.scaleType=Width;
+	set nodeShapeInternal.shapeType=Circle;
+	set nodeShapeInternal.size=4.0;
+	set nodeShapeInternal.sizeAttribute="Fixed";
+	set polarLayout.alignTipLabels=false;
+	set polarLayout.angularRange=0;
+	set polarLayout.rootAngle=0;
+	set polarLayout.rootLength=100;
+	set polarLayout.showRoot=true;
+	set radialLayout.spread=0.0;
+	set rectilinearLayout.alignTipLabels=false;
+	set rectilinearLayout.curvature=0;
+	set rectilinearLayout.rootLength=100;
+	set scale.offsetAge=0.0;
+	set scale.rootAge=1.0;
+	set scale.scaleFactor=1.0;
+	set scale.scaleRoot=false;
+	set scaleAxis.automaticScale=true;
+	set scaleAxis.fontSize=8.0;
+	set scaleAxis.isShown=false;
+	set scaleAxis.lineWidth=1.0;
+	set scaleAxis.majorTicks=1.0;
+	set scaleAxis.minorTicks=0.5;
+	set scaleAxis.origin=0.0;
+	set scaleAxis.reverseAxis=false;
+	set scaleAxis.showGrid=true;
+	set scaleBar.automaticScale=true;
+	set scaleBar.fontSize=10.0;
+	set scaleBar.isShown=false;
+	set scaleBar.lineWidth=1.0;
+	set scaleBar.scaleRange=0.008;
+	set tipLabels.colorAttribute="User selection";
+	set tipLabels.displayAttribute="Names";
+	set tipLabels.fontName="Arial";
+	set tipLabels.fontSize=16;
+	set tipLabels.fontStyle=0;
+	set tipLabels.isShown=true;
+	set tipLabels.significantDigits=4;
+	set trees.order=false;
+	set trees.orderType="increasing";
+	set trees.rooting=false;
+	set trees.rootingType="User Selection";
+	set trees.transform=false;
+	set trees.transformType="cladogram";
+end;
+
