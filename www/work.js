@@ -320,6 +320,15 @@ if (item['@graph']) {
  %>	
  </div>	
  
+<!-- thumbnail -->
+<div>	
+	<% if (item.thumbnailUrl) {%>
+		<!-- http://exeg5le.cloudimg.io/s/height/100/ -->
+		<img style="float:left;height:100px;border:1px solid rgb(224,224,224);background-color:white;object-fit:contain; display:block;margin:auto;" src="<%= item.thumbnailUrl %>">
+	<% } %>
+</div>
+<div style="clear:both;"></div>
+ 
 <!-- abstract -->
 <div>
 

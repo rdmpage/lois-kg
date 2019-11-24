@@ -269,7 +269,7 @@ if (item['@graph']) {
 		var publishedInCitation_html = '<ul>';
 		for (var i in item['tcom:publishedInCitation']) {	
 		
-			// IF
+			// Index Fungorum
 			if (item['tcom:publishedInCitation'][i]['@type'] 
 				&& item['tcom:publishedInCitation'][i]['@type'] == 'tpc:PublicationCitation') {
 					var parts = [];
@@ -314,6 +314,12 @@ if (item['@graph']) {
 						publishedInCitation_html += '<a href="?uri=' + item['tcom:publishedInCitation'][i]['@id'] + '">';
 						publishedInCitation_html += get_literal(item['tcom:publishedInCitation'][i]['name']);
 						publishedInCitation_html += '</a>';
+						
+						/*
+						if (item['tcom:publishedInCitation'][i]['thumbnailUrl']) {
+							publishedInCitation_html += '<img style="float:left;height:100px;border:1px solid rgb(224,224,224);background-color:white;object-fit:contain; display:block;margin:auto;" src="http://exeg5le.cloudimg.io/s/height/100/' + item['tcom:publishedInCitation'][i]['thumbnailUrl'] + '">';
+						}
+						*/
 						publishedInCitation_html += '</li>';
 				
 					}			
@@ -331,6 +337,8 @@ if (item['@graph']) {
 			
 	<%	} %>
 </div>
+
+<div style="clear:both;"></div>
 
 <!-- identifiers -->
 <div>

@@ -81,6 +81,7 @@ function display_entity($uri)
 	$feed_children = '';
 	$feed_basionym = '';
 	$feed_taxa = '';
+	$feed_related = '';
 	
 	$feeds = array();
 	
@@ -396,6 +397,7 @@ PREFIX tcom: <http://rs.tdwg.org/ontology/voc/Common#>
 					schema:name ?name;
                     schema:description ?description;
                     schema:datePublished ?datePublished;
+                    schema:thumbnailUrl ?thumbnailUrl;
 					
 				schema:identifier ?doi_identifier .
 					 ?doi_identifier rdf:type schema:PropertyValue .
@@ -418,6 +420,11 @@ PREFIX tcom: <http://rs.tdwg.org/ontology/voc/Common#>
               	OPTIONAL
 				{
               		?item schema:datePublished ?datePublished .
+                }
+
+             	OPTIONAL
+				{
+              		?item schema:thumbnailUrl ?thumbnailUrl .
                 }
 				
 				OPTIONAL
@@ -485,124 +492,513 @@ PREFIX tn: <http://rs.tdwg.org/ontology/voc/TaxonName#>
 				$feeds['names'] = $feed;
 			} 			
  			
- 			// list of cited works
- 			$stream_query = 'PREFIX schema: <http://schema.org/>
-			PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
-			CONSTRUCT 
-			{
-			<http://example.rss>
-				rdf:type schema:DataFeed;
-				schema:name "Cites";
-				schema:dataFeedElement ?item .
+ 			if (1)
+ 			{
+				// list of cited works
+				
+				// for some reason combining the two queries using UNION is very slow,
+				// so split into two parts and merge results
+				
+				// part one
+				$stream_query = 'PREFIX schema: <http://schema.org/>
+				PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+				CONSTRUCT 
+				{
+				<http://example.rss>
+					rdf:type schema:DataFeed;
+					schema:name "Cites";
+					schema:dataFeedElement ?item .
 	
-				?publication schema:citation ?item .
-              	?item schema:name ?name .              
-                ?item rdf:type ?type .
-                ?item     schema:description ?description .
-                ?item    schema:datePublished ?datePublished .
+					?publication schema:citation ?item .
+					?item schema:name ?name .              
+					?item rdf:type ?type .
+					?item     schema:description ?description .
+					?item    schema:datePublished ?datePublished .
 					
-				?item    schema:identifier ?doi_identifier .
-				 ?doi_identifier rdf:type schema:PropertyValue .
-				 ?doi_identifier schema:propertyID "doi" .
-				 ?doi_identifier schema:value ?doi .
+					?item    schema:identifier ?doi_identifier .
+					 ?doi_identifier rdf:type schema:PropertyValue .
+					 ?doi_identifier schema:propertyID "doi" .
+					 ?doi_identifier schema:value ?doi .
 					
-			}
-			WHERE
-			{
-              	VALUES ?publication { <' . $work_id . '>} .
-				?publication schema:citation ?item .
-              	?item schema:name ?name .
-              	?item rdf:type ?type .
-              	
-             	OPTIONAL
+				}
+				WHERE
 				{
-              		?item schema:description ?description .
-                }
+					VALUES ?publication { <' . $work_id . '>} .
+				
+				
+					#{
+					#	?publication schema:citation ?item .
+					#	MINUS 
+					#	{ 
+					#		?item schema:sameAs ?itemstring 
+					#	}
+					#}
+					#UNION
+					{
+						?publication schema:citation ?placeholder .
+						?placeholder schema:sameAs ?itemstring .
+						BIND(IRI(?itemstring) AS ?item)
+					} 
+				
+				
+					?item schema:name ?name .
+					?item rdf:type ?type .
+				
+					OPTIONAL
+					{
+						?item schema:description ?description .
+					}
 
-              	OPTIONAL
-				{
-              		?item schema:datePublished ?datePublished .
-                }
+					OPTIONAL
+					{
+						?item schema:datePublished ?datePublished .
+					}
 				
-				OPTIONAL
-				{
-					?item schema:identifier ?doi_identifier .		
-					?doi_identifier schema:propertyID "doi" .
-					?doi_identifier schema:value ?doi .		
-				}  				
- 			}';
- 			
+					OPTIONAL
+					{
+						?item schema:identifier ?doi_identifier .		
+						?doi_identifier schema:propertyID "doi" .
+						?doi_identifier schema:value ?doi .		
+					}  				
+				}';
 			
-			$json = sparql_construct_stream(
-				$config['sparql_endpoint'],
-				$stream_query);
+			
+				$json = sparql_construct_stream(
+					$config['sparql_endpoint'],
+					$stream_query);
 				
-			$feed = json_decode($json);
+				$feed1 = json_decode($json);
 			
-			if (isset($feed->{'@graph'}) && count($feed->{'@graph'}) > 0)
-			{
-				$feeds['cites'] = $feed;
-			}
-			
- 			// list of citing works
- 			$stream_query = 'PREFIX schema: <http://schema.org/>
-			PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
-			CONSTRUCT 
-			{
-			<http://example.rss>
-				rdf:type schema:DataFeed;
-				schema:name "Cited by";
-				schema:dataFeedElement ?item .
+				
+				// part two
+				$stream_query = 'PREFIX schema: <http://schema.org/>
+				PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+				CONSTRUCT 
+				{
+				<http://example.rss>
+					rdf:type schema:DataFeed;
+					schema:name "Cites";
+					schema:dataFeedElement ?item .
 	
-				?item schema:citation ?publication .
-              	?item schema:name ?name .              
-                ?item rdf:type ?type .
-                ?item     schema:description ?description .
-                ?item    schema:datePublished ?datePublished .
+					?publication schema:citation ?item .
+					?item schema:name ?name .              
+					?item rdf:type ?type .
+					?item     schema:description ?description .
+					?item    schema:datePublished ?datePublished .
 					
-				?item    schema:identifier ?doi_identifier .
-				 ?doi_identifier rdf:type schema:PropertyValue .
-				 ?doi_identifier schema:propertyID "doi" .
-				 ?doi_identifier schema:value ?doi .
+					?item    schema:identifier ?doi_identifier .
+					 ?doi_identifier rdf:type schema:PropertyValue .
+					 ?doi_identifier schema:propertyID "doi" .
+					 ?doi_identifier schema:value ?doi .
 					
-			}
-			WHERE
-			{
-              	VALUES ?publication { <' . $work_id . '>} .
-				?item schema:citation ?publication .
-              	?item schema:name ?name .
-              	?item rdf:type ?type .
-              	
-             	OPTIONAL
+				}
+				WHERE
 				{
-              		?item schema:description ?description .
-                }
+					VALUES ?publication { <' . $work_id . '>} .
+								
+					{
+						?publication schema:citation ?item .
+						MINUS 
+						{ 
+							?item schema:sameAs ?itemstring 
+						}
+					}
+					#UNION
+					#{
+					#	?publication schema:citation ?placeholder .
+					#	?placeholder schema:sameAs ?itemstring .
+					#	BIND(IRI(?itemstring) AS ?item)
+					#} 
+				
+				
+					?item schema:name ?name .
+					?item rdf:type ?type .
+				
+					OPTIONAL
+					{
+						?item schema:description ?description .
+					}
 
-              	OPTIONAL
-				{
-              		?item schema:datePublished ?datePublished .
-                }
+					OPTIONAL
+					{
+						?item schema:datePublished ?datePublished .
+					}
 				
-				OPTIONAL
-				{
-					?item schema:identifier ?doi_identifier .		
-					?doi_identifier schema:propertyID "doi" .
-					?doi_identifier schema:value ?doi .		
-				}  				
- 			}';
- 			
+					OPTIONAL
+					{
+						?item schema:identifier ?doi_identifier .		
+						?doi_identifier schema:propertyID "doi" .
+						?doi_identifier schema:value ?doi .		
+					}  				
+				}';
 			
-			$json = sparql_construct_stream(
-				$config['sparql_endpoint'],
-				$stream_query);
+			
+				$json = sparql_construct_stream(
+					$config['sparql_endpoint'],
+					$stream_query);
 				
-			$feed = json_decode($json);
-			
-			if (isset($feed->{'@graph'}) && count($feed->{'@graph'}) > 0)
+				$feed2 = json_decode($json);
+				
+				//print_r($feed2);
+				
+				if (isset($feed2->{'@graph'}) && count($feed2->{'@graph'}) > 0)
+				{
+					if (count($feed1->{'@graph'}) == 0)
+					{
+						$feed1 = $feed2;
+					}
+					else
+					{
+						foreach ($feed2->{'@graph'}[0]->dataFeedElement as $item)
+						{
+							$feed1->{'@graph'}[0]->dataFeedElement[] = $item;
+						}
+					}
+				
+				}
+					
+				
+				
+				if (isset($feed1->{'@graph'}) && count($feed1->{'@graph'}) > 0)
+				{
+					$feeds['cites'] = $feed1;
+				}
+				
+							
+				
+				
+			}
+			if (1)
 			{
-				$feeds['citedby'] = $feed;
+			
+				// list of citing works
+				
+			
+				// for some reason combining the two queries using UNION is very slow,
+				// so split into two parts and merge results
+				
+				// part one					
+				$stream_query = 'PREFIX schema: <http://schema.org/>
+				PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+				CONSTRUCT 
+				{
+				<http://example.rss>
+					rdf:type schema:DataFeed;
+					schema:name "Cited by";
+					schema:dataFeedElement ?item .
+	
+					?item schema:citation ?publication .
+					?item schema:name ?name .              
+					?item rdf:type ?type .
+					?item     schema:description ?description .
+					?item    schema:datePublished ?datePublished .
+					
+					?item    schema:identifier ?doi_identifier .
+					 ?doi_identifier rdf:type schema:PropertyValue .
+					 ?doi_identifier schema:propertyID "doi" .
+					 ?doi_identifier schema:value ?doi .
+					
+				}
+				WHERE
+				{
+					# Get direct citations, or citations via sameAs
+					#{
+					#	VALUES ?publication { <' . $work_id . '>} .
+					#	?item schema:citation ?publication .
+					#}
+					#UNION
+					{
+						VALUES ?publication { <' . $work_id . '>} .
+						BIND (STR(?publication) AS ?publication_string) .
+						?placeholder schema:sameAs ?publication_string .				    
+						?item schema:citation ?placeholder .
+					}              	
+				
+					#?item schema:citation ?publication .
+					?item schema:name ?name .
+					?item rdf:type ?type .
+				
+					OPTIONAL
+					{
+						?item schema:description ?description .
+					}
+
+					OPTIONAL
+					{
+						?item schema:datePublished ?datePublished .
+					}
+				
+					OPTIONAL
+					{
+						?item schema:identifier ?doi_identifier .		
+						?doi_identifier schema:propertyID "doi" .
+						?doi_identifier schema:value ?doi .		
+					}  				
+				}';
+			
+			
+				$json = sparql_construct_stream(
+					$config['sparql_endpoint'],
+					$stream_query);
+				
+				$feed1 = json_decode($json);
+				
+				// part two					
+				$stream_query = 'PREFIX schema: <http://schema.org/>
+				PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+				CONSTRUCT 
+				{
+				<http://example.rss>
+					rdf:type schema:DataFeed;
+					schema:name "Cited by";
+					schema:dataFeedElement ?item .
+	
+					?item schema:citation ?publication .
+					?item schema:name ?name .              
+					?item rdf:type ?type .
+					?item     schema:description ?description .
+					?item    schema:datePublished ?datePublished .
+					
+					?item    schema:identifier ?doi_identifier .
+					 ?doi_identifier rdf:type schema:PropertyValue .
+					 ?doi_identifier schema:propertyID "doi" .
+					 ?doi_identifier schema:value ?doi .
+					
+				}
+				WHERE
+				{
+					# Get direct citations, or citations via sameAs
+					{
+						VALUES ?publication { <' . $work_id . '>} .
+						?item schema:citation ?publication .
+					}
+					#UNION
+					#{
+					#	VALUES ?publication { <' . $work_id . '>} .
+					#	BIND (STR(?publication) AS ?publication_string) .
+					#	?placeholder schema:sameAs ?publication_string .				    
+					#	?item schema:citation ?placeholder .
+					#}              	
+				
+					#?item schema:citation ?publication .
+					?item schema:name ?name .
+					?item rdf:type ?type .
+				
+					OPTIONAL
+					{
+						?item schema:description ?description .
+					}
+
+					OPTIONAL
+					{
+						?item schema:datePublished ?datePublished .
+					}
+				
+					OPTIONAL
+					{
+						?item schema:identifier ?doi_identifier .		
+						?doi_identifier schema:propertyID "doi" .
+						?doi_identifier schema:value ?doi .		
+					}  				
+				}';
+			
+			
+				$json = sparql_construct_stream(
+					$config['sparql_endpoint'],
+					$stream_query);
+				
+				$feed2 = json_decode($json);				
+			
+				if (isset($feed2->{'@graph'}) && count($feed2->{'@graph'}) > 0)
+				{
+					if (count($feed1->{'@graph'}) == 0)
+					{
+						$feed1 = $feed2;
+					}
+					else
+					{
+						foreach ($feed2->{'@graph'}[0]->dataFeedElement as $item)
+						{
+							$feed1->{'@graph'}[0]->dataFeedElement[] = $item;
+						}
+					}
+				
+				}			
+			
+				if (isset($feed1->{'@graph'}) && count($feed1->{'@graph'}) > 0)
+				{
+					$feeds['citedby'] = $feed1;
+				}			
+			}
+			
+			
+			if (1)
+			{
+			
+				// "related" works, e.g. co-citations
+				
+				// only works on simple, direct citations
+				$stream_query = 'PREFIX schema: <http://schema.org/>
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+CONSTRUCT 
+{
+<http://example.rss>
+	rdf:type schema:DataFeed;
+	schema:name "Related";
+	schema:dataFeedElement ?item .
+
+	?item schema:citation ?publication .
+	?item schema:name ?name .              
+	?item rdf:type ?type .
+	?item     schema:description ?description .
+	?item    schema:datePublished ?datePublished .
+	
+	?item    schema:identifier ?doi_identifier .
+	 ?doi_identifier rdf:type schema:PropertyValue .
+	 ?doi_identifier schema:propertyID "doi" .
+	 ?doi_identifier schema:value ?doi .
+	
+}
+WHERE
+{
+  VALUES ?hit {<' . $work_id . '>}
+
+	?x schema:citation ?hit .
+	?x schema:citation ?item .
+
+	?y schema:citation ?hit .
+	?y schema:citation ?item .
+
+  
+	?item schema:name ?name .
+	?item rdf:type ?type .
+
+	OPTIONAL
+	{
+		?item schema:description ?description .
+	}
+
+	OPTIONAL
+	{
+		?item schema:datePublished ?datePublished .
+	}
+
+	OPTIONAL
+	{
+		?item schema:identifier ?doi_identifier .		
+		?doi_identifier schema:propertyID "doi" .
+		?doi_identifier schema:value ?doi .		
+	}                    
+
+	FILTER (?hit != ?item)
+	FILTER (?x != ?y)
+				
+}';
+
+			// handle sameAs as well
+			$stream_query = 'PREFIX schema: <http://schema.org/>
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+CONSTRUCT 
+{
+<http://example.rss>
+	rdf:type schema:DataFeed;
+	schema:name "Related";
+	schema:dataFeedElement ?item .
+
+	?item schema:citation ?publication .
+	?item schema:name ?name .              
+	?item rdf:type ?type .
+	?item     schema:description ?description .
+	?item    schema:datePublished ?datePublished .
+	
+	?item    schema:identifier ?doi_identifier .
+	 ?doi_identifier rdf:type schema:PropertyValue .
+	 ?doi_identifier schema:propertyID "doi" .
+	 ?doi_identifier schema:value ?doi .
+	
+}
+WHERE
+{
+  VALUES ?hit {<' . $work_id . '>}
+	BIND (STR(?hit) AS ?hit_string) .
+
+    {
+		?x schema:citation ?hit .
+    }
+  	UNION
+    {
+		?x_placeholder schema:sameAs ?hit_string .				    
+		?x schema:citation ?x_placeholder .    
+    }
+  
+    {
+		?x schema:citation ?item .
+    }
+  	UNION
+    {
+        ?x schema:citation ?xitem_placeholder .
+      	?xitem_placeholder schema:sameAs ?item_string .
+    }
+ 
+    {
+		?y schema:citation ?hit .
+    }
+  	UNION
+    {
+ 		?y_placeholder schema:sameAs ?hit_string .				    
+		?y schema:citation ?y_placeholder .    
+	}
+
+    {
+		?y schema:citation ?item .
+    }
+  	UNION
+    {
+       ?y schema:citation ?yitem_placeholder .
+       ?yitem_placeholder schema:sameAs ?item_string .
+    }   
+	
+	BIND(IRI(?item_string) AS ?item)
+  
+	?item schema:name ?name .
+	?item rdf:type ?type .
+	
+	OPTIONAL
+	{
+		?item schema:description ?description .
+	}
+
+	OPTIONAL
+	{
+		?item schema:datePublished ?datePublished .
+	}
+
+	OPTIONAL
+	{
+		?item schema:identifier ?doi_identifier .		
+		?doi_identifier schema:propertyID "doi" .
+		?doi_identifier schema:value ?doi .		
+	}                    
+	
+
+	FILTER (?hit != ?item)
+	FILTER (?x != ?y)
+}';
+			
+				$json = sparql_construct_stream(
+					$config['sparql_endpoint'],
+					$stream_query);
+				
+				$feed = json_decode($json);
+		
+			
+				if (isset($feed1->{'@graph'}) && count($feed1->{'@graph'}) > 0)
+				{
+					$feeds['related'] = $feed;
+				}			
 			}			
-
+			
+			
 		}				
 		
 		//--------------------------------------------------------------------------------
@@ -738,6 +1134,7 @@ PREFIX tn: <http://rs.tdwg.org/ontology/voc/TaxonName#>
  		echo '<div id="feed_names"></div>';
  		echo '<div id="feed_cites"></div>';
  		echo '<div id="feed_citedby"></div>';
+ 		echo '<div id="feed_related"></div>';
 		echo '<div id="feed_children"></div>';
 		echo '<div id="feed_taxa"></div>';
 		echo '<div id="feed_basionym"></div>';
@@ -797,6 +1194,12 @@ PREFIX tn: <http://rs.tdwg.org/ontology/voc/TaxonName#>
 				{				
 					echo '<script>';
 					echo 'render(template_datafeed, { item: feed_citedby }, "feed_citedby");';
+					echo '</script>';
+				}							
+				if (isset($feeds['related']))
+				{				
+					echo '<script>';
+					echo 'render(template_datafeed, { item: feed_related }, "feed_related");';
 					echo '</script>';
 				}							
 									

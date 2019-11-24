@@ -190,6 +190,7 @@ CONSTRUCT
 	?publishedInCitation <http://rs.tdwg.org/ontology/voc/PublicationCitation#year> ?tpc_year  .
 	
 	?publishedInCitation <http://schema.org/name> ?pub_title  . 
+	?publishedInCitation <http://schema.org/thumbnailUrl> ?pub_thumbnailUrl  . 
 	
 	# annotation
 	?item <http://rs.tdwg.org/ontology/voc/TaxonName#hasAnnotation> ?annotation .
@@ -296,6 +297,8 @@ WHERE {
 		
 		# schema
 		OPTIONAL { ?publishedInCitation <http://schema.org/name> ?pub_title  . }
+		OPTIONAL { ?publishedInCitation <http://schema.org/thumbnailUrl> ?pub_thumbnailUrl } . 
+
 	
 	}
 	

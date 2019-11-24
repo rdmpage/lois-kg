@@ -178,8 +178,23 @@ item = item['@graph'][0];
 		</h3>
 		</a>
 		
-		<% if (item.dataFeedElement[i].description) { %>
-			<%- get_literal(item.dataFeedElement[i].description) %>
+		<% if (item.dataFeedElement[i].thumbnailUrl) { 
+			var thumbnailUrl = item.dataFeedElement[i].thumbnailUrl;
+			if (thumbnailUrl.match(/^http/)) {
+				thumbnailUrl = 'http://exeg5le.cloudimg.io/s/height/100/' + thumbnailUrl;
+			}
+			%>
+			<img style="margin:4px;border:1px solid rgb(224,224,224);height:100px;float:left;" src="<%- thumbnailUrl %>" >
+		<% } %>
+		
+		
+		<% if (item.dataFeedElement[i].description) { 
+			var description = get_literal(item.dataFeedElement[i].description);
+			if (description.length > 512) {
+				description = description.substring(0, 512)  + '...';
+			}
+		%>
+			<%=  description %>
 		<% } %>
 		
 		
@@ -210,7 +225,11 @@ item = item['@graph'][0];
 
 
 		
+		
 		</div>
+		
+		<div style="clear:both;"></div>
+		
 	<% } %>
 
 
