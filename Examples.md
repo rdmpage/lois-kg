@@ -207,7 +207,81 @@ http://localhost/~rpage/lois-kg/www/?uri=https://orcid.org/0000-0001-9060-0891 P
 https://orcid.org/0000-0002-6331-3456 Ian (WTF!)
 
 
+## GenBank specimens
+
+### Cyrtochilum meirax (and others)
+
+Whitten 2686 FLAS
+FJ565600
+FJ565089
+
+https://www.gbif.org/occurrence/1457774952
+
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5430592
+https://dx.doi.org/10.1186%2Fs40529-017-0164-z
+
+Specimens listed in Excel spreadsheet
 
 
+## Interesting clade
+
+### Australian genera all closely related
+
+https://tree.opentreeoflife.org/opentree/opentree11.4@mrcaott14863ott486102/Triplarina--Homalocalyx
+
+https://www.gbif.org/species/3177392
+
+http://ispecies.org/?q=Micromyrtus
+
+http://localhost/~rpage/lois-kg/www/?uri=https://doi.org/10.1071/sb14011
+
+### New Caledonia
+
+http://ispecies.org/?q=Pycnandra
+
+http://localhost/~rpage/lois-kg/www/?uri=https://doi.org/10.1071/sb09029
+
+## Interesting papers
+
+### A new subfamily classification of the Leguminosae based on a taxonomically comprehensive phylogeny – The Legume Phylogeny Working Group (LPWG)
+
+Lots of authors, lots of ORCIDs http://localhost/~rpage/lois-kg/www/?uri=https://doi.org/10.12705/661.3
+
+However, only manage to connect 1 ORCID to this work, perhaps because of way it appears in author’s profiles:
+
+ORCIDS linked to this work https://enchanting-bongo.glitch.me/search?q=10.12705%2F661.3
+
+ orcid.org/0000-0002-1569-8849
+ orcid.org/0000-0002-7204-0744
+ orcid.org/0000-0002-6718-6669
+ orcid.org/0000-0003-3212-9688
+ orcid.org/0000-0003-4482-0409
+ orcid.org/0000-0002-7728-6487
+ orcid.org/0000-0003-2135-7650
+ orcid.org/0000-0002-9591-3085
+ orcid.org/0000-0002-9350-3306
+ orcid.org/0000-0001-5547-0796
+ orcid.org/0000-0002-5788-9010
+ orcid.org/0000-0003-4205-1802
+ orcid.org/0000-0001-5112-7077
+ orcid.org/0000-0001-9269-7316
+ orcid.org/0000-0003-2657-8671
+ orcid.org/0000-0002-2500-824X
+ orcid.org/0000-0002-5740-3666
+ orcid.org/0000-0003-0134-3438
+ orcid.org/0000-0002-7875-4510
+ orcid.org/0000-0001-5105-7152
+ orcid.org/0000-0002-0855-4169
+ orcid.org/0000-0002-9765-2907
+ orcid.org/0000-0001-7072-2656
+ orcid.org/0000-0002-5732-1716
+ orcid.org/0000-0002-7940-5435
+ orcid.org/0000-0002-4484-3566
+ orcid.org/0000-0003-4977-4341
+ orcid.org/0000-0002-9644-0566
+
+### A new species of Dalbergia (Fabaceae: Dalbergieae) from Tamil Nadu, India
+
+All authors have ORCIDs http://localhost/~rpage/lois-kg/www/?uri=https://doi.org/10.11646/phytotaxa.360.3.8
 
 

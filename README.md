@@ -68,6 +68,42 @@ WHERE jstor IS NOT NULL AND doi IS NULL;
 curl http://167.99.58.120:9999/blazegraph/sparql?context-uri=https://bionames.org -H 'Content-Type: text/rdf+n3' --data-binary '@glue.nt'  --progress-bar | tee /dev/null
 ```
 
+#### Fix errors
+
+Delete an erroneous match
+
+```
+PREFIX tcom: <http://rs.tdwg.org/ontology/voc/Common#>
+WITH <https://bionames.org>
+DELETE { ?item tcom:publishedInCitation ?publishedInCitation }
+WHERE 
+{ 
+ VALUES ?item { <urn:lsid:ipni.org:names:60456119-2> }
+ ?item tcom:publishedInCitation ?publishedInCitation . 
+}
+```
+
+Add a new match
+
+```
+PREFIX tcom: <http://rs.tdwg.org/ontology/voc/Common#>
+INSERT DATA { 
+GRAPH <https://bionames.org> 
+      { <urn:lsid:ipni.org:names:60456119-2> tcom:publishedInCitation <https://doi.org/10.18942/apg.kj00007062771> } 
+} 
+
+```
+
+
+#### URLs
+```
+SELECT CONCAT('<urn:lsid:ipni.org:names:', Id, '> <http://rs.tdwg.org/ontology/voc/Common#publishedInCitation> <', url, '> . ') 
+FROM names 
+WHERE url IS NOT NULL AND doi IS NULL AND jstor IS NULL AND cinii IS NULL and handle is null;
+```
+
+
+
 ### The Plant List
 
 ```
