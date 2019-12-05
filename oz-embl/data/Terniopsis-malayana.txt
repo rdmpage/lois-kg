@@ -1,0 +1,761 @@
+ID   AB450034; SV 1; linear; genomic DNA; STD; PLN; 1539 BP.
+XX
+AC   AB450034;
+XX
+DT   28-JAN-2009 (Rel. 99, Created)
+DT   28-JAN-2009 (Rel. 99, Last updated, Version 1)
+XX
+DE   Terniopsis malayana chloroplast matK gene for maturase K, complete cds,
+DE   specimen_voucher: TNS:TL-411.
+XX
+KW   .
+XX
+OS   Terniopsis malayana
+OC   Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+OC   Spermatophyta; Magnoliopsida; eudicotyledons; Gunneridae; Pentapetalae;
+OC   rosids; fabids; Malpighiales; Podostemaceae; Tristichoideae; Terniopsis.
+OG   Plastid:Chloroplast
+XX
+RN   [1]
+RP   1-1539
+RA   Koi S., Rutishauser R., Kato M.;
+RT   ;
+RL   Submitted (27-JUL-2008) to the INSDC.
+RL   Contact:Satoshi Koi National Museum of Nature and Science, Department of
+RL   Botany; 4-1-1 Amakubo, Tsukuba, Ibaraki 305-0005, Japan
+XX
+RN   [2]
+RA   Koi S., Rutishauser R., Kato M.;
+RT   "Phylogenetic relationship and morphology of Dalzellia gracilis
+RT   (Podostemaceae, subfamily Tristichoideae) with proposal of a new genus";
+RL   Unpublished.
+XX
+DR   MD5; ab9a34dfb7d1f5361e39f1a505ed0887.
+XX
+FH   Key             Location/Qualifiers
+FH
+FT   source          1..1539
+FT                   /organism="Terniopsis malayana"
+FT                   /organelle="plastid:chloroplast"
+FT                   /mol_type="genomic DNA"
+FT                   /country="Thailand:Chumphon, Phato, Bang Klong Yae"
+FT                   /specimen_voucher="TNS:TL-411"
+FT                   /collected_by="Masahiro Kato, Satoshi Koi, Yoko Kita and
+FT                   Thawatchai Wongprasert"
+FT                   /collection_date="23-Dec-2001"
+FT                   /db_xref="taxon:116736"
+FT   CDS             1..1539
+FT                   /codon_start=1
+FT                   /transl_table=11
+FT                   /gene="matK"
+FT                   /product="maturase K"
+FT                   /db_xref="GOA:B9A6R9"
+FT                   /db_xref="InterPro:IPR002866"
+FT                   /db_xref="InterPro:IPR024937"
+FT                   /db_xref="InterPro:IPR024942"
+FT                   /db_xref="UniProtKB/TrEMBL:B9A6R9"
+FT                   /protein_id="BAH16581.1"
+FT                   /translation="MGKEKDQKYIDLAKSDKKEFLYPLIFQEYIYTLAHEHNLNRYTLL
+FT                   ENLGYDKKLSFLIVKRLIARMYHQNYFPFSSDNFKQNFFFRYNKVLYSQKISEGFAIIV
+FT                   EIPFFLQFGTSFQNLEKKLEIVKVQNLQSIHSIFPFVEDQFYHFNFVFDGLLPYPIHLE
+FT                   KLVQTLRYWLKDPSSLHFLRLFLHEYSNGNNPFFQKKANSFLEKKNIRLFVFLYNAYIY
+FT                   EYESIVFFIRTQFCHLPAKRFQFFFERNYFYAKVNNFTKVFANRFPLKLELFKDPNLHY
+FT                   IRYQGKLVFGIRGMPLLMKKWKHYFVTLFECYFDVWFQPDKIQIGLLSKHSLTFVGYLL
+FT                   RLKFTPCVIRSQMLQKAFSIDNTRHHIETLIPIIPMIESLSKMKFCNKVGHPVSKPTWT
+FT                   DLLDSDIIDRFLRLCKNIAHYSSGSSKKKVLYQIHYILRFACLKTLARKHKISVRAFLK
+FT                   KQGSALLEEFFIEEQIASLIFRRNSSKSPYPFNQYKDRLWYLDILSINDLVNHN"
+XX
+SQ   Sequence 1539 BP; 517 A; 240 C; 213 G; 569 T; 0 other;
+     atgggaaaag aaaaagatca aaaatatata gatctagcca aatcggataa aaaggaattc        60
+     ctatacccac ttatctttca agagtatatt tatacactag ctcatgagca taatttaaat       120
+     agatatacat tgttggaaaa tttaggttat gacaaaaaat tgagtttttt aattgtaaaa       180
+     cgtttaattg ctcgaatgta tcaccagaat tatttccctt tttcttctga caattttaaa       240
+     caaaattttt tttttagata caacaaggtt ttgtattctc aaaaaatatc agaaggattt       300
+     gcaatcattg tagaaattcc ctttttcctt caatttggaa cttctttcca aaatttggaa       360
+     aaaaaattgg aaatagtaaa agttcaaaat ttacaatcaa ttcattcaat atttcctttt       420
+     gtcgaggatc aattttacca tttcaatttt gtgttcgatg ggttactccc atatcccatt       480
+     catctcgaaa aattggttca aactcttcgt tactggttaa aagatccttc ctctttgcat       540
+     tttttacgat tgtttcttca tgagtattcg aatggtaaca atcctttttt tcaaaaaaaa       600
+     gcaaattcct ttttggaaaa aaaaaatata agattatttg tgtttttata taatgcttat       660
+     atatatgaat acgaatctat tgtttttttt attcgtaccc aattctgtca tttaccagca       720
+     aaacgttttc agtttttttt tgagagaaac tacttttatg caaaagtaaa taattttaca       780
+     aaagtttttg ctaaccgttt tccccttaag ctagagttgt ttaaagatcc gaacctacat       840
+     tatattcgat atcaaggaaa attggtgttt ggtataaggg gaatgccact tctaatgaaa       900
+     aaatggaaac actattttgt tactttattt gaatgttatt ttgatgtatg gtttcaacca       960
+     gataagattc agatcggttt attatcgaaa cattctctaa cttttgttgg ttatcttttg      1020
+     aggttaaaat ttacgccttg cgtgatacga agtcaaatgc ttcaaaaagc atttagtatc      1080
+     gataatacta gacatcatat agagacacta attcccatta ttccaatgat tgaatcattg      1140
+     tcaaaaatga aattttgtaa caaagtagga catcccgtta gcaaaccgac ctggacggat      1200
+     ttattggatt cagatattat tgaccgattt ttgcgtctat gcaaaaatat cgctcattat      1260
+     tctagtggat cttccaaaaa aaaagttttg tatcaaatac attatatact tcgatttgct      1320
+     tgcctcaaaa ccttggctcg taaacataaa atctctgtac gcgctttttt gaaaaaacaa      1380
+     gggtccgccc ttttagaaga attttttatc gaagaacaga ttgcttcttt gatcttccga      1440
+     agaaattcat cgaaatctcc atatccattc aatcaatata aagatcgcct ttggtatttg      1500
+     gatattcttt ctattaatga tctagttaat cataactaa                             1539
+//
+ID   AB698132; SV 1; linear; genomic DNA; STD; PLN; 1539 BP.
+XX
+AC   AB698132;
+XX
+DT   20-JUL-2012 (Rel. 113, Created)
+DT   19-DEC-2012 (Rel. 115, Last updated, Version 2)
+XX
+DE   Terniopsis malayana chloroplast matK gene for maturase K, complete cds,
+DE   specimen_voucher: TNS:TL-514.
+XX
+KW   .
+XX
+OS   Terniopsis malayana
+OC   Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+OC   Spermatophyta; Magnoliopsida; eudicotyledons; Gunneridae; Pentapetalae;
+OC   rosids; fabids; Malpighiales; Podostemaceae; Tristichoideae; Terniopsis.
+OG   Plastid:Chloroplast
+XX
+RN   [1]
+RP   1-1539
+RA   Koi S., Hirayama Y., Kato M.;
+RT   ;
+RL   Submitted (10-FEB-2012) to the INSDC.
+RL   Contact:Satoshi Koi Nara Institute of Science and Technology, Graduate
+RL   School of Biological Sciences; 8916-5 Takayama, Ikoma, Nara 630-0192, Japan
+XX
+RN   [2]
+RC   DOI:10.1111/j.1095-8339.2012.01258.x
+RA   Koi S., Kita Y., Hirayama Y., Rutishauser R., Huber K.A., Kato M.;
+RT   "Molecular phylogenetic analysis of Podostemaceae: implications for
+RT   taxonomy of major groups";
+RL   Bot. J. Linn. Soc. 169:461-492(2012).
+XX
+DR   MD5; 5468f49363b3358a7f777016d99b14bf.
+XX
+FH   Key             Location/Qualifiers
+FH
+FT   source          1..1539
+FT                   /organism="Terniopsis malayana"
+FT                   /organelle="plastid:chloroplast"
+FT                   /mol_type="genomic DNA"
+FT                   /country="Thailand:Khao Luang National Park, Wang Mangmai
+FT                   waterfalls"
+FT                   /specimen_voucher="TNS:TL-514"
+FT                   /db_xref="taxon:116736"
+FT   CDS             1..1539
+FT                   /codon_start=1
+FT                   /transl_table=11
+FT                   /gene="matK"
+FT                   /product="maturase K"
+FT                   /db_xref="GOA:Q9BBF6"
+FT                   /db_xref="InterPro:IPR002866"
+FT                   /db_xref="InterPro:IPR024937"
+FT                   /db_xref="InterPro:IPR024942"
+FT                   /db_xref="UniProtKB/TrEMBL:Q9BBF6"
+FT                   /protein_id="BAM33666.1"
+FT                   /translation="MGKEKDQKYIDLAKSDKKKFLYPLIFQEYIYTLAHEHNLNRYTLL
+FT                   ENLGYDKKLSFLIVKRLIARMYHQNYFPFSSDNFKQNFFFRYNKVLYSQKISEGFAIIV
+FT                   EIPFFLQFGTSFQNLEKKLEIVKVQNLQSIHSIFPFVEDQFYHFNFVFDGLLPYPIHLE
+FT                   KLVQTLRYWLKDPSSLHFLRLFLHEYSNGNNPFFQKKANSFLEKKNIRLFVFLYNAYIY
+FT                   EYESIVFFIRTQFCHLPAKRFQFFFERNYFYAKVNNFTKVFANRFPLKLELFKDPNLHY
+FT                   IRYQGKLVFGIRGMPLLMKKWKHYFVTLFECYFDVWFQPDKIQIGLLSKHSLTFVGYLL
+FT                   RLKFTPCVIRSQMLQKAFSIDNTRHHIETLIPIIPMIESLSKMKFCNKVGHPVSKPTWT
+FT                   DLLDSDIIDRFLRLCKNIAHYSSGSSKKKVLYQIHYILRFACLKTLARKHKISVRAFLK
+FT                   KQGSALLEEFFIEEQIASLIFRRNSSKSPYPFNQYKDRLWYLDILSINDLVNHN"
+XX
+SQ   Sequence 1539 BP; 518 A; 240 C; 212 G; 569 T; 0 other;
+     atgggaaaag aaaaagatca aaaatatata gatctagcca aatcggataa aaagaaattc        60
+     ctatacccac ttatctttca agagtatatt tatacactag ctcatgagca taatttaaat       120
+     agatatacat tgttggaaaa tttaggttat gacaaaaaat tgagtttttt aattgtaaaa       180
+     cgtttaattg ctcgaatgta tcaccagaat tatttccctt tttcttctga caattttaaa       240
+     caaaattttt tttttagata caacaaggtt ttgtattctc aaaaaatatc agaaggattt       300
+     gcaatcattg tagaaattcc ctttttcctt caatttggaa cttctttcca aaatttggaa       360
+     aaaaaattgg aaatagtaaa agttcaaaat ttacaatcaa ttcattcaat atttcctttt       420
+     gtcgaggatc aattttacca tttcaatttt gtgttcgatg ggttactccc atatcccatt       480
+     catctcgaaa aattggttca aactcttcgt tactggttaa aagatccttc ctctttgcat       540
+     tttttacgat tgtttcttca tgagtattcg aatggtaaca atcctttttt tcaaaaaaaa       600
+     gcaaattcct ttttggaaaa aaaaaatata agattatttg tgtttttata taatgcttat       660
+     atatatgaat acgaatctat tgtttttttt attcgtaccc aattctgtca tttaccagca       720
+     aaacgttttc agtttttttt tgagagaaac tacttttatg caaaagtaaa taattttaca       780
+     aaagtttttg ctaaccgttt tccccttaag ctagagttgt ttaaagatcc gaacctacat       840
+     tatattcgat atcaaggaaa attggtgttt ggtataaggg gaatgccact tctaatgaaa       900
+     aaatggaaac actattttgt tactttattt gaatgttatt ttgatgtatg gtttcaacca       960
+     gataagattc agatcggttt attatcgaaa cattctctaa cttttgttgg ttatcttttg      1020
+     aggttaaaat ttacgccttg cgtgatacga agtcaaatgc ttcaaaaagc atttagtatc      1080
+     gataatacta gacatcatat agagacacta attcccatta ttccaatgat tgaatcattg      1140
+     tcaaaaatga aattttgtaa caaagtagga catcccgtta gcaaaccgac ctggacggat      1200
+     ttattggatt cagatattat tgaccgattt ttgcgtctat gcaaaaatat cgctcattat      1260
+     tctagtggat cttccaaaaa aaaagttttg tatcaaatac attatatact tcgatttgct      1320
+     tgcctcaaaa ccttggctcg taaacataaa atctctgtac gcgctttttt gaaaaaacaa      1380
+     gggtccgccc ttttagaaga attttttatc gaagaacaga ttgcttcttt gatcttccga      1440
+     agaaattcat cgaaatctcc atatccattc aatcaatata aagatcgcct ttggtatttg      1500
+     gatattcttt ctattaatga tctagttaat cataactaa                             1539
+//
+ID   AB698131; SV 1; linear; genomic DNA; STD; PLN; 1539 BP.
+XX
+AC   AB698131;
+XX
+DT   20-JUL-2012 (Rel. 113, Created)
+DT   19-DEC-2012 (Rel. 115, Last updated, Version 2)
+XX
+DE   Terniopsis malayana chloroplast matK gene for maturase K, complete cds,
+DE   specimen_voucher: TNS:TL-412.
+XX
+KW   .
+XX
+OS   Terniopsis malayana
+OC   Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+OC   Spermatophyta; Magnoliopsida; eudicotyledons; Gunneridae; Pentapetalae;
+OC   rosids; fabids; Malpighiales; Podostemaceae; Tristichoideae; Terniopsis.
+OG   Plastid:Chloroplast
+XX
+RN   [1]
+RP   1-1539
+RA   Koi S., Hirayama Y., Kato M.;
+RT   ;
+RL   Submitted (10-FEB-2012) to the INSDC.
+RL   Contact:Satoshi Koi Nara Institute of Science and Technology, Graduate
+RL   School of Biological Sciences; 8916-5 Takayama, Ikoma, Nara 630-0192, Japan
+XX
+RN   [2]
+RC   DOI:10.1111/j.1095-8339.2012.01258.x
+RA   Koi S., Kita Y., Hirayama Y., Rutishauser R., Huber K.A., Kato M.;
+RT   "Molecular phylogenetic analysis of Podostemaceae: implications for
+RT   taxonomy of major groups";
+RL   Bot. J. Linn. Soc. 169:461-492(2012).
+XX
+DR   MD5; 5468f49363b3358a7f777016d99b14bf.
+XX
+FH   Key             Location/Qualifiers
+FH
+FT   source          1..1539
+FT                   /organism="Terniopsis malayana"
+FT                   /organelle="plastid:chloroplast"
+FT                   /mol_type="genomic DNA"
+FT                   /country="Thailand:Chumphon, Phato, near Haew Lom
+FT                   waterfalls, Huay Namsainue"
+FT                   /specimen_voucher="TNS:TL-412"
+FT                   /db_xref="taxon:116736"
+FT   CDS             1..1539
+FT                   /codon_start=1
+FT                   /transl_table=11
+FT                   /gene="matK"
+FT                   /product="maturase K"
+FT                   /db_xref="GOA:Q9BBF6"
+FT                   /db_xref="InterPro:IPR002866"
+FT                   /db_xref="InterPro:IPR024937"
+FT                   /db_xref="InterPro:IPR024942"
+FT                   /db_xref="UniProtKB/TrEMBL:Q9BBF6"
+FT                   /protein_id="BAM33665.1"
+FT                   /translation="MGKEKDQKYIDLAKSDKKKFLYPLIFQEYIYTLAHEHNLNRYTLL
+FT                   ENLGYDKKLSFLIVKRLIARMYHQNYFPFSSDNFKQNFFFRYNKVLYSQKISEGFAIIV
+FT                   EIPFFLQFGTSFQNLEKKLEIVKVQNLQSIHSIFPFVEDQFYHFNFVFDGLLPYPIHLE
+FT                   KLVQTLRYWLKDPSSLHFLRLFLHEYSNGNNPFFQKKANSFLEKKNIRLFVFLYNAYIY
+FT                   EYESIVFFIRTQFCHLPAKRFQFFFERNYFYAKVNNFTKVFANRFPLKLELFKDPNLHY
+FT                   IRYQGKLVFGIRGMPLLMKKWKHYFVTLFECYFDVWFQPDKIQIGLLSKHSLTFVGYLL
+FT                   RLKFTPCVIRSQMLQKAFSIDNTRHHIETLIPIIPMIESLSKMKFCNKVGHPVSKPTWT
+FT                   DLLDSDIIDRFLRLCKNIAHYSSGSSKKKVLYQIHYILRFACLKTLARKHKISVRAFLK
+FT                   KQGSALLEEFFIEEQIASLIFRRNSSKSPYPFNQYKDRLWYLDILSINDLVNHN"
+XX
+SQ   Sequence 1539 BP; 518 A; 240 C; 212 G; 569 T; 0 other;
+     atgggaaaag aaaaagatca aaaatatata gatctagcca aatcggataa aaagaaattc        60
+     ctatacccac ttatctttca agagtatatt tatacactag ctcatgagca taatttaaat       120
+     agatatacat tgttggaaaa tttaggttat gacaaaaaat tgagtttttt aattgtaaaa       180
+     cgtttaattg ctcgaatgta tcaccagaat tatttccctt tttcttctga caattttaaa       240
+     caaaattttt tttttagata caacaaggtt ttgtattctc aaaaaatatc agaaggattt       300
+     gcaatcattg tagaaattcc ctttttcctt caatttggaa cttctttcca aaatttggaa       360
+     aaaaaattgg aaatagtaaa agttcaaaat ttacaatcaa ttcattcaat atttcctttt       420
+     gtcgaggatc aattttacca tttcaatttt gtgttcgatg ggttactccc atatcccatt       480
+     catctcgaaa aattggttca aactcttcgt tactggttaa aagatccttc ctctttgcat       540
+     tttttacgat tgtttcttca tgagtattcg aatggtaaca atcctttttt tcaaaaaaaa       600
+     gcaaattcct ttttggaaaa aaaaaatata agattatttg tgtttttata taatgcttat       660
+     atatatgaat acgaatctat tgtttttttt attcgtaccc aattctgtca tttaccagca       720
+     aaacgttttc agtttttttt tgagagaaac tacttttatg caaaagtaaa taattttaca       780
+     aaagtttttg ctaaccgttt tccccttaag ctagagttgt ttaaagatcc gaacctacat       840
+     tatattcgat atcaaggaaa attggtgttt ggtataaggg gaatgccact tctaatgaaa       900
+     aaatggaaac actattttgt tactttattt gaatgttatt ttgatgtatg gtttcaacca       960
+     gataagattc agatcggttt attatcgaaa cattctctaa cttttgttgg ttatcttttg      1020
+     aggttaaaat ttacgccttg cgtgatacga agtcaaatgc ttcaaaaagc atttagtatc      1080
+     gataatacta gacatcatat agagacacta attcccatta ttccaatgat tgaatcattg      1140
+     tcaaaaatga aattttgtaa caaagtagga catcccgtta gcaaaccgac ctggacggat      1200
+     ttattggatt cagatattat tgaccgattt ttgcgtctat gcaaaaatat cgctcattat      1260
+     tctagtggat cttccaaaaa aaaagttttg tatcaaatac attatatact tcgatttgct      1320
+     tgcctcaaaa ccttggctcg taaacataaa atctctgtac gcgctttttt gaaaaaacaa      1380
+     gggtccgccc ttttagaaga attttttatc gaagaacaga ttgcttcttt gatcttccga      1440
+     agaaattcat cgaaatctcc atatccattc aatcaatata aagatcgcct ttggtatttg      1500
+     gatattcttt ctattaatga tctagttaat cataactaa                             1539
+//
+ID   AB083105; SV 1; linear; genomic DNA; STD; PLN; 586 BP.
+XX
+AC   AB083105;
+XX
+DT   07-OCT-2002 (Rel. 73, Created)
+DT   18-AUG-2007 (Rel. 92, Last updated, Version 3)
+XX
+DE   Malaccotristicha malayana genes for ITS1, 5.8S rRNA, ITS2, partial and
+DE   complete sequences, specimen_voucher:TL-107(the University of Tokyo
+DE   Herbarium).
+XX
+KW   .
+XX
+OS   Terniopsis malayana
+OC   Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+OC   Spermatophyta; Magnoliopsida; eudicotyledons; Gunneridae; Pentapetalae;
+OC   rosids; fabids; Malpighiales; Podostemaceae; Tristichoideae; Terniopsis.
+XX
+RN   [1]
+RP   1-586
+RA   Kita Y.;
+RT   ;
+RL   Submitted (02-APR-2002) to the INSDC.
+RL   Yoko Kita, University of Tokyo, Graduate school of Science, Department of
+RL   Biological Sciences; 7-3-1, Hongo, Bunkyo-ku, Tokyo 113-0033, Japan
+RL   (E-mail:yoko.kita@nifty.ne.jp, Tel:81-3-2841-4047, Fax:81-3-2841-4047)
+XX
+RN   [2]
+RA   Kato M., Kita Y., Koi S.;
+RT   "Molecular phylogeny, taxonomy and biogeography of Malaccotristicha
+RT   australis comb. nov. (syn. Tristicha australis) (Podostemaceae)";
+RL   Aust. Syst. Bot. 16:177-183(2003).
+XX
+DR   MD5; b1be7ae38c10c783a3ca357025a1ccad.
+DR   EuropePMC; PMC3128613; 21747958.
+DR   RFAM; RF00002; 5_8S_rRNA.
+XX
+FH   Key             Location/Qualifiers
+FH
+FT   source          1..586
+FT                   /organism="Terniopsis malayana"
+FT                   /mol_type="genomic DNA"
+FT                   /country="Thailand"
+FT                   /specimen_voucher="TL-107(the University of Tokyo
+FT                   Herbarium)"
+FT                   /db_xref="taxon:116736"
+FT   misc_RNA        <1..>586
+FT                   /note="includes internal transcribed spacer 1, 5.8S
+FT                   ribosomal RNA and internal transcribed spacer 2"
+XX
+SQ   Sequence 586 BP; 140 A; 155 C; 159 G; 132 T; 0 other;
+     gtgaacctgc ggaaggatca ttgtcgaaat tgctatgcaa aaacgactcg tggacatgtt        60
+     tacccaaact tgcgctgcat gcgatggagt cggcgctgcg cgtctgcccc cattcgcatg       120
+     cagggcatgc aacaaacccc ggcacggcat gtgccaagca acacatacat gcatgaacgg       180
+     tccgggggaa ggctttgcca tccctcgaat tcgttcttga aaaaacacaa catgactctc       240
+     gacaacggat atctaggctc ttgcatcgat gaagaacgta gcgaaatgcg atacatggtg       300
+     tgaattgcag aatcccgtga accatcgagt ctttgaatgc aagttgcgcc caaagccttc       360
+     tggccgaggg cacatctgct tgggcgttgc gaaatgtcac cccccacgac acatgcctcc       420
+     catgcactac gttgcatggc gggcatgtct gtgcgcgggt gggtggtcgt tggcctccca       480
+     agtcgcggac ttggttggtc taaatgtggt acccatggca gtgcatgcac gccatagtca       540
+     tcggtggtag aaaaatttac cttacggact tagctgcatg cagtgt                      586
+//
+ID   AB083103; SV 1; linear; genomic DNA; STD; PLN; 582 BP.
+XX
+AC   AB083103;
+XX
+DT   07-OCT-2002 (Rel. 73, Created)
+DT   18-AUG-2007 (Rel. 92, Last updated, Version 3)
+XX
+DE   Malaccotristicha malayana genes for ITS1, 5.8S rRNA, ITS2, partial and
+DE   complete sequences, specimen_voucher:ML-01 (the University of Tokyo
+DE   Herbarium).
+XX
+KW   .
+XX
+OS   Terniopsis malayana
+OC   Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+OC   Spermatophyta; Magnoliopsida; eudicotyledons; Gunneridae; Pentapetalae;
+OC   rosids; fabids; Malpighiales; Podostemaceae; Tristichoideae; Terniopsis.
+XX
+RN   [1]
+RP   1-582
+RA   Kita Y.;
+RT   ;
+RL   Submitted (02-APR-2002) to the INSDC.
+RL   Yoko Kita, University of Tokyo, Graduate school of Science, Department of
+RL   Biological Sciences; 7-3-1, Hongo, Bunkyo-ku, Tokyo 113-0033, Japan
+RL   (E-mail:yoko.kita@nifty.ne.jp, Tel:81-3-2841-4047, Fax:81-3-2841-4047)
+XX
+RN   [2]
+RA   Kato M., Kita Y., Koi S.;
+RT   "Molecular phylogeny, taxonomy and biogeography of Malaccotristicha
+RT   australis comb. nov. (syn. Tristicha australis) (Podostemaceae)";
+RL   Aust. Syst. Bot. 16:177-183(2003).
+XX
+DR   MD5; 0a08f61105e255207fa0beaffc241cf2.
+DR   RFAM; RF00002; 5_8S_rRNA.
+XX
+FH   Key             Location/Qualifiers
+FH
+FT   source          1..582
+FT                   /organism="Terniopsis malayana"
+FT                   /mol_type="genomic DNA"
+FT                   /country="Malaysia"
+FT                   /specimen_voucher="ML-01 (the University of Tokyo
+FT                   Herbarium)"
+FT                   /db_xref="taxon:116736"
+FT   misc_RNA        <1..>582
+FT                   /note="includes internal transcribed spacer 1, 5.8S
+FT                   ribosomal RNA and internal transcribed spacer 2"
+XX
+SQ   Sequence 582 BP; 139 A; 153 C; 156 G; 134 T; 0 other;
+     gtgaacctgc ggaaggatca ttgtcgaaat tgctatgtaa aaacgactcg tggacatgtt        60
+     tacccaaact tgcgctgcat gcgatggagt cggcgctgcg cgtctgcccc cattcgcatg       120
+     cagggcatgc aacaaacccc ggcacggcat gtgccaagca acacatacat gcatgaacgg       180
+     tccgggggaa ggctttgcca tccctcgaat tcgttcttga aaaaacacaa catgactctc       240
+     gacaacggat atctaggctc ttgcatcgat gaagaacgta gcgaaatgcg atacatggtg       300
+     tgaattgcag aatcccgtga accatcgagt ctttgaatgc aagttgcgcc caaagccttc       360
+     tggccgaggg cacatctgct tgggcgttgc gaaatgtcac cccccacaac acatgcctcc       420
+     catgcactac gttgcatggc gggcatgtct gtgtgcgggt ggtcgttggc ctcccaagtc       480
+     gcggacttgg ttggtctaaa tgtggttccc atggcagtgc atgcacgcca tagtcatcgg       540
+     tggtagaaaa atttacctta cggacttggc tgcatgcagt gt                          582
+//
+ID   AB083099; SV 1; linear; genomic DNA; STD; PLN; 935 BP.
+XX
+AC   AB083099;
+XX
+DT   07-OCT-2002 (Rel. 73, Created)
+DT   10-AUG-2007 (Rel. 92, Last updated, Version 3)
+XX
+DE   Malaccotristicha malayana rbcL gene for ribulose 1,5 bisphosphate
+DE   carboxylase/oxygenase large subunit, complete cds, specimen_voucher: ML-01
+DE   (the University of Tokyo Herbarium).
+XX
+KW   .
+XX
+OS   Terniopsis malayana
+OC   Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+OC   Spermatophyta; Magnoliopsida; eudicotyledons; Gunneridae; Pentapetalae;
+OC   rosids; fabids; Malpighiales; Podostemaceae; Tristichoideae; Terniopsis.
+XX
+RN   [1]
+RP   1-935
+RA   Kita Y.;
+RT   ;
+RL   Submitted (02-APR-2002) to the INSDC.
+RL   Yoko Kita, University of Tokyo, Graduate school of Science, Department of
+RL   Biological Sciences; 7-3-1, Hongo, Bunkyo-ku, Tokyo 113-0033, Japan
+RL   (E-mail:yoko.kita@nifty.ne.jp, Tel:81-3-2841-4047, Fax:81-3-2841-4047)
+XX
+RN   [2]
+RA   Kato M., Kita Y., Koi S.;
+RT   "Molecular phylogeny, taxonomy and biogeography of Malaccotristicha
+RT   australis comb. nov. (syn. Tristicha australis) (Podostemaceae)";
+RL   Aust. Syst. Bot. 16:177-183(2003).
+XX
+DR   MD5; 97bcb367105c055b9c88d12c75a28f8f.
+XX
+FH   Key             Location/Qualifiers
+FH
+FT   source          1..935
+FT                   /organism="Terniopsis malayana"
+FT                   /mol_type="genomic DNA"
+FT                   /country="Malaysia"
+FT                   /specimen_voucher="ML-01 (the University of Tokyo
+FT                   Herbarium)"
+FT                   /db_xref="taxon:116736"
+FT   CDS             <1..>935
+FT                   /codon_start=3
+FT                   /transl_table=1
+FT                   /gene="rbcL"
+FT                   /product="ribulose 1,5 bisphosphate carboxylase/oxygenase
+FT                   large subunit"
+FT                   /db_xref="GOA:Q8H980"
+FT                   /db_xref="InterPro:IPR000685"
+FT                   /db_xref="InterPro:IPR017443"
+FT                   /db_xref="InterPro:IPR020878"
+FT                   /db_xref="InterPro:IPR033966"
+FT                   /db_xref="InterPro:IPR036376"
+FT                   /db_xref="InterPro:IPR036422"
+FT                   /db_xref="UniProtKB/TrEMBL:Q8H980"
+FT                   /protein_id="BAC20316.1"
+FT                   /translation="EYKLTYYTPDYETKDTDILAAFRVTPQPGVPPEEAGAAVAAESST
+FT                   GTWTTVWTDGLTSLDRYKGRCYHIEPVPGEESQFIAYVAYPLDLFEEGSVTNMFTSIVG
+FT                   NVFGFKALRALRLEDLRIPTAYVKTFQGPPHGIQVERDQLNKYGRPLLGCTIKPKLGLS
+FT                   AKNYGRAVYECLRGGLDFTKDDENVNSQPFMRWRARFLFCAEAIYKSQXXTGEIXGHYL
+FT                   NATAGTCEEMMKRXXFARKLGVPIVMHDYLTXGFAAXSXLAHYXGDNGLXLHIHRAMHA
+FT                   VIDRQKSHGMHFRVLARALRMSGADHIHSG"
+XX
+SQ   Sequence 935 BP; 266 A; 175 C; 205 G; 277 T; 12 other;
+     aagagtataa attgacttat tatactcctg actatgaaac caaagatact gatatcttgg        60
+     cagcattccg agtaactcct caaccaggag ttccaccgga agaagcagga gctgcggtag       120
+     ctgcagaatc ttcaactggt acatggacaa ctgtgtggac tgatgggttg acaagtcttg       180
+     atcgttataa aggacgatgc tatcacattg agcctgttcc gggagaagaa tctcaattta       240
+     ttgcttatgt agcttacccc ttagatcttt ttgaagaagg ttctgttact aacatgttta       300
+     cttccattgt aggtaatgta tttggattca aagccctacg tgctctacgt ttggaggatt       360
+     tgagaatccc tactgcgtat gttaaaactt ttcaaggtcc gcctcatgga atccaagtcg       420
+     aaagagatca attgaacaag tatggccgtc ccctattagg ctgtactatt aaacctaagt       480
+     tggggttatc cgctaaaaat tatggtagag cagtctatga atgtcttcgt ggtggacttg       540
+     attttaccaa agatgatgag aatgtaaact ctcaaccatt tatgcgatgg agagctcgat       600
+     ttttattttg tgctgaagca atttataaat cccagncgna aacaggtgaa atcaraggtc       660
+     attatttgaa tgctactgct ggtacatgcg aagaaatgat gaaaaggsct gkatttgctc       720
+     gcaaattggg agttccgatt gtaatgcatg actatttaac cgsaggattc gcggcanant       780
+     camccttagc tcattatngc ggagataatg gtttanttct tcacattcac cgcgcaatgc       840
+     aygcagttat tgatagacaa aagagccatg gtatgcactt tcgtgtacta gctagagcat       900
+     tacgtatgtc cggtgcagat catatccact ctggt                                  935
+//
+ID   AB083098; SV 1; linear; genomic DNA; STD; PLN; 935 BP.
+XX
+AC   AB083098;
+XX
+DT   07-OCT-2002 (Rel. 73, Created)
+DT   10-AUG-2007 (Rel. 92, Last updated, Version 3)
+XX
+DE   Malaccotristicha malayana rbcL gene for ribulose 1,5 bisphosphate
+DE   carboxylase/oxygenase large subunit, complete cds, specimen_voucher: TL107
+DE   (the University of Tokyo Herbarium).
+XX
+KW   .
+XX
+OS   Terniopsis malayana
+OC   Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+OC   Spermatophyta; Magnoliopsida; eudicotyledons; Gunneridae; Pentapetalae;
+OC   rosids; fabids; Malpighiales; Podostemaceae; Tristichoideae; Terniopsis.
+XX
+RN   [1]
+RP   1-935
+RA   Kita Y.;
+RT   ;
+RL   Submitted (02-APR-2002) to the INSDC.
+RL   Yoko Kita, University of Tokyo, Graduate school of Science, Department of
+RL   Biological Sciences; 7-3-1, Hongo, Bunkyo-ku, Tokyo 113-0033, Japan
+RL   (E-mail:yoko.kita@nifty.ne.jp, Tel:81-3-2841-4047, Fax:81-3-2841-4047)
+XX
+RN   [2]
+RA   Kato M., Kita Y., Koi S.;
+RT   "Molecular phylogeny, taxonomy and biogeography of Malaccotristicha
+RT   australis comb. nov. (syn. Tristicha australis) (Podostemaceae)";
+RL   Aust. Syst. Bot. 16:177-183(2003).
+XX
+DR   MD5; 9ad355e013f5868124c3ac43731cf039.
+XX
+FH   Key             Location/Qualifiers
+FH
+FT   source          1..935
+FT                   /organism="Terniopsis malayana"
+FT                   /mol_type="genomic DNA"
+FT                   /country="Thailand"
+FT                   /specimen_voucher="TL107 (the University of Tokyo
+FT                   Herbarium)"
+FT                   /db_xref="taxon:116736"
+FT   CDS             <1..>935
+FT                   /codon_start=3
+FT                   /transl_table=1
+FT                   /gene="rbcL"
+FT                   /product="ribulose 1,5 bisphosphate carboxylase/oxygenase
+FT                   large subunit"
+FT                   /db_xref="GOA:Q8H981"
+FT                   /db_xref="InterPro:IPR000685"
+FT                   /db_xref="InterPro:IPR017443"
+FT                   /db_xref="InterPro:IPR020878"
+FT                   /db_xref="InterPro:IPR033966"
+FT                   /db_xref="InterPro:IPR036376"
+FT                   /db_xref="InterPro:IPR036422"
+FT                   /db_xref="UniProtKB/TrEMBL:Q8H981"
+FT                   /protein_id="BAC20315.1"
+FT                   /translation="EYKLTYYTPDYETKDTDILAAFRVTPQPGVPPEEAGAAVAAESST
+FT                   GTWTTVWTDGLTSLDRYKGRCYHIEPVPGEESQFIAYVAYPLDLFEEGSVTNMFTSIVG
+FT                   NVFGFKALRALRLEDLRIPTAYVKTFQGPPHGIQVERDKLNKYGRPLLGCTIKPKLGLS
+FT                   AKNYGRAVYECLRGGLDFTKDDENVNSQPFMRWRDRFLFCAEAIYKSQAETGEIKGHYL
+FT                   NATAGTCEEMMKRAVFARELGVPIVMHDYLTGGFTANTTLSHYCRDNGLLLHIHRAMHA
+FT                   VIDRQKXHGMHFRVLAXAXCMSGGDHIHSG"
+XX
+SQ   Sequence 935 BP; 271 A; 173 C; 207 G; 281 T; 3 other;
+     aagagtataa attgacttat tatactcctg actatgaaac caaagatact gatatcttgg        60
+     cagcattccg agtaactcct caaccaggag ttccaccgga agaagcagga gctgcggtag       120
+     ctgcagaatc ttcaactggt acatggacaa ctgtgtggac tgatgggttg acaagtcttg       180
+     atcgttataa aggacgatgc tatcacattg agcctgttcc gggagaagaa tctcaattta       240
+     ttgcttatgt agcttacccc ttagatcttt ttgaagaagg ttctgttact aacatgttta       300
+     cttccattgt aggtaatgta tttggattca aagccctacg tgctctacgt ttggaggatt       360
+     tgagaatccc tactgcgtat gttaaaactt ttcaaggtcc gcctcatgga atccaagtcg       420
+     aaagagataa attgaacaag tatggccgtc ccctattagg ctgtactatt aaacctaagt       480
+     tggggttatc cgctaaaaat tatggtagag cagtctatga atgtcttcgt ggtggacttg       540
+     attttaccaa agatgatgag aatgtaaact ctcaaccatt tatgcgatgg agagatcgat       600
+     ttttattttg tgctgaagca atttataaat cccaggcgga aacaggtgaa atcaaaggtc       660
+     attatttgaa tgctactgct ggtacatgcg aagaaatgat gaaaagggct gtatttgctc       720
+     gcgaattggg agttccgatt gtaatgcatg actatttaac cggaggattc acggcaaata       780
+     caaccttatc tcattattgc cgagataatg gtttacttct tcacattcac cgcgcaatgc       840
+     atgcagttat tgatagacaa aaganccatg gtatgcactt tcgtgtgcta gctaragcat       900
+     natgtatgtc cggtggagat catatccact ctggt                                  935
+//
+ID   AB038194; SV 1; linear; genomic DNA; STD; PLN; 1539 BP.
+XX
+AC   AB038194;
+XX
+DT   10-JAN-2002 (Rel. 70, Created)
+DT   16-JAN-2003 (Rel. 74, Last updated, Version 2)
+XX
+DE   Malaccotristicha malayana chloroplast matK gene for maturase K, complete
+DE   cds.
+XX
+KW   maturase K.
+XX
+OS   Terniopsis malayana
+OC   Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+OC   Spermatophyta; Magnoliopsida; eudicotyledons; Gunneridae; Pentapetalae;
+OC   rosids; fabids; Malpighiales; Podostemaceae; Tristichoideae; Terniopsis.
+OG   Plastid:Chloroplast
+XX
+RN   [1]
+RP   1-1539
+RA   Kita Y., Kato M.;
+RT   ;
+RL   Submitted (08-FEB-2000) to the INSDC.
+RL   Yoko Kita, University of Tokyo, Graduate school of Science, Department of
+RL   Biological Sciences; 7-3-1 Hongo, Bunkyo-ku, Tokyo 113-0033, Japan
+RL   (E-mail:sykita@mail.ecc.u-tokyo.ac.jp, Tel:81-3-5841-4047,
+RL   Fax:81-3-5841-4047)
+XX
+RN   [2]
+RA   Kita Y., Kato M.;
+RT   "Infrafamilial Phylogeny of the Aquatic Angiosperm Podostemaceae Inferred
+RT   from the Nucleotide Sequences of the matK Gene";
+RL   Plant Biol. 3:156-163(2001).
+XX
+DR   MD5; eeef695847721d7386488ab4408482bd.
+XX
+FH   Key             Location/Qualifiers
+FH
+FT   source          1..1539
+FT                   /organism="Terniopsis malayana"
+FT                   /organelle="plastid:chloroplast"
+FT                   /mol_type="genomic DNA"
+FT                   /specimen_voucher="ML-01"
+FT                   /db_xref="taxon:116736"
+FT   CDS             1..1539
+FT                   /codon_start=1
+FT                   /transl_table=11
+FT                   /gene="matK"
+FT                   /product="maturase K"
+FT                   /db_xref="GOA:Q8WKL0"
+FT                   /db_xref="InterPro:IPR002866"
+FT                   /db_xref="InterPro:IPR024937"
+FT                   /db_xref="InterPro:IPR024942"
+FT                   /db_xref="UniProtKB/TrEMBL:Q8WKL0"
+FT                   /protein_id="BAB83155.1"
+FT                   /translation="MGKEKDQKYIDLAKSDKKEFLYPLIFQEYIYTLAHEHNLNRYTLL
+FT                   ENLGYDKKLSFLIVKRLIARMYHQNYFPFSSDNFKQNFFFRYNKVLYSQKISEGFAIIV
+FT                   EIPFFLQFGTSFQNLEKKLEIVKVQNLQSIHSIFPFVEDQFYHFNFVFDGLLPYPIHLE
+FT                   KLVQTLRYWLKDPSSLHFLRLFLHEYSNGNNPFFQKKANSFLEKKNIRLFVFLYNAYIY
+FT                   EYESIVFFIRTQFCHLPAKRFQFFFERNYFYAKVNNFTKVFANCFPLKLELFKDPNLHY
+FT                   IRYQGKLVFGIRGMPLLMKKWKHYFVTLFECYFDVWFQPDKIQIGLLSKHSLTFVGYLL
+FT                   RLKFTPCVIRSQMLQKAFSIDNTRHHIETLIPIIPMIESLSKMKFCNKVGHPVSKPTWT
+FT                   DLLDSDIIDRFLRLCKNIAHYSSGSSKKKVLYQIHYILRFACLKTLARKHKISVRAFLK
+FT                   KQGSALLEEFFIEEQIASLIFRRNSSKSPYPFNQYKDRLWYLDILSINDLVNHN"
+XX
+SQ   Sequence 1539 BP; 517 A; 239 C; 213 G; 570 T; 0 other;
+     atgggaaaag aaaaagatca aaaatatata gatctagcca aatcggataa aaaggaattc        60
+     ctatacccac ttatctttca agagtatatt tatacactag ctcatgagca taatttaaat       120
+     agatatacat tgttggaaaa tttaggttat gacaaaaaat tgagtttttt aattgtaaaa       180
+     cgtttaattg ctcgaatgta tcaccagaat tatttccctt tttcttctga caattttaaa       240
+     caaaattttt tttttagata caacaaggtt ttgtattctc aaaaaatatc agaaggattt       300
+     gcaatcattg tagaaattcc ctttttcctt caatttggaa cttctttcca aaatttggaa       360
+     aaaaaattgg aaatagtaaa agttcaaaat ttacaatcaa ttcattcaat atttcctttt       420
+     gtcgaggatc aattttacca tttcaatttt gtgttcgatg ggttactccc atatcccatt       480
+     catctcgaaa aattggttca aactcttcgt tactggttaa aagatccttc ctctttgcat       540
+     tttttacgat tgtttcttca tgagtattcg aatggtaaca atcctttttt tcaaaaaaaa       600
+     gcaaattcct ttttggaaaa aaaaaatata agattatttg tgtttttata taatgcttat       660
+     atatatgaat acgaatctat tgtttttttt attcgtaccc aattctgtca tttaccagca       720
+     aaacgttttc agtttttttt tgagagaaac tacttttatg caaaagtaaa taattttaca       780
+     aaagtttttg ctaactgttt tccccttaag ctagagttgt ttaaagatcc gaacctacat       840
+     tatattcgat atcaaggaaa attggtgttt ggtataaggg gaatgccact tctaatgaaa       900
+     aaatggaaac actattttgt tactttattt gaatgttatt ttgatgtatg gtttcaacca       960
+     gataagattc agatcggttt attatcgaaa cattctctaa cttttgttgg ttatcttttg      1020
+     aggttaaaat ttacgccttg cgtgatacga agtcaaatgc ttcaaaaagc atttagtatc      1080
+     gataatacta gacatcatat agagacacta attcccatta ttccaatgat tgaatcattg      1140
+     tcaaaaatga aattttgtaa caaagtagga catcccgtta gcaaaccgac ctggacggat      1200
+     ttattggatt cagatattat tgaccgattt ttgcgtctat gcaaaaatat cgctcattat      1260
+     tctagtggat cttccaaaaa aaaagttttg tatcaaatac attatatact tcgatttgct      1320
+     tgcctcaaaa ccttggctcg taaacataaa atctctgtac gcgctttttt gaaaaaacaa      1380
+     gggtccgccc ttttagaaga attttttatc gaagaacaga ttgcttcttt gatcttccga      1440
+     agaaattcat cgaaatctcc atatccattc aatcaatata aagatcgcct ttggtatttg      1500
+     gatattcttt ctattaatga tctagttaat cataactaa                             1539
+//
+ID   AB048827; SV 1; linear; genomic DNA; STD; PLN; 1539 BP.
+XX
+AC   AB048827;
+XX
+DT   17-MAR-2001 (Rel. 67, Created)
+DT   16-JAN-2003 (Rel. 74, Last updated, Version 3)
+XX
+DE   Malaccotristicha malayana chloroplast matK gene for maturase K, complete
+DE   cds.
+XX
+KW   .
+XX
+OS   Terniopsis malayana
+OC   Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+OC   Spermatophyta; Magnoliopsida; eudicotyledons; Gunneridae; Pentapetalae;
+OC   rosids; fabids; Malpighiales; Podostemaceae; Tristichoideae; Terniopsis.
+OG   Plastid:Chloroplast
+XX
+RN   [1]
+RP   1-1539
+RA   Kita Y., Kato M.;
+RT   ;
+RL   Submitted (13-SEP-2000) to the INSDC.
+RL   Yoko Kita, Graduate school of Science, University of Tokyo, Department of
+RL   Biological Sciences; 7-3-1 Hongo, Bunkyo-ku 113-0033, Japan
+RL   (E-mail:sykita@mail.ecc.u-tokyo.ac.jp, Tel:81-3-2841-4047,
+RL   Fax:81-3-2841-4047)
+XX
+RN   [2]
+RA   Kita Y., Kato M.;
+RT   "Infrafamilial Phylogeny of the Aquatic Angiosperm Podostemaceae Inferred
+RT   from the Nucleotide Sequences of the matK Gene";
+RL   Plant Biol. 3:156-163(2001).
+XX
+DR   MD5; 5468f49363b3358a7f777016d99b14bf.
+XX
+FH   Key             Location/Qualifiers
+FH
+FT   source          1..1539
+FT                   /organism="Terniopsis malayana"
+FT                   /organelle="plastid:chloroplast"
+FT                   /mol_type="genomic DNA"
+FT                   /country="Thailand:Sirindhorn Fall"
+FT                   /specimen_voucher="TL106 (TI, Herbarium)"
+FT                   /db_xref="taxon:116736"
+FT   CDS             1..1539
+FT                   /codon_start=1
+FT                   /transl_table=11
+FT                   /gene="matK"
+FT                   /product="maturase K"
+FT                   /db_xref="GOA:Q9BBF6"
+FT                   /db_xref="InterPro:IPR002866"
+FT                   /db_xref="InterPro:IPR024937"
+FT                   /db_xref="InterPro:IPR024942"
+FT                   /db_xref="UniProtKB/TrEMBL:Q9BBF6"
+FT                   /protein_id="BAB39349.1"
+FT                   /translation="MGKEKDQKYIDLAKSDKKKFLYPLIFQEYIYTLAHEHNLNRYTLL
+FT                   ENLGYDKKLSFLIVKRLIARMYHQNYFPFSSDNFKQNFFFRYNKVLYSQKISEGFAIIV
+FT                   EIPFFLQFGTSFQNLEKKLEIVKVQNLQSIHSIFPFVEDQFYHFNFVFDGLLPYPIHLE
+FT                   KLVQTLRYWLKDPSSLHFLRLFLHEYSNGNNPFFQKKANSFLEKKNIRLFVFLYNAYIY
+FT                   EYESIVFFIRTQFCHLPAKRFQFFFERNYFYAKVNNFTKVFANRFPLKLELFKDPNLHY
+FT                   IRYQGKLVFGIRGMPLLMKKWKHYFVTLFECYFDVWFQPDKIQIGLLSKHSLTFVGYLL
+FT                   RLKFTPCVIRSQMLQKAFSIDNTRHHIETLIPIIPMIESLSKMKFCNKVGHPVSKPTWT
+FT                   DLLDSDIIDRFLRLCKNIAHYSSGSSKKKVLYQIHYILRFACLKTLARKHKISVRAFLK
+FT                   KQGSALLEEFFIEEQIASLIFRRNSSKSPYPFNQYKDRLWYLDILSINDLVNHN"
+XX
+SQ   Sequence 1539 BP; 518 A; 240 C; 212 G; 569 T; 0 other;
+     atgggaaaag aaaaagatca aaaatatata gatctagcca aatcggataa aaagaaattc        60
+     ctatacccac ttatctttca agagtatatt tatacactag ctcatgagca taatttaaat       120
+     agatatacat tgttggaaaa tttaggttat gacaaaaaat tgagtttttt aattgtaaaa       180
+     cgtttaattg ctcgaatgta tcaccagaat tatttccctt tttcttctga caattttaaa       240
+     caaaattttt tttttagata caacaaggtt ttgtattctc aaaaaatatc agaaggattt       300
+     gcaatcattg tagaaattcc ctttttcctt caatttggaa cttctttcca aaatttggaa       360
+     aaaaaattgg aaatagtaaa agttcaaaat ttacaatcaa ttcattcaat atttcctttt       420
+     gtcgaggatc aattttacca tttcaatttt gtgttcgatg ggttactccc atatcccatt       480
+     catctcgaaa aattggttca aactcttcgt tactggttaa aagatccttc ctctttgcat       540
+     tttttacgat tgtttcttca tgagtattcg aatggtaaca atcctttttt tcaaaaaaaa       600
+     gcaaattcct ttttggaaaa aaaaaatata agattatttg tgtttttata taatgcttat       660
+     atatatgaat acgaatctat tgtttttttt attcgtaccc aattctgtca tttaccagca       720
+     aaacgttttc agtttttttt tgagagaaac tacttttatg caaaagtaaa taattttaca       780
+     aaagtttttg ctaaccgttt tccccttaag ctagagttgt ttaaagatcc gaacctacat       840
+     tatattcgat atcaaggaaa attggtgttt ggtataaggg gaatgccact tctaatgaaa       900
+     aaatggaaac actattttgt tactttattt gaatgttatt ttgatgtatg gtttcaacca       960
+     gataagattc agatcggttt attatcgaaa cattctctaa cttttgttgg ttatcttttg      1020
+     aggttaaaat ttacgccttg cgtgatacga agtcaaatgc ttcaaaaagc atttagtatc      1080
+     gataatacta gacatcatat agagacacta attcccatta ttccaatgat tgaatcattg      1140
+     tcaaaaatga aattttgtaa caaagtagga catcccgtta gcaaaccgac ctggacggat      1200
+     ttattggatt cagatattat tgaccgattt ttgcgtctat gcaaaaatat cgctcattat      1260
+     tctagtggat cttccaaaaa aaaagttttg tatcaaatac attatatact tcgatttgct      1320
+     tgcctcaaaa ccttggctcg taaacataaa atctctgtac gcgctttttt gaaaaaacaa      1380
+     gggtccgccc ttttagaaga attttttatc gaagaacaga ttgcttcttt gatcttccga      1440
+     agaaattcat cgaaatctcc atatccattc aatcaatata aagatcgcct ttggtatttg      1500
+     gatattcttt ctattaatga tctagttaat cataactaa                             1539
+//

@@ -126,6 +126,10 @@ function sparql_construct($sparql_endpoint, $uri, $format='application/ld+json')
 {
 	$url = $sparql_endpoint;
 	
+	// encode things that may break SPARQL, e.g. SICI entities
+	$uri = str_replace('<', '%3C', $uri);
+	$uri = str_replace('>', '%3E', $uri);
+	
 	// Query is string
 	$query = 'CONSTRUCT {
    ?thing ?p ?o .
@@ -189,8 +193,12 @@ CONSTRUCT
 	?publishedInCitation <http://rs.tdwg.org/ontology/voc/PublicationCitation#pages> ?tpc_pages  .
 	?publishedInCitation <http://rs.tdwg.org/ontology/voc/PublicationCitation#year> ?tpc_year  .
 	
-	?publishedInCitation <http://schema.org/name> ?pub_title  . 
-	?publishedInCitation <http://schema.org/thumbnailUrl> ?pub_thumbnailUrl  . 
+	#?publishedInCitation <http://schema.org/name> ?pub_title  . 
+	#?publishedInCitation <http://schema.org/thumbnailUrl> ?pub_thumbnailUrl  . 
+
+	?publishedInCitation <http://schema.org/sameAs> ?pub_id .
+	?pub_id <http://schema.org/name> ?pub_title .
+	
 	
 	# annotation
 	?item <http://rs.tdwg.org/ontology/voc/TaxonName#hasAnnotation> ?annotation .
@@ -286,18 +294,24 @@ WHERE {
 	
 	OPTIONAL {
 		?item <http://rs.tdwg.org/ontology/voc/Common#publishedInCitation> ?publishedInCitation .	
-		?publishedInCitation a ?tpc_type .
+		#?publishedInCitation a ?tpc_type .
 		
 		# tdwg
-		OPTIONAL {?publishedInCitation <http://rs.tdwg.org/ontology/voc/PublicationCitation#title> ?tpc_title  . }
+		OPTIONAL { ?publishedInCitation <http://rs.tdwg.org/ontology/voc/PublicationCitation#title> ?tpc_title  . }
 		OPTIONAL { ?publishedInCitation <http://rs.tdwg.org/ontology/voc/PublicationCitation#volume> ?tpc_volume  . }
 		OPTIONAL { ?publishedInCitation <http://rs.tdwg.org/ontology/voc/PublicationCitation#number> ?tpc_number  . }
 		OPTIONAL { ?publishedInCitation <http://rs.tdwg.org/ontology/voc/PublicationCitation#pages> ?tpc_pages  . }
 		OPTIONAL { ?publishedInCitation <http://rs.tdwg.org/ontology/voc/PublicationCitation#year> ?tpc_year  . }
 		
 		# schema
-		OPTIONAL { ?publishedInCitation <http://schema.org/name> ?pub_title  . }
-		OPTIONAL { ?publishedInCitation <http://schema.org/thumbnailUrl> ?pub_thumbnailUrl } . 
+		#OPTIONAL { ?publishedInCitation <http://schema.org/name> ?pub_title  . }
+		#OPTIONAL { ?publishedInCitation <http://schema.org/thumbnailUrl> ?pub_thumbnailUrl } . 
+
+		OPTIONAL { 	
+			?publishedInCitation <http://schema.org/sameAs> ?pub_identifier .
+			BIND(IRI(?pub_identifier) AS ?pub_id) .
+			?pub_id <http://schema.org/name> ?pub_title .
+		} . 
 
 	
 	}

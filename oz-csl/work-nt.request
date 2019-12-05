@@ -28,11 +28,35 @@
 		</dict>
 		<dict>
 			<key>inUse</key>
-			<true/>
+			<false/>
 			<key>parameter</key>
 			<string>key</string>
 			<key>value</key>
 			<string>"https://doi.org/10.2307/1222581"</string>
+		</dict>
+		<dict>
+			<key>inUse</key>
+			<false/>
+			<key>parameter</key>
+			<string>key</string>
+			<key>value</key>
+			<string>"http://localhost/~rpage/microcitation/www/citeproc-api.php?guid=http://www.repository.naturalis.nl/record/525386"</string>
+		</dict>
+		<dict>
+			<key>inUse</key>
+			<true/>
+			<key>parameter</key>
+			<string>key</string>
+			<key>value</key>
+			<string>"https://doi.org/10.1007/s10531-005-0599-5"</string>
+		</dict>
+		<dict>
+			<key>inUse</key>
+			<false/>
+			<key>parameter</key>
+			<string>key</string>
+			<key>value</key>
+			<string>"http://localhost/~rpage/microcitation/www/citations?guid=10.11646/phytotaxa.137.1.7"</string>
 		</dict>
 		<dict>
 			<key>inUse</key>

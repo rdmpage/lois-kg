@@ -1066,7 +1066,11 @@ if (0)
 	$url = 'urn:lsid:marinespecies.org:taxname:1315467';
 	$url = 'urn:lsid:marinespecies.org:taxname:989901';
 	
-	$url = 'urn:lsid:marinespecies.org:taxname:1259280';
+	//$url = 'urn:lsid:marinespecies.org:taxname:1259280';
+	
+	//$url = 'urn:lsid:nmbe.ch:spidersp:049015';
+	
+	
 	
 		
 	$doc = resolve_url($url);

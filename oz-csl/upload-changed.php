@@ -6,7 +6,7 @@ require_once (dirname(__FILE__) . '/config.inc.php');
 require_once (dirname(__FILE__) . '/couchsimple.php');
 require_once (dirname(dirname(__FILE__)) . '/www/config.inc.php');
 
-$limit = 10;
+$limit = 100;
 
 $url = '_changes?limit=' . $limit . '&descending=true';
 
@@ -27,7 +27,7 @@ foreach ($obj->results as $result)
 	
 	echo $id . "\n";
 	
-	$resp = $couch->send("GET", "/" . $config['couchdb_options']['database'] . "/_design/csl/_list/triples/nt?key=" . urlencode('"' . $id . '"'));
+	$resp = $couch->send("GET", "/" . $config['couchdb_options']['database'] . "/_design/work/_list/triples/nt?key=" . urlencode('"' . $id . '"'));
 	
 	//echo $resp;
 	

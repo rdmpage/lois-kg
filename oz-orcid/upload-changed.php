@@ -8,7 +8,7 @@ require_once (dirname(dirname(__FILE__)) . '/www/config.inc.php');
 
 for ($mode = 0; $mode < 2; $mode++)
 {
-	$limit = 1000;
+	$limit = 2000;
 
 	$url = '_changes?limit=' . $limit . '&descending=true';
 
@@ -42,11 +42,11 @@ for ($mode = 0; $mode < 2; $mode++)
 	
 		if ($mode == 0)
 		{
-			$resp = $couch->send("GET", "/" . $config['couchdb_options']['database'] . "/_design/orcid/_list/triples/person-nt?key=" . urlencode('"' . $id . '"'));	
+			$resp = $couch->send("GET", "/" . $config['couchdb_options']['database'] . "/_design/people/_list/triples/nt?key=" . urlencode('"' . $id . '"'));	
 		}
 		else
 		{	
-			$resp = $couch->send("GET", "/" . $config['couchdb_options']['database'] . "/_design/orcid/_list/triples/doi-orcid-nt?key=" . urlencode('"' . $id . '"'));
+			$resp = $couch->send("GET", "/" . $config['couchdb_options']['database'] . "/_design/work/_list/triples/nt?key=" . urlencode('"' . $id . '"'));
 		}
 	
 		//echo $resp;

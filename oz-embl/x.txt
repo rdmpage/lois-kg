@@ -1,0 +1,69 @@
+ID   AF347991; SV 1; linear; genomic DNA; STD; PLN; 695 BP.
+XX
+AC   AF347991;
+XX
+DT   27-OCT-2002 (Rel. 73, Created)
+DT   27-OCT-2002 (Rel. 73, Last updated, Version 1)
+XX
+DE   Caladenia flava 18S ribosomal RNA gene, partial sequence; internal
+DE   transcribed spacer 1, 5.8S ribosomal RNA gene and internal transcribed
+DE   spacer 2, complete sequence; and 26S ribosomal RNA gene, partial sequence.
+XX
+KW   .
+XX
+OS   Caladenia flava
+OC   Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+OC   Spermatophyta; Magnoliopsida; Liliopsida; Asparagales; Orchidaceae;
+OC   Orchidoideae; Diurideae; Caladeniinae; Caladenia.
+XX
+RN   [1]
+RP   1-695
+RA   Clements M.A., Jones D.L., Sharma I.K., Nightingale M.E., Garratt M.J.,
+RA   Fitzgerald K.J., Mackenzie A.N., Molloy B.P.J.;
+RT   "Phylogenetic systematics of the Diurideae (Orchidaceae) based on the ITS
+RT   and 5.8S coding region of nuclear ribosomal DNA";
+RL   Lindleyana 17(3):135-171(2002).
+XX
+RN   [2]
+RP   1-695
+RA   Clements M.A., Jones D.L., Sharma I.K., Nightingale M.E., Garratt M.J.,
+RA   Fitzgerald K.J., Mackenzie A.N., Molloy B.P.J.;
+RT   ;
+RL   Submitted (07-FEB-2001) to the INSDC.
+RL   Centre for Plant Biodiversity Research, GPO Box 1600, Canberra, ACT 2601,
+RL   Australia
+XX
+DR   MD5; abdecdc14bcf73f61752aff9a1506654.
+DR   RFAM; RF00002; 5_8S_rRNA.
+XX
+FH   Key             Location/Qualifiers
+FH
+FT   source          1..695
+FT                   /organism="Caladenia flava"
+FT                   /mol_type="genomic DNA"
+FT                   /db_xref="taxon:177015"
+FT   rRNA            <1..7
+FT                   /product="18S ribosomal RNA"
+FT   misc_RNA        8..252
+FT                   /product="internal transcribed spacer 1"
+FT   rRNA            253..414
+FT                   /product="5.8S ribosomal RNA"
+FT   misc_RNA        415..673
+FT                   /product="internal transcribed spacer 2"
+FT   rRNA            674..>695
+FT                   /product="26S ribosomal RNA"
+XX
+SQ   Sequence 695 BP; 188 A; 136 C; 163 G; 208 T; 0 other;
+     atcattgtcg agaccccaag agaatgagca aatctgataa catgtaaact ataaataagg        60
+     tggctgcaaa atttgtcacc actctttcgt ccctctacag tgtctccttt tattggactc       120
+     acagtagaag tgtcgactga aaaaaaaaat cggcacagtg ctgtgccaag ggatatgtat       180
+     aataaagtgt ctatgacaca tcctcaaatc ctaatcgatt ttaggagtgt tattgctact       240
+     ttttatggat tgtatgactc ccgacaatgg atatcttggc tcttgcatcg atgaagagcg       300
+     cagcgaaatg cgatacgtgg tgcgaattgc agaatcccgt gaaccatcga gtttttgaac       360
+     gcaagttgcg cccaaggcta tctagctaag ggcacgtccg cctgggtgtc atgtattatg       420
+     tcgctcctct atcattatcc gtcaatatgt tgtgatgttg gtagttagga tgtggaaatt       480
+     ggctcgtcat gcatgttttt tttgtgtggc gggctaaaga tctattttcc ttactctttg       540
+     acatggttga tgaggggtgg atagaaggag ccagttggcc cattttttca caatcatacc       600
+     attactttga ggaaggaaag ctaacactct aggggcatac ctaaatctaa tataggtggt       660
+     gccatccttt aatgaaaccc caggatgggc gggat                                  695
+//

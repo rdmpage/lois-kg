@@ -23,6 +23,14 @@ select * where
 } LIMIT 10
 ```
 
+Code in add-missing.php generates names based on alternateName
+
+```
+curl http://167.99.58.120:9999/blazegraph/sparql?context-uri=https://www.worldcat.org -H 'Content-Type: text/rdf+n3' --data-binary '@missing.nt'  --progress-bar | tee /dev/null
+
+```
+
+
 ## ISSN.org
 
 The ISSN portal also has RDF, e.g.

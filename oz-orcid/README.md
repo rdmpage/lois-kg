@@ -13,14 +13,14 @@ CLEAR GRAPH <https://orcid.org>
 ### Works
 
 ```
-curl http://localhost:32769/oz-orcid/_design/work/_list/triples/nt > orcid.nt
+curl http://localhost:32775/oz-orcid/_design/work/_list/triples/nt > orcid.nt
 ```
 
 ### People
 
 
 ```
-curl http://localhost:32769/oz-orcid/_design/people/_list/triples/nt > people.nt
+curl http://localhost:32775/oz-orcid/_design/people/_list/triples/nt > people.nt
 ```
 
 ## Upload triples

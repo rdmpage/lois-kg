@@ -1,0 +1,47 @@
+Dear Roderic Page,
+
+Please find below the reviews of your submission for SWAT4HCLS, entitled Reconciling author names in taxonomic and publication databases, and the decision of the SPC, based on these reviews. 
+
+Best regards,
+on behalf of the SPC,
+Ronald Cornet
+
+SUBMISSION: 7
+TITLE: Reconciling author names in taxonomic and publication databases
+
+
+----------------------- REVIEW 1 ---------------------
+SUBMISSION: 7
+TITLE: Reconciling author names in taxonomic and publication databases
+AUTHORS: Roderic Page
+
+----------- Overall evaluation -----------
+SCORE: 0 (borderline paper)
+----- TEXT:
+The paper describes how queries can be formulated for reconciling author entities between two databases.
+ I think the work can be presented as a poster but not as an oral presentation.
+
+
+
+----------------------- REVIEW 2 ---------------------
+SUBMISSION: 7
+TITLE: Reconciling author names in taxonomic and publication databases
+AUTHORS: Roderic Page
+
+----------- Overall evaluation -----------
+SCORE: 0 (borderline paper)
+----- TEXT:
+The submission is very nicely written and hence very easy to grasp. It holds quite a lot of detail and so it is further also easy to understand exactly what was done. I also do understand the basic utility of the proposed work there. Yet, for me, it is just not really a scientific *paper* with something "real" research but rather it is a work report that definitely deserves a poster spot.
+
+
+
+----------------------- REVIEW 3 ---------------------
+SUBMISSION: 7
+TITLE: Reconciling author names in taxonomic and publication databases
+AUTHORS: Roderic Page
+
+----------- Overall evaluation -----------
+SCORE: -1 (weak reject)
+----- TEXT:
+This paper is interesting. the approach presented by the author is sounding. The only issue is the evaluation, which is not present in the paper. I think the paper has an interesting approach to disambiguating ids and their corresponding referenced objects. I like it but I am not 100% on the paper because it does not present a reproduciable experiment. the author should improve on this aspect so that it is easier for others to appreciate the benefits and limitations of the approach. "By associating author names with identifiers such as ORCIDs we can link taxonomists additional outputs of their research, such as
+new species descriptions or new taxonomic classifications" this is true but how could you identify such relations from existing sources in order to populate your model and thus realizing your approach? Evaluation,comparison and reproducibility is what this paper is missing. I am giving it a weak reject because of this.

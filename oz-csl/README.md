@@ -4,13 +4,18 @@ Using CrossRef API and CouchDB to generate triples for publications
 
 ## Export triples
 
-```
-curl http://167.71.255.145:5984/oz-csl/_design/csl/_list/triples/nt > csl.nt
-```
+### Works
 
 ```
-curl http://localhost:32769/oz-csl/_design/work/_list/triples/nt > csl.nt
+curl http://localhost:32775/oz-csl/_design/work/_list/triples/nt > works.nt
 ```
+
+### References cited by works (now a separate view)
+
+```
+curl http://localhost:32775/oz-csl/_design/references/_list/triples/nt > references.nt
+```
+
 
 ## Upload triples
 

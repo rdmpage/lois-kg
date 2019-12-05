@@ -1,0 +1,648 @@
+<!doctype html>
+<html>
+<head>
+  <title>Network</title>
+  <script type="text/javascript" src="https://unpkg.com/vis-network/standalone/umd/vis-network.min.js"></script>
+  <style type="text/css">
+    #mynetwork {
+      width: 600px;
+      height: 400px;
+      border: 1px solid lightgray;
+    }
+  </style>
+</head>
+<body>
+<div id="mynetwork"></div>
+<script type="text/javascript">
+
+/*
+  // create an array with nodes
+  var nodes = new vis.DataSet([
+    {id: 1, label: 'Node 1'},
+    {id: 2, label: 'Node 2'},
+    {id: 3, label: 'Node 3'},
+    {id: 4, label: 'Node 4'},
+    {id: 5, label: 'Node 5'}
+  ]);
+
+  // create an array with edges
+  var edges = new vis.DataSet([
+    {from: 1, to: 3},
+    {from: 1, to: 2},
+    {from: 2, to: 4},
+    {from: 2, to: 5},
+    {from: 3, to: 3}
+  ]);
+
+  // create a network
+  var container = document.getElementById('mynetwork');
+  var data = {
+    nodes: nodes,
+    edges: edges
+  };
+  var options = {};
+  var network = new vis.Network(container, data, options);
+  
+  */
+  
+  // create an array with nodes
+
+  var nodeData=[
+    
+        { id: "schema:ScholarlyArticle",
+          label: "schema:ScholarlyArticle",
+          uri : "http://schema.org/ScholarlyArticle",
+                  
+        
+          group: "text"
+        
+        },
+    
+        { id: "rdf:type",
+          label: "rdf:type",
+          uri : "http://www.w3.org/1999/02/22-rdf-syntax-ns*hash*type",
+                  
+        
+          group: "predicate_uri",
+          color:{border:'#4ae54a'},
+        
+        },
+    
+        { id: "sg:journal.1018957",
+          label: "Nature",
+          uri : "http://scigraph.springernature.com/journal.1018957",
+                  
+        
+          group: "journal"
+        
+        },
+    
+        { id: "https://doi.org/10.1038/116684a0",
+          label: "https://doi.org/10.1038/116684a0",
+          uri : "https://doi.org/10.1038/116684a0",
+                  
+        
+          group: "text"
+        
+        },
+    
+        { id: "anzsrc\u002Dfor:2103",
+          label: "Historical Studies",
+          uri : "http://purl.org/au-research/vocabulary/anzsrc-for/2008/2103",
+                  
+        
+          group: "concept"
+        
+        },
+    
+        { id: "anzsrc\u002Dfor:21",
+          label: "History and Archaeology",
+          uri : "http://purl.org/au-research/vocabulary/anzsrc-for/2008/21",
+                  
+        
+          group: "concept"
+        
+        },
+    
+        { id: "schema:isPartOf",
+          label: "schema:isPartOf",
+          uri : "http://schema.org/isPartOf",
+                  
+        
+          group: "predicate_uri",
+          color:{border:'#9E9E9E'},
+        
+        },
+    
+        { id: "schema:sameAs",
+          label: "schema:sameAs",
+          uri : "http://schema.org/sameAs",
+                  
+        
+          group: "predicate_uri",
+          color:{border:'#9E9E9E'},
+        
+        },
+    
+        { id: "schema:about",
+          label: "schema:about",
+          uri : "http://schema.org/about",
+                  
+        
+          group: "predicate_uri",
+          color:{border:'#9E9E9E'},
+        
+        },
+    
+        { id: "sg:pub.10.1038/116684a0",
+          label: "Mr. J. S. Gamble, C.I.E., F.R.S",
+          uri : "http://scigraph.springernature.com/pub.10.1038/116684a0",
+        
+          icon: { size: 110, color: 'grey'},
+                  
+        
+          group: "article"
+        
+        },
+    
+        { id: "https://app.dimensions.ai/details/publication/pub.1028763515",
+          label: "https://app.dimensions.ai/details/publication/pub.1028763515",
+          uri : "https://app.dimensions.ai/details/publication/pub.1028763515",
+                  
+        
+          group: "text"
+        
+        },
+    
+  ]
+  // console.log(nodeData)
+
+
+  // create an array with edges
+  var edgeData=[
+    
+        {  from: "sg:pub.10.1038/116684a0",
+          to: "schema:about"
+        },
+        {  from: "schema:about",
+            to: "anzsrc\u002Dfor:21"
+          },
+    
+        {  from: "sg:pub.10.1038/116684a0",
+          to: "schema:about"
+        },
+        {  from: "schema:about",
+            to: "anzsrc\u002Dfor:2103"
+          },
+    
+        {  from: "sg:pub.10.1038/116684a0",
+          to: "schema:isPartOf"
+        },
+        {  from: "schema:isPartOf",
+            to: "sg:journal.1018957"
+          },
+    
+        {  from: "sg:pub.10.1038/116684a0",
+          to: "schema:sameAs"
+        },
+        {  from: "schema:sameAs",
+            to: "https://app.dimensions.ai/details/publication/pub.1028763515"
+          },
+    
+        {  from: "sg:pub.10.1038/116684a0",
+          to: "schema:sameAs"
+        },
+        {  from: "schema:sameAs",
+            to: "https://doi.org/10.1038/116684a0"
+          },
+    
+        {  from: "sg:pub.10.1038/116684a0",
+          to: "rdf:type"
+        },
+        {  from: "rdf:type",
+            to: "schema:ScholarlyArticle"
+          },
+    
+    ]
+  // console.log(edgeData)
+
+
+  var nodes = new vis.DataSet(nodeData);
+  var edges = new vis.DataSet(edgeData);
+  
+
+  var options = {
+    autoResize: true,
+    clickToUse: false,
+    physics:{
+      barnesHut:{gravitationalConstant:-30000},
+      stabilization: {iterations:2500}
+    },
+    interaction:{
+        hover: true,
+        navigationButtons: true,
+        zoomView: false
+      },
+    nodes: {
+        shape: 'dot',
+        size: 30,
+        font: {
+            size: 15,
+            color: 'black'
+        },
+        borderWidth: 2,
+    },
+    edges: {
+      color: 'gray',
+      smooth: false,
+      length : 150,
+      arrows: {
+          to:     {enabled: true, scaleFactor:0.2, type:'arrow'},
+          middle: {enabled: false, scaleFactor:1, type:'arrow'},
+          from:   {enabled: false, scaleFactor:1, type:'arrow'}
+        },
+    },
+    groups: {
+        primary_uri: {
+            color: {
+              border:'#325D94',
+              background: 'lightyellow',
+              highlight: {
+                  border:'#325D94',
+                  background: '#FFF59D'
+              },
+              hover: {
+                  border:'#325D94',
+                  background: '#FFF59D'
+              },
+            },
+            size: 60,
+            font: {
+                size: 18,
+                color: 'black'
+            },
+        },          
+        predicate_uri: {
+          shape: 'box',
+          color: {
+            background: 'white',
+            border: 'lightgreen',  // overridden above
+            highlight: {
+              background: 'white',
+              border: 'red'
+            },
+            hover: {
+              background: 'white',
+              border: '#F44336'
+            },
+          },
+        },
+        ontology: {
+          // not used
+          shape: 'icon',
+          icon: {
+            face: 'FontAwesome',
+            code: '\uf1db',
+            size: 50,
+            color: 'grey'
+          }
+        },
+        organization: {
+          shape: 'icon',
+          icon: {
+            face: 'FontAwesome',
+            code: '\uf1ad',
+            size: 50,
+            color: '#667eb0'
+          }
+        },
+        person: {
+          shape: 'icon',
+          icon: {
+            face: 'FontAwesome',
+            code: '\uf007',
+            size: 80,
+            color: '#57169a'
+          }
+        },
+        concept: {
+          shape: 'icon',
+          icon: {
+            face: 'FontAwesome',
+            code: '\uf0eb',
+            size: 50,
+            color: '#19b3ee'
+          }
+        }, 
+        concept_scheme: {
+          shape: 'icon',
+          icon: {
+            face: 'FontAwesome',
+            code: '\uf187',
+            size: 80,
+            color: '#2589b0'
+          }
+        },        
+        article: {
+          shape: 'icon',
+          icon: {
+            face: 'FontAwesome',
+            code: '\uf1ea',
+            size: 80,
+            color: '#2589b0'
+          }
+        },
+        journal: {
+          shape: 'icon',
+          icon: {
+            face: 'FontAwesome',
+            code: '\uf115',
+            size: 80,
+            color: '#2589b0'
+          }
+        },
+        book: {
+          shape: 'icon',
+          icon: {
+            face: 'FontAwesome',
+            code: '\uf02d',
+            size: 60,
+            color: '#2589b0'
+          }
+        }, 
+        grant: {
+          shape: 'icon',
+          icon: {
+            face: 'FontAwesome',
+            code: '\uf0c3',
+            size: 40,
+            color: 'darkblue'
+          }
+        },        
+        conference: {
+          shape: 'icon',
+          icon: {
+            face: 'FontAwesome',
+            code: '\uf19d',
+            size: 60,
+            color: '#94190c'
+          }
+        },         
+        metrics: {
+          shape: 'icon',
+          icon: {
+            face: 'FontAwesome',
+            code: '\uf080',
+            size: 40,
+            color: '#b09390'
+          }
+        }, 
+        text: {
+          shape: 'text',
+          font: {
+            color: '#343434',
+          },
+        }
+    }
+  };  
+  
+  var container = document.getElementById('mynetwork');
+  var data = {
+    nodes: nodes,
+    edges: edges
+  };
+  //var options = {};
+  
+  var options = {
+    autoResize: true,
+    clickToUse: false,
+    physics:{
+      barnesHut:{gravitationalConstant:-30000},
+      stabilization: {iterations:2500}
+    },
+    interaction:{
+        hover: true,
+        navigationButtons: true,
+        zoomView: false
+      },
+    nodes: {
+        shape: 'dot',
+        size: 30,
+        font: {
+            size: 15,
+            color: 'black'
+        },
+        borderWidth: 2,
+    },
+    edges: {
+      color: 'gray',
+      smooth: false,
+      length : 150,
+      arrows: {
+          to:     {enabled: true, scaleFactor:0.2, type:'arrow'},
+          middle: {enabled: false, scaleFactor:1, type:'arrow'},
+          from:   {enabled: false, scaleFactor:1, type:'arrow'}
+        },
+    },
+    groups: {
+        primary_uri: {
+            color: {
+              border:'#325D94',
+              background: 'lightyellow',
+              highlight: {
+                  border:'#325D94',
+                  background: '#FFF59D'
+              },
+              hover: {
+                  border:'#325D94',
+                  background: '#FFF59D'
+              },
+            },
+            size: 60,
+            font: {
+                size: 18,
+                color: 'black'
+            },
+        },          
+        predicate_uri: {
+          shape: 'box',
+          color: {
+            background: 'white',
+            border: 'lightgreen',  // overridden above
+            highlight: {
+              background: 'white',
+              border: 'red'
+            },
+            hover: {
+              background: 'white',
+              border: '#F44336'
+            },
+          },
+        },
+        ontology: {
+          // not used
+          shape: 'icon',
+          icon: {
+            face: 'FontAwesome',
+            code: '\uf1db',
+            size: 50,
+            color: 'grey'
+          }
+        },
+        organization: {
+          shape: 'icon',
+          icon: {
+            face: 'FontAwesome',
+            code: '\uf1ad',
+            size: 50,
+            color: '#667eb0'
+          }
+        },
+        person: {
+          shape: 'icon',
+          icon: {
+            face: 'FontAwesome',
+            code: '\uf007',
+            size: 80,
+            color: '#57169a'
+          }
+        },
+        concept: {
+          shape: 'icon',
+          icon: {
+            face: 'FontAwesome',
+            code: '\uf0eb',
+            size: 50,
+            color: '#19b3ee'
+          }
+        }, 
+        concept_scheme: {
+          shape: 'icon',
+          icon: {
+            face: 'FontAwesome',
+            code: '\uf187',
+            size: 80,
+            color: '#2589b0'
+          }
+        },        
+        article: {
+          shape: 'icon',
+          icon: {
+            face: 'FontAwesome',
+            code: '\uf1ea',
+            size: 80,
+            color: '#2589b0'
+          }
+        },
+        journal: {
+          shape: 'icon',
+          icon: {
+            face: 'FontAwesome',
+            code: '\uf115',
+            size: 80,
+            color: '#2589b0'
+          }
+        },
+        book: {
+          shape: 'icon',
+          icon: {
+            face: 'FontAwesome',
+            code: '\uf02d',
+            size: 60,
+            color: '#2589b0'
+          }
+        }, 
+        grant: {
+          shape: 'icon',
+          icon: {
+            face: 'FontAwesome',
+            code: '\uf0c3',
+            size: 40,
+            color: 'darkblue'
+          }
+        },        
+        conference: {
+          shape: 'icon',
+          icon: {
+            face: 'FontAwesome',
+            code: '\uf19d',
+            size: 60,
+            color: '#94190c'
+          }
+        },         
+        metrics: {
+          shape: 'icon',
+          icon: {
+            face: 'FontAwesome',
+            code: '\uf080',
+            size: 40,
+            color: '#b09390'
+          }
+        }, 
+        text: {
+          shape: 'text',
+          font: {
+            color: '#343434',
+          },
+        }
+    }
+  }  ;
+  
+	//var options = {};
+  
+  var options = {
+    autoResize: true,
+    clickToUse: false,
+    physics:{
+      barnesHut:{gravitationalConstant:-30000},
+      stabilization: {iterations:2500}
+    },
+    interaction:{
+        hover: true,
+        navigationButtons: true,
+        zoomView: false
+      },
+    nodes: {
+        shape: 'dot',
+        size: 30,
+        font: {
+            size: 15,
+            color: 'black'
+        },
+        borderWidth: 2,
+    },
+    edges: {
+      color: 'gray',
+      smooth: false,
+      length : 150,
+      arrows: {
+          to:     {enabled: true, scaleFactor:0.2, type:'arrow'},
+          middle: {enabled: false, scaleFactor:1, type:'arrow'},
+          from:   {enabled: false, scaleFactor:1, type:'arrow'}
+        },
+    },
+ groups: {
+        primary_uri: {
+            color: {
+              border:'#325D94',
+              background: 'lightyellow',
+              highlight: {
+                  border:'#325D94',
+                  background: '#FFF59D'
+              },
+              hover: {
+                  border:'#325D94',
+                  background: '#FFF59D'
+              },
+            },
+            size: 60,
+            font: {
+                size: 18,
+                color: 'black'
+            },
+        },          
+        predicate_uri: {
+          shape: 'box',
+          color: {
+            background: 'white',
+            border: 'lightgreen',  // overridden above
+            highlight: {
+              background: 'white',
+              border: 'red'
+            },
+            hover: {
+              background: 'white',
+              border: '#F44336'
+            },
+          },
+        }
+    	}           
+    }; 
+  
+  
+  var network = new vis.Network(container, data, options);
+  
+  
+</script>
+</body>
+</html>

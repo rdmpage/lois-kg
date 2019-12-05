@@ -1,0 +1,440 @@
+<head>
+  <title>Network</title>
+  <script type="text/javascript" src="vis-network.min.js"></script>
+  <style type="text/css">
+    #mynetwork {
+      width: 600px;
+      height: 400px;
+      border: 1px solid lightgray;
+    }
+  </style>
+</head>
+<body>
+<div id="mynetwork"></div>
+
+<body>
+<script>
+
+var nodeData = [];
+var edgeData = [];
+
+//----------------------------------------------------------------------------------------
+// http://stackoverflow.com/a/25715455
+function isObject(item) {
+    return (typeof item === "object" && !Array.isArray(item) && item !== null);
+}
+
+
+//----------------------------------------------------------------------------------------
+function property_to_uri(context, property) {
+    var uri = property;
+    
+	if (context) {
+		var m = property.match(/([a-z]+):([a-z]+)/i);
+		if (m) {
+			if (context[m[1]]) {
+				uri = context[m[1]] + m[2];
+			}
+		} else {
+			if (context['@vocab']) {
+				uri = context['@vocab'] + property;
+			} else {
+				if (typeof context === 'string') {
+					uri = context + property;
+				}
+			}
+		}
+	}
+
+    return uri;
+}
+
+//----------------------------------------------------------------------------------------
+function subtree(context, root, subject) {
+
+	//console.log(root);
+
+    for (var i in root) {
+
+        //console.log(i);
+
+        // Simple literal
+        if (typeof root[i] === 'string') {
+            switch (i) {
+                case '@context':
+                case '@id':
+                    break;
+
+                case '@type':
+                    //triples.push(triple(subject, 'http://www.w3.org/1999/02/22-rdf-syntax-ns#type', property_to_uri(context, root[i])));
+                    
+                    edgeData.push( { from: subject, to: 'rdf:type'});
+                    edgeData.push( { from: 'rdf:type', to: root[i]});
+                    
+                    break;
+
+                default:
+                    // simple literal                   
+                    console.log(subject + ' ' + i + '" ' + root[i].replace(/"/g, '\\"') + '"');
+                    break;
+            }
+        }
+
+        if (isObject(root[i])) {
+            if (root[i]['@value'] && root[i]['@language']) {
+                // literal with language code
+				/*
+                triples.push(
+                    triple(
+                        subject,
+                        property_to_uri(context, i),
+                        '"' + root[i]['@value'].replace(/"/g, '\\"') + '"',
+                        root[i]['@language']
+                    )
+                );
+                */
+
+            } else {
+                // object
+                if (root[i]['@id'] || root[i]['@type']) {
+
+                    var id = '';
+                    if (root[i]['@id']) {
+                        id = root[i]['@id'];
+
+                        // PHP JSON-LD framed creates bnodes _:b\d+
+                        if (id.match(/_:b\d+/)) {
+                            id = '';
+                        }
+
+                    }
+                    if (id == '') {
+                        id = subject + '#' + bnode();
+                    }
+                    
+                   	edgeData.push( { from: subject, to: i});
+                    edgeData.push( { from: i, to: id});
+                     
+
+					/*
+                    triples.push(
+                        triple(
+                            subject,
+                            property_to_uri(context, i),
+                            id
+                        )
+                    );
+                    */
+
+                    //subtree(context, root[i], id);
+                }
+            }
+        }
+
+
+        if (Array.isArray(root[i])) {
+            for (var j in root[i]) {
+                if (isObject(root[i][j])) {
+
+					// literal with language code
+                    if (root[i][j]['@value'] && root[i][j]['@language']) {
+						/*
+                        triples.push(
+                            triple(
+                                subject,
+                                property_to_uri(context, i),
+                                '"' + root[i][j]['@value'].replace(/"/g, '\\"') + '"',
+                                root[i][j]['@language']
+                            )
+                        );
+                        */
+
+                    }
+                    
+                 
+                    
+					// object
+					if (root[i][j]['@id'] || root[i][j]['@type']) {
+
+						var id = '';
+						if (root[i][j]['@id']) {
+							id = root[i][j]['@id'];
+
+							// PHP JSON-LD framed creates bnodes _:b\d+
+							if (id.match(/_:b\d+/)) {
+								id = '';
+							}
+
+						}
+						if (id == '') {
+							id = subject + '#' + bnode();
+						}
+
+						/*
+						triples.push(
+							triple(
+								subject,
+								property_to_uri(context, i),
+								id
+							)
+						);
+						*/
+
+						//subtree(context, root[i][j], id);
+					}
+
+                }
+
+                if (typeof root[i][j] === 'string') {
+                    // simple literal                    
+                    switch (i) {
+                    
+                    	case '@type':
+                    		/*
+                    		triples.push(
+                    			triple(subject, 
+                    			'http://www.w3.org/1999/02/22-rdf-syntax-ns#type', 
+                    			property_to_uri(context, root[i][j]))
+                    		);
+                    		*/
+                    		break;
+                    
+                    	default:
+                    		/*
+                    	    triples.push(
+								triple(
+									subject,
+									property_to_uri(context, i),
+									'"' + root[i][j].replace(/"/g, '\\"') + '"'
+								)
+							); 
+							*/
+                    		break;                   
+                    }
+                }
+
+            }
+        }
+
+
+    }
+
+}
+
+
+
+
+
+
+
+
+var item = {
+    "@context": {
+        "@vocab": "http://schema.org/",
+        "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+        "owl": "http://www.w3.org/2002/07/owl#",
+        "dc": "http://purl.org/dc/elements/1.1/",
+        "dcterms": "http://purl.org/dc/terms/",
+        "tn": "http://rs.tdwg.org/ontology/voc/TaxonName#",
+        "tc": "http://rs.tdwg.org/ontology/voc/TaxonConcept#",
+        "tcom": "http://rs.tdwg.org/ontology/voc/Common#",
+        "tm": "http://rs.tdwg.org/ontology/voc/Team#",
+        "tp": "http://rs.tdwg.org/ontology/voc/Person#",
+        "tpc": "http://rs.tdwg.org/ontology/voc/PublicationCitation#",
+        "dwc": "http://rs.tdwg.org/dwc/terms/",
+        "creator": {
+            "@id": "creator",
+            "@container": "@set"
+        },
+        "tcom:publishedInCitation": {
+            "@id": "tcom:publishedInCitation",
+            "@container": "@set"
+        },
+        "tn:typifiedBy": {
+            "@id": "tn:typifiedBy",
+            "@container": "@set"
+        },
+        "dwc:associatedMedia": {
+            "@id": "dwc:associatedMedia",
+            "@container": "@set"
+        },
+        "scientificName": {
+            "@id": "scientificName",
+            "@container": "@set"
+        },
+        "tn:hasAnnotation": {
+            "@id": "tn:hasAnnotation",
+            "@container": "@set"
+        }
+    },
+    "@graph": [
+        {
+            "@id": "https://doi.org/10.1017/s096042861800001x",
+            "@type": "ScholarlyArticle",
+            "citation": [
+                {
+                    "@id": "https://doi.org/10.1017/s096042861800001x#S096042861800001X_ref010"
+                },
+                {
+                    "@id": "https://doi.org/10.1017/s096042861800001x#S096042861800001X_ref014"
+                },
+                {
+                    "@id": "https://doi.org/10.1111/j.1095-8339.1999.tb00765.x"
+                },
+                {
+                    "@id": "https://doi.org/10.1111/j.1365-2699.2011.02596.x"
+                },
+                {
+                    "@id": "https://doi.org/10.1111/j.1365-294x.2008.03788.x"
+                },
+                {
+                    "@id": "https://doi.org/10.11646/phytotaxa.197.1.4"
+                },
+                {
+                    "@id": "https://doi.org/10.1186/1999-3110-54-38"
+                },
+                {
+                    "@id": "https://doi.org/10.3767/000651909x476274"
+                },
+                {
+                    "@id": "urn:sici:1945-9459(1916)9%3C1:ROTBOT%3E2.0.CO;2-Z"
+                },
+                {
+                    "@id": "urn:sici:2118-9773(2015)119%3C1:BYSSBA%3E2.0.CO;2-8"
+                },
+                {
+                    "@id": "https://doi.org/10.1017/s0960428605000302"
+                },
+                {
+                    "@id": "https://doi.org/10.1007/s00606-002-0033-y"
+                },
+                {
+                    "@id": "https://doi.org/10.1017/s096042861800001x#S096042861800001X_ref002"
+                },
+                {
+                    "@id": "https://doi.org/10.1017/s096042861800001x#S096042861800001X_ref006"
+                }
+            ],
+            "creator": [
+                {
+                    "@id": "https://doi.org/10.1017/s096042861800001x#role-4",
+                    "@type": "Role",
+                    "creator": [
+                        {
+                            "@id": "https://doi.org/10.1017/s096042861800001x#creator-4",
+                            "name": "M. Hughes"
+                        }
+                    ],
+                    "name": "4"
+                },
+                {
+                    "@id": "https://doi.org/10.1017/s096042861800001x#role-1",
+                    "@type": "Role",
+                    "creator": [
+                        {
+                            "@id": "https://doi.org/10.1017/s096042861800001x#creator-1",
+                            "name": "J. N. Gagul"
+                        }
+                    ],
+                    "name": "1"
+                },
+                {
+                    "@id": "https://doi.org/10.1017/s096042861800001x#role-2",
+                    "@type": "Role",
+                    "creator": [
+                        {
+                            "@id": "https://doi.org/10.1017/s096042861800001x#creator-2",
+                            "name": "M. J. S. Sands"
+                        }
+                    ],
+                    "name": "2"
+                },
+                {
+                    "@id": "https://doi.org/10.1017/s096042861800001x#role-3",
+                    "@type": "Role",
+                    "creator": [
+                        {
+                            "@id": "https://doi.org/10.1017/s096042861800001x#creator-3",
+                            "name": "O. Gideon"
+                        }
+                    ],
+                    "name": "3"
+                }
+            ],
+            "datePublished": "2018-01-31",
+            "description": "A revision of  Begonia sect.  Symbegonia, endemic to New Guinea, is presented, with descriptions of five new species ( B. arauensis M.Hughes,  B. asaroensis J.Gagul,  B. erodiifolia Sands,  B. mimikaensis Sands and  B. vinkii Sands). There are 18 species now recognised, and a key is provided for their identification. Ten of the species are assessed to belong to the IUCN category Data Deficient, and eight to Least Concern.",
+            "identifier": {
+                "@id": "https://doi.org/10.1017/s096042861800001x#doi",
+                "@type": "PropertyValue",
+                "propertyID": "doi",
+                "value": "10.1017/s096042861800001x"
+            },
+            "isPartOf": {
+                "@id": "http://worldcat.org/issn/0960-4286",
+                "@type": "Periodical",
+                "name": "Edinb J Bot"
+            },
+            "issueNumber": "2",
+            "keywords": [
+                "Ecology, Evolution, Behavior and Systematics",
+                "Plant Science"
+            ],
+            "license": {
+                "@id": "https://www.cambridge.org/core/terms"
+            },
+            "name": "A REVISION OF BEGONIA SECT. SYMBEGONIA ON NEW GUINEA",
+            "pageEnd": "159",
+            "pageStart": "127",
+            "publisher": "Cambridge University Press (CUP)",
+            "volumeNumber": "75"
+        }
+    ]
+};
+
+
+
+if (item['@graph']) {
+	for (var i in item['@graph']) {
+	   subtree(item['@context'], item['@graph'][i], item['@graph'][i]['@id']);
+	}
+}
+
+console.log(JSON.stringify(edgeData, null, 2));
+
+
+/*
+  // create an array with nodes
+  var nodes = new vis.DataSet([
+    {id: 1, label: 'Node 1'},
+    {id: 2, label: 'Node 2'},
+    {id: 3, label: 'Node 3'},
+    {id: 4, label: 'Node 4'},
+    {id: 5, label: 'Node 5'}
+  ]);
+
+  // create an array with edges
+  var edges = new vis.DataSet([
+    {from: 1, to: 3},
+    {from: 1, to: 2},
+    {from: 2, to: 4},
+    {from: 2, to: 5},
+    {from: 3, to: 3}
+  ]);
+
+  // create a network
+  var container = document.getElementById('mynetwork');
+  var data = {
+    nodes: nodes,
+    edges: edges
+  };
+  var options = {};
+  var network = new vis.Network(container, data, options);
+  
+  */
+
+</script>
+  
+
+
+</body>
+</html>

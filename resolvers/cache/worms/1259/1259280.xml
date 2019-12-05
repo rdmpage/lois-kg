@@ -1,0 +1,37 @@
+<?xml version="1.0"?><rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:dcterms="http://purl.org/dc/terms/"
+	xmlns:dwc="http://rs.tdwg.org/dwc/terms/"
+
+>
+	<rdf:Description rdf:about="urn:lsid:marinespecies.org:taxname:1259280">
+		<dc:type>ScientificName</dc:type>
+		<dc:date>2019-12-03</dc:date>
+		<dc:subject><![CDATA[Helix loveni F. Krauss, 1848]]></dc:subject>
+      <dc:title><![CDATA[Helix loveni]]></dc:title>
+      <dc:relation><![CDATA[http://www.marinespecies.org/aphia.php?p=taxdetails&amp;id=1259280]]></dc:relation><dc:creator><![CDATA[Herbert, David]]></dc:creator><dc:identifier>urn:lsid:marinespecies.org:taxname:1259280</dc:identifier>
+      <dc:publisher>World Register of Marine Species (WoRMS)</dc:publisher>
+      <dc:license>http://creativecommons.org/licenses/by/4.0/</dc:license>
+	  <dc:language>en</dc:language>
+<dcterms:bibliographicCitation><![CDATA[MolluscaBase (2019). MolluscaBase. Helix loveni F. Krauss, 1848. Accessed through: World Register of Marine Species at: http://www.marinespecies.org/aphia.php?p=taxdetails&id=1259280 on 2019-12-03]]></dcterms:bibliographicCitation><dcterms:created>2018-06-15T10:39:53+01:00</dcterms:created>
+      <dcterms:modified>2018-07-07T12:46:58+01:00</dcterms:modified>
+<dcterms:isReplacedBy rdf:resource="urn:lsid:marinespecies.org:taxname:1263866" /><dcterms:rightsHolder>WoRMS Editorial Board</dcterms:rightsHolder>
+<dwc:kingdom>Animalia</dwc:kingdom>
+      <dwc:phylum>Mollusca</dwc:phylum>
+      <dwc:class>Gastropoda</dwc:class>
+      <dwc:order>Stylommatophora</dwc:order>
+      <dwc:family>Helicidae</dwc:family>
+      <dwc:genus>Helix</dwc:genus>
+      <dwc:subgenus></dwc:subgenus>
+      <dwc:specificEpithet>loveni</dwc:specificEpithet>
+      <dwc:infraspecificEpithet></dwc:infraspecificEpithet>
+      <dwc:taxonRank>species</dwc:taxonRank>
+      <dwc:ScientificName><![CDATA[Helix loveni F. Krauss, 1848]]></dwc:ScientificName>
+	  <dwc:scientificNameAuthorship><![CDATA[F. Krauss, 1848]]></dwc:scientificNameAuthorship>
+	  <dwc:taxonomicStatus><![CDATA[unaccepted]]></dwc:taxonomicStatus>
+<dwc:namePublishedIn><![CDATA[Krauss, F. (1848) Die Südafrikanischen Mollusken. Ein Beitrag zur Kenntniss der Mollusken des Kap- und Natallandes und zur Geographischen Verbreitung derselben mit Beschreibung und Abbildung der neuen Arten. Ebner and Seubert, Stuttgart, 140 pp., 6 pls.]]></dwc:namePublishedIn>
+  <dwc:namePublishedInYear>1848</dwc:namePublishedInYear><dwc:acceptedNameUsageID rdf:resource="urn:lsid:marinespecies.org:taxname:1263866" /><dwc:scientificNameID rdf:resource="urn:lsid:marinespecies.org:taxname:1259280" />
+     <dwc:parentNameUsageID rdf:resource="urn:lsid:marinespecies.org:taxname:153970" />	</rdf:Description>
+</rdf:RDF>

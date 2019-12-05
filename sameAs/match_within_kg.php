@@ -98,6 +98,9 @@ $uris = array(
 
 $issn = '1000-3142';
 
+$issn = '0372-333X'; // Taiwania
+//$issn = '0529-1526'; // no hits
+
 $uris = get_works_for_issn($issn);
 
 foreach ($uris as $uri)

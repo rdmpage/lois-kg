@@ -182,6 +182,8 @@ https://scigraph.springernature.com/pub.10.1038/116684a0
 
 Visualisation by https://github.com/visjs/vis-network
 
+See also [Exploring SciGraph data using JSON-LD, Elastic Search and Kibana](http://www.michelepasin.org/blog/2017/04/06/exploring-scigraph-data-using-elastic-search-and-kibana/) and https://github.com/rdmpage/hello-scigraph. 
+
 #### Validation using Google
 
 https://search.google.com/structured-data/testing-tool/u/0/#url=http%3A%2F%2Fscigraph.springernature.com%2Fpub.10.1038%2F116684a0.json.schema

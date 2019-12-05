@@ -1,0 +1,662 @@
+<html>
+	<head>
+		<title>CrossRef references (citations) to CSL</title>
+		<meta charset="UTF-8"/>
+		<script src="jquery.js"></script>
+		<!-- stuff below needs to go into CouchDB views -->
+		<script src="shared.js"></script>
+		<script src="language.js"></script>
+		<style>
+		td { border: 1px solid red; }
+		</style>
+	</head>
+<body>
+
+<h1>CrossRef references (citations) to CSL</h1>
+
+
+<div>
+	<div style="width:100%;height:auto;">
+		<h2>JSON</h2>
+			<!-- JSON for data object goes below -->
+			<textarea id="json" style="width:100%;background-color:#224FBC;color:#FFFF66;" rows="20">{
+  "_id": "https://doi.org/10.1111/njb.01689",
+  "_rev": "1-cb2aff7cff98af11a37f7e4a8c1cc956",
+  "message-format": "application/vnd.crossref-api-message+json",
+  "message-source": "https://api.crossref.org/v1/works/http://dx.doi.org/10.1111/njb.01689",
+  "message": {
+    "indexed": {
+      "date-parts": [
+        [
+          2019,
+          2,
+          18
+        ]
+      ],
+      "date-time": "2019-02-18T15:13:22Z",
+      "timestamp": 1550502802013
+    },
+    "reference-count": 16,
+    "publisher": "Wiley",
+    "issue": "8",
+    "license": [
+      {
+        "URL": "http://doi.wiley.com/10.1002/tdm_license_1.1",
+        "start": {
+          "date-parts": [
+            [
+              2018,
+              8,
+              1
+            ]
+          ],
+          "date-time": "2018-08-01T00:00:00Z",
+          "timestamp": 1533081600000
+        },
+        "delay-in-days": 0,
+        "content-version": "tdm"
+      },
+      {
+        "URL": "http://onlinelibrary.wiley.com/termsAndConditions#vor",
+        "start": {
+          "date-parts": [
+            [
+              2018,
+              9,
+              3
+            ]
+          ],
+          "date-time": "2018-09-03T00:00:00Z",
+          "timestamp": 1535932800000
+        },
+        "delay-in-days": 33,
+        "content-version": "vor"
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "Nordic Journal of Botany"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2018,
+          8
+        ]
+      ]
+    },
+    "DOI": "10.1111/njb.01689",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2018,
+          9,
+          3
+        ]
+      ],
+      "date-time": "2018-09-03T10:21:32Z",
+      "timestamp": 1535970092000
+    },
+    "page": "e01689",
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+      "Strobilanthes kannanii\n - a new species of Acanthaceae from the Western Ghats, India"
+    ],
+    "prefix": "10.1111",
+    "volume": "36",
+    "author": [
+      {
+        "ORCID": "http://orcid.org/0000-0002-1934-1505",
+        "authenticated-orcid": false,
+        "given": "E. J.",
+        "family": "Josekutty",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "Dept of Botany, Govt Brennen College; Thalassery Kerala India"
+          },
+          {
+            "name": "Dept of Botany, Saint Thomas College, Pala; Kottayam Kerala India"
+          },
+          {
+            "name": "Dept of Botany, Saint Thomas College, Pala; Kottayam Kerala India"
+          }
+        ]
+      },
+      {
+        "ORCID": "http://orcid.org/0000-0003-3144-3034",
+        "authenticated-orcid": false,
+        "given": "P.",
+        "family": "Biju",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Dept of Botany, Government College; Kasaragod Kerala India"
+          },
+          {
+            "name": "Dept of Botany, Saint Thomas College, Pala; Kottayam Kerala India"
+          }
+        ]
+      },
+      {
+        "given": "J. R. I.",
+        "family": "Wood",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Dept of Plant Sciences, Oxford Univ; UK"
+          },
+          {
+            "name": "Royal Botanical Garden; Kew UK"
+          }
+        ]
+      },
+      {
+        "given": "Jomy",
+        "family": "Augustine",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Dept of Botany, Saint Thomas College, Pala; Kottayam Kerala India"
+          }
+        ]
+      }
+    ],
+    "member": "311",
+    "published-online": {
+      "date-parts": [
+        [
+          2018,
+          9,
+          3
+        ]
+      ]
+    },
+    "reference": [
+      {
+        "key": "10.1111/njb.01689-BIB0001|cit-0001",
+        "first-page": "1",
+        "article-title": "Material for a monograph of the Strobilanthinae",
+        "volume": "41",
+        "author": "Bremekamp",
+        "year": "1944",
+        "journal-title": "Verhandelingen der Koninklijke Nederlandse Akadamie Wetenschappen, Afdeling Natuurkunde, Tweede Sectie"
+      },
+      {
+        "key": "10.1111/njb.01689-BIB0002|cit-0002",
+        "doi-asserted-by": "crossref",
+        "first-page": "143",
+        "DOI": "10.1016/S0034-6667(98)00030-X",
+        "article-title": "Pollen morphology of Strobilanthes Blume (Acanthaceae) from southern India and Sri Lanka",
+        "volume": "103",
+        "author": "Carine",
+        "year": "1998",
+        "journal-title": "Rev. Palaeobot. Palynol."
+      },
+      {
+        "key": "10.1111/njb.01689-BIB0003|cit-0003",
+        "doi-asserted-by": "crossref",
+        "first-page": "259",
+        "DOI": "10.2307/1554926",
+        "article-title": "Classification of Strobilanthinae (Acanthaceae): trying to classify the unclassifiable?",
+        "volume": "51",
+        "author": "Carine",
+        "year": "2002",
+        "journal-title": "Taxon"
+      },
+      {
+        "key": "10.1111/njb.01689-BIB0004|cit-0004",
+        "author": "Champion",
+        "first-page": "404",
+        "year": "1968",
+        "journal-title": "A revised survey of forest types of India"
+      },
+      {
+        "key": "10.1111/njb.01689-BIB0005|cit-0005",
+        "author": "Gamble",
+        "year": "1924",
+        "journal-title": "The flora of the Presidency of Madras"
+      },
+      {
+        "key": "10.1111/njb.01689-BIB0006|cit-0006",
+        "author": "Karthikeyan",
+        "first-page": "41",
+        "year": "2009",
+        "journal-title": "Flowering plants of India. Dicotyledons Vol. I (Acanthaceae-Avicenniaceae)."
+      },
+      {
+        "key": "10.1111/njb.01689-BIB0007|cit-0007",
+        "author": "Mabberley",
+        "year": "2017",
+        "journal-title": "Mabberley's plant book",
+        "DOI": "10.1017/9781316335581",
+        "doi-asserted-by": "crossref"
+      },
+      {
+        "key": "10.1111/njb.01689-BIB0008|cit-0008",
+        "doi-asserted-by": "crossref",
+        "first-page": "724",
+        "DOI": "10.3732/ajb.91.5.724",
+        "article-title": "Phylogenetic relationships among Strobilanthes s.l. (Acanthaceae): evidence from its nrDNA, trnl-f cpDNA and morphology",
+        "volume": "91",
+        "author": "Moylan",
+        "year": "2004",
+        "journal-title": "Am. J. Bot."
+      },
+      {
+        "key": "10.1111/njb.01689-BIB0009|cit-0009",
+        "doi-asserted-by": "crossref",
+        "first-page": "853",
+        "DOI": "10.1038/35002501",
+        "article-title": "Biodiversity hotspots for conservation priorities",
+        "volume": "403",
+        "author": "Myers",
+        "year": "2000",
+        "journal-title": "Nature"
+      },
+      {
+        "key": "10.1111/njb.01689-BIB0010|cit-0010",
+        "doi-asserted-by": "crossref",
+        "first-page": "51",
+        "DOI": "10.1007/s12225-016-9667-0",
+        "article-title": "An enigmatic new species, Strobilanthes agasthyamalana (Acanthaceae), from Agasthyamala Biosphere Reserve of southern Western Ghats, India",
+        "volume": "71",
+        "author": "Sasidharan",
+        "year": "2016",
+        "journal-title": "Kew Bull"
+      },
+      {
+        "key": "10.1111/njb.01689-BIB0011|cit-0011",
+        "author": "Venu",
+        "year": "2006",
+        "journal-title": "Strobilanthes Blume (Acanthaceae) in peninsular India"
+      },
+      {
+        "key": "10.1111/njb.01689-BIB0012|cit-0012",
+        "first-page": "82",
+        "article-title": "Pollen morphology of Strobilanthes Blume (Acanthaceae) in China and its taxonomic implications",
+        "volume": "42",
+        "author": "Wang",
+        "year": "2003",
+        "journal-title": "Grana"
+      },
+      {
+        "key": "10.1111/njb.01689-BIB0013|cit-0013",
+        "doi-asserted-by": "crossref",
+        "first-page": "175",
+        "DOI": "10.1017/S0960428600000871",
+        "article-title": "Notes relating to the flora of Bhutan; XXIX. Acanthaceae with special reference to Strobilanthes",
+        "volume": "51",
+        "author": "Wood",
+        "year": "1994",
+        "journal-title": "- Edinb. J. Bot."
+      },
+      {
+        "key": "10.1111/njb.01689-BIB0014|cit-0014",
+        "doi-asserted-by": "crossref",
+        "first-page": "1",
+        "DOI": "10.2307/4114605",
+        "article-title": "Notes on Strobilanthes (Acanthaceae) for the flora of Ceylon",
+        "volume": "50",
+        "author": "Wood",
+        "year": "1995",
+        "journal-title": "Kew Bull"
+      },
+      {
+        "key": "10.1111/njb.01689-BIB0015|cit-0015",
+        "author": "Wood",
+        "first-page": "12",
+        "year": "1998",
+        "article-title": "Strobilanthes",
+        "journal-title": "A revised handbook to the flora of Ceylon"
+      },
+      {
+        "key": "10.1111/njb.01689-BIB0016|cit-0016",
+        "doi-asserted-by": "crossref",
+        "first-page": "3",
+        "DOI": "10.1007/s12225-009-9098-2",
+        "article-title": "New and little-known species of Strobilanthes (Acanthaceae) from India and southeast Asia",
+        "volume": "64",
+        "author": "Wood",
+        "year": "2009",
+        "journal-title": "Kew Bull"
+      }
+    ],
+    "container-title": [
+      "Nordic Journal of Botany"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://api.wiley.com/onlinelibrary/tdm/v1/articles/10.1111%2Fnjb.01689",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "http://onlinelibrary.wiley.com/wol1/doi/10.1111/njb.01689/fullpdf",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2018,
+          9,
+          3
+        ]
+      ],
+      "date-time": "2018-09-03T10:32:15Z",
+      "timestamp": 1535970735000
+    },
+    "score": 1,
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2018,
+          8
+        ]
+      ]
+    },
+    "references-count": 16,
+    "journal-issue": {
+      "published-print": {
+        "date-parts": [
+          [
+            2018,
+            8
+          ]
+        ]
+      },
+      "issue": "8"
+    },
+    "URL": "http://dx.doi.org/10.1111/njb.01689",
+    "archive": [
+      "Portico"
+    ],
+    "relation": {
+      "cites": []
+    },
+    "ISSN": [
+      "0107-055X"
+    ],
+    "issn-type": [
+      {
+        "value": "0107-055X",
+        "type": "print"
+      }
+    ]
+  }
+}</textarea>
+			<br />
+			<button onclick="convert()">Convert JSON to RDF</button>
+	</div>
+	<div style="clear:both;"></div>
+	
+	<div style="width:100%;">
+		<h2>JSON-LD</h2>
+		<div id="jsonld" style="width:100%;white-space:pre;background-color:#333;color:white;overflow:auto;"></div>
+
+</div>			
+			
+		
+		
+		
+<script>
+
+
+
+
+
+//----------------------------------------------------------------------------------------
+// START COUCHDB VIEW
+//----------------------------------------------------------------------------------------
+
+/*
+      {
+        "key": "10.1111/njb.01689-BIB0016|cit-0016",
+        "doi-asserted-by": "crossref",
+        "first-page": "3",
+        "DOI": "10.1007/s12225-009-9098-2",
+        "article-title": "New and little-known species of Strobilanthes (Acanthaceae) from India and southeast Asia",
+        "volume": "64",
+        "author": "Wood",
+        "year": "2009",
+        "journal-title": "Kew Bull"
+      }
+*/
+
+
+//----------------------------------------------------------------------------------------
+function to_csl(doc) {
+    var csl = {};
+    
+ 	
+	// id
+	if (doc.key) {
+		var key = doc.key;
+		
+		key = key.replace(/\t/g, '');
+		key = key.replace(/\n/g, '');
+
+		// replace characters not allowed
+		key = key.replace(/\|/g, '-');
+		key = key.replace(/\//g, '-');
+		key = key.replace(/\./g, '-');
+		key = key.replace(/\s/g, '-');
+		
+		csl.id = key;
+	}
+	
+	// type
+	csl.type = 'generic'; 	
+ 
+	// DOI
+	if (doc.DOI) {
+		csl.DOI = doc.DOI.toLowerCase();
+	}
+ 	
+	
+	// title
+	if (doc['article-title']) {
+		csl.title = doc['article-title'];
+	}
+	
+	// journal-title
+	if (doc['journal-title']) {
+		csl['container-title'] = doc['journal-title'];
+		
+		csl['container-title'] = csl['container-title'].replace(/^-\s*/, '');
+		
+		csl.type = 'article-journal';
+	}
+	
+	// journal-title
+	if (doc.ISSN) {
+		csl.ISSN[doc.ISSN];
+	}
+	
+	// volume
+	if (doc.volume) {
+		csl.volume = doc.volume;
+	}
+	
+	// page
+	if (doc['first-page']) {
+		csl.page = doc['first-page'];
+	}
+ 	
+ 	// date
+	if (doc.year) {
+		csl.issued = {};
+		csl.issued['date-parts'] = [];
+		csl.issued['date-parts'].push([parseInt(doc.year)]);
+	}
+	
+	if (doc.author) {
+		csl.author = [ { literal: doc.author}];
+	}
+
+	/*
+	// Book
+	if (doc.publisher) {
+		csl.publisher = doc.publisher.name;
+		
+		if (doc.publisher.address) {
+			csl['publisher-place'] = doc.publisher.address;
+		}
+		
+		if (doc.pages) {
+			csl.page = doc.pages.replace(/--/, '-');	
+		}
+	}
+
+	// Chapter
+	if (doc.book) {
+		if (doc.book.title) {
+			csl['container-title'] = doc.book.title;
+		}
+		if (doc.pages) {
+			csl.page = doc.pages.replace(/--/, '-');	
+		}
+		
+		if (doc.book.publisher) {
+			csl.publisher = doc.book.publisher.name;
+		
+			if (doc.book.publisher.address) {
+				csl['publisher-place'] = doc.book.publisher.address;
+			}		
+		}
+		
+		if (doc.book.editor) {
+			csl.editor = [];
+		
+			for (var i in doc.author) {
+				var author = {};
+			
+				// hack while we work with old BioStor BibJSON
+				if (doc.book.editor[i].forename) {
+					author.given = doc.book.editor[i].forename;
+				}
+
+				if (doc.book.editor[i].firstname) {
+					author.given = doc.book.editor[i].firstname;
+				}
+
+				if (doc.book.editor[i].lastname) {
+					author.family = doc.book.editor[i].lastname;
+				}
+			
+				if (!author.given && doc.book.editor[i].name) {
+					author.literal = doc.book.editor[i].name;
+				}
+			
+				csl.editor.push(author);
+			
+			}
+		}		
+	}
+	
+	// container
+    if (doc.journal) {
+		if (doc.journal.name) {
+			csl['container-title'] = doc.journal.name;
+		}
+
+		if (doc.journal.series) {
+			csl['collection-title'] = doc.journal.series;
+		}
+	
+		// volume
+		if (doc.journal.volume) {
+			csl.volume = doc.journal.volume;		
+		} 
+
+		// issue
+		if (doc.journal.issue) {
+			csl.issue = doc.journal.issue;		
+		} 
+	
+		// page
+		if (doc.journal.pages) {
+			csl.page = doc.journal.pages.replace(/--/, '-');		
+		} 
+	
+		// issn, oclc
+		if (doc.journal.identifier)	{
+			for (var i in doc.journal.identifier) {
+				switch (doc.journal.identifier[i].type) {
+					case 'issn':
+						if (!csl.ISSN) {
+							csl.ISSN = [];
+						}
+						csl.ISSN.push(doc.journal.identifier[i].id);
+						break;
+			
+					default:
+						break;
+				}
+			}
+		}
+	}	
+	*/
+
+
+	
+	return csl;
+}
+
+//----------------------------------------------------------------------------------------
+function message(doc) {
+  if (doc.message) {
+
+	var references = [];
+	
+	if (doc.message.reference) {
+		for (var i in doc.message.reference) {
+			references.push(to_csl(doc.message.reference[i]));
+		}
+	
+	}
+	
+	$('#jsonld').html(JSON.stringify(references, null, 2));
+ 	//$('#jsonld').html(JSON.stringify(csl));
+    
+  }
+}
+
+function couchdb(doc) {
+  if (doc['message-format']) {
+    if (doc['message-format'] == 'application/vnd.crossref-api-message+json') {
+      message(doc);
+    }
+  }
+}
+
+// END COUCHDB VIEW
+		
+//----------------------------------------------------------------------------------------
+function convert() {
+	var json = $('#json').val();
+	var doc = JSON.parse(json);
+	
+	couchdb(doc);
+}
+
+	
+	</script>		
+			
+
+</div>
+</body>
+</html>			

@@ -34,7 +34,7 @@ if (1)
 		$config['couchdb_options'] = array(
 				'database' => 'oz-orcid',
 				'host' => 'localhost',
-				'port' => 32769,
+				'port' => 32775,
 				'prefix' => 'http://'
 				);		
 }

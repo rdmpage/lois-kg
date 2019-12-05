@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>baseURL</key>
-	<string>http://167.71.255.145:5984/oz-orcid/_design/orcid/_view/orchid-works</string>
+	<string>http://localhost:32769/oz-orcid/_design/work/_view/orcid-works</string>
 	<key>followRedirect</key>
 	<true/>
 	<key>handleJSONPCallbacks</key>
@@ -24,7 +24,7 @@
 			<key>parameter</key>
 			<string>start_key</string>
 			<key>value</key>
-			<string>"0000-0003-1559-4449/"</string>
+			<string>"0000-0001-5021-1779/"</string>
 		</dict>
 		<dict>
 			<key>inUse</key>
@@ -32,7 +32,7 @@
 			<key>parameter</key>
 			<string>key</string>
 			<key>value</key>
-			<string>"0000-0003-2909-6205/work/26681958"</string>
+			<string>"0000-0001-5028-0686/work/16526306"</string>
 		</dict>
 		<dict>
 			<key>inUse</key>
@@ -40,7 +40,7 @@
 			<key>parameter</key>
 			<string>end_key</string>
 			<key>value</key>
-			<string>"0000-0003-1559-4449/z"</string>
+			<string>"0000-0001-5021-1779/z"</string>
 		</dict>
 		<dict>
 			<key>inUse</key>

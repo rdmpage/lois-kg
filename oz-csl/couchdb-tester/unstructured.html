@@ -14,9 +14,19 @@
 	
 	string = 'Greene, C.W. 1984. Sexual and apomictic reproduction inCalamagrostis (Gramineae) from eastern North America. Amer. J. Bot.71: 285–293.';
 	
+	/*
 	string = 'Haccius, B. 1950. Weitere Untersuchungen zum Verständnis der zerstreuten Blattstellungen bei den Dicotylen. Sitzungsber. Heidelb. Akad. Wiss. Math. -Naturw. Kl.6: 289–337';
+	*/
 	
+	/*
 	string = '— 1970.Archiclematis, a precursory genus ofClematis. Acta Phytotax. Geobot.24: 146–152 (in Japanese with English summary).';
+	*/
+	
+	string = '____, ____ & Brown, A. 2008 (2009). Gymnosiphon marieae sp. nov. (Burmanniaceae) from Madagascar, a species with tepal-mediated stigmatic extension. Nordic J. Bot. 26: 230 – 234.';
+	
+	/*
+	string = 'Letouzey, R. (1968). Gymnosiphon bekensis R. Let. (Burmanniacée nouvelle d’Afrique Centrale). Adansonia sér. 2. 7: 169 – 172.';
+ */
 	
 	document.getElementById('input').innerHTML = string;
 	
@@ -28,10 +38,10 @@
 	var m = null;
 	
 	// title with multiple '.'
-	m = string.match(/(.*)\s+\(?([0-9]{4})\)?[\.]?\s+(([^\.]+)\.(\s+[^\.]+\.)*)\s+(.*)\s*(\d+):\s+(\d+)[-|–](\d+)\b/);
+	m = string.match(/(.*)\s+\(?([0-9]{4})\)?[\.]?\s+(([^\.]+)\.(\s+[^\.]+\.)*)\s+(.*)\s*(\d+):\s+(\d+)\s*[-|–]\s*(\d+)\b/);
 	
 	// title with 1 '.'
-	m = string.match(/(.*)\s+\(?([0-9]{4})\)?[\.]?\s+([^\.]+)\.\s+(.*)\s*(\d+):\s+(\d+)[-|–](\d+)\b/);
+	m = string.match(/(.*)\s+\(?([0-9]{4})\)?[\.]?\s+([^\.]+)\.\s+(.*)\s*(\d+):\s+(\d+)\s*[-|–]\s*(\d+)\b/);
 	
 	
 	

@@ -28,4 +28,11 @@ https://www.gbif.org/occurrence/1096785870
 
 Both have typeStatus in raw but not parsed by GBIF
 
+#### Multiple identifications
+
+Multiple ids in raw, including type status and old names
+
+http://coldb.mnhn.fr/catalognumber/mnhn/p/p04060480 
+
+https://api.gbif.org/v1/occurrence/474926968/fragment
 

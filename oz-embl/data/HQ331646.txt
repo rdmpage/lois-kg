@@ -1,0 +1,84 @@
+ID   HQ331646; SV 1; linear; genomic DNA; STD; PLN; 912 BP.
+XX
+AC   HQ331646;
+XX
+DT   04-APR-2011 (Rel. 108, Created)
+DT   04-APR-2011 (Rel. 108, Last updated, Version 1)
+XX
+DE   Ledermanniella pusilla maturase K (matK) gene, partial cds; chloroplast.
+XX
+KW   .
+XX
+OS   Ledermanniella pusilla
+OC   Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+OC   Spermatophyta; Magnoliopsida; eudicotyledons; Gunneridae; Pentapetalae;
+OC   rosids; fabids; Malpighiales; Podostemaceae; Podostemoideae;
+OC   Ledermanniella.
+OG   Plastid:Chloroplast
+XX
+RN   [1]
+RP   1-912
+RX   DOI; 10.3732/ajb.1000354.
+RX   PUBMED; 21613119.
+RA   Ruhfel B.R., Bittrich V., Bove C.P., Gustafsson M.H.G., Philbrick C.T.,
+RA   Rutishauser R., Xi Z., Davis C.C.;
+RT   "Phylogeny of the clusioid clade (Malpighiales): Evidence from the plastid
+RT   and mitochondrial genomes";
+RL   Am. J. Bot. 98(2):306-325(2011).
+XX
+RN   [2]
+RP   1-912
+RA   Ruhfel B.R., Davis C.C.;
+RT   ;
+RL   Submitted (30-SEP-2010) to the INSDC.
+RL   Organismic and Evolutionary Biology, Harvard University, 22 Divinity Ave,
+RL   Cambridge, MA 02138, USA
+XX
+DR   MD5; 37c017e0d5cf9737be6a32f91dd1e378.
+XX
+FH   Key             Location/Qualifiers
+FH
+FT   source          1..912
+FT                   /organism="Ledermanniella pusilla"
+FT                   /organelle="plastid:chloroplast"
+FT                   /mol_type="genomic DNA"
+FT                   /specimen_voucher="ZT:Ghouge et al. GAHR-17"
+FT                   /db_xref="taxon:577059"
+FT   gene            <1..>912
+FT                   /gene="matK"
+FT   CDS             <1..>912
+FT                   /codon_start=1
+FT                   /transl_table=11
+FT                   /gene="matK"
+FT                   /product="maturase K"
+FT                   /db_xref="GOA:F2X3G6"
+FT                   /db_xref="InterPro:IPR002866"
+FT                   /db_xref="InterPro:IPR024937"
+FT                   /db_xref="InterPro:IPR024942"
+FT                   /db_xref="UniProtKB/TrEMBL:F2X3G6"
+FT                   /protein_id="AEA38057.1"
+FT                   /translation="LVSDGLFPYPIHLEKLVQILRYWLKDPSSLHFLRFFFHEYWNWNH
+FT                   PFFQKKSNFFSFFQKRNFRLFVLLYNSYVYEYESILFFIRRQFFHLPSKPFRFYFEKLY
+FT                   FYGKAENFTEVFSKGFPSTLELFKDPNMHYIRYQGKFFFAYRGMPLLMNKWKYYFVILF
+FT                   QNHFDVWFQPDNIHINPLYKHSFHCVGYLLSFKWNPSVIRSQMLLNTFSIENTMKKMDI
+FT                   VVPIILMIDSLSKMKFCNKIGHPVSKPTWTDLLDSDIIDRFVRLCNKISYYYSGSSKKK
+FT                   DLYQIHYILRFACLKTLARKHKT"
+XX
+SQ   Sequence 912 BP; 285 A; 147 C; 128 G; 352 T; 0 other;
+     ctggtgtcag atgggttatt cccttacccc attcatttag aaaaattggt tcaaatcctt        60
+     cgttactggt taaaggatcc atcttcttta cattttttac gattcttttt tcacgagtat       120
+     tggaattgga accatccctt ttttcaaaag aaatccaatt ttttttcttt ttttcaaaaa       180
+     agaaattttc gattatttgt gctcttatat aattcttatg tatatgaata tgaatctatt       240
+     ttatttttta ttcgtcgcca attctttcat ttaccatcaa aaccttttcg attttatttt       300
+     gaaaaacttt atttctatgg aaaagcagag aattttacag aggtttttag taagggtttc       360
+     cccagtactt tagagttatt caaagatccg aatatgcatt atatccgcta tcaaggaaaa       420
+     ttcttttttg cttatagggg tatgcctctt ttaatgaaca agtggaaata ctactttgtt       480
+     attttatttc aaaatcattt tgatgtctgg tttcaaccag acaacatcca tatcaatcca       540
+     ttatataagc attcattcca ctgtgttggt tatcttttaa gtttcaaatg gaatccttca       600
+     gtgatacgaa gtcaaatgct actaaatacg tttagtatag agaatactat gaagaaaatg       660
+     gatatagtag ttccaattat tcttatgatt gactcattat ccaaaatgaa attttgtaat       720
+     aaaataggtc atcccgttag caaaccgacc tggaccgatt tattggattc cgatattatt       780
+     gaccgatttg tgcgtctatg caataagatt tcatattatt atagtggatc ctcaaaaaaa       840
+     aaagatttgt atcaaataca ttatatactt cgatttgctt gtttaaaaac cttggctcgg       900
+     aaacacaaaa cc                                                           912
+//

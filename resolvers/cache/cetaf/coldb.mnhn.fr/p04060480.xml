@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="/rdf/human.xsl"?>
+<!DOCTYPE rdf:RDF [
+<!ENTITY rdfns "http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+<!ENTITY rdfsns "http://www.w3.org/2000/01/rdf-schema#">
+<!ENTITY dctermsns "http://purl.org/dc/terms/">
+<!ENTITY dctypens "http://purl.org/dc/dcmitype/">
+<!ENTITY dwcattributesns "http://rs.tdwg.org/dwc/terms/attributes/">
+<!--
+<!ENTITY skosns 'http://www.w3.org/2004/02/skos/core#'>
+<!ENTITY vsns 'http://www.w3.org/2003/06/sw-vocab-status/ns#'>
+-->]>
+<!-- CETAF Specimen Preview Profile (CSPP) http://cetafidentifiers.biowikifarm.net/wiki/CSPP -->
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:rdfs="http://www.w3.org/TR/2014/REC-rdf-schema-20140225/"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tap="http://rs.tdwg.org/tapir/1.0"
+    xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:hyam="http://hyam.net/tapir2sw#"
+    xmlns:dwc="http://rs.tdwg.org/dwc/terms/" xmlns:dwcc="http://rs.tdwg.org/dwc/curatorial/"
+    xmlns:dc="http://purl.org/dc/terms/"
+    xmlns:foaf="http://xmlns.com/foaf/spec/"
+    xmlns:ma="https://www.w3.org/ns/ma-ont#"
+    xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#">
+  <rdf:Description rdf:about="https://science.mnhn.fr/institution/mnhn/collection/p/item/p04060480.rdf">
+    <rdfs:comment>Describing the current document (metadata).</rdfs:comment>
+    <rdf:type rdf:resource="http://purl.org/dc/dcmitype/Text" />
+<!-- Dublin Core subject property -->
+    <dc:subject rdf:resource="http://coldb.mnhn.fr/catalognumber/mnhn/p/p04060480"></dc:subject>
+<!-- Dublin Core type property -->
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/Text" />
+<!-- Dublin Core creator property -->
+    <dc:creator>A Java WebApp</dc:creator>
+<!-- Dublin Core publisher property -->
+    <dc:publisher rdf:resource="https://science.mnhn.fr/institution/mnhn/collection/p/item/search" />
+<!-- Dublin Core created property  -->
+    <dc:created>Fri Aug 19 09:21:32 CEST 2011</dc:created>  
+<!-- Dublin Core modified property  -->
+    <dc:modified>2015-10-26T00:04+0100</dc:modified>  
+<!-- Dublin Core format property -->
+    <dc:format>application/rdf+xml</dc:format>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://science.mnhn.fr/institution/mnhn/collection/p/item/p04060480">
+    <rdfs:comment>Describing the HTML document (metadata)</rdfs:comment>
+    <rdf:type rdf:resource="http://purl.org/dc/dcmitype/Text" />
+<!-- Dublin Core identifier property -->
+	<dc:identifier rdf:resource="https://science.mnhn.fr/institution/mnhn/collection/p/item/p04060480" />
+<!-- Dublin Core type property -->
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/Text" />  
+<!-- Dublin Core subject property -->
+    <dc:subject rdf:resource="http://coldb.mnhn.fr/catalognumber/mnhn/p/p04060480"></dc:subject>  
+<!-- Dublin Core creator property -->
+    <dc:creator>A Java WebApp</dc:creator>
+<!-- Dublin Core publisher property -->
+    <dc:publisher rdf:resource="https://science.mnhn.fr/institution/mnhn/collection/p/item/search" />
+<!-- Dublin Core created property  -->
+    <dc:created>Fri Aug 19 09:21:32 CEST 2011</dc:created>  
+<!-- Dublin Core modified property  -->
+    <dc:modified>2015-10-26T00:04+0100</dc:modified>  
+<!-- Dublin Core format property -->
+    <dc:format>text/html</dc:format>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://coldb.mnhn.fr/catalognumber/mnhn/p/p04060480">
+    <rdfs:comment>Describing the specimen (data).</rdfs:comment>
+    <rdf:type rdf:resource="http://rs.tdwg.org/dwc/terms/Occurrence" />
+<!-- Dublin Core properties of the specimen -->
+    <dc:identifier rdf:resource="http://coldb.mnhn.fr/catalognumber/mnhn/p/p04060480" />
+<!-- Dublin Core type property (CSPP kindOfMaterial) -->
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/PhysicalObject" />
+<!-- Dublin Core publisher property (CSPP sourceLink)  -->
+    <dc:publisher rdf:resource="https://science.mnhn.fr/institution/mnhn/collection/p/item/search" />
+<!-- Dublin Core title property (English) -->
+    <dc:title xml:lang="en">Specimen - Oreocharis stenosiphon M.Möller &amp; A.Weber</dc:title>
+<!-- Dublin Core title property (French) -->
+    <dc:title xml:lang="fr">Spécimen - Oreocharis stenosiphon M.Möller &amp; A.Weber</dc:title>
+<!-- Dublin Core bibliographicCitation property -->  
+    <dc:bibliographicCitation>Muséum national d’Histoire naturelle,  Paris (France)
+    Specimen MNHN-P-P04060480
+    http://coldb.mnhn.fr/catalognumber/mnhn/p/p04060480</dc:bibliographicCitation>
+<!-- Darwin Core properties of the specimen -->
+<!-- Darwin Core occurrenceID property -->
+    <dwc:occurrenceID>http://coldb.mnhn.fr/catalognumber/mnhn/p/p04060480</dwc:occurrenceID>
+<!-- Darwin Core basisOfRecord property -->
+    <dwc:basisOfRecord>PreservedSpecimen</dwc:basisOfRecord>
+<!-- Darwin Core institutionCode property -->
+    <dwc:institutionCode>MNHN</dwc:institutionCode>
+<!-- Darwin Core collectionCode property -->
+    <dwc:collectionCode>P</dwc:collectionCode>
+<!-- Darwin Core catalogNumber property -->
+    <dwc:catalogNumber>P04060480</dwc:catalogNumber>
+<!-- Darwin Core identifiedBy property -->
+    <dwc:identifiedBy>Middleton</dwc:identifiedBy>
+<!-- Darwin Core scientificNameAuthorship property -->
+    <dwc:scientificNameAuthorship>M.Möller &amp; A.Weber</dwc:scientificNameAuthorship>
+<!-- Darwin Core genus property -->
+    <dwc:genus>Oreocharis</dwc:genus>
+<!-- Darwin Core specificEpithet property -->
+    <dwc:specificEpithet>stenosiphon</dwc:specificEpithet>
+<!-- Darwin Core family property (CSPP family) -->
+    <dwc:family>Gesneriaceae</dwc:family>
+<!-- Darwin Core scientificName property (main determination - CSPP scientificNameCurrent) -->
+    <dwc:scientificName>Oreocharis stenosiphon M.Möller &amp; A.Weber</dwc:scientificName>
+<!-- Darwin Core previousIdentifications property (CSPP scientificNameOriginal) -->
+    <dwc:previousIdentifications>
+Didymocarpus fargesii | Roettlera fargesii Franch.</dwc:previousIdentifications>
+<!-- Darwin Core country property -->
+    <dwc:country>Chine</dwc:country>
+<!-- Darwin Core verbatimLocality property -->
+    <dwc:verbatimLocality>Su-Tchuen oriental : district de Tchen-Kéou-Tin, à Touan Tchen, dans la sous-préfecture de Ta lin Hien</dwc:verbatimLocality>
+<!-- Darwin Core recordedBy property (CSPP collectorName) -->
+    <dwc:recordedBy>Farges, P.G.</dwc:recordedBy>
+<!-- Darwin Core eventDate property  -->
+    <dc:created>1896-8-19</dc:created>  
+<!-- Dublin Core created property (CSPP collectionDate)  -->
+    <dwc:eventDate>1896-8-19</dwc:eventDate>  
+<!-- Darwin Core fieldNumber property (CSPP collectorNumber) -->
+    <dwc:fieldNumber>1379</dwc:fieldNumber>
+<!-- Darwin Core countryCode property (CSPP isoCountry) -->
+    <dwc:countryCode>cn</dwc:countryCode>  
+<!-- Darwin Core associatedMedia (thumbnail - CSPP webscaledImageLink) -->
+<dwc:associatedMedia rdf:resource="http://imager.mnhn.fr/imager3/w400/media/1445814247520k2slswRTPYgM7seE" />
+<dwc:associatedMedia rdf:resource="http://imager.mnhn.fr/imager3/w400/media/14413651773123L16SaVu1gUK0KOB" />
+</rdf:Description>
+<rdf:Description rdf:about="http://imager.mnhn.fr/imager3/w400/media/1445814247520k2slswRTPYgM7seE">
+    <rdfs:comment>Describing a thumbnail representation of the item.</rdfs:comment> 
+    <rdf:type rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+    <rdf:type rdf:resource="http://xmlns.com/foaf/spec/Image" />
+    <rdf:type rdf:resource="https://www.w3.org/ns/ma-ont#Image" />
+<!-- Dublin Core identifier property -->
+    <dc:identifier rdf:resource="http://imager.mnhn.fr/imager3/w400/media/1445814247520k2slswRTPYgM7seE" />
+<!-- Dublin Core type property -->
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage" />  
+<!-- Dublin Core publisher property  -->
+    <dc:publisher rdf:resource="https://science.mnhn.fr/institution/mnhn/collection/p/item/search" />
+<!-- Dublin Core subject property -->
+<!-- The thumbnail has two subjects -->
+<!-- The item -->
+    <dc:subject rdf:resource="http://coldb.mnhn.fr/catalognumber/mnhn/p/p04060480" />
+<!-- The original media -->
+    <dc:subject rdf:resource="http://mediaphoto.mnhn.fr/media/1445814247520k2slswRTPYgM7seE" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://mediaphoto.mnhn.fr/media/1445814247520k2slswRTPYgM7seE">
+    <rdfs:comment>Describing the original media related to a thumbnail.</rdfs:comment> 
+    <rdf:type rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+    <rdf:type rdf:resource="http://xmlns.com/foaf/spec/Image" />
+    <rdf:type rdf:resource="https://www.w3.org/ns/ma-ont#Image" />
+<!-- Foaf thumbnail property  -->
+    <foaf:thumbnail rdf:resource="http://imager.mnhn.fr/imager3/w400/media/1445814247520k2slswRTPYgM7seE" />
+<!-- Dublin Core identifier property -->
+    <dc:identifier rdf:resource="http://mediaphoto.mnhn.fr/media/1445814247520k2slswRTPYgM7seE" />
+<!-- Media identifier property -->
+    <ma:locator rdf:resource="http://mediaphoto.mnhn.fr/media/1445814247520k2slswRTPYgM7seE" />   
+<!-- Dublin Core type property -->
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage" />    
+<!-- Dublin Core publisher property  -->
+    <dc:publisher rdf:resource="https://science.mnhn.fr/institution/mnhn/collection/p/item/search" />
+<!-- Dublin Core subject property -->
+    <dc:subject rdf:resource="http://coldb.mnhn.fr/catalognumber/mnhn/p/p04060480"></dc:subject>  
+<!-- Dublin Core creator property -->
+    <dc:creator>Paris, Museum National d&#039;Histoire Naturelle, VM</dc:creator>
+<!-- Media creator property -->
+    <ma:creator>Paris, Museum National d&#039;Histoire Naturelle, VM</ma:creator>
+<!-- Dublin Core created property -->
+    <dc:created>2013</dc:created>
+<!-- Media date property -->
+    <ma:date>2013</ma:date>
+<!-- Dublin Core modified property -->
+    <dc:modified>2013-08-06 00:00:00.0</dc:modified>
+<!-- Dublin Core creator property -->
+    <dc:rights rdf:resource="https://creativecommons.org/licenses/by/4.0/" />
+<!-- Dublin Core format property -->
+    <dc:format>image/jpeg</dc:format>  
+</rdf:Description>  
+<rdf:Description rdf:about="http://imager.mnhn.fr/imager3/w400/media/14413651773123L16SaVu1gUK0KOB">
+    <rdfs:comment>Describing a thumbnail representation of the item.</rdfs:comment> 
+    <rdf:type rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+    <rdf:type rdf:resource="http://xmlns.com/foaf/spec/Image" />
+    <rdf:type rdf:resource="https://www.w3.org/ns/ma-ont#Image" />
+<!-- Dublin Core identifier property -->
+    <dc:identifier rdf:resource="http://imager.mnhn.fr/imager3/w400/media/14413651773123L16SaVu1gUK0KOB" />
+<!-- Dublin Core type property -->
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage" />  
+<!-- Dublin Core publisher property  -->
+    <dc:publisher rdf:resource="https://science.mnhn.fr/institution/mnhn/collection/p/item/search" />
+<!-- Dublin Core subject property -->
+<!-- The thumbnail has two subjects -->
+<!-- The item -->
+    <dc:subject rdf:resource="http://coldb.mnhn.fr/catalognumber/mnhn/p/p04060480" />
+<!-- The original media -->
+    <dc:subject rdf:resource="http://mediaphoto.mnhn.fr/media/14413651773123L16SaVu1gUK0KOB" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://mediaphoto.mnhn.fr/media/14413651773123L16SaVu1gUK0KOB">
+    <rdfs:comment>Describing the original media related to a thumbnail.</rdfs:comment> 
+    <rdf:type rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+    <rdf:type rdf:resource="http://xmlns.com/foaf/spec/Image" />
+    <rdf:type rdf:resource="https://www.w3.org/ns/ma-ont#Image" />
+<!-- Foaf thumbnail property  -->
+    <foaf:thumbnail rdf:resource="http://imager.mnhn.fr/imager3/w400/media/14413651773123L16SaVu1gUK0KOB" />
+<!-- Dublin Core identifier property -->
+    <dc:identifier rdf:resource="http://mediaphoto.mnhn.fr/media/14413651773123L16SaVu1gUK0KOB" />
+<!-- Media identifier property -->
+    <ma:locator rdf:resource="http://mediaphoto.mnhn.fr/media/14413651773123L16SaVu1gUK0KOB" />   
+<!-- Dublin Core type property -->
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage" />    
+<!-- Dublin Core publisher property  -->
+    <dc:publisher rdf:resource="https://science.mnhn.fr/institution/mnhn/collection/p/item/search" />
+<!-- Dublin Core subject property -->
+    <dc:subject rdf:resource="http://coldb.mnhn.fr/catalognumber/mnhn/p/p04060480"></dc:subject>  
+<!-- Dublin Core created property -->
+    <dc:created>2012</dc:created>
+<!-- Media date property -->
+    <ma:date>2012</ma:date>
+<!-- Dublin Core modified property -->
+    <dc:modified>2012-02-24 00:00:00.0</dc:modified>
+<!-- Dublin Core creator property -->
+    <dc:rights rdf:resource="https://creativecommons.org/licenses/by/4.0/" />
+<!-- Dublin Core format property -->
+    <dc:format>image/jpeg</dc:format>  
+</rdf:Description>  
+</rdf:RDF>

@@ -1,0 +1,585 @@
+<html>
+	<head>
+		<title>EMBL to triples</title>
+		<meta charset="UTF-8"/>
+		<script src="jquery.js"></script>
+		<script src="jsonld.js"></script>
+		<script src="viz.js"></script>
+		<!-- stuff below needs to go into CouchDB views -->
+		<script src="shared.js"></script>
+		<script src="language.js"></script>
+		<style>
+		td { border: 1px solid red; }
+		</style>
+	</head>
+<body>
+
+<h1>EMBL to triples</h1>
+
+<div>
+	<div style="width:100%;height:auto;">
+		<h2>JSON</h2>
+			<!-- JSON for data object goes below -->
+			<textarea id="json" style="width:100%;background-color:#224FBC;color:#FFFF66;" rows="20">
+			
+{
+  "_id": "AF432970.1",
+  "_rev": "1-5de29d12d24b3",
+  "accession": "AF432970",
+  "version": 1,
+  "definition": "Cyrtochilum tricostatum 18S ribosomal RNA gene, partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene and internal transcribed spacer 2, complete sequence; and 26S ribosomal RNA gene, partial sequence.",
+  "organism": "Cyrtochilum tricostatum",
+  "references": [
+    {
+      "title": "Molecular systematics of the Oncidiinae based on evidence from four DNA sequence regions: expanded circumscriptions of Cyrtochilum, Erycina, Otoglossum, and Trichocentrum and a new genus (Orchidaceae)",
+      "type": "article-journal",
+      "unstructured": "Molecular systematics of the Oncidiinae based on evidence from four DNA sequence regions: expanded circumscriptions of Cyrtochilum, Erycina, Otoglossum, and Trichocentrum and a new genus (Orchidaceae) Lindleyana 16:113-139(2001).",
+      "container-title": "Lindleyana",
+      "ISSN": [
+        "0889-258X"
+      ],
+      "volume": "16",
+      "page-first": "113",
+      "page": "113-139",
+      "issued": {
+        "date-parts": [
+          [
+            2001
+          ]
+        ]
+      },
+      "author": [
+        {
+          "family": "Williams",
+          "given": "N. H.",
+          "literal": "N. H. Williams"
+        },
+        {
+          "family": "Chase",
+          "given": "M. W.",
+          "literal": "M. W. Chase"
+        },
+        {
+          "family": "Fulcher",
+          "given": "T.",
+          "literal": "T. Fulcher"
+        },
+        {
+          "family": "Whitten",
+          "given": "W. M.",
+          "literal": "W. M. Whitten"
+        }
+      ]
+    },
+    {
+      "title": ";",
+      "type": "unknown",
+      "unstructured": "; Submitted (25-SEP-2001) to the INSDC. Herbarium, Florida Museum of Natural History, Dickinson Hall, University of Florida, Gainesville, FL 32611-7800, USA",
+      "author": [
+        {
+          "family": "Williams",
+          "given": "N. H.",
+          "literal": "N. H. Williams"
+        },
+        {
+          "family": "Chase",
+          "given": "M. W.",
+          "literal": "M. W. Chase"
+        },
+        {
+          "family": "Whitten",
+          "given": "W. M.",
+          "literal": "W. M. Whitten"
+        }
+      ]
+    }
+  ],
+  "lineage": [
+    "Eukaryota",
+    "Viridiplantae",
+    "Streptophyta",
+    "Embryophyta",
+    "Tracheophyta",
+    "Spermatophyta",
+    "Magnoliopsida",
+    "Liliopsida",
+    "Asparagales",
+    "Orchidaceae",
+    "Epidendroideae",
+    "Cymbidieae",
+    "Oncidiinae",
+    "Cyrtochilum"
+  ],
+  "barcode": false,
+  "created": "2001-12-05",
+  "updated": "2001-12-05",
+  "source": {
+    "mol_type": "genomic DNA",
+    "specimen_voucher": "Chase O-654 K",
+    "tax_id": 154860
+  },
+  "sequence": "attcaaccttatcatttaaaggaaggagaagtcgtaacaaggtttccgtaggtgaacctgcggaaggatcattgtcgagaccaaaaaatatttcgagcgattcgaacaacccgtgaaatgagagagcgactgtcccggtcgttgcccacgaccctccttcggggtgaaggggcgcgacggaggatggattaaccacaaaccggcgcagcatcgcgccaagggaagattgaaatgctcgagccctgcgtcgggatcggtgacgtggatgctatagacacgactctcgacaatggatatctcggctcttgcatcgatgaagagcgcagcgaaatgcgatacgtggtgcgaattgcagaatcccgcgaaccatcgagtctttgaacgcaagttgcgcccgaggccagctggccaagggcacgtccgcctgggcgtcaagcgttgcgtcgctccgtgccagctgtgccgccaatgggcggcggggcgaggctcggatgtgtagagtggcccgtcgtgcccgttggcgcggcgagttgaagagcgggtttagttcaatggccacgaacaacaaggggtgggtgtaagctatgagcgcagcctgcgttgtatcgtgccggcccgagagacagtgtgtgcctttgatgtgatccccgaccatgcgctgtcggcatgcggcgtcttggaatgcgaccccaggatgggcgaggccacccgccgagtttaag"
+}
+</textarea>	
+
+<!--		
+{
+  "_id": "FJ563865.1",
+  "_rev": "1-5de04b3467f0a",
+  "accession": "FJ563865",
+  "version": 1,
+  "definition": "Cyrtochilum ioplocon voucher Williams N076 FLAS maturase K (matK) gene, partial cds; chloroplast.",
+  "organism": "Cyrtochilum ioplocon",
+  "references": [
+    {
+      "DOI": "10.1093/aob/mcp067",
+      "PMID": 19346522,
+      "title": "Floral convergence in Oncidiinae (Cymbidieae; Orchidaceae): an expanded concept of Gomesa and a new genus Nohawilliamsia",
+      "type": "article-journal",
+      "unstructured": "Floral convergence in Oncidiinae (Cymbidieae; Orchidaceae): an expanded concept of Gomesa and a new genus Nohawilliamsia Ann. Bot. 104(3):387-402(2009).",
+      "container-title": "Ann. Bot.",
+      "volume": "104",
+      "issue": "3",
+      "page-first": "387",
+      "page": "387-402",
+      "issued": {
+        "date-parts": [
+          [
+            2009
+          ]
+        ]
+      },
+      "author": [
+        {
+          "family": "Chase",
+          "given": "M. W.",
+          "literal": "M. W. Chase"
+        },
+        {
+          "family": "Williams",
+          "given": "N. H.",
+          "literal": "N. H. Williams"
+        },
+        {
+          "family": "de",
+          "given": "Faria A.D.",
+          "literal": "Faria A.D. de"
+        },
+        {
+          "family": "Neubig",
+          "given": "K. M.",
+          "literal": "K. M. Neubig"
+        },
+        {
+          "family": "Amaral",
+          "given": "Mdo C.",
+          "literal": "Mdo C. Amaral"
+        },
+        {
+          "family": "Whitten",
+          "given": "W. M.",
+          "literal": "W. M. Whitten"
+        }
+      ]
+    },
+    {
+      "title": ";",
+      "type": "unknown",
+      "unstructured": "; Submitted (18-DEC-2008) to the INSDC. Florida Museum of Natural History, University of Florida, P.O. Box 117800, Gainesville, FL 32611-7800, USA",
+      "author": [
+        {
+          "family": "Whitten",
+          "given": "W. M.",
+          "literal": "W. M. Whitten"
+        },
+        {
+          "family": "Neubig",
+          "given": "K. M.",
+          "literal": "K. M. Neubig"
+        },
+        {
+          "family": "Williams",
+          "given": "N. H.",
+          "literal": "N. H. Williams"
+        }
+      ]
+    }
+  ],
+  "lineage": [
+    "Eukaryota",
+    "Viridiplantae",
+    "Streptophyta",
+    "Embryophyta",
+    "Tracheophyta",
+    "Spermatophyta",
+    "Magnoliopsida",
+    "Liliopsida",
+    "Asparagales",
+    "Orchidaceae",
+    "Epidendroideae",
+    "Cymbidieae",
+    "Oncidiinae",
+    "Cyrtochilum"
+  ],
+  "barcode": false,
+  "created": "2009-03-29",
+  "updated": "2009-09-25",
+  "source": {
+    "organelle": "plastid:chloroplast",
+    "mol_type": "genomic DNA",
+    "specimen_voucher": "Williams N076 FLAS",
+    "note": "authority: Cyrtochilum ioplocon (Rchb. f.) Dalstroem",
+    "tax_id": 154849
+  },
+  "gene": [
+    "matK"
+  ],
+  "product": [
+    "maturase K"
+  ],
+  "sequence": "acttgctcattatcatagcttcaatagtttgattttttatgaacctgtggaaattattggttatgacaataaatctagtttagtacttgtaaaacgtttaattactcgaatgtatcaacagaaacctttgatttattcggtgaatgattctaaccaaaatgtattttggggtcacaagaattctttttcttctcatttttattctcaaatggtatcagaaggttttggagtcattctggaaattccattctcatcgcgattagtatcttcccttgaagaaaaaaggataccaaaatatcagaatttacgatctattcattcaatatttccctttttagaggataaattatcacatttaaattatgtgtcagatctactaataccctatcccatccatctggaaatcttggttcaaatccttcaatgctggatcaaagatgttccttctttgcatttattgcgattgtttttccacgaatctcataatttgaataatctcattacttcaaataaatttatttacgtcttttcaaaaataaagaaaagattcttttggttcctacataattcttatgtatatgaattcgaatatctattcctgtttattcgtaaacagtcttcttatttacgatcaatatcttctggagtctttattgagcgaacacatttctatggaaaaatagaatatcttatagtcatgtgttgtaattcttttcagaggatcctatggttcctcaaatatactttcatacattatgttcgatatcaaggaaaagcaattttggcttcaaaaggaactcttattctgatgaagaaatggaaatttcatcttgtgaatttttggcaatcttattttcacttttggtttcaaccttataggatccatatcaagcaattacctaactattccttctcttttctggggtatttttcaagtgtactaaataatcctttgatagtaagaaatcaaatgctagagaattcatttctaataaatactctgactaagaaattagataccatagtcccagttatttatcttattggatcattgtcaaaagctcaattttgtactgtattgggtcatcctattagtaaaccgatctggaccgatttatcggattctgatattcttgatcgattttgtcggatatgtagaaatatttgtcgttatcacagcggatcctcaaagaagcaggttttgtatcgtataaagtatatacttcgactttcgtgtgctagaactttggctcgtaaacataaaagtacagtacgaacttttatgcgaagattaggttcgggattcttagaagaattttttttggaagaagaacaatctctttcttt"
+}			
+
+-->
+			
+<!-- 
+
+-->			
+			
+			<br />
+			<button onclick="convert()">Convert JSON to RDF</button>
+	</div>
+	<div style="clear:both;"></div>
+	
+	<div style="width:100%;">
+		<h2>Triples</h2>
+		<div id="output" style="width:100%;background-color:#FF7;color:#222;overflow:auto;"></div>
+		<h2>Graph</h2>
+		<div id="graph" style="width:100%;overflow:auto;"></div>
+		<h2>JSON-LD</h2>
+		<div id="jsonld" style="width:100%;white-space:pre;background-color:#333;color:white;overflow:auto;"></div>
+
+</div>			
+			
+		
+		
+		
+<script>
+
+//----------------------------------------------------------------------------------------
+var Latinise={};Latinise.latin_map={"Á":"A","Ă":"A","Ắ":"A","Ặ":"A","Ằ":"A","Ẳ":"A","Ẵ":"A","Ǎ":"A","Â":"A","Ấ":"A","Ậ":"A","Ầ":"A","Ẩ":"A","Ẫ":"A","Ä":"A","Ǟ":"A","Ȧ":"A","Ǡ":"A","Ạ":"A","Ȁ":"A","À":"A","Ả":"A","Ȃ":"A","Ā":"A","Ą":"A","Å":"A","Ǻ":"A","Ḁ":"A","Ⱥ":"A","Ã":"A","Ꜳ":"AA","Æ":"AE","Ǽ":"AE","Ǣ":"AE","Ꜵ":"AO","Ꜷ":"AU","Ꜹ":"AV","Ꜻ":"AV","Ꜽ":"AY","Ḃ":"B","Ḅ":"B","Ɓ":"B","Ḇ":"B","Ƀ":"B","Ƃ":"B","Ć":"C","Č":"C","Ç":"C","Ḉ":"C","Ĉ":"C","Ċ":"C","Ƈ":"C","Ȼ":"C","Ď":"D","Ḑ":"D","Ḓ":"D","Ḋ":"D","Ḍ":"D","Ɗ":"D","Ḏ":"D","ǲ":"D","ǅ":"D","Đ":"D","Ƌ":"D","Ǳ":"DZ","Ǆ":"DZ","É":"E","Ĕ":"E","Ě":"E","Ȩ":"E","Ḝ":"E","Ê":"E","Ế":"E","Ệ":"E","Ề":"E","Ể":"E","Ễ":"E","Ḙ":"E","Ë":"E","Ė":"E","Ẹ":"E","Ȅ":"E","È":"E","Ẻ":"E","Ȇ":"E","Ē":"E","Ḗ":"E","Ḕ":"E","Ę":"E","Ɇ":"E","Ẽ":"E","Ḛ":"E","Ꝫ":"ET","Ḟ":"F","Ƒ":"F","Ǵ":"G","Ğ":"G","Ǧ":"G","Ģ":"G","Ĝ":"G","Ġ":"G","Ɠ":"G","Ḡ":"G","Ǥ":"G","Ḫ":"H","Ȟ":"H","Ḩ":"H","Ĥ":"H","Ⱨ":"H","Ḧ":"H","Ḣ":"H","Ḥ":"H","Ħ":"H","Í":"I","Ĭ":"I","Ǐ":"I","Î":"I","Ï":"I","Ḯ":"I","İ":"I","Ị":"I","Ȉ":"I","Ì":"I","Ỉ":"I","Ȋ":"I","Ī":"I","Į":"I","Ɨ":"I","Ĩ":"I","Ḭ":"I","Ꝺ":"D","Ꝼ":"F","Ᵹ":"G","Ꞃ":"R","Ꞅ":"S","Ꞇ":"T","Ꝭ":"IS","Ĵ":"J","Ɉ":"J","Ḱ":"K","Ǩ":"K","Ķ":"K","Ⱪ":"K","Ꝃ":"K","Ḳ":"K","Ƙ":"K","Ḵ":"K","Ꝁ":"K","Ꝅ":"K","Ĺ":"L","Ƚ":"L","Ľ":"L","Ļ":"L","Ḽ":"L","Ḷ":"L","Ḹ":"L","Ⱡ":"L","Ꝉ":"L","Ḻ":"L","Ŀ":"L","Ɫ":"L","ǈ":"L","Ł":"L","Ǉ":"LJ","Ḿ":"M","Ṁ":"M","Ṃ":"M","Ɱ":"M","Ń":"N","Ň":"N","Ņ":"N","Ṋ":"N","Ṅ":"N","Ṇ":"N","Ǹ":"N","Ɲ":"N","Ṉ":"N","Ƞ":"N","ǋ":"N","Ñ":"N","Ǌ":"NJ","Ó":"O","Ŏ":"O","Ǒ":"O","Ô":"O","Ố":"O","Ộ":"O","Ồ":"O","Ổ":"O","Ỗ":"O","Ö":"O","Ȫ":"O","Ȯ":"O","Ȱ":"O","Ọ":"O","Ő":"O","Ȍ":"O","Ò":"O","Ỏ":"O","Ơ":"O","Ớ":"O","Ợ":"O","Ờ":"O","Ở":"O","Ỡ":"O","Ȏ":"O","Ꝋ":"O","Ꝍ":"O","Ō":"O","Ṓ":"O","Ṑ":"O","Ɵ":"O","Ǫ":"O","Ǭ":"O","Ø":"O","Ǿ":"O","Õ":"O","Ṍ":"O","Ṏ":"O","Ȭ":"O","Ƣ":"OI","Ꝏ":"OO","Ɛ":"E","Ɔ":"O","Ȣ":"OU","Ṕ":"P","Ṗ":"P","Ꝓ":"P","Ƥ":"P","Ꝕ":"P","Ᵽ":"P","Ꝑ":"P","Ꝙ":"Q","Ꝗ":"Q","Ŕ":"R","Ř":"R","Ŗ":"R","Ṙ":"R","Ṛ":"R","Ṝ":"R","Ȑ":"R","Ȓ":"R","Ṟ":"R","Ɍ":"R","Ɽ":"R","Ꜿ":"C","Ǝ":"E","Ś":"S","Ṥ":"S","Š":"S","Ṧ":"S","Ş":"S","Ŝ":"S","Ș":"S","Ṡ":"S","Ṣ":"S","Ṩ":"S","Ť":"T","Ţ":"T","Ṱ":"T","Ț":"T","Ⱦ":"T","Ṫ":"T","Ṭ":"T","Ƭ":"T","Ṯ":"T","Ʈ":"T","Ŧ":"T","Ɐ":"A","Ꞁ":"L","Ɯ":"M","Ʌ":"V","Ꜩ":"TZ","Ú":"U","Ŭ":"U","Ǔ":"U","Û":"U","Ṷ":"U","Ü":"U","Ǘ":"U","Ǚ":"U","Ǜ":"U","Ǖ":"U","Ṳ":"U","Ụ":"U","Ű":"U","Ȕ":"U","Ù":"U","Ủ":"U","Ư":"U","Ứ":"U","Ự":"U","Ừ":"U","Ử":"U","Ữ":"U","Ȗ":"U","Ū":"U","Ṻ":"U","Ų":"U","Ů":"U","Ũ":"U","Ṹ":"U","Ṵ":"U","Ꝟ":"V","Ṿ":"V","Ʋ":"V","Ṽ":"V","Ꝡ":"VY","Ẃ":"W","Ŵ":"W","Ẅ":"W","Ẇ":"W","Ẉ":"W","Ẁ":"W","Ⱳ":"W","Ẍ":"X","Ẋ":"X","Ý":"Y","Ŷ":"Y","Ÿ":"Y","Ẏ":"Y","Ỵ":"Y","Ỳ":"Y","Ƴ":"Y","Ỷ":"Y","Ỿ":"Y","Ȳ":"Y","Ɏ":"Y","Ỹ":"Y","Ź":"Z","Ž":"Z","Ẑ":"Z","Ⱬ":"Z","Ż":"Z","Ẓ":"Z","Ȥ":"Z","Ẕ":"Z","Ƶ":"Z","Ĳ":"IJ","Œ":"OE","ᴀ":"A","ᴁ":"AE","ʙ":"B","ᴃ":"B","ᴄ":"C","ᴅ":"D","ᴇ":"E","ꜰ":"F","ɢ":"G","ʛ":"G","ʜ":"H","ɪ":"I","ʁ":"R","ᴊ":"J","ᴋ":"K","ʟ":"L","ᴌ":"L","ᴍ":"M","ɴ":"N","ᴏ":"O","ɶ":"OE","ᴐ":"O","ᴕ":"OU","ᴘ":"P","ʀ":"R","ᴎ":"N","ᴙ":"R","ꜱ":"S","ᴛ":"T","ⱻ":"E","ᴚ":"R","ᴜ":"U","ᴠ":"V","ᴡ":"W","ʏ":"Y","ᴢ":"Z","á":"a","ă":"a","ắ":"a","ặ":"a","ằ":"a","ẳ":"a","ẵ":"a","ǎ":"a","â":"a","ấ":"a","ậ":"a","ầ":"a","ẩ":"a","ẫ":"a","ä":"a","ǟ":"a","ȧ":"a","ǡ":"a","ạ":"a","ȁ":"a","à":"a","ả":"a","ȃ":"a","ā":"a","ą":"a","ᶏ":"a","ẚ":"a","å":"a","ǻ":"a","ḁ":"a","ⱥ":"a","ã":"a","ꜳ":"aa","æ":"ae","ǽ":"ae","ǣ":"ae","ꜵ":"ao","ꜷ":"au","ꜹ":"av","ꜻ":"av","ꜽ":"ay","ḃ":"b","ḅ":"b","ɓ":"b","ḇ":"b","ᵬ":"b","ᶀ":"b","ƀ":"b","ƃ":"b","ɵ":"o","ć":"c","č":"c","ç":"c","ḉ":"c","ĉ":"c","ɕ":"c","ċ":"c","ƈ":"c","ȼ":"c","ď":"d","ḑ":"d","ḓ":"d","ȡ":"d","ḋ":"d","ḍ":"d","ɗ":"d","ᶑ":"d","ḏ":"d","ᵭ":"d","ᶁ":"d","đ":"d","ɖ":"d","ƌ":"d","ı":"i","ȷ":"j","ɟ":"j","ʄ":"j","ǳ":"dz","ǆ":"dz","é":"e","ĕ":"e","ě":"e","ȩ":"e","ḝ":"e","ê":"e","ế":"e","ệ":"e","ề":"e","ể":"e","ễ":"e","ḙ":"e","ë":"e","ė":"e","ẹ":"e","ȅ":"e","è":"e","ẻ":"e","ȇ":"e","ē":"e","ḗ":"e","ḕ":"e","ⱸ":"e","ę":"e","ᶒ":"e","ɇ":"e","ẽ":"e","ḛ":"e","ꝫ":"et","ḟ":"f","ƒ":"f","ᵮ":"f","ᶂ":"f","ǵ":"g","ğ":"g","ǧ":"g","ģ":"g","ĝ":"g","ġ":"g","ɠ":"g","ḡ":"g","ᶃ":"g","ǥ":"g","ḫ":"h","ȟ":"h","ḩ":"h","ĥ":"h","ⱨ":"h","ḧ":"h","ḣ":"h","ḥ":"h","ɦ":"h","ẖ":"h","ħ":"h","ƕ":"hv","í":"i","ĭ":"i","ǐ":"i","î":"i","ï":"i","ḯ":"i","ị":"i","ȉ":"i","ì":"i","ỉ":"i","ȋ":"i","ī":"i","į":"i","ᶖ":"i","ɨ":"i","ĩ":"i","ḭ":"i","ꝺ":"d","ꝼ":"f","ᵹ":"g","ꞃ":"r","ꞅ":"s","ꞇ":"t","ꝭ":"is","ǰ":"j","ĵ":"j","ʝ":"j","ɉ":"j","ḱ":"k","ǩ":"k","ķ":"k","ⱪ":"k","ꝃ":"k","ḳ":"k","ƙ":"k","ḵ":"k","ᶄ":"k","ꝁ":"k","ꝅ":"k","ĺ":"l","ƚ":"l","ɬ":"l","ľ":"l","ļ":"l","ḽ":"l","ȴ":"l","ḷ":"l","ḹ":"l","ⱡ":"l","ꝉ":"l","ḻ":"l","ŀ":"l","ɫ":"l","ᶅ":"l","ɭ":"l","ł":"l","ǉ":"lj","ſ":"s","ẜ":"s","ẛ":"s","ẝ":"s","ḿ":"m","ṁ":"m","ṃ":"m","ɱ":"m","ᵯ":"m","ᶆ":"m","ń":"n","ň":"n","ņ":"n","ṋ":"n","ȵ":"n","ṅ":"n","ṇ":"n","ǹ":"n","ɲ":"n","ṉ":"n","ƞ":"n","ᵰ":"n","ᶇ":"n","ɳ":"n","ñ":"n","ǌ":"nj","ó":"o","ŏ":"o","ǒ":"o","ô":"o","ố":"o","ộ":"o","ồ":"o","ổ":"o","ỗ":"o","ö":"o","ȫ":"o","ȯ":"o","ȱ":"o","ọ":"o","ő":"o","ȍ":"o","ò":"o","ỏ":"o","ơ":"o","ớ":"o","ợ":"o","ờ":"o","ở":"o","ỡ":"o","ȏ":"o","ꝋ":"o","ꝍ":"o","ⱺ":"o","ō":"o","ṓ":"o","ṑ":"o","ǫ":"o","ǭ":"o","ø":"o","ǿ":"o","õ":"o","ṍ":"o","ṏ":"o","ȭ":"o","ƣ":"oi","ꝏ":"oo","ɛ":"e","ᶓ":"e","ɔ":"o","ᶗ":"o","ȣ":"ou","ṕ":"p","ṗ":"p","ꝓ":"p","ƥ":"p","ᵱ":"p","ᶈ":"p","ꝕ":"p","ᵽ":"p","ꝑ":"p","ꝙ":"q","ʠ":"q","ɋ":"q","ꝗ":"q","ŕ":"r","ř":"r","ŗ":"r","ṙ":"r","ṛ":"r","ṝ":"r","ȑ":"r","ɾ":"r","ᵳ":"r","ȓ":"r","ṟ":"r","ɼ":"r","ᵲ":"r","ᶉ":"r","ɍ":"r","ɽ":"r","ↄ":"c","ꜿ":"c","ɘ":"e","ɿ":"r","ś":"s","ṥ":"s","š":"s","ṧ":"s","ş":"s","ŝ":"s","ș":"s","ṡ":"s","ṣ":"s","ṩ":"s","ʂ":"s","ᵴ":"s","ᶊ":"s","ȿ":"s","ɡ":"g","ᴑ":"o","ᴓ":"o","ᴝ":"u","ť":"t","ţ":"t","ṱ":"t","ț":"t","ȶ":"t","ẗ":"t","ⱦ":"t","ṫ":"t","ṭ":"t","ƭ":"t","ṯ":"t","ᵵ":"t","ƫ":"t","ʈ":"t","ŧ":"t","ᵺ":"th","ɐ":"a","ᴂ":"ae","ǝ":"e","ᵷ":"g","ɥ":"h","ʮ":"h","ʯ":"h","ᴉ":"i","ʞ":"k","ꞁ":"l","ɯ":"m","ɰ":"m","ᴔ":"oe","ɹ":"r","ɻ":"r","ɺ":"r","ⱹ":"r","ʇ":"t","ʌ":"v","ʍ":"w","ʎ":"y","ꜩ":"tz","ú":"u","ŭ":"u","ǔ":"u","û":"u","ṷ":"u","ü":"u","ǘ":"u","ǚ":"u","ǜ":"u","ǖ":"u","ṳ":"u","ụ":"u","ű":"u","ȕ":"u","ù":"u","ủ":"u","ư":"u","ứ":"u","ự":"u","ừ":"u","ử":"u","ữ":"u","ȗ":"u","ū":"u","ṻ":"u","ų":"u","ᶙ":"u","ů":"u","ũ":"u","ṹ":"u","ṵ":"u","ᵫ":"ue","ꝸ":"um","ⱴ":"v","ꝟ":"v","ṿ":"v","ʋ":"v","ᶌ":"v","ⱱ":"v","ṽ":"v","ꝡ":"vy","ẃ":"w","ŵ":"w","ẅ":"w","ẇ":"w","ẉ":"w","ẁ":"w","ⱳ":"w","ẘ":"w","ẍ":"x","ẋ":"x","ᶍ":"x","ý":"y","ŷ":"y","ÿ":"y","ẏ":"y","ỵ":"y","ỳ":"y","ƴ":"y","ỷ":"y","ỿ":"y","ȳ":"y","ẙ":"y","ɏ":"y","ỹ":"y","ź":"z","ž":"z","ẑ":"z","ʑ":"z","ⱬ":"z","ż":"z","ẓ":"z","ȥ":"z","ẕ":"z","ᵶ":"z","ᶎ":"z","ʐ":"z","ƶ":"z","ɀ":"z","ﬀ":"ff","ﬃ":"ffi","ﬄ":"ffl","ﬁ":"fi","ﬂ":"fl","ĳ":"ij","œ":"oe","ﬆ":"st","ₐ":"a","ₑ":"e","ᵢ":"i","ⱼ":"j","ₒ":"o","ᵣ":"r","ᵤ":"u","ᵥ":"v","ₓ":"x"};
+String.prototype.latinise=function(){return this.replace(/[^A-Za-z0-9\[\] ]/g,function(a){return Latinise.latin_map[a]||a})};
+String.prototype.latinize=String.prototype.latinise;
+String.prototype.isLatin=function(){return this==this.latinise()}
+
+
+//----------------------------------------------------------------------------------------
+// Based on https://github.com/jprante/elasticsearch-analysis-standardnumber/blob/master/src/main/java/org/xbib/elasticsearch/common/standardnumber/SICI.java
+function sici_checksum(sici) {
+	var ALPHABET = "0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ#";
+
+    var modulus = ALPHABET.length;
+	var len = sici.length;
+	var sum = 0;
+	for (var i = 0; i < len; i++) {
+		var val = ALPHABET.indexOf(sici.charAt(i));
+		 sum += val *  (i %2 == 0 ? 1 : 3);
+	}
+
+    var chk = modulus - sum % modulus;
+    
+    var check = chk > 35 ? '#' : ALPHABET.charAt(chk);
+
+	return check;
+}
+
+//----------------------------------------------------------------------------------------
+function create_sici(item) {
+
+	var sici = [];
+
+	sici.push(item.issn);
+	
+	sici.push('(');		
+	sici.push(item.year);
+	sici.push(')');
+
+	sici.push(item.volume);
+
+	sici.push('<');
+
+	sici.push(item.spage); 
+	
+	// title
+	if (item.title) {
+
+    item.title = item.title.latinise();
+
+		item.title = item.title.toUpperCase();
+		item.title = item.title.replace(/[^A-Z\s]/g, '');
+
+		var words = item.title.split(' ');
+
+		var numWords = Math.min(words.length, 6);
+
+		var initials = [];
+		for (var j = 0; j < numWords; j++)
+		{
+			initials.push(words[j].charAt(0));
+		}
+
+		sici.push(':');
+		sici.push(initials.join(''));
+	}	
+
+	sici.push('>');
+	
+	sici.push('2.0');
+	sici.push('.CO;2-');
+	
+	var sici_string = sici.join('');
+	
+	// clean
+	sici_string = sici_string.replace(/\s/g, '');
+	
+	sici_string += sici_checksum(sici_string);
+	
+	return sici_string;
+}
+	
+//----------------------------------------------------------------------------------------
+// START COUCHDB VIEW
+function message(doc) {
+
+    var subject_id = 'https://identifiers.org/insdc:' + doc.accession;
+
+    
+    var triples = [];
+    var type = '';
+    
+    triples.push(
+    	triple(
+    		subject_id,
+			'http://schema.org/name',
+			doc.accession
+			)
+		);
+		
+    triples.push(
+    	triple(
+    		subject_id,
+			'http://schema.org/description',
+			doc.definition
+			)
+		);
+		
+    
+    // reference(s)
+    
+    if (doc.references) {
+    	for (var i in doc.references) {
+    		if (doc.references[i].type == 'article-journal') {
+    		
+    			var index = parseInt(i + 1);
+
+				var reference_id = subject_id + '#reference_' + index;
+				
+				triples.push(
+					triple(
+						subject_id,
+						'http://schema.org/citation',
+						reference_id
+						)
+					);	
+					
+				// container
+				
+				var container_id = reference_id + '#container';
+				var item = {};
+				
+				if (doc.references[i].ISSN) {
+					container_id = 'http://worldcat.org/issn/' + doc.references[i].ISSN[0];
+					item.issn = doc.references[i].ISSN[0];
+				}			
+				
+				triples.push(
+					triple(
+						reference_id,
+						'http://schema.org/isPartOf',
+						container_id
+						)
+					);				
+					
+				
+    			for (var j in doc.references[i]) {
+    				switch (j) {
+    				
+    					case 'title':
+							triples.push(
+								triple(
+									reference_id,
+									'http://schema.org/name',
+									doc.references[i][j]
+									)
+								);	
+							item.title = doc.references[i][j];			
+    						break;
+    						
+    					case 'container-title':
+							triples.push(
+								triple(
+									container_id,
+									'http://schema.org/name',
+									doc.references[i][j]
+									)
+								);				    						
+    						break;
+    						
+    					case 'volume':
+							triples.push(
+								triple(
+									reference_id,
+									'http://schema.org/volumeNumber',
+									doc.references[i][j]
+									)
+								);
+								
+							item.volume = doc.references[i][j];
+    						break;
+    						
+    					case 'issue':
+							triples.push(
+								triple(
+									reference_id,
+									'http://schema.org/issueNumber',
+									doc.references[i][j]
+									)
+								);				
+    						break;
+    						
+    					case 'page-first':
+							triples.push(
+								triple(
+									reference_id,
+									'http://schema.org/pageStart',
+									doc.references[i][j]
+									)
+								);	
+							item.spage = doc.references[i][j];					    					
+    						break;
+
+					  case 'issued':
+						 var date = '';
+						 var dateparts = doc.references[i][j]['date-parts'][0];
+		 
+						 switch (dateparts.length) {
+							case 1:
+							   date = dateparts[0];
+							   break;
+							case 2:
+							   date = dateparts[0] + '-' + ("00" + dateparts[1]).slice(-2) + '-00';
+							   break;
+							case 3:
+							   date = dateparts[0] + '-' + ("00" + dateparts[1]).slice(-2) + '-' + ("00" + dateparts[2]).slice(-2);	           
+							   break;
+							default:
+								break;
+						}
+						triples.push(triple(reference_id,
+						  'http://schema.org/datePublished',
+						  date.toString()));
+						  
+						item.year = dateparts[0];	    
+						break;
+   						
+    					/*
+    					case 'DOI':
+							triples.push(
+								triple(
+									reference_id,
+									'http://schema.org/sameAs',
+									'"https://doi.org/' +  doc.references[i][j] + '"'
+									)
+								);				
+    						break;
+    					*/
+    						
+    					default:
+    						break;
+    					
+    				
+    				
+    				
+    				
+    				}
+  
+    			
+    			
+    			}
+    		
+    		  				
+    				if (
+    					item.issn && item.volume && item.spage && item.title
+    					)
+    				{
+    					var sici = create_sici(item);
+
+						triples.push(triple(reference_id,
+						  'http://schema.org/sameAs',
+						  '"urn:sici:' + sici + '"')
+						  );    					
+    				}
+    		
+    		}
+    	
+    	
+    	}
+    
+    
+    }
+    
+    
+    // source
+    
+    
+    // taxonomy
+    
+    
+
+
+    if (type == '') {
+      type = 'http://schema.org/Record';
+    }    
+
+    // defaults
+    triples.push(triple(subject_id,
+      'http://www.w3.org/1999/02/22-rdf-syntax-ns#type',
+      type));
+
+    output(doc, triples);
+  
+}
+
+function couchdb(doc) {
+	message(doc);
+}
+// END COUCHDB VIEW
+
+		
+//----------------------------------------------------------------------------------------
+function convert() {
+	var json = $('#json').val();
+	var doc = JSON.parse(json);
+	
+	console.log(JSON.stringify(doc, null, 2));
+	
+	couchdb(doc);
+}
+
+	
+	</script>		
+			
+
+</div>
+</body>
+</html>			

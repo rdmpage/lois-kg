@@ -1,0 +1,200 @@
+<head>
+  <title>Network</title>
+  <script type="text/javascript" src="vis-network.min.js"></script>
+  <style type="text/css">
+    #mynetwork {
+      width: 100%;
+      height: 600px;
+      border: 1px solid lightgray;
+    }
+  </style>
+</head>
+<body>
+<div id="mynetwork"></div>
+
+<body>
+<script>
+
+var nodeData = [];
+var edgeData = [];
+
+
+
+
+
+
+
+var data = {"head":{"vars":["source_id","edge_label","target_id","intermediate_node","target_name","type"]},"results":{"bindings":[{"source_id":{"type":"uri","value":"https://doi.org/10.1111/j.1469-8137.2010.03279.x"},"edge_label":{"type":"uri","value":"http://schema.org/creator"},"target_id":{"type":"uri","value":"https://doi.org/10.1111/j.1469-8137.2010.03279.x#role-1"},"intermediate_node":{"type":"uri","value":"https://doi.org/10.1111/j.1469-8137.2010.03279.x#creator-1"},"target_name":{"type":"literal","value":"Madelaine E. Bartlett"},"type":{"type":"literal","value":"http://schema.org/Role"}},{"source_id":{"type":"uri","value":"https://doi.org/10.1111/j.1469-8137.2010.03279.x"},"edge_label":{"type":"uri","value":"http://schema.org/creator"},"target_id":{"type":"uri","value":"https://doi.org/10.1111/j.1469-8137.2010.03279.x#role-2"},"intermediate_node":{"type":"uri","value":"https://doi.org/10.1111/j.1469-8137.2010.03279.x#creator-2"},"target_name":{"type":"literal","value":"Chelsea D. Specht"},"type":{"type":"literal","value":"http://schema.org/Role"}},{"source_id":{"type":"uri","value":"https://doi.org/10.1111/j.1469-8137.2010.03279.x"},"edge_label":{"type":"uri","value":"http://schema.org/isPartOf"},"target_id":{"type":"uri","value":"http://worldcat.org/issn/0028-646X"},"target_name":{"type":"literal","value":"New Phytol"},"type":{"type":"literal","value":"http://schema.org/Periodical"}},{"source_id":{"type":"uri","value":"https://doi.org/10.1111/j.1469-8137.2010.03279.x"},"edge_label":{"type":"uri","value":"http://schema.org/citation"},"target_id":{"type":"uri","value":"https://doi.org/10.1111/j.1469-8137.2010.03279.x#10-1111-j-1469-8137-2010-03279-x-BIB104-cit105"},"target_name":{"type":"literal","value":"Protamomum maxillarioides Ridl"},"type":{"type":"literal","value":"http://schema.org/CreativeWork"}},{"source_id":{"type":"uri","value":"https://doi.org/10.1111/j.1469-8137.2010.03279.x"},"edge_label":{"type":"uri","value":"http://schema.org/citation"},"target_id":{"type":"uri","value":"https://doi.org/10.1111/j.1469-8137.2010.03279.x#10-1111-j-1469-8137-2010-03279-x-BIB125-cit127"},"target_name":{"type":"literal","value":"Studies in advancing sterility. Part VI. The theory of Scitaminean flowering"},"type":{"type":"literal","value":"http://schema.org/CreativeWork"}},{"source_id":{"type":"uri","value":"https://doi.org/10.1111/j.1469-8137.2010.03279.x"},"edge_label":{"type":"uri","value":"http://schema.org/citation"},"target_id":{"type":"uri","value":"https://doi.org/10.1111/j.1469-8137.2010.03279.x#10-1111-j-1469-8137-2010-03279-x-BIB22-cit23"},"target_name":{"type":"literal","value":"Phylogenetic relationships in the Commelinaceae: II. A cladistic analysis of rbcL sequences and morphology"},"type":{"type":"literal","value":"http://schema.org/CreativeWork"}},{"source_id":{"type":"uri","value":"https://doi.org/10.1111/j.1469-8137.2010.03279.x"},"edge_label":{"type":"uri","value":"http://schema.org/citation"},"target_id":{"type":"uri","value":"https://doi.org/10.1111/j.1469-8137.2010.03279.x#10-1111-j-1469-8137-2010-03279-x-BIB4-cit5"},"target_name":{"type":"literal","value":"Brocchinia reducta"},"type":{"type":"literal","value":"http://schema.org/CreativeWork"}},{"source_id":{"type":"uri","value":"https://doi.org/10.1111/j.1469-8137.2010.03279.x"},"edge_label":{"type":"uri","value":"http://schema.org/citation"},"target_id":{"type":"uri","value":"https://doi.org/10.1111/j.1469-8137.2010.03279.x#10-1111-j-1469-8137-2010-03279-x-BIB5-cit6"},"target_name":{"type":"literal","value":"Musa basjoo"},"type":{"type":"literal","value":"http://schema.org/CreativeWork"}},{"source_id":{"type":"uri","value":"https://doi.org/10.1111/j.1469-8137.2010.03279.x"},"edge_label":{"type":"uri","value":"http://schema.org/citation"},"target_id":{"type":"uri","value":"https://doi.org/10.1111/j.1469-8137.2010.03279.x#10-1111-j-1469-8137-2010-03279-x-BIB67-cit68"},"target_name":{"type":"literal","value":"The taxonomy of old world Heliconia (Heliconiaceae)"},"type":{"type":"literal","value":"http://schema.org/CreativeWork"}},{"source_id":{"type":"uri","value":"https://doi.org/10.1111/j.1469-8137.2010.03279.x"},"edge_label":{"type":"uri","value":"http://schema.org/citation"},"target_id":{"type":"uri","value":"https://doi.org/10.1111/j.1469-8137.2010.03279.x#10-1111-j-1469-8137-2010-03279-x-BIB77-cit78"},"target_name":{"type":"literal","value":"Inflorescence and flower morphology of Orchidantha maxillarioides Ridl. K. Shum. Lowiaceae"},"type":{"type":"literal","value":"http://schema.org/CreativeWork"}},{"source_id":{"type":"uri","value":"https://doi.org/10.1111/j.1469-8137.2010.03279.x"},"edge_label":{"type":"uri","value":"http://schema.org/citation"},"target_id":{"type":"uri","value":"https://doi.org/10.1111/j.1469-8137.2010.03279.x#10-1111-j-1469-8137-2010-03279-x-BIB81-cit82"},"target_name":{"type":"literal","value":"The probability of preservation of a newly arisen gene duplicate"},"type":{"type":"literal","value":"http://schema.org/CreativeWork"}},{"source_id":{"type":"uri","value":"https://doi.org/10.1111/j.1469-8137.2010.03279.x"},"edge_label":{"type":"uri","value":"http://schema.org/citation"},"target_id":{"type":"uri","value":"https://doi.org/10.1111/j.1469-8137.2010.03279.x#10-1111-j-1469-8137-2010-03279-x-BIB99-cit100"},"target_name":{"type":"literal","value":"Double-stranded RNA interference of a rice PI/GLO paralog, OsMADS2, uncovers its second-whorl-specific function in floral organ patterning"},"type":{"type":"literal","value":"http://schema.org/CreativeWork"}}]}};
+
+
+function short(uri) {
+	var label = '';
+	
+	var m = null;
+	m = uri.match(/(http:\/\/schema.org\/)(.*)/);
+	if (m) {
+		label = 'schema:' + m[2];
+	}
+
+	return label;
+}
+
+var nodeList = {};
+var edgeList = {};
+
+// "source_id":{"type":"uri","value":"https://doi.org/10.1111/j.1469-8137.2010.03279.x"},"edge_label":{"type":"uri","value":"http://schema.org/isPartOf"},"target_id":{"type":"uri","value":"http://worldcat.org/issn/0028-646X"},"target_name":{"type":"literal","value":"New Phytol"},"type":{"type":"literal","value":"http://schema.org/Periodical"}
+
+		nodeData.push( { id: data.results.bindings[0].source_id.value, label: "source", group: "primary_uri"});
+
+
+	for (var i in data.results.bindings) {
+		edgeData.push( { from: data.results.bindings[i].source_id.value, to: short(data.results.bindings[i].edge_label.value)});
+	
+		edgeData.push( { from: short(data.results.bindings[i].edge_label.value), to: data.results.bindings[i].target_id.value});
+		
+		if (!nodeList[short(data.results.bindings[i].edge_label.value)]) {		
+			nodeData.push( 
+			{ 
+				id: short(data.results.bindings[i].edge_label.value), 
+				label: short(data.results.bindings[i].edge_label.value),
+				
+				group: "predicate_uri"
+				});
+			
+			nodeList[short(data.results.bindings[i].edge_label.value)] = true;
+		}
+		
+		
+		if (!nodeList[data.results.bindings[i].target_id.value]) {		
+			nodeData.push( { id: data.results.bindings[i].target_id.value, 
+			label: data.results.bindings[i].target_name.value});
+			
+			nodeList[data.results.bindings[i].target_id.value] = true;
+		}
+
+	} 
+ 
+ console.log(JSON.stringify(nodeList, null, 2));
+
+ 
+console.log(JSON.stringify(nodeData, null, 2));
+ 
+//console.log(JSON.stringify(edgeData, null, 2));
+
+
+/*
+  // create an array with nodes
+  var nodes = new vis.DataSet([
+    {id: 1, label: 'Node 1'},
+    {id: 2, label: 'Node 2'},
+    {id: 3, label: 'Node 3'},
+    {id: 4, label: 'Node 4'},
+    {id: 5, label: 'Node 5'}
+  ]);
+
+  // create an array with edges
+  var edges = new vis.DataSet([
+    {from: 1, to: 3},
+    {from: 1, to: 2},
+    {from: 2, to: 4},
+    {from: 2, to: 5},
+    {from: 3, to: 3}
+  ]);
+
+  // create a network
+  var container = document.getElementById('mynetwork');
+  var data = {
+    nodes: nodes,
+    edges: edges
+  };
+  var options = {};
+  var network = new vis.Network(container, data, options);
+  
+  */
+  
+  var nodes = new vis.DataSet(nodeData);
+  var edges = new vis.DataSet(edgeData);
+  
+  var container = document.getElementById('mynetwork');
+  var d = {
+    nodes: nodes,
+    edges: edges
+  };  
+  var options = {
+  physics:{
+      barnesHut:{gravitationalConstant:-30000},
+      stabilization: {iterations:2500}
+    },
+  interaction:{
+        hover: true,
+        navigationButtons: true,
+        zoomView: false
+      },
+nodes: {
+        shape: 'dot',
+        size: 30,
+        font: {
+            size: 15,
+            color: 'black'
+        },
+        borderWidth: 2,
+    },
+    edges: {
+      color: 'gray',
+      smooth: false,
+      length : 150,
+      arrows: {
+          to:     {enabled: true, scaleFactor:0.2, type:'arrow'},
+          middle: {enabled: false, scaleFactor:1, type:'arrow'},
+          from:   {enabled: false, scaleFactor:1, type:'arrow'}
+        },
+    },      
+ groups: {
+primary_uri: {
+            color: {
+              border:'#325D94',
+              background: 'lightyellow',
+              highlight: {
+                  border:'#325D94',
+                  background: '#FFF59D'
+              },
+              hover: {
+                  border:'#325D94',
+                  background: '#FFF59D'
+              },
+            },
+            size: 30,
+            font: {
+                size: 18,
+                color: 'black'
+            },
+        },                   
+        predicate_uri: {
+          shape: 'box',
+          color: {
+            background: 'white',
+            border: 'lightgreen',  // overridden above
+            highlight: {
+              background: 'white',
+              border: 'red'
+            },
+            hover: {
+              background: 'white',
+              border: '#F44336'
+            },
+          },
+        },
+    }     
+  
+  
+  };
+  var network = new vis.Network(container, d, options);
+  
+  
+
+</script>
+  
+
+
+</body>
+</html>

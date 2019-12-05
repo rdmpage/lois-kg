@@ -467,7 +467,8 @@ PREFIX tn: <http://rs.tdwg.org/ontology/voc/TaxonName#>
 				schema:dataFeedElement ?item .
 	
 				?item rdf:type schema:DataFeedItem .
-                ?item tcom:publishedInCitation ?publication .
+                ?item tcom:publishedInCitation ?publishedInCitation .
+                ?publishedInCitation schema:sameAs ?publication .
               
                 ?item schema:name ?name .
                 ?item rdf:type ?type .
@@ -476,10 +477,11 @@ PREFIX tn: <http://rs.tdwg.org/ontology/voc/TaxonName#>
 			WHERE
 			{
               	VALUES ?publication { <' . $work_id . '>} .
-				?item tcom:publishedInCitation ?publication .
-              	?item rdf:type  ?type .
-               
-                ?item tn:nameComplete ?name .
+               	BIND(STR(?publication) AS ?pub_identifier )
+              	?pub schema:sameAs ?pub_identifier .
+              	?item tcom:publishedInCitation ?pub .
+               	?item rdf:type  ?type .               
+                ?item tn:nameComplete ?name .              
  			}';
  			
 			$json = sparql_construct_stream(
@@ -1149,7 +1151,13 @@ PREFIX tn: <http://rs.tdwg.org/ontology/voc/TaxonName#>
 		echo json_encode($entity, JSON_PRETTY_PRINT | JSON_UNESCAPED_SLASHES | JSON_UNESCAPED_UNICODE);
 		echo '</div>';		
 		echo '</div>';
-
+		
+		if (0)
+		{
+			echo '<h3>Network</h3>';
+			echo '<div id="mynetwork"></div>';
+			echo '</div>';
+		}
 	
 	
 
@@ -1259,7 +1267,7 @@ PREFIX tn: <http://rs.tdwg.org/ontology/voc/TaxonName#>
 				if (isset($feeds['works']))
 				{				
 					echo '<script>';
-					echo 'render(template_datafeed, { item: feed_works }, "feed_works");';
+					echo 'render(template_decade_feed, { item: feed_works }, "feed_works");';
 					echo '</script>';
 				}							
 				break;
@@ -1290,6 +1298,12 @@ PREFIX tn: <http://rs.tdwg.org/ontology/voc/TaxonName#>
 		$i++;
 	}	
 	
+	// network?
+	if (0)
+	{
+		echo '<script> show_network("mynetwork", "' . $uri . '"); </script>';
+	}
+	
 	
 	display_html_end();	
 }
@@ -1314,6 +1328,8 @@ function display_html_start($title = '', $meta = '', $script = '', $onload = '')
     <link href="https://fonts.googleapis.com/css?family=Open+Sans&display=swap" rel="stylesheet">';
 
 
+	echo '<script src="js/jquery-1.11.2.min.js"></script>';
+
 	echo '<!-- templates -->';
 	echo '<script src="js/ejs.js"></script>';
 	echo '<script src="taxon_name.js"></script>';
@@ -1324,6 +1340,7 @@ function display_html_start($title = '', $meta = '', $script = '', $onload = '')
 	echo '<script src="feed.js"></script>';
 	echo '<script src="feed_search.js"></script>';
 	echo '<script src="taxon.js"></script>';
+	echo '<script src="decade_feed.js"></script>';
 	
 	echo '<script>
 	function render(template, data, element_id) {
@@ -1335,6 +1352,9 @@ function display_html_start($title = '', $meta = '', $script = '', $onload = '')
 	document.getElementById(element_id).innerHTML = html;
 }
 </script>';
+
+  echo '<script type="text/javascript" src="vis-network.min.js"></script>';
+  echo '<script type="text/javascript" src="network.js"></script>';
 
 	echo $script;
 	
@@ -1434,6 +1454,14 @@ function display_html_start($title = '', $meta = '', $script = '', $onload = '')
   
   padding-left: 3px;
 }
+
+/* network */
+    #mynetwork {
+      width: 600px;
+      height: 400px;
+      border: 1px solid lightgray;
+    }
+
 		
 		
 	</style>

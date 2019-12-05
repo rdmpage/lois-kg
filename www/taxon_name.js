@@ -300,7 +300,17 @@ if (item['@graph']) {
 					}	
 						
 			}
+			
+			//sameAs 
+			if (item['tcom:publishedInCitation'][i]['sameAs']) {
+				publishedInCitation_html += '<li>';
+				publishedInCitation_html += '<a href="?uri=' + item['tcom:publishedInCitation'][i]['sameAs']['@id'] + '">';
+				publishedInCitation_html += get_literal(item['tcom:publishedInCitation'][i]['sameAs']['name']);
+				publishedInCitation_html += '</a>';
+				publishedInCitation_html += '</li>';
+			}
 	
+			/*
 			// schema.org (will need to handle types as array)
 			if (item['tcom:publishedInCitation'][i]['@type'] 
 				&& (
@@ -315,15 +325,19 @@ if (item['@graph']) {
 						publishedInCitation_html += get_literal(item['tcom:publishedInCitation'][i]['name']);
 						publishedInCitation_html += '</a>';
 						
-						/*
-						if (item['tcom:publishedInCitation'][i]['thumbnailUrl']) {
-							publishedInCitation_html += '<img style="float:left;height:100px;border:1px solid rgb(224,224,224);background-color:white;object-fit:contain; display:block;margin:auto;" src="http://exeg5le.cloudimg.io/s/height/100/' + item['tcom:publishedInCitation'][i]['thumbnailUrl'] + '">';
-						}
-						*/
+
+						//if (item['tcom:publishedInCitation'][i]['thumbnailUrl']) {
+						//	publishedInCitation_html += '<img style="float:left;height:100px;border:1px solid rgb(224,224,224);background-color:white;object-fit:contain; display:block;margin:auto;" src="http://exeg5le.cloudimg.io/s/height/100/' + item['tcom:publishedInCitation'][i]['thumbnailUrl'] + '">';
+						//}
+						
+						
+						
+						
 						publishedInCitation_html += '</li>';
 				
 					}			
 			}
+			*/
 		}	
 		
 		publishedInCitation_html += '</ul>';	

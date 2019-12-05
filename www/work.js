@@ -316,6 +316,14 @@ if (item['@graph']) {
 		</a>
 	<% }
 	
+	// SICI
+	id = get_property_value(item.identifier, 'sici');	  
+	if (id != '') {  %>	
+		<span class="heading">SICI</span>
+		<u><%= id %></u>
+		</a>
+	<% }	
+	
 	}
  %>	
  </div>	

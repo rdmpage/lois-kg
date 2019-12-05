@@ -6,7 +6,10 @@ require_once(dirname(dirname(__FILE__)) . '/www/config.inc.php');
 
 // Glue
 $triples_filename = 'csl.nt';
-$basename = 'csl';
+$triples_filename = 'references.nt';
+//$triples_filename = 'works.nt';
+
+$basename = str_replace('.nt', '', $triples_filename);
 $graph_uri = 'https://crossref.org';
 
 $count = 0;

@@ -1,0 +1,3652 @@
+ID   AB104560; SV 1; linear; genomic DNA; STD; PLN; 1518 BP.
+XX
+AC   AB104560;
+XX
+DT   04-DEC-2003 (Rel. 78, Created)
+DT   02-MAY-2007 (Rel. 91, Last updated, Version 2)
+XX
+DE   Cladopus hainanensis chloroplast matK gene for maturase K, complete cds,
+DE   specimen_voucher: Deng Y-F et al.16220, CH301 (Herbarium, Univ. of Tokyo).
+XX
+KW   .
+XX
+OS   Cladopus hainanensis
+OC   Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+OC   Spermatophyta; Magnoliopsida; eudicotyledons; Gunneridae; Pentapetalae;
+OC   rosids; fabids; Malpighiales; Podostemaceae; Podostemoideae; Cladopus.
+OG   Plastid:Chloroplast
+XX
+RN   [1]
+RP   1-1518
+RA   Kita Y.;
+RT   ;
+RL   Submitted (24-FEB-2003) to the INSDC.
+RL   Yoko Kita, Graduate school of Science, University of Tokyo, Department of
+RL   Biological Sciences; 7-3-1Hongo, Bunkyo-ku, Tokyo 1130033, Japan
+RL   (E-mail:sykita@mail.ecc.u-tokyo.ac.jp, Tel:81-3-5841-2969,
+RL   Fax:81-3-5841-4047)
+XX
+RN   [2]
+RX   DOI; 10.1600/0363644042451062.
+RX   AGRICOLA; IND43667965.
+RA   Kita Y., Kato M.;
+RT   "Molecular phylogeny of Cladopus and Hydrobryum (Podostemaceae,
+RT   Podostemoideae) with implications for their biogeography in East Africa";
+RL   Syst. Bot. 29(4):921-932(2004).
+XX
+DR   MD5; 524e5b901981aea8cce4ca8b93e236e5.
+XX
+FH   Key             Location/Qualifiers
+FH
+FT   source          1..1518
+FT                   /organism="Cladopus hainanensis"
+FT                   /organelle="plastid:chloroplast"
+FT                   /mol_type="genomic DNA"
+FT                   /country="China:Lingshui, Hainan"
+FT                   /specimen_voucher="Deng Y-F et al.16220, CH301 (Herbarium,
+FT                   Univ. of Tokyo)"
+FT                   /db_xref="taxon:222650"
+FT   CDS             1..1518
+FT                   /codon_start=1
+FT                   /transl_table=11
+FT                   /gene="matK"
+FT                   /product="maturase K"
+FT                   /db_xref="GOA:Q76FZ6"
+FT                   /db_xref="InterPro:IPR002866"
+FT                   /db_xref="InterPro:IPR024937"
+FT                   /db_xref="InterPro:IPR024942"
+FT                   /db_xref="UniProtKB/TrEMBL:Q76FZ6"
+FT                   /protein_id="BAD02855.1"
+FT                   /translation="MGEKKDQRYLDLVISRQNYFLYPLIFQEYIYTLTHDHNFFPTILL
+FT                   ENLGYDKRFRFLIVKRLITRMYQQNHLSLSVANLRENPYFLYNKVLYSQKISEGLAIIV
+FT                   AIPFYPQLGTFFKNFELVKVQNLQSIHSIFPFLEDKFPYLNLVSDGLFPYPIHLEKLIQ
+FT                   ILRYWLKDPSSLHFLRFFFHEYWNWNHPIFQKKSNSFFEKRNLRLFVFLYNSYVYESES
+FT                   ILFFIRRQFFHLPSKPFRFFFERLYFYGKVENFTEVFSKGCAMTLALFKDPNMHYIRYQ
+FT                   GKFFFAYRGMPLLMNKWKYYFVTLFQNNFDVWLKPDKIHINPLYKHSFYCVGYLLSLKR
+FT                   NPSVIRSQMLLNAFRIENTMKKMDIRVPIILMIDSLSKMQFCNKMGHPISKPIWIDSLD
+FT                   SDIIARFGRLCNKISYFYSGSSKKKDLYQIQYILRFACLKTLARKHKTSVRAFFKKQSS
+FT                   SFLENFFLENQISSLILIRASYRSSDRTKVRVWYLDIISINDLINHE"
+XX
+SQ   Sequence 1518 BP; 487 A; 237 C; 213 G; 581 T; 0 other;
+     atgggagaaa aaaaagatca aagatattta gatttagtta tatctcgtca aaattacttc        60
+     ctatacccac ttatttttca agagtatatt tatacactta ctcatgatca taattttttt       120
+     ccaacaatat tgttggaaaa tttaggttat gacaaaagat tccgtttttt aattgtaaaa       180
+     cgtttaatta ctcgaatgta tcaacagaat catttgagtc tttctgttgc aaatttgaga       240
+     gaaaatccat attttctcta caataaagtt ttatattctc aaaagatatc agaggggctt       300
+     gcaatcattg ttgcaattcc attttacccc caattgggga cttttttcaa aaattttgaa       360
+     ttggtcaaag ttcaaaattt acaatcaatt cattcaatat ttcccttttt agaggataaa       420
+     tttccctatt taaatttggt gtccgatggg ttattccctt accccattca tcttgaaaaa       480
+     ttgattcaaa ttcttcgtta ctggttaaaa gatccatctt ctttacattt tttacgcttt       540
+     ttttttcatg agtattggaa ttggaaccat cccatttttc aaaaaaaatc aaattctttt       600
+     tttgaaaaac gaaatctacg attatttgtg ttcttatata attcttatgt atatgaatcc       660
+     gaatccattt tattttttat tcgtcgccaa ttttttcatt taccatccaa accttttcgg       720
+     tttttttttg aaagacttta tttctatgga aaagtagaga attttacaga ggtttttagt       780
+     aagggttgcg ccatgacttt agcgttgttc aaagacccga atatgcatta tattcgctat       840
+     caaggaaaat tcttttttgc ttataggggt atgcctcttt taatgaacaa gtggaaatac       900
+     tactttgtta ctttatttca aaataatttt gatgtctggt tgaaaccaga caagatacat       960
+     atcaatccat tatataagca ttcattctac tgtgttggtt atcttttaag tttaaaacgg      1020
+     aatccttcag tgatacgaag tcaaatgcta ctaaatgcgt ttcgtataga gaatactatg      1080
+     aagaaaatgg atatacgagt tccaattatt ctcatgattg actcattatc caaaatgcaa      1140
+     ttttgtaata aaatgggtca tcccattagc aaaccaattt ggatcgattc attggattca      1200
+     gatattattg cccgatttgg gcgtctatgc aataaaattt catattttta tagtggatcc      1260
+     tcaaaaaaaa aagatttgta tcaaatacag tatatacttc gatttgcttg tttaaaaacc      1320
+     ttggctcgga aacacaaaac ctcggtccgg gcttttttta aaaaacaaag ttcatccttt      1380
+     ttagaaaatt tttttctaga aaaccagatt tcttctttga tccttataag agcctcatat      1440
+     agatcgtcag atcgaactaa agttcgggtt tggtatttgg atattatttc tattaatgat      1500
+     ctaatcaatc atgaataa                                                    1518
+//
+ID   LC144911; SV 1; linear; genomic DNA; STD; PLN; 1518 BP.
+XX
+AC   LC144911;
+XX
+DT   05-OCT-2016 (Rel. 130, Created)
+DT   05-OCT-2016 (Rel. 130, Last updated, Version 1)
+XX
+DE   Cladopus austrosinensis chloroplast matK gene for maturase K, complete cds.
+XX
+KW   .
+XX
+OS   Cladopus austrosinensis
+OC   Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+OC   Spermatophyta; Magnoliopsida; eudicotyledons; Gunneridae; Pentapetalae;
+OC   rosids; fabids; Malpighiales; Podostemaceae; Podostemoideae; Cladopus.
+OG   Plastid:Chloroplast
+XX
+RN   [1]
+RP   1-1518
+RA   Koi S., Kato M.;
+RT   ;
+RL   Submitted (04-APR-2016) to the INSDC.
+RL   Contact:Satoshi Koi Osaka City University, Faculty of Science; 2000
+RL   Kisaichi, Katano, Osaka 576-0004, Japan URL    :http://www.osaka-cu.ac.jp/
+XX
+RN   [2]
+RA   Kato M., Wong M., Lo J.;
+RT   "A Cladopus species (Podostemaceae) rediscovered from Hong Kong";
+RL   Unpublished.
+XX
+DR   MD5; c856d511ea1864460b8aa876fc9a3079.
+XX
+FH   Key             Location/Qualifiers
+FH
+FT   source          1..1518
+FT                   /organism="Cladopus austrosinensis"
+FT                   /organelle="plastid:chloroplast"
+FT                   /mol_type="genomic DNA"
+FT                   /collected_by="Kokubugata"
+FT                   /db_xref="taxon:1825864"
+FT   CDS             1..1518
+FT                   /codon_start=1
+FT                   /transl_table=11
+FT                   /gene="matK"
+FT                   /product="maturase K"
+FT                   /db_xref="GOA:A0A1E1FFQ0"
+FT                   /db_xref="InterPro:IPR002866"
+FT                   /db_xref="InterPro:IPR024937"
+FT                   /db_xref="InterPro:IPR024942"
+FT                   /db_xref="UniProtKB/TrEMBL:A0A1E1FFQ0"
+FT                   /protein_id="BAV69336.1"
+FT                   /translation="MGEKKDQRYLDLVISRQNYFLYPLIFQEYIYTLTHDHNFFPTILL
+FT                   ENLGYDKRFRFLIVKRLITRMYQQNHLSLSVANLRENPYFLYNKVLYSQKISEGLAIIV
+FT                   AIPFYPQLGTFFKNFELVKVQNLQSIHSIFPFLEDKFPYLNLVSDGLFPYPIHLEKLIQ
+FT                   ILRYWLKDPSSLHFLRFFFHEYWNWNHPIFQKKSNSFFEKRNLRLFVFLYNSYVYESES
+FT                   ILFFIRRQFFHLPSKPFRFFFERLYFYGKVENFTEVFSKGCAMTLALFKDPNMHYIRYQ
+FT                   GKFFFAYRGMPLLMNKWKYYFVTLFQNNFDVWLKPDKIHINPLYKHSFYCVGYLLSLKQ
+FT                   NPSVIRSQMLLNAFRIENTMKKMDIRVPIILMIDSLSKMQFCNKMGHPISKPIWIDSLD
+FT                   SDIIDRFVRLCNKISYFYSGSSKKKDLYQIQYILRFACLKTLARKHKTSVRAFFKKQSS
+FT                   SFLENFFLENQISSLILIRSSYRSSDRTKVRVWYLDIISINDLINHE"
+XX
+SQ   Sequence 1518 BP; 490 A; 236 C; 209 G; 583 T; 0 other;
+     atgggagaaa aaaaagatca aagatattta gatttagtta tatctcgtca aaattacttc        60
+     ctatacccac ttatttttca agagtatatt tatacactta ctcatgatca taattttttt       120
+     ccaacaatat tgttggaaaa tttaggttat gacaaaagat tccgtttttt aattgtaaaa       180
+     cgtttaatta ctcgaatgta tcaacagaat catttgagtc tttctgttgc aaatttgaga       240
+     gaaaatccat attttctcta caataaagtt ttatattctc aaaagatatc agaggggctt       300
+     gcaatcattg ttgcaattcc attttacccc caattgggga cttttttcaa aaattttgaa       360
+     ttggtcaaag ttcaaaattt acaatcaatt cattcaatat ttcccttttt agaggataaa       420
+     tttccctatt taaatttggt gtccgatggg ttattccctt accccattca tcttgaaaaa       480
+     ttgattcaaa ttcttcgtta ctggttaaaa gatccatctt ctttacattt tttacgcttt       540
+     ttttttcatg agtattggaa ttggaaccat cccatttttc aaaaaaaatc aaattctttt       600
+     tttgaaaaaa gaaatctacg attatttgtg ttcttatata attcttatgt atatgaatcc       660
+     gaatccattt tattttttat tcgtcgccaa ttttttcatt taccatccaa accttttcgg       720
+     tttttttttg aaagacttta tttctatgga aaagtagaga attttacaga ggtttttagt       780
+     aagggttgcg ccatgacttt agcgttgttc aaagacccga atatgcatta tattcgctat       840
+     caaggaaaat tcttttttgc ttataggggt atgcctcttt taatgaacaa gtggaaatac       900
+     tactttgtta ctttatttca aaataatttt gatgtctggt tgaaaccaga caagatacat       960
+     atcaatccat tatataagca ttcattctac tgtgttggtt atcttttaag tttaaaacag      1020
+     aatccttcag tgatacgaag tcaaatgcta ctaaatgcgt ttcgtataga gaatactatg      1080
+     aagaaaatgg atatacgagt tccaattatt ctcatgattg actcattatc caaaatgcaa      1140
+     ttttgtaata aaatgggtca tcccattagc aaaccaatct ggatcgattc attggattca      1200
+     gatattattg accgatttgt gcgtctatgc aataaaattt catattttta tagtggatcc      1260
+     tcaaaaaaaa aagatttgta tcaaatacag tatatacttc gatttgcttg tttaaaaacc      1320
+     ttggctcgga aacacaaaac ctcggtccgt gcttttttta aaaaacaaag ttcatccttt      1380
+     ttagaaaatt tttttctaga aaaccagatt tcttctttga tccttataag atcctcatat      1440
+     agatcgtcag atcgaactaa agttcgggtt tggtatttgg atattatttc tattaatgat      1500
+     ctaatcaatc atgaataa                                                    1518
+//
+ID   AB048371; SV 1; linear; genomic DNA; STD; PLN; 1518 BP.
+XX
+AC   AB048371;
+XX
+DT   10-MAR-2001 (Rel. 67, Created)
+DT   16-JAN-2003 (Rel. 74, Last updated, Version 3)
+XX
+DE   Cladopus austroosumiensis chloroplast matK gene for maturase K, complete
+DE   cds.
+XX
+KW   .
+XX
+OS   Cladopus austro-osumiensis
+OC   Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+OC   Spermatophyta; Magnoliopsida; eudicotyledons; Gunneridae; Pentapetalae;
+OC   rosids; fabids; Malpighiales; Podostemaceae; Podostemoideae; Cladopus.
+OG   Plastid:Chloroplast
+XX
+RN   [1]
+RP   1-1518
+RA   Kita Y., Kato M.;
+RT   ;
+RL   Submitted (06-SEP-2000) to the INSDC.
+RL   Yoko Kita, Graduate school of Science, University of Tokyo, Department of
+RL   Biological Sciences; 7-3-1 Hongo, Bunkyo-ku 113-0033, Japan
+RL   (E-mail:sykita@mail.ecc.u-tokyo.ac.jp, Tel:81-3-2841-4047,
+RL   Fax:81-3-2841-4047)
+XX
+RN   [2]
+RA   Kita Y., Kato M.;
+RT   "Infrafamilial Phylogeny of the Aquatic Angiosperm Podostemaceae Inferred
+RT   from the Nucleotide Sequences of the matK Gene";
+RL   Plant Biol. 3:156-163(2001).
+XX
+DR   MD5; cd0eee1f1b60dac5ae2d0fdc42543de8.
+XX
+FH   Key             Location/Qualifiers
+FH
+FT   source          1..1518
+FT                   /organism="Cladopus austro-osumiensis"
+FT                   /organelle="plastid:chloroplast"
+FT                   /mol_type="genomic DNA"
+FT                   /db_xref="taxon:56906"
+FT   CDS             1..1518
+FT                   /codon_start=1
+FT                   /transl_table=11
+FT                   /gene="matK"
+FT                   /product="maturase K"
+FT                   /db_xref="GOA:Q9BBG7"
+FT                   /db_xref="InterPro:IPR002866"
+FT                   /db_xref="InterPro:IPR024937"
+FT                   /db_xref="InterPro:IPR024942"
+FT                   /db_xref="UniProtKB/TrEMBL:Q9BBG7"
+FT                   /protein_id="BAB33391.1"
+FT                   /translation="MGEKKDQRYLDLVISRQNYFLYPLIFQEYIYTLTHDHNFFPTILL
+FT                   ENLGYDKRFRFLILKRLITRMYQQNHLSLSVANLRENPYFLYNKVLYSQKISEGLAIIV
+FT                   AIPFYPQLGTFFKNFELVKVQNLQSIHSIFPFLEDKFPYLNLVSDGLFPYPIHLEKLIQ
+FT                   ILRYWLKDPSSLHFLRFFFHEYWNWNHPIFQKKSNSFFEKRNIRLFVFLYNSYVYESES
+FT                   ILFFIRRQFFHLPSKPFRFFFERLYFYGKVENFTEVFSKGCAMTLALFKDPNMHYIRYQ
+FT                   GKFFFAYRGMPLLMNKWKYYFVTLFQNYFDVWLKPDKIHINPLYKHSFYCVGYLLSLKR
+FT                   NPSVIRSQMLLNAFRIENTMKKMDIRVPIILMIDSLSKMQFCNKMGHPISKPIWIDSLD
+FT                   SDIIERFVRLCNKISYFYSGSSKKKDLYQIQYILRFACLKTLARKHKTSVRAFFKKQSS
+FT                   SFLENFFLENQISSLILIRSSYRSSDRTKVRVWYLDIISINDLINHE"
+XX
+SQ   Sequence 1518 BP; 490 A; 235 C; 209 G; 584 T; 0 other;
+     atgggagaaa aaaaagatca aagatattta gatttagtta tatctcgtca aaattacttc        60
+     ctatacccac ttatttttca agagtatatt tatacactta ctcatgatca taattttttt       120
+     ccaacaatat tgttggaaaa tttaggttat gacaaaagat tccgtttttt aattctaaaa       180
+     cgtttaatta ctcgaatgta tcaacagaat catttgagtc tttctgttgc aaatttgaga       240
+     gaaaatccat attttctcta caataaagtt ttatattctc aaaagatatc agaggggctt       300
+     gcaatcattg ttgcaattcc attttacccc caattgggga cttttttcaa aaattttgaa       360
+     ttggtcaaag ttcaaaattt acaatcaatt cattcaatat ttcccttttt agaggataaa       420
+     tttccctatt taaatttggt gtccgatggg ttattccctt accccattca tcttgaaaaa       480
+     ttgattcaaa ttcttcgtta ctggttaaaa gatccatctt ctttacattt tttacgcttt       540
+     ttttttcatg agtattggaa ttggaaccat cccatttttc aaaaaaaatc aaattctttt       600
+     tttgaaaaaa gaaatatacg attatttgtg ttcttatata attcttatgt atatgaatcc       660
+     gaatccattt tattttttat tcgtcgccaa ttttttcatt taccatccaa accttttcgg       720
+     tttttttttg aaagacttta tttctatgga aaagtagaga attttacaga ggtttttagt       780
+     aagggttgcg ccatgacttt agcgttgttc aaagacccga atatgcatta tattcgctat       840
+     caaggaaaat tcttttttgc ttataggggt atgcctcttt taatgaacaa gtggaaatac       900
+     tactttgtta ctttatttca aaattatttt gatgtctggt tgaaaccaga caagatacat       960
+     atcaatccat tatataagca ttcattctac tgtgttggtt atcttttaag tttaaaacgg      1020
+     aatccttcag tgatacgaag tcaaatgcta ctaaatgcgt ttcgtataga gaatactatg      1080
+     aagaaaatgg atatacgagt tccaattatt ctcatgattg actcattatc caaaatgcaa      1140
+     ttttgtaata aaatgggtca tcccattagc aaaccaatct ggatcgattc attggattca      1200
+     gatattattg aacgatttgt gcgtctatgc aataaaattt catattttta tagtggatcc      1260
+     tcaaaaaaaa aagatttgta tcaaatacag tatatacttc gatttgcttg tttaaaaacc      1320
+     ttggctcgga aacacaaaac ctcggtccgt gcttttttta aaaaacaaag ttcatccttt      1380
+     ttagaaaatt tttttctaga aaaccagatt tcttctttga tccttataag atcctcatat      1440
+     agatcgtcag atcgaactaa agttcgggtt tggtatttgg atattatttc tattaatgat      1500
+     ctaatcaatc atgaataa                                                    1518
+//
+ID   AB104559; SV 1; linear; genomic DNA; STD; PLN; 1518 BP.
+XX
+AC   AB104559;
+XX
+DT   04-DEC-2003 (Rel. 78, Created)
+DT   02-MAY-2007 (Rel. 91, Last updated, Version 2)
+XX
+DE   Cladopus hainanensis chloroplast matK gene for maturase K, complete cds,
+DE   specimen_voucher: Deng Y-F et al.16222, CH302 (Herbarium, Univ. of Tokyo).
+XX
+KW   .
+XX
+OS   Cladopus hainanensis
+OC   Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+OC   Spermatophyta; Magnoliopsida; eudicotyledons; Gunneridae; Pentapetalae;
+OC   rosids; fabids; Malpighiales; Podostemaceae; Podostemoideae; Cladopus.
+OG   Plastid:Chloroplast
+XX
+RN   [1]
+RP   1-1518
+RA   Kita Y.;
+RT   ;
+RL   Submitted (24-FEB-2003) to the INSDC.
+RL   Yoko Kita, Graduate school of Science, University of Tokyo, Department of
+RL   Biological Sciences; 7-3-1Hongo, Bunkyo-ku, Tokyo 1130033, Japan
+RL   (E-mail:sykita@mail.ecc.u-tokyo.ac.jp, Tel:81-3-5841-2969,
+RL   Fax:81-3-5841-4047)
+XX
+RN   [2]
+RX   DOI; 10.1600/0363644042451062.
+RX   AGRICOLA; IND43667965.
+RA   Kita Y., Kato M.;
+RT   "Molecular phylogeny of Cladopus and Hydrobryum (Podostemaceae,
+RT   Podostemoideae) with implications for their biogeography in East Africa";
+RL   Syst. Bot. 29(4):921-932(2004).
+XX
+DR   MD5; 19bb50ed11e607329ce0ae1cbf625843.
+XX
+FH   Key             Location/Qualifiers
+FH
+FT   source          1..1518
+FT                   /organism="Cladopus hainanensis"
+FT                   /organelle="plastid:chloroplast"
+FT                   /mol_type="genomic DNA"
+FT                   /country="China:Guangdong, Dianbai"
+FT                   /specimen_voucher="Deng Y-F et al.16222, CH302 (Herbarium,
+FT                   Univ. of Tokyo)"
+FT                   /db_xref="taxon:222650"
+FT   CDS             1..1518
+FT                   /codon_start=1
+FT                   /transl_table=11
+FT                   /gene="matK"
+FT                   /product="maturase K"
+FT                   /db_xref="GOA:Q76FZ7"
+FT                   /db_xref="InterPro:IPR002866"
+FT                   /db_xref="InterPro:IPR024937"
+FT                   /db_xref="InterPro:IPR024942"
+FT                   /db_xref="UniProtKB/TrEMBL:Q76FZ7"
+FT                   /protein_id="BAD02854.1"
+FT                   /translation="MGEKKDQRYLDLVISRQNYFLYPLIFQEYIYTLTHDHNFFPTILL
+FT                   ENLGYDKRFRFLILKRLITRMYQQNHLSLSVANLRENPYFLYNKVLYSQKISEGLAIIV
+FT                   AIPFYPQLGTFLKNFELVKVQNLQSIHSIFPFLEDKFPYLNLVSDGLFPYPIHLEKLIQ
+FT                   ILRYWLKDPSSLHFLRFFFHEYWNWNHPIFKKKSNSFFEKRNLRLFVFLYNSYVYESES
+FT                   ILFFIRRQFFHLPSKPFRFFFERLYFYGKVENFTEVFSKGCAMTLALFKDPNMHYIRYQ
+FT                   GKFFFAYRGMPLLMNKWKYYFVTLFQNNFDVWLKPDKIHINPLYKHSFYCVGYLLSLKR
+FT                   NPSVIRSQMLLNAFRIENTMKKMDIRVPIILMIDSLSKMQFCNKMGHPISKPIWIDSLD
+FT                   SDIIDRFVRLCNKISYFYSGSSKKKDLYQIQYILRFACLKTLARKHKTSVRAFFKKQSS
+FT                   SFLENFFLENQISSLILIRSSYRSSDRTKVRVWYLDIISINDLINHE"
+XX
+SQ   Sequence 1518 BP; 491 A; 236 C; 209 G; 582 T; 0 other;
+     atgggagaaa aaaaagatca aagatattta gatttagtta tatctcgtca aaattacttc        60
+     ctatacccac ttatttttca agagtatatt tatacactta ctcatgatca taattttttt       120
+     ccaacaatat tgttggaaaa tttaggttat gacaaaagat tccgtttttt aattctaaaa       180
+     cgtttaatta ctcgaatgta tcaacagaat catttgagtc tttctgttgc aaatttgaga       240
+     gaaaatccat attttctcta caataaagtt ttatattctc aaaagatatc agaggggctt       300
+     gcaatcattg ttgcaattcc attttacccc caattgggga cttttttaaa aaattttgaa       360
+     ttggtcaaag ttcaaaattt acaatcaatt cattcaatat ttcccttttt agaggataaa       420
+     tttccctatt taaatttggt gtccgatggg ttattccctt accccattca tcttgaaaaa       480
+     ttgattcaaa ttcttcgtta ctggttaaaa gatccatctt ctttacattt tttacgcttt       540
+     ttttttcatg agtattggaa ttggaaccat cccattttca aaaaaaaatc aaattctttt       600
+     tttgaaaaaa gaaatctacg attatttgtg ttcttatata attcttatgt atatgaatcc       660
+     gaatccattt tattttttat tcgtcgccaa ttttttcatt taccatccaa accttttcgg       720
+     tttttttttg aaagacttta tttctatgga aaagtagaga attttacaga ggtttttagt       780
+     aagggttgcg ccatgacttt agcgttgttc aaagacccga atatgcatta tattcgctat       840
+     caaggaaaat tcttttttgc ttataggggt atgcctcttt taatgaacaa gtggaaatac       900
+     tactttgtta ctttatttca aaataatttt gatgtctggt tgaaaccaga caagatacat       960
+     atcaatccat tatataagca ttcattctac tgtgttggtt atcttttaag tttaaaacgg      1020
+     aatccttcag tgatacgaag tcaaatgcta ctaaatgcgt ttcgtataga gaatactatg      1080
+     aagaaaatgg atatacgagt tccaattatt ctcatgattg actcattatc caaaatgcaa      1140
+     ttttgtaata aaatgggtca tcccattagc aaaccaatct ggatcgattc attggattca      1200
+     gatattattg accgatttgt gcgtctatgc aataaaattt catattttta tagtggatcc      1260
+     tcaaaaaaaa aagatttgta tcaaatacag tatatacttc gatttgcttg tttaaaaacc      1320
+     ttggctcgga aacacaaaac ctcggtccgt gcttttttta aaaaacaaag ttcatccttt      1380
+     ttagaaaatt tttttctaga aaaccagatt tcttctttga tccttataag atcctcatat      1440
+     agatcgtcag atcgaactaa agttcgggtt tggtatttgg atattatttc tattaatgat      1500
+     ctaatcaatc atgaataa                                                    1518
+//
+ID   LC144913; SV 1; linear; genomic DNA; STD; PLN; 1518 BP.
+XX
+AC   LC144913;
+XX
+DT   05-OCT-2016 (Rel. 130, Created)
+DT   05-OCT-2016 (Rel. 130, Last updated, Version 1)
+XX
+DE   Cladopus fukienensis chloroplast matK gene for maturase K, complete cds,
+DE   specimen_voucher: TNS:Kato et al. HongKongHK2.
+XX
+KW   .
+XX
+OS   Cladopus fukienensis
+OC   Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+OC   Spermatophyta; Magnoliopsida; eudicotyledons; Gunneridae; Pentapetalae;
+OC   rosids; fabids; Malpighiales; Podostemaceae; Podostemoideae; Cladopus.
+OG   Plastid:Chloroplast
+XX
+RN   [1]
+RP   1-1518
+RA   Koi S., Kato M.;
+RT   ;
+RL   Submitted (04-APR-2016) to the INSDC.
+RL   Contact:Satoshi Koi Osaka City University, Faculty of Science; 2000
+RL   Kisaichi, Katano, Osaka 576-0004, Japan URL    :http://www.osaka-cu.ac.jp/
+XX
+RN   [2]
+RA   Kato M., Wong M., Lo J.;
+RT   "A Cladopus species (Podostemaceae) rediscovered from Hong Kong";
+RL   Unpublished.
+XX
+DR   MD5; f5785da0baf1eed5e47601ac316856fa.
+XX
+FH   Key             Location/Qualifiers
+FH
+FT   source          1..1518
+FT                   /organism="Cladopus fukienensis"
+FT                   /organelle="plastid:chloroplast"
+FT                   /mol_type="genomic DNA"
+FT                   /country="Hong Kong:Wo Yl Hop"
+FT                   /specimen_voucher="TNS:Kato et al. HongKongHK2"
+FT                   /collected_by="Masahiro Kato"
+FT                   /collection_date="2015-11-26"
+FT                   /db_xref="taxon:222649"
+FT   CDS             1..1518
+FT                   /codon_start=1
+FT                   /transl_table=11
+FT                   /gene="matK"
+FT                   /product="maturase K"
+FT                   /db_xref="GOA:A0A1E1FFR0"
+FT                   /db_xref="InterPro:IPR002866"
+FT                   /db_xref="InterPro:IPR024937"
+FT                   /db_xref="InterPro:IPR024942"
+FT                   /db_xref="UniProtKB/TrEMBL:A0A1E1FFR0"
+FT                   /protein_id="BAV69338.1"
+FT                   /translation="MGEKKDQRYLDLVISRQNYFLYPLIFQEYIYTLTHDHNFFPTILL
+FT                   ENLGYDKRFRFLILKRLITRMYQQNHLSLSVANFRENPYFLYNKVLYSQKISEGLAIIV
+FT                   AIPFYPQLGTFFKNFELVKVQNLQSIHSIFPFLEDKFPYLNLVSDGLFPYPIHLEKLIQ
+FT                   ILRYWLKDPSSLHFLRFFFHEYWNWNHPIFQKKSNSFFEKRNIRLFVFLYNSYVYESES
+FT                   ILFFIRRQFFHLPSKPFRFFFERLYFYGKVENFTEVFSKGCAMTLALFKDPNMHYIRYQ
+FT                   GKFFFAYRGMPLLMNKWKYYFVTLFQNYFDVWFQPDKIHINPLYKHSFYCVGYLLSLKR
+FT                   NPSVIRSQMLLNAFRIENTMKKMDIRVPIILMIDSLSKMQFCNKMGHPISKPIWIDSLD
+FT                   SDIIERFVRLCNKISYFYSGSSKKKDLYQIQYILRFACLKTLARKHKTSVRAFFKKQSS
+FT                   SFLENFFLENQISSLILIRSSYRSSDRTKVRVWYLDIISINDLINHE"
+XX
+SQ   Sequence 1518 BP; 489 A; 236 C; 207 G; 586 T; 0 other;
+     atgggagaaa aaaaagatca aagatattta gatttagtta tatctcgtca aaattacttc        60
+     ctatacccac ttatttttca agagtatatt tatacactta ctcatgatca taattttttt       120
+     ccaacaatat tgttggaaaa tttaggttat gacaaaagat tccgtttttt aattctaaaa       180
+     cgtttaatta ctcgaatgta tcaacagaat catttgagtc tttctgttgc aaattttaga       240
+     gaaaatccat attttctcta caataaagtt ttatattctc aaaagatatc agaggggctt       300
+     gcaatcattg ttgcaattcc attttacccc caattgggga cttttttcaa aaattttgaa       360
+     ttggtcaaag ttcaaaattt acaatcaatt cattcaatat ttcccttttt agaggataaa       420
+     tttccctatt taaatttggt gtccgatggg ttattccctt accccattca tcttgaaaaa       480
+     ttgattcaaa ttcttcgtta ctggttaaaa gatccatctt ctttacattt tttacgcttt       540
+     ttttttcatg agtattggaa ttggaaccat cccatttttc aaaaaaaatc aaattctttt       600
+     tttgaaaaaa gaaatatacg attatttgtg ttcttatata attcttatgt atatgaatcc       660
+     gaatccattt tattttttat tcgtcgccaa ttttttcatt taccatccaa accttttcgg       720
+     tttttttttg aaagacttta tttctatgga aaagtagaga attttacaga ggtttttagt       780
+     aagggttgcg ccatgacttt agcgttgttc aaagacccga atatgcatta tattcgctat       840
+     caaggaaaat tcttttttgc ttataggggt atgcctcttt taatgaacaa gtggaaatac       900
+     tactttgtta ctttatttca aaattatttt gatgtctggt ttcaaccaga caagatacat       960
+     atcaatccat tatataagca ttcattctac tgtgttggtt atcttttaag tttaaaacgg      1020
+     aatccttcag tgatacgaag tcaaatgcta ctaaatgcgt ttcgtataga gaatactatg      1080
+     aagaaaatgg atatacgagt tccaattatt ctcatgattg actcattatc caaaatgcaa      1140
+     ttttgtaata aaatgggtca tcccattagc aaaccaatct ggatcgattc attggattca      1200
+     gatattattg aacgatttgt gcgtctatgc aataaaattt catattttta tagtggatcc      1260
+     tcaaaaaaaa aagatttgta tcaaatacag tatatacttc gatttgcttg tttaaaaacc      1320
+     ttggctcgga aacacaaaac ctcggtccgt gcttttttta aaaaacaaag ttcatccttt      1380
+     ttagaaaatt tttttctaga aaaccagatt tcttctttga tccttataag atcctcatat      1440
+     agatcgtcag atcgaactaa agttcgggtt tggtatttgg atattatttc tattaatgat      1500
+     ctaatcaatc atgaataa                                                    1518
+//
+ID   LC144912; SV 1; linear; genomic DNA; STD; PLN; 1518 BP.
+XX
+AC   LC144912;
+XX
+DT   05-OCT-2016 (Rel. 130, Created)
+DT   05-OCT-2016 (Rel. 130, Last updated, Version 1)
+XX
+DE   Cladopus fukienensis chloroplast matK gene for maturase K, complete cds,
+DE   specimen_voucher: TNS:Kato et al. HongKongSN.
+XX
+KW   .
+XX
+OS   Cladopus fukienensis
+OC   Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+OC   Spermatophyta; Magnoliopsida; eudicotyledons; Gunneridae; Pentapetalae;
+OC   rosids; fabids; Malpighiales; Podostemaceae; Podostemoideae; Cladopus.
+OG   Plastid:Chloroplast
+XX
+RN   [1]
+RP   1-1518
+RA   Koi S., Kato M.;
+RT   ;
+RL   Submitted (04-APR-2016) to the INSDC.
+RL   Contact:Satoshi Koi Osaka City University, Faculty of Science; 2000
+RL   Kisaichi, Katano, Osaka 576-0004, Japan URL    :http://www.osaka-cu.ac.jp/
+XX
+RN   [2]
+RA   Kato M., Wong M., Lo J.;
+RT   "A Cladopus species (Podostemaceae) rediscovered from Hong Kong";
+RL   Unpublished.
+XX
+DR   MD5; f5785da0baf1eed5e47601ac316856fa.
+XX
+FH   Key             Location/Qualifiers
+FH
+FT   source          1..1518
+FT                   /organism="Cladopus fukienensis"
+FT                   /organelle="plastid:chloroplast"
+FT                   /mol_type="genomic DNA"
+FT                   /country="Hong Kong:Kwong Pan Tin San Tsuen"
+FT                   /specimen_voucher="TNS:Kato et al. HongKongSN"
+FT                   /collected_by="Masahiro Kato"
+FT                   /collection_date="2015-11-26"
+FT                   /db_xref="taxon:222649"
+FT   CDS             1..1518
+FT                   /codon_start=1
+FT                   /transl_table=11
+FT                   /gene="matK"
+FT                   /product="maturase K"
+FT                   /db_xref="GOA:A0A1E1FFR0"
+FT                   /db_xref="InterPro:IPR002866"
+FT                   /db_xref="InterPro:IPR024937"
+FT                   /db_xref="InterPro:IPR024942"
+FT                   /db_xref="UniProtKB/TrEMBL:A0A1E1FFR0"
+FT                   /protein_id="BAV69337.1"
+FT                   /translation="MGEKKDQRYLDLVISRQNYFLYPLIFQEYIYTLTHDHNFFPTILL
+FT                   ENLGYDKRFRFLILKRLITRMYQQNHLSLSVANFRENPYFLYNKVLYSQKISEGLAIIV
+FT                   AIPFYPQLGTFFKNFELVKVQNLQSIHSIFPFLEDKFPYLNLVSDGLFPYPIHLEKLIQ
+FT                   ILRYWLKDPSSLHFLRFFFHEYWNWNHPIFQKKSNSFFEKRNIRLFVFLYNSYVYESES
+FT                   ILFFIRRQFFHLPSKPFRFFFERLYFYGKVENFTEVFSKGCAMTLALFKDPNMHYIRYQ
+FT                   GKFFFAYRGMPLLMNKWKYYFVTLFQNYFDVWFQPDKIHINPLYKHSFYCVGYLLSLKR
+FT                   NPSVIRSQMLLNAFRIENTMKKMDIRVPIILMIDSLSKMQFCNKMGHPISKPIWIDSLD
+FT                   SDIIERFVRLCNKISYFYSGSSKKKDLYQIQYILRFACLKTLARKHKTSVRAFFKKQSS
+FT                   SFLENFFLENQISSLILIRSSYRSSDRTKVRVWYLDIISINDLINHE"
+XX
+SQ   Sequence 1518 BP; 489 A; 236 C; 207 G; 586 T; 0 other;
+     atgggagaaa aaaaagatca aagatattta gatttagtta tatctcgtca aaattacttc        60
+     ctatacccac ttatttttca agagtatatt tatacactta ctcatgatca taattttttt       120
+     ccaacaatat tgttggaaaa tttaggttat gacaaaagat tccgtttttt aattctaaaa       180
+     cgtttaatta ctcgaatgta tcaacagaat catttgagtc tttctgttgc aaattttaga       240
+     gaaaatccat attttctcta caataaagtt ttatattctc aaaagatatc agaggggctt       300
+     gcaatcattg ttgcaattcc attttacccc caattgggga cttttttcaa aaattttgaa       360
+     ttggtcaaag ttcaaaattt acaatcaatt cattcaatat ttcccttttt agaggataaa       420
+     tttccctatt taaatttggt gtccgatggg ttattccctt accccattca tcttgaaaaa       480
+     ttgattcaaa ttcttcgtta ctggttaaaa gatccatctt ctttacattt tttacgcttt       540
+     ttttttcatg agtattggaa ttggaaccat cccatttttc aaaaaaaatc aaattctttt       600
+     tttgaaaaaa gaaatatacg attatttgtg ttcttatata attcttatgt atatgaatcc       660
+     gaatccattt tattttttat tcgtcgccaa ttttttcatt taccatccaa accttttcgg       720
+     tttttttttg aaagacttta tttctatgga aaagtagaga attttacaga ggtttttagt       780
+     aagggttgcg ccatgacttt agcgttgttc aaagacccga atatgcatta tattcgctat       840
+     caaggaaaat tcttttttgc ttataggggt atgcctcttt taatgaacaa gtggaaatac       900
+     tactttgtta ctttatttca aaattatttt gatgtctggt ttcaaccaga caagatacat       960
+     atcaatccat tatataagca ttcattctac tgtgttggtt atcttttaag tttaaaacgg      1020
+     aatccttcag tgatacgaag tcaaatgcta ctaaatgcgt ttcgtataga gaatactatg      1080
+     aagaaaatgg atatacgagt tccaattatt ctcatgattg actcattatc caaaatgcaa      1140
+     ttttgtaata aaatgggtca tcccattagc aaaccaatct ggatcgattc attggattca      1200
+     gatattattg aacgatttgt gcgtctatgc aataaaattt catattttta tagtggatcc      1260
+     tcaaaaaaaa aagatttgta tcaaatacag tatatacttc gatttgcttg tttaaaaacc      1320
+     ttggctcgga aacacaaaac ctcggtccgt gcttttttta aaaaacaaag ttcatccttt      1380
+     ttagaaaatt tttttctaga aaaccagatt tcttctttga tccttataag atcctcatat      1440
+     agatcgtcag atcgaactaa agttcgggtt tggtatttgg atattatttc tattaatgat      1500
+     ctaatcaatc atgaataa                                                    1518
+//
+ID   AB610226; SV 1; linear; genomic DNA; STD; PLN; 1527 BP.
+XX
+AC   AB610226;
+XX
+DT   21-JUL-2011 (Rel. 109, Created)
+DT   12-FEB-2013 (Rel. 115, Last updated, Version 2)
+XX
+DE   Cladopus pierrei chloroplast matK gene for maturase K, complete cds,
+DE   specimen_voucher: TNS:LK-221.
+XX
+KW   .
+XX
+OS   Cladopus pierrei
+OC   Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+OC   Spermatophyta; Magnoliopsida; eudicotyledons; Gunneridae; Pentapetalae;
+OC   rosids; fabids; Malpighiales; Podostemaceae; Podostemoideae; Cladopus.
+OG   Plastid:Chloroplast
+XX
+RN   [1]
+RP   1-1527
+RA   Koi S., Kato M.;
+RT   ;
+RL   Submitted (20-JAN-2011) to the INSDC.
+RL   Contact:Satoshi Koi Nara Institute of Science and Technology, Graduate
+RL   School of Biological Sciences; 8916-5 Takayama, Ikoma, Nara 630-0192, Japan
+XX
+RN   [2]
+RA   Koi S., Kato M.;
+RT   "A taxonomic study of Podostemaceae subfamily Podostemoideae of Laos with
+RT   phylogenetic analyses of Cladopus, Paracladopus and Polypleurum";
+RL   Kew Bull. 67:331-365(2012).
+XX
+DR   MD5; 370a10e9b2a019967ba57f6e4b250fc6.
+XX
+FH   Key             Location/Qualifiers
+FH
+FT   source          1..1527
+FT                   /organism="Cladopus pierrei"
+FT                   /organelle="plastid:chloroplast"
+FT                   /mol_type="genomic DNA"
+FT                   /country="Laos:Champasak, Houay Pa Lai river"
+FT                   /specimen_voucher="TNS:LK-221"
+FT                   /db_xref="taxon:698813"
+FT   CDS             1..1527
+FT                   /codon_start=1
+FT                   /transl_table=11
+FT                   /gene="matK"
+FT                   /product="maturase K"
+FT                   /db_xref="GOA:F8WQF1"
+FT                   /db_xref="InterPro:IPR002866"
+FT                   /db_xref="InterPro:IPR024937"
+FT                   /db_xref="InterPro:IPR024942"
+FT                   /db_xref="UniProtKB/TrEMBL:F8WQF1"
+FT                   /protein_id="BAK53290.1"
+FT                   /translation="MGEKKDQRYLDLVISRQNYFLYPLIFQEYIYTLTHDHNFFPTILL
+FT                   ENLGYDKRFRFLIVKRLITRMYQQNHLSLSVANLRENPYFLYNKVLYSQKISEGLAIIV
+FT                   AIPFCPQLGTFFKNFELVKVQNLQSIHSIFPFLEDKFPYLNLVSDGLFPYPIHLEKLIQ
+FT                   ILRYWLKDPSSLHFLRFFFHEYWNWNHPIFQKKSNSFFEKRNLRLFVFLYNSYVYEYES
+FT                   ILFFIRRQFFHLPSKPFRFFFERLYFYGKVENFTEVFSKGYAMTLALFKDPNMHYIRYQ
+FT                   GKFFFAYRGMPLLMNKWKYYFVTLFQKNFDVWLKPDKIHINPLYKHSFHCVGYLLSLKR
+FT                   NPSVIRSQMLLNAFRIENTMKKMDIRVPIILMIDSLSKMQFCNKMGHPISKPIWIDSLD
+FT                   SDIIDRFVHLCNKISYFYSGSSKKKDLYQIQYILRFACLKTLARKHKTSVRAFFKKQGS
+FT                   SFLENFFLENQIYSLILIRSSYRSSDRTNKSKVRVWYLDIISINDLINHE"
+XX
+SQ   Sequence 1527 BP; 498 A; 237 C; 209 G; 583 T; 0 other;
+     atgggagaaa aaaaagatca aagatattta gatttagtta tatctcgtca aaattacttc        60
+     ctatacccac ttatttttca agagtatatt tatacactta ctcatgatca taattttttt       120
+     ccaacaatat tgttggaaaa tttaggttat gacaaaagat tccgtttttt aattgtaaaa       180
+     cgtttaatta ctcgaatgta tcaacagaat catttgagtc tttctgttgc aaatttgaga       240
+     gaaaatccat attttctcta caataaagtt ttatattctc aaaagatatc agaggggctt       300
+     gcaatcattg ttgcaattcc attttgcccc caattgggga cttttttcaa aaattttgaa       360
+     ttggtcaaag ttcaaaattt acaatcaatt cattcaatat ttcccttttt agaggataaa       420
+     tttccctatt taaatttggt gtccgatggg ttattccctt accccattca tcttgaaaaa       480
+     ttgattcaaa ttcttcgtta ctggttaaaa gatccatctt ctttacattt tttacgcttc       540
+     ttttttcatg agtattggaa ttggaaccat cccatttttc aaaaaaaatc aaattctttt       600
+     tttgaaaaaa gaaatctacg attatttgtg ttcttatata attcttatgt atatgaatac       660
+     gaatccattt tattttttat tcgtcgccaa ttttttcatt taccatccaa accttttcga       720
+     tttttttttg aaagacttta tttctatgga aaagtagaga attttacaga ggtttttagt       780
+     aagggttacg ccatgacttt agcgttgttc aaagacccga atatgcatta tattcgctat       840
+     caaggaaaat tcttttttgc ttataggggt atgcctcttt taatgaacaa gtggaaatac       900
+     tactttgtta ctttatttca aaaaaatttt gatgtctggt tgaaaccaga caagatacat       960
+     atcaatccat tatataagca ttcattccac tgtgttggtt atcttttaag tttaaaacgg      1020
+     aatccttcag tgatacgaag tcaaatgcta ctaaatgcgt ttcgtataga gaatactatg      1080
+     aagaaaatgg atatacgagt tccaattatt ctcatgattg actcattatc caaaatgcaa      1140
+     ttttgtaata aaatgggtca tcccattagc aaaccaatct ggatcgattc attggattca      1200
+     gatattattg accgatttgt gcatctatgc aataaaattt catattttta tagtggatcc      1260
+     tcaaaaaaaa aagatttgta tcaaatacag tatatacttc gatttgcttg tttaaaaacc      1320
+     ttggctcgga aacacaaaac ctcggtccgt gcttttttta aaaaacaagg ttcatccttt      1380
+     ttagaaaatt tttttctaga aaaccagatt tattctttga tccttataag atcctcatat      1440
+     agatcgtcag atcgaactaa taaatctaaa gttcgggttt ggtatttgga tattatttct      1500
+     attaatgatc taatcaatca tgaataa                                          1527
+//
+ID   LC151298; SV 1; linear; genomic DNA; STD; PLN; 1527 BP.
+XX
+AC   LC151298;
+XX
+DT   02-NOV-2016 (Rel. 130, Created)
+DT   02-NOV-2016 (Rel. 130, Last updated, Version 1)
+XX
+DE   Cladopus pierrei chloroplast matK gene for maturase K, complete cds,
+DE   specimen_voucher: TNS:LK-413.
+XX
+KW   .
+XX
+OS   Cladopus pierrei
+OC   Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+OC   Spermatophyta; Magnoliopsida; eudicotyledons; Gunneridae; Pentapetalae;
+OC   rosids; fabids; Malpighiales; Podostemaceae; Podostemoideae; Cladopus.
+OG   Plastid:Chloroplast
+XX
+RN   [1]
+RP   1-1527
+RA   Koi S., Werukamkul P., Ampornpan L., Kato M.;
+RT   ;
+RL   Submitted (08-MAY-2016) to the INSDC.
+RL   Contact:Satoshi Koi Osaka City University, Botanical Gardens, Faculty of
+RL   Science; 2000 Kisaichi, Katano, Osaka 576-0004, Japan URL   
+RL   :http://www.osaka-cu.ac.jp/ja
+XX
+RN   [2]
+RA   Koi S., Werukamkul P., Ampornpan L., Kato M.;
+RT   "Taxonomy of the Podostemaceae of Thailand with addition of species and
+RT   molecular phylogeny of Cladopus and the Hydrobryum clade";
+RL   Unpublished.
+XX
+DR   MD5; 71a6e0a5974a61ecd63b7ae148f2f258.
+XX
+FH   Key             Location/Qualifiers
+FH
+FT   source          1..1527
+FT                   /organism="Cladopus pierrei"
+FT                   /organelle="plastid:chloroplast"
+FT                   /mol_type="genomic DNA"
+FT                   /country="Laos"
+FT                   /specimen_voucher="TNS:LK-413"
+FT                   /collected_by="M. Kato, S. Koi & T. Wongprasert"
+FT                   /collection_date="2011-02-12"
+FT                   /db_xref="taxon:698813"
+FT   CDS             1..1527
+FT                   /codon_start=1
+FT                   /transl_table=11
+FT                   /gene="matK"
+FT                   /product="maturase K"
+FT                   /db_xref="GOA:A0A1E1GLS1"
+FT                   /db_xref="InterPro:IPR002866"
+FT                   /db_xref="InterPro:IPR024937"
+FT                   /db_xref="InterPro:IPR024942"
+FT                   /db_xref="UniProtKB/TrEMBL:A0A1E1GLS1"
+FT                   /protein_id="BAV90010.1"
+FT                   /translation="MGEKKDQRYLDLVISRQNYFLYPLIFQEYIYTLTHDHNFFPTILL
+FT                   ENLGYDKRFRFLIVKRLITRMYQQNHLSLSVANLRENPYFLYNKVLYSQKISEGLAIIV
+FT                   AIPFCPQLGTFFKNFELVKVQNLQSIHSIFPFLEDKFPYLNLVSGGLFPYPIHLEKLIQ
+FT                   ILRYWLKDPSSLHFLRFFFHEYWNWNHPIFQKKSNSFFEKRNLRLFVFLYNSYVYEYES
+FT                   ILFFIRRQFFHLPSKPFRFFFERLYFYGKVENFTEVFSKGYAMTLALFKDPNMHYIRYQ
+FT                   GKFFFAYRGMPLLMNKWKYYFVTLFQKNFDVWLKPDKIHINPLYKHSFHCVGYLLSLKR
+FT                   NPSVIRSQMLLNAFRIENTMKKMDIRVPIILMIDSLSKMQFCNKMGHPISKPIWIDSLD
+FT                   SDIIDRFVHLCNKISYFYSGSSKKKDLYQIQYILRFACLKTLARKHKTSVRAFFKKQGS
+FT                   SFLENFFLENQIYSLILIRSSYRSSDRTNKSKVRVWYLDIISINDLINHE"
+XX
+SQ   Sequence 1527 BP; 498 A; 236 C; 210 G; 583 T; 0 other;
+     atgggagaaa aaaaagatca aagatattta gatttagtta tatctcgtca aaattacttc        60
+     ctatacccac ttatttttca agagtatatt tatacactta ctcatgatca taattttttt       120
+     ccaacaatat tgttggaaaa tttaggttat gacaaaagat tccgtttttt aattgtaaaa       180
+     cgtttaatta ctcgaatgta tcaacagaat catttgagtc tttctgttgc aaatttgaga       240
+     gaaaatccat attttctcta caataaagtt ttatattctc aaaagatatc agaggggctt       300
+     gcaatcattg ttgcaattcc attttgcccc caattgggga cttttttcaa aaattttgaa       360
+     ttggtcaaag ttcaaaattt acaatcaatt cattcaatat ttcccttttt agaggataaa       420
+     tttccctatt taaatttggt gtccggtggg ttattccctt accccattca tcttgaaaaa       480
+     ttgattcaaa ttcttcgtta ctggttaaaa gatccatctt ctttacattt tttacgcttc       540
+     ttttttcatg agtattggaa ttggaaccat cccatttttc aaaaaaaatc aaattctttt       600
+     tttgaaaaaa gaaatctacg attatttgtg ttcttatata attcttatgt atatgaatac       660
+     gaatccattt tattttttat tcgtcgccaa ttttttcatt taccatccaa accttttcga       720
+     tttttttttg aaagacttta tttctatgga aaagtagaga attttacaga ggtttttagt       780
+     aagggttacg ccatgacttt agcgttgttc aaagacccga atatgcatta tattcgctat       840
+     caaggaaaat tcttttttgc ttataggggt atgcctcttt taatgaacaa gtggaaatac       900
+     tactttgtta ctttatttca aaaaaatttt gatgtctggt tgaaaccaga caagatacat       960
+     atcaatccat tatataagca ttcattccac tgtgttggtt atcttttaag tttaaaacgg      1020
+     aatccttcag tgatacgaag tcaaatgcta ctaaatgcgt ttcgtataga gaatactatg      1080
+     aagaaaatgg atatacgagt tccaattatt ctaatgattg actcattatc caaaatgcaa      1140
+     ttttgtaata aaatgggtca tcccattagc aaaccaatct ggatcgattc attggattca      1200
+     gatattattg accgatttgt gcatctatgc aataaaattt catattttta tagtggatcc      1260
+     tcaaaaaaaa aagatttgta tcaaatacag tatatacttc gatttgcttg tttaaaaacc      1320
+     ttggctcgga aacacaaaac ctcggtccgt gcttttttta aaaaacaagg ttcatccttt      1380
+     ttagaaaatt tttttctaga aaaccagatt tattctttga tccttataag atcctcatat      1440
+     agatcgtcag atcgaactaa taaatctaaa gttcgggttt ggtatttgga tattatttct      1500
+     attaatgatc taatcaatca tgaataa                                          1527
+//
+ID   AB537380; SV 1; linear; genomic DNA; STD; PLN; 1527 BP.
+XX
+AC   AB537380;
+XX
+DT   08-JUN-2010 (Rel. 105, Created)
+DT   04-FEB-2011 (Rel. 107, Last updated, Version 2)
+XX
+DE   Cladopus pierrei chloroplast matK gene for maturase K, complete cds,
+DE   specimen_voucher: TNS:LKF-118.
+XX
+KW   .
+XX
+OS   Cladopus pierrei
+OC   Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+OC   Spermatophyta; Magnoliopsida; eudicotyledons; Gunneridae; Pentapetalae;
+OC   rosids; fabids; Malpighiales; Podostemaceae; Podostemoideae; Cladopus.
+OG   Plastid:Chloroplast
+XX
+RN   [1]
+RP   1-1527
+RA   Koi S., Kato M.;
+RT   ;
+RL   Submitted (07-DEC-2009) to the INSDC.
+RL   Contact:Satoshi Koi Nara Institute of Science and Technology, Graduate
+RL   School of Biological Sciences; 8916-5 Takayama, Ikoma, Nara 630-0192, Japan
+XX
+RN   [2]
+RX   DOI; 10.3732/ajb.0900157.
+RX   PUBMED; 21622401.
+RA   Koi S., Kato M.;
+RT   "Developmental morphology of seedling and shoot and phylogenetic
+RT   relationship of Diplobryum koyamae (Podostemaceae)";
+RL   Am. J. Bot. 97(3):373-387(2010).
+XX
+DR   MD5; 20709211757c9a14374c19dba682263d.
+XX
+FH   Key             Location/Qualifiers
+FH
+FT   source          1..1527
+FT                   /organism="Cladopus pierrei"
+FT                   /organelle="plastid:chloroplast"
+FT                   /mol_type="genomic DNA"
+FT                   /country="Laos:Huay Taphung, Salavan"
+FT                   /specimen_voucher="TNS:LKF-118"
+FT                   /db_xref="taxon:698813"
+FT   CDS             1..1527
+FT                   /codon_start=1
+FT                   /transl_table=11
+FT                   /gene="matK"
+FT                   /product="maturase K"
+FT                   /db_xref="GOA:D6RU07"
+FT                   /db_xref="InterPro:IPR002866"
+FT                   /db_xref="InterPro:IPR024937"
+FT                   /db_xref="InterPro:IPR024942"
+FT                   /db_xref="UniProtKB/TrEMBL:D6RU07"
+FT                   /protein_id="BAJ09245.1"
+FT                   /translation="MGEKKDQRYLDLVISRQNYFLYPLIFQEYIYTLTHDHNFFPTILL
+FT                   ENLGYDKRFRFLIVKRLITRMYQQNHLSLSVANLRENPYFLYNKVLYSQKISEGLAIIV
+FT                   AIPFCPQLGTFFKNFELVKVQNLQSIHSIFPFLEDKFPYLNLVSDGLFPYPIHLEKLIQ
+FT                   ILRYWLKDPSSLHFLRFFFHEYWNWNHPIFQKKSNSFFEKRNLRLFVFLYNSYVYEYES
+FT                   ILFFIRRQFFHLPSKPFRFFFERLYFYGKVENFTEVFSKGYAMTLALFKDPNMHYIRYQ
+FT                   GKFFFAYRGMPLLMNKWKYYFVTLFQKNFDVWFQPDKIHINPLYKHSFHCVGYLLSLKR
+FT                   NPSVIRSQMLLNAFRIENTMKKMDIRVPIILMIDSLSKMQFCNKMGHPISKPIWIDSLD
+FT                   SDIIDRFVHLCNKISYFYSGSSKKKDLYQIQYILRFACLKTLARKHKTSVRAFFKKQGS
+FT                   SFLENFFLENQIYSLILIRSSYRSSDRTNKSKVRVWYLDIISINDLINHE"
+XX
+SQ   Sequence 1527 BP; 497 A; 238 C; 208 G; 584 T; 0 other;
+     atgggagaaa aaaaagatca aagatattta gatttagtta tatctcgtca aaattacttc        60
+     ctatacccac ttatttttca agagtatatt tatacactta ctcatgatca taattttttt       120
+     ccaacaatat tgttggaaaa tttaggttat gacaaaagat tccgtttttt aattgtaaaa       180
+     cgtttaatta ctcgaatgta tcaacagaat catttgagtc tttctgttgc aaatttgaga       240
+     gaaaatccat attttctcta caataaagtt ttatattctc aaaagatatc agaggggctt       300
+     gcaatcattg ttgcaattcc attttgcccc caattgggga cttttttcaa aaattttgaa       360
+     ttggtcaaag ttcaaaattt acaatcaatt cattcaatat ttcccttttt agaggataaa       420
+     tttccctatt taaatttggt gtccgatggg ttattccctt accccattca tcttgaaaaa       480
+     ttgattcaaa ttcttcgtta ctggttaaaa gatccatctt ctttacattt tttacgcttc       540
+     ttttttcatg agtattggaa ttggaaccat cccatttttc aaaaaaaatc aaattctttt       600
+     tttgaaaaaa gaaatctacg attatttgtg ttcttatata attcttatgt atatgaatac       660
+     gaatccattt tattttttat tcgtcgccaa ttttttcatt taccatccaa accttttcga       720
+     tttttttttg aaagacttta tttctatgga aaagtagaga attttacaga ggtttttagt       780
+     aagggttacg ccatgacttt agcgttgttc aaagacccga atatgcatta tattcgctat       840
+     caaggaaaat tcttttttgc ttataggggt atgcctcttt taatgaacaa gtggaaatac       900
+     tactttgtta ctttatttca aaaaaatttt gatgtctggt ttcaaccaga caagatacat       960
+     atcaatccat tatataagca ttcattccac tgtgttggtt atcttttaag tttaaaacgg      1020
+     aatccttcag tgatacgaag tcaaatgcta ctaaatgcgt ttcgtataga gaatactatg      1080
+     aagaaaatgg atatacgagt tccaattatt ctcatgattg actcattatc caaaatgcaa      1140
+     ttttgtaata aaatgggtca tcccattagc aaaccaatct ggatcgattc attggattca      1200
+     gatattattg accgatttgt gcatctatgc aataaaattt catattttta tagtggatcc      1260
+     tcaaaaaaaa aagatttgta tcaaatacag tatatacttc gatttgcttg tttaaaaacc      1320
+     ttggctcgga aacacaaaac ctcggtccgt gcttttttta aaaaacaagg ttcatccttt      1380
+     ttagaaaatt tttttctaga aaaccagatt tattctttga tccttataag atcctcatat      1440
+     agatcgtcag atcgaactaa taaatctaaa gttcgggttt ggtatttgga tattatttct      1500
+     attaatgatc taatcaatca tgaataa                                          1527
+//
+ID   LC151303; SV 1; linear; genomic DNA; STD; PLN; 1527 BP.
+XX
+AC   LC151303;
+XX
+DT   02-NOV-2016 (Rel. 130, Created)
+DT   02-NOV-2016 (Rel. 130, Last updated, Version 1)
+XX
+DE   Cladopus pierrei chloroplast matK gene for maturase K, complete cds,
+DE   specimen_voucher: TNS:LK-438.
+XX
+KW   .
+XX
+OS   Cladopus pierrei
+OC   Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+OC   Spermatophyta; Magnoliopsida; eudicotyledons; Gunneridae; Pentapetalae;
+OC   rosids; fabids; Malpighiales; Podostemaceae; Podostemoideae; Cladopus.
+OG   Plastid:Chloroplast
+XX
+RN   [1]
+RP   1-1527
+RA   Koi S., Werukamkul P., Ampornpan L., Kato M.;
+RT   ;
+RL   Submitted (08-MAY-2016) to the INSDC.
+RL   Contact:Satoshi Koi Osaka City University, Botanical Gardens, Faculty of
+RL   Science; 2000 Kisaichi, Katano, Osaka 576-0004, Japan URL   
+RL   :http://www.osaka-cu.ac.jp/ja
+XX
+RN   [2]
+RA   Koi S., Werukamkul P., Ampornpan L., Kato M.;
+RT   "Taxonomy of the Podostemaceae of Thailand with addition of species and
+RT   molecular phylogeny of Cladopus and the Hydrobryum clade";
+RL   Unpublished.
+XX
+DR   MD5; 1c9f3495bb631024fb19c40682eaede8.
+XX
+FH   Key             Location/Qualifiers
+FH
+FT   source          1..1527
+FT                   /organism="Cladopus pierrei"
+FT                   /organelle="plastid:chloroplast"
+FT                   /mol_type="genomic DNA"
+FT                   /country="Laos"
+FT                   /specimen_voucher="TNS:LK-438"
+FT                   /collected_by="M. Kato, S. Koi & T. Wongprasert"
+FT                   /collection_date="2011-02-15"
+FT                   /db_xref="taxon:698813"
+FT   CDS             1..1527
+FT                   /codon_start=1
+FT                   /transl_table=11
+FT                   /gene="matK"
+FT                   /product="maturase K"
+FT                   /db_xref="GOA:D6RU06"
+FT                   /db_xref="InterPro:IPR002866"
+FT                   /db_xref="InterPro:IPR024937"
+FT                   /db_xref="InterPro:IPR024942"
+FT                   /db_xref="UniProtKB/TrEMBL:D6RU06"
+FT                   /protein_id="BAV90015.1"
+FT                   /translation="MGEKKDQRYLDLVISRQNYFLYPLIFQEYIYTLTHDHNFFPTILL
+FT                   ENLGYDKRFRFLIVKRLITRMYQQNHLSLSVANLRENPYFLYNKVLYSQKISEGLAIIV
+FT                   AIPFCPQLGTFFKNFELVKVQNLQSIHSIFPFLEDKFPYLNLVSDGLFPYPIHLEKLIQ
+FT                   ILRYWLKDPSSLHFLRFFFHEYWNWNHPIFQKKSNSFFEKRNLRLFVFLYNSYVYEYES
+FT                   ILFFIRRQFFHLPSKPFRFFFERLYFYGKVENFTEVFSKGYAMTLALFKDPNMHYIRYQ
+FT                   GKFFFAYRGMPLLMNKWKYYFVTLFQKNFDVWFQPDKIHINPLYKHSFHCVGYLLSLKR
+FT                   NPSVIRSQMLLNAFRIENTMKKMDIRVPIILMIDSLSKMQFCNKMGHPISKPIWIDSLD
+FT                   SDIIDRFVHLCNKISYFFSGSSKKKDLYQIQYILRFACLKTLARKHKTSVRAFFKKQGS
+FT                   SFLENFFLENQIYSLILIRSSYRSSDRTNKSKVRVWYLDIISINDLINHE"
+XX
+SQ   Sequence 1527 BP; 496 A; 238 C; 208 G; 585 T; 0 other;
+     atgggagaaa aaaaagatca aagatattta gatttagtta tatctcgtca aaattacttc        60
+     ctatacccac ttatttttca agagtatatt tatacactta ctcatgatca taattttttt       120
+     ccaacaatat tgttggaaaa tttaggttat gacaaaagat tccgtttttt aattgtaaaa       180
+     cgtttaatta ctcgaatgta tcaacagaat catttgagtc tttctgttgc aaatttgaga       240
+     gaaaatccat attttctcta caataaagtt ttatattctc aaaagatatc agaggggctt       300
+     gcaatcattg ttgcaattcc attttgcccc caattgggga cttttttcaa aaattttgaa       360
+     ttggtcaaag ttcaaaattt acaatcaatt cattcaatat ttcccttttt agaggataaa       420
+     tttccctatt taaatttggt gtccgatggg ttattccctt accccattca tcttgaaaaa       480
+     ttgattcaaa ttcttcgtta ctggttaaaa gatccatctt ctttacattt tttacgcttc       540
+     ttttttcatg agtattggaa ttggaaccat cccatttttc aaaaaaaatc aaattctttt       600
+     tttgaaaaaa gaaatctacg attatttgtg ttcttatata attcttatgt atatgaatac       660
+     gaatccattt tattttttat tcgtcgccaa ttttttcatt taccatccaa accttttcga       720
+     tttttttttg aaagacttta tttctatgga aaagtagaga attttacaga ggtttttagt       780
+     aagggttacg ccatgacttt agcgttgttc aaagacccga atatgcatta tattcgctat       840
+     caaggaaaat tcttttttgc ttataggggt atgcctcttt taatgaacaa gtggaaatac       900
+     tactttgtta ctttatttca aaaaaatttt gatgtctggt ttcaaccaga caagatacat       960
+     atcaatccat tatataagca ttcattccac tgtgttggtt atcttttaag tttaaaacgg      1020
+     aatccttcag tgatacgaag tcaaatgcta ctaaatgcgt ttcgtataga gaatactatg      1080
+     aagaaaatgg atatacgagt tccaattatt ctcatgattg actcattatc caaaatgcaa      1140
+     ttttgtaata aaatgggtca tcccattagc aaaccaatct ggatcgattc attggattca      1200
+     gatattattg accgatttgt gcatctatgc aataaaattt catatttttt tagtggatcc      1260
+     tcaaaaaaaa aagatttgta tcaaatacag tatatacttc gatttgcttg tttaaaaacc      1320
+     ttggctcgga aacacaaaac ctcggtccgt gcttttttta aaaaacaagg ttcatccttt      1380
+     ttagaaaatt tttttctaga aaaccagatt tattctttga tccttataag atcctcatat      1440
+     agatcgtcag atcgaactaa taaatctaaa gttcgggttt ggtatttgga tattatttct      1500
+     attaatgatc taatcaatca tgaataa                                          1527
+//
+ID   LC151300; SV 1; linear; genomic DNA; STD; PLN; 1527 BP.
+XX
+AC   LC151300;
+XX
+DT   02-NOV-2016 (Rel. 130, Created)
+DT   02-NOV-2016 (Rel. 130, Last updated, Version 1)
+XX
+DE   Cladopus pierrei chloroplast matK gene for maturase K, complete cds,
+DE   specimen_voucher: TNS:LK-423.
+XX
+KW   .
+XX
+OS   Cladopus pierrei
+OC   Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+OC   Spermatophyta; Magnoliopsida; eudicotyledons; Gunneridae; Pentapetalae;
+OC   rosids; fabids; Malpighiales; Podostemaceae; Podostemoideae; Cladopus.
+OG   Plastid:Chloroplast
+XX
+RN   [1]
+RP   1-1527
+RA   Koi S., Werukamkul P., Ampornpan L., Kato M.;
+RT   ;
+RL   Submitted (08-MAY-2016) to the INSDC.
+RL   Contact:Satoshi Koi Osaka City University, Botanical Gardens, Faculty of
+RL   Science; 2000 Kisaichi, Katano, Osaka 576-0004, Japan URL   
+RL   :http://www.osaka-cu.ac.jp/ja
+XX
+RN   [2]
+RA   Koi S., Werukamkul P., Ampornpan L., Kato M.;
+RT   "Taxonomy of the Podostemaceae of Thailand with addition of species and
+RT   molecular phylogeny of Cladopus and the Hydrobryum clade";
+RL   Unpublished.
+XX
+DR   MD5; 73be44dd06eae06a88bb3c6906dba1d3.
+XX
+FH   Key             Location/Qualifiers
+FH
+FT   source          1..1527
+FT                   /organism="Cladopus pierrei"
+FT                   /organelle="plastid:chloroplast"
+FT                   /mol_type="genomic DNA"
+FT                   /country="Laos"
+FT                   /specimen_voucher="TNS:LK-423"
+FT                   /collected_by="M. Kato, S. Koi & T. Wongprasert"
+FT                   /collection_date="2011-02-13"
+FT                   /db_xref="taxon:698813"
+FT   CDS             1..1527
+FT                   /codon_start=1
+FT                   /transl_table=11
+FT                   /gene="matK"
+FT                   /product="maturase K"
+FT                   /db_xref="GOA:A0A1E1GLR3"
+FT                   /db_xref="InterPro:IPR002866"
+FT                   /db_xref="InterPro:IPR024937"
+FT                   /db_xref="InterPro:IPR024942"
+FT                   /db_xref="UniProtKB/TrEMBL:A0A1E1GLR3"
+FT                   /protein_id="BAV90012.1"
+FT                   /translation="MGEKKDQRYLDLVISRQNYFLYPLIFQEYIYTLTHDHNFFPTILL
+FT                   ENLGYDKRFRFLIVKRLITRMYQQNHLSLSVANLKENPYFLYNKVLYSQKISEGLAIIV
+FT                   AIPFCPQLGTFFKNFELVKVQNLQSIHSIFPFLEDKFPYLNLVSDGLFPYPIHLEKLIQ
+FT                   ILRYWLKDPSSLHFLRFFFHEYWNWNHPIFQKKSNSFFEKRNLRLFVFLYNSYVYEYES
+FT                   ILFFIRRQFFHLPSKPFRFFFERLYFYGKIENFTEVFSKGYAMTLALFKDPNMHYIRYQ
+FT                   GKFFFAYRGMPLLMNKWKYYFVTLFQKNFDVWLKPDKIHINPLYKHSFHCVGYLLSLKR
+FT                   NPSVIRSQMLLNAFRIENTMKKMDIRVPIILMIDSLSKMQFCNKMGHPISKPIWIDSLD
+FT                   SDIIDRFVHLCNKISYFYSGSSKKKDLYQIQYILRFACLKTLARKHKTSVRAFFKKQGS
+FT                   SFLENFFLENQIYSLILIRSSYRSSDRTNKSKVRVWYLDIISINDLINHK"
+XX
+SQ   Sequence 1527 BP; 499 A; 237 C; 207 G; 584 T; 0 other;
+     atgggagaaa aaaaagatca aagatattta gatttagtta tatctcgtca aaattacttc        60
+     ctatacccac ttatttttca agagtatatt tatacactta ctcatgatca taattttttt       120
+     ccaacaatat tgttggaaaa tttaggttat gacaaaagat tccgtttttt aattgtaaaa       180
+     cgtttaatta ctcgaatgta tcaacagaat catttgagtc tttctgttgc aaatttgaaa       240
+     gaaaatccat attttctcta caataaagtt ttatattctc aaaagatatc agaggggctt       300
+     gcaatcattg ttgcaattcc attttgcccc caattgggga cttttttcaa aaattttgaa       360
+     ttggtcaaag ttcaaaattt acaatcaatt cattcaatat ttcccttttt agaggataaa       420
+     tttccctatt taaatttggt gtccgatggg ttattccctt accccattca tcttgaaaaa       480
+     ttgattcaaa ttcttcgtta ctggttaaaa gatccatctt ctttacattt tttacgcttc       540
+     ttttttcatg agtattggaa ttggaaccat cccatttttc aaaaaaaatc aaattctttt       600
+     tttgaaaaaa gaaatctacg attatttgtg ttcttatata attcttatgt atatgaatac       660
+     gaatccattt tattttttat tcgtcgccaa ttttttcatt taccatccaa accttttcgg       720
+     tttttttttg aaagacttta tttctatgga aaaatagaga attttacaga ggtttttagt       780
+     aagggttacg ccatgacttt agcgttgttc aaagacccga atatgcatta tattcgctat       840
+     caaggaaaat tcttttttgc ttataggggt atgcctcttt taatgaacaa gtggaaatac       900
+     tactttgtta ctttatttca aaaaaatttt gatgtctggt tgaaaccaga caagatacat       960
+     atcaatccat tatataagca ttcattccac tgtgttggtt atcttttaag tttaaaacgg      1020
+     aatccttcag tgatacgaag tcaaatgcta ctaaatgcgt ttcgtataga gaatactatg      1080
+     aagaaaatgg atatacgagt tcctattatt ctcatgattg actcattatc caaaatgcaa      1140
+     ttttgtaata aaatgggtca tcccattagc aaaccaatct ggatcgattc attggattca      1200
+     gatattattg accgatttgt gcatctatgc aataaaattt catattttta tagtggatcc      1260
+     tcaaaaaaaa aagatttgta tcaaatacag tatatacttc gatttgcttg tttaaaaacc      1320
+     ttggctcgga aacacaaaac ctcggtccgt gcttttttta aaaaacaagg ttcatccttt      1380
+     ttagaaaatt tttttctaga aaaccagatt tattctttga tccttataag atcctcatat      1440
+     agatcgtcag atcgaactaa taaatctaaa gttcgggttt ggtatttgga tattatttct      1500
+     attaatgatc taatcaatca taaataa                                          1527
+//
+ID   LC151297; SV 1; linear; genomic DNA; STD; PLN; 1527 BP.
+XX
+AC   LC151297;
+XX
+DT   02-NOV-2016 (Rel. 130, Created)
+DT   02-NOV-2016 (Rel. 130, Last updated, Version 1)
+XX
+DE   Cladopus pierrei chloroplast matK gene for maturase K, complete cds,
+DE   specimen_voucher: TNS:LK-406.
+XX
+KW   .
+XX
+OS   Cladopus pierrei
+OC   Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+OC   Spermatophyta; Magnoliopsida; eudicotyledons; Gunneridae; Pentapetalae;
+OC   rosids; fabids; Malpighiales; Podostemaceae; Podostemoideae; Cladopus.
+OG   Plastid:Chloroplast
+XX
+RN   [1]
+RP   1-1527
+RA   Koi S., Werukamkul P., Ampornpan L., Kato M.;
+RT   ;
+RL   Submitted (08-MAY-2016) to the INSDC.
+RL   Contact:Satoshi Koi Osaka City University, Botanical Gardens, Faculty of
+RL   Science; 2000 Kisaichi, Katano, Osaka 576-0004, Japan URL   
+RL   :http://www.osaka-cu.ac.jp/ja
+XX
+RN   [2]
+RA   Koi S., Werukamkul P., Ampornpan L., Kato M.;
+RT   "Taxonomy of the Podostemaceae of Thailand with addition of species and
+RT   molecular phylogeny of Cladopus and the Hydrobryum clade";
+RL   Unpublished.
+XX
+DR   MD5; 1938859824487078cf6274f82ccc039a.
+XX
+FH   Key             Location/Qualifiers
+FH
+FT   source          1..1527
+FT                   /organism="Cladopus pierrei"
+FT                   /organelle="plastid:chloroplast"
+FT                   /mol_type="genomic DNA"
+FT                   /country="Laos"
+FT                   /specimen_voucher="TNS:LK-406"
+FT                   /collected_by="M. Kato, S. Koi & T. Wongprasert"
+FT                   /collection_date="2011-02-10"
+FT                   /db_xref="taxon:698813"
+FT   CDS             1..1527
+FT                   /codon_start=1
+FT                   /transl_table=11
+FT                   /gene="matK"
+FT                   /product="maturase K"
+FT                   /db_xref="GOA:F8WQF3"
+FT                   /db_xref="InterPro:IPR002866"
+FT                   /db_xref="InterPro:IPR024937"
+FT                   /db_xref="InterPro:IPR024942"
+FT                   /db_xref="UniProtKB/TrEMBL:F8WQF3"
+FT                   /protein_id="BAV90009.1"
+FT                   /translation="MGEKKDQRYLDLVISRQNYFLYPLIFQEYIYTLTHDHNFFPTILL
+FT                   ENLGYDKRFRFLIVKRLITRMYQQNHLSLSVANLRENPYFLYNKVLYSQKISEGLAIIV
+FT                   AIPFYPQLGTFFKNLELVKVQNLQSIHSIFPFLEDKFPYLNLVSDGLFPYPIHLEKLIQ
+FT                   ILRYWLKDPSSLHFLRFFFHEYWNWNHPIFQKKSNYFFEKRNLRLFVFLYNSYVYEYES
+FT                   ILFFIRRQFFHLPSKPFRFFFERLYFYGKVENFTEVFSKGYAMTLALFKDPNMHYIRYQ
+FT                   GKFFFAYRGMPLLMNKWKYYFVTLFQKNFDVWLKPDKIHINPLYKHSFHCVGYLLSLKR
+FT                   NPSVIRSQMLLNAFRIENTMKKMDIRVPIILMIDSLSKMQFCNKMGHPISKPIWIDSLD
+FT                   SDIIDRFVHLCNKIAYFYSGSSKKKDLYQIQYILRFACLKTLARKHKTSVRAFFKKQGS
+FT                   SFLENFFLENQIYSLILIRSSYRSSDRTNKSKVRVWYLDIISINDLINHE"
+XX
+SQ   Sequence 1527 BP; 499 A; 235 C; 210 G; 583 T; 0 other;
+     atgggagaaa aaaaagatca aagatattta gatttagtta tatctcgtca aaattacttc        60
+     ctatacccac ttatttttca agagtatatt tatacactta ctcatgatca taattttttt       120
+     ccaacaatat tgttggaaaa tttaggttat gacaaaagat tccgtttttt aattgtaaaa       180
+     cgtttaatta ctcgaatgta tcaacagaat catttgagtc tttctgttgc aaatttgaga       240
+     gaaaatccat attttctcta caataaagtt ttatattctc aaaagatatc agaggggctt       300
+     gcaatcattg ttgcaattcc attttacccc caattgggta cttttttcaa aaatttggaa       360
+     ttggtcaaag ttcaaaattt acaatcaatt cattcaatat ttcccttttt agaggataaa       420
+     tttccctatt taaatttggt gtccgatggg ttattccctt accccattca tcttgaaaaa       480
+     ttgattcaaa ttcttcgtta ctggttaaaa gatccatctt ctttacattt tttacgcttc       540
+     ttttttcatg agtattggaa ttggaaccat cccatttttc aaaaaaaatc aaattatttt       600
+     tttgaaaaaa gaaatctacg attatttgtg ttcttatata attcttatgt atatgaatac       660
+     gaatccattt tattttttat tcgtcgccaa ttttttcatt taccatccaa accttttcgg       720
+     tttttttttg aaagacttta tttctatgga aaagtagaga attttacaga ggtttttagt       780
+     aagggttacg ccatgacttt agcgttgttt aaagacccga atatgcatta tattcgctat       840
+     caaggaaaat tcttttttgc ttataggggt atgcctcttt taatgaacaa gtggaaatac       900
+     tactttgtta ctttatttca aaaaaatttt gatgtctggt tgaaaccaga caagatacat       960
+     atcaatccat tatataagca ttcattccac tgtgttggtt atcttttaag tttaaaacgg      1020
+     aatccttcag tgatacgaag tcaaatgcta ctaaatgcgt ttcgtataga gaatactatg      1080
+     aagaaaatgg atatacgagt tccaattatt ctcatgattg actcattatc caaaatgcaa      1140
+     ttttgtaata aaatgggtca tcccattagc aaaccaatct ggatcgattc attggattca      1200
+     gatattattg accgatttgt gcatctatgc aataaaattg catattttta tagtggatcc      1260
+     tcaaaaaaaa aagatttgta tcaaatacag tatatacttc gatttgcttg tttaaaaacc      1320
+     ttggctcgga aacacaaaac ctcggtccgt gcttttttta aaaaacaagg ttcatccttt      1380
+     ttagaaaatt tttttctaga aaaccagatt tattctttga tccttataag atcctcatat      1440
+     agatcgtcag atcgaactaa taaatctaaa gttcgggttt ggtatttgga tattatttct      1500
+     attaatgatc taatcaatca tgaataa                                          1527
+//
+ID   AB610228; SV 1; linear; genomic DNA; STD; PLN; 1527 BP.
+XX
+AC   AB610228;
+XX
+DT   21-JUL-2011 (Rel. 109, Created)
+DT   12-FEB-2013 (Rel. 115, Last updated, Version 2)
+XX
+DE   Cladopus pierrei chloroplast matK gene for maturase K, complete cds,
+DE   specimen_voucher: TNS:LK-232.
+XX
+KW   .
+XX
+OS   Cladopus pierrei
+OC   Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+OC   Spermatophyta; Magnoliopsida; eudicotyledons; Gunneridae; Pentapetalae;
+OC   rosids; fabids; Malpighiales; Podostemaceae; Podostemoideae; Cladopus.
+OG   Plastid:Chloroplast
+XX
+RN   [1]
+RP   1-1527
+RA   Koi S., Kato M.;
+RT   ;
+RL   Submitted (20-JAN-2011) to the INSDC.
+RL   Contact:Satoshi Koi Nara Institute of Science and Technology, Graduate
+RL   School of Biological Sciences; 8916-5 Takayama, Ikoma, Nara 630-0192, Japan
+XX
+RN   [2]
+RA   Koi S., Kato M.;
+RT   "A taxonomic study of Podostemaceae subfamily Podostemoideae of Laos with
+RT   phylogenetic analyses of Cladopus, Paracladopus and Polypleurum";
+RL   Kew Bull. 67:331-365(2012).
+XX
+DR   MD5; 1938859824487078cf6274f82ccc039a.
+XX
+FH   Key             Location/Qualifiers
+FH
+FT   source          1..1527
+FT                   /organism="Cladopus pierrei"
+FT                   /organelle="plastid:chloroplast"
+FT                   /mol_type="genomic DNA"
+FT                   /country="Laos:Salavan, Kaeng Koo rapid"
+FT                   /specimen_voucher="TNS:LK-232"
+FT                   /db_xref="taxon:698813"
+FT   CDS             1..1527
+FT                   /codon_start=1
+FT                   /transl_table=11
+FT                   /gene="matK"
+FT                   /product="maturase K"
+FT                   /db_xref="GOA:F8WQF3"
+FT                   /db_xref="InterPro:IPR002866"
+FT                   /db_xref="InterPro:IPR024937"
+FT                   /db_xref="InterPro:IPR024942"
+FT                   /db_xref="UniProtKB/TrEMBL:F8WQF3"
+FT                   /protein_id="BAK53292.1"
+FT                   /translation="MGEKKDQRYLDLVISRQNYFLYPLIFQEYIYTLTHDHNFFPTILL
+FT                   ENLGYDKRFRFLIVKRLITRMYQQNHLSLSVANLRENPYFLYNKVLYSQKISEGLAIIV
+FT                   AIPFYPQLGTFFKNLELVKVQNLQSIHSIFPFLEDKFPYLNLVSDGLFPYPIHLEKLIQ
+FT                   ILRYWLKDPSSLHFLRFFFHEYWNWNHPIFQKKSNYFFEKRNLRLFVFLYNSYVYEYES
+FT                   ILFFIRRQFFHLPSKPFRFFFERLYFYGKVENFTEVFSKGYAMTLALFKDPNMHYIRYQ
+FT                   GKFFFAYRGMPLLMNKWKYYFVTLFQKNFDVWLKPDKIHINPLYKHSFHCVGYLLSLKR
+FT                   NPSVIRSQMLLNAFRIENTMKKMDIRVPIILMIDSLSKMQFCNKMGHPISKPIWIDSLD
+FT                   SDIIDRFVHLCNKIAYFYSGSSKKKDLYQIQYILRFACLKTLARKHKTSVRAFFKKQGS
+FT                   SFLENFFLENQIYSLILIRSSYRSSDRTNKSKVRVWYLDIISINDLINHE"
+XX
+SQ   Sequence 1527 BP; 499 A; 235 C; 210 G; 583 T; 0 other;
+     atgggagaaa aaaaagatca aagatattta gatttagtta tatctcgtca aaattacttc        60
+     ctatacccac ttatttttca agagtatatt tatacactta ctcatgatca taattttttt       120
+     ccaacaatat tgttggaaaa tttaggttat gacaaaagat tccgtttttt aattgtaaaa       180
+     cgtttaatta ctcgaatgta tcaacagaat catttgagtc tttctgttgc aaatttgaga       240
+     gaaaatccat attttctcta caataaagtt ttatattctc aaaagatatc agaggggctt       300
+     gcaatcattg ttgcaattcc attttacccc caattgggta cttttttcaa aaatttggaa       360
+     ttggtcaaag ttcaaaattt acaatcaatt cattcaatat ttcccttttt agaggataaa       420
+     tttccctatt taaatttggt gtccgatggg ttattccctt accccattca tcttgaaaaa       480
+     ttgattcaaa ttcttcgtta ctggttaaaa gatccatctt ctttacattt tttacgcttc       540
+     ttttttcatg agtattggaa ttggaaccat cccatttttc aaaaaaaatc aaattatttt       600
+     tttgaaaaaa gaaatctacg attatttgtg ttcttatata attcttatgt atatgaatac       660
+     gaatccattt tattttttat tcgtcgccaa ttttttcatt taccatccaa accttttcgg       720
+     tttttttttg aaagacttta tttctatgga aaagtagaga attttacaga ggtttttagt       780
+     aagggttacg ccatgacttt agcgttgttt aaagacccga atatgcatta tattcgctat       840
+     caaggaaaat tcttttttgc ttataggggt atgcctcttt taatgaacaa gtggaaatac       900
+     tactttgtta ctttatttca aaaaaatttt gatgtctggt tgaaaccaga caagatacat       960
+     atcaatccat tatataagca ttcattccac tgtgttggtt atcttttaag tttaaaacgg      1020
+     aatccttcag tgatacgaag tcaaatgcta ctaaatgcgt ttcgtataga gaatactatg      1080
+     aagaaaatgg atatacgagt tccaattatt ctcatgattg actcattatc caaaatgcaa      1140
+     ttttgtaata aaatgggtca tcccattagc aaaccaatct ggatcgattc attggattca      1200
+     gatattattg accgatttgt gcatctatgc aataaaattg catattttta tagtggatcc      1260
+     tcaaaaaaaa aagatttgta tcaaatacag tatatacttc gatttgcttg tttaaaaacc      1320
+     ttggctcgga aacacaaaac ctcggtccgt gcttttttta aaaaacaagg ttcatccttt      1380
+     ttagaaaatt tttttctaga aaaccagatt tattctttga tccttataag atcctcatat      1440
+     agatcgtcag atcgaactaa taaatctaaa gttcgggttt ggtatttgga tattatttct      1500
+     attaatgatc taatcaatca tgaataa                                          1527
+//
+ID   AB537379; SV 1; linear; genomic DNA; STD; PLN; 1527 BP.
+XX
+AC   AB537379;
+XX
+DT   08-JUN-2010 (Rel. 105, Created)
+DT   04-FEB-2011 (Rel. 107, Last updated, Version 2)
+XX
+DE   Cladopus pierrei chloroplast matK gene for maturase K, complete cds,
+DE   specimen_voucher: TNS:LKF-103.
+XX
+KW   .
+XX
+OS   Cladopus pierrei
+OC   Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+OC   Spermatophyta; Magnoliopsida; eudicotyledons; Gunneridae; Pentapetalae;
+OC   rosids; fabids; Malpighiales; Podostemaceae; Podostemoideae; Cladopus.
+OG   Plastid:Chloroplast
+XX
+RN   [1]
+RP   1-1527
+RA   Koi S., Kato M.;
+RT   ;
+RL   Submitted (07-DEC-2009) to the INSDC.
+RL   Contact:Satoshi Koi Nara Institute of Science and Technology, Graduate
+RL   School of Biological Sciences; 8916-5 Takayama, Ikoma, Nara 630-0192, Japan
+XX
+RN   [2]
+RX   DOI; 10.3732/ajb.0900157.
+RX   PUBMED; 21622401.
+RA   Koi S., Kato M.;
+RT   "Developmental morphology of seedling and shoot and phylogenetic
+RT   relationship of Diplobryum koyamae (Podostemaceae)";
+RL   Am. J. Bot. 97(3):373-387(2010).
+XX
+DR   MD5; 1c9f3495bb631024fb19c40682eaede8.
+XX
+FH   Key             Location/Qualifiers
+FH
+FT   source          1..1527
+FT                   /organism="Cladopus pierrei"
+FT                   /organelle="plastid:chloroplast"
+FT                   /mol_type="genomic DNA"
+FT                   /country="Laos:Champasak, Houay Champy river"
+FT                   /specimen_voucher="TNS:LKF-103"
+FT                   /db_xref="taxon:698813"
+FT   CDS             1..1527
+FT                   /codon_start=1
+FT                   /transl_table=11
+FT                   /gene="matK"
+FT                   /product="maturase K"
+FT                   /db_xref="GOA:D6RU06"
+FT                   /db_xref="InterPro:IPR002866"
+FT                   /db_xref="InterPro:IPR024937"
+FT                   /db_xref="InterPro:IPR024942"
+FT                   /db_xref="UniProtKB/TrEMBL:D6RU06"
+FT                   /protein_id="BAJ09244.1"
+FT                   /translation="MGEKKDQRYLDLVISRQNYFLYPLIFQEYIYTLTHDHNFFPTILL
+FT                   ENLGYDKRFRFLIVKRLITRMYQQNHLSLSVANLRENPYFLYNKVLYSQKISEGLAIIV
+FT                   AIPFCPQLGTFFKNFELVKVQNLQSIHSIFPFLEDKFPYLNLVSDGLFPYPIHLEKLIQ
+FT                   ILRYWLKDPSSLHFLRFFFHEYWNWNHPIFQKKSNSFFEKRNLRLFVFLYNSYVYEYES
+FT                   ILFFIRRQFFHLPSKPFRFFFERLYFYGKVENFTEVFSKGYAMTLALFKDPNMHYIRYQ
+FT                   GKFFFAYRGMPLLMNKWKYYFVTLFQKNFDVWFQPDKIHINPLYKHSFHCVGYLLSLKR
+FT                   NPSVIRSQMLLNAFRIENTMKKMDIRVPIILMIDSLSKMQFCNKMGHPISKPIWIDSLD
+FT                   SDIIDRFVHLCNKISYFFSGSSKKKDLYQIQYILRFACLKTLARKHKTSVRAFFKKQGS
+FT                   SFLENFFLENQIYSLILIRSSYRSSDRTNKSKVRVWYLDIISINDLINHE"
+XX
+SQ   Sequence 1527 BP; 496 A; 238 C; 208 G; 585 T; 0 other;
+     atgggagaaa aaaaagatca aagatattta gatttagtta tatctcgtca aaattacttc        60
+     ctatacccac ttatttttca agagtatatt tatacactta ctcatgatca taattttttt       120
+     ccaacaatat tgttggaaaa tttaggttat gacaaaagat tccgtttttt aattgtaaaa       180
+     cgtttaatta ctcgaatgta tcaacagaat catttgagtc tttctgttgc aaatttgaga       240
+     gaaaatccat attttctcta caataaagtt ttatattctc aaaagatatc agaggggctt       300
+     gcaatcattg ttgcaattcc attttgcccc caattgggga cttttttcaa aaattttgaa       360
+     ttggtcaaag ttcaaaattt acaatcaatt cattcaatat ttcccttttt agaggataaa       420
+     tttccctatt taaatttggt gtccgatggg ttattccctt accccattca tcttgaaaaa       480
+     ttgattcaaa ttcttcgtta ctggttaaaa gatccatctt ctttacattt tttacgcttc       540
+     ttttttcatg agtattggaa ttggaaccat cccatttttc aaaaaaaatc aaattctttt       600
+     tttgaaaaaa gaaatctacg attatttgtg ttcttatata attcttatgt atatgaatac       660
+     gaatccattt tattttttat tcgtcgccaa ttttttcatt taccatccaa accttttcga       720
+     tttttttttg aaagacttta tttctatgga aaagtagaga attttacaga ggtttttagt       780
+     aagggttacg ccatgacttt agcgttgttc aaagacccga atatgcatta tattcgctat       840
+     caaggaaaat tcttttttgc ttataggggt atgcctcttt taatgaacaa gtggaaatac       900
+     tactttgtta ctttatttca aaaaaatttt gatgtctggt ttcaaccaga caagatacat       960
+     atcaatccat tatataagca ttcattccac tgtgttggtt atcttttaag tttaaaacgg      1020
+     aatccttcag tgatacgaag tcaaatgcta ctaaatgcgt ttcgtataga gaatactatg      1080
+     aagaaaatgg atatacgagt tccaattatt ctcatgattg actcattatc caaaatgcaa      1140
+     ttttgtaata aaatgggtca tcccattagc aaaccaatct ggatcgattc attggattca      1200
+     gatattattg accgatttgt gcatctatgc aataaaattt catatttttt tagtggatcc      1260
+     tcaaaaaaaa aagatttgta tcaaatacag tatatacttc gatttgcttg tttaaaaacc      1320
+     ttggctcgga aacacaaaac ctcggtccgt gcttttttta aaaaacaagg ttcatccttt      1380
+     ttagaaaatt tttttctaga aaaccagatt tattctttga tccttataag atcctcatat      1440
+     agatcgtcag atcgaactaa taaatctaaa gttcgggttt ggtatttgga tattatttct      1500
+     attaatgatc taatcaatca tgaataa                                          1527
+//
+ID   LC151301; SV 1; linear; genomic DNA; STD; PLN; 1527 BP.
+XX
+AC   LC151301;
+XX
+DT   02-NOV-2016 (Rel. 130, Created)
+DT   02-NOV-2016 (Rel. 130, Last updated, Version 1)
+XX
+DE   Cladopus pierrei chloroplast matK gene for maturase K, complete cds,
+DE   specimen_voucher: TNS:LK-429.
+XX
+KW   .
+XX
+OS   Cladopus pierrei
+OC   Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+OC   Spermatophyta; Magnoliopsida; eudicotyledons; Gunneridae; Pentapetalae;
+OC   rosids; fabids; Malpighiales; Podostemaceae; Podostemoideae; Cladopus.
+OG   Plastid:Chloroplast
+XX
+RN   [1]
+RP   1-1527
+RA   Koi S., Werukamkul P., Ampornpan L., Kato M.;
+RT   ;
+RL   Submitted (08-MAY-2016) to the INSDC.
+RL   Contact:Satoshi Koi Osaka City University, Botanical Gardens, Faculty of
+RL   Science; 2000 Kisaichi, Katano, Osaka 576-0004, Japan URL   
+RL   :http://www.osaka-cu.ac.jp/ja
+XX
+RN   [2]
+RA   Koi S., Werukamkul P., Ampornpan L., Kato M.;
+RT   "Taxonomy of the Podostemaceae of Thailand with addition of species and
+RT   molecular phylogeny of Cladopus and the Hydrobryum clade";
+RL   Unpublished.
+XX
+DR   MD5; 06e4fbcc66d3f8e3f08d1f6fa8982327.
+XX
+FH   Key             Location/Qualifiers
+FH
+FT   source          1..1527
+FT                   /organism="Cladopus pierrei"
+FT                   /organelle="plastid:chloroplast"
+FT                   /mol_type="genomic DNA"
+FT                   /country="Laos"
+FT                   /specimen_voucher="TNS:LK-429"
+FT                   /collected_by="M. Kato, S. Koi & T. Wongprasert"
+FT                   /collection_date="2011-02-13"
+FT                   /db_xref="taxon:698813"
+FT   CDS             1..1527
+FT                   /codon_start=1
+FT                   /transl_table=11
+FT                   /gene="matK"
+FT                   /product="maturase K"
+FT                   /db_xref="GOA:A0A1E1GLR6"
+FT                   /db_xref="InterPro:IPR002866"
+FT                   /db_xref="InterPro:IPR024937"
+FT                   /db_xref="InterPro:IPR024942"
+FT                   /db_xref="UniProtKB/TrEMBL:A0A1E1GLR6"
+FT                   /protein_id="BAV90013.1"
+FT                   /translation="MGEKKDQRYLDLVISRQNYFLYPLIFQEYIYTLTHDHNFFPTILL
+FT                   ENLGYDKRFRFLIVKRLITRMYQQNHLSLSVANLXENPYFLYNKXLYSQKISEGLAIXV
+FT                   AIPFXPQLGTFFKNFELVKVQNLQSIHSIFPFLEDKFPYLNLVSDGLFPYPIHLEKLIQ
+FT                   ILRYWLKDPSSLHFLRFFFHEYWNWNHPIFQKKSNSFFEKRNLRLFVFLYNSYVYEYES
+FT                   ILFFIRRQFFHLPSKPFRFFFERLYFYGKXENFTEVFSKGYAMTLALFKDPNMHYIRYQ
+FT                   GKFFFAYRGMPLLMNKWKYYFVTLFQKNFDVWLKPDKIHINPLYKHSFHCVGYLLSLKR
+FT                   NPSVIRSQMLLNAFRIENTMKKMDIRVPIILMIDSLSKMXFCNKMGHPISKPIWIDSLD
+FT                   SDIIDRFXHLCNKISYFYSGSSKKKDLYQIQYILRFACLKTLARKHKTSVRAFFKKQGS
+FT                   SFLENFFLENQIYSLILIRSSYRSSDRTNKSKVRVWYLDIISINDLINHE"
+XX
+SQ   Sequence 1527 BP; 496 A; 236 C; 205 G; 581 T; 9 other;
+     atgggagaaa aaaaagatca aagatattta gatttagtta tatctcgtca aaattacttc        60
+     ctatacccac ttatttttca agagtatatt tatacactta ctcatgatca taattttttt       120
+     ccaacaatat tgttggaaaa tttaggttat gacaaaagat tccgtttttt aattgtaaaa       180
+     cgtttaatta ctcgaatgta tcaacagaat catttgagtc tttctgttgc aaatttgara       240
+     gaaaatccat attttctcta caataaaktt ttatattctc aaaagatatc agaggggctt       300
+     gcaatcaktg ttgcaattcc attttscccc caattgggga cttttttcaa aaattttgaa       360
+     ttggtcaaag ttcaaaattt acaatcaatt cattcaatat ttcccttttt agaggataaa       420
+     tttccctatt taaatttggt gtccgatggg ttattccctt accccattca tcttgaaaaa       480
+     ttgattcaaa ttcttcgtta ctggttaaaa gatccatctt ctttacattt tttacgcttc       540
+     ttttttcatg agtattggaa ttggaaccat cccatttttc aaaaaaaatc aaattctttt       600
+     tttgaaaaaa gaaatctacg attatttgtg ttcttatata attcttatgt atatgaatac       660
+     gaatccattt tattttttat tcgtcgccaa ttttttcatt taccatccaa accttttcgr       720
+     tttttttttg aaagacttta tttctatgga aaartagaga attttacaga ggtttttagt       780
+     aagggttacg ccatgacttt agcgttgttc aaagacccga atatgcatta tattcgctat       840
+     caaggaaaat tcttttttgc ttataggggt atgcctcttt taatgaacaa gtggaaatac       900
+     tactttgtta ctttatttca aaaaaatttt gatgtctggt tgaaaccaga caagatacat       960
+     atcaatccat tatataagca ttcattccac tgtgttggtt atcttttaag tttaaaacgg      1020
+     aatccttcag tgatacgaag tcaaatgcta ctaaatgcgt ttcgtataga gaatactatg      1080
+     aagaaaatgg atatacgagt tccwattatt ctcatgattg actcattatc caaaatgmaa      1140
+     ttttgtaata aaatgggtca tcccattagc aaaccaatct ggatcgattc attggattca      1200
+     gatattattg accgatttgw gcatctatgc aataaaattt catattttta tagtggatcc      1260
+     tcaaaaaaaa aagatttgta tcaaatacag tatatacttc gatttgcttg tttaaaaacc      1320
+     ttggctcgga aacacaaaac ctcggtccgt gcttttttta aaaaacaagg ttcatccttt      1380
+     ttagaaaatt tttttctaga aaaccagatt tattctttga tccttataag atcctcatat      1440
+     agatcgtcag atcgaactaa taaatctaaa gttcgggttt ggtatttgga tattatttct      1500
+     attaatgatc taatcaatca tgaataa                                          1527
+//
+ID   AB610227; SV 1; linear; genomic DNA; STD; PLN; 1527 BP.
+XX
+AC   AB610227;
+XX
+DT   21-JUL-2011 (Rel. 109, Created)
+DT   12-FEB-2013 (Rel. 115, Last updated, Version 2)
+XX
+DE   Cladopus pierrei chloroplast matK gene for maturase K, complete cds,
+DE   specimen_voucher: TNS:LK-222.
+XX
+KW   .
+XX
+OS   Cladopus pierrei
+OC   Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+OC   Spermatophyta; Magnoliopsida; eudicotyledons; Gunneridae; Pentapetalae;
+OC   rosids; fabids; Malpighiales; Podostemaceae; Podostemoideae; Cladopus.
+OG   Plastid:Chloroplast
+XX
+RN   [1]
+RP   1-1527
+RA   Koi S., Kato M.;
+RT   ;
+RL   Submitted (20-JAN-2011) to the INSDC.
+RL   Contact:Satoshi Koi Nara Institute of Science and Technology, Graduate
+RL   School of Biological Sciences; 8916-5 Takayama, Ikoma, Nara 630-0192, Japan
+XX
+RN   [2]
+RA   Koi S., Kato M.;
+RT   "A taxonomic study of Podostemaceae subfamily Podostemoideae of Laos with
+RT   phylogenetic analyses of Cladopus, Paracladopus and Polypleurum";
+RL   Kew Bull. 67:331-365(2012).
+XX
+DR   MD5; e0aa16dade14a633c5657210cb512f15.
+XX
+FH   Key             Location/Qualifiers
+FH
+FT   source          1..1527
+FT                   /organism="Cladopus pierrei"
+FT                   /organelle="plastid:chloroplast"
+FT                   /mol_type="genomic DNA"
+FT                   /country="Laos:Champasak, Houay Ka Pheu river"
+FT                   /specimen_voucher="TNS:LK-222"
+FT                   /db_xref="taxon:698813"
+FT   CDS             1..1527
+FT                   /codon_start=1
+FT                   /transl_table=11
+FT                   /gene="matK"
+FT                   /product="maturase K"
+FT                   /db_xref="GOA:D6RU06"
+FT                   /db_xref="InterPro:IPR002866"
+FT                   /db_xref="InterPro:IPR024937"
+FT                   /db_xref="InterPro:IPR024942"
+FT                   /db_xref="UniProtKB/TrEMBL:D6RU06"
+FT                   /protein_id="BAK53291.1"
+FT                   /translation="MGEKKDQRYLDLVISRQNYFLYPLIFQEYIYTLTHDHNFFPTILL
+FT                   ENLGYDKRFRFLIVKRLITRMYQQNHLSLSVANLRENPYFLYNKVLYSQKISEGLAIIV
+FT                   AIPFCPQLGTFFKNFELVKVQNLQSIHSIFPFLEDKFPYLNLVSDGLFPYPIHLEKLIQ
+FT                   ILRYWLKDPSSLHFLRFFFHEYWNWNHPIFQKKSNSFFEKRNLRLFVFLYNSYVYEYES
+FT                   ILFFIRRQFFHLPSKPFRFFFERLYFYGKVENFTEVFSKGYAMTLALFKDPNMHYIRYQ
+FT                   GKFFFAYRGMPLLMNKWKYYFVTLFQKNFDVWFQPDKIHINPLYKHSFHCVGYLLSLKR
+FT                   NPSVIRSQMLLNAFRIENTMKKMDIRVPIILMIDSLSKMQFCNKMGHPISKPIWIDSLD
+FT                   SDIIDRFVHLCNKISYFFSGSSKKKDLYQIQYILRFACLKTLARKHKTSVRAFFKKQGS
+FT                   SFLENFFLENQIYSLILIRSSYRSSDRTNKSKVRVWYLDIISINDLINHE"
+XX
+SQ   Sequence 1527 BP; 495 A; 238 C; 209 G; 585 T; 0 other;
+     atgggagaaa aaaaagatca aagatattta gatttagtta tatctcgtca aaattacttc        60
+     ctatacccac ttatttttca agagtatatt tatacactta ctcatgatca taattttttt       120
+     ccaacaatat tgttggagaa tttaggttat gacaaaagat tccgtttttt aattgtaaaa       180
+     cgtttaatta ctcgaatgta tcaacagaat catttgagtc tttctgttgc aaatttgaga       240
+     gaaaatccat attttctcta caataaagtt ttatattctc aaaagatatc agaggggctt       300
+     gcaatcattg ttgcaattcc attttgcccc caattgggga cttttttcaa aaattttgaa       360
+     ttggtcaaag ttcaaaattt acaatcaatt cattcaatat ttcccttttt agaggataaa       420
+     tttccctatt taaatttggt gtccgatggg ttattccctt accccattca tcttgaaaaa       480
+     ttgattcaaa ttcttcgtta ctggttaaaa gatccatctt ctttacattt tttacgcttc       540
+     ttttttcatg agtattggaa ttggaaccat cccatttttc aaaaaaaatc aaattctttt       600
+     tttgaaaaaa gaaatctacg attatttgtg ttcttatata attcttatgt atatgaatac       660
+     gaatccattt tattttttat tcgtcgccaa ttttttcatt taccatccaa accttttcga       720
+     tttttttttg aaagacttta tttctatgga aaagtagaga attttacaga ggtttttagt       780
+     aagggttacg ccatgacttt agcgttgttc aaagacccga atatgcatta tattcgctat       840
+     caaggaaaat tcttttttgc ttataggggt atgcctcttt taatgaacaa gtggaaatac       900
+     tactttgtta ctttatttca aaaaaatttt gatgtctggt ttcaaccaga caagatacat       960
+     atcaatccat tatataagca ttcattccac tgtgttggtt atcttttaag tttaaaacgg      1020
+     aatccttcag tgatacgaag tcaaatgcta ctaaatgcgt ttcgtataga gaatactatg      1080
+     aagaaaatgg atatacgagt tccaattatt ctcatgattg actcattatc caaaatgcaa      1140
+     ttttgtaata aaatgggtca tcccattagc aaaccaatct ggatcgattc attggattca      1200
+     gatattattg accgatttgt gcatctatgc aataaaattt catatttttt tagtggatcc      1260
+     tcaaaaaaaa aagatttgta tcaaatacag tatatacttc gatttgcttg tttaaaaacc      1320
+     ttggctcgga aacacaaaac ctcggtccgt gcttttttta aaaaacaagg ttcatccttt      1380
+     ttagaaaatt tttttctaga aaaccagatt tattctttga tccttataag atcctcatat      1440
+     agatcgtcag atcgaactaa taaatctaaa gttcgggttt ggtatttgga tattatttct      1500
+     attaatgatc taatcaatca tgaataa                                          1527
+//
+ID   AB610225; SV 1; linear; genomic DNA; STD; PLN; 1527 BP.
+XX
+AC   AB610225;
+XX
+DT   21-JUL-2011 (Rel. 109, Created)
+DT   12-FEB-2013 (Rel. 115, Last updated, Version 2)
+XX
+DE   Cladopus pierrei chloroplast matK gene for maturase K, complete cds,
+DE   specimen_voucher: TNS:LK-214.
+XX
+KW   .
+XX
+OS   Cladopus pierrei
+OC   Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+OC   Spermatophyta; Magnoliopsida; eudicotyledons; Gunneridae; Pentapetalae;
+OC   rosids; fabids; Malpighiales; Podostemaceae; Podostemoideae; Cladopus.
+OG   Plastid:Chloroplast
+XX
+RN   [1]
+RP   1-1527
+RA   Koi S., Kato M.;
+RT   ;
+RL   Submitted (20-JAN-2011) to the INSDC.
+RL   Contact:Satoshi Koi Nara Institute of Science and Technology, Graduate
+RL   School of Biological Sciences; 8916-5 Takayama, Ikoma, Nara 630-0192, Japan
+XX
+RN   [2]
+RA   Koi S., Kato M.;
+RT   "A taxonomic study of Podostemaceae subfamily Podostemoideae of Laos with
+RT   phylogenetic analyses of Cladopus, Paracladopus and Polypleurum";
+RL   Kew Bull. 67:331-365(2012).
+XX
+DR   MD5; 414a3b7d149ed39b3eab2dbeed36aa03.
+XX
+FH   Key             Location/Qualifiers
+FH
+FT   source          1..1527
+FT                   /organism="Cladopus pierrei"
+FT                   /organelle="plastid:chloroplast"
+FT                   /mol_type="genomic DNA"
+FT                   /country="Laos:Champasak, Tad Champy waterfall"
+FT                   /specimen_voucher="TNS:LK-214"
+FT                   /db_xref="taxon:698813"
+FT   CDS             1..1527
+FT                   /codon_start=1
+FT                   /transl_table=11
+FT                   /gene="matK"
+FT                   /product="maturase K"
+FT                   /db_xref="GOA:F8WQF0"
+FT                   /db_xref="InterPro:IPR002866"
+FT                   /db_xref="InterPro:IPR024937"
+FT                   /db_xref="InterPro:IPR024942"
+FT                   /db_xref="UniProtKB/TrEMBL:F8WQF0"
+FT                   /protein_id="BAK53289.1"
+FT                   /translation="MGEKKDQRYLDLVISRQNYFLYPLIFQEYIYTLTHDHNFFPTILL
+FT                   ENLGYDKRFRFLIVKRLITRMYQQNHLSLSVANLRENPYFLYNKVLYSQKISEGLAIIV
+FT                   AIPFCPQLGTFFKNFELVKVQNLQSIHSIFPFLEDKFPYLNLVSDGLFPYPIHLEKLIQ
+FT                   ILRYWLKDPSSLHFLRFFFHEYWNWNHPIFQKKSNSFFEKRNLRLFVFLYNSYVYEYES
+FT                   ILFFIRRQFFHLPSKPFRFFFERLYFYGKVENFTEVFSKGYAMTLALFKDPNMHYIRYQ
+FT                   GKFFFAYRGMPLLMNKWKYYFVTLFQKNFDVWFQPDKIHINPLYKHSFHCVGYLLSLKR
+FT                   NPSVIRSQMLLNAFRIENTMKKMDIRVPIILMIDSLSKMQFCNKMGHPISKPIWIDSLD
+FT                   SDIIDRFVHLCNKISYFFSGSSKKKDLYQIQYILRFACLKTLARKHKTSVRAFFKKQGS
+FT                   SFLENFFLENQIYSLILIRSSYRSSDRTNKSKVRVWYLDIISINDLIKHE"
+XX
+SQ   Sequence 1527 BP; 497 A; 238 C; 208 G; 584 T; 0 other;
+     atgggagaaa aaaaagatca aagatattta gatttagtta tatctcgtca aaattacttc        60
+     ctatacccac ttatttttca agagtatatt tatacactta ctcatgatca taattttttt       120
+     ccaacaatat tgttggaaaa tttaggttat gacaaaagat tccgtttttt aattgtaaaa       180
+     cgtttaatta ctcgaatgta tcaacagaat catttgagtc tttctgttgc aaatttgaga       240
+     gaaaatccat attttctcta caataaagtt ttatattctc aaaagatatc agaggggctt       300
+     gcaatcattg ttgcaattcc attttgcccc caattgggga cttttttcaa aaattttgaa       360
+     ttggtcaaag ttcaaaattt acaatcaatt cattcaatat ttcccttttt agaggataaa       420
+     tttccctatt taaatttggt gtccgatggg ttattccctt accccattca tcttgaaaaa       480
+     ttgattcaaa ttcttcgtta ctggttaaaa gatccatctt ctttacattt tttacgcttc       540
+     ttttttcatg agtattggaa ttggaaccat cccatttttc aaaaaaaatc aaattctttt       600
+     tttgaaaaaa gaaatctacg attatttgtg ttcttatata attcttatgt atatgaatac       660
+     gaatccattt tattttttat tcgtcgccaa ttttttcatt taccatccaa accttttcga       720
+     tttttttttg aaagacttta tttctatgga aaagtagaga attttacaga ggtttttagt       780
+     aagggttacg ccatgacttt agcgttgttc aaagacccga atatgcatta tattcgctat       840
+     caaggaaaat tcttttttgc ttataggggt atgcctcttt taatgaacaa gtggaaatac       900
+     tactttgtta ctttatttca aaaaaatttt gatgtctggt ttcaaccaga caagatacat       960
+     atcaatccat tatataagca ttcattccac tgtgttggtt atcttttaag tttaaaacgg      1020
+     aatccttcag tgatacgaag tcaaatgcta ctaaatgcgt ttcgtataga gaatactatg      1080
+     aagaaaatgg atatacgagt tccaattatt ctcatgattg actcattatc caaaatgcaa      1140
+     ttttgtaata aaatgggtca tcccattagc aaaccaatct ggatcgattc attggattca      1200
+     gatattattg accgatttgt gcatctatgc aataaaattt catatttttt tagtggatcc      1260
+     tcaaaaaaaa aagatttgta tcaaatacag tatatacttc gatttgcttg tttaaaaacc      1320
+     ttggctcgga aacacaaaac ctcggtccgt gcttttttta aaaaacaagg ttcatccttt      1380
+     ttagaaaatt tttttctaga aaaccagatt tattctttga tccttataag atcctcatat      1440
+     agatcgtcag atcgaactaa taaatctaaa gttcgggttt ggtatttgga tattatttct      1500
+     attaatgatc taatcaaaca tgaataa                                          1527
+//
+ID   LC151305; SV 1; linear; genomic DNA; STD; PLN; 1593 BP.
+XX
+AC   LC151305;
+XX
+DT   02-NOV-2016 (Rel. 130, Created)
+DT   02-NOV-2016 (Rel. 130, Last updated, Version 1)
+XX
+DE   Cladopus pierrei chloroplast matK gene for maturase K, complete cds,
+DE   specimen_voucher: TNS:PW-LA_SK-08.
+XX
+KW   .
+XX
+OS   Cladopus pierrei
+OC   Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+OC   Spermatophyta; Magnoliopsida; eudicotyledons; Gunneridae; Pentapetalae;
+OC   rosids; fabids; Malpighiales; Podostemaceae; Podostemoideae; Cladopus.
+OG   Plastid:Chloroplast
+XX
+RN   [1]
+RP   1-1593
+RA   Koi S., Werukamkul P., Ampornpan L., Kato M.;
+RT   ;
+RL   Submitted (08-MAY-2016) to the INSDC.
+RL   Contact:Satoshi Koi Osaka City University, Botanical Gardens, Faculty of
+RL   Science; 2000 Kisaichi, Katano, Osaka 576-0004, Japan URL   
+RL   :http://www.osaka-cu.ac.jp/ja
+XX
+RN   [2]
+RA   Koi S., Werukamkul P., Ampornpan L., Kato M.;
+RT   "Taxonomy of the Podostemaceae of Thailand with addition of species and
+RT   molecular phylogeny of Cladopus and the Hydrobryum clade";
+RL   Unpublished.
+XX
+DR   MD5; 5e7e803ea7347de9ffe3fd265f0a3470.
+XX
+FH   Key             Location/Qualifiers
+FH
+FT   source          1..1593
+FT                   /organism="Cladopus pierrei"
+FT                   /organelle="plastid:chloroplast"
+FT                   /mol_type="genomic DNA"
+FT                   /country="Thailand"
+FT                   /specimen_voucher="TNS:PW-LA_SK-08"
+FT                   /collected_by="P. Werukamkul & L. Ampornpan"
+FT                   /collection_date="2012-01-30"
+FT                   /db_xref="taxon:698813"
+FT   CDS             1..1593
+FT                   /codon_start=1
+FT                   /transl_table=11
+FT                   /gene="matK"
+FT                   /product="maturase K"
+FT                   /db_xref="GOA:A0A1E1GLS2"
+FT                   /db_xref="InterPro:IPR002866"
+FT                   /db_xref="InterPro:IPR024937"
+FT                   /db_xref="InterPro:IPR024942"
+FT                   /db_xref="UniProtKB/TrEMBL:A0A1E1GLS2"
+FT                   /protein_id="BAV90017.1"
+FT                   /translation="MYHFRIPKIPCPCFNQKLTFFFMGEKKDQRYLDLVISRQNYFLYP
+FT                   LIFQEYIYTLTHDHNFFPTILLENLGYDKRFRFLIVKRLITRMYQQNHLSLSVANLREN
+FT                   PYFLYNKVLYSQKISEGLAIIVAIPFYPQLGTFFKNLELVKVQNLQSIHSIFPFLEDKF
+FT                   PYLNLVSDGLFPYPIHLEKLIQILRYWLKDPSSLHFLRFFFHEYWNWNHPIFQKKSNYF
+FT                   FEKRNLRLFVFLYNSYVYEYESILFFIRRQFFHLPSKPFRFFFERLYFYGKVENFTEVF
+FT                   SKGYAMTLALFKDPNMHYIRYQGKFFFAYRGMPLLMNKWKYYFVTLFQKNFDVWFQPDK
+FT                   IHINPLYKHSFHCVGYLLSLKRNPSVIRSQMLLNAFRIENTMKKMDIRVPIILMIDSLS
+FT                   KMQFCNKMGHPISKPIWIDSLDSDIIDRFVHLCNKIAYFYSGSSKKKDLYQIQYILRFA
+FT                   CLKTLARKHKTSVRAFFKKQGSSFLENFFLENQIYSLILIRSSYRSSDRTNKSKVRVWY
+FT                   LDIISINDLINHE"
+XX
+SQ   Sequence 1593 BP; 518 A; 247 C; 214 G; 614 T; 0 other;
+     atgtatcatt ttagaattcc aaaaatccca tgtccttgct ttaatcaaaa attgactttt        60
+     ttttttatgg gagaaaaaaa agatcaaaga tatttagatt tagttatatc tcgtcaaaat       120
+     tacttcctat acccacttat ttttcaagag tatatttata cacttactca tgatcataat       180
+     ttttttccaa caatattgtt ggaaaattta ggttatgaca aaagattccg ttttttaatt       240
+     gtaaaacgtt taattactcg aatgtatcaa cagaatcatt tgagtctttc tgttgcaaat       300
+     ttgagagaaa atccatattt tctctacaat aaagttttat attctcaaaa gatatcagag       360
+     gggcttgcaa tcattgttgc aattccattt tacccccaat tgggtacttt tttcaaaaat       420
+     ttggaattgg tcaaagttca aaatttacaa tcaattcatt caatatttcc ctttttagag       480
+     gataaatttc cctatttaaa tttggtgtcc gatgggttat tcccttaccc cattcatctt       540
+     gaaaaattga ttcaaattct tcgttactgg ttaaaagatc catcttcttt acatttttta       600
+     cgcttctttt ttcatgagta ttggaattgg aaccatccca tttttcaaaa aaaatcaaat       660
+     tatttttttg aaaaaagaaa tctacgatta tttgtgttct tatataattc ttatgtatat       720
+     gaatacgaat ccattttatt ttttattcgt cgccaatttt ttcatttacc atccaaacct       780
+     tttcggtttt tttttgaaag actttatttc tatggaaaag tagagaattt tacagaggtt       840
+     tttagtaagg gttacgccat gactttagcg ttgtttaaag acccgaatat gcattatatt       900
+     cgctatcaag gaaaattctt ttttgcttat aggggtatgc ctcttttaat gaacaagtgg       960
+     aaatactact ttgttacttt atttcaaaaa aattttgatg tctggtttca accagacaag      1020
+     atacatatca atccattata taagcattca ttccactgtg ttggttatct tttaagttta      1080
+     aaacggaatc cttcagtgat acgaagtcaa atgctactaa atgcgtttcg tatagagaat      1140
+     actatgaaga aaatggatat acgagttcca attattctca tgattgactc attatccaaa      1200
+     atgcaatttt gtaataaaat gggtcatccc attagcaaac caatctggat cgattcattg      1260
+     gattcagata ttattgaccg atttgtgcat ctatgcaata aaattgcata tttttatagt      1320
+     ggatcctcaa aaaaaaaaga tttgtatcaa atacagtata tacttcgatt tgcttgttta      1380
+     aaaaccttgg ctcggaaaca caaaacctcg gtccgtgctt tttttaaaaa acaaggttca      1440
+     tcctttttag aaaatttttt tctagaaaac cagatttatt ctttgatcct tataagatcc      1500
+     tcatatagat cgtcagatcg aactaataaa tctaaagttc gggtttggta tttggatatt      1560
+     atttctatta atgatctaat caatcatgaa taa                                   1593
+//
+ID   LC151304; SV 1; linear; genomic DNA; STD; PLN; 1593 BP.
+XX
+AC   LC151304;
+XX
+DT   02-NOV-2016 (Rel. 130, Created)
+DT   02-NOV-2016 (Rel. 130, Last updated, Version 1)
+XX
+DE   Cladopus pierrei chloroplast matK gene for maturase K, complete cds,
+DE   specimen_voucher: TNS:PW-LA_SK-04.
+XX
+KW   .
+XX
+OS   Cladopus pierrei
+OC   Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+OC   Spermatophyta; Magnoliopsida; eudicotyledons; Gunneridae; Pentapetalae;
+OC   rosids; fabids; Malpighiales; Podostemaceae; Podostemoideae; Cladopus.
+OG   Plastid:Chloroplast
+XX
+RN   [1]
+RP   1-1593
+RA   Koi S., Werukamkul P., Ampornpan L., Kato M.;
+RT   ;
+RL   Submitted (08-MAY-2016) to the INSDC.
+RL   Contact:Satoshi Koi Osaka City University, Botanical Gardens, Faculty of
+RL   Science; 2000 Kisaichi, Katano, Osaka 576-0004, Japan URL   
+RL   :http://www.osaka-cu.ac.jp/ja
+XX
+RN   [2]
+RA   Koi S., Werukamkul P., Ampornpan L., Kato M.;
+RT   "Taxonomy of the Podostemaceae of Thailand with addition of species and
+RT   molecular phylogeny of Cladopus and the Hydrobryum clade";
+RL   Unpublished.
+XX
+DR   MD5; 5e7e803ea7347de9ffe3fd265f0a3470.
+XX
+FH   Key             Location/Qualifiers
+FH
+FT   source          1..1593
+FT                   /organism="Cladopus pierrei"
+FT                   /organelle="plastid:chloroplast"
+FT                   /mol_type="genomic DNA"
+FT                   /country="Thailand"
+FT                   /specimen_voucher="TNS:PW-LA_SK-04"
+FT                   /collected_by="P. Werukamkul & L. Ampornpan"
+FT                   /collection_date="2012-01-28"
+FT                   /db_xref="taxon:698813"
+FT   CDS             1..1593
+FT                   /codon_start=1
+FT                   /transl_table=11
+FT                   /gene="matK"
+FT                   /product="maturase K"
+FT                   /db_xref="GOA:A0A1E1GLS2"
+FT                   /db_xref="InterPro:IPR002866"
+FT                   /db_xref="InterPro:IPR024937"
+FT                   /db_xref="InterPro:IPR024942"
+FT                   /db_xref="UniProtKB/TrEMBL:A0A1E1GLS2"
+FT                   /protein_id="BAV90016.1"
+FT                   /translation="MYHFRIPKIPCPCFNQKLTFFFMGEKKDQRYLDLVISRQNYFLYP
+FT                   LIFQEYIYTLTHDHNFFPTILLENLGYDKRFRFLIVKRLITRMYQQNHLSLSVANLREN
+FT                   PYFLYNKVLYSQKISEGLAIIVAIPFYPQLGTFFKNLELVKVQNLQSIHSIFPFLEDKF
+FT                   PYLNLVSDGLFPYPIHLEKLIQILRYWLKDPSSLHFLRFFFHEYWNWNHPIFQKKSNYF
+FT                   FEKRNLRLFVFLYNSYVYEYESILFFIRRQFFHLPSKPFRFFFERLYFYGKVENFTEVF
+FT                   SKGYAMTLALFKDPNMHYIRYQGKFFFAYRGMPLLMNKWKYYFVTLFQKNFDVWFQPDK
+FT                   IHINPLYKHSFHCVGYLLSLKRNPSVIRSQMLLNAFRIENTMKKMDIRVPIILMIDSLS
+FT                   KMQFCNKMGHPISKPIWIDSLDSDIIDRFVHLCNKIAYFYSGSSKKKDLYQIQYILRFA
+FT                   CLKTLARKHKTSVRAFFKKQGSSFLENFFLENQIYSLILIRSSYRSSDRTNKSKVRVWY
+FT                   LDIISINDLINHE"
+XX
+SQ   Sequence 1593 BP; 518 A; 247 C; 214 G; 614 T; 0 other;
+     atgtatcatt ttagaattcc aaaaatccca tgtccttgct ttaatcaaaa attgactttt        60
+     ttttttatgg gagaaaaaaa agatcaaaga tatttagatt tagttatatc tcgtcaaaat       120
+     tacttcctat acccacttat ttttcaagag tatatttata cacttactca tgatcataat       180
+     ttttttccaa caatattgtt ggaaaattta ggttatgaca aaagattccg ttttttaatt       240
+     gtaaaacgtt taattactcg aatgtatcaa cagaatcatt tgagtctttc tgttgcaaat       300
+     ttgagagaaa atccatattt tctctacaat aaagttttat attctcaaaa gatatcagag       360
+     gggcttgcaa tcattgttgc aattccattt tacccccaat tgggtacttt tttcaaaaat       420
+     ttggaattgg tcaaagttca aaatttacaa tcaattcatt caatatttcc ctttttagag       480
+     gataaatttc cctatttaaa tttggtgtcc gatgggttat tcccttaccc cattcatctt       540
+     gaaaaattga ttcaaattct tcgttactgg ttaaaagatc catcttcttt acatttttta       600
+     cgcttctttt ttcatgagta ttggaattgg aaccatccca tttttcaaaa aaaatcaaat       660
+     tatttttttg aaaaaagaaa tctacgatta tttgtgttct tatataattc ttatgtatat       720
+     gaatacgaat ccattttatt ttttattcgt cgccaatttt ttcatttacc atccaaacct       780
+     tttcggtttt tttttgaaag actttatttc tatggaaaag tagagaattt tacagaggtt       840
+     tttagtaagg gttacgccat gactttagcg ttgtttaaag acccgaatat gcattatatt       900
+     cgctatcaag gaaaattctt ttttgcttat aggggtatgc ctcttttaat gaacaagtgg       960
+     aaatactact ttgttacttt atttcaaaaa aattttgatg tctggtttca accagacaag      1020
+     atacatatca atccattata taagcattca ttccactgtg ttggttatct tttaagttta      1080
+     aaacggaatc cttcagtgat acgaagtcaa atgctactaa atgcgtttcg tatagagaat      1140
+     actatgaaga aaatggatat acgagttcca attattctca tgattgactc attatccaaa      1200
+     atgcaatttt gtaataaaat gggtcatccc attagcaaac caatctggat cgattcattg      1260
+     gattcagata ttattgaccg atttgtgcat ctatgcaata aaattgcata tttttatagt      1320
+     ggatcctcaa aaaaaaaaga tttgtatcaa atacagtata tacttcgatt tgcttgttta      1380
+     aaaaccttgg ctcggaaaca caaaacctcg gtccgtgctt tttttaaaaa acaaggttca      1440
+     tcctttttag aaaatttttt tctagaaaac cagatttatt ctttgatcct tataagatcc      1500
+     tcatatagat cgtcagatcg aactaataaa tctaaagttc gggtttggta tttggatatt      1560
+     atttctatta atgatctaat caatcatgaa taa                                   1593
+//
+ID   LC151302; SV 1; linear; genomic DNA; STD; PLN; 1527 BP.
+XX
+AC   LC151302;
+XX
+DT   02-NOV-2016 (Rel. 130, Created)
+DT   02-NOV-2016 (Rel. 130, Last updated, Version 1)
+XX
+DE   Cladopus pierrei chloroplast matK gene for maturase K, complete cds,
+DE   specimen_voucher: TNS:LK-433.
+XX
+KW   .
+XX
+OS   Cladopus pierrei
+OC   Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+OC   Spermatophyta; Magnoliopsida; eudicotyledons; Gunneridae; Pentapetalae;
+OC   rosids; fabids; Malpighiales; Podostemaceae; Podostemoideae; Cladopus.
+OG   Plastid:Chloroplast
+XX
+RN   [1]
+RP   1-1527
+RA   Koi S., Werukamkul P., Ampornpan L., Kato M.;
+RT   ;
+RL   Submitted (08-MAY-2016) to the INSDC.
+RL   Contact:Satoshi Koi Osaka City University, Botanical Gardens, Faculty of
+RL   Science; 2000 Kisaichi, Katano, Osaka 576-0004, Japan URL   
+RL   :http://www.osaka-cu.ac.jp/ja
+XX
+RN   [2]
+RA   Koi S., Werukamkul P., Ampornpan L., Kato M.;
+RT   "Taxonomy of the Podostemaceae of Thailand with addition of species and
+RT   molecular phylogeny of Cladopus and the Hydrobryum clade";
+RL   Unpublished.
+XX
+DR   MD5; ccb779e1c8c8303a816dbaaecd8b3bdf.
+XX
+FH   Key             Location/Qualifiers
+FH
+FT   source          1..1527
+FT                   /organism="Cladopus pierrei"
+FT                   /organelle="plastid:chloroplast"
+FT                   /mol_type="genomic DNA"
+FT                   /country="Laos"
+FT                   /specimen_voucher="TNS:LK-433"
+FT                   /collected_by="M. Kato, S. Koi & T. Wongprasert"
+FT                   /collection_date="2011-02-14"
+FT                   /db_xref="taxon:698813"
+FT   CDS             1..1527
+FT                   /codon_start=1
+FT                   /transl_table=11
+FT                   /gene="matK"
+FT                   /product="maturase K"
+FT                   /db_xref="GOA:F8WQE5"
+FT                   /db_xref="InterPro:IPR002866"
+FT                   /db_xref="InterPro:IPR024937"
+FT                   /db_xref="InterPro:IPR024942"
+FT                   /db_xref="UniProtKB/TrEMBL:F8WQE5"
+FT                   /protein_id="BAV90014.1"
+FT                   /translation="MGEKKDQRYLDLVISRQNYFLYPLIFQEYIYTLTHDHNFFPTILL
+FT                   ENLGYDKRFRFLIVKRLITRMYQQNHLSLSVANLRENPYFLYNKVLYSQKISEGLAIIV
+FT                   AIPFYPQLGTFFKNLELVKVQNLQSIHSIFPFLEDKFPYLNLVSDGLFPYPIHLEKLIQ
+FT                   ILRYWLKDPSSLHFLRFFFHEYWNWNHPIFQKKSNYFFEKRNLRLFVFLYNSYVYEYES
+FT                   ILFFIRRQFFHLPSKPFRFFFERLYFYGKVENFTEVFSKGYAMTLALFKDPNMHYIRYQ
+FT                   GKFFFAYRGMPLLMNKWKYYFVTLFQKNFDVWFQPDKIHINPLYKHSFHCVGYLLSLKR
+FT                   NPSVIRSQMLLNAFRIENTMKKMDIRVPIILMIDSLSKMQFCNKMGHPISKPIWIDSLD
+FT                   SDIIDRFVHLCNKIAYFYSGSSKKKDLYQIQYILRFACLKTLARKHKTSVRAFFKKQGS
+FT                   SFLENFFLENQIYSLILIRSSYRSSDRTNKSKVRVWYLDIISINDLINHE"
+XX
+SQ   Sequence 1527 BP; 498 A; 236 C; 209 G; 584 T; 0 other;
+     atgggagaaa aaaaagatca aagatattta gatttagtta tatctcgtca aaattacttc        60
+     ctatacccac ttatttttca agagtatatt tatacactta ctcatgatca taattttttt       120
+     ccaacaatat tgttggaaaa tttaggttat gacaaaagat tccgtttttt aattgtaaaa       180
+     cgtttaatta ctcgaatgta tcaacagaat catttgagtc tttctgttgc aaatttgaga       240
+     gaaaatccat attttctcta caataaagtt ttatattctc aaaagatatc agaggggctt       300
+     gcaatcattg ttgcaattcc attttacccc caattgggta cttttttcaa aaatttggaa       360
+     ttggtcaaag ttcaaaattt acaatcaatt cattcaatat ttcccttttt agaggataaa       420
+     tttccctatt taaatttggt gtccgatggg ttattccctt accccattca tcttgaaaaa       480
+     ttgattcaaa ttcttcgtta ctggttaaaa gatccatctt ctttacattt tttacgcttc       540
+     ttttttcatg agtattggaa ttggaaccat cccatttttc aaaaaaaatc aaattatttt       600
+     tttgaaaaaa gaaatctacg attatttgtg ttcttatata attcttatgt atatgaatac       660
+     gaatccattt tattttttat tcgtcgccaa ttttttcatt taccatccaa accttttcgg       720
+     tttttttttg aaagacttta tttctatgga aaagtagaga attttacaga ggtttttagt       780
+     aagggttacg ccatgacttt agcgttgttt aaagacccga atatgcatta tattcgctat       840
+     caaggaaaat tcttttttgc ttataggggt atgcctcttt taatgaacaa gtggaaatac       900
+     tactttgtta ctttatttca aaaaaatttt gatgtctggt ttcaaccaga caagatacat       960
+     atcaatccat tatataagca ttcattccac tgtgttggtt atcttttaag tttaaaacgg      1020
+     aatccttcag tgatacgaag tcaaatgcta ctaaatgcgt ttcgtataga gaatactatg      1080
+     aagaaaatgg atatacgagt tccaattatt ctcatgattg actcattatc caaaatgcaa      1140
+     ttttgtaata aaatgggtca tcccattagc aaaccaatct ggatcgattc attggattca      1200
+     gatattattg accgatttgt gcatctatgc aataaaattg catattttta tagtggatcc      1260
+     tcaaaaaaaa aagatttgta tcaaatacag tatatacttc gatttgcttg tttaaaaacc      1320
+     ttggctcgga aacacaaaac ctcggtccgt gcttttttta aaaaacaagg ttcatccttt      1380
+     ttagaaaatt tttttctaga aaaccagatt tattctttga tccttataag atcctcatat      1440
+     agatcgtcag atcgaactaa taaatctaaa gttcgggttt ggtatttgga tattatttct      1500
+     attaatgatc taatcaatca tgaataa                                          1527
+//
+ID   LC151299; SV 1; linear; genomic DNA; STD; PLN; 1527 BP.
+XX
+AC   LC151299;
+XX
+DT   02-NOV-2016 (Rel. 130, Created)
+DT   02-NOV-2016 (Rel. 130, Last updated, Version 1)
+XX
+DE   Cladopus pierrei chloroplast matK gene for maturase K, complete cds,
+DE   specimen_voucher: TNS:LK-419.
+XX
+KW   .
+XX
+OS   Cladopus pierrei
+OC   Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+OC   Spermatophyta; Magnoliopsida; eudicotyledons; Gunneridae; Pentapetalae;
+OC   rosids; fabids; Malpighiales; Podostemaceae; Podostemoideae; Cladopus.
+OG   Plastid:Chloroplast
+XX
+RN   [1]
+RP   1-1527
+RA   Koi S., Werukamkul P., Ampornpan L., Kato M.;
+RT   ;
+RL   Submitted (08-MAY-2016) to the INSDC.
+RL   Contact:Satoshi Koi Osaka City University, Botanical Gardens, Faculty of
+RL   Science; 2000 Kisaichi, Katano, Osaka 576-0004, Japan URL   
+RL   :http://www.osaka-cu.ac.jp/ja
+XX
+RN   [2]
+RA   Koi S., Werukamkul P., Ampornpan L., Kato M.;
+RT   "Taxonomy of the Podostemaceae of Thailand with addition of species and
+RT   molecular phylogeny of Cladopus and the Hydrobryum clade";
+RL   Unpublished.
+XX
+DR   MD5; ccb779e1c8c8303a816dbaaecd8b3bdf.
+XX
+FH   Key             Location/Qualifiers
+FH
+FT   source          1..1527
+FT                   /organism="Cladopus pierrei"
+FT                   /organelle="plastid:chloroplast"
+FT                   /mol_type="genomic DNA"
+FT                   /country="Laos"
+FT                   /specimen_voucher="TNS:LK-419"
+FT                   /collected_by="M. Kato, S. Koi & T. Wongprasert"
+FT                   /collection_date="2011-02-12"
+FT                   /db_xref="taxon:698813"
+FT   CDS             1..1527
+FT                   /codon_start=1
+FT                   /transl_table=11
+FT                   /gene="matK"
+FT                   /product="maturase K"
+FT                   /db_xref="GOA:F8WQE5"
+FT                   /db_xref="InterPro:IPR002866"
+FT                   /db_xref="InterPro:IPR024937"
+FT                   /db_xref="InterPro:IPR024942"
+FT                   /db_xref="UniProtKB/TrEMBL:F8WQE5"
+FT                   /protein_id="BAV90011.1"
+FT                   /translation="MGEKKDQRYLDLVISRQNYFLYPLIFQEYIYTLTHDHNFFPTILL
+FT                   ENLGYDKRFRFLIVKRLITRMYQQNHLSLSVANLRENPYFLYNKVLYSQKISEGLAIIV
+FT                   AIPFYPQLGTFFKNLELVKVQNLQSIHSIFPFLEDKFPYLNLVSDGLFPYPIHLEKLIQ
+FT                   ILRYWLKDPSSLHFLRFFFHEYWNWNHPIFQKKSNYFFEKRNLRLFVFLYNSYVYEYES
+FT                   ILFFIRRQFFHLPSKPFRFFFERLYFYGKVENFTEVFSKGYAMTLALFKDPNMHYIRYQ
+FT                   GKFFFAYRGMPLLMNKWKYYFVTLFQKNFDVWFQPDKIHINPLYKHSFHCVGYLLSLKR
+FT                   NPSVIRSQMLLNAFRIENTMKKMDIRVPIILMIDSLSKMQFCNKMGHPISKPIWIDSLD
+FT                   SDIIDRFVHLCNKIAYFYSGSSKKKDLYQIQYILRFACLKTLARKHKTSVRAFFKKQGS
+FT                   SFLENFFLENQIYSLILIRSSYRSSDRTNKSKVRVWYLDIISINDLINHE"
+XX
+SQ   Sequence 1527 BP; 498 A; 236 C; 209 G; 584 T; 0 other;
+     atgggagaaa aaaaagatca aagatattta gatttagtta tatctcgtca aaattacttc        60
+     ctatacccac ttatttttca agagtatatt tatacactta ctcatgatca taattttttt       120
+     ccaacaatat tgttggaaaa tttaggttat gacaaaagat tccgtttttt aattgtaaaa       180
+     cgtttaatta ctcgaatgta tcaacagaat catttgagtc tttctgttgc aaatttgaga       240
+     gaaaatccat attttctcta caataaagtt ttatattctc aaaagatatc agaggggctt       300
+     gcaatcattg ttgcaattcc attttacccc caattgggta cttttttcaa aaatttggaa       360
+     ttggtcaaag ttcaaaattt acaatcaatt cattcaatat ttcccttttt agaggataaa       420
+     tttccctatt taaatttggt gtccgatggg ttattccctt accccattca tcttgaaaaa       480
+     ttgattcaaa ttcttcgtta ctggttaaaa gatccatctt ctttacattt tttacgcttc       540
+     ttttttcatg agtattggaa ttggaaccat cccatttttc aaaaaaaatc aaattatttt       600
+     tttgaaaaaa gaaatctacg attatttgtg ttcttatata attcttatgt atatgaatac       660
+     gaatccattt tattttttat tcgtcgccaa ttttttcatt taccatccaa accttttcgg       720
+     tttttttttg aaagacttta tttctatgga aaagtagaga attttacaga ggtttttagt       780
+     aagggttacg ccatgacttt agcgttgttt aaagacccga atatgcatta tattcgctat       840
+     caaggaaaat tcttttttgc ttataggggt atgcctcttt taatgaacaa gtggaaatac       900
+     tactttgtta ctttatttca aaaaaatttt gatgtctggt ttcaaccaga caagatacat       960
+     atcaatccat tatataagca ttcattccac tgtgttggtt atcttttaag tttaaaacgg      1020
+     aatccttcag tgatacgaag tcaaatgcta ctaaatgcgt ttcgtataga gaatactatg      1080
+     aagaaaatgg atatacgagt tccaattatt ctcatgattg actcattatc caaaatgcaa      1140
+     ttttgtaata aaatgggtca tcccattagc aaaccaatct ggatcgattc attggattca      1200
+     gatattattg accgatttgt gcatctatgc aataaaattg catattttta tagtggatcc      1260
+     tcaaaaaaaa aagatttgta tcaaatacag tatatacttc gatttgcttg tttaaaaacc      1320
+     ttggctcgga aacacaaaac ctcggtccgt gcttttttta aaaaacaagg ttcatccttt      1380
+     ttagaaaatt tttttctaga aaaccagatt tattctttga tccttataag atcctcatat      1440
+     agatcgtcag atcgaactaa taaatctaaa gttcgggttt ggtatttgga tattatttct      1500
+     attaatgatc taatcaatca tgaataa                                          1527
+//
+ID   AB610219; SV 1; linear; genomic DNA; STD; PLN; 1527 BP.
+XX
+AC   AB610219;
+XX
+DT   21-JUL-2011 (Rel. 109, Created)
+DT   12-FEB-2013 (Rel. 115, Last updated, Version 2)
+XX
+DE   Cladopus pierrei chloroplast matK gene for maturase K, complete cds,
+DE   specimen_voucher: TNS:LK-128.
+XX
+KW   .
+XX
+OS   Cladopus pierrei
+OC   Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+OC   Spermatophyta; Magnoliopsida; eudicotyledons; Gunneridae; Pentapetalae;
+OC   rosids; fabids; Malpighiales; Podostemaceae; Podostemoideae; Cladopus.
+OG   Plastid:Chloroplast
+XX
+RN   [1]
+RP   1-1527
+RA   Koi S., Kato M.;
+RT   ;
+RL   Submitted (20-JAN-2011) to the INSDC.
+RL   Contact:Satoshi Koi Nara Institute of Science and Technology, Graduate
+RL   School of Biological Sciences; 8916-5 Takayama, Ikoma, Nara 630-0192, Japan
+XX
+RN   [2]
+RA   Koi S., Kato M.;
+RT   "A taxonomic study of Podostemaceae subfamily Podostemoideae of Laos with
+RT   phylogenetic analyses of Cladopus, Paracladopus and Polypleurum";
+RL   Kew Bull. 67:331-365(2012).
+XX
+DR   MD5; ccb779e1c8c8303a816dbaaecd8b3bdf.
+XX
+FH   Key             Location/Qualifiers
+FH
+FT   source          1..1527
+FT                   /organism="Cladopus pierrei"
+FT                   /organelle="plastid:chloroplast"
+FT                   /mol_type="genomic DNA"
+FT                   /country="Laos:Attapeu, Tad Hiew Khon waterfall"
+FT                   /specimen_voucher="TNS:LK-128"
+FT                   /db_xref="taxon:698813"
+FT   CDS             1..1527
+FT                   /codon_start=1
+FT                   /transl_table=11
+FT                   /gene="matK"
+FT                   /product="maturase K"
+FT                   /db_xref="GOA:F8WQE5"
+FT                   /db_xref="InterPro:IPR002866"
+FT                   /db_xref="InterPro:IPR024937"
+FT                   /db_xref="InterPro:IPR024942"
+FT                   /db_xref="UniProtKB/TrEMBL:F8WQE5"
+FT                   /protein_id="BAK53283.1"
+FT                   /translation="MGEKKDQRYLDLVISRQNYFLYPLIFQEYIYTLTHDHNFFPTILL
+FT                   ENLGYDKRFRFLIVKRLITRMYQQNHLSLSVANLRENPYFLYNKVLYSQKISEGLAIIV
+FT                   AIPFYPQLGTFFKNLELVKVQNLQSIHSIFPFLEDKFPYLNLVSDGLFPYPIHLEKLIQ
+FT                   ILRYWLKDPSSLHFLRFFFHEYWNWNHPIFQKKSNYFFEKRNLRLFVFLYNSYVYEYES
+FT                   ILFFIRRQFFHLPSKPFRFFFERLYFYGKVENFTEVFSKGYAMTLALFKDPNMHYIRYQ
+FT                   GKFFFAYRGMPLLMNKWKYYFVTLFQKNFDVWFQPDKIHINPLYKHSFHCVGYLLSLKR
+FT                   NPSVIRSQMLLNAFRIENTMKKMDIRVPIILMIDSLSKMQFCNKMGHPISKPIWIDSLD
+FT                   SDIIDRFVHLCNKIAYFYSGSSKKKDLYQIQYILRFACLKTLARKHKTSVRAFFKKQGS
+FT                   SFLENFFLENQIYSLILIRSSYRSSDRTNKSKVRVWYLDIISINDLINHE"
+XX
+SQ   Sequence 1527 BP; 498 A; 236 C; 209 G; 584 T; 0 other;
+     atgggagaaa aaaaagatca aagatattta gatttagtta tatctcgtca aaattacttc        60
+     ctatacccac ttatttttca agagtatatt tatacactta ctcatgatca taattttttt       120
+     ccaacaatat tgttggaaaa tttaggttat gacaaaagat tccgtttttt aattgtaaaa       180
+     cgtttaatta ctcgaatgta tcaacagaat catttgagtc tttctgttgc aaatttgaga       240
+     gaaaatccat attttctcta caataaagtt ttatattctc aaaagatatc agaggggctt       300
+     gcaatcattg ttgcaattcc attttacccc caattgggta cttttttcaa aaatttggaa       360
+     ttggtcaaag ttcaaaattt acaatcaatt cattcaatat ttcccttttt agaggataaa       420
+     tttccctatt taaatttggt gtccgatggg ttattccctt accccattca tcttgaaaaa       480
+     ttgattcaaa ttcttcgtta ctggttaaaa gatccatctt ctttacattt tttacgcttc       540
+     ttttttcatg agtattggaa ttggaaccat cccatttttc aaaaaaaatc aaattatttt       600
+     tttgaaaaaa gaaatctacg attatttgtg ttcttatata attcttatgt atatgaatac       660
+     gaatccattt tattttttat tcgtcgccaa ttttttcatt taccatccaa accttttcgg       720
+     tttttttttg aaagacttta tttctatgga aaagtagaga attttacaga ggtttttagt       780
+     aagggttacg ccatgacttt agcgttgttt aaagacccga atatgcatta tattcgctat       840
+     caaggaaaat tcttttttgc ttataggggt atgcctcttt taatgaacaa gtggaaatac       900
+     tactttgtta ctttatttca aaaaaatttt gatgtctggt ttcaaccaga caagatacat       960
+     atcaatccat tatataagca ttcattccac tgtgttggtt atcttttaag tttaaaacgg      1020
+     aatccttcag tgatacgaag tcaaatgcta ctaaatgcgt ttcgtataga gaatactatg      1080
+     aagaaaatgg atatacgagt tccaattatt ctcatgattg actcattatc caaaatgcaa      1140
+     ttttgtaata aaatgggtca tcccattagc aaaccaatct ggatcgattc attggattca      1200
+     gatattattg accgatttgt gcatctatgc aataaaattg catattttta tagtggatcc      1260
+     tcaaaaaaaa aagatttgta tcaaatacag tatatacttc gatttgcttg tttaaaaacc      1320
+     ttggctcgga aacacaaaac ctcggtccgt gcttttttta aaaaacaagg ttcatccttt      1380
+     ttagaaaatt tttttctaga aaaccagatt tattctttga tccttataag atcctcatat      1440
+     agatcgtcag atcgaactaa taaatctaaa gttcgggttt ggtatttgga tattatttct      1500
+     attaatgatc taatcaatca tgaataa                                          1527
+//
+ID   AB610224; SV 1; linear; genomic DNA; STD; PLN; 1527 BP.
+XX
+AC   AB610224;
+XX
+DT   21-JUL-2011 (Rel. 109, Created)
+DT   12-FEB-2013 (Rel. 115, Last updated, Version 2)
+XX
+DE   Cladopus pierrei chloroplast matK gene for maturase K, complete cds,
+DE   specimen_voucher: TNS:LK-211.
+XX
+KW   .
+XX
+OS   Cladopus pierrei
+OC   Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+OC   Spermatophyta; Magnoliopsida; eudicotyledons; Gunneridae; Pentapetalae;
+OC   rosids; fabids; Malpighiales; Podostemaceae; Podostemoideae; Cladopus.
+OG   Plastid:Chloroplast
+XX
+RN   [1]
+RP   1-1527
+RA   Koi S., Kato M.;
+RT   ;
+RL   Submitted (20-JAN-2011) to the INSDC.
+RL   Contact:Satoshi Koi Nara Institute of Science and Technology, Graduate
+RL   School of Biological Sciences; 8916-5 Takayama, Ikoma, Nara 630-0192, Japan
+XX
+RN   [2]
+RA   Koi S., Kato M.;
+RT   "A taxonomic study of Podostemaceae subfamily Podostemoideae of Laos with
+RT   phylogenetic analyses of Cladopus, Paracladopus and Polypleurum";
+RL   Kew Bull. 67:331-365(2012).
+XX
+DR   MD5; d9ff480b7fa849baa1aa6d781f5fc673.
+XX
+FH   Key             Location/Qualifiers
+FH
+FT   source          1..1527
+FT                   /organism="Cladopus pierrei"
+FT                   /organelle="plastid:chloroplast"
+FT                   /mol_type="genomic DNA"
+FT                   /country="Laos:Savannakhet, Sammataek rapid"
+FT                   /specimen_voucher="TNS:LK-211"
+FT                   /db_xref="taxon:698813"
+FT   CDS             1..1527
+FT                   /codon_start=1
+FT                   /transl_table=11
+FT                   /gene="matK"
+FT                   /product="maturase K"
+FT                   /db_xref="GOA:F8WQE9"
+FT                   /db_xref="InterPro:IPR002866"
+FT                   /db_xref="InterPro:IPR024937"
+FT                   /db_xref="InterPro:IPR024942"
+FT                   /db_xref="UniProtKB/TrEMBL:F8WQE9"
+FT                   /protein_id="BAK53288.1"
+FT                   /translation="MGEKKDQRYLDLVISRQNYFLYPLIFQEYIYTLTHDHNLFPTILL
+FT                   ENLGYDKRFRFLIVKRLITRMYQQNHLSLSVANLRENTYFLYNKVLYFQKISEGLAIIV
+FT                   AIPFYPQLGTFFKNFELVQVQNLQSIHSIFPFLEDKFPYLNLVSDGLFPYPIHLEKLIQ
+FT                   ILRYWLKDPSSLHFLRFFFHEYWNWNHPIFQKKSNSFFEKRNLRLFVFLYNSYVYEYES
+FT                   ILFFIRRQFFHLPSKAFRFFFERLYFYGKVENFTEVFSKGYAMTLALFKDPNMHYIRYQ
+FT                   GKFFFAYRGMPLLMNKWKYYFVTLFQKNFDVWLKPDKIHINPLYKHSFHCVGYRLSLKR
+FT                   NPSVIRSQMLLNAFRIENTMKKMDIRVPIILMIDSLSKMQFCNKMGHPISKPIWIDSLD
+FT                   SDIIDRFVHLCNKISYFYSGSSKKKDLYQIQYILRFACLKTLARKHKTSVRAFFKKQGS
+FT                   SFLENFFLENQIYSLILIRSSYRSSDRTNKSKVRVWYLDIISINDLINHE"
+XX
+SQ   Sequence 1527 BP; 499 A; 236 C; 211 G; 581 T; 0 other;
+     atgggagaaa aaaaagatca aagatattta gatttagtta tatctcgtca aaattacttc        60
+     ctatacccac ttatttttca agagtatatt tatacactta ctcatgatca taatttgttt       120
+     ccaacaatat tgttggaaaa tttaggttat gacaaaagat tccgtttttt aattgtaaaa       180
+     cgtttaatta ctcgaatgta tcaacagaat catttgagtc tttctgttgc aaatttgaga       240
+     gaaaatacat attttctcta caataaagtt ttatattttc aaaagatatc agaggggctt       300
+     gcaatcattg ttgcaattcc attttacccc caattgggga cttttttcaa aaattttgaa       360
+     ttggtccaag ttcaaaattt acaatcaatt cattcaatat ttcccttttt agaggataaa       420
+     tttccctatt taaatttggt gtccgatggg ttattccctt accccatcca tcttgaaaaa       480
+     ttgattcaaa ttcttcgtta ctggttaaaa gatccatctt ctttacattt tttacgcttc       540
+     ttttttcatg agtattggaa ttggaaccat cccatttttc aaaaaaaatc aaattctttt       600
+     tttgaaaaaa gaaatctacg attatttgtg ttcttatata attcttatgt atatgaatac       660
+     gaatccattt tattttttat tcgtcgccaa ttttttcatt taccatccaa agcttttcgg       720
+     tttttttttg aaagacttta tttctatgga aaagtagaga attttacaga ggtttttagt       780
+     aagggttacg ccatgacttt agcgttgttc aaagacccga atatgcatta tattcgctat       840
+     caaggaaaat tcttttttgc ttataggggt atgcctcttt taatgaacaa gtggaaatac       900
+     tactttgtta ctttatttca aaaaaatttt gatgtctggt taaaaccaga caagatacat       960
+     atcaatccat tatataagca ttcattccac tgtgttggtt atcgtttaag tttaaaacgg      1020
+     aatccttcag tgatacgaag tcaaatgcta ctaaatgcgt ttcgtataga gaatactatg      1080
+     aagaaaatgg atatacgagt tccaattatt ctcatgattg actcattatc caaaatgcaa      1140
+     ttttgtaata aaatgggtca tcccattagc aaaccaatct ggatcgattc attggattca      1200
+     gatattattg accgatttgt gcatctatgc aataaaattt catattttta tagtggatcc      1260
+     tcaaaaaaaa aagatttgta tcaaatacag tatatacttc gatttgcttg tttaaaaacc      1320
+     ttggctcgga aacacaaaac ctcggtccgt gcttttttta aaaaacaagg ttcatccttt      1380
+     ttagaaaatt tttttctaga aaaccagatt tattctttga tccttataag atcctcatat      1440
+     agatcgtcag atcgaactaa taaatctaaa gttcgggttt ggtatttgga tattatttct      1500
+     attaatgatc taatcaatca tgaataa                                          1527
+//
+ID   AB038189; SV 1; linear; genomic DNA; STD; PLN; 1527 BP.
+XX
+AC   AB038189;
+XX
+DT   10-JAN-2002 (Rel. 70, Created)
+DT   16-JAN-2003 (Rel. 74, Last updated, Version 2)
+XX
+DE   Cladopus japonicus chloroplast matK gene for maturase K, complete cds.
+XX
+KW   maturase K.
+XX
+OS   Cladopus japonicus
+OC   Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+OC   Spermatophyta; Magnoliopsida; eudicotyledons; Gunneridae; Pentapetalae;
+OC   rosids; fabids; Malpighiales; Podostemaceae; Podostemoideae; Cladopus.
+OG   Plastid:Chloroplast
+XX
+RN   [1]
+RP   1-1527
+RA   Kita Y., Kato M.;
+RT   ;
+RL   Submitted (08-FEB-2000) to the INSDC.
+RL   Yoko Kita, University of Tokyo, Graduate school of Science, Department of
+RL   Biological Sciences; 7-3-1 Hongo, Bunkyo-ku, Tokyo 113-0033, Japan
+RL   (E-mail:sykita@mail.ecc.u-tokyo.ac.jp, Tel:81-3-5841-4047,
+RL   Fax:81-3-5841-4047)
+XX
+RN   [2]
+RA   Kita Y., Kato M.;
+RT   "Infrafamilial Phylogeny of the Aquatic Angiosperm Podostemaceae Inferred
+RT   from the Nucleotide Sequences of the matK Gene";
+RL   Plant Biol. 3:156-163(2001).
+XX
+DR   MD5; 061f62c7af3f2b82f4ba46a3c6bf53ed.
+XX
+FH   Key             Location/Qualifiers
+FH
+FT   source          1..1527
+FT                   /organism="Cladopus japonicus"
+FT                   /organelle="plastid:chloroplast"
+FT                   /mol_type="genomic DNA"
+FT                   /db_xref="taxon:116728"
+FT   CDS             1..1527
+FT                   /codon_start=1
+FT                   /transl_table=11
+FT                   /gene="matK"
+FT                   /product="maturase K"
+FT                   /db_xref="GOA:Q8WKL5"
+FT                   /db_xref="InterPro:IPR002866"
+FT                   /db_xref="InterPro:IPR024937"
+FT                   /db_xref="InterPro:IPR024942"
+FT                   /db_xref="UniProtKB/TrEMBL:Q8WKL5"
+FT                   /protein_id="BAB83150.1"
+FT                   /translation="MGEKKDQRYLDLVISRQNYFLYPLIFQEYIYTLTHDHNFFPTILL
+FT                   ENLGYDKRFRFLIVKRLITRMYQQNHLSLSVANLRENPYFLYNKVLYSQKISEGLAIIV
+FT                   AIPFYPQLGTFFKNLELVKVQNLQSIHSIFPFLEDKFPYLNLVSDGLFPYPIHLEKLIQ
+FT                   ILRYWLKDPSSLHFLRFFFHEYWNWNHPFFQKKSNSFFEKRNLRLFVFLYNSYVYEYES
+FT                   ILFFIRRQFFHLPSKPFRFFFERLYFYGKVENFTEVFSKGYAMTLALFKDPNMHYIRYQ
+FT                   GKFFFAYRGMPLLMNKWKYYFVTLFQKNFDVWYQPDKIHINPLYKHSFHCVGYLLSLKR
+FT                   NPSVIRSQMLLNAFRIENTMKKMDIRVPIILMIDSLSKMQFCNKMGHPISKPIWIDSLD
+FT                   SDIIDRFVHLCNKIAYFYSGSSKKKDLYQIQYILRFACLKTLARKHKTSVRSFFKKQGS
+FT                   SFLENFFLENQIYSLILIRSSYRSSDRTNKSKVRVWYLDIISINDLINHE"
+XX
+SQ   Sequence 1527 BP; 498 A; 236 C; 207 G; 586 T; 0 other;
+     atgggagaaa aaaaagatca aagatattta gatttagtta tatctcgtca aaattacttc        60
+     ctatacccac ttatttttca agagtatatt tatacactta ctcatgatca taattttttt       120
+     ccaacaatat tgttggaaaa tttaggttat gacaaaagat tccgtttttt aattgtaaaa       180
+     cgtttaatta ctcgaatgta tcaacagaat catttgagtc tttctgttgc aaatttgaga       240
+     gaaaatccat attttctcta caataaagtt ttatattctc aaaagatatc agaggggctt       300
+     gcaatcattg ttgcaattcc attttacccc caattgggta cttttttcaa aaatttggaa       360
+     ttggtcaaag ttcaaaattt acaatcaatt cattcaatat ttcccttttt agaggataaa       420
+     tttccctatt taaatttggt gtccgatggg ttattccctt accccattca tcttgaaaaa       480
+     ttgattcaaa ttcttcgtta ctggttaaaa gatccatctt ctttacattt tttacgcttc       540
+     ttttttcatg agtattggaa ttggaaccat cccttttttc aaaaaaaatc aaattctttt       600
+     tttgaaaaaa gaaatctacg attatttgtg ttcttatata attcttatgt atatgaatac       660
+     gaatccattt tattttttat tcgtcgccaa ttttttcatt taccatccaa accttttcgg       720
+     tttttttttg aaagacttta tttctatgga aaagtagaga attttacaga ggtttttagt       780
+     aagggttacg ccatgacttt agcgttgttt aaagacccga atatgcatta tattcgctat       840
+     caaggaaaat tcttttttgc ttatagaggt atgcctcttt taatgaacaa gtggaaatac       900
+     tactttgtta ctttatttca aaaaaatttt gatgtctggt atcaaccaga caagatacat       960
+     atcaatccat tatataagca ttcattccac tgtgttggtt atcttttaag tttaaaacgg      1020
+     aatccttcag tgatacgaag tcaaatgcta ctaaatgcgt ttcgtataga gaatactatg      1080
+     aagaaaatgg atatacgagt tccaattatt ctcatgattg actcattatc caaaatgcaa      1140
+     ttttgtaata aaatgggtca tcccattagc aaaccaatct ggatcgattc attggattca      1200
+     gatattattg atcgatttgt gcatctatgc aataaaattg catattttta tagtggatcc      1260
+     tcaaaaaaaa aagatttgta tcaaatacag tatatacttc gatttgcttg tttaaaaacc      1320
+     ttggctcgga aacacaaaac ctcggtccgt tcttttttta aaaaacaagg ttcatccttt      1380
+     ttagaaaatt tttttctaga aaaccagatt tattctttga tccttataag atcctcatat      1440
+     agatcgtcag atcgaactaa taaatctaaa gttcgggttt ggtatttgga tattatttct      1500
+     attaatgatc taatcaatca tgaataa                                          1527
+//
+ID   AB698212; SV 1; linear; genomic DNA; STD; PLN; 1527 BP.
+XX
+AC   AB698212;
+XX
+DT   20-JUL-2012 (Rel. 113, Created)
+DT   19-DEC-2012 (Rel. 115, Last updated, Version 2)
+XX
+DE   Cladopus taiensis chloroplast matK gene for maturase K, complete cds,
+DE   specimen_voucher: TNS:TL-102.
+XX
+KW   .
+XX
+OS   Cladopus taiensis
+OC   Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+OC   Spermatophyta; Magnoliopsida; eudicotyledons; Gunneridae; Pentapetalae;
+OC   rosids; fabids; Malpighiales; Podostemaceae; Podostemoideae; Cladopus.
+OG   Plastid:Chloroplast
+XX
+RN   [1]
+RP   1-1527
+RA   Koi S., Hirayama Y., Kato M.;
+RT   ;
+RL   Submitted (10-FEB-2012) to the INSDC.
+RL   Contact:Satoshi Koi Nara Institute of Science and Technology, Graduate
+RL   School of Biological Sciences; 8916-5 Takayama, Ikoma, Nara 630-0192, Japan
+XX
+RN   [2]
+RC   DOI:10.1111/j.1095-8339.2012.01258.x
+RA   Koi S., Kita Y., Hirayama Y., Rutishauser R., Huber K.A., Kato M.;
+RT   "Molecular phylogenetic analysis of Podostemaceae: implications for
+RT   taxonomy of major groups";
+RL   Bot. J. Linn. Soc. 169:461-492(2012).
+XX
+DR   MD5; 3d195129dbf36ad160d6eee6c4ce8840.
+XX
+FH   Key             Location/Qualifiers
+FH
+FT   source          1..1527
+FT                   /organism="Cladopus taiensis"
+FT                   /organelle="plastid:chloroplast"
+FT                   /mol_type="genomic DNA"
+FT                   /country="Thailand:Nakhon Nayok, Wang Takrai Falls"
+FT                   /specimen_voucher="TNS:TL-102"
+FT                   /db_xref="taxon:137181"
+FT   CDS             1..1527
+FT                   /codon_start=1
+FT                   /transl_table=11
+FT                   /gene="matK"
+FT                   /product="maturase K"
+FT                   /db_xref="GOA:I7GZW2"
+FT                   /db_xref="InterPro:IPR002866"
+FT                   /db_xref="InterPro:IPR024937"
+FT                   /db_xref="InterPro:IPR024942"
+FT                   /db_xref="UniProtKB/TrEMBL:I7GZW2"
+FT                   /protein_id="BAM33740.1"
+FT                   /translation="MGEKKDQRYLDLVISRQNYFLYPLIFQEYIYTLTHDHNFFPTILL
+FT                   ENLGYDKRLRFLIVKRLITRMYQQNHLSLSVANWRENPYFLYNKVLYSQKISEGLAIIV
+FT                   AIPFYPQLGTFFKNFELVKVQNLQSIHSIFPFFEDKFPYLNLVSDGLFPYPIHLEKLIQ
+FT                   ILRYWLKDPSSLHFLRFFFHEYWNWNYPLFQKKSNFFFEKRNLRLFVFLYNSYVYEYES
+FT                   ILFFIRRQFFHLPSKPFRFFFERLYFYGKVENFTEVFSKGYPMTLALFKDPNMNYIRYQ
+FT                   GKFFFAYRGMPLLMNKWKYYFVTLFQNHFDVWYQPDKIHINPLYKHSFNCVGYLLSLKR
+FT                   NPSVIRSQMLLNAFRIENTMKKMDIRVPIILMIDSLSKMKFCNKMGHPISKPIWIDSLD
+FT                   SDIIDRFMRLCNKISYFYSGSSKKKDLYQIQYILRFACLKTLARKHKTSVRAFFKKQGS
+FT                   SFLEEFFIENPIYSLILIRSSYRLSDRSNKSKVRVWYLDIISINDLINHE"
+XX
+SQ   Sequence 1527 BP; 500 A; 232 C; 209 G; 586 T; 0 other;
+     atgggagaaa aaaaagatca aagatattta gatctagtta tatctcgtca aaattacttc        60
+     ctatacccac ttatttttca agagtatatt tatacactta ctcatgatca taattttttt       120
+     ccaacaatat tgttggaaaa tttaggttat gacaaaagat tacgtttttt aattgtaaaa       180
+     cgtttaatta ctcgaatgta tcaacagaat catttgagtc tttctgttgc aaattggaga       240
+     gaaaatccgt attttctcta caataaagtt ttatattctc aaaagatatc agaggggctt       300
+     gcaatcattg ttgcaattcc attttacccc caattgggta cttttttcaa aaattttgaa       360
+     ttagtcaaag ttcaaaattt acaatcaatt cattcaatat ttcccttttt tgaggataaa       420
+     tttccctatt taaatttggt gtcagatggg ttattccctt accccattca tcttgaaaaa       480
+     ttgattcaaa ttcttcgtta ctggttaaaa gatccatctt ctttacattt tttacgcttc       540
+     ttttttcacg agtattggaa ttggaactat cccctttttc aaaaaaaatc aaattttttt       600
+     tttgaaaaaa gaaatctacg attatttgtg ttcttatata attcttatgt atatgaatac       660
+     gaatccattt tattttttat tcgtcgccaa ttctttcatt taccatcaaa accttttcgg       720
+     tttttttttg aaagacttta tttctatgga aaagtagaga attttacaga ggtttttagt       780
+     aagggttacc ccatgacttt agcgttgttc aaagacccga atatgaatta tattcgctat       840
+     caaggaaaat tcttttttgc ttataggggt atgccacttt taatgaataa gtggaaatac       900
+     tactttgtta ctttatttca aaatcatttt gatgtctggt atcaaccaga caagatacat       960
+     atcaatccat tatataagca ttcattcaac tgtgttggtt atcttttaag tttaaaacgg      1020
+     aatccttcag tgatacgaag tcaaatgcta ctaaatgcgt ttcgtataga gaatactatg      1080
+     aagaaaatgg atatacgagt tccaattatt ctaatgattg actcattatc caaaatgaaa      1140
+     ttttgtaata aaatgggtca tcccattagc aaaccaatct ggatcgattc gttggattca      1200
+     gatattattg atcgatttat gcgtctatgc aataaaattt catattttta tagtggatcc      1260
+     tcaaaaaaaa aagatttgta tcaaatacag tatatacttc gatttgcttg tttaaaaacc      1320
+     ttggctcgga aacacaaaac ctcggtccgt gcttttttta aaaaacaagg ttcatccttt      1380
+     ttagaagaat tttttataga aaacccgatt tattctttga tccttataag atcctcatat      1440
+     agattgtcag atcgatctaa taaatctaaa gttcgggttt ggtatttgga tattatttct      1500
+     attaatgatc taatcaatca tgaataa                                          1527
+//
+ID   AB537378; SV 1; linear; genomic DNA; STD; PLN; 1527 BP.
+XX
+AC   AB537378;
+XX
+DT   08-JUN-2010 (Rel. 105, Created)
+DT   04-FEB-2011 (Rel. 107, Last updated, Version 2)
+XX
+DE   Cladopus fallax chloroplast matK gene for maturase K, complete cds,
+DE   specimen_voucher: TNS:TL-1610.
+XX
+KW   .
+XX
+OS   Cladopus fallax
+OC   Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+OC   Spermatophyta; Magnoliopsida; eudicotyledons; Gunneridae; Pentapetalae;
+OC   rosids; fabids; Malpighiales; Podostemaceae; Podostemoideae; Cladopus.
+OG   Plastid:Chloroplast
+XX
+RN   [1]
+RP   1-1527
+RA   Koi S., Kato M.;
+RT   ;
+RL   Submitted (07-DEC-2009) to the INSDC.
+RL   Contact:Satoshi Koi Nara Institute of Science and Technology, Graduate
+RL   School of Biological Sciences; 8916-5 Takayama, Ikoma, Nara 630-0192, Japan
+XX
+RN   [2]
+RX   DOI; 10.3732/ajb.0900157.
+RX   PUBMED; 21622401.
+RA   Koi S., Kato M.;
+RT   "Developmental morphology of seedling and shoot and phylogenetic
+RT   relationship of Diplobryum koyamae (Podostemaceae)";
+RL   Am. J. Bot. 97(3):373-387(2010).
+XX
+DR   MD5; 64c8365740de9b327d3b6c9205740133.
+XX
+FH   Key             Location/Qualifiers
+FH
+FT   source          1..1527
+FT                   /organism="Cladopus fallax"
+FT                   /organelle="plastid:chloroplast"
+FT                   /mol_type="genomic DNA"
+FT                   /country="Thailand:Klong Kaeo waterfall, Bo Rai, Trat"
+FT                   /specimen_voucher="TNS:TL-1610"
+FT                   /db_xref="taxon:426330"
+FT   CDS             1..1527
+FT                   /codon_start=1
+FT                   /transl_table=11
+FT                   /gene="matK"
+FT                   /product="maturase K"
+FT                   /db_xref="GOA:A4PIB7"
+FT                   /db_xref="InterPro:IPR002866"
+FT                   /db_xref="InterPro:IPR024937"
+FT                   /db_xref="InterPro:IPR024942"
+FT                   /db_xref="UniProtKB/TrEMBL:A4PIB7"
+FT                   /protein_id="BAJ09243.1"
+FT                   /translation="MGEKKDQRYLDLVISRQNYFLYPLIFQEYIYTLTHDHNFFPTILL
+FT                   ENLGYDKRLRFLIVKRLITRMYQQNHLSLSVANWRENPYFLYNKVLYSQKISEGLAIIV
+FT                   AIPFYPQLGTFFKNFELVKVQNLQSIHSIFPFFEDKFPYLNWVSDGLFPYPIHLEKLIQ
+FT                   ILRYWLKDPSSLHFLRFFFHEYWNWNYPLFQKKSNFFFEKRNLRLFVFLYNSYVYEYES
+FT                   ILFFIRRQFFHLPSKPFRFFFERLYFYGKVENFTEVFSKGYPMTLALFKDPNMNYIRYQ
+FT                   GKFFFAYRGMPLLMNKWKYYFVTLFQNHFDVWLIPDKIHINPLYKHSFNCVGYLLSLKR
+FT                   NPSVIRSQMLQNAFRIENTMKKMDIRVPIILMIDSLSKMKFCNKMGHPISKPIWIDSLD
+FT                   SDIIDRFMRLCNKISYFYSGSSKKKDLYQIQYILRFACLKTLARKHKTSVRAFFKKQGS
+FT                   SFLEEFFIENPIYSLILIRSSYRLSDRSNKSKVRVWYLDIISINDLINHE"
+XX
+SQ   Sequence 1527 BP; 500 A; 231 C; 210 G; 586 T; 0 other;
+     atgggagaaa aaaaagatca aagatattta gatctagtta tatctcgtca aaattacttc        60
+     ctatacccac ttatttttca agagtatatt tatacactta ctcatgatca taattttttt       120
+     ccaacaatat tgttggaaaa tttaggttat gacaaaagat tacgtttttt aattgtaaaa       180
+     cgtttaatta ctcgaatgta tcaacagaat catttgagtc tttctgttgc aaattggaga       240
+     gaaaatccgt attttctcta caataaagtt ttatattctc aaaagatatc agaggggctt       300
+     gcaatcattg ttgcaattcc attttacccc caattgggta cttttttcaa aaattttgaa       360
+     ttagtcaaag ttcaaaattt acaatcaatt cattcaatat ttcccttttt tgaggataaa       420
+     tttccctatt taaattgggt gtcagatggg ttattccctt accccattca tcttgaaaaa       480
+     ttgattcaaa ttcttcgtta ctggttaaaa gatccatctt ctttacattt tttacgcttc       540
+     ttttttcacg agtattggaa ttggaactat cccctttttc aaaaaaaatc aaattttttt       600
+     tttgaaaaaa gaaatctacg attatttgtg ttcttatata attcttatgt atatgaatac       660
+     gaatccattt tattttttat tcgtcgccaa ttctttcatt taccatcaaa accttttcgg       720
+     tttttttttg aaagacttta tttctatgga aaagtagaga attttacaga ggtttttagt       780
+     aagggttacc ccatgacttt agcgttgttc aaagacccga atatgaatta tattcgctat       840
+     caaggaaaat tcttttttgc ttataggggt atgccacttt taatgaataa gtggaaatac       900
+     tactttgtta ctttatttca aaatcatttt gatgtctggt tgataccaga caagatacat       960
+     atcaatccat tatataagca ttcattcaac tgtgttggtt atcttttaag tttaaaacgt      1020
+     aatccttcag tgatacgaag tcaaatgcta caaaatgcgt ttcgtataga gaatactatg      1080
+     aagaaaatgg atatacgagt tccaattatt ctaatgattg actcattatc caaaatgaaa      1140
+     ttttgtaata aaatgggtca tcccattagc aaaccaatct ggatcgattc gttggattca      1200
+     gatattattg atcgatttat gcgtctatgc aataaaattt catattttta tagtggatcc      1260
+     tcaaaaaaaa aagatttgta tcaaatacag tatatacttc gatttgcttg tttaaaaacc      1320
+     ttggctcgga aacacaaaac ctcggtccgt gcttttttta aaaaacaagg ttcatccttt      1380
+     ttagaagaat tttttataga aaacccgatt tattctttga tccttataag atcctcatat      1440
+     agattgtcag atcgatctaa taaatctaaa gttcgggttt ggtatttgga tattatttct      1500
+     attaatgatc taatcaatca tgaataa                                          1527
+//
+ID   AB066175; SV 1; linear; genomic DNA; STD; PLN; 1527 BP.
+XX
+AC   AB066175;
+XX
+DT   19-JUL-2001 (Rel. 68, Created)
+DT   19-JUL-2001 (Rel. 68, Last updated, Version 1)
+XX
+DE   Cladopus javanicus chloroplast matK gene for maturase K, complete cds.
+XX
+KW   .
+XX
+OS   Cladopus javanicus
+OC   Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+OC   Spermatophyta; Magnoliopsida; eudicotyledons; Gunneridae; Pentapetalae;
+OC   rosids; fabids; Malpighiales; Podostemaceae; Podostemoideae; Cladopus.
+OG   Plastid:Chloroplast
+XX
+RN   [1]
+RP   1-1527
+RA   Kita Y., Kato M.;
+RT   ;
+RL   Submitted (13-JUL-2001) to the INSDC.
+RL   Yoko Kita, Department of Biological Sciences, Graduate School of Science,
+RL   University of Tokyo; 7-3-1 Hongo, Bunkyo-ku 113-0033, Japan
+RL   (E-mail:sykita@mail.ecc.u-tokyo.ac.jp, Tel:81-3-5841-4047,
+RL   Fax:81-3-5841-4047)
+XX
+RN   [2]
+RA   Kita Y., Kato M.;
+RT   "Molecular phylogeny of Asian Podostemaceae";
+RL   Unpublished.
+XX
+DR   MD5; 074424633acd08c14f915debba0d59d2.
+DR   EuropePMC; PMC4233830; 12102531.
+XX
+FH   Key             Location/Qualifiers
+FH
+FT   source          1..1527
+FT                   /organism="Cladopus javanicus"
+FT                   /organelle="plastid:chloroplast"
+FT                   /mol_type="genomic DNA"
+FT                   /specimen_voucher="ID01 (Herbarium, Univ. of Tokyo )"
+FT                   /db_xref="taxon:166861"
+FT   CDS             1..1527
+FT                   /codon_start=1
+FT                   /transl_table=11
+FT                   /gene="matK"
+FT                   /product="maturase K"
+FT                   /db_xref="GOA:Q95FY8"
+FT                   /db_xref="InterPro:IPR002866"
+FT                   /db_xref="InterPro:IPR024937"
+FT                   /db_xref="InterPro:IPR024942"
+FT                   /db_xref="UniProtKB/TrEMBL:Q95FY8"
+FT                   /protein_id="BAB62100.1"
+FT                   /translation="MGEKKDQRYLDLVISRQNYFLYPLIFQEYIYTLTHDHNFFPTILL
+FT                   ENLGYDKRFRFLIVKRLITRMYQQNHLSLSVANLRENPYFLYNKVLYSQKISEGLAIIV
+FT                   AIPFDPQLETFFKNFELVKVQNLQSIHSIFPFLEDKFPYLNLVSDGLFPYPIHLEKLIQ
+FT                   ILRYWLKDPSSLHFLRFFFHEYWNWNYPLFQKKSNFFFEKRNLRLFVFLYNSYVYEYES
+FT                   ILFFIRRQFFHLPSKPFRFFFERLYFYGKVENFTEVFSKGYPMTLALFKDPNMNYIRYQ
+FT                   GKFFFAYRGMPLLMNKWKYYFVTLFQNHFDVWLIPDKIHINPLYKHSFNCVGYLLSLKR
+FT                   NPSVIRSQMLLNAFRIENTMKKMDIRVPIILMIDSLFKMKFCNKMGHPISKPIWIDSLD
+FT                   SDIIDRFVRLCNKISYFYSGSSKKKDLYQIQYILRFACLKTLARKHKTSVRAFFKKQGS
+FT                   SFLEEFFIENPIYSLILIRSSDRLSDRSNKSKVRVWYLDIISINDLINHE"
+XX
+SQ   Sequence 1527 BP; 498 A; 230 C; 211 G; 588 T; 0 other;
+     atgggagaaa aaaaagatca aagatattta gatctagtta tatctcgtca aaattacttc        60
+     ctatacccac ttatttttca agagtatatt tatacactta ctcatgatca taattttttt       120
+     ccaacaatat tgttggaaaa tttaggttat gacaaaagat tccgtttttt aattgtaaaa       180
+     cgtttaatta ctcgaatgta tcaacagaat catttgagtc tttctgttgc aaatttgaga       240
+     gaaaatccgt attttctcta caataaagtt ttatattctc aaaagatatc agaggggctt       300
+     gcaatcattg ttgcaattcc atttgacccc caattggaga cttttttcaa aaattttgaa       360
+     ttagtcaaag ttcaaaattt acaatcaatt cattccatat ttcccttttt agaggataaa       420
+     tttccctatt taaatttggt gtcagatggg ttattccctt accccattca tcttgaaaaa       480
+     ttgattcaaa ttcttcgtta ctggttaaaa gatccatctt ctttacattt tttacgcttc       540
+     ttttttcacg agtattggaa ttggaactat cccctttttc aaaaaaaatc aaattttttt       600
+     tttgaaaaaa gaaatctacg attatttgtg ttcttatata attcttatgt atatgaatac       660
+     gaatccattt tattttttat tcgtcgccaa ttctttcatt taccatcaaa accttttcgg       720
+     tttttttttg aaagacttta tttctatgga aaagtagaga attttacaga ggtttttagt       780
+     aagggttacc ccatgacttt agcgttgttc aaagacccta atatgaatta tattcgctat       840
+     caaggaaaat ttttttttgc ttataggggt atgccacttt taatgaataa gtggaaatac       900
+     tactttgtta ctttatttca aaatcatttt gatgtctggt tgataccaga caagatacat       960
+     atcaatccat tatataagca ttcattcaac tgtgttggtt atcttttaag tttaaaacgg      1020
+     aatccttcag tgatacgaag tcaaatgcta ctaaatgcgt ttcgtataga gaatactatg      1080
+     aagaaaatgg atatacgagt tccaattatt ctaatgattg actcattatt caaaatgaaa      1140
+     ttttgtaata aaatgggtca tcccattagc aaaccaatct ggatcgattc gttggattca      1200
+     gatattattg atcgatttgt gcgtctatgc aataaaattt catattttta tagtggatcc      1260
+     tcaaaaaaaa aagatttgta tcaaatacag tatatacttc gatttgcttg tttaaaaacc      1320
+     ttggctcgga aacacaaaac ctcggtccgt gcttttttta aaaaacaagg ttcatccttt      1380
+     ttagaagaat tttttataga aaacccgatt tattctttga tccttataag atcctcagat      1440
+     agattgtcag atcgatctaa taaatctaaa gttcgggttt ggtatttgga tattatttct      1500
+     attaatgatt taatcaatca tgaataa                                          1527
+//
+ID   LC380596; SV 1; linear; genomic DNA; STD; PLN; 1530 BP.
+XX
+AC   LC380596;
+XX
+DT   22-OCT-2018 (Rel. 138, Created)
+DT   29-AUG-2019 (Rel. 141, Last updated, Version 2)
+XX
+DE   Cladopus fallax CAM-26 chloroplast matK gene for maturase K, complete cds.
+XX
+KW   .
+XX
+OS   Cladopus fallax
+OC   Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+OC   Spermatophyta; Magnoliopsida; eudicotyledons; Gunneridae; Pentapetalae;
+OC   rosids; fabids; Malpighiales; Podostemaceae; Podostemoideae; Cladopus.
+OG   Plastid:Chloroplast
+XX
+RN   [1]
+RP   1-1530
+RA   Koi S., Kato M.;
+RT   ;
+RL   Submitted (10-APR-2018) to the INSDC.
+RL   Contact:Satoshi Koi Osaka City University, Botanical Gardens, Faculty of
+RL   Science; Kisaichi 2000, Katano, Osaka 576-0004, Japan
+XX
+RN   [2]
+RC   DOI:10.11646/phytotaxa.401.1.3
+RA   Kato M., Werukamkul P., Won H., Koi S.;
+RT   "Paraphyletic Species of Podostemaceae: Cladopus fallax and Polypleurum
+RT   wallichii";
+RL   Phytotaxa 401:33-48(2019).
+XX
+DR   MD5; bd03c6c25eea8e1982d470e40376e46d.
+XX
+FH   Key             Location/Qualifiers
+FH
+FT   source          1..1530
+FT                   /organism="Cladopus fallax"
+FT                   /organelle="plastid:chloroplast"
+FT                   /isolate="CAM-26"
+FT                   /mol_type="genomic DNA"
+FT                   /country="Cambodia:Romnear 1 waterfall, Mondulkiri Prov."
+FT                   /collected_by="M. Kato"
+FT                   /db_xref="taxon:426330"
+FT   CDS             1..1530
+FT                   /codon_start=1
+FT                   /transl_table=11
+FT                   /gene="matK"
+FT                   /product="maturase K"
+FT                   /protein_id="BBD76069.1"
+FT                   /translation="MGEKKDQRYLDLVISRQNYFLYPLIFQEYIYTLTHDHNFFPTILL
+FT                   ENLGYDKRFRFLIVKRLITRMYQQNHLSLSVANLRENPYFLYNKVLYSQKISEGLAIIV
+FT                   AIPFYPQLGTFFKNFELVKVQNLQSIHSIFPFLEDKFPYLNLVSDGLFPYPIHLEKLIQ
+FT                   ILRYWLKDPSSLHFLRFFFHEYWNWNYPLFQKKSNFFFEKRNLRLFVFLYNSYVYEYES
+FT                   IFFFIRRQQFFHLPSKPFRFFFERLYFYGKVENFTEVFSKVYSMTLALFKDPNMNYIRY
+FT                   QGKFFFAYRGMPLLMNKWKYYFVTLFQNHFDVWLIPDKIHINPLYKHSFNCVGYLLSLK
+FT                   RNPSVIRSQMLLNAFRIENTMKKMDIRVPIILMIDSLYKMKFCNKMGHPISKPIWIDSL
+FT                   DSDIIDRFVRLCNKISYFYSGSSKKKDLYQIQYILRFACLKTLARKHKTSVRAFFKKQG
+FT                   SSFLEEFFIENPIYSLILIRSSYRLSDRSNKSKVRVWYLDIISINDLINHE"
+XX
+SQ   Sequence 1530 BP; 499 A; 232 C; 211 G; 588 T; 0 other;
+     atgggagaaa aaaaagatca aagatattta gatctagtta tatctcgtca aaattacttc        60
+     ctatacccac ttatttttca agagtatatt tatacactta ctcatgatca taattttttt       120
+     ccaacaatat tgttggaaaa tttaggttat gacaaaagat tccgtttttt aattgtaaaa       180
+     cgtttaatta ctcgaatgta tcaacagaat catttgagtc tttctgttgc aaatttgaga       240
+     gaaaatccgt attttctcta caataaagtt ttgtattctc aaaagatatc agaggggctt       300
+     gcaatcattg ttgcaattcc attttacccc caattgggga cttttttcaa aaattttgaa       360
+     ttagtcaaag ttcaaaattt acaatcaatt cattcaatat ttcccttttt agaggataaa       420
+     tttccctatt taaatttggt gtcagatggg ttattccctt accccattca tcttgaaaaa       480
+     ttgattcaaa ttcttcgtta ctggttaaaa gatccatctt ctttacattt tttacgcttc       540
+     ttttttcacg agtattggaa ttggaactat cccctttttc aaaaaaaatc aaattttttt       600
+     tttgaaaaaa gaaatctacg attatttgtg ttcttatata attcttatgt atatgaatac       660
+     gaatccattt tcttttttat tcgtcgccaa caattctttc atttaccatc aaaacctttt       720
+     cggttttttt ttgaaagact ttatttctat ggaaaagtag agaattttac agaggttttt       780
+     agtaaggttt actccatgac tttagcgttg ttcaaagacc cgaatatgaa ttatattcgc       840
+     tatcaaggaa aattcttttt tgcttatagg ggtatgccac ttttaatgaa taagtggaaa       900
+     tactactttg ttactttatt tcaaaatcat tttgatgtct ggttgatacc agacaagata       960
+     catatcaatc cattatataa gcattcattc aactgtgttg gttatctttt aagtttaaaa      1020
+     cggaatcctt cagtgatacg aagtcaaatg ctactaaatg cgtttcgtat agagaatact      1080
+     atgaagaaaa tggatatacg agttccaatt attctaatga ttgactcatt atacaaaatg      1140
+     aaattttgta ataaaatggg tcatcccatt agcaaaccaa tctggatcga ttcgttggat      1200
+     tccgatatta ttgatcgatt tgtgcgtcta tgcaataaaa tttcatattt ttatagtgga      1260
+     tcctcaaaaa aaaaagattt gtatcaaata cagtatatac ttcgatttgc ttgtttaaaa      1320
+     accttggctc ggaaacacaa aacctcggtc cgtgcttttt ttaaaaaaca aggttcatcc      1380
+     tttttagaag aattttttat agaaaacccg atttattctt tgatccttat aagatcctca      1440
+     tatagattgt cagatcgatc taataaatct aaagttcggg tttggtattt ggatattatt      1500
+     tctattaatg atctaataaa tcatgaataa                                       1530
+//
+ID   LC380601; SV 1; linear; genomic DNA; STD; PLN; 1527 BP.
+XX
+AC   LC380601;
+XX
+DT   22-OCT-2018 (Rel. 138, Created)
+DT   29-AUG-2019 (Rel. 141, Last updated, Version 2)
+XX
+DE   Cladopus taiensis CAM-07 chloroplast matK gene for maturase K, complete
+DE   cds.
+XX
+KW   .
+XX
+OS   Cladopus taiensis
+OC   Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+OC   Spermatophyta; Magnoliopsida; eudicotyledons; Gunneridae; Pentapetalae;
+OC   rosids; fabids; Malpighiales; Podostemaceae; Podostemoideae; Cladopus.
+OG   Plastid:Chloroplast
+XX
+RN   [1]
+RP   1-1527
+RA   Koi S., Kato M.;
+RT   ;
+RL   Submitted (10-APR-2018) to the INSDC.
+RL   Contact:Satoshi Koi Osaka City University, Botanical Gardens, Faculty of
+RL   Science; Kisaichi 2000, Katano, Osaka 576-0004, Japan
+XX
+RN   [2]
+RC   DOI:10.11646/phytotaxa.401.1.3
+RA   Kato M., Werukamkul P., Won H., Koi S.;
+RT   "Paraphyletic Species of Podostemaceae: Cladopus fallax and Polypleurum
+RT   wallichii";
+RL   Phytotaxa 401:33-48(2019).
+XX
+DR   MD5; 1d7ecc27dc4bf758f82276fef4d68be5.
+XX
+FH   Key             Location/Qualifiers
+FH
+FT   source          1..1527
+FT                   /organism="Cladopus taiensis"
+FT                   /organelle="plastid:chloroplast"
+FT                   /isolate="CAM-07"
+FT                   /mol_type="genomic DNA"
+FT                   /country="Cambodia:Pro Pang Khna, Thma Bang, Koh Kong
+FT                   Prov."
+FT                   /collected_by="M. Kato"
+FT                   /db_xref="taxon:137181"
+FT   CDS             1..1527
+FT                   /codon_start=1
+FT                   /transl_table=11
+FT                   /gene="matK"
+FT                   /product="maturase K"
+FT                   /protein_id="BBD76074.1"
+FT                   /translation="MGEKKDQRYLDLVISRQNYFLYPLIFQEYIYTLTHDHNFFPTILL
+FT                   ENLGYDKRLRFLIVKRLITRMYQQNHLSLSVANWRENPYFLYNKVLYSQKISEGLAIIV
+FT                   AIPFYPQLGTFFKNFELVKVQNLQSIHSIFPFFEDKFPYLNLVSDGLFPYPIHLEKLIQ
+FT                   ILRYWLKDPSSLHFLRFFFHEYWNWNYPLFQKKSNFFFEKRNLRLFVFLYNSYVYEYES
+FT                   ILFFIRRQFFHLPSKPFRFFFERLYFYGKVENFTEVFSKGYPMTLALFKDPNMNYIRYQ
+FT                   GKFFFAYRGMPLLMNKWKYYFVTLFQNHFDVWYQPDKIHINPLYKHSFNCVGYLLSLKR
+FT                   NPSVIRSQMLLNAFRIENTMKKMDIRVPIILMIDSLSKMKFCNKMGHPISKPIWIDSLD
+FT                   SDIIDRFMRLCNKISYFYSGSSKKKDLYQIQYILRFACLKTLARKHKTSVRAFFKKQGS
+FT                   SFLEEFFIENPIYSLILIRSSYRLSDRSNKSKVRVWYLDIISINDLINHE"
+XX
+SQ   Sequence 1527 BP; 500 A; 233 C; 208 G; 586 T; 0 other;
+     atgggagaaa aaaaagatca aagatattta gatctagtta tatctcgtca aaattacttc        60
+     ctatacccac ttatttttca agagtatatt tatacactta ctcatgatca taattttttt       120
+     ccaacaatat tgttggaaaa tttaggttat gacaaaagat tacgtttttt aattgtaaaa       180
+     cgtttaatta ctcgaatgta tcaacagaat catttgagtc tttctgttgc aaattggaga       240
+     gaaaatccgt attttctcta caataaagtt ttatattctc aaaagatatc agaggggctt       300
+     gcaatcattg ttgcaattcc attttacccc caattgggta cttttttcaa aaactttgaa       360
+     ttagtcaaag ttcaaaattt acaatcaatt cattcaatat ttcccttttt tgaggataaa       420
+     tttccctatt taaatttggt gtcagatggg ttattccctt accccattca tcttgaaaaa       480
+     ttgattcaaa ttcttcgtta ctggttaaaa gatccatctt ctttacattt tttacgcttc       540
+     ttttttcacg agtattggaa ttggaactat cccctttttc aaaaaaaatc aaattttttt       600
+     tttgaaaaaa gaaatctacg attatttgtg ttcttatata attcttatgt atatgaatac       660
+     gaatccattt tattttttat tcgtcgccaa ttctttcatt taccatcaaa accttttcgg       720
+     tttttttttg aaagacttta tttctatgga aaagtagaga attttacaga ggtttttagt       780
+     aagggttacc ccatgacttt agcgttgttc aaagacccta atatgaatta tattcgctat       840
+     caaggaaaat tcttttttgc ttataggggt atgccacttt taatgaataa gtggaaatac       900
+     tactttgtta ctttatttca aaatcatttt gatgtctggt atcaaccaga caagatacat       960
+     atcaatccat tatataagca ttcattcaac tgtgttggtt atcttttaag tttaaaacgg      1020
+     aatccttcag tgatacgaag tcaaatgcta ctaaatgcgt ttcgtataga gaatactatg      1080
+     aagaaaatgg atatacgagt tccaattatt ctaatgattg actcattatc caaaatgaaa      1140
+     ttttgtaata aaatgggtca tcccattagc aaaccaatct ggatcgattc gttggattca      1200
+     gatattattg atcgatttat gcgtctatgc aataaaattt catattttta tagtggatcc      1260
+     tcaaaaaaaa aagatttgta tcaaatacag tatatacttc gatttgcttg tttaaaaacc      1320
+     ttggctcgga aacacaaaac ctcggtccgt gcttttttta aaaaacaagg ttcatccttt      1380
+     ttagaagaat tttttataga aaacccgatt tattctttga tccttataag atcctcatat      1440
+     agattgtcag atcgatctaa taaatctaaa gttcgggttt ggtatttgga tattatttct      1500
+     attaatgatc taatcaatca tgaataa                                          1527
+//
+ID   LC151309; SV 1; linear; genomic DNA; STD; PLN; 1527 BP.
+XX
+AC   LC151309;
+XX
+DT   02-NOV-2016 (Rel. 130, Created)
+DT   02-NOV-2016 (Rel. 130, Last updated, Version 1)
+XX
+DE   Cladopus taiensis chloroplast matK gene for maturase K, complete cds,
+DE   specimen_voucher: TNS:TL-1903.
+XX
+KW   .
+XX
+OS   Cladopus taiensis
+OC   Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+OC   Spermatophyta; Magnoliopsida; eudicotyledons; Gunneridae; Pentapetalae;
+OC   rosids; fabids; Malpighiales; Podostemaceae; Podostemoideae; Cladopus.
+OG   Plastid:Chloroplast
+XX
+RN   [1]
+RP   1-1527
+RA   Koi S., Werukamkul P., Ampornpan L., Kato M.;
+RT   ;
+RL   Submitted (08-MAY-2016) to the INSDC.
+RL   Contact:Satoshi Koi Osaka City University, Botanical Gardens, Faculty of
+RL   Science; 2000 Kisaichi, Katano, Osaka 576-0004, Japan URL   
+RL   :http://www.osaka-cu.ac.jp/ja
+XX
+RN   [2]
+RA   Koi S., Werukamkul P., Ampornpan L., Kato M.;
+RT   "Taxonomy of the Podostemaceae of Thailand with addition of species and
+RT   molecular phylogeny of Cladopus and the Hydrobryum clade";
+RL   Unpublished.
+XX
+DR   MD5; 12126755485ba277869033c90b8034bf.
+XX
+FH   Key             Location/Qualifiers
+FH
+FT   source          1..1527
+FT                   /organism="Cladopus taiensis"
+FT                   /organelle="plastid:chloroplast"
+FT                   /mol_type="genomic DNA"
+FT                   /country="Thailand"
+FT                   /specimen_voucher="TNS:TL-1903"
+FT                   /collected_by="M. Kato, S. Koi, P. Werukamkul & L.
+FT                   Ampornpan"
+FT                   /collection_date="2015-02-22"
+FT                   /db_xref="taxon:137181"
+FT   CDS             1..1527
+FT                   /codon_start=1
+FT                   /transl_table=11
+FT                   /gene="matK"
+FT                   /product="maturase K"
+FT                   /db_xref="GOA:A0A1E1GLT1"
+FT                   /db_xref="InterPro:IPR002866"
+FT                   /db_xref="InterPro:IPR024937"
+FT                   /db_xref="InterPro:IPR024942"
+FT                   /db_xref="UniProtKB/TrEMBL:A0A1E1GLT1"
+FT                   /protein_id="BAV90021.1"
+FT                   /translation="MGEKKDQRYLDLVISRQNYFLYPLIFQEYIYTLTHDHNFFPTILL
+FT                   ENLGYDKRLRFLIVKRLITRMYQQNHLSLSVANWRENPYFLYNKVLYSQKISEGLAIIV
+FT                   AIPFYPQLGTFFKNFELVKVQNLQSIHSIFPFFEDKFPYLNLVSDGLFPYPIHLEKLIQ
+FT                   ILRYWLKDPSSLHFLRFFFHEYWNWNYPLFQKKSHFFFEKRNLRLFVFLYNSYVYEYES
+FT                   ILFFIRRQFFHLPSKPFRFFFERLYFYGKVENFTEVFSKGYPMTLALFKDPNMNYIRYQ
+FT                   GKFFFAYRGMPLLMNKWKYYFVTLFQNHFDVWYQPDKIHINPLYKHSFNCVGYLLSLKR
+FT                   NPSVIRSQMLLNAFRIENTMKKMDIRVPIILMIDSLSKMKFCNKMGHPISKPIWIDSLD
+FT                   SDIIDRFMRLCNKISYFYSGSSKKKDLYQIQYILRFACLKTLARKHKTSVRAFFKKQGS
+FT                   SFLEEFFIENPIYSLILIRSSYRLSDRSNKSKVRVWYLDIISINDLINHE"
+XX
+SQ   Sequence 1527 BP; 499 A; 233 C; 208 G; 587 T; 0 other;
+     atgggagaaa aaaaagatca aagatattta gatctagtta tatctcgtca aaattacttc        60
+     ctatacccac ttatttttca agagtatatt tatacactta ctcatgatca taattttttt       120
+     ccaacaatat tgttggaaaa tttaggttat gacaaaagat tacgtttttt aattgtaaaa       180
+     cgtttaatta ctcgaatgta tcaacagaat catttgagtc tttctgttgc aaattggaga       240
+     gaaaatccgt attttctcta caataaagtt ttatattctc aaaagatatc agaggggctt       300
+     gcaatcattg ttgcaattcc attttacccc caattgggta cttttttcaa aaattttgaa       360
+     ttagtcaaag ttcaaaattt acaatcaatt cattcaatat ttcccttttt tgaggataaa       420
+     tttccctatt taaatttggt gtcagatggg ttattccctt accccattca tcttgaaaaa       480
+     ttgattcaaa ttcttcgtta ctggttaaaa gatccatctt ctttacattt tttacgcttc       540
+     ttttttcacg agtattggaa ttggaactat cccctttttc aaaaaaaatc acattttttt       600
+     tttgaaaaaa gaaatctacg attatttgtg ttcttatata attcttatgt atatgaatac       660
+     gaatccattt tattttttat tcgtcgccaa ttctttcatt taccatcaaa accttttcgg       720
+     tttttttttg aaagacttta tttctatgga aaagtagaga attttacaga ggtttttagt       780
+     aagggttacc ccatgacttt agcgttgttc aaagacccta atatgaatta tattcgctat       840
+     caaggaaaat tcttttttgc ttataggggt atgccacttt taatgaataa gtggaaatac       900
+     tactttgtta ctttatttca aaatcatttt gatgtctggt atcaaccaga caagatacat       960
+     atcaatccat tatataagca ttcattcaac tgtgttggtt atcttttaag tttaaaacgg      1020
+     aatccttcag tgatacgaag tcaaatgcta ctaaatgcgt ttcgtataga gaatactatg      1080
+     aagaaaatgg atatacgagt tccaattatt ctaatgattg actcattatc caaaatgaaa      1140
+     ttttgtaata aaatgggtca tcccattagc aaaccaatct ggatcgattc gttggattca      1200
+     gatattattg atcgatttat gcgtctatgc aataaaattt catattttta tagtggatcc      1260
+     tcaaaaaaaa aagatttgta tcaaatacag tatatacttc gatttgcttg tttaaaaacc      1320
+     ttggctcgga aacacaaaac ctcggtccgt gcttttttta aaaaacaagg ttcatccttt      1380
+     ttagaagaat tttttataga aaacccgatt tattctttga tccttataag atcctcatat      1440
+     agattgtcag atcgatctaa taaatctaaa gttcgggttt ggtatttgga tattatttct      1500
+     attaatgatc taatcaatca tgaataa                                          1527
+//
+ID   LC151308; SV 1; linear; genomic DNA; STD; PLN; 1527 BP.
+XX
+AC   LC151308;
+XX
+DT   02-NOV-2016 (Rel. 130, Created)
+DT   02-NOV-2016 (Rel. 130, Last updated, Version 1)
+XX
+DE   Cladopus taiensis chloroplast matK gene for maturase K, complete cds,
+DE   specimen_voucher: TNS:PW-LA_CP-31.
+XX
+KW   .
+XX
+OS   Cladopus taiensis
+OC   Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+OC   Spermatophyta; Magnoliopsida; eudicotyledons; Gunneridae; Pentapetalae;
+OC   rosids; fabids; Malpighiales; Podostemaceae; Podostemoideae; Cladopus.
+OG   Plastid:Chloroplast
+XX
+RN   [1]
+RP   1-1527
+RA   Koi S., Werukamkul P., Ampornpan L., Kato M.;
+RT   ;
+RL   Submitted (08-MAY-2016) to the INSDC.
+RL   Contact:Satoshi Koi Osaka City University, Botanical Gardens, Faculty of
+RL   Science; 2000 Kisaichi, Katano, Osaka 576-0004, Japan URL   
+RL   :http://www.osaka-cu.ac.jp/ja
+XX
+RN   [2]
+RA   Koi S., Werukamkul P., Ampornpan L., Kato M.;
+RT   "Taxonomy of the Podostemaceae of Thailand with addition of species and
+RT   molecular phylogeny of Cladopus and the Hydrobryum clade";
+RL   Unpublished.
+XX
+DR   MD5; 12126755485ba277869033c90b8034bf.
+XX
+FH   Key             Location/Qualifiers
+FH
+FT   source          1..1527
+FT                   /organism="Cladopus taiensis"
+FT                   /organelle="plastid:chloroplast"
+FT                   /mol_type="genomic DNA"
+FT                   /country="Thailand"
+FT                   /specimen_voucher="TNS:PW-LA_CP-31"
+FT                   /collected_by="P. Werukamkul & L. Ampornpan"
+FT                   /collection_date="2014-01-12"
+FT                   /db_xref="taxon:137181"
+FT   CDS             1..1527
+FT                   /codon_start=1
+FT                   /transl_table=11
+FT                   /gene="matK"
+FT                   /product="maturase K"
+FT                   /db_xref="GOA:A0A1E1GLT1"
+FT                   /db_xref="InterPro:IPR002866"
+FT                   /db_xref="InterPro:IPR024937"
+FT                   /db_xref="InterPro:IPR024942"
+FT                   /db_xref="UniProtKB/TrEMBL:A0A1E1GLT1"
+FT                   /protein_id="BAV90020.1"
+FT                   /translation="MGEKKDQRYLDLVISRQNYFLYPLIFQEYIYTLTHDHNFFPTILL
+FT                   ENLGYDKRLRFLIVKRLITRMYQQNHLSLSVANWRENPYFLYNKVLYSQKISEGLAIIV
+FT                   AIPFYPQLGTFFKNFELVKVQNLQSIHSIFPFFEDKFPYLNLVSDGLFPYPIHLEKLIQ
+FT                   ILRYWLKDPSSLHFLRFFFHEYWNWNYPLFQKKSHFFFEKRNLRLFVFLYNSYVYEYES
+FT                   ILFFIRRQFFHLPSKPFRFFFERLYFYGKVENFTEVFSKGYPMTLALFKDPNMNYIRYQ
+FT                   GKFFFAYRGMPLLMNKWKYYFVTLFQNHFDVWYQPDKIHINPLYKHSFNCVGYLLSLKR
+FT                   NPSVIRSQMLLNAFRIENTMKKMDIRVPIILMIDSLSKMKFCNKMGHPISKPIWIDSLD
+FT                   SDIIDRFMRLCNKISYFYSGSSKKKDLYQIQYILRFACLKTLARKHKTSVRAFFKKQGS
+FT                   SFLEEFFIENPIYSLILIRSSYRLSDRSNKSKVRVWYLDIISINDLINHE"
+XX
+SQ   Sequence 1527 BP; 499 A; 233 C; 208 G; 587 T; 0 other;
+     atgggagaaa aaaaagatca aagatattta gatctagtta tatctcgtca aaattacttc        60
+     ctatacccac ttatttttca agagtatatt tatacactta ctcatgatca taattttttt       120
+     ccaacaatat tgttggaaaa tttaggttat gacaaaagat tacgtttttt aattgtaaaa       180
+     cgtttaatta ctcgaatgta tcaacagaat catttgagtc tttctgttgc aaattggaga       240
+     gaaaatccgt attttctcta caataaagtt ttatattctc aaaagatatc agaggggctt       300
+     gcaatcattg ttgcaattcc attttacccc caattgggta cttttttcaa aaattttgaa       360
+     ttagtcaaag ttcaaaattt acaatcaatt cattcaatat ttcccttttt tgaggataaa       420
+     tttccctatt taaatttggt gtcagatggg ttattccctt accccattca tcttgaaaaa       480
+     ttgattcaaa ttcttcgtta ctggttaaaa gatccatctt ctttacattt tttacgcttc       540
+     ttttttcacg agtattggaa ttggaactat cccctttttc aaaaaaaatc acattttttt       600
+     tttgaaaaaa gaaatctacg attatttgtg ttcttatata attcttatgt atatgaatac       660
+     gaatccattt tattttttat tcgtcgccaa ttctttcatt taccatcaaa accttttcgg       720
+     tttttttttg aaagacttta tttctatgga aaagtagaga attttacaga ggtttttagt       780
+     aagggttacc ccatgacttt agcgttgttc aaagacccta atatgaatta tattcgctat       840
+     caaggaaaat tcttttttgc ttataggggt atgccacttt taatgaataa gtggaaatac       900
+     tactttgtta ctttatttca aaatcatttt gatgtctggt atcaaccaga caagatacat       960
+     atcaatccat tatataagca ttcattcaac tgtgttggtt atcttttaag tttaaaacgg      1020
+     aatccttcag tgatacgaag tcaaatgcta ctaaatgcgt ttcgtataga gaatactatg      1080
+     aagaaaatgg atatacgagt tccaattatt ctaatgattg actcattatc caaaatgaaa      1140
+     ttttgtaata aaatgggtca tcccattagc aaaccaatct ggatcgattc gttggattca      1200
+     gatattattg atcgatttat gcgtctatgc aataaaattt catattttta tagtggatcc      1260
+     tcaaaaaaaa aagatttgta tcaaatacag tatatacttc gatttgcttg tttaaaaacc      1320
+     ttggctcgga aacacaaaac ctcggtccgt gcttttttta aaaaacaagg ttcatccttt      1380
+     ttagaagaat tttttataga aaacccgatt tattctttga tccttataag atcctcatat      1440
+     agattgtcag atcgatctaa taaatctaaa gttcgggttt ggtatttgga tattatttct      1500
+     attaatgatc taatcaatca tgaataa                                          1527
+//
+ID   LC151307; SV 1; linear; genomic DNA; STD; PLN; 1527 BP.
+XX
+AC   LC151307;
+XX
+DT   02-NOV-2016 (Rel. 130, Created)
+DT   02-NOV-2016 (Rel. 130, Last updated, Version 1)
+XX
+DE   Cladopus taiensis chloroplast matK gene for maturase K, complete cds,
+DE   specimen_voucher: TNS:PW-LA_CP-26.
+XX
+KW   .
+XX
+OS   Cladopus taiensis
+OC   Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+OC   Spermatophyta; Magnoliopsida; eudicotyledons; Gunneridae; Pentapetalae;
+OC   rosids; fabids; Malpighiales; Podostemaceae; Podostemoideae; Cladopus.
+OG   Plastid:Chloroplast
+XX
+RN   [1]
+RP   1-1527
+RA   Koi S., Werukamkul P., Ampornpan L., Kato M.;
+RT   ;
+RL   Submitted (08-MAY-2016) to the INSDC.
+RL   Contact:Satoshi Koi Osaka City University, Botanical Gardens, Faculty of
+RL   Science; 2000 Kisaichi, Katano, Osaka 576-0004, Japan URL   
+RL   :http://www.osaka-cu.ac.jp/ja
+XX
+RN   [2]
+RA   Koi S., Werukamkul P., Ampornpan L., Kato M.;
+RT   "Taxonomy of the Podostemaceae of Thailand with addition of species and
+RT   molecular phylogeny of Cladopus and the Hydrobryum clade";
+RL   Unpublished.
+XX
+DR   MD5; 12126755485ba277869033c90b8034bf.
+XX
+FH   Key             Location/Qualifiers
+FH
+FT   source          1..1527
+FT                   /organism="Cladopus taiensis"
+FT                   /organelle="plastid:chloroplast"
+FT                   /mol_type="genomic DNA"
+FT                   /country="Thailand"
+FT                   /specimen_voucher="TNS:PW-LA_CP-26"
+FT                   /collected_by="P. Werukamkul & L. Ampornpan"
+FT                   /collection_date="2014-01-12"
+FT                   /db_xref="taxon:137181"
+FT   CDS             1..1527
+FT                   /codon_start=1
+FT                   /transl_table=11
+FT                   /gene="matK"
+FT                   /product="maturase K"
+FT                   /db_xref="GOA:A0A1E1GLT1"
+FT                   /db_xref="InterPro:IPR002866"
+FT                   /db_xref="InterPro:IPR024937"
+FT                   /db_xref="InterPro:IPR024942"
+FT                   /db_xref="UniProtKB/TrEMBL:A0A1E1GLT1"
+FT                   /protein_id="BAV90019.1"
+FT                   /translation="MGEKKDQRYLDLVISRQNYFLYPLIFQEYIYTLTHDHNFFPTILL
+FT                   ENLGYDKRLRFLIVKRLITRMYQQNHLSLSVANWRENPYFLYNKVLYSQKISEGLAIIV
+FT                   AIPFYPQLGTFFKNFELVKVQNLQSIHSIFPFFEDKFPYLNLVSDGLFPYPIHLEKLIQ
+FT                   ILRYWLKDPSSLHFLRFFFHEYWNWNYPLFQKKSHFFFEKRNLRLFVFLYNSYVYEYES
+FT                   ILFFIRRQFFHLPSKPFRFFFERLYFYGKVENFTEVFSKGYPMTLALFKDPNMNYIRYQ
+FT                   GKFFFAYRGMPLLMNKWKYYFVTLFQNHFDVWYQPDKIHINPLYKHSFNCVGYLLSLKR
+FT                   NPSVIRSQMLLNAFRIENTMKKMDIRVPIILMIDSLSKMKFCNKMGHPISKPIWIDSLD
+FT                   SDIIDRFMRLCNKISYFYSGSSKKKDLYQIQYILRFACLKTLARKHKTSVRAFFKKQGS
+FT                   SFLEEFFIENPIYSLILIRSSYRLSDRSNKSKVRVWYLDIISINDLINHE"
+XX
+SQ   Sequence 1527 BP; 499 A; 233 C; 208 G; 587 T; 0 other;
+     atgggagaaa aaaaagatca aagatattta gatctagtta tatctcgtca aaattacttc        60
+     ctatacccac ttatttttca agagtatatt tatacactta ctcatgatca taattttttt       120
+     ccaacaatat tgttggaaaa tttaggttat gacaaaagat tacgtttttt aattgtaaaa       180
+     cgtttaatta ctcgaatgta tcaacagaat catttgagtc tttctgttgc aaattggaga       240
+     gaaaatccgt attttctcta caataaagtt ttatattctc aaaagatatc agaggggctt       300
+     gcaatcattg ttgcaattcc attttacccc caattgggta cttttttcaa aaattttgaa       360
+     ttagtcaaag ttcaaaattt acaatcaatt cattcaatat ttcccttttt tgaggataaa       420
+     tttccctatt taaatttggt gtcagatggg ttattccctt accccattca tcttgaaaaa       480
+     ttgattcaaa ttcttcgtta ctggttaaaa gatccatctt ctttacattt tttacgcttc       540
+     ttttttcacg agtattggaa ttggaactat cccctttttc aaaaaaaatc acattttttt       600
+     tttgaaaaaa gaaatctacg attatttgtg ttcttatata attcttatgt atatgaatac       660
+     gaatccattt tattttttat tcgtcgccaa ttctttcatt taccatcaaa accttttcgg       720
+     tttttttttg aaagacttta tttctatgga aaagtagaga attttacaga ggtttttagt       780
+     aagggttacc ccatgacttt agcgttgttc aaagacccta atatgaatta tattcgctat       840
+     caaggaaaat tcttttttgc ttataggggt atgccacttt taatgaataa gtggaaatac       900
+     tactttgtta ctttatttca aaatcatttt gatgtctggt atcaaccaga caagatacat       960
+     atcaatccat tatataagca ttcattcaac tgtgttggtt atcttttaag tttaaaacgg      1020
+     aatccttcag tgatacgaag tcaaatgcta ctaaatgcgt ttcgtataga gaatactatg      1080
+     aagaaaatgg atatacgagt tccaattatt ctaatgattg actcattatc caaaatgaaa      1140
+     ttttgtaata aaatgggtca tcccattagc aaaccaatct ggatcgattc gttggattca      1200
+     gatattattg atcgatttat gcgtctatgc aataaaattt catattttta tagtggatcc      1260
+     tcaaaaaaaa aagatttgta tcaaatacag tatatacttc gatttgcttg tttaaaaacc      1320
+     ttggctcgga aacacaaaac ctcggtccgt gcttttttta aaaaacaagg ttcatccttt      1380
+     ttagaagaat tttttataga aaacccgatt tattctttga tccttataag atcctcatat      1440
+     agattgtcag atcgatctaa taaatctaaa gttcgggttt ggtatttgga tattatttct      1500
+     attaatgatc taatcaatca tgaataa                                          1527
+//
+ID   LC151306; SV 1; linear; genomic DNA; STD; PLN; 1527 BP.
+XX
+AC   LC151306;
+XX
+DT   02-NOV-2016 (Rel. 130, Created)
+DT   02-NOV-2016 (Rel. 130, Last updated, Version 1)
+XX
+DE   Cladopus taiensis chloroplast matK gene for maturase K, complete cds,
+DE   specimen_voucher: TNS:PW-LA_CP-09.
+XX
+KW   .
+XX
+OS   Cladopus taiensis
+OC   Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+OC   Spermatophyta; Magnoliopsida; eudicotyledons; Gunneridae; Pentapetalae;
+OC   rosids; fabids; Malpighiales; Podostemaceae; Podostemoideae; Cladopus.
+OG   Plastid:Chloroplast
+XX
+RN   [1]
+RP   1-1527
+RA   Koi S., Werukamkul P., Ampornpan L., Kato M.;
+RT   ;
+RL   Submitted (08-MAY-2016) to the INSDC.
+RL   Contact:Satoshi Koi Osaka City University, Botanical Gardens, Faculty of
+RL   Science; 2000 Kisaichi, Katano, Osaka 576-0004, Japan URL   
+RL   :http://www.osaka-cu.ac.jp/ja
+XX
+RN   [2]
+RA   Koi S., Werukamkul P., Ampornpan L., Kato M.;
+RT   "Taxonomy of the Podostemaceae of Thailand with addition of species and
+RT   molecular phylogeny of Cladopus and the Hydrobryum clade";
+RL   Unpublished.
+XX
+DR   MD5; 12126755485ba277869033c90b8034bf.
+XX
+FH   Key             Location/Qualifiers
+FH
+FT   source          1..1527
+FT                   /organism="Cladopus taiensis"
+FT                   /organelle="plastid:chloroplast"
+FT                   /mol_type="genomic DNA"
+FT                   /country="Thailand"
+FT                   /specimen_voucher="TNS:PW-LA_CP-09"
+FT                   /collected_by="P. Werukamkul & L. Ampornpan"
+FT                   /collection_date="2013-02-28"
+FT                   /db_xref="taxon:137181"
+FT   CDS             1..1527
+FT                   /codon_start=1
+FT                   /transl_table=11
+FT                   /gene="matK"
+FT                   /product="maturase K"
+FT                   /db_xref="GOA:A0A1E1GLT1"
+FT                   /db_xref="InterPro:IPR002866"
+FT                   /db_xref="InterPro:IPR024937"
+FT                   /db_xref="InterPro:IPR024942"
+FT                   /db_xref="UniProtKB/TrEMBL:A0A1E1GLT1"
+FT                   /protein_id="BAV90018.1"
+FT                   /translation="MGEKKDQRYLDLVISRQNYFLYPLIFQEYIYTLTHDHNFFPTILL
+FT                   ENLGYDKRLRFLIVKRLITRMYQQNHLSLSVANWRENPYFLYNKVLYSQKISEGLAIIV
+FT                   AIPFYPQLGTFFKNFELVKVQNLQSIHSIFPFFEDKFPYLNLVSDGLFPYPIHLEKLIQ
+FT                   ILRYWLKDPSSLHFLRFFFHEYWNWNYPLFQKKSHFFFEKRNLRLFVFLYNSYVYEYES
+FT                   ILFFIRRQFFHLPSKPFRFFFERLYFYGKVENFTEVFSKGYPMTLALFKDPNMNYIRYQ
+FT                   GKFFFAYRGMPLLMNKWKYYFVTLFQNHFDVWYQPDKIHINPLYKHSFNCVGYLLSLKR
+FT                   NPSVIRSQMLLNAFRIENTMKKMDIRVPIILMIDSLSKMKFCNKMGHPISKPIWIDSLD
+FT                   SDIIDRFMRLCNKISYFYSGSSKKKDLYQIQYILRFACLKTLARKHKTSVRAFFKKQGS
+FT                   SFLEEFFIENPIYSLILIRSSYRLSDRSNKSKVRVWYLDIISINDLINHE"
+XX
+SQ   Sequence 1527 BP; 499 A; 233 C; 208 G; 587 T; 0 other;
+     atgggagaaa aaaaagatca aagatattta gatctagtta tatctcgtca aaattacttc        60
+     ctatacccac ttatttttca agagtatatt tatacactta ctcatgatca taattttttt       120
+     ccaacaatat tgttggaaaa tttaggttat gacaaaagat tacgtttttt aattgtaaaa       180
+     cgtttaatta ctcgaatgta tcaacagaat catttgagtc tttctgttgc aaattggaga       240
+     gaaaatccgt attttctcta caataaagtt ttatattctc aaaagatatc agaggggctt       300
+     gcaatcattg ttgcaattcc attttacccc caattgggta cttttttcaa aaattttgaa       360
+     ttagtcaaag ttcaaaattt acaatcaatt cattcaatat ttcccttttt tgaggataaa       420
+     tttccctatt taaatttggt gtcagatggg ttattccctt accccattca tcttgaaaaa       480
+     ttgattcaaa ttcttcgtta ctggttaaaa gatccatctt ctttacattt tttacgcttc       540
+     ttttttcacg agtattggaa ttggaactat cccctttttc aaaaaaaatc acattttttt       600
+     tttgaaaaaa gaaatctacg attatttgtg ttcttatata attcttatgt atatgaatac       660
+     gaatccattt tattttttat tcgtcgccaa ttctttcatt taccatcaaa accttttcgg       720
+     tttttttttg aaagacttta tttctatgga aaagtagaga attttacaga ggtttttagt       780
+     aagggttacc ccatgacttt agcgttgttc aaagacccta atatgaatta tattcgctat       840
+     caaggaaaat tcttttttgc ttataggggt atgccacttt taatgaataa gtggaaatac       900
+     tactttgtta ctttatttca aaatcatttt gatgtctggt atcaaccaga caagatacat       960
+     atcaatccat tatataagca ttcattcaac tgtgttggtt atcttttaag tttaaaacgg      1020
+     aatccttcag tgatacgaag tcaaatgcta ctaaatgcgt ttcgtataga gaatactatg      1080
+     aagaaaatgg atatacgagt tccaattatt ctaatgattg actcattatc caaaatgaaa      1140
+     ttttgtaata aaatgggtca tcccattagc aaaccaatct ggatcgattc gttggattca      1200
+     gatattattg atcgatttat gcgtctatgc aataaaattt catattttta tagtggatcc      1260
+     tcaaaaaaaa aagatttgta tcaaatacag tatatacttc gatttgcttg tttaaaaacc      1320
+     ttggctcgga aacacaaaac ctcggtccgt gcttttttta aaaaacaagg ttcatccttt      1380
+     ttagaagaat tttttataga aaacccgatt tattctttga tccttataag atcctcatat      1440
+     agattgtcag atcgatctaa taaatctaaa gttcgggttt ggtatttgga tattatttct      1500
+     attaatgatc taatcaatca tgaataa                                          1527
+//
+ID   AB104561; SV 1; linear; genomic DNA; STD; PLN; 1527 BP.
+XX
+AC   AB104561;
+XX
+DT   04-DEC-2003 (Rel. 78, Created)
+DT   02-MAY-2007 (Rel. 91, Last updated, Version 2)
+XX
+DE   Cladopus nymanii chloroplast matK gene for maturase K, complete cds,
+DE   specimen_voucher: ID03 (Herbarium, Univ. of Tokyo).
+XX
+KW   .
+XX
+OS   Cladopus nymanii
+OC   Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+OC   Spermatophyta; Magnoliopsida; eudicotyledons; Gunneridae; Pentapetalae;
+OC   rosids; fabids; Malpighiales; Podostemaceae; Podostemoideae; Cladopus.
+OG   Plastid:Chloroplast
+XX
+RN   [1]
+RP   1-1527
+RA   Kita Y.;
+RT   ;
+RL   Submitted (24-FEB-2003) to the INSDC.
+RL   Yoko Kita, Graduate school of Science, University of Tokyo, Department of
+RL   Biological Sciences; 7-3-1Hongo, Bunkyo-ku, Tokyo 1130033, Japan
+RL   (E-mail:sykita@mail.ecc.u-tokyo.ac.jp, Tel:81-3-5841-2969,
+RL   Fax:81-3-5841-4047)
+XX
+RN   [2]
+RX   DOI; 10.1600/0363644042451062.
+RX   AGRICOLA; IND43667965.
+RA   Kita Y., Kato M.;
+RT   "Molecular phylogeny of Cladopus and Hydrobryum (Podostemaceae,
+RT   Podostemoideae) with implications for their biogeography in East Africa";
+RL   Syst. Bot. 29(4):921-932(2004).
+XX
+DR   MD5; 964670815dd0dd4e631f7652c1706535.
+XX
+FH   Key             Location/Qualifiers
+FH
+FT   source          1..1527
+FT                   /organism="Cladopus nymanii"
+FT                   /organelle="plastid:chloroplast"
+FT                   /mol_type="genomic DNA"
+FT                   /country="Indonesia:W. Java"
+FT                   /specimen_voucher="ID03 (Herbarium, Univ. of Tokyo)"
+FT                   /db_xref="taxon:222651"
+FT   CDS             1..1527
+FT                   /codon_start=1
+FT                   /transl_table=11
+FT                   /gene="matK"
+FT                   /product="maturase K"
+FT                   /db_xref="GOA:Q76FZ5"
+FT                   /db_xref="InterPro:IPR002866"
+FT                   /db_xref="InterPro:IPR024937"
+FT                   /db_xref="InterPro:IPR024942"
+FT                   /db_xref="UniProtKB/TrEMBL:Q76FZ5"
+FT                   /protein_id="BAD02856.1"
+FT                   /translation="MGEKKDQRYLDLVISRQNYFLYPLIFQEYIYTLTHDHNFFPTILL
+FT                   ENLGYDKRFRFLIVKRLITRMYQQNHLSLSVANLRENPYFLYNKVLYSQKISEGLAIIV
+FT                   AIPFDPQLETFFKNFELVKVQNLQSIHSIFPFLEDKFPYLNLVSDGLFPYPIHLEKLIQ
+FT                   ILRYWLKDPSSLHFLRFFFHEYWNWNYPFFQKKSNFFFEKRNLRLFVFLYNSYVYEYES
+FT                   ILFFIRRQFFHLPSKPFRFFFERLYFYGKVENFTEVFSKGYPMTLALFKDPNMNYIRYQ
+FT                   GKFFFAYRGMPLLMNKWKYYFVTLFQNHFDVWYQPDKIHINPLYKHSFNCVGYLLSLKR
+FT                   NPSVIRSQMLLNAFRIENTMKKMDIRVPIILMIDSLSKMKFCNKMGHPISKPIWIDSLD
+FT                   SDIIDRFVRLCNKISYFYSGSSKKKDLYQIQYILRFACLKTLARKHKTSVRAFFKKQGS
+FT                   SFLEEFFIENPIYSLILIRSSDRLSDRSNKSKVRVWYLDIISINDLINHE"
+XX
+SQ   Sequence 1527 BP; 499 A; 230 C; 211 G; 587 T; 0 other;
+     atgggagaaa aaaaagatca aagatattta gatctagtta tatctcgtca aaattacttc        60
+     ctatacccac ttatttttca agagtatatt tatacactta ctcatgatca taattttttt       120
+     ccaacaatat tgttggaaaa tttaggttat gacaaaagat tccgtttttt aattgtaaaa       180
+     cgtttaatta ctcgaatgta tcaacagaat catttgagtc tttctgttgc aaatttgaga       240
+     gaaaatccgt attttctcta taataaagtt ttatattctc aaaagatatc agaggggctt       300
+     gcaatcattg ttgcaattcc atttgacccc caattggaga cttttttcaa aaattttgaa       360
+     ttagtcaaag ttcaaaattt acaatcaatt cattccatat ttcccttttt agaggataaa       420
+     tttccctatt taaatttggt gtcagatggg ttattccctt accccattca tcttgaaaaa       480
+     ttgattcaaa ttcttcgtta ctggttaaaa gatccatctt ctttacattt tttacgcttc       540
+     ttttttcacg agtattggaa ttggaattat cccttttttc aaaaaaaatc aaattttttt       600
+     tttgaaaaaa gaaatctacg attatttgtg ttcttatata attcttatgt atatgaatac       660
+     gaatccattt tattttttat tcgtcgccaa ttctttcatt taccatcaaa accttttcgg       720
+     tttttttttg aaagacttta tttctatgga aaagtagaga attttacaga ggtttttagt       780
+     aagggttacc ccatgacttt agcgttgttc aaagacccga atatgaatta tattcgctat       840
+     caaggaaaat tcttttttgc ttataggggt atgccacttt taatgaataa gtggaaatac       900
+     tactttgtta ctttatttca aaatcatttt gatgtctggt atcaaccaga caagatacat       960
+     atcaatccat tatataagca ttcattcaac tgtgttggtt atcttttaag tttaaaacgg      1020
+     aatccttcag tgatacgaag tcaaatgcta ctaaatgcgt ttcgtataga gaatactatg      1080
+     aagaaaatgg atatacgagt tccaattatt ctaatgattg actcattatc caaaatgaaa      1140
+     ttttgtaata aaatgggtca tcccattagc aaaccaatct ggatcgattc gttggattca      1200
+     gatattattg atcgatttgt gcgtctatgc aataaaattt catattttta tagtggatcc      1260
+     tcaaaaaaaa aagatttgta tcaaatacag tatatacttc gatttgcttg tttaaaaacc      1320
+     ttggctcgga aacacaaaac ctcggtccgt gcttttttta aaaaacaagg ttcatccttt      1380
+     ttagaagaat tttttataga aaacccgatt tattctttga tccttataag atcctcagat      1440
+     agattgtcag atcgatctaa taaatctaaa gttcgggttt ggtatttgga tattatttct      1500
+     attaatgatt taatcaatca tgaataa                                          1527
+//
+ID   AB300702; SV 1; linear; genomic DNA; STD; PLN; 1527 BP.
+XX
+AC   AB300702;
+XX
+DT   15-JUN-2007 (Rel. 92, Created)
+DT   29-APR-2009 (Rel. 100, Last updated, Version 3)
+XX
+DE   Cladopus queenslandicus chloroplast matK gene for maturase K, complete cds.
+XX
+KW   .
+XX
+OS   Cladopus queenslandicus
+OC   Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+OC   Spermatophyta; Magnoliopsida; eudicotyledons; Gunneridae; Pentapetalae;
+OC   rosids; fabids; Malpighiales; Podostemaceae; Podostemoideae; Cladopus.
+OG   Plastid:Chloroplast
+XX
+RN   [1]
+RP   1-1527
+RA   Koi S., Kita Y., Kato M.;
+RT   ;
+RL   Submitted (14-APR-2007) to the INSDC.
+RL   Contact:Satoshi Koi National Museum of Nature and Science, Department of
+RL   Botany; 4-1-1 Amakubo, Tsukuba, Ibaraki 305-0005, Japan
+XX
+RN   [2]
+RA   Koi S., Kita Y., Kato M.;
+RT   "Paracladopus chanthaburiensis, a new species of Podostemaceae from
+RT   Thailand, with notes on its morphology, phylogeny and distribution";
+RL   Taxon 57:201-210(2008).
+XX
+DR   MD5; ee8230cc4f1cf2709db7b0b7587ea737.
+XX
+FH   Key             Location/Qualifiers
+FH
+FT   source          1..1527
+FT                   /organism="Cladopus queenslandicus"
+FT                   /organelle="plastid:chloroplast"
+FT                   /mol_type="genomic DNA"
+FT                   /country="Papua New Guinea:Central Province, Varirata"
+FT                   /specimen_voucher="H. Akiyama 16803 (TNS)"
+FT                   /collected_by="Hiroyuki Akiyama"
+FT                   /collection_date="24-Mar-2005"
+FT                   /db_xref="taxon:436874"
+FT   CDS             1..1527
+FT                   /codon_start=1
+FT                   /transl_table=11
+FT                   /gene="matK"
+FT                   /product="maturase K"
+FT                   /db_xref="GOA:A5LHX7"
+FT                   /db_xref="InterPro:IPR002866"
+FT                   /db_xref="InterPro:IPR024937"
+FT                   /db_xref="InterPro:IPR024942"
+FT                   /db_xref="UniProtKB/TrEMBL:A5LHX7"
+FT                   /protein_id="BAF64415.1"
+FT                   /translation="MGEKKDQRYLDLVISRQNYFLYPLFFQEYIYTLTHDHNFFPTILL
+FT                   ENLGYDKRFRFLIVKRLITRMYQQNHLSLSVANLRENPYFLYNKVLYSQKISEGLAIIV
+FT                   AIPFDPQLETFFKNFELVKVQNLQSIHSIFPFLEDKFPYLNLVSDGLFPYPIHLEKLIQ
+FT                   ILRYWLKDPSSLHFLRFFFHEYWNWNYPFFQKKSNFFFEKRNLRLFVFLYNSYVYEYES
+FT                   ILFFIRRQFFHLPSKPFRFFFERLYFYGKVENFTEVFSKGYPMTLALFKDPNMNYIRYQ
+FT                   GKFFFAYRGMPLLMNKWKYYFVTLFQNHFDVWYQPDKIHINPLYKHSFNCVGYLLSLKR
+FT                   NPSVIRSQMLLNAFRIENTMKKMDIRVPIILMIDSLSKMKFCNKMGHPISKPIWIDSLD
+FT                   SDIIDRFVRLCNKISYFYSGSSKKKDLYQIQYILRFACLKTLARKHKTSVRAFFKKQGS
+FT                   SFLEEFFIENPIYSLILIRSSDRLSDRSNKSKVRVWYLDIISINDLINHE"
+XX
+SQ   Sequence 1527 BP; 498 A; 231 C; 210 G; 588 T; 0 other;
+     atgggagaaa aaaaagatca aagatattta gatctagtta tatctcgtca aaattacttc        60
+     ctatacccac ttttttttca agagtatatt tatacactta ctcatgatca taattttttt       120
+     ccaacaatat tgttggaaaa tttaggttat gacaaaagat tccgtttttt aattgtaaaa       180
+     cgtttaatta ctcgaatgta tcaacagaat catttgagtc tttctgttgc aaatttgaga       240
+     gaaaatccgt attttctcta caataaagtt ttatattctc aaaagatatc agaggggctt       300
+     gcaatcattg ttgcaattcc atttgacccc caattggaga cttttttcaa aaattttgaa       360
+     ttagtcaaag ttcaaaattt acaatcaatt cattccatat ttcccttttt agaggataaa       420
+     tttccctatt taaatttggt gtcagatggg ttattccctt accccattca tcttgaaaaa       480
+     ttgattcaaa ttcttcgtta ctggttaaaa gatccatctt ctttacattt tttacgcttc       540
+     ttttttcacg agtattggaa ttggaattat cccttttttc aaaaaaaatc aaattttttt       600
+     tttgaaaaaa gaaatctacg attatttgtg ttcttatata attcttatgt atatgaatac       660
+     gaatccattt tattttttat tcgtcgccaa ttctttcatt taccatcaaa accttttcgg       720
+     tttttttttg aaagacttta tttctatgga aaagtagaga attttacaga ggtttttagt       780
+     aagggttacc ccatgacttt agcgttgttc aaagacccta atatgaatta tattcgctat       840
+     caaggaaaat tcttttttgc ttataggggt atgccacttt taatgaataa gtggaaatac       900
+     tactttgtta ctttatttca aaatcatttt gatgtctggt atcaaccaga caagatacat       960
+     atcaatccat tatataagca ttcattcaac tgtgttggtt atcttttaag tttaaaacgg      1020
+     aatccttcag tgatacgaag tcaaatgcta ctaaatgcgt ttcgtataga gaatactatg      1080
+     aagaaaatgg atatacgagt tccaattatt ctaatgattg actcattatc caaaatgaaa      1140
+     ttttgtaata aaatgggtca tcccattagc aaaccaatct ggatcgattc gttggattca      1200
+     gatattattg atcgatttgt gcgtctatgc aataaaattt catattttta tagtggatcc      1260
+     tcaaaaaaaa aagatttgta tcaaatacag tatatacttc gatttgcttg tttaaaaacc      1320
+     ttggctcgga aacacaaaac ctcggtccgt gcttttttta aaaaacaagg ttcatccttt      1380
+     ttagaagaat tttttataga aaacccgatt tattctttga tccttataag atcctcagat      1440
+     agattgtcag atcgatctaa taaatctaaa gttcgggttt ggtatttgga tattatttct      1500
+     attaatgatt taatcaatca tgaataa                                          1527
+//
+ID   AB293561; SV 1; linear; genomic DNA; STD; PLN; 1527 BP.
+XX
+AC   AB293561;
+XX
+DT   18-APR-2007 (Rel. 91, Created)
+DT   29-APR-2009 (Rel. 100, Last updated, Version 3)
+XX
+DE   Cladopus fallax matK gene for maturase K, complete cds.
+XX
+KW   .
+XX
+OS   Cladopus fallax
+OC   Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+OC   Spermatophyta; Magnoliopsida; eudicotyledons; Gunneridae; Pentapetalae;
+OC   rosids; fabids; Malpighiales; Podostemaceae; Podostemoideae; Cladopus.
+OG   Plastid:Chloroplast
+XX
+RN   [1]
+RP   1-1527
+RA   Koi S., Kita Y., Kato M.;
+RT   ;
+RL   Submitted (14-FEB-2007) to the INSDC.
+RL   Contact:Satoshi Koi National Science Museum, Department of Botany; 4-1-1
+RL   Amakubo, Tsukuba, Ibaraki 305-0005, Japan
+XX
+RN   [2]
+RA   Koi S., Kita Y., Kato M.;
+RT   "Paracladopus chanthaburiensis, a new species of Podostemaceae from
+RT   Thailand, with notes on its morphology, phylogeny and distribution";
+RL   Taxon 57:201-210(2008).
+XX
+DR   MD5; 18a502191bf290ed2e664af37ee09f18.
+XX
+FH   Key             Location/Qualifiers
+FH
+FT   source          1..1527
+FT                   /organism="Cladopus fallax"
+FT                   /organelle="plastid:chloroplast"
+FT                   /mol_type="genomic DNA"
+FT                   /country="Thailand:Nam Tok Wang Kaphrae waterfall, Khao Soi
+FT                   Dao Wildlife Sanctuary"
+FT                   /specimen_voucher="TL-701 (TNS)"
+FT                   /collected_by="Masahiro Kato and Thawatchai Wongprasert"
+FT                   /db_xref="taxon:426330"
+FT   CDS             1..1527
+FT                   /codon_start=1
+FT                   /transl_table=11
+FT                   /gene="matK"
+FT                   /product="maturase K"
+FT                   /db_xref="GOA:A4PIB7"
+FT                   /db_xref="InterPro:IPR002866"
+FT                   /db_xref="InterPro:IPR024937"
+FT                   /db_xref="InterPro:IPR024942"
+FT                   /db_xref="UniProtKB/TrEMBL:A4PIB7"
+FT                   /protein_id="BAF56595.1"
+FT                   /translation="MGEKKDQRYLDLVISRQNYFLYPLIFQEYIYTLTHDHNFFPTILL
+FT                   ENLGYDKRLRFLIVKRLITRMYQQNHLSLSVANWRENPYFLYNKVLYSQKISEGLAIIV
+FT                   AIPFYPQLGTFFKNFELVKVQNLQSIHSIFPFFEDKFPYLNWVSDGLFPYPIHLEKLIQ
+FT                   ILRYWLKDPSSLHFLRFFFHEYWNWNYPLFQKKSNFFFEKRNLRLFVFLYNSYVYEYES
+FT                   ILFFIRRQFFHLPSKPFRFFFERLYFYGKVENFTEVFSKGYPMTLALFKDPNMNYIRYQ
+FT                   GKFFFAYRGMPLLMNKWKYYFVTLFQNHFDVWLIPDKIHINPLYKHSFNCVGYLLSLKR
+FT                   NPSVIRSQMLQNAFRIENTMKKMDIRVPIILMIDSLSKMKFCNKMGHPISKPIWIDSLD
+FT                   SDIIDRFMRLCNKISYFYSGSSKKKDLYQIQYILRFACLKTLARKHKTSVRAFFKKQGS
+FT                   SFLEEFFIENPIYSLILIRSSYRLSDRSNKSKVRVWYLDIISINDLINHE"
+XX
+SQ   Sequence 1527 BP; 501 A; 231 C; 210 G; 585 T; 0 other;
+     atgggagaaa aaaaagatca aagatattta gatctagtta tatctcgtca aaattacttc        60
+     ctatacccac ttatttttca agagtatatt tatacactta ctcatgatca taattttttt       120
+     ccaacaatat tgttggaaaa tctaggttat gacaaaagat tacgtttttt aattgtaaaa       180
+     cgtttaatta ctcgaatgta tcaacagaat catttgagtc tttctgttgc aaattggaga       240
+     gaaaatccgt attttctcta caataaagtt ttatattctc aaaagatatc agaggggctt       300
+     gcaatcattg ttgcaattcc attttacccc caattgggta cttttttcaa aaattttgaa       360
+     ttagtcaaag ttcaaaattt acaatcaatt cattcaatat ttcccttttt tgaggataaa       420
+     tttccctatt taaattgggt gtcagatggg ttattccctt accccattca tcttgaaaaa       480
+     ttgattcaaa ttcttcgtta ctggttaaaa gatccatctt ctttacattt tttacgcttc       540
+     ttttttcacg agtattggaa ttggaactat cccctttttc aaaaaaaatc aaattttttt       600
+     tttgaaaaaa gaaatctacg attatttgtg ttcttatata attcttatgt atatgaatac       660
+     gaatccattt tattttttat tcgtcgccaa ttctttcatt taccatcaaa accttttcgg       720
+     tttttttttg aaagacttta tttctatgga aaagtagaga attttacaga ggtttttagt       780
+     aagggttacc ccatgacttt agcgttgttc aaagacccga atatgaatta tattcgatat       840
+     caaggaaaat tcttttttgc ttataggggt atgccacttt taatgaataa gtggaaatac       900
+     tactttgtta ctttatttca aaatcatttt gatgtctggt tgataccaga caagatacat       960
+     atcaatccat tatataagca ttcattcaac tgtgttggtt atcttttaag tttaaaacgt      1020
+     aatccttcag tgatacgaag tcaaatgcta caaaatgcgt ttcgtataga gaatactatg      1080
+     aagaaaatgg atatacgagt tccaattatt ctaatgattg actcattatc caaaatgaaa      1140
+     ttttgtaata aaatgggtca tcccattagc aaaccaatct ggatcgattc gttggattca      1200
+     gatattattg atcgatttat gcgtctatgc aataaaattt catattttta tagtggatcc      1260
+     tcaaaaaaaa aagatttgta tcaaatacag tatatacttc gatttgcttg tttaaaaacc      1320
+     ttggctcgga aacacaaaac ctcggtccgt gcttttttta aaaaacaagg ttcatccttt      1380
+     ttagaagaat tttttataga aaacccgatt tattctttga tccttataag atcctcatat      1440
+     agattgtcag atcgatctaa taaatctaaa gttcgggttt ggtatttgga tattatttct      1500
+     attaatgatc taatcaatca tgaataa                                          1527
+//
+ID   AB104577; SV 1; linear; genomic DNA; STD; PLN; 1527 BP.
+XX
+AC   AB104577;
+XX
+DT   04-DEC-2003 (Rel. 78, Created)
+DT   02-MAY-2007 (Rel. 91, Last updated, Version 2)
+XX
+DE   Cladopus nymanii chloroplast matK gene for maturase K, complete cds,
+DE   specimen_voucher: Sulawesi (Herbarium, Univ. of Tokyo).
+XX
+KW   .
+XX
+OS   Cladopus nymanii
+OC   Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+OC   Spermatophyta; Magnoliopsida; eudicotyledons; Gunneridae; Pentapetalae;
+OC   rosids; fabids; Malpighiales; Podostemaceae; Podostemoideae; Cladopus.
+OG   Plastid:Chloroplast
+XX
+RN   [1]
+RP   1-1527
+RA   Kita Y.;
+RT   ;
+RL   Submitted (24-FEB-2003) to the INSDC.
+RL   Yoko Kita, Graduate school of Science, University of Tokyo, Department of
+RL   Biological Sciences; 7-3-1Hongo, Bunkyo-ku, Tokyo 1130033, Japan
+RL   (E-mail:sykita@mail.ecc.u-tokyo.ac.jp, Tel:81-3-5841-2969,
+RL   Fax:81-3-5841-4047)
+XX
+RN   [2]
+RX   DOI; 10.1600/0363644042451062.
+RX   AGRICOLA; IND43667965.
+RA   Kita Y., Kato M.;
+RT   "Molecular phylogeny of Cladopus and Hydrobryum (Podostemaceae,
+RT   Podostemoideae) with implications for their biogeography in East Africa";
+RL   Syst. Bot. 29(4):921-932(2004).
+XX
+DR   MD5; 2ed79e7429d4472eb29f0bd3a0d976cc.
+XX
+FH   Key             Location/Qualifiers
+FH
+FT   source          1..1527
+FT                   /organism="Cladopus nymanii"
+FT                   /organelle="plastid:chloroplast"
+FT                   /mol_type="genomic DNA"
+FT                   /country="Indonesia:Sulawesi"
+FT                   /specimen_voucher="Sulawesi (Herbarium, Univ. of Tokyo)"
+FT                   /db_xref="taxon:222651"
+FT   CDS             1..1527
+FT                   /codon_start=1
+FT                   /transl_table=11
+FT                   /gene="matK"
+FT                   /product="maturase K"
+FT                   /db_xref="GOA:Q76FX9"
+FT                   /db_xref="InterPro:IPR002866"
+FT                   /db_xref="InterPro:IPR024937"
+FT                   /db_xref="InterPro:IPR024942"
+FT                   /db_xref="UniProtKB/TrEMBL:Q76FX9"
+FT                   /protein_id="BAD02872.1"
+FT                   /translation="MGEKKDQRYLDLVISRQNYFLYPLIFQEYIYTLTHDHNFFPTILL
+FT                   ENLGYDKRFRFLIVKRLITRMYQQNHLSLSVANLRENPYFLYNKVLYSQKISEGLAIIV
+FT                   AIPFDPQLETFFKNFELVKVQNLQSIHSIFPFLEDKFPYLNLVSDGLFPYPIHLEKLIQ
+FT                   ILRYWLKDPSSLHFLRFFFHEYWNWNYPFFQKKSNLFFEKRNLRLFVFLYNSYVYEYES
+FT                   ILFFIRRQFFHLPSKPFRFFFERLYFYGKVENFTEVFSKGYPMTLALFKDPNMNYIRYQ
+FT                   GKFFFAYRGMPLLMNKWKYYFVTLFQNHFDVWYQPDKIHINPLYKHSFNCVGYLLSLKR
+FT                   NPSVIRSQMLLNAFRIENTMKKMDIRVPIILMIDSLSKMKFCNKMGHPISKPIWIDSLD
+FT                   SDIIDRFVRLCNKISYFYSGSSKKKDLYQIQYILRFACLKTLARKHKTSVRAFFKKQGS
+FT                   SFLEEFFIENPIYSLILIRSSDRLSDRSNKSKVRVWYLDIISINDLINHE"
+XX
+SQ   Sequence 1527 BP; 499 A; 232 C; 210 G; 586 T; 0 other;
+     atgggagaaa aaaaagatca aagatattta gatctagtta tatctcgtca aaattacttc        60
+     ctatacccac ttatttttca agagtatatt tatacactta ctcatgatca taattttttt       120
+     ccaacaatat tgttggaaaa tttaggttat gacaaaagat tccgtttttt aattgtaaaa       180
+     cgtttaatta ctcgaatgta tcaacagaat catttgagtc tttctgttgc aaatttgaga       240
+     gaaaatccgt attttctcta caataaagtt ttatattctc aaaagatatc agaggggctt       300
+     gcaatcattg ttgcaattcc atttgacccc caattggaga cttttttcaa aaattttgaa       360
+     ttagtcaaag ttcaaaattt acaatcaatt cattccatat ttcccttttt agaggataaa       420
+     tttccctatt taaatttggt gtcagatggg ttattccctt accccattca tcttgaaaaa       480
+     ttgattcaaa ttcttcgtta ctggttaaaa gatccatctt ctttacattt tttacgcttc       540
+     ttttttcacg agtattggaa ttggaattat cccttttttc aaaaaaaatc aaatcttttt       600
+     tttgaaaaaa gaaatctacg attatttgtg ttcttatata attcttatgt atatgaatac       660
+     gaatccattt tattttttat tcgtcgccaa ttctttcatt taccatcaaa accttttcgg       720
+     tttttttttg aaagacttta tttctatgga aaagtagaga attttacaga ggtttttagt       780
+     aagggttacc ccatgacttt agcgttgttc aaagacccta atatgaatta tattcgctat       840
+     caaggaaaat tcttttttgc ttataggggt atgccacttt taatgaataa gtggaaatac       900
+     tactttgtta ctttatttca aaatcatttt gatgtctggt atcaaccaga caagatacat       960
+     atcaatccat tatataagca ttcattcaac tgtgttggtt atcttttaag tttaaaacgg      1020
+     aatccttcag tgatacgaag tcaaatgcta ctaaatgcgt ttcgtataga gaatactatg      1080
+     aagaaaatgg atatacgagt tccaattatt ctaatgattg actcattatc caaaatgaaa      1140
+     ttttgtaata aaatgggtca tcccattagc aaaccaatct ggatcgattc gttggattca      1200
+     gatattattg atcgatttgt gcgtctatgc aataaaattt catattttta tagtggatcc      1260
+     tcaaaaaaaa aagatttgta tcaaatacag tatatacttc gatttgcttg tttaaaaacc      1320
+     ttggctcgga aacacaaaac ctcggtccgt gcttttttta aaaaacaagg ttcatccttt      1380
+     ttagaagaat tttttataga aaacccgatt tattctttga tccttataag atcctcagat      1440
+     agattgtcag atcgatctaa taaatctaaa gttcgggttt ggtatttgga tattatttct      1500
+     attaatgatt taatcaatca tgaataa                                          1527
+//
+ID   AB038199; SV 1; linear; genomic DNA; STD; PLN; 1527 BP.
+XX
+AC   AB038199;
+XX
+DT   10-JAN-2002 (Rel. 70, Created)
+DT   16-JAN-2003 (Rel. 74, Last updated, Version 2)
+XX
+DE   Torrenticola queenslandica chloroplast matK gene for maturase K, complete
+DE   cds.
+XX
+KW   maturase K.
+XX
+OS   Torrenticola queenslandica
+OC   Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+OC   Spermatophyta; Magnoliopsida; eudicotyledons; Gunneridae; Pentapetalae;
+OC   rosids; fabids; Malpighiales; Podostemaceae; Podostemaceae incertae sedis;
+OC   Torrenticola.
+OG   Plastid:Chloroplast
+XX
+RN   [1]
+RP   1-1527
+RA   Kita Y., Kato M.;
+RT   ;
+RL   Submitted (08-FEB-2000) to the INSDC.
+RL   Yoko Kita, University of Tokyo, Graduate school of Science, Department of
+RL   Biological Sciences; 7-3-1 Hongo, Bunkyo-ku, Tokyo 113-0033, Japan
+RL   (E-mail:sykita@mail.ecc.u-tokyo.ac.jp, Tel:81-3-5841-4047,
+RL   Fax:81-3-5841-4047)
+XX
+RN   [2]
+RA   Kita Y., Kato M.;
+RT   "Infrafamilial Phylogeny of the Aquatic Angiosperm Podostemaceae Inferred
+RT   from the Nucleotide Sequences of the matK Gene";
+RL   Plant Biol. 3:156-163(2001).
+XX
+DR   MD5; 6ed2844b372a3e99a923403e8092338c.
+XX
+FH   Key             Location/Qualifiers
+FH
+FT   source          1..1527
+FT                   /organism="Torrenticola queenslandica"
+FT                   /organelle="plastid:chloroplast"
+FT                   /mol_type="genomic DNA"
+FT                   /specimen_voucher="AU-01"
+FT                   /db_xref="taxon:116750"
+FT   CDS             1..1527
+FT                   /codon_start=1
+FT                   /transl_table=11
+FT                   /gene="matK"
+FT                   /product="maturase K"
+FT                   /db_xref="GOA:Q8WKK5"
+FT                   /db_xref="InterPro:IPR002866"
+FT                   /db_xref="InterPro:IPR024937"
+FT                   /db_xref="InterPro:IPR024942"
+FT                   /db_xref="UniProtKB/TrEMBL:Q8WKK5"
+FT                   /protein_id="BAB83160.1"
+FT                   /translation="MGEKKDQRYLDLVISRQNYFLYPLFFQEYIYTLTHDHNFFPTILL
+FT                   ENLGYDKRFRFLIVKRLITRMYQQNHLSLSVANLRENPYFLYNKVLYSQKISEGLAIIV
+FT                   AIPFDPQLETFFKNFELVKVQNLQSIHSIFPFLEDKFPYLNLVSDGLFPYPIHLEKLIQ
+FT                   ILRYWLKDPSSLHFLRFFFHEYWNWNYPFFQKKSNFFFEKRNLRLFVFLYNSYVYEYES
+FT                   ILFFIRRQFFHLPSKPFRFFFERLYFYGKVENFTEVFSKGYPMTLALFKDPNMNYIRYQ
+FT                   GKFFFAYRGMPLLMNKWKYYFVTLFQNHFDVWYQPDKIHINPLYKHSFNCVGYLLSLKR
+FT                   NPSVIRSQMLLNAFRIENTMKKMDIRVPIILMIDSLSKMKFCNKMGHPISKPIWIDSLD
+FT                   SDIIDRFVRLCNKISYFYSGSSKKKDLYQIQYILRFACLKTLARKHKTSVRAFFKKQGS
+FT                   SFLEEFFIENPIYSLILIRSSDRLSDRSNKSKVRVWYLDMISINDLINHE"
+XX
+SQ   Sequence 1527 BP; 498 A; 230 C; 211 G; 588 T; 0 other;
+     atgggagaaa aaaaagatca aagatattta gatctagtta tatctcgtca aaattacttc        60
+     ctatacccac ttttttttca agagtatatt tatacactta ctcatgatca taattttttt       120
+     ccaacaatat tgttggaaaa tttaggttat gacaaaagat tccgtttttt aattgtaaaa       180
+     cgtttaatta ctcgaatgta tcaacagaat catttgagtc tttctgttgc aaatttgaga       240
+     gaaaatccgt attttctcta caataaagtt ttatattctc aaaagatatc agaggggctt       300
+     gcaatcattg ttgcaattcc atttgacccc caattggaga cttttttcaa aaattttgaa       360
+     ttagtcaaag ttcaaaattt acaatcaatt cattccatat ttcccttttt agaggataaa       420
+     tttccctatt taaatttggt gtcagatggg ttattccctt accccattca tcttgaaaaa       480
+     ttgattcaaa ttcttcgtta ctggttaaaa gatccatctt ctttacattt tttacgcttc       540
+     ttttttcacg agtattggaa ttggaattat cccttttttc aaaaaaaatc aaattttttt       600
+     tttgaaaaaa gaaatctacg attatttgtg ttcttatata attcttatgt atatgaatac       660
+     gaatccattt tattttttat tcgtcgccaa ttctttcatt taccatcaaa accttttcgg       720
+     tttttttttg aaagacttta tttctatgga aaagtagaga attttacaga ggtttttagt       780
+     aagggttacc ccatgacttt agcgttgttc aaagacccta atatgaatta tattcgctat       840
+     caaggaaaat tcttttttgc ttataggggt atgccacttt taatgaataa gtggaaatac       900
+     tactttgtta ctttatttca aaatcatttt gatgtctggt atcaaccaga caagatacat       960
+     atcaatccat tatataagca ttcattcaac tgtgttggtt atcttttaag tttaaaacgg      1020
+     aatccttcag tgatacgaag tcaaatgcta ctaaatgcgt ttcgtataga gaatactatg      1080
+     aagaaaatgg atatacgagt tccaattatt ctaatgattg actcattatc caaaatgaaa      1140
+     ttttgtaata aaatgggtca tcccattagc aaaccaattt ggatcgattc gttggattca      1200
+     gatattattg atcgatttgt gcgtctatgc aataaaattt catattttta tagtggatcc      1260
+     tcaaaaaaaa aagatttgta tcaaatacag tatatacttc gatttgcttg tttaaaaacc      1320
+     ttggctcgga aacacaaaac ctcggtccgt gcttttttta aaaaacaagg ttcatccttt      1380
+     ttagaagaat tttttataga aaacccgatt tattctttga tccttataag atcctcagat      1440
+     agattgtcag atcgatctaa taaatctaaa gttcgggttt ggtatttgga tatgatttct      1500
+     attaatgatt taatcaatca tgaataa                                          1527
+//
+ID   AB048372; SV 1; linear; genomic DNA; STD; PLN; 1527 BP.
+XX
+AC   AB048372;
+XX
+DT   10-MAR-2001 (Rel. 67, Created)
+DT   16-JAN-2003 (Rel. 74, Last updated, Version 3)
+XX
+DE   Cladopus taiensis chloroplast matK gene for maturase K, complete cds.
+XX
+KW   .
+XX
+OS   Cladopus taiensis
+OC   Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+OC   Spermatophyta; Magnoliopsida; eudicotyledons; Gunneridae; Pentapetalae;
+OC   rosids; fabids; Malpighiales; Podostemaceae; Podostemoideae; Cladopus.
+OG   Plastid:Chloroplast
+XX
+RN   [1]
+RP   1-1527
+RA   Kita Y., Kato M.;
+RT   ;
+RL   Submitted (06-SEP-2000) to the INSDC.
+RL   Yoko Kita, Graduate school of Science, University of Tokyo, Department of
+RL   Biological Sciences; 7-3-1 Hongo, Bunkyo-ku 113-0033, Japan
+RL   (E-mail:sykita@mail.ecc.u-tokyo.ac.jp, Tel:81-3-2841-4047,
+RL   Fax:81-3-2841-4047)
+XX
+RN   [2]
+RA   Kita Y., Kato M.;
+RT   "Infrafamilial Phylogeny of the Aquatic Angiosperm Podostemaceae Inferred
+RT   from the Nucleotide Sequences of the matK Gene";
+RL   Plant Biol. 3:156-163(2001).
+XX
+DR   MD5; dae66767a55936e79bb3eb6cae608caa.
+XX
+FH   Key             Location/Qualifiers
+FH
+FT   source          1..1527
+FT                   /organism="Cladopus taiensis"
+FT                   /organelle="plastid:chloroplast"
+FT                   /mol_type="genomic DNA"
+FT                   /db_xref="taxon:137181"
+FT   CDS             1..1527
+FT                   /codon_start=1
+FT                   /transl_table=11
+FT                   /gene="matK"
+FT                   /product="maturase K"
+FT                   /db_xref="GOA:Q9BBG6"
+FT                   /db_xref="InterPro:IPR002866"
+FT                   /db_xref="InterPro:IPR024937"
+FT                   /db_xref="InterPro:IPR024942"
+FT                   /db_xref="UniProtKB/TrEMBL:Q9BBG6"
+FT                   /protein_id="BAB33392.1"
+FT                   /translation="MGEKKDQRYLDLVISRQNYFLYPLIFQEYIYTLTHDHNFFPTILL
+FT                   ENLGYDKRLRFLIVKRLITRMYQQNHLSLSVANWRENPYFLYNKVLYSQKISEGLAIIV
+FT                   AIPFYPQLGTFFKNFELVKVQNLQSIHSIFPFFEDKFPYLNLVSDGLFPYPIHLEKLIQ
+FT                   ILRYWLKDPSSLHFLRFFFHEYWNWNYPLFQKKSNFFFEKRNLRLFVFLYNSYVYEYES
+FT                   ILFFIRRQFFHLPSKPFRFFFERLYFYGKVENFTEVFSKGYPMTLALFKDPNMNYIRYQ
+FT                   GKFFFAYRGMPLLMNKWKYYFVTLFQNHFDVWYQPDKIHINPLYKHSFNCVGYLLSLKR
+FT                   NPSVIRSQMLLNAFRIENTMKKMDIRVPIILMIDSLSKMKFCNKMGHPISKPIWIDSLD
+FT                   SDIIDRFMRLCNKISYFYSGSSKKKDLYQIQYILRFACLKTLVGNPKPSVRAFFKKQGS
+FT                   SLLEEFFIRNPIYSLILIRSSYRLSDRSNKSKVRVWYLDIISINDLINHE"
+XX
+SQ   Sequence 1527 BP; 499 A; 234 C; 210 G; 584 T; 0 other;
+     atgggagaaa aaaaagatca aagatattta gatctagtta tatctcgtca aaattacttc        60
+     ctatacccac ttatttttca agagtatatt tatacactta ctcatgatca taattttttt       120
+     ccaacaatat tgttggaaaa tttaggttat gacaaaagat tacgtttttt aattgtaaaa       180
+     cgtttaatta ctcgaatgta tcaacagaat catttgagtc tttctgttgc aaattggaga       240
+     gaaaatccgt attttctcta caataaagtt ttatattctc aaaagatatc agaggggctt       300
+     gcaatcattg ttgcaattcc attttacccc caattgggta cttttttcaa aaattttgaa       360
+     ttagtcaaag ttcaaaattt acaatcaatt cattcaatat ttcccttttt tgaggataaa       420
+     tttccctatt taaatttggt gtcagatggg ttattccctt accccattca tcttgaaaaa       480
+     ttgattcaaa ttcttcgtta ctggttaaaa gatccatctt ctttacattt tttacgcttc       540
+     ttttttcacg agtattggaa ttggaactat cccctttttc aaaaaaaatc aaattttttt       600
+     tttgaaaaaa gaaatctacg attatttgtg ttcttatata attcttatgt atatgaatac       660
+     gaatccattt tattttttat tcgtcgccaa ttctttcatt taccatcaaa accttttcgg       720
+     tttttttttg aaagacttta tttctatgga aaagtagaga attttacaga ggtttttagt       780
+     aagggttacc ccatgacttt agcgttgttc aaagacccga atatgaatta tattcgctat       840
+     caaggaaaat tcttttttgc ttataggggt atgccacttt taatgaataa gtggaaatac       900
+     tactttgtta ctttatttca aaatcatttt gatgtctggt atcaaccaga caagatacat       960
+     atcaatccat tatataagca ttcattcaac tgtgttggtt atcttttaag tttaaaacgg      1020
+     aatccttcag tgatacgaag tcaaatgcta ctaaatgcgt ttcgtataga gaatactatg      1080
+     aagaaaatgg atatacgagt tccaattatt ctaatgattg actcattatc caaaatgaaa      1140
+     ttttgtaata aaatgggtca tcccattagc aaaccaatct ggatcgattc gttggattca      1200
+     gatattattg atcgatttat gcgtctatgc aataaaattt catattttta tagtggatcc      1260
+     tcaaaaaaaa aagatttgta tcaaatacag tatatacttc gatttgcttg tttaaaaacc      1320
+     ttggtcggaa acccaaaacc ctcggtccgg gcttttttta aaaaacaagg ttcatccctt      1380
+     ttagaagaat tttttataag aaacccgatt tattctttga tccttataag atcctcatat      1440
+     agattgtcag atcgatctaa taaatctaaa gttcgggttt ggtatttgga tattatttct      1500
+     attaatgatc taatcaatca tgaataa                                          1527
+//

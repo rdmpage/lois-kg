@@ -2,16 +2,20 @@
 
 Keys.md
 
+*.nt
+
 vendor/
 
 junk/
 manuscripts/examples
+oz-csl/*.jsonl
 oz-csl/*.nt
 oz-csl/junk
 
 oz-gbif/*.nt
 
 oz-orcid/*.nt
+oz-orcid/*.jsonl
 oz-orcid/junk
 
 references/*.ris
@@ -24,3 +28,5 @@ sameAs/*.nt
 
 thumbnails/*.nt
 thumbnails/tmp/
+oz-csl/backup.jsonl
+resolvers/if.nt

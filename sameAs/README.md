@@ -2,6 +2,13 @@
 
 A major design issue is that we will have the same entity represented multiple times. 
 
+##
+
+```
+curl http://167.99.58.120:9999/blazegraph/sparql?context-uri=https://bionames.org -H 'Content-Type: text/rdf+n3' --data-binary '@taiwania.nt'  --progress-bar | tee /dev/null
+
+```
+
 ## Papers
 
 For example, image a paper that has a DOI, but that DOI is not used when another paper cites that paper. We will have one record for the paper (with DOI) and a second record of the same paper (without DOI but with some made-up identifier, for example based on the “key” field in a CrossRef citation).
@@ -88,7 +95,7 @@ SELECT * WHERE
 order by ?name
 ```
 
-## Funding cited works that are unstructured (no name)
+## Finding cited works that are unstructured (no name)
 
 ```
 PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>

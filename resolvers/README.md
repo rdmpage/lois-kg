@@ -18,3 +18,8 @@ curl http://167.71.255.145:9999/blazegraph/sparql?context-uri=https://ipni.org -
 
 https://beta.ipni.org/api/1/n/urn:lsid:ipni.org:names:94847-1
 
+## Index Fungorum
+
+curl http://167.99.58.120:9999/blazegraph/sparql?context-uri=http://indexfungorum.org -H 'Content-Type: text/rdf+n3' --data-binary '@if.nt'  --progress-bar | tee /dev/null
+
+
