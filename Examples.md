@@ -206,6 +206,11 @@ http://localhost/~rpage/lois-kg/www/?uri=https://orcid.org/0000-0001-9060-0891 P
 
 https://orcid.org/0000-0002-6331-3456 Ian (WTF!)
 
+### Authors with ORCIDs not linked to publications
+
+https://orcid.org/0000-0003-1039-7606 (one pub listed but without DOI)
+https://orcid.org/0000-0002-1597-1921 (Rafflesia consueloae (Rafflesiaceae), the smallest among giants; a new species from Luzon Island, Philippines with wrong DOI)
+
 
 ## GenBank specimens
 
