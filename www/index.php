@@ -571,7 +571,7 @@ PREFIX tn: <http://rs.tdwg.org/ontology/voc/TaxonName#>
 				
 				$feed1 = json_decode($json);
 			
-				
+				/*
 				// part two
 				$stream_query = 'PREFIX schema: <http://schema.org/>
 				PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
@@ -659,7 +659,7 @@ PREFIX tn: <http://rs.tdwg.org/ontology/voc/TaxonName#>
 				
 				}
 					
-				
+				*/
 				
 				if (isset($feed1->{'@graph'}) && count($feed1->{'@graph'}) > 0)
 				{
@@ -745,6 +745,7 @@ PREFIX tn: <http://rs.tdwg.org/ontology/voc/TaxonName#>
 				
 				$feed1 = json_decode($json);
 				
+				/*
 				// part two					
 				$stream_query = 'PREFIX schema: <http://schema.org/>
 				PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
@@ -825,7 +826,8 @@ PREFIX tn: <http://rs.tdwg.org/ontology/voc/TaxonName#>
 						}
 					}
 				
-				}			
+				}	
+				*/		
 			
 				if (isset($feed1->{'@graph'}) && count($feed1->{'@graph'}) > 0)
 				{
@@ -834,7 +836,7 @@ PREFIX tn: <http://rs.tdwg.org/ontology/voc/TaxonName#>
 			}
 			
 			
-			if (1)
+			if (0)
 			{
 			
 				// "related" works, e.g. co-citations
@@ -1309,6 +1311,252 @@ PREFIX tn: <http://rs.tdwg.org/ontology/voc/TaxonName#>
 }
 
 //----------------------------------------------------------------------------------------
+function display_entity_ajax($uri)
+{
+	global $config;
+		
+	$ok = false;	
+	
+	// Handle hash identifiers
+	$uri = str_replace('%23', '#', $uri);
+		
+	// Use a generic CONSTRUCT to get information on this entity
+	$json = sparql_construct($config['sparql_endpoint'], $uri);
+	
+	$types = array();
+
+	if ($json != '')
+	{
+		$entity = json_decode($json);
+		$ok = isset($entity->{'@id'}) || isset($entity->{'@graph'});
+		//$ok = isset($entity->name);
+		
+		$types = get_entity_types($entity);
+		
+		$ok = true;
+	}	
+	
+	//------------------------------------------------------------------------------------
+	if ($ok)
+	{
+		// Get one or more streams of related content for this entity
+		
+		//--------------------------------------------------------------------------------
+		if (in_array('tn:TaxonName', $types))
+		{
+			$taxon_name_id  = $entity->{'@graph'}[0]->{'@id'};
+			
+			// basionym
+			
+			// taxa with this name 
+			
+			// occurrences for this name (via taxon) (e.g., looking for types) 
+
+		}		
+		
+		//--------------------------------------------------------------------------------
+		if (in_array('Person', $types))
+		{
+			$identifier_value = '';
+			
+			if (preg_match('/https?:\/\/orcid.org\/(?<id>.*)/', $entity->{'@graph'}[0]->{'@id'}, $m))
+			{
+				$identifier_value = $m['id'];
+			}
+		
+		
+			// list of works
+			
+		}
+		
+		//--------------------------------------------------------------------------------
+		// Container
+		if (in_array('Periodical', $types))
+		{
+			$container_id  = $entity->{'@graph'}[0]->{'@id'};
+				
+			// list of works
+			
+		}	
+		
+		//--------------------------------------------------------------------------------
+		// Work
+		if (in_array('ScholarlyArticle', $types) || in_array('CreativeWork', $types))
+		{
+			$work_id  = $entity->{'@graph'}[0]->{'@id'};
+				
+			// list of names
+		
+			// list of cited works
+			// list of citing works
+			// "related" works, e.g. co-citations
+			
+			
+			
+
+			
+		}				
+		
+		//--------------------------------------------------------------------------------
+		// taxon
+		if (in_array('Taxon', $types) || in_array('dwc:Taxon', $types))
+		{
+			$taxon_id  = $entity->{'@graph'}[0]->{'@id'};
+				
+			// list of child taxa
+		}			
+		
+	}
+
+		
+	if (!$ok)
+	{
+		// bounce
+		header('Location: ' . $config['web_root'] . '?error=Record not found' . "\n\n");
+		exit(0);
+	}
+	
+	$title = '';
+	$meta = '';
+		
+	// JSON-LD for structured data in HTML
+	$script = "\n" . '<script type="application/ld+json">' . "\n"
+		. 	json_encode($entity, JSON_PRETTY_PRINT | JSON_UNESCAPED_SLASHES | JSON_UNESCAPED_UNICODE)
+    	. "\n" . '</script>';
+    	
+    
+    $script .= "\n" . '<script>' . "\n"
+		. 'var data = ' . json_encode($entity, JSON_PRETTY_PRINT | JSON_UNESCAPED_SLASHES | JSON_UNESCAPED_UNICODE)
+    	. ";\n" . '</script>';    
+    
+    	
+ 	display_html_start($title, $meta, $script);
+ 	
+ 	
+	echo '<div id="output">Stuff goes here</div>';
+	
+	echo '<div id="feed_names"></div>';
+	echo '<div id="feed_works"></div>';
+	echo '<div id="feed_cites"></div>';
+	echo '<div id="feed_cited_by"></div>';
+	echo '<div id="feed_related"></div>';
+	echo '<div id="feed_children"></div>';
+	echo '<div id="feed_taxa"></div>';
+	echo '<div id="feed_basionym"></div>';
+	echo '<div id="feed_occurrence"></div>';
+	echo '<div id="feed_annotation"></div>';
+	
+	
+	echo '<div class="text_container hidden" onclick="show_hide(this)">';		
+	echo '<h3>JSON-LD</h3>';
+	echo '<div style="font-family:monospace;white-space:pre;line-height:1em;">';
+	echo json_encode($entity, JSON_PRETTY_PRINT | JSON_UNESCAPED_SLASHES | JSON_UNESCAPED_UNICODE);
+	echo '</div>';		
+	echo '</div>';
+	
+	$feeds = array();
+	
+	$displayed = false;	
+	$n = count($types);
+	$i = 0;
+	while (($i < $n) && !$displayed)
+	{
+		switch ($types[$i])
+		{
+			case 'CreativeWork':
+			case 'ScholarlyArticle':
+				echo '<script>render(template_work, { item: data }, "output");</script>';
+				
+				echo '<script>work_names("' . $uri . '");</script>';
+				echo '<script>work_cites("' . $uri . '");</script>';
+				echo '<script>work_cited_by("' . $uri . '");</script>';
+				echo '<script>work_related("' . $uri . '");</script>';
+				break;
+		
+			case 'tn:TaxonName':
+				echo '<script>render(template_taxon_name, { item: data }, "output");</script>';	
+				
+				echo '<script>name_basionym("' . $uri . '");</script>';
+				
+				/*
+				if (isset($feeds['basionym']))
+				{				
+					echo '<script>';
+					echo 'render(template_datafeed, { item: feed_basionym }, "feed_basionym");';
+					echo '</script>';
+				}	
+				
+				if (isset($feeds['taxa']))
+				{				
+					echo '<script>';
+					echo 'render(template_datafeed, { item: feed_taxa }, "feed_taxa");';
+					echo '</script>';
+				}							
+
+				if (isset($feeds['occurrence']))
+				{				
+					echo '<script>';
+					echo 'render(template_datafeed, { item: feed_occurrence }, "feed_occurrence");';
+					echo '</script>';
+				}		
+				
+				if (isset($feeds['annotation']))
+				{				
+					echo '<script>';
+					echo 'render(template_datafeed, { item: feed_annotation }, "feed_annotation");';
+					echo '</script>';
+				}							
+				*/											
+						
+				break;
+				
+			case 'tp:Person':
+			case 'Person':
+				echo '<script>render(template_person, { item: data }, "output");</script>';				
+				
+				echo '<script>person_names("' . $uri . '");</script>';
+								
+				echo '<script>person_works("' . $uri . '");</script>';
+				break;
+
+			case 'Periodical':
+				echo '<script>render(template_container, { item: data }, "output");</script>';			
+				
+				echo '<script>container_works("' . $uri . '");</script>';
+				break;
+				
+			case 'dwc:Occurrence':
+				echo '<script>render(template_occurrence, { item: data }, "output");</script>';			
+				break;
+
+            case 'dwc:Taxon':
+            case 'tc:TaxonConcept':
+			case 'Taxon':
+				echo '<script>render(template_taxon, { item: data }, "output");</script>';	
+				
+				/*
+				if (isset($feeds['children']))
+				{				
+					echo '<script>';
+					echo 'render(template_datafeed, { item: feed_children }, "feed_children");';
+					echo '</script>';
+				}							
+				*/
+						
+				break;
+
+				
+			default:
+				echo 'Unknown type' . $types[$i];
+				break;		
+		}	
+		$i++;
+	}		
+	
+	display_html_end();	
+}
+
+//----------------------------------------------------------------------------------------
 function display_html_start($title = '', $meta = '', $script = '', $onload = '')
 {
 	global $config;
@@ -1353,8 +1601,13 @@ function display_html_start($title = '', $meta = '', $script = '', $onload = '')
 }
 </script>';
 
-  echo '<script type="text/javascript" src="vis-network.min.js"></script>';
-  echo '<script type="text/javascript" src="network.js"></script>';
+
+	echo '<script src="work_scripts.js"></script>';
+
+
+
+  //echo '<script type="text/javascript" src="vis-network.min.js"></script>';
+  //echo '<script type="text/javascript" src="network.js"></script>';
 
 	echo $script;
 	
@@ -1693,7 +1946,7 @@ function main()
 	{	
 		$uri = $_GET['uri'];
 						
-		display_entity($uri);
+		display_entity_ajax($uri);
 		exit(0);
 	}
 		

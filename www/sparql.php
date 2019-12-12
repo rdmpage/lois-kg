@@ -161,6 +161,7 @@ CONSTRUCT
 	?author <http://schema.org/identifier> ?author_identifier .		
 	?author_identifier <http://schema.org/propertyID> "orcid" .
 	?author_identifier <http://schema.org/value> ?orcid .
+	?author <http://schema.org/sameAs> ?author_identifier_string .		
      
              
 #?item :citation ?cites .
@@ -252,6 +253,11 @@ WHERE {
 			?author_identifier <http://schema.org/propertyID> "orcid" .
 			?author_identifier <http://schema.org/value> ?orcid .
 		} 
+		
+       
+		OPTIONAL {
+			?author <http://schema.org/sameAs> ?author_identifier_string .		
+		} 		
         
         
 	} 

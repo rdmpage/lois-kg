@@ -196,7 +196,7 @@ if (item['@graph']) {
 </h1>
 
 <!-- authors -->
-<div>
+<div style="line-height:2em;">
 
 <% if (item.creator) {
 	var authors = [];
@@ -211,23 +211,43 @@ if (item['@graph']) {
 			
 				var string ='';
 				
-				var orcid = '';
+				var has_link = false;
 				
-			    if (item.creator[i].creator[0].identifier) {
-			    	orcid = get_property_value(item.creator[i].creator[0].identifier, 'orcid');
+				var sameAs = '';
+				
+
+			    if (item.creator[i].creator[0].sameAs) {
+			    	if (Array.isArray(item.creator[i].creator[0].sameAs)) {
+				    	sameAs = item.creator[i].creator[0].sameAs[0];
+				    } else {
+				    	sameAs = item.creator[i].creator[0].sameAs;
+				    }
+			    	has_link = true;
 			    }
 			    
-				if (orcid != '') {
-					//string += '<a href="https://orcid.org/' + orcid + '"><img src="images/orcid_16x16.png"></a>&nbsp;';
-					string += '<img src="images/orcid_16x16.png"></a>&nbsp;';
-					string += '<a href="?uri=https://orcid.org/' + orcid + '">';
+			    if (has_link) {
+			    	string += '<span style="white-space:nowrap;border-radius:4px;padding:2px;border:1px solid black;">';
+			    } else
+			    {
+			    	string += '<span style="white-space:nowrap;border-radius:4px;padding:2px;border:1px solid rgb(192,192,192);">';			    
+			    }
+			    
+			    if (sameAs != '') {
+			    	string += '<a href="?uri=' + sameAs + '">';
 			    }
 			   
 				string += get_literal(item.creator[i].creator[0].name);
 				
-				if (orcid != '') {
-					string += '</a>';
+			    if (sameAs != '') {
+			    	if (sameAs.match(/orcid/)) {
+			    		string += '&nbsp;<img src="images/orcid_16x16.png"></a>';
+			    	}
+			    }
+								
+				if (has_link) {
+					string += '</a>';					
 				}
+				string += '</span>';
 				
 				authors.push(string);
 			}
@@ -239,7 +259,8 @@ if (item['@graph']) {
 			}
 		
 		}
-		var author_string = authors.join('; ');
+		var author_string = authors.join(' ');
+		//var author_string = authors.join('; ');
 		%>
 		<%- author_string %>
 		<%  
