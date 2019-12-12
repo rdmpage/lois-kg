@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>baseURL</key>
-	<string>http://localhost:32769/oz-csl/_design/work/_list/triples/nt</string>
+	<string>http://localhost:32775/oz-csl/_design/work/_list/triples/nt</string>
 	<key>followRedirect</key>
 	<true/>
 	<key>handleJSONPCallbacks</key>
@@ -28,6 +28,14 @@
 		</dict>
 		<dict>
 			<key>inUse</key>
+			<true/>
+			<key>parameter</key>
+			<string>key</string>
+			<key>value</key>
+			<string>"https://doi.org/10.1080/00275514.2018.1477004"</string>
+		</dict>
+		<dict>
+			<key>inUse</key>
 			<false/>
 			<key>parameter</key>
 			<string>key</string>
@@ -44,7 +52,7 @@
 		</dict>
 		<dict>
 			<key>inUse</key>
-			<true/>
+			<false/>
 			<key>parameter</key>
 			<string>key</string>
 			<key>value</key>

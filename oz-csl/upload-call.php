@@ -23,8 +23,19 @@ $ids=array(
 	);
 	
 $ids=array(	
-	'https://doi.org/10.1128/microbiolspec.FUNK-0053-2016',
+//	'https://doi.org/10.1128/microbiolspec.FUNK-0053-2016',
+//	'https://doi.org/10.1007/s00606-010-0413-z',
+//	'https://doi.org/10.11609/jott.3371.9.7.10421-10425',
+//	'https://doi.org/10.11646/phytotaxa.316.3.7',
+'http://localhost/~rpage/microcitation/www/citeproc-api.php?guid=http://www.plantsystematics.com/CN/abstract/abstract630.shtml',
 );
+
+	$ids=array(
+	'https://doi.org/10.12705/655.16',
+	'https://doi.org/10.1002/tax.603012',
+	'https://doi.org/10.26492/gbs69(1).2017-01',	
+	);
+
 
 
 // Create empty file to write triples to

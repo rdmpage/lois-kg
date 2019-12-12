@@ -11947,7 +11947,8 @@ $guids=array(
 $guids=array(
 //'10.7525/j.issn.1673-5102.2009.02.008',
 //'10.7525/j.issn.1673-5102.2014.01.011'
-'http://revista.sco.org.co/index.php/orquideologia/article/view/57'
+//'http://revista.sco.org.co/index.php/orquideologia/article/view/57',
+'http://www.plantsystematics.com/CN/abstract/abstract630.shtml'
 );
 
 	$force = true;
