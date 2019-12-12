@@ -13780,6 +13780,49 @@ $json = '{
     ]
 }';
 
+$json = '{
+    "rows": [{
+            "key": [
+                "amer",
+                "fern",
+                "j"
+            ],
+            "value": 5
+        },
+        {
+            "key": [
+                "amer",
+                "fern",
+                "journ"
+            ],
+            "value": 4
+        },
+        {
+            "key": [
+                "amer",
+                "j",
+                "bot"
+            ],
+            "value": 4
+        },
+        {
+            "key": [
+                "american",
+                "journal",
+                "botany"
+            ],
+            "value": 6
+        },
+        {
+            "key": [
+                "american",
+                "naturalist"
+            ],
+            "value": 1
+        }
+        ]}';
+
+
 $obj = json_decode($json);
 
 $nodes = array();
