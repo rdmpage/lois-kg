@@ -74,6 +74,12 @@ Need to think how we apply this to lists of works in a journal, etc.
 
 So the question is whether we can apply this approach to other entities, such as people. For example, have standardised strings as people identifiers, then when we cluster those use sameAs statements to link to definitive version.
 
+```
+curl http://167.99.58.120:9999/blazegraph/sparql?context-uri=https://bionames.org/sameas -H 'Content-Type: text/rdf+n3' --data-binary '@creator-ipni.nt'  --progress-bar | tee /dev/null
+
+```
+
+
 ## Finding works that need to be linked to identifiers
 
 Find articles in journal with ISSN 0366-4457 that lack identifier (e.g., a DOI). These would need to be matched to local database/CrossRef/etc and an identifier added via sameAs.
