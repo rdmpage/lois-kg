@@ -4,6 +4,8 @@ Keys.md
 
 *.nt
 
+adodb5
+
 vendor/
 
 junk/
@@ -13,6 +15,8 @@ oz-csl/*.nt
 oz-csl/junk
 
 oz-gbif/*.nt
+
+oz-ipni/*.jsonl
 
 oz-orcid/*.nt
 oz-orcid/*.jsonl
