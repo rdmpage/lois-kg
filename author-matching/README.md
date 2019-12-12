@@ -196,3 +196,76 @@ GROUP BY ?pub_work ?pub_roleName
 ```
 
 
+## List IPNI author and publication for name
+
+```
+PREFIX tn: <http://rs.tdwg.org/ontology/voc/TaxonName#>
+PREFIX tm: <http://rs.tdwg.org/ontology/voc/Team#>
+PREFIX schema: <http://schema.org/>
+PREFIX dc: <http://purl.org/dc/elements/1.1/>
+PREFIX tcom: <http://rs.tdwg.org/ontology/voc/Common#>
+
+
+SELECT * WHERE
+{
+  VALUES ?ipni { <urn:lsid:ipni.org:names:930613-1> }
+	?ipni tcom:publishedInCitation ?ipni_pub .
+  ?ipni_pub schema:sameAs ?pub_identifier .
+  BIND(IRI(?pub_identifier) AS ?pub_work) .
+  
+   ?pub_work schema:creator ?pub_role  . 
+    
+    ?pub_role schema:roleName ?pub_roleName  .    
+    ?pub_role schema:creator ?pub_creator  .    
+    ?pub_creator schema:name ?pub_name .
+  
+   ?ipni tn:authorteam ?ipni_team .
+    ?ipni_team tm:hasMember ?ipni_team_member .
+    ?ipni_team_member tm:role ?ipni_role .
+    ?ipni_team_member tm:index ?pub_roleName .
+    ?ipni_team_member tm:member ?ipni_member .
+    ?ipni_member dc:title ?ipni_member_name .
+   
+  
+ }
+ ```
+ 
+ Note examples with Chinese names will cause all sorts of issues (e.g., whether names are broken into pieces, ordering, etc. )
+ 
+ ```
+PREFIX tn: <http://rs.tdwg.org/ontology/voc/TaxonName#>
+PREFIX tm: <http://rs.tdwg.org/ontology/voc/Team#>
+PREFIX schema: <http://schema.org/>
+PREFIX dc: <http://purl.org/dc/elements/1.1/>
+PREFIX tcom: <http://rs.tdwg.org/ontology/voc/Common#>
+
+
+SELECT * WHERE
+{
+ # VALUES ?ipni { <urn:lsid:ipni.org:names:930613-1> }
+  
+  # Ko Wanchang 高蕴璋 Wan Chang Ko
+   VALUES ?ipni { <urn:lsid:ipni.org:names:1008198-1> }
+  
+  # Liang Shengye 梁盛业 Sheng Ye(h) Liang
+  #VALUES ?ipni { <urn:lsid:ipni.org:names:1008195-1> }
+	?ipni tcom:publishedInCitation ?ipni_pub .
+  ?ipni_pub schema:sameAs ?pub_identifier .
+  BIND(IRI(?pub_identifier) AS ?pub_work) .
+  
+   ?pub_work schema:creator ?pub_role  . 
+    
+    ?pub_role schema:roleName ?pub_roleName  .    
+    ?pub_role schema:creator ?pub_creator  .    
+    ?pub_creator schema:name ?pub_name .
+  
+   ?ipni tn:authorteam ?ipni_team .
+    ?ipni_team tm:hasMember ?ipni_team_member .
+    ?ipni_team_member tm:role ?ipni_role .
+    ?ipni_team_member tm:index ?pub_roleName .
+    ?ipni_team_member tm:member ?ipni_member .
+    ?ipni_member dc:title ?ipni_member_name .
+   
+  
+ } 
+ ```
