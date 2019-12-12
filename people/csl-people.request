@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>baseURL</key>
-	<string>http://localhost:32769/oz-csl/_design/people/_view/family-given</string>
+	<string>http://localhost:32775/oz-csl/_design/people/_view/family-given</string>
 	<key>followRedirect</key>
 	<true/>
 	<key>handleJSONPCallbacks</key>
