@@ -111,6 +111,18 @@ $accs=array(
 'AF347991'
 );
 
+// Billolivia
+$accs=array(
+'KU985115.1',
+'KU985114.1',
+'KU985113.1',
+'KU985112.1',
+'KU985111.1',
+'KU985110.1',
+'KU985109.1',
+'KU985108.1',
+);
+
 $count = 1;
 
 foreach ($accs as $acc)

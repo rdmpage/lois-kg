@@ -120,7 +120,10 @@ for ($i = 0; $i < $n; $i++)
 echo ";\n";
 echo "	END;\n\n";
 
+// distances
 
+
+echo "[k-mer distances]\n";
 echo "BEGIN DISTANCES;\n"; 
 echo "FORMAT TRIANGLE = LOWER;\n"; 
 echo "Matrix \n"; 
@@ -136,6 +139,17 @@ for ($i = 0; $i < $n; $i++)
 	echo "\n";
 }
 echo ";\n";
+echo "END;\n";
+
+// make a tree
+$nexus .= "\n";
+echo "[PAUP block]\n";
+echo "BEGIN PAUP;\n";
+echo "   [root trees at midpoint]\n";
+echo "   set rootmethod=midpoint;\n";
+echo "   set outroot=monophyl;\n";
+echo "   [construct tree using neighbour-joining]\n";
+echo "   nj;\n";
 echo "END;\n";
 
 

@@ -5,6 +5,7 @@ BEGIN TAXA;
 	TAXLABELS 'AB038189.1 Cladopus japonicus' 'AB048371.1 Cladopus austro-osumiensis' 'AB048372.1 Cladopus taiensis' 'AB066175.1 Cladopus javanicus' 'AB104559.1 Cladopus hainanensis' 'AB104560.1 Cladopus hainanensis' 'AB104561.1 Cladopus nymanii' 'AB104577.1 Cladopus nymanii' 'AB293561.1 Cladopus fallax' 'AB300702.1 Cladopus queenslandicus' 'AB537378.1 Cladopus fallax' 'AB537379.1 Cladopus pierrei' 'AB537380.1 Cladopus pierrei' 'AB610219.1 Cladopus pierrei' 'AB610224.1 Cladopus pierrei' 'AB610225.1 Cladopus pierrei' 'AB610226.1 Cladopus pierrei' 'AB610227.1 Cladopus pierrei' 'AB610228.1 Cladopus pierrei' 'AB698212.1 Cladopus taiensis' 'LC144911.1 Cladopus austrosinensis' 'LC144912.1 Cladopus fukienensis' 'LC144913.1 Cladopus fukienensis' 'LC151297.1 Cladopus pierrei' 'LC151298.1 Cladopus pierrei' 'LC151299.1 Cladopus pierrei' 'LC151300.1 Cladopus pierrei' 'LC151301.1 Cladopus pierrei' 'LC151302.1 Cladopus pierrei' 'LC151303.1 Cladopus pierrei' 'LC151304.1 Cladopus pierrei' 'LC151305.1 Cladopus pierrei' 'LC151306.1 Cladopus taiensis' 'LC151307.1 Cladopus taiensis' 'LC151308.1 Cladopus taiensis' 'LC151309.1 Cladopus taiensis' 'LC380596.1 Cladopus fallax' 'LC380601.1 Cladopus taiensis' ;
 	END;
 
+[k-mer distances]
 BEGIN DISTANCES;
 FORMAT TRIANGLE = LOWER;
 Matrix 
@@ -47,5 +48,13 @@ Matrix
 'LC380596.1 Cladopus fallax'   0.040 0.038 0.024 0.016 0.038 0.042 0.019 0.019 0.020 0.019 0.019 0.036 0.035 0.039 0.038 0.037 0.035 0.036 0.039 0.017 0.037 0.039 0.039 0.039 0.035 0.039 0.037 0.043 0.039 0.036 0.037 0.037 0.019 0.019 0.019 0.019 0.000
 'LC380601.1 Cladopus taiensis' 0.037 0.041 0.009 0.015 0.041 0.044 0.015 0.013 0.011 0.014 0.009 0.038 0.037 0.037 0.041 0.038 0.038 0.037 0.038 0.003 0.040 0.041 0.041 0.038 0.037 0.037 0.040 0.044 0.037 0.038 0.033 0.033 0.002 0.002 0.002 0.002 0.019 0.000
 ;
+END;
+[PAUP block]
+BEGIN PAUP;
+   [root trees at midpoint]
+   set rootmethod=midpoint;
+   set outroot=monophyl;
+   [construct tree using neighbour-joining]
+   nj;
 END;
 

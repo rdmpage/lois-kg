@@ -1,0 +1,568 @@
+ID   KU985115; SV 1; linear; genomic DNA; STD; PLN; 629 BP.
+XX
+AC   KU985115;
+XX
+DT   03-APR-2018 (Rel. 136, Created)
+DT   03-APR-2018 (Rel. 136, Last updated, Version 3)
+XX
+DE   Billolivia violacea voucher D.J. Middleton 4210 internal transcribed spacer
+DE   1, partial sequence; 5.8S ribosomal RNA gene, complete sequence; and
+DE   internal transcribed spacer 2, partial sequence.
+XX
+KW   .
+XX
+OS   Billolivia violacea
+OC   Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+OC   Spermatophyta; Magnoliopsida; eudicotyledons; Gunneridae; Pentapetalae;
+OC   asterids; lamiids; Lamiales; Gesneriaceae; Billolivia.
+XX
+RN   [1]
+RP   1-629
+RA   Middleton D.J., Atkins H., Truong L.-H., Nishii K., Moeller M.;
+RT   "A new genus from Vietnam with five new species";
+RL   Unpublished.
+XX
+RN   [2]
+RP   1-629
+RA   Middleton D.J., Atkins H., Truong L.-H., Nishii K., Moeller M.;
+RT   ;
+RL   Submitted (25-MAR-2016) to the INSDC.
+RL   Science - Tropical Diversity, Royal Botanic Garden Edinburgh, 20A
+RL   Inverleith Row, Edinburgh, Scotland EH3 5LR, United Kingdom
+XX
+DR   MD5; 4e8c3dd1dc609cdaa3c1752322c1a892.
+XX
+CC   ##Assembly-Data-START##
+CC   Assembly Method       :: Sequencher v. 4.5
+CC   Sequencing Technology :: Sanger dideoxy sequencing
+CC   ##Assembly-Data-END##
+XX
+FH   Key             Location/Qualifiers
+FH
+FT   source          1..629
+FT                   /organism="Billolivia violacea"
+FT                   /mol_type="genomic DNA"
+FT                   /country="Viet Nam"
+FT                   /specimen_voucher="D.J. Middleton 4210"
+FT                   /note="DNA-ID EDNA13-0000052, CH78"
+FT                   /db_xref="taxon:1844505"
+FT   misc_RNA        <1..219
+FT                   /product="internal transcribed spacer 1"
+FT   rRNA            220..383
+FT                   /product="5.8S ribosomal RNA"
+FT   misc_RNA        384..>629
+FT                   /product="internal transcribed spacer 2"
+XX
+SQ   Sequence 629 BP; 151 A; 173 C; 166 G; 139 T; 0 other;
+     tcgaaacctg caaagctgac ccgtgaacat gttacaataa tcttgcggtt gtgatctgga        60
+     atgcctcggc gtccaacatc atgacctaga cccaattgac gcaagtcgct tgggcgtact       120
+     aacctctcgg cgcggaaagc gccaaggaaa accgtatcga acatctctcc gtcctgggtc       180
+     tgtgcgcgtt acccagggtg tgatgacgag tgtctattga aaacaactct cggcaacgga       240
+     tatctcggct cttgcatcga tgaagaacgt agcgaaatgc gatacttggt gtgaattgca       300
+     gaatcccgtg aaccatcgag tctttgaacg caagttgcgc ccgaagcctt caggcatagg       360
+     gcacgtctgc ctgagcgtca cgcatctcgt cgcctccctc ctcccaacat catcttcccc       420
+     actcagtgtc gggagatgat acgcaagaaa gagggggggt ggatattggc ctcccgttat       480
+     ccttgtgagg cggccggccc aaaaagcata ccgtgtcgat ggaagtcaca cgatacgtgg       540
+     tggttggatt cctcaactct caaacaatcg tgtgggactg catcgagcca cgggcaagac       600
+     ccaatggcat cagattgccc tcgattgcg                                         629
+//
+ID   KU985114; SV 1; linear; genomic DNA; STD; PLN; 378 BP.
+XX
+AC   KU985114;
+XX
+DT   03-APR-2018 (Rel. 136, Created)
+DT   03-APR-2018 (Rel. 136, Last updated, Version 3)
+XX
+DE   Billolivia vietnamensis voucher Luu Hong Truong & Nguyen Quoc Dat BGM1601
+DE   internal transcribed spacer 1 and 5.8S ribosomal RNA gene, partial
+DE   sequence.
+XX
+KW   .
+XX
+OS   Billolivia vietnamensis
+OC   Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+OC   Spermatophyta; Magnoliopsida; eudicotyledons; Gunneridae; Pentapetalae;
+OC   asterids; lamiids; Lamiales; Gesneriaceae; Billolivia.
+XX
+RN   [1]
+RP   1-378
+RA   Middleton D.J., Atkins H., Truong L.-H., Nishii K., Moeller M.;
+RT   "A new genus from Vietnam with five new species";
+RL   Unpublished.
+XX
+RN   [2]
+RP   1-378
+RA   Middleton D.J., Atkins H., Truong L.-H., Nishii K., Moeller M.;
+RT   ;
+RL   Submitted (25-MAR-2016) to the INSDC.
+RL   Science - Tropical Diversity, Royal Botanic Garden Edinburgh, 20A
+RL   Inverleith Row, Edinburgh, Scotland EH3 5LR, United Kingdom
+XX
+DR   MD5; 4e9511ee2eaeb7ee9b81d09aa8652fcf.
+XX
+CC   ##Assembly-Data-START##
+CC   Assembly Method       :: Sequencher v. 4.5
+CC   Sequencing Technology :: Sanger dideoxy sequencing
+CC   ##Assembly-Data-END##
+XX
+FH   Key             Location/Qualifiers
+FH
+FT   source          1..378
+FT                   /organism="Billolivia vietnamensis"
+FT                   /mol_type="genomic DNA"
+FT                   /country="Viet Nam"
+FT                   /specimen_voucher="Luu Hong Truong & Nguyen Quoc Dat
+FT                   BGM1601"
+FT                   /note="DNA-ID EDNA13-0000050, KN177"
+FT                   /db_xref="taxon:1844504"
+FT   misc_RNA        <1..225
+FT                   /product="internal transcribed spacer 1"
+FT   rRNA            226..>378
+FT                   /product="5.8S ribosomal RNA"
+XX
+SQ   Sequence 378 BP; 97 A; 101 C; 94 G; 85 T; 1 other;
+     tcgaaacttg caaagcagac ccgtggacat gtttaaataa tcttgcggcc gtgatgttga        60
+     atgcctctgt gtccaacacc atgacctcga cccaattggc gcaagtcgat tgtgcgtact       120
+     aacctctcgg cgcgacaagc gccaaggaaa acarcatcaa accatctctc cactctggct       180
+     ctgtgcgcgg taaccagggc gtgatgagtg tctattgagt tacataaaac gactctcggc       240
+     aacggatatc tcggctctcg catcgatgaa gaacgtagcg aaatgcgata cttggtgtga       300
+     attgcagaat cccgtgaacc atcgagtctt tgaacgcaag ttgcgcccga agccatcagg       360
+     cttagggcac gtctgccg                                                     378
+//
+ID   KU985113; SV 1; linear; genomic DNA; STD; PLN; 379 BP.
+XX
+AC   KU985113;
+XX
+DT   03-APR-2018 (Rel. 136, Created)
+DT   03-APR-2018 (Rel. 136, Last updated, Version 3)
+XX
+DE   Billolivia minutiflora voucher Ly Ngoc Sam LY498 internal transcribed
+DE   spacer 1 and 5.8S ribosomal RNA gene, partial sequence.
+XX
+KW   .
+XX
+OS   Billolivia minutiflora
+OC   Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+OC   Spermatophyta; Magnoliopsida; eudicotyledons; Gunneridae; Pentapetalae;
+OC   asterids; lamiids; Lamiales; Gesneriaceae; Billolivia.
+XX
+RN   [1]
+RP   1-379
+RA   Middleton D.J., Atkins H., Truong L.-H., Nishii K., Moeller M.;
+RT   "A new genus from Vietnam with five new species";
+RL   Unpublished.
+XX
+RN   [2]
+RP   1-379
+RA   Middleton D.J., Atkins H., Truong L.-H., Nishii K., Moeller M.;
+RT   ;
+RL   Submitted (25-MAR-2016) to the INSDC.
+RL   Science - Tropical Diversity, Royal Botanic Garden Edinburgh, 20A
+RL   Inverleith Row, Edinburgh, Scotland EH3 5LR, United Kingdom
+XX
+DR   MD5; 64fff30be33c629161eefc4d37ad5b06.
+XX
+CC   ##Assembly-Data-START##
+CC   Assembly Method       :: Sequencher v. 4.5
+CC   Sequencing Technology :: Sanger dideoxy sequencing
+CC   ##Assembly-Data-END##
+XX
+FH   Key             Location/Qualifiers
+FH
+FT   source          1..379
+FT                   /organism="Billolivia minutiflora"
+FT                   /mol_type="genomic DNA"
+FT                   /country="Viet Nam"
+FT                   /specimen_voucher="Ly Ngoc Sam LY498"
+FT                   /note="DNA-ID EDNA13-0000053,KN180"
+FT                   /db_xref="taxon:1844503"
+FT   misc_RNA        <1..225
+FT                   /product="internal transcribed spacer 1"
+FT   rRNA            226..>379
+FT                   /product="5.8S ribosomal RNA"
+XX
+SQ   Sequence 379 BP; 100 A; 101 C; 93 G; 85 T; 0 other;
+     tcgaaacctg caaagcagac ccgtggacat gtttaaataa tcttgcggtc gtgatgttga        60
+     atgcctctgt gtccaacacc acgacctcga cccaattggc gcaagtcgat tgtgcgtact       120
+     aacctctcgg cgcgacaagc gccaaggaaa acaacataaa aacatctctc cactctggct       180
+     ctgtgcgcgg taccccaggg tgtgatgagt gtctattgaa tacataaaac gactctcggc       240
+     aacggatatc tcggctctcg catcgatgaa gaacgtagcg aaatgcgata cttggtgtga       300
+     attgcagaat cccgtgaacc atcgagtctt tgaacgcaag ttgcgcccga agccatcagg       360
+     cttagggcac gtctgcctg                                                    379
+//
+ID   KU985112; SV 1; linear; genomic DNA; STD; PLN; 377 BP.
+XX
+AC   KU985112;
+XX
+DT   03-APR-2018 (Rel. 136, Created)
+DT   03-APR-2018 (Rel. 136, Last updated, Version 3)
+XX
+DE   Billolivia longipetiolata voucher Luu Hong Truong & Pham Huu Nhan BD624
+DE   internal transcribed spacer 1 and 5.8S ribosomal RNA gene, partial
+DE   sequence.
+XX
+KW   .
+XX
+OS   Billolivia longipetiolata
+OC   Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+OC   Spermatophyta; Magnoliopsida; eudicotyledons; Gunneridae; Pentapetalae;
+OC   asterids; lamiids; Lamiales; Gesneriaceae; Billolivia.
+XX
+RN   [1]
+RP   1-377
+RA   Middleton D.J., Atkins H., Truong L.-H., Nishii K., Moeller M.;
+RT   "A new genus from Vietnam with five new species";
+RL   Unpublished.
+XX
+RN   [2]
+RP   1-377
+RA   Middleton D.J., Atkins H., Truong L.-H., Nishii K., Moeller M.;
+RT   ;
+RL   Submitted (25-MAR-2016) to the INSDC.
+RL   Science - Tropical Diversity, Royal Botanic Garden Edinburgh, 20A
+RL   Inverleith Row, Edinburgh, Scotland EH3 5LR, United Kingdom
+XX
+DR   MD5; 0fcf86da6eebbab4d01046c9f6d2dd9f.
+XX
+CC   ##Assembly-Data-START##
+CC   Assembly Method       :: Sequencher v. 4.5
+CC   Sequencing Technology :: Sanger dideoxy sequencing
+CC   ##Assembly-Data-END##
+XX
+FH   Key             Location/Qualifiers
+FH
+FT   source          1..377
+FT                   /organism="Billolivia longipetiolata"
+FT                   /mol_type="genomic DNA"
+FT                   /country="Viet Nam"
+FT                   /specimen_voucher="Luu Hong Truong & Pham Huu Nhan BD624"
+FT                   /note="DNA-ID EDNA13-0000051,KN178"
+FT                   /db_xref="taxon:1844502"
+FT   misc_RNA        <1..226
+FT                   /product="internal transcribed spacer 1"
+FT   rRNA            227..>377
+FT                   /product="5.8S ribosomal RNA"
+XX
+SQ   Sequence 377 BP; 96 A; 98 C; 98 G; 85 T; 0 other;
+     tcgaaacctg caaagctgac ccgtgaacat gttacaataa tcttgcggtt gtgatctgga        60
+     atgcctctgc gtccaacatc atgacctcga cccaattggc gaaagtcgct tgggcgtact       120
+     aacctctcgg cgcggcaagc gccaaggaaa accgtatcga acatctctcc gtcctgggtc       180
+     tgtgcgcggt acccagggtg tgatgacgag tgtctaatga atagatataa caactctcgg       240
+     caacggatat ctcggctctt gcatcgatga agaacgtagc gaaatgcgat acttggtgtg       300
+     aattgcagaa tcccgtgaac catcgagtct ttgaacgcaa gttgcgcccg aagccatcag       360
+     gcatagggca cgtctgc                                                      377
+//
+ID   KU985111; SV 1; linear; genomic DNA; STD; PLN; 921 BP.
+XX
+AC   KU985111;
+XX
+DT   03-APR-2018 (Rel. 136, Created)
+DT   03-APR-2018 (Rel. 136, Last updated, Version 3)
+XX
+DE   Billolivia violacea voucher D.J. Middleton 4210 tRNA-Leu (trnL) gene,
+DE   partial sequence; trnL-F intergenic spacer, complete sequence; and tRNA-Phe
+DE   (trnF) gene, partial sequence.
+XX
+KW   .
+XX
+OS   Billolivia violacea
+OC   Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+OC   Spermatophyta; Magnoliopsida; eudicotyledons; Gunneridae; Pentapetalae;
+OC   asterids; lamiids; Lamiales; Gesneriaceae; Billolivia.
+XX
+RN   [1]
+RP   1-921
+RA   Middleton D.J., Atkins H., Truong L.-H., Nishii K., Moeller M.;
+RT   "A new genus from Vietnam with five new species";
+RL   Unpublished.
+XX
+RN   [2]
+RP   1-921
+RA   Middleton D.J., Atkins H., Truong L.-H., Nishii K., Moeller M.;
+RT   ;
+RL   Submitted (25-MAR-2016) to the INSDC.
+RL   Science - Tropical Diversity, Royal Botanic Garden Edinburgh, 20A
+RL   Inverleith Row, Edinburgh, Scotland EH3 5LR, United Kingdom
+XX
+DR   MD5; 178635143f863786176ae7b85fe83f5e.
+XX
+CC   ##Assembly-Data-START##
+CC   Assembly Method       :: Sequencher v. 4.5
+CC   Sequencing Technology :: Sanger dideoxy sequencing
+CC   ##Assembly-Data-END##
+XX
+FH   Key             Location/Qualifiers
+FH
+FT   source          1..921
+FT                   /organism="Billolivia violacea"
+FT                   /mol_type="genomic DNA"
+FT                   /country="Viet Nam"
+FT                   /specimen_voucher="D.J. Middleton 4210"
+FT                   /note="DNA-ID EDNA13-0000052, CH78"
+FT                   /db_xref="taxon:1844505"
+FT   gene            <1..536
+FT                   /gene="trnL"
+FT   tRNA            join(<1..11,487..536)
+FT                   /gene="trnL"
+FT                   /product="tRNA-Leu"
+FT   intron          12..486
+FT                   /gene="trnL"
+FT   misc_feature    537..873
+FT                   /note="trnL-F intergenic spacer"
+FT   gene            874..>921
+FT                   /gene="trnF"
+FT   tRNA            874..>921
+FT                   /gene="trnF"
+FT                   /product="tRNA-Phe"
+XX
+SQ   Sequence 921 BP; 311 A; 160 C; 176 G; 274 T; 0 other;
+     cgctacggac ttaattggat tgagccttgg tatggaaacc tactaagtga agactttcaa        60
+     attcagagaa accctggaat taataaaaat gggcaatcct gagccaaatc ctgttttctc       120
+     aaaacaaggg ttcagagagc gaaaagggat aggtgcagag actcaatgga agctgttcta       180
+     acaaatggag ttgaccgcgt tggtagaaga attgaaactt cagaaaggat gaaggataaa       240
+     cgtatctatt gaatactatt gatgattaat aatggcccga atttgtatct gggtttttgt       300
+     atatgaaaaa tagaagaatt ggtgtgaatt gatttcacat tgataaaaga atcgaatatt       360
+     cattaatcaa atcattcact ccacagtccg atagatctct taaagaactt attattcgga       420
+     cgagaataaa gatagagtcc cgttctacat gtcaataccg gcaacaatga aacttatagt       480
+     aagaggaaaa tccgtcgact ttaaaaatcg tgagggttca agtccctcta tccccaaaaa       540
+     aatcctataa ttgactccca aaatatttat cctatccgct ttgttcgtta acggttcaaa       600
+     attcctttat ctttctaatt cttttagaaa tgtctttggt cgtaaatgac tttctcttct       660
+     cacatgtgat atagaatata cattcaaaga atccttgttg gaataattca caatcaatag       720
+     cattacgcat actgatactt acaaagtcgt ctttttaaag atccaagaga ttagaggact       780
+     tggagaaaac tttgtaattt tcccttgtcc ctttaattga catagacccc agtcctctaa       840
+     taaaatgagg atgggatgct acattgggaa tggtcgggat agctcagctg gtagagcaga       900
+     ggactgaaaa tcctcgtgtc a                                                 921
+//
+ID   KU985110; SV 1; linear; genomic DNA; STD; PLN; 365 BP.
+XX
+AC   KU985110;
+XX
+DT   03-APR-2018 (Rel. 136, Created)
+DT   03-APR-2018 (Rel. 136, Last updated, Version 3)
+XX
+DE   Billolivia vietnamensis voucher Luu Hong Truong & Nguyen Quoc Dat BGM1601
+DE   tRNA-Leu (trnL) gene, partial sequence; trnL-F intergenic spacer, complete
+DE   sequence; and tRNA-Phe (trnF) gene, partial sequence.
+XX
+KW   .
+XX
+OS   Billolivia vietnamensis
+OC   Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+OC   Spermatophyta; Magnoliopsida; eudicotyledons; Gunneridae; Pentapetalae;
+OC   asterids; lamiids; Lamiales; Gesneriaceae; Billolivia.
+XX
+RN   [1]
+RP   1-365
+RA   Middleton D.J., Atkins H., Truong L.-H., Nishii K., Moeller M.;
+RT   "A new genus from Vietnam with five new species";
+RL   Unpublished.
+XX
+RN   [2]
+RP   1-365
+RA   Middleton D.J., Atkins H., Truong L.-H., Nishii K., Moeller M.;
+RT   ;
+RL   Submitted (25-MAR-2016) to the INSDC.
+RL   Science - Tropical Diversity, Royal Botanic Garden Edinburgh, 20A
+RL   Inverleith Row, Edinburgh, Scotland EH3 5LR, United Kingdom
+XX
+DR   MD5; 10ee3886c518ddc4319a4bbf5443346d.
+XX
+CC   ##Assembly-Data-START##
+CC   Assembly Method       :: Sequencher v. 4.5
+CC   Sequencing Technology :: Sanger dideoxy sequencing
+CC   ##Assembly-Data-END##
+XX
+FH   Key             Location/Qualifiers
+FH
+FT   source          1..365
+FT                   /organism="Billolivia vietnamensis"
+FT                   /mol_type="genomic DNA"
+FT                   /country="Viet Nam"
+FT                   /specimen_voucher="Luu Hong Truong & Nguyen Quoc Dat
+FT                   BGM1601"
+FT                   /note="DNA-ID EDNA13-0000050, KN177"
+FT                   /db_xref="taxon:1844504"
+FT   gene            <1..13
+FT                   /gene="trnL"
+FT   tRNA            <1..13
+FT                   /gene="trnL"
+FT                   /product="tRNA-Leu"
+FT   misc_feature    14..350
+FT                   /note="trnL-F intergenic spacer"
+FT   gene            351..>365
+FT                   /gene="trnF"
+FT   tRNA            351..>365
+FT                   /gene="trnF"
+FT                   /product="tRNA-Phe"
+XX
+SQ   Sequence 365 BP; 115 A; 75 C; 52 G; 122 T; 1 other;
+     ccctctatcc ccaaaaaaat ccaataattg actcccaaaa tatttatcct atccactttg        60
+     ttcgttaacg gttcaaaatt cctttatctt tctaattctt ttacaaatgt ctttggtcgt       120
+     aaatgacttt ctcttctcac atgtgatata gaawatacat tcaaagaatc cttgttggaa       180
+     taattcacaa tcaatagcat tacgcatact gatacttaca aagtcgtctt tttaaagatc       240
+     caagaaatta gaggacttgg agaaaacttt gtaattttcc cttgtccctt taattgacat       300
+     agaccccagt cctctaataa aatgaggatg ggatgctaca ttgggaatgg tcgggatagc       360
+     tcagc                                                                   365
+//
+ID   KU985109; SV 1; linear; genomic DNA; STD; PLN; 925 BP.
+XX
+AC   KU985109;
+XX
+DT   03-APR-2018 (Rel. 136, Created)
+DT   03-APR-2018 (Rel. 136, Last updated, Version 3)
+XX
+DE   Billolivia minutiflora voucher Ly Ngoc Sam LY498 tRNA-Leu (trnL) gene,
+DE   partial sequence; trnL-F intergenic spacer, complete sequence; and tRNA-Phe
+DE   (trnF) gene, partial sequence.
+XX
+KW   .
+XX
+OS   Billolivia minutiflora
+OC   Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+OC   Spermatophyta; Magnoliopsida; eudicotyledons; Gunneridae; Pentapetalae;
+OC   asterids; lamiids; Lamiales; Gesneriaceae; Billolivia.
+XX
+RN   [1]
+RP   1-925
+RA   Middleton D.J., Atkins H., Truong L.-H., Nishii K., Moeller M.;
+RT   "A new genus from Vietnam with five new species";
+RL   Unpublished.
+XX
+RN   [2]
+RP   1-925
+RA   Middleton D.J., Atkins H., Truong L.-H., Nishii K., Moeller M.;
+RT   ;
+RL   Submitted (25-MAR-2016) to the INSDC.
+RL   Science - Tropical Diversity, Royal Botanic Garden Edinburgh, 20A
+RL   Inverleith Row, Edinburgh, Scotland EH3 5LR, United Kingdom
+XX
+DR   MD5; 19af4b8728b9ee40348a08a1fa3a6d01.
+XX
+CC   ##Assembly-Data-START##
+CC   Assembly Method       :: Sequencher v. 4.5
+CC   Sequencing Technology :: Sanger dideoxy sequencing
+CC   ##Assembly-Data-END##
+XX
+FH   Key             Location/Qualifiers
+FH
+FT   source          1..925
+FT                   /organism="Billolivia minutiflora"
+FT                   /mol_type="genomic DNA"
+FT                   /country="Viet Nam"
+FT                   /specimen_voucher="Ly Ngoc Sam LY498"
+FT                   /note="DNA-ID EDNA13-0000053,KN180"
+FT                   /db_xref="taxon:1844503"
+FT   gene            <1..539
+FT                   /gene="trnL"
+FT   tRNA            join(<1..14,490..539)
+FT                   /gene="trnL"
+FT                   /product="tRNA-Leu"
+FT   intron          15..489
+FT                   /gene="trnL"
+FT   misc_feature    540..876
+FT                   /note="trnL-F intergenic spacer"
+FT   gene            877..>925
+FT                   /gene="trnF"
+FT   tRNA            877..>925
+FT                   /gene="trnF"
+FT                   /product="tRNA-Phe"
+XX
+SQ   Sequence 925 BP; 316 A; 163 C; 171 G; 273 T; 2 other;
+     agacgctacg gacttaattg gattgagcct tggtatggaa acctactaag tgaagacttt        60
+     caaattcaga gaaaccctgg aattaataaa aatgggcaat cctgagccaa atcctgtttt       120
+     ctcaaaacaa gggttcagag agcgaaaaag gataggtgca gagactcaat ggaagctgtt       180
+     ctaacaaatg gagttgaccg cgttggtaga agaattgaaa cttcagaaag gatgaaggat       240
+     aaacgtatct attgaatact attgatgatt aataatggcc cgaatctgta tctgggtttt       300
+     tgtatatgaa aaatagaaga attggtgtga attgatttca cattgataaa agaatcgaat       360
+     attcattaat caaatcattc actccacagt ccgatagatc tcttaaagaa cttattattc       420
+     ggacgagaat aaagatagag tcccgttcta catgtcaata ccggcaacaa tgaaacttat       480
+     agtaagagga aaatccgtcg actttaaaaa tcgtgagggt tcaagtccct ctatccccaa       540
+     aaaaatccta taattgactc ccaaaatatt tatcctatcc actttgttcg ttaacggttc       600
+     aaaattcctt tatctttcta attcttttac aaatgtcttt ggtcgtaaat gactttctct       660
+     tctcacatgt gatatagaat atacattcaa aaaatccttg ttggaataat tcacaatcaa       720
+     tagcattacg catactgata cttacaaagt cgtcttttta aagatccaag agattagagg       780
+     acttggagaa aactttgtaa ttttcccttg tccctttaat tgacatagac cccagtcctc       840
+     taataaaatg aggatgggat gctacattgg gaatggtcgg gatagctcag ctggtaragc       900
+     asaggactga aaatcctcgt gtcac                                             925
+//
+ID   KU985108; SV 1; linear; genomic DNA; STD; PLN; 926 BP.
+XX
+AC   KU985108;
+XX
+DT   03-APR-2018 (Rel. 136, Created)
+DT   03-APR-2018 (Rel. 136, Last updated, Version 3)
+XX
+DE   Billolivia longipetiolata voucher Luu Hong Truong & Pham Huu Nhan BD624
+DE   tRNA-Leu (trnL) gene, partial sequence; trnL-F intergenic spacer, complete
+DE   sequence; and tRNA-Phe (trnF) gene, partial sequence.
+XX
+KW   .
+XX
+OS   Billolivia longipetiolata
+OC   Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+OC   Spermatophyta; Magnoliopsida; eudicotyledons; Gunneridae; Pentapetalae;
+OC   asterids; lamiids; Lamiales; Gesneriaceae; Billolivia.
+XX
+RN   [1]
+RP   1-926
+RA   Middleton D.J., Atkins H., Truong L.-H., Nishii K., Moeller M.;
+RT   "A new genus from Vietnam with five new species";
+RL   Unpublished.
+XX
+RN   [2]
+RP   1-926
+RA   Middleton D.J., Atkins H., Truong L.-H., Nishii K., Moeller M.;
+RT   ;
+RL   Submitted (25-MAR-2016) to the INSDC.
+RL   Science - Tropical Diversity, Royal Botanic Garden Edinburgh, 20A
+RL   Inverleith Row, Edinburgh, Scotland EH3 5LR, United Kingdom
+XX
+DR   MD5; 1292115ba6d02d2cdecf226ac231f93e.
+XX
+CC   ##Assembly-Data-START##
+CC   Assembly Method       :: Sequencher v. 4.5
+CC   Sequencing Technology :: Sanger dideoxy sequencing
+CC   ##Assembly-Data-END##
+XX
+FH   Key             Location/Qualifiers
+FH
+FT   source          1..926
+FT                   /organism="Billolivia longipetiolata"
+FT                   /mol_type="genomic DNA"
+FT                   /country="Viet Nam"
+FT                   /specimen_voucher="Luu Hong Truong & Pham Huu Nhan BD624"
+FT                   /note="DNA-ID EDNA13-0000051,KN178"
+FT                   /db_xref="taxon:1844502"
+FT   gene            <1..540
+FT                   /gene="trnL"
+FT   tRNA            join(<1..15,491..540)
+FT                   /gene="trnL"
+FT                   /product="tRNA-Leu"
+FT   intron          16..490
+FT                   /gene="trnL"
+FT   misc_feature    541..877
+FT                   /note="trnL-F intergenic spacer"
+FT   gene            878..>926
+FT                   /gene="trnF"
+FT   tRNA            878..>926
+FT                   /gene="trnF"
+FT                   /product="tRNA-Phe"
+XX
+SQ   Sequence 926 BP; 311 A; 162 C; 177 G; 273 T; 3 other;
+     gtgacgctac ggacttaatt ggattgagcc ttggtatgga aacctactaa gtgaagactt        60
+     tcaaattcag agaaaccctg gaattaataa aaatgggcaa tcctgagcca aatcctgttt       120
+     tctcaaaaca agggttcaga gagcgaaaag ggataggtgc agagactcaa tggaagctgt       180
+     tctaacaaat ggagttgacc gcgttggtag aagaattgaa acttcagaaa ggatgaagga       240
+     taaacgtatc tattgaatac tattgatgat taataatggc ccgaatttgt atctgggttt       300
+     ttgtatatga aaaatagaag aattggtgtg aattgatttc acattgataa aagaatcgaa       360
+     tattcattaa tcaaatcatt cactccacag tccgatagat ctcttaaaga acttattatt       420
+     cggacgagaa taaagataga gtcccgttct acatgtcaat accggcaaca atgaaactta       480
+     tagtcagagg aaaatccgtc gactttaaaa atcgtgaggg ttcaagtccc tctatcccca       540
+     aaaaaatcct ataattgact cccaaaatat ttatcctatc cgctttgttc gttaacggtt       600
+     caaaattcct ttatctttct aattctttta gaaatgtctw tggtcgtaaa tgactttctc       660
+     ttctcacatg tgatatagaa tatacattca aagaatcctt gttggaataa ttcacaatca       720
+     atagcattac gcayactgat acttacaaag tcgtcttttt aaagatccaa gagattarag       780
+     gacttggaga aaactttgta attttccctt gtccctttaa ttgacataga ccccagtcct       840
+     ctaataaaat gaggatggga tgctacattg ggaatggtcg ggatagctca gctggtagag       900
+     cagaggactg aaaatcctcg tgtcac                                            926
+//

@@ -31,7 +31,7 @@ function get($url)
 
 // Databases and views
 $views = array(
-	'oz-embl' => array('references', 'sequence', 'specimen', 'triples'),
+	'oz-embl' => array('kmers', 'references', 'sequence', 'specimen', 'triples'),
 );
 
 foreach ($views as $database => $views)
