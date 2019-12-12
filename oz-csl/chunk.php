@@ -5,7 +5,6 @@ require_once(dirname(dirname(__FILE__)) . '/www/config.inc.php');
 // Break a big triples file into arbitrary sized chunks for easier uplaoding.
 
 // Glue
-$triples_filename = 'csl.nt';
 $triples_filename = 'references.nt';
 //$triples_filename = 'works.nt';
 
