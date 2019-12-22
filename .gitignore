@@ -16,6 +16,8 @@ oz-csl/junk
 
 oz-gbif/*.nt
 
+oz-iiif/cache/*
+
 oz-ipni/*.jsonl
 
 oz-orcid/*.nt
