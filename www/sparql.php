@@ -487,8 +487,8 @@ WHERE {
 			$context->{'tn:hasAnnotation'} = $hasAnnotation;
 			
 			$context->sameAs = new stdclass;
-			$context->related->{'@type'} = '@id';
-			$context->related->{'@id'} = 'sameAs';
+			$context->sameAs->{'@type'} = '@id';
+			$context->sameAs->{'@id'} = 'sameAs';
 			
 			
 	
