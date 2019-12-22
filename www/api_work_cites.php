@@ -45,20 +45,7 @@ WHERE
 	
 	# Just items with cited reference in triple store
 	?publication schema:citation ?placeholder .
-	?placeholder schema:sameAs ?itemstring .
-	BIND(IRI(?itemstring) AS ?item)
-
-	# Include triples for reference known only through citation
-	# takes longer
-	#{
-	#	?publication schema:citation ?item .
-	#}
-	#UNION
-	#{
-	#	?publication schema:citation ?placeholder .
-	#	?placeholder schema:sameAs ?itemstring .
-	#	BIND(IRI(?itemstring) AS ?item)	
-	#}
+	?placeholder schema:sameAs ?item .
 
 	?item schema:name ?name .
 	?item rdf:type ?type .

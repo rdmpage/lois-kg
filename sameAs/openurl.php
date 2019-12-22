@@ -1,7 +1,6 @@
 <?php
 
-// OpenURL to resolve references
-
+// OpenURL to resolve references by matching to external database
 
 
 error_reporting(E_ALL);
@@ -30,8 +29,62 @@ function get($url)
 }
 
 //----------------------------------------------------------------------------------------
+// get list of cited works that aren't in database
 
+function get_works_for_issn ($issn)
+{
 
+	$sparql = 'PREFIX schema: <http://schema.org/>
+		SELECT ?work
+	WHERE 
+	{  
+	  VALUES ?issn { "' . $issn . '" }
+	  BIND( IRI(CONCAT("http://worldcat.org/issn/", ?issn)) as ?container)
+
+	  ?work schema:isPartOf ?container .   
+	  ?work schema:volumeNumber ?volume .
+	  ?work schema:pageStart ?spage .          
+  
+  		# only get works with identifier
+	  ?work schema:identifier ?identifier .
+	  
+	}';
+
+	$url = 'http://localhost/~rpage/lois-kg/www/query.php?query=' . urlencode($sparql);
+
+	$json = get($url);
+
+	$obj = json_decode($json);
+
+	$uris = array();
+
+	if (isset($obj->results->bindings))
+	{
+		foreach ($obj->results->bindings as $binding)
+		{
+			$parameters = array();
+
+			foreach ($binding as $k => $v)
+			{
+				$parameters[$k] = $v->value;
+			}
+	
+			if (isset($parameters['work']) && ($parameters['work'] != ''))
+			{
+				$uris[] = $parameters['work'];
+			}
+		}
+	}
+
+	// go
+
+	//print_r($uris);
+
+	return $uris;
+
+}
+
+//----------------------------------------------------------------------------------------
 // Given a set of URIs for references that aren't matched to an identifier, get them and try to match
 
 $uris = array(
@@ -43,7 +96,7 @@ $uris = array(
 
 // find URIs in KG for a given ISSN that lack identifier
 
-$issn = '1000-3142';
+$issn = '1000-3142'; // Guhia
 
 $sparql = 'PREFIX schema: <http://schema.org/>
 	SELECT ?work
@@ -147,7 +200,7 @@ foreach ($uris as $uri)
 				
 					if (isset($obj->results[0]->doi))
 					{
-						$identifier  = $obj->results[0]->doi;
+						$identifier  = 'https://doi.org/' . $obj->results[0]->doi;
 					}
 				}
 				
@@ -166,7 +219,7 @@ foreach ($uris as $uri)
 			
 				if ($identifier != '')
 				{
-					echo '<' . $uri . '> <http://schema.org/sameAs> "' . $identifier . '" . ' . "\n";		
+					echo '<' . $uri . '> <http://schema.org/sameAs> <' . $identifier . '> . ' . "\n";		
 				}
 			}
 				

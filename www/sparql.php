@@ -161,19 +161,13 @@ CONSTRUCT
 	?author <http://schema.org/identifier> ?author_identifier .		
 	?author_identifier <http://schema.org/propertyID> "orcid" .
 	?author_identifier <http://schema.org/value> ?orcid .
-	?author <http://schema.org/sameAs> ?author_identifier_string .	
+	?author <http://schema.org/sameAs> ?person .	
 	
+	# file such as PDF
 	?item <http://schema.org/encoding> ?encoding .	
  	?encoding <http://schema.org/fileFormat> ?fileFormat .	
  	?encoding <http://schema.org/contentUrl> ?contentUrl .	
      
-             
-#?item :citation ?cites .
-#     ?cites <http://schema.org/name> ?bibliographicCitation .   
-#	?cites <http://schema.org/identifier> ?cites_identifier .		
-#	?cites_identifier <http://schema.org/propertyID> "doi" .
-#	?cites_identifier <http://schema.org/value> ?cites_doi .
-                 
 
 ?item :isPartOf ?container .
      ?container <http://schema.org/name> ?container_name . 
@@ -260,7 +254,7 @@ WHERE {
 		
        
 		OPTIONAL {
-			?author <http://schema.org/sameAs> ?author_identifier_string .		
+			?author <http://schema.org/sameAs> ?person .		
 		} 		
         
         
@@ -491,6 +485,11 @@ WHERE {
 			$hasAnnotation->{'@container'} = "@set";
 			
 			$context->{'tn:hasAnnotation'} = $hasAnnotation;
+			
+			$context->sameAs = new stdclass;
+			$context->related->{'@type'} = '@id';
+			$context->related->{'@id'} = 'sameAs';
+			
 			
 	
 	

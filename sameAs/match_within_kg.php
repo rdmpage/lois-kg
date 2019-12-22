@@ -101,7 +101,7 @@ $issn = '1000-3142';
 $issn = '0372-333X'; // Taiwania
 //$issn = '0529-1526'; // no hits
 
-$uris = get_works_for_issn($issn);
+//$uris = get_works_for_issn($issn);
 
 foreach ($uris as $uri)
 {
@@ -146,7 +146,7 @@ foreach ($uris as $uri)
 		
 			if (isset($parameters['other_version']) && ($parameters['other_version'] != ''))
 			{
-				echo '<' . $parameters['other_version'] . '> <http://schema.org/sameAs> "' . $uri . '" . ' . "\n";	
+				echo '<' . $parameters['other_version'] . '> <http://schema.org/sameAs> <' . $uri . '> . ' . "\n";	
 			}
 		}
 	}

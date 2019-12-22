@@ -14,6 +14,7 @@
 		<string>6EEC66AB-DF5B-4895-9A23-1A5C75DC5498</string>
 		<string>1A9376DB-6437-433E-83D8-4FEDE378C7E5</string>
 		<string>18D09CB4-B38B-4BC3-8362-39D50B1A4B76</string>
+		<string>1E7E556C-841B-40BB-8043-046FA506BE39</string>
 		<string>E60F80A2-C229-493A-AB92-55105DF8CC3C</string>
 		<string>A46BAA54-5490-4D53-B2AB-18B7AF890D4E</string>
 		<string>D61B6C6C-4EA1-4E5A-9D5C-22191A94BE4A</string>
@@ -126,6 +127,54 @@
 			</dict>
 			<key>ItemName</key>
 			<string>issn</string>
+			<key>ItemType</key>
+			<string>FolderReference</string>
+			<key>UserOverrideItemName</key>
+			<true/>
+		</dict>
+		<key>1E7E556C-841B-40BB-8043-046FA506BE39</key>
+		<dict>
+			<key>ItemData</key>
+			<dict>
+				<key>BookmarkData</key>
+				<data>
+				Ym9va+QCAAAAAAQQMAAAALihNbskArOhV+kjCc3xyng3
+				3aP0s7/dtp6V/e1bF7VM4AEAAAQAAAADAwAAAAgAKAUA
+				AAABAQAAVXNlcnMAAAAFAAAAAQEAAHJwYWdlAAAABQAA
+				AAEBAABTaXRlcwAAAAcAAAABAQAAbG9pcy1rZwANAAAA
+				AQEAAG96LWFubm90YXRpb24AAAAUAAAAAQYAABAAAAAg
+				AAAAMAAAAEAAAABQAAAACAAAAAQDAAAQZwIAAAAAAAgA
+				AAAEAwAAhXQNAAAAAAAIAAAABAMAAARWTAAAAAAACAAA
+				AAQDAADBntkBAwAAAAgAAAAEAwAAr4StAgMAAAAUAAAA
+				AQYAAIQAAACUAAAApAAAALQAAADEAAAACAAAAAAEAABB
+				wdXPu644HxgAAAABAgAAAgAAAAAAAAAPAAAAAAAAAAAA
+				AAAAAAAACAAAAAQDAAADAAAAAAAAAAQAAAADAwAA9QEA
+				AAgAAAABCQAAZmlsZTovLy8MAAAAAQEAAE1hY2ludG9z
+				aCBIRAgAAAAEAwAAAOAEA2kAAAAIAAAAAAQAAEG+3V1i
+				AAAAJAAAAAEBAAAyNUU0Mjg2RC03MTJDLTM4OTktQjQz
+				Ri01RDNGNkE4QkQxMjEYAAAAAQIAAIEAAAABAAAA7xMA
+				AAEAAAAAAAAAAAAAAAEAAAABAQAALwAAAAAAAAABBQAA
+				zAAAAP7///8BAAAAAAAAABAAAAAEEAAAaAAAAAAAAAAF
+				EAAA1AAAAAAAAAAQEAAAAAEAAAAAAABAEAAA8AAAAAAA
+				AAACIAAAzAEAAAAAAAAFIAAAPAEAAAAAAAAQIAAATAEA
+				AAAAAAARIAAAgAEAAAAAAAASIAAAYAEAAAAAAAATIAAA
+				cAEAAAAAAAAgIAAArAEAAAAAAAAwIAAA2AEAAAAAAAAB
+				wAAAIAEAAAAAAAARwAAAIAAAAAAAAAASwAAAMAEAAAAA
+				AAAQ0AAABAAAAAAAAAA=
+				</data>
+				<key>FileURL</key>
+				<string>file:///Users/rpage/Sites/lois-kg/oz-annotation/</string>
+				<key>HasSecurityScope</key>
+				<true/>
+				<key>RelativePath</key>
+				<string>./oz-annotation</string>
+				<key>TypeID</key>
+				<string>_CFileLocator</string>
+				<key>Version</key>
+				<integer>1</integer>
+			</dict>
+			<key>ItemName</key>
+			<string>oz-annotation</string>
 			<key>ItemType</key>
 			<string>FolderReference</string>
 			<key>UserOverrideItemName</key>

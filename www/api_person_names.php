@@ -35,8 +35,8 @@ CONSTRUCT
 }
 WHERE
 { 
-  	VALUES ?ipni_author_identifier { "' . $uri . '" }
-    ?item schema:sameAs ?ipni_author_identifier .
+  	VALUES ?ipni_author { <' . $uri . '> }
+    ?item schema:sameAs ?ipni_author .
   	?item schema:name ?name .
   	?item rdf:type ?type .
 }';

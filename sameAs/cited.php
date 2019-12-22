@@ -43,9 +43,8 @@ where
 	?publication schema:citation ?placeholder .
     MINUS
 	{
-		?placeholder schema:sameAs ?itemstring .
-      	BIND(IRI(?itemstring) AS ?item).
-      ?item schema:name ?name .
+		?placeholder schema:sameAs ?item .
+       ?item schema:name ?name .
 	}
 	
 }';
@@ -192,7 +191,7 @@ foreach ($uris as $uri)
 			
 				if ($identifier != '')
 				{
-					echo '<' . $uri . '> <http://schema.org/sameAs> "' . $identifier . '" . ' . "\n";		
+					echo '<' . $uri . '> <http://schema.org/sameAs> <' . $identifier . '> . ' . "\n";		
 				}
 			}
 				

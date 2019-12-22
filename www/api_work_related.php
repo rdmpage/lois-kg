@@ -9,6 +9,22 @@ require_once(dirname(__FILE__) . '/sparql.php');
 $uri = 'https://doi.org/10.1111/j.1469-8137.2010.03279.x';
 
 
+
+
+/*
+
+      x      y
+      |\    /|
+      | \  / |
+      |  \/  |
+      |  /\  |
+      | /  \ |
+      |/    \|   
+      hit   item
+      
+*/	
+
+
 if (isset($_REQUEST['uri']))
 {
 	$uri = $_REQUEST['uri'];
@@ -41,22 +57,19 @@ CONSTRUCT
 }
 WHERE
 {
-  VALUES ?hit {<' . $uri . '>}
-  VALUES ?hit_string { "' . $uri . '"}
+	VALUES ?hit {<' . $uri . '>}
 
-	?x_placeholder schema:sameAs ?hit_string .				    
-	?x schema:citation ?x_placeholder .    
+	?xhit_placeholder schema:sameAs ?hit .			
+	?x schema:citation ?xhit_placeholder .    
 
-    ?xitem_placeholder schema:sameAs ?item_string .
-    ?x schema:citation ?xitem_placeholder .
+ 	?xitem_placeholder schema:sameAs ?item .
+ 	?x schema:citation ?xitem_placeholder .
 
- 	?y_placeholder schema:sameAs ?hit_string .				    
-	?y schema:citation ?y_placeholder .    
+	?yhit_placeholder schema:sameAs ?hit .			
+	?y schema:citation ?yhit_placeholder .    
 
-    ?yitem_placeholder schema:sameAs ?item_string .
-    ?y schema:citation ?yitem_placeholder .
- 	
-	BIND(IRI(?item_string) AS ?item)
+ 	?yitem_placeholder schema:sameAs ?item .
+ 	?y schema:citation ?yitem_placeholder .
   
 	?item schema:name ?name .
 	?item rdf:type ?type .

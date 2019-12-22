@@ -50,7 +50,7 @@ $query = 'PREFIX schema: <http://schema.org/>
 			}
 			WHERE
 			{
-              	?creator schema:sameAs "' . $uri . '" .
+              	?creator schema:sameAs <' . $uri . '> .
 				?role schema:creator ?creator .
 				?item schema:creator ?role .
 	

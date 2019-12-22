@@ -9,6 +9,12 @@ curl http://167.99.58.120:9999/blazegraph/sparql?context-uri=https://bionames.or
 
 ```
 
+```
+curl http://167.99.58.120:9999/blazegraph/sparql?context-uri=https://bionames.org -H 'Content-Type: text/rdf+n3' --data-binary '@sameas.nt'  --progress-bar | tee /dev/null
+
+```
+
+
 ## Papers
 
 For example, image a paper that has a DOI, but that DOI is not used when another paper cites that paper. We will have one record for the paper (with DOI) and a second record of the same paper (without DOI but with some made-up identifier, for example based on the “key” field in a CrossRef citation).

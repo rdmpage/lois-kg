@@ -19,15 +19,11 @@ curl http://localhost:32775/oz-csl/_design/references/_list/triples/nt > referen
 
 ## Upload triples
 
-### CrossRef
+Use ```php chunk.php``` to chunk data, then ```./upload.sh```. 
+May have to ```xattr -d com.apple.quarantine upload.sh``` if you get "bad interpreter" error message.
 
-```
-curl http://167.71.255.145:9999/blazegraph/sparql?context-uri=https://crossref.org -H 'Content-Type: text/rdf+n3' --data-binary '@csl.nt'  --progress-bar | tee /dev/null
-```
 
-```
-curl http://localhost:32771/blazegraph/sparql?context-uri=https://crossref.org -H 'Content-Type: text/rdf+n3' --data-binary '@csl.nt'  --progress-bar | tee /dev/null
-```
+
 
 ## Clean up
 

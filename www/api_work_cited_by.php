@@ -42,8 +42,7 @@ CONSTRUCT
 WHERE
 {
 	VALUES ?publication { <' . $uri . '>} .
-	BIND (STR(?publication) AS ?publication_string) .
-	?placeholder schema:sameAs ?publication_string .				    
+	?placeholder schema:sameAs ?publication .				    
 	?item schema:citation ?placeholder .
 	?item schema:name ?name .
 	?item rdf:type ?type .

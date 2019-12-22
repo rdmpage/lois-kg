@@ -40,6 +40,9 @@ PREFIX tn: <http://rs.tdwg.org/ontology/voc/TaxonName#>
 			WHERE
 			{
               	VALUES ?publication { <' . $uri . '>} .
+
+              	#to do,fix this to use URI not string
+              	
                	BIND(STR(?publication) AS ?pub_identifier )
               	?pub schema:sameAs ?pub_identifier .
               	?item tcom:publishedInCitation ?pub .
