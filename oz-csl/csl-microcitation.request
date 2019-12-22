@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>baseURL</key>
-	<string>http://localhost/~rpage/microcitation/www/citeproc-api.php?guid=10.1007/s11557-012-0832-z</string>
+	<string>http://localhost/~rpage/microcitation/www/citeproc-api.php?guid=http://www.repository.naturalis.nl/record/525857</string>
 	<key>followRedirect</key>
 	<true/>
 	<key>handleJSONPCallbacks</key>

@@ -228,6 +228,26 @@ $ids=array(
 
 );
 
+	$ids=array(
+	'https://doi.org/10.1111/j.1096-3642.2009.00580.x',
+"https://doi.org/10.1071/IS02044",
+ "https://doi.org/10.1111/j.1096-3642.1994.tb01491.x",
+ "https://doi.org/10.1111/j.1096-3642.2004.00123.x",
+ "https://doi.org/10.1111/j.1096-3642.2009.00580.x",
+ "https://doi.org/10.1126/science.1100167",
+ "https://doi.org/10.2307/2412116",
+ "https://doi.org/10.5962/bhl.part.13273",
+ "https://doi.org/10.5962/bhl.part.15964",
+ "https://doi.org/10.11646/zootaxa.1326.1.3",
+
+	);
+	
+		$ids=array(
+	//'https://doi.org/10.1007/s10531-013-0595-0',
+	'https://doi.org/10.3897/phytokeys.50.5080',
+	);
+
+
 
 // Create empty file to write triples to
 $filename = 'references-call.nt';
