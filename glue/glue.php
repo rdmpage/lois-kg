@@ -2,7 +2,7 @@
 
 // IPNI glue
 
-require_once(dirname(__FILE__) . '/adodb5/adodb.inc.php');
+require_once(dirname(dirname(__FILE__)) . '/adodb5/adodb.inc.php');
 
 
 //--------------------------------------------------------------------------------------------------
@@ -25,14 +25,14 @@ while (!$done)
 {
 	// DOI
 	$sql = "SELECT 
-	CONCAT('<urn:lsid:ipni.org:names:', Id, '> <http://rs.tdwg.org/ontology/voc/Common#publishedInCitation> <urn:lsid:ipni.org:names:', Id, '#publishedInCitation> .\n<urn:lsid:ipni.org:names:', Id, '#publishedInCitation> <http://schema.org/sameAs> \"https://doi.org/', LOWER(REPLACE(REPLACE (doi, '<', '%3C'), '>', '%3E')), '\" . ') 
+	CONCAT('<urn:lsid:ipni.org:names:', Id, '> <http://rs.tdwg.org/ontology/voc/Common#publishedInCitation> <urn:lsid:ipni.org:names:', Id, '#publishedInCitation> .\n<urn:lsid:ipni.org:names:', Id, '#publishedInCitation> <http://schema.org/sameAs> <https://doi.org/', LOWER(REPLACE(REPLACE (doi, '<', '%3C'), '>', '%3E')), '> . ') 
 AS rdf
 FROM names 
 WHERE doi IS NOT NULL";
 
 	// JSTOR
 $sql = "SELECT 
-	CONCAT('<urn:lsid:ipni.org:names:', Id, '> <http://rs.tdwg.org/ontology/voc/Common#publishedInCitation> <urn:lsid:ipni.org:names:', Id, '#publishedInCitation> .\n<urn:lsid:ipni.org:names:', Id, '#publishedInCitation> <http://schema.org/sameAs> \"https://www.jstor.org/stable/', jstor, '\" . ') 
+	CONCAT('<urn:lsid:ipni.org:names:', Id, '> <http://rs.tdwg.org/ontology/voc/Common#publishedInCitation> <urn:lsid:ipni.org:names:', Id, '#publishedInCitation> .\n<urn:lsid:ipni.org:names:', Id, '#publishedInCitation> <http://schema.org/sameAs> <https://www.jstor.org/stable/', jstor, '> . ') 
 AS rdf
 FROM names 
 WHERE jstor IS NOT NULL AND doi IS NULL";

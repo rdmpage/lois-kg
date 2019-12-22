@@ -10,6 +10,11 @@ vendor/
 
 junk/
 manuscripts/examples
+
+
+glue/junk
+
+
 oz-csl/*.jsonl
 oz-csl/*.nt
 oz-csl/junk
