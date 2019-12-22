@@ -1,8 +1,9 @@
-var template_work = `
+var template_tagfeed = `
 
 <%
 
 // Define functions in template, see https://stackoverflow.com/a/40968695/9684
+
 
 //----------------------------------------------------------------------------------------
 // https://stackoverflow.com/a/57963934/9684
@@ -13,12 +14,9 @@ function convertToAscii(string) {
 }
 
 //----------------------------------------------------------------------------------------
-
 // Get a single string from a literal that may have multilingual values
 get_literal = function(key) {
 	var literal = '';
-	
-	console.log("get_literal key = " + JSON.stringify(key));
 	
 	// literal is a simple string
 	if (typeof key === 'string') {
@@ -64,7 +62,6 @@ isodate_to_string = function (datestring) {
 	if (Array.isArray(datestring)) {
 		datestring = datestring[0];
 	}
-
 
 	// By default assume datestring is a year only
 	var options = {};
@@ -117,10 +114,11 @@ isodate_to_string = function (datestring) {
 get_property_value = function(key, propertyID) {
 	var value = '';
 	
-	if (typeof key === 'object' && !Array.isArray(key)) {
+	if (typeof key === 'object' && !Array.isArray(key)) {	
 		if (key.propertyID === propertyID) {	
 			value = key.value;
 		}
+
 	} else {
 		if (Array.isArray(key)) {
 			for (var i in key) {
@@ -134,270 +132,85 @@ get_property_value = function(key, propertyID) {
 	return value;
 }
 
+%>
 
-if (item['@graph']) {
-	item = item['@graph'][0];
-}
 
+<%
+
+item = item['@graph'][0];
 
 %>
 
-<!-- location -->
-<div>
+<div class="text_container visible" onclick="show_hide(this)">
 
-<!-- container -->
-<% if (item.isPartOf) { %>
-	<% if (item.isPartOf['@id']) { %>
-		<a href="?uri=<%= item.isPartOf['@id'].replace('#', '%23') %>">
-	<% } %>
+<!-- get unique strings -->
 
-	<%= get_literal(item.isPartOf.name) %>
+<% 
+
+ var tags = [];
+
+ for (var i in item.dataFeedElement) { 
+ 	var key = item.dataFeedElement[i].name;
+ 
+	 if (typeof key === 'string') {
+		if (!tags.includes(key)) {
+    		tags.push(key);
+		}
+	}
 	
-	<% if (item.isPartOf['@id']) { %>
-		</a>
-	<% } %>
-	
-<% } %>
-
-<!-- date -->
-<% if (item.datePublished) {%>
-<%= isodate_to_string(item.datePublished) %>
-<% } %>
-
-<!-- volume -->
-<% if (item.volumeNumber) {%>
-<%= get_literal(item.volumeNumber) %>
-<% } %>
-
-<!-- issue -->
-<% if (item.issueNumber) {%>
-(<%= get_literal(item.issueNumber) %>)
-<% } %>
-
-<!-- pages -->
-<% if (item.pagination) {%>
-: <%= get_literal(item.pagination) %>
-<% } %>
-
-<% if (item.pageStart) {%>
-: <%=get_literal(item.pageStart)%>
-<% } %>
-
-<% if (item.pageEnd) {%>
-- <%=get_literal(item.pageEnd) %>
-<% } %>
-
-</div>
+	// name is an object so we have one language stored in @value
+	if (typeof key === 'object' && !Array.isArray(key)) {	
+		literal = key['@value'];
+		if (!tags.includes(key['@value'])) {
+    		tags.push(key['@value']);
+		}
+	} else {
+		// name is an array of objects and/or strings (need to think about this)
+		if (Array.isArray(key)) {
+					
+			for (var j in key) {
+				if (typeof key[j] === 'object') {
+					tags.push(key[j]['@value']);
+				} else {
+					if (!tags.includes(key[j])) {
+    					tags.push(key[j]);
+					}
+				}
+			}
+		}
+	}
+ 
+}
+%>
 
 <!-- title -->
-<h1>
-	<img src="images/noun_File_498570.svg" height="48" align="center">
-	<%- get_literal(item.name) %>
-</h1>
+<% if (item.name) { %>
+	<h3>
+		<%= get_literal(item.name) %>
+		(<%= tags.length %>)
+	</h3>
+<% } %>
 
-<div>
-	<% if (item.encoding) {
-		var formats_html = '';
+
+
+<!-- display as simple list -->
+
+<div class="feed" style="font-size:0.8em;line-height:1.4em;">
+	<% for (var i in tags) { %>
+		<div style="padding-bottom:12px;border-top:1px dotted rgb(222,222,222);">
 		
-		formats_html += '<ul>';
-		
-		for (var i in item.encoding) {
-			switch(item.encoding[i].fileFormat) {
-
-				case 'application/pdf':
-					//formats_html += '<li><a href="js/pdfjs/web/viewer.html?file=' + encodeURIComponent('../../../pdf_proxy.php?url=' + encodeURIComponent(item.encoding[i].contentUrl)) + '" />' + 'PDF' + '</a>' + '</li>';				
-					formats_html += '<li><a href="https://via.hypothes.is/' + encodeURIComponent(item.encoding[i].contentUrl) + '" />' + 'PDF' + '</a>' + '</li>';				
-					break;
-
-				case 'application/xml':
-					formats_html += '<li>XML</li>';
-					break;
-			
-				default:
-					break;
-			}
-		}
-		
-		formats_html += '</ul>';
-		
-		%>
-		<%- formats_html %>
-		<% 		
-	} %>
-</div>
-
-<!-- authors -->
-<div style="line-height:2em;">
-
-<% if (item.creator) {
-	var authors = [];
-		for (var i in item.creator) {
-		
-			console.log(i + ' ' + item.creator[i]['@type']);
-		
-			console.log("creator=" + JSON.stringify(item.creator[i]));
-		
-			// role
-			if (item.creator[i]['@type'] == 'Role') { 
-			
-				var string ='';
-				
-				var has_link = false;
-				
-				var sameAs = '';
-				
-
-			    if (item.creator[i].creator[0].sameAs) {
-			    	if (Array.isArray(item.creator[i].creator[0].sameAs)) {
-				    	sameAs = item.creator[i].creator[0].sameAs[0];
-				    } else {
-				    	sameAs = item.creator[i].creator[0].sameAs;
-				    }
-			    	has_link = true;
-			    }
-			    
-			    if (has_link) {
-			    	string += '<span style="white-space:nowrap;border-radius:4px;padding:2px;border:1px solid black;">';
-			    } else
-			    {
-			    	string += '<span style="white-space:nowrap;border-radius:4px;padding:2px;border:1px solid rgb(192,192,192);">';			    
-			    }
-			    
-			    if (sameAs != '') {
-			    	string += '<a href="?uri=' + sameAs + '">';
-			    }
-			   
-				string += get_literal(item.creator[i].creator[0].name);
-				
-			    if (sameAs != '') {
-			    	if (sameAs.match(/orcid/)) {
-			    		string += '&nbsp;<img src="images/orcid_16x16.png"></a>';
-			    	}
-			    }
-								
-				if (has_link) {
-					string += '</a>';					
-				}
-				string += '</span>';
-				
-				authors.push(string);
-			}
-
-			// person
-			if (item.creator[i]['@type'] == 'Person') { 
-			    var string = get_literal(item.creator[i].name);
-				authors.push(string);
-			}
-		
-		}
-		var author_string = authors.join(' ');
-		//var author_string = authors.join('; ');
-		%>
-		<%- author_string %>
-		<%  
-		
-		
-} %>
-</div>
-
-<!-- keywords -->
-<div>
-
-<% if (item.keywords) {
-
-	var keywords_string = '';
-	
-	if (typeof item.keywords === 'string') {
-		keywords_string = item.keywords ;
-	}
-	
-	if (Array.isArray(item.keywords )) {
-		var keywords = [];
-		for (var i in item.keywords) {
-			keywords.push(item.keywords[i]);
-		}
-		keywords_string = keywords.join('; ');
-	}
-	%>
-	
-	<span class="heading">KEYWORDS:</span>
-	<%- keywords_string %>
-	<%  
-} %>
-</div>
-
-
-<!-- identifiers -->
-<div>
-<% if (item.identifier) {
-	 var id = '';
-	 
-	// DOI
-	id = get_property_value(item.identifier, 'doi');	  
-	if (id != '') {  %>	
-		<span class="heading">DOI</span>
-		<a class="external" href="https://doi.org/<%=id%>" target="_new">
-		<%= id %>
+		<a href="?q=<%= tags[i] %>" onclick="event.stopPropagation()">
+		<h3>
+		<%= tags[i] %>
+		</h3>
 		</a>
-	<% }
-	
-	// Handle
-	id = get_property_value(item.identifier, 'handle');	  
-	if (id != '') {  %>	
-		<span class="heading">Handle</span>
-		<a class="external" href="https://hdl.handle.net/<%=id%>" target="_new">
-		<%= id %>
-		</a>
-	<% }
-
-	// JSTOR
-	id = get_property_value(item.identifier, 'jstor');	  
-	if (id != '') {  %>	
-		<span class="heading">JSTOR</span>
-		<a class="external" href="https://www.jstor.org/stable/<%=id%>" target="_new">
-		<%= id %>
-		</a>
-	<% }	
-	
-	// PMID
-	id = get_property_value(item.identifier, 'pmid');	  
-	if (id != '') {  %>	
-		<span class="heading">PMID</span>
-		<a class="external" href="https://www.ncbi.nlm.nih.gov/pubmed/<%=id%>" target="_new">
-		<%= id %>
-		</a>
-	<% }
-	
-	// SICI
-	id = get_property_value(item.identifier, 'sici');	  
-	if (id != '') {  %>	
-		<span class="heading">SICI</span>
-		<u><%= id %></u>
-		</a>
-	<% }	
-	
-	}
- %>	
- </div>	
- 
-<!-- thumbnail -->
-<div>	
-	<% if (item.thumbnailUrl) {%>
-		<!-- http://exeg5le.cloudimg.io/s/height/100/ -->
-		<img style="float:left;height:100px;border:1px solid rgb(224,224,224);background-color:white;object-fit:contain; display:block;margin:auto;" src="<%= item.thumbnailUrl %>">
+		
+		</div>
 	<% } %>
+
 </div>
-<div style="clear:both;"></div>
- 
-<!-- abstract -->
-<div>
 
-<% if (item.description) { %>	
-	<span class="heading">Abstract</span>
-	<%- get_literal(item.description) %>
-<%} %>
-</div> 
-
+</div>
 
 
 

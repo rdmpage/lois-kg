@@ -1477,6 +1477,7 @@ function display_entity_ajax($uri)
 				echo '<script>render(template_taxon_name, { item: data }, "output");</script>';	
 				
 				echo '<script>name_basionym("' . $uri . '");</script>';
+				echo '<script>name_annotation("' . $uri . '");</script>';
 				
 				/*
 				if (isset($feeds['basionym']))
@@ -1587,6 +1588,7 @@ function display_html_start($title = '', $meta = '', $script = '', $onload = '')
 	echo '<script src="occurrence.js"></script>';
 	echo '<script src="feed.js"></script>';
 	echo '<script src="feed_search.js"></script>';
+	echo '<script src="feed_tags.js"></script>';
 	echo '<script src="taxon.js"></script>';
 	echo '<script src="decade_feed.js"></script>';
 	

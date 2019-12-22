@@ -192,12 +192,14 @@ if (item['@graph']) {
 <div>
 		<span class="heading">Unique identifier</span>
 		
+		<!-- URN -->
 		<% if (item['@id'].match(/^urn/)) { %>
 			<a class="external" href="http://www.lsid.info/<%=item['@id']%>" target="_new">
 			<%= item['@id'] %>
 			</a>		
 		<% } %>
 
+		<!-- ORCID -->
 		<% if (item['@id'].match(/orcid.org/)) { %>
 			<!-- <img src="images/orcid_16x16.png"> -->
 			<a class="external" href="<%=item['@id']%>" target="_new">
@@ -205,6 +207,33 @@ if (item['@graph']) {
 			</a>
 		<% } %>
 		
+		<!-- local id -->
+		<% if (item['@id'].match(/#/)) { %>
+			<a href="?uri=<%= item['@id'].replace('#', '%23') %>">
+			<%= item['@id'] %>
+			</a>		
+		<% } %>
+		
+		
+</div>
+
+<!-- sameAs -->
+<div>
+	<% if (item['sameAs']) { %>
+		<span class="heading">Same as</span>
+			<% if (Array.isArray(item['sameAs'])) {		
+				for (var i in item['sameAs']) { %>
+					<a href="?uri=<%= item['sameAs'][i].replace('#', '%23') %>" onclick="event.stopPropagation()">
+						<%= item['sameAs'][i] %>
+					</a>
+				<% } %>
+			<% }  else { %>
+				<a href="?uri=<%= item['sameAs'].replace('#', '%23') %>" onclick="event.stopPropagation()">
+					<%= item['sameAs'] %>
+				</a>
+			<% } %>
+		</span>
+	<% } %>	
 </div>
 
 <!-- other names -->

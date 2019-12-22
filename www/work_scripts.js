@@ -13,6 +13,36 @@ function name_basionym(id) {
 	);
 }
 
+function name_annotation(id) {
+	$.getJSON('api_body_iiif.php?uri=' + encodeURIComponent(id) + '&callback=?',
+		function(data){
+		
+			// Move this to a template at some point
+			
+			if (data[0]) {
+				var html = '';
+				
+				html += '<div class="text_container">';
+				html += '<h3>View annotation</h3>';				
+				html += '<a href="iiif-viewer.php?uri=' + data[0].manifest + '&locator=' + data[0].target + '">';
+				
+				html += data[0].target;
+				
+				html += '</a>';
+				html += '</div>';
+				
+				document.getElementById('feed_works').innerHTML = html;
+				
+				
+			
+			}
+			
+			//render(template_datafeed, { item: data }, "feed_works");
+			
+		}
+	);
+}
+
 
 //----------------------------------------------------------------------------------------
 // Person
@@ -33,7 +63,7 @@ function person_names(id) {
 		function(data){
 		
 			// JSON-LD
-			render(template_datafeed, { item: data }, "feed_names");
+			render(template_tagfeed, { item: data }, "feed_names");
 			
 		}
 	);
