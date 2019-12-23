@@ -78,7 +78,7 @@ foreach ($names as $identifier => $literals)
 	}
 	WHERE
 	{ 
-		VALUES ?identifier { "' .  $identifier . '" }
+		VALUES ?identifier { <' .  $identifier . '> }
 		VALUES ?name { "' . $literal . '" }
 	
 		# person with name
@@ -86,7 +86,7 @@ foreach ($names as $identifier => $literals)
 	
 		# ignore names already matched via sameAs
 		MINUS {
-			?person schema:sameAs ?s
+			?person schema:sameAs ?sameAs
 		} 
   
 		?role schema:creator ?person .

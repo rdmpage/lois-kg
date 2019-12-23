@@ -1,6 +1,6 @@
 <?php
 
-// Match within KG using OpenURL-like query
+// Given a bibliographic URI, match authors of work to IPNI taxonomic authors
 
 
 error_reporting(E_ALL);
@@ -642,9 +642,7 @@ PREFIX tcom: <http://rs.tdwg.org/ontology/voc/Common#>
 SELECT * WHERE
 { 
 	VALUES ?pub_work { <' . $uri . '> }
-	VALUES ?pub_identifier { "' . $uri .'" }
-	?ipni_pub schema:sameAs ?pub_identifier .
-  
+	?ipni_pub schema:sameAs ?pub_work .  
 	?ipni tcom:publishedInCitation ?ipni_pub .
 
 	?pub_work schema:creator ?pub_role  . 
@@ -755,7 +753,7 @@ foreach ($ipni_matches as $k => $v)
 {
 	foreach ($v->matches as $creator)
 	{
-		$triples[] = '<' . $creator . '> <http://schema.org/sameAs> "' . $k . '" . ';
+		$triples[] = '<' . $creator . '> <http://schema.org/sameAs> <' . $k . '> . ';
 	}
 }
 
