@@ -72,8 +72,8 @@ if (item['@graph']) {
 			switch(item.encoding[i].fileFormat) {
 
 				case 'application/pdf':
-					//formats_html += '<li><a href="js/pdfjs/web/viewer.html?file=' + encodeURIComponent('../../../pdf_proxy.php?url=' + encodeURIComponent(item.encoding[i].contentUrl)) + '" />' + 'PDF' + '</a>' + '</li>';				
-					formats_html += '<li><a href="https://via.hypothes.is/' + encodeURIComponent(item.encoding[i].contentUrl) + '" />' + 'PDF' + '</a>' + '</li>';				
+					formats_html += '<li><a href="js/pdfjs/web/viewer.html?file=' + encodeURIComponent('../../../pdf_proxy.php?url=' + encodeURIComponent(item.encoding[i].contentUrl)) + '" />' + 'PDF' + '</a>' + '</li>';				
+					//formats_html += '<li><a href="https://via.hypothes.is/' + encodeURIComponent(item.encoding[i].contentUrl) + '" />' + 'PDF' + '</a>' + '</li>';				
 					break;
 
 				case 'application/xml':
@@ -124,10 +124,10 @@ if (item['@graph']) {
 			    }
 			    
 			    if (has_link) {
-			    	string += '<span style="white-space:nowrap;border-radius:4px;padding:2px;border:1px solid black;">';
+			    	string += '<span style="background-color:white;white-space:nowrap;border-radius:4px;padding:2px;border:1px solid black;">';
 			    } else
 			    {
-			    	string += '<span style="white-space:nowrap;border-radius:4px;padding:2px;border:1px solid rgb(192,192,192);">';			    
+			    	string += '<span style="background-color:white;white-space:nowrap;border-radius:4px;padding:2px;border:1px solid rgb(192,192,192);">';			    
 			    }
 			    
 			    if (sameAs != '') {

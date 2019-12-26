@@ -1625,6 +1625,9 @@ function display_html_start($title = '', $meta = '', $script = '', $onload = '')
 	echo '<title>' . $title . '</title>';
 	
 	echo '	<style>
+	
+	
+	
 		/* taxonomic name */
 		.genusPart {
 			font-style: italic;
@@ -1732,6 +1735,8 @@ details {
     border-radius: 4px;
     padding: .5em .5em 0;
     margin-bottom: .5em;
+    
+    background-color:white;
 }
 
 summary {
@@ -1820,6 +1825,7 @@ details[open] summary {
 			font-family: "Open Sans", sans-serif; 
 			line-height:1.5em;
 			/* color: rgb(128,128,128); */
+			background-color:#eee;
 		}
 		h1 { 
 			line-height:1.2em;
