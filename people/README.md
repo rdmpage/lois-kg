@@ -63,5 +63,93 @@ WHERE
 }
 ```
 
+## D-Dupe
+
+### Try a name to se if might have d-dupe potential
+
+Given a name see get lists of region1 and 5 names, which might suggest pairs for d-dupe.
+
+
+```
+prefix schema: <http://schema.org/>
+select distinct ?n where
+{
+  #VALUES ?name { "Paul J. A. Keßler" }
+  #VALUES ?name { "P.J.A. Keßler" }
+  #VALUES ?name { "P.J.A. Kessler"}
+ VALUES ?name { "Michael Möller"}
+
+
+  ?person schema:name ?name .
+  ?role schema:creator ?person.  
+  ?work schema:creator ?role .  
+  
+  ?work schema:creator ?r .  
+  ?r schema:creator ?p. 
+  ?p schema:name ?n .
+  
+  FILTER (?name != ?n)
+ }
+ORDER BY ?n
+```
+
+
+
+### D-dupe graph
+
+Generate data for d-dupe graph to help match two names that are similar and potentially the same.
+
+
+```
+prefix schema: <http://schema.org/>
+select distinct ?name1 ?name2 ?name3a ?name3b ?name1a ?name2a where
+{
+ # VALUES ?name1 { "Dirk N Karger" }
+  #VALUES ?name2 { "Dirk Nikolaus Karger" }
+         
+  VALUES ?name1 { "Wen Hong Chen" }
+  VALUES ?name2 { "Wen-Hong Chen" }
+ 
+  # region 2
+  ?person1 schema:name ?name1 .
+  ?role1 schema:creator ?person1.  
+  ?work1 schema:creator ?role1 .  
+  
+  # region 4
+  ?person2 schema:name ?name2 .
+  ?role2 schema:creator ?person2.  
+  ?work2 schema:creator ?role2 .  
+  
+  # region 3
+  ?work1 schema:creator ?role3a .  
+  ?role3a schema:creator ?person3a. 
+  ?person3a schema:name ?name3a .  
+ 
+   ?work2 schema:creator ?role3b .  
+  ?role3b schema:creator ?person3b. 
+  ?person3b schema:name ?name3b . 
+   
+  
+  FILTER (?name3a = ?name3b) 
+  
+  # region 1
+  ?work1 schema:creator ?role1a .  
+  ?role1a schema:creator ?person1a.  
+  ?person1a schema:name ?name1a .
+  
+  FILTER (?name1 != ?name1a) 
+  FILTER (?name1a != ?name3a) 
+
+   # region 5
+  ?work2 schema:creator ?role2a .  
+  ?role2a schema:creator ?person2a.  
+  ?person2a schema:name ?name2a .
+  
+  FILTER (?name2 != ?name2a) 
+  FILTER (?name2a != ?name3b) 
+ }
+```
+
+
 
 
