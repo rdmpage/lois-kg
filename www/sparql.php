@@ -227,6 +227,9 @@ CONSTRUCT
 
 	?item <http://schema.org/parentTaxon> ?parent  .	
 	?parent <http://schema.org/name> ?parent_name  .  
+	
+	# sameAs links
+	?item <http://schema.org/sameAs> ?sameAs . 
 
 
 }
@@ -266,6 +269,14 @@ WHERE {
  	?encoding <http://schema.org/contentUrl> ?contentUrl .	
 	
 	}
+	
+  OPTIONAL
+  {
+  	?thing <http://schema.org/sameAs> ?item . 
+  	?thing <http://schema.org/sameAs> ?sameAs . 
+
+  	FILTER (?item != ?sameAs) .
+  }	
 	
   
 #	OPTIONAL {
