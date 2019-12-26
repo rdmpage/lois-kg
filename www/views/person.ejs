@@ -1,0 +1,143 @@
+var template_person = `
+
+<%
+
+
+
+
+
+if (item['@graph']) {
+	item = item['@graph'][0];
+}
+
+
+%>
+
+
+<!-- title -->
+<h1>
+	<img src="images/noun_User_2283219.svg" height="48" align="center">
+	<%= get_literal(item.name) %>
+	<%= get_literal(item['dc:title']) %>
+</h1>
+
+<!-- identifiers -->
+<div>
+		<span class="heading">Unique identifier</span>
+		
+		<!-- URN -->
+		<% if (item['@id'].match(/^urn/)) { %>
+			<a class="external" href="http://www.lsid.info/<%=item['@id']%>" target="_new">
+			<%= item['@id'] %>
+			</a>		
+		<% } %>
+
+		<!-- ORCID -->
+		<% if (item['@id'].match(/orcid.org/)) { %>
+			<!-- <img src="images/orcid_16x16.png"> -->
+			<a class="external" href="<%=item['@id']%>" target="_new">
+			<%= item['@id'] %>
+			</a>
+		<% } %>
+		
+		<!-- local id -->
+		<% if (item['@id'].match(/#/)) { %>
+			<a href="?uri=<%= item['@id'].replace('#', '%23') %>">
+			<%= item['@id'] %>
+			</a>		
+		<% } %>
+		
+		
+</div>
+
+<!-- sameAs -->
+<div>
+	<% if (item['sameAs']) { %>
+		<span class="heading">Same as</span>
+			<% if (Array.isArray(item['sameAs'])) {	%>
+				<ul>
+				<% for (var i in item['sameAs']) { %>
+					<li>
+					<a href="?uri=<%= item['sameAs'][i].replace('#', '%23') %>" onclick="event.stopPropagation()">
+						<%= item['sameAs'][i] %>
+					</a>
+					</li>
+				<% } %>
+				</ul>
+			<% }  else { %>
+				<a href="?uri=<%= item['sameAs'].replace('#', '%23') %>" onclick="event.stopPropagation()">
+					<%= item['sameAs'] %>
+				</a>
+			<% } %>
+		</span>
+	<% } %>	
+</div>
+
+<!-- other names -->
+<div>
+	<% if (item['tp:alias']) {
+		var other_names = [];
+		for (var i in item['tp:alias']) {
+			var parts = [];
+			
+			if (item['tp:alias'][i]['tp:forenames']) {
+				parts.push(item['tp:alias'][i]['tp:forenames']);
+			}
+			if (item['tp:alias'][i]['tp:surname']) {
+				parts.push(item['tp:alias'][i]['tp:surname']);
+			} 
+			
+			var name = parts.join(' ');
+			if (other_names.indexOf(name) === -1) {
+				other_names.push(name);
+			}
+		} %>
+		<%- other_names.join('; '); %>
+		
+	<% }%>
+
+</div>
+
+<!-- lifespan -->
+<% if (item['tp:lifeSpan']) { %>
+	<div>
+		<span class="heading">Lifespan</span>
+		<%= get_literal(item['tp:lifeSpan']) %>
+	</div>
+<% } %>
+
+<!-- subjectScope -->
+<div>
+
+<% if (item['tp:subjectScope']) {
+
+	var keywords_string = '';
+	
+	if (typeof item.keywords === 'string') {
+		keywords_string = item['tp:subjectScope'];
+	}
+	
+	if (Array.isArray(item['tp:subjectScope'] )) {
+		var keywords = [];
+		for (var i in item['tp:subjectScope']) {
+			keywords.push(item['tp:subjectScope'][i]);
+		}
+		keywords_string = keywords.join('; ');
+	}
+	%>
+	
+	<spanclass="heading">KEYWORDS:</span>
+	<%- keywords_string %>
+	<%  
+} %>
+</div>
+
+<!-- record info -->
+<div>
+<% if (item['dcterms:modified']) {%>
+	Record last updated <%= timer(item['dcterms:modified']) %>
+<%}%>
+</div>
+
+
+`;

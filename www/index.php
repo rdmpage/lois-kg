@@ -1447,12 +1447,12 @@ function display_entity_ajax($uri)
 	echo '<div id="feed_annotation"></div>';
 	
 	
-	echo '<div class="text_container hidden" onclick="show_hide(this)">';		
-	echo '<h3>JSON-LD</h3>';
+	echo '<details>';		
+	echo '<summary>JSON-LD</summary>';
 	echo '<div style="font-family:monospace;white-space:pre;line-height:1em;">';
 	echo json_encode($entity, JSON_PRETTY_PRINT | JSON_UNESCAPED_SLASHES | JSON_UNESCAPED_UNICODE);
 	echo '</div>';		
-	echo '</div>';
+	echo '</details>';
 	
 	$feeds = array();
 	
@@ -1581,16 +1581,24 @@ function display_html_start($title = '', $meta = '', $script = '', $onload = '')
 
 	echo '<!-- templates -->';
 	echo '<script src="js/ejs.js"></script>';
-	echo '<script src="taxon_name.js"></script>';
-	echo '<script src="work.js"></script>';
-	echo '<script src="person.js"></script>';
-	echo '<script src="container.js"></script>';
+	
+	echo '<script src="views/partials/utils.ejs"></script>';
+	echo '<script src="views/taxon_name.ejs"></script>';
+	echo '<script src="views/work.ejs"></script>';
+	echo '<script src="views/person.ejs"></script>';	
+	echo '<script src="views/container.ejs"></script>';
+	
+	
+	echo '<script src="views/feed.ejs"></script>';
+	echo '<script src="views/feed_search.ejs"></script>';
+	echo '<script src="views/feed_tags.ejs"></script>';
+	
+	echo '<script src="views/decade_feed.ejs"></script>';
+	
+	// to do:
 	echo '<script src="occurrence.js"></script>';
-	echo '<script src="feed.js"></script>';
-	echo '<script src="feed_search.js"></script>';
-	echo '<script src="feed_tags.js"></script>';
 	echo '<script src="taxon.js"></script>';
-	echo '<script src="decade_feed.js"></script>';
+	
 	
 	echo '<script>
 	function render(template, data, element_id) {
@@ -1604,7 +1612,8 @@ function display_html_start($title = '', $meta = '', $script = '', $onload = '')
 </script>';
 
 
-	echo '<script src="work_scripts.js"></script>';
+	echo '<!-- API functions to add content -->' . "\n";
+	echo '<script src="enhance-content.js"></script>';
 
 
 
@@ -1716,6 +1725,28 @@ function display_html_start($title = '', $meta = '', $script = '', $onload = '')
       height: 400px;
       border: 1px solid lightgray;
     }
+
+/* see https://developer.mozilla.org/en-US/docs/Web/HTML/Element/details */
+details {
+    border: 1px solid #aaa;
+    border-radius: 4px;
+    padding: .5em .5em 0;
+    margin-bottom: .5em;
+}
+
+summary {
+    font-weight: bold;
+    margin: -.5em -.5em 0;
+    padding: .5em;
+}
+
+details[open] summary {
+    border-bottom: 1px solid #aaa;
+}
+
+
+
+	details style="border: 1px solid #aaa;padding: .5em;border-radius: 4px;">
 
 		
 		

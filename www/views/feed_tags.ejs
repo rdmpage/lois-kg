@@ -1,0 +1,85 @@
+var template_tagfeed = `
+
+
+
+<%
+
+item = item['@graph'][0];
+
+%>
+
+
+<!-- get unique strings -->
+
+<% 
+
+ var tags = [];
+
+ for (var i in item.dataFeedElement) { 
+ 	var key = item.dataFeedElement[i].name;
+ 
+	 if (typeof key === 'string') {
+		if (!tags.includes(key)) {
+    		tags.push(key);
+		}
+	}
+	
+	// name is an object so we have one language stored in @value
+	if (typeof key === 'object' && !Array.isArray(key)) {	
+		literal = key['@value'];
+		if (!tags.includes(key['@value'])) {
+    		tags.push(key['@value']);
+		}
+	} else {
+		// name is an array of objects and/or strings (need to think about this)
+		if (Array.isArray(key)) {
+					
+			for (var j in key) {
+				if (typeof key[j] === 'object') {
+					tags.push(key[j]['@value']);
+				} else {
+					if (!tags.includes(key[j])) {
+    					tags.push(key[j]);
+					}
+				}
+			}
+		}
+	}
+ 
+}
+%>
+
+<details>
+
+<!-- title -->
+<% if (item.name) { %>
+	<summary>
+		<%= get_literal(item.name) %>
+		(<%= tags.length %>)
+	</summary>
+<% } %>
+
+
+
+<!-- display as simple list -->
+
+<div class="feed" style="font-size:0.8em;line-height:1.4em;">
+	<% for (var i in tags) { %>
+		<div style="padding-bottom:12px;border-top:1px dotted rgb(222,222,222);">
+		
+		<a href="?q=<%= tags[i] %>">
+		<h3>
+		<%= tags[i] %>
+		</h3>
+		</a>
+		
+		</div>
+	<% } %>
+
+</div>
+
+</details>
+
+
+
+`;

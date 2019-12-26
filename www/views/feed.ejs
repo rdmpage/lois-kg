@@ -1,0 +1,107 @@
+var template_datafeed = `
+
+<%
+
+
+item = item['@graph'][0];
+
+%>
+
+<details>
+
+<!-- title -->
+<% if (item.name) { %>
+	<summary>
+		<%= get_literal(item.name) %>
+		(<%= item.dataFeedElement.length %>)
+	</summary>
+<% } %>
+
+
+<!-- data feed items -->
+<div class="feed" style="font-size:0.8em;line-height:1.4em;">
+	<% for (var i in item.dataFeedElement) { %>
+		<div style="padding-bottom:12px;border-top:1px dotted rgb(222,222,222);">
+		
+		<!--
+		<% if (item.dataFeedElement[i].url) { %>
+			<a href="<%= item.dataFeedElement[i].url %>">
+		<% } %>
+				
+		<strong>
+		<%= get_literal(item.dataFeedElement[i].name) %>
+		</strong>
+		
+		<% if (item.dataFeedElement[i].url) { %>
+			</a>
+		<% } %>
+		-->
+		
+		<a href="?uri=<%= item.dataFeedElement[i]['@id'].replace('#', '%23') %>">
+		<h3>
+		<%- get_literal(item.dataFeedElement[i].name) %>
+		</h3>
+		</a>
+		
+		<% if (item.dataFeedElement[i].thumbnailUrl) { 
+			var thumbnailUrl = item.dataFeedElement[i].thumbnailUrl;
+			if (thumbnailUrl.match(/^http/)) {
+				thumbnailUrl = 'http://exeg5le.cloudimg.io/s/height/100/' + thumbnailUrl;
+			}
+			%>
+			<img style="margin:4px;border:1px solid rgb(224,224,224);height:100px;float:left;" src="<%- thumbnailUrl %>" >
+		<% } %>
+		
+		
+		<% if (item.dataFeedElement[i].description) { 
+			var description = get_literal(item.dataFeedElement[i].description);
+			if (description.length > 512) {
+				description = description.substring(0, 512)  + '...';
+			}
+		%>
+			<%=  description %>
+		<% } %>
+		
+		
+		<!-- date -->
+		<% if (item.dataFeedElement[i].datePublished) {%>
+			<div>
+			<%= isodate_to_string(item.dataFeedElement[i].datePublished) %>
+			</div>
+		<% } %>
+		
+		<!-- identifiers -->
+		<div>
+		<% if (item.dataFeedElement[i].identifier) {
+			 var id = '';
+	 
+			// DOI
+			id = get_property_value(item.dataFeedElement[i].identifier, 'doi');	  
+			if (id != '') {  %>	
+				DOI:
+				<a href="https://doi.org/<%=id%>">
+				<%= id %>
+				</a>
+			<% }
+	
+			}
+		 %>	
+		 </div>			
+
+
+		
+		
+		</div>
+		
+		<div style="clear:both;"></div>
+		
+	<% } %>
+
+
+</div>
+
+</details>
+
+
+
+`;

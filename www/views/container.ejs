@@ -1,0 +1,48 @@
+var template_container = `
+
+<%
+
+
+if (item['@graph']) {
+	item = data['@graph'][0];
+}
+
+
+%>
+
+
+<!-- title -->
+<h1>
+	<img src="images/noun_Book_498533.svg" height="48" align="center">
+	<%= get_literal(item.name) %>
+</h1>
+
+<!-- identifiers -->
+<div>
+<% if (item.issn) {
+
+	var issn_string = '';
+	
+	if (typeof item.issn === 'string') {
+		issn_string = item.issn ;
+	}
+	
+	if (Array.isArray(item.issn )) {
+		var issn = [];
+		for (var i in item.issn) {
+			issn.push(item.issn[i]);
+		}
+		issn_string = issn.join('; ');
+	}
+	%>
+	
+	<span class="heading">ISSN:</span>
+	<%- issn_string %>
+	<%  
+} %>
+</div>
+
+
+
+
+`;
