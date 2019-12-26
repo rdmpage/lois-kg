@@ -50,9 +50,29 @@ $query = 'PREFIX schema: <http://schema.org/>
 			}
 			WHERE
 			{
-              	?creator schema:sameAs <' . $uri . '> .
-				?role schema:creator ?creator .
-				?item schema:creator ?role .
+              	#?creator schema:sameAs <' . $uri . '> .
+              	
+               	
+				#?role schema:creator ?creator .
+				#?item schema:creator ?role .
+				
+				 VALUES ?identifier { <' . $uri . '> }
+				 {
+					?creator schema:sameAs ?identifier .
+					?role schema:creator ?creator .
+					?item schema:creator ?role .   
+				  }
+				  UNION 
+				  {
+					?creator schema:sameAs ?identifier .
+					?creator schema:sameAs ?other_identifier .
+					?creator_other schema:sameAs ?other_identifier .
+					?role schema:creator ?creator_other .
+					?item schema:creator ?role .
+  
+					FILTER (?other_identifier != ?identifier)
+				  }
+     				
 	
 				?item schema:name ?name .
 				?item rdf:type ?item_type .
