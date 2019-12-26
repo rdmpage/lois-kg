@@ -40,11 +40,11 @@ function get($url)
 $names = array(
 
 	'urn:lsid:ipni.org:authors:35229-1' => array(	
-		//'D J Middleton',
-		//'D. J. Middleton',
-		//'David J Middleton',
-		//'David J. Middleton',
-		//'David John Middleton',
+		'D J Middleton',
+		'D. J. Middleton',
+		'David J Middleton',
+		'David J. Middleton',
+		'David John Middleton',
 		'D.J. Middleton',
 	),
 

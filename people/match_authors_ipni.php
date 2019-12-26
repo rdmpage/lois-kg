@@ -624,6 +624,24 @@ $uris=array(
 
 );
 
+$uris=array(
+//'https://doi.org/10.1017/s0960428602000082',
+'https://doi.org/10.1080/00837792.2017.1402476',
+);
+
+// Silvio Fici
+$uris=array(
+'https://doi.org/10.1007/s12225-011-9284-x',
+'https://doi.org/10.1007/s12225-012-9390-4',
+'https://doi.org/10.1080/00837792.2003.10670747',
+'https://doi.org/10.1080/00837792.2016.1232928',
+'https://doi.org/10.1080/00837792.2017.1402476',
+'https://doi.org/10.1080/00837792.2018.1470708',
+'https://doi.org/10.11646/phytotaxa.174.1.1',
+'https://doi.org/10.11646/phytotaxa.203.1.2',
+
+);
+
 
 $matches = array();
 

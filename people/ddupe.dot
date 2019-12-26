@@ -1,0 +1,38 @@
+graph G {
+rankdir=LR;
+
+	name1 [label="Wen Hong Chen"];
+	
+	name2 [label="Wen-Hong Chen"];
+	
+	name31 [label="Yu-Min Shui"];
+	name32 [label="Michael Möller"];
+	
+	/* region 3 */
+	name1 -- name31 -- name2;
+	name1 -- name32 -- name2;
+	
+	/* region 1 */
+	
+	"Quang Hieu Nguyen" -- name1;
+	"Run Zheng Chen" -- name1;
+	"Tien Hiep Nguyen" -- name1;
+	"Sinh Khang Nguyen" -- name1;
+	"Van Tap Nguyen" -- name1;
+	"Michael Möller" -- name1;
+	"David J. Middleton" -- name1;
+	
+	
+	/* region 5 */
+	name2 -- "Mei-De Zhang";
+	name2 -- "Rong-Mei Zhang";
+	name2 -- "Guo-Yun Li";
+	name2 -- "Yi-Gang Wei";
+	name2 -- "Fang Wen";
+	name2 -- "M. Möller";
+	name2 -- "Zhi-Dan Wei";
+	name2 -- "Steven Janssens";
+	name2 -- "Su-Hua Huang";
+	name2 -- "Zhi-Guo Yang";
+	
+}
