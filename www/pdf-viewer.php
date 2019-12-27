@@ -43,6 +43,7 @@ body {
   background: white;
   
   padding:10px;
+  border-left:1px solid #aaa;
 }
 
 
