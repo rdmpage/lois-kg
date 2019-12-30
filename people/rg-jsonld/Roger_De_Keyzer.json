@@ -1,0 +1,13 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Roger de Keyzer",
+    "image": "https://i1.rgstatic.net/ii/profile.image/352962674216962-1461164267650_Q128/Roger_De_Keyzer.jpg",
+    "mainEntityOfPage": "https://www.researchgate.net/profile/Roger_De_Keyzer",
+    "url": "https://www.researchgate.net/profile/Roger_De_Keyzer",
+    "affiliation": {
+        "@type": "Organization",
+        "name": "Australian Museum",
+        "url": "https://www.researchgate.net/institution/Australian_Museum"
+    }
+}

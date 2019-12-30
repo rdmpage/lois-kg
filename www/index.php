@@ -1511,6 +1511,7 @@ function display_entity_ajax($uri)
 						
 				break;
 				
+			case 'foaf:Person':
 			case 'tp:Person':
 			case 'Person':
 				echo '<script>render(template_person, { item: data }, "output");</script>';				

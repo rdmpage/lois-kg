@@ -131,7 +131,7 @@ if (item['@graph']) {
 			    }
 			    
 			    if (sameAs != '') {
-			    	string += '<a href="?uri=' + sameAs + '">';
+			    	string += '<a href="?uri=' + sameAs.replace('#', '%23') + '">';
 			    }
 			   
 				string += get_literal(item.creator[i].creator[0].name);

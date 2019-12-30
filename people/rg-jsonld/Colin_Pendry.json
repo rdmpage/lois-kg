@@ -1,0 +1,13 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Colin Pendry",
+    "image": "https://i1.rgstatic.net/ii/profile.image/279132379336707-1443561753409_Q128/Colin_Pendry.jpg",
+    "mainEntityOfPage": "https://www.researchgate.net/profile/Colin_Pendry",
+    "url": "https://www.researchgate.net/profile/Colin_Pendry",
+    "affiliation": {
+        "@type": "Organization",
+        "name": "Royal Botanic Garden Edinburgh",
+        "url": "https://www.researchgate.net/institution/Royal_Botanic_Garden_Edinburgh"
+    }
+}

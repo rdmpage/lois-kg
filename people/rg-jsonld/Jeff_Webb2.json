@@ -1,0 +1,13 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Jeff Michael Webb",
+    "image": "https://c5.rgstatic.net/m/437738464651637/images/template/default/profile/profile_default_l.jpg",
+    "mainEntityOfPage": "https://www.researchgate.net/profile/Jeff_Webb2",
+    "url": "https://www.researchgate.net/profile/Jeff_Webb2",
+    "affiliation": {
+        "@type": "Organization",
+        "name": "Rhithron Associates",
+        "url": null
+    }
+}

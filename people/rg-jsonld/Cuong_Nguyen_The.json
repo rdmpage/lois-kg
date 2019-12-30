@@ -1,0 +1,13 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Cuong Nguyen The",
+    "image": "https://i1.rgstatic.net/ii/profile.image/596689895321600-1519273365350_Q128/Cuong_Nguyen_The.jpg",
+    "mainEntityOfPage": "https://www.researchgate.net/profile/Cuong_Nguyen_The",
+    "url": "https://www.researchgate.net/profile/Cuong_Nguyen_The",
+    "affiliation": {
+        "@type": "Organization",
+        "name": "The Institute Of Ecology and Biological Resources",
+        "url": "https://www.researchgate.net/institution/The_Institute_Of_Ecology_and_Biological_Resources"
+    }
+}

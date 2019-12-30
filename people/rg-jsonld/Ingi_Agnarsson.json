@@ -1,0 +1,13 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Ingi Agnarsson",
+    "image": "https://i1.rgstatic.net/ii/profile.image/272751919366165-1442040533506_Q128/Ingi_Agnarsson.jpg",
+    "mainEntityOfPage": "https://www.researchgate.net/profile/Ingi_Agnarsson",
+    "url": "https://www.researchgate.net/profile/Ingi_Agnarsson",
+    "affiliation": {
+        "@type": "Organization",
+        "name": "University of Vermont, Burlington | UVM",
+        "url": "https://www.researchgate.net/institution/University_of_Vermont"
+    }
+}

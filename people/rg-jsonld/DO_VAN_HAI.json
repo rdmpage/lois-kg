@@ -1,0 +1,13 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Do Van Hai",
+    "image": "https://i1.rgstatic.net/ii/profile.image/272304517152797-1441933864521_Q128/DO_VAN_HAI.jpg",
+    "mainEntityOfPage": "https://www.researchgate.net/profile/DO_VAN_HAI",
+    "url": "https://www.researchgate.net/profile/DO_VAN_HAI",
+    "affiliation": {
+        "@type": "Organization",
+        "name": "The Institute Of Ecology and Biological Resources",
+        "url": "https://www.researchgate.net/institution/The_Institute_Of_Ecology_and_Biological_Resources"
+    }
+}

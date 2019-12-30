@@ -1,0 +1,13 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Julia Patricia Cáceres-Chamizo",
+    "image": "https://i1.rgstatic.net/ii/profile.image/570736995561472-1513085711411_Q128/Julia_Caceres-Chamizo.jpg",
+    "mainEntityOfPage": "https://www.researchgate.net/profile/Julia_Caceres-Chamizo",
+    "url": "https://www.researchgate.net/profile/Julia_Caceres-Chamizo",
+    "affiliation": {
+        "@type": "Organization",
+        "name": "Instituto Fomento Pesquero, Puerto Montt",
+        "url": null
+    }
+}

@@ -1,6 +1,56 @@
 # People
 
-Code and ideas to link people’s names to identifiers
+Code and ideas to link people’s names to identifiers.
+
+
+## Background
+
+There are two problems to solve. The first is to have an identifier for a person, the second is to be able to assign that identifier to an activity by that person. In other words, we want to assert that the author (“Jane Smith”) of a work is Jane Smith ID:XXXXX. 
+
+Some taxonomic databases have identifiers for authors (e.g., IPNI author LSIDs,  ZooBank author UUIDs). There are also author identifiers provided by aggregators such as WorldCat, ResearchGate, and Google Scholar. ORCID provides people with a way to create their own identifier and claim their publications.  This multiplicity of identifiers 
+
+The approach I’ve adopted is to (a) have a single record for each identifier, e.g. an ORCID id (in schema.org), an IPNI author LSID (as native RDF), etc. (may have Persee RDF, etc.). For a publication, each author is treated essentially as a bnode but with a local identifier so we can refer to it. If, say, a publication record from CrossRef has an ORCID id for an author, this is stored as
+
+DOI —> creator —> sameAs ORCID
+
+If we match another identifier, such as an IPNI id, we also use sameAs. If we match to a record that has an ORCID as well, then we have:
+
+creator
+- sameAs ORCID
+- sameAs IPNI
+
+We can then do a SPARQL query to fetch all publications for that person by handling sameAs. So we can envisage adding additional identifiers, such as Persee in the same way (think more about this, do we want to add Persee, or query it to get VIAF, etc., do SPARQL query to get sameAs links, maybe use Persee namespace).
+
+Can we also handle BHL/BioStor in the same way? For each BioStor article, get BHL part, add sameAs links for BHL creator, which gives us id and a way to map to other people via Wikidata.
+
+
+This then raises issue of Wikidata, and do we have sameAs circular links! Or can we include Wikidata as always being the source of sameAs?:
+
+Wikidata
+- sameAs ORCID
+- sameAs BHL
+- sameAs IPNI
+
+This would mean we could map identifiers “locally” then use Wikidata to connect things up (rather than relying on having at least one record that is like this:
+
+creator
+- sameAs ORCID
+- sameAs IPNI
+
+
+How does this work for ZooBank? ZooBank UUIDs
+How does this work for ION? (BioNames)
+
+How do we handle grouping people’s names for which we don’t have any identifier?
+
+How do we handle ResearchGate?
+
+### Persée
+
+We can use Persée DOIs to retrieve Persée author ids, which in turn are linked to other ids. Persée author ids are also in Wikidata, so could add Persée as one of the sameAs links to associate with Wikidata person records.
+
+
+
 
 ## Name matching
 
@@ -20,6 +70,11 @@ curl http://167.99.58.120:9999/blazegraph/sparql?context-uri=https://bionames.or
 ```match_authors_ipni.php```
 
 Take URI for work, SPARQL to get taxonomic names and authors, match and output sameAs link between work creator (typically a bnode) and IPNI author ID.
+
+```
+curl http://167.99.58.120:9999/blazegraph/sparql?context-uri=https://bionames.org/sameas -H 'Content-Type: text/rdf+n3' --data-binary '@ipni.nt'  --progress-bar | tee /dev/null
+
+```
 
 ## Find works by authors by name
 
@@ -150,6 +205,38 @@ select distinct ?name1 ?name2 ?name3a ?name3b ?name1a ?name2a where
  }
 ```
 
+
+## Author co-citation
+
+```
+prefix schema: <http://schema.org/>
+
+select ?y_name (COUNT(?y_name) AS ?c) where 
+{
+  
+  VALUES ?x_name { "Mark Hughes" }
+ ?x_creator schema:name ?x_name . 
+  ?x_role schema:creator ?x_creator .
+  ?x schema:creator ?x_role .
+  
+  ?x_placeholder schema:sameAs ?x .
+  ?a schema:citation ?x_placeholder .
+     
+  ?a schema:citation ?y_placeholder . 
+  ?y_placeholder schema:sameAs ?y .
+  
+   ?y schema:creator ?y_role .
+   ?y_role schema:creator ?y_creator .
+  ?y_creator schema:name ?y_name . 
+  
+  FILTER (?x != ?y)
+   FILTER (?x_name != ?y_name)
+  
+}GROUP BY ?y_name
+ORDER BY DESC (?c)
+LIMIT 10
+
+```
 
 
 

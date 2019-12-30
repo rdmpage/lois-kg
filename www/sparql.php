@@ -141,6 +141,7 @@ WHERE {
 
 	$query = 'PREFIX : <http://schema.org/>
 PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX owl: <http://www.w3.org/2002/07/owl#>
 
 CONSTRUCT 
 {
@@ -259,7 +260,11 @@ WHERE {
 		OPTIONAL {
 			?author <http://schema.org/sameAs> ?person .		
 		} 		
-        
+ 
+ 		OPTIONAL {
+			?author owl:sameAs ?person .		
+		} 		
+       
         
 	} 
 	
@@ -435,6 +440,9 @@ WHERE {
 			'@vocab' => 'http://schema.org/',			
 			'rdfs' => 'http://www.w3.org/2000/01/rdf-schema#',			
 			'owl' => 'http://www.w3.org/2002/07/owl#',
+			'xs'	=> 'http://www.w3.org/2001/XMLSchema#',
+			
+			'foaf' => 'http://xmlns.com/foaf/0.1/',
 			
 			'dc' => 'http://purl.org/dc/elements/1.1/',
 			'dcterms' => 'http://purl.org/dc/terms/',
@@ -500,6 +508,14 @@ WHERE {
 			$context->sameAs = new stdclass;
 			$context->sameAs->{'@type'} = '@id';
 			$context->sameAs->{'@id'} = 'sameAs';
+
+			$context->{'owl:sameAs'} = new stdclass;
+			$context->{'owl:sameAs'}->{'@type'} = '@id';
+			$context->{'owl:sameAs'}->{'@id'} = 'owl:sameAs';
+		
+			$context->{'foaf:page'} = new stdclass;
+			$context->{'foaf:page'}->{'@type'} = '@id';
+			$context->{'foaf:page'}->{'@id'} = 'foaf:page';
 			
 			
 	
@@ -669,6 +685,7 @@ function sparql_search($sparql_endpoint, $search_string, $format='application/ld
 	$query = 'PREFIX schema: <http://schema.org/>
 PREFIX dc: <http://purl.org/dc/elements/1.1/>
 PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX foaf: <http://xmlns.com/foaf/0.1/>
 CONSTRUCT 
 {
 <http://example.rss>
@@ -699,6 +716,10 @@ WHERE
   UNION
   {
      ?item dc:title ?name .
+  } 
+  UNION
+  {
+     ?item foaf:name ?name .
   }  
 }
 

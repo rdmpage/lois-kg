@@ -1,0 +1,13 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Jinshuang Ma",
+    "image": "https://i1.rgstatic.net/ii/profile.image/559526182756353-1510412845047_Q128/Jinshuang_Ma.jpg",
+    "mainEntityOfPage": "https://www.researchgate.net/profile/Jinshuang_Ma",
+    "url": "https://www.researchgate.net/profile/Jinshuang_Ma",
+    "affiliation": {
+        "@type": "Organization",
+        "name": "Chinese Academy of Sciences, Beijing | CAS",
+        "url": "https://www.researchgate.net/institution/Chinese_Academy_of_Sciences"
+    }
+}

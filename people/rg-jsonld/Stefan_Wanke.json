@@ -1,0 +1,13 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Stefan Wanke",
+    "image": "https://i1.rgstatic.net/ii/profile.image/272377414156322-1441951244659_Q128/Stefan_Wanke.jpg",
+    "mainEntityOfPage": "https://www.researchgate.net/profile/Stefan_Wanke",
+    "url": "https://www.researchgate.net/profile/Stefan_Wanke",
+    "affiliation": {
+        "@type": "Organization",
+        "name": "Technische Universität Dresden, Dresden | TUD",
+        "url": "https://www.researchgate.net/institution/Technische_Universitaet_Dresden"
+    }
+}

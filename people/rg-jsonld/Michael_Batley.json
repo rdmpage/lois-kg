@@ -1,0 +1,13 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Michael Batley",
+    "image": "https://i1.rgstatic.net/ii/profile.image/279538383769601-1443658552423_Q128/Michael_Batley.jpg",
+    "mainEntityOfPage": "https://www.researchgate.net/profile/Michael_Batley",
+    "url": "https://www.researchgate.net/profile/Michael_Batley",
+    "affiliation": {
+        "@type": "Organization",
+        "name": "Australian Museum",
+        "url": "https://www.researchgate.net/institution/Australian_Museum"
+    }
+}

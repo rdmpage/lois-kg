@@ -1,0 +1,13 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Bui Hong Quang",
+    "image": "https://i1.rgstatic.net/ii/profile.image/455528032804865-1485617754215_Q128/Bui_Quang.jpg",
+    "mainEntityOfPage": "https://www.researchgate.net/profile/Bui_Quang",
+    "url": "https://www.researchgate.net/profile/Bui_Quang",
+    "affiliation": {
+        "@type": "Organization",
+        "name": "The Institute Of Ecology and Biological Resources",
+        "url": "https://www.researchgate.net/institution/The_Institute_Of_Ecology_and_Biological_Resources"
+    }
+}
