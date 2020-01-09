@@ -4,6 +4,12 @@
 
 require_once(dirname(__FILE__) . '/lcs.php');
 
+//----------------------------------------------------------------------------------------
+// https://stackoverflow.com/a/2759179
+function Unaccent($string)
+{
+    return preg_replace('~&([a-z]{1,2})(?:acute|cedil|circ|grave|lig|orn|ring|slash|th|tilde|uml|caron);~i', '$1', htmlentities($string, ENT_QUOTES, 'UTF-8'));
+}
 
 //----------------------------------------------------------------------------------------
 function clean ($text)
@@ -22,12 +28,14 @@ function clean ($text)
 	// Convert accented characters
 	$text = preg_replace('/Æ/u', 'A', $text);
 
-		
-	$text = strtr($text, 
+
+	$text = Unaccent($text);
+	/*
+	$text = mb_strtr($text, 
 		"ÀÁÂÃÄÅàáâãäåĀāĂăĄąÇçĆćĈĉĊċČčÐðĎďĐđÈÉÊËèéêëĒēĔĕĖėĘęĚěĜĝĞğĠġĢģĤĥĦħÌÍÎÏìíîïĨĩĪīĬĭĮįİıĴĵĶķĸĹĺĻļĽľĿŀŁłÑñŃńŅņŇňŉŊŋÒÓÔÕÖØòóôõöøŌōŎŏŐőŔŕŖŗŘřŚśŜŝŞşŠšſŢţŤťŦŧÙÚÛÜùúûüŨũŪūŬŭŮůŰűŲųŴŵÝýÿŶŷŸŹźŻżŽž",
 		"AAAAAAaaaaaaaaaaaaccccccccccddddddeeeeeeeeeeeeeeeeeegggggggghhhhiiiiiiiiiiiiiiiiiijjkkkllllllllllnnnnnnnnnnnoooooooooooooooooorrrrrrsssssssssttttttuuuuuuuuuuuuuuuuuuuuwwyyyyyyzzzzzz"
 		);
-		
+	*/	
 
 	//echo $text . "|\n";
 
@@ -95,6 +103,8 @@ function compare($name1, $name2, $debug = false)
 			$result->d = $lcs->score();
 	
 			$result->p = $result->d / min(strlen($result->str1), strlen($result->str2));
+
+			//$result->p = (2 * $result->d) /(strlen($result->str1) + strlen($result->str2));
 	
 			$lcs->get_alignment();		
 		
@@ -135,6 +145,13 @@ if (0)
 
 	);
 	
+	$tests = array(
+	array('De-Zhu Li', 'Dezhu Li'),
+	array('De-Zhu Li', 'D. Z. Li'),
+	
+	
+	
+	);
 
 	$debug = true;
 	

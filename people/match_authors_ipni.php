@@ -611,6 +611,7 @@ $uris=array("https://doi.org/10.5252/adansonia2018v40a3",
 "https://doi.org/10.12705/674.6",
 "https://doi.org/10.1093/aob",);
 
+/*
 $uris=array('https://doi.org/10.1111/j.1759-6831.2010.00113.x');
 
 $uris=array('https://doi.org/10.3897/phytokeys.94.21329');
@@ -642,6 +643,51 @@ $uris=array(
 
 );
 
+$uris=array(
+'https://doi.org/10.1071/sb13042',
+'https://doi.org/10.1111/njb.01066',
+'https://doi.org/10.1600/036364415x689140',
+'https://doi.org/10.2985/026.018.0102',
+'https://doi.org/10.3897/phytokeys.33.6094',
+'https://doi.org/10.5091/plecevo.2011.470',
+'https://doi.org/10.5735/085.052.0321',
+'https://doi.org/10.11646/phytotaxa.220.1.6',
+'https://doi.org/10.11646/phytotaxa.221.2.11',
+'https://doi.org/10.12705/643.4',
+'https://doi.org/10.12705/644.6',
+
+);
+*/
+$uris=array(
+'https://doi.org/10.1007/s12225-008-9090-2',
+'https://doi.org/10.1007/s12225-018-9760-7',
+'https://doi.org/10.1111/boj.12246',
+'https://doi.org/10.1600/036364412x656581',
+'https://doi.org/10.1600/036364410791638397',
+'https://doi.org/10.2307/3391775',
+'https://doi.org/10.2307/3391775',
+'https://doi.org/10.2307/3393570',
+'https://doi.org/10.2307/3393570',
+'https://doi.org/10.2307/4110993',
+'https://doi.org/10.3417/2007057',
+'https://doi.org/10.3897/phytokeys.7.1855',
+'https://doi.org/10.3897/phytokeys.38.7055',
+'https://doi.org/10.3897/phytokeys.47.9076',
+'https://doi.org/10.3897/phytokeys.61.7258',
+'https://doi.org/10.3897/phytokeys.61.7904',
+'https://doi.org/10.3897/phytokeys.111.28595',
+'https://doi.org/10.5091/plecevo.2017.1326',
+'https://doi.org/10.5091/plecevo.2018.1380',
+'https://doi.org/10.11646/phytotaxa.147.2.3',
+'https://www.jstor.org/stable/23210319',
+'https://www.jstor.org/stable/23499402',
+'https://www.jstor.org/stable/24621054',
+'https://www.jstor.org/stable/41968561',
+);
+
+$uris=array(
+'https://doi.org/10.1093/botlinnean/bow013',
+);
 
 $matches = array();
 
