@@ -72,6 +72,7 @@ function receiveMessage(event)
 
 
 function show_body(target_uri) {
+
 			$.getJSON("api_target_body.php?uri=" + target_uri + "&callback=?",
 				function(data){
 				

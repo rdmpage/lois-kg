@@ -351,12 +351,14 @@ function isObject (item) {
 					  
 					  if (!lazyImage.src && lazyImage.hasAttribute('data-src')) {
 					  
+					  	
 						lazyImage.src = lazyImage.dataset.src;
 					
 						// presence of "width" is a flag that we will use an image CDN
 						if (lazyImage.hasAttribute('width')) {
 							lazyImage.src = 'http://exeg5le.cloudimg.io/s/width/' + this.page_width + '/' + lazyImage.src;
 						}
+						
 					  }
 					}
 				  }
