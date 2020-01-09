@@ -121,6 +121,11 @@ function ia_scandata($identifier, $destination, &$info)
 	$dom= new DOMDocument;
 	$dom->loadXML($xml);
 	$xpath = new DOMXPath($dom);
+	
+	// Sometimes (e.g., mobot31753002456132) some pages have zero width and height
+	// in the XML, so we keep some default values handy for these cases
+	$width 	= 1000;
+	$height = 1000;
 		
 	$nodeCollection = $xpath->query ('/book/pageData/page');
 	foreach($nodeCollection as $node)
@@ -145,12 +150,31 @@ function ia_scandata($identifier, $destination, &$info)
 		foreach($nc as $n)
 		{
 			$page->width = (Integer)$n->firstChild->nodeValue;
+			
+			if ($page->width == 0)
+			{
+				$page->width = $width;
+			}
+			else
+			{
+				$width = $page->width;
+			}
 		}
 
 		$nc = $xpath->query ('origHeight', $node);
 		foreach($nc as $n)
 		{
 			$page->height = (Integer) $n->firstChild->nodeValue;
+			
+			if ($page->height == 0)
+			{
+				$page->height = $height;
+			}
+			else
+			{
+				$height = $page->height;
+			}
+			
 		}
 	
 		$info->page_metadata[] = $page;
@@ -160,9 +184,9 @@ function ia_scandata($identifier, $destination, &$info)
 
 
 //----------------------------------------------------------------------------------------
+// Parse BHL METS so we can link to BHL pages
 function bhl_details($identifier, $destination, &$info)
-{
-	
+{	
 	$dir = $destination . '/' . $identifier;
 	
 	$filename = $dir  . '/' . $identifier . '_bhlmets.xml';
@@ -205,7 +229,7 @@ function bhl_details($identifier, $destination, &$info)
 			$info->page_metadata[$page_counter] = $page;
 		}
 		
-		// coordinates
+		// attributes
 		if ($node->hasAttributes()) 
 		{ 
 			$attributes = array();
@@ -222,8 +246,8 @@ function bhl_details($identifier, $destination, &$info)
 		$nc = $xpath->query ('mets:fptr[1]/@FILEID', $node);
 		foreach($nc as $n)
 		{
-			$info->page_metadata[$page_counter]->PageID =  $n->firstChild->nodeValue;
-			
+			$info->page_metadata[$page_counter]->PageID =  $n->firstChild->nodeValue;		
+		
 			$info->page_metadata[$page_counter]->PageID = str_replace('pageImg', '', $info->page_metadata[$page_counter]->PageID);
 		
 		}
@@ -391,6 +415,30 @@ function create_manifest_triples($info)
 }
 
 //----------------------------------------------------------------------------------------
+function bhl_item_to_ia($item)
+{
+	$ia = '';
+	
+	$url = 'https://www.biodiversitylibrary.org/api2/httpquery.ashx?op=GetItemMetadata&itemid=' . $item . '&pages=f&apikey=' . '0d4f0303-712e-49e0-92c5-2113a5959159' . '&format=json';
+
+	$json = get($url);
+	
+	//echo $url;
+
+	$obj = json_decode($json);
+	
+	//print_r($obj);
+	
+	if (isset($obj->Result->SourceIdentifier))
+	{
+		$ia = $obj->Result->SourceIdentifier;
+	}
+
+	return $ia;
+
+}
+
+
 
 $ia = 'telopea8natic';
 
@@ -406,22 +454,112 @@ $ia = 'mobot31753002251079';
 $ia = 'gardensbulletins461unse';
 
 
-ia_download($ia, dirname(__FILE__) . '/' . $config['cache_dir']);
 
-$info = new stdclass;
-$info->identifier =  $ia;
-$info->page_metadata = array();
+// List of BHL Items to add
+$items = array(
+90529,
+49423,
+49419,
+49405,
+48797,
+48795,
+48794,
+49408,
+48796,
+49409,
+49406,
+48798,
 
-ia_scandata($ia, dirname(__FILE__) . '/' . $config['cache_dir'], $info );
+);
 
-bhl_details($ia, dirname(__FILE__) . '/' . $config['cache_dir'], $info );
+// Annales Musei botanici lugduno-batavi
+$items = array(
+2540,
+2543,
+2545,
+2547,
+);
 
-//print_r($info->page_metadata);
+// Prodromus systematis naturalis regni vegetabilis
+$items=array(
+7150,
+7151,
+7152,
+7153,
+7154,
+7155,
+7156,
+7157,
+2477,
+7158,
+7159,
+7160,
+7161,
+7162,
+7163,
+109211,
+7165,
+7166,
+7167,
+7168,
+7169,
+114361,
+114362,
+249664,
+249740,
+251542,
+252387,
+256853,
+256898,
+256946,
+257265,
+257276,
+257288,
+257385,
+257482,
+258862,
+260177,
+262821,
+);
 
-// Manifest
-//create_manifest($ia, dirname(__FILE__) . '/' . $config['cache_dir'], 'http://localhost/~rpage/bhl-ia-iiif-o/cache', $info->page_metadata);
 
-create_manifest_triples($info);
+
+$ias = array();
+
+//$ias = array('mobot31753002456132');
+
+// Get IA identifiers for items
+foreach ($items as $item)
+{
+	$ia = bhl_item_to_ia($item);
+	if ($ia != '')
+	{
+		$ias[] = $ia;
+	}
+}
+
+// Get (unless cached) metadata from IA, generate IIIF manifests
+foreach ($ias as $ia)
+{
+
+
+	ia_download($ia, dirname(__FILE__) . '/' . $config['cache_dir']);
+
+	$info = new stdclass;
+	$info->identifier =  $ia;
+	$info->page_metadata = array();
+
+	ia_scandata($ia, dirname(__FILE__) . '/' . $config['cache_dir'], $info );
+
+	bhl_details($ia, dirname(__FILE__) . '/' . $config['cache_dir'], $info );
+
+	//print_r($info->page_metadata);
+
+	// Manifest
+	//create_manifest($ia, dirname(__FILE__) . '/' . $config['cache_dir'], 'http://localhost/~rpage/bhl-ia-iiif-o/cache', $info->page_metadata);
+
+	create_manifest_triples($info);
+}
 
 ?>
 
