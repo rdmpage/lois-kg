@@ -329,6 +329,12 @@ if (1)
 '10.11646/phytotaxa.63.1.2',	
 	);
 
+$guids=array(
+//'10.11646/phytotaxa.266.2.9',
+//'10.11646/phytotaxa.220.1.6',
+//'10.11646/phytotaxa.334.3.4'
+'10.1016/j.sajb.2017.06.021'
+);
 
 	$force = true;
 	//$force = false;

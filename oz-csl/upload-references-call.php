@@ -246,6 +246,22 @@ $ids=array(
 	//'https://doi.org/10.1007/s10531-013-0595-0',
 	'https://doi.org/10.3897/phytokeys.50.5080',
 	);
+	
+	$ids=array(
+	//'https://doi.org/10.3897/phytokeys.50.5080',
+	//'https://doi.org/10.11646/phytotaxa.266.2.9',
+	//'http://localhost/~rpage/microcitation/www/citations?guid=10.11646/phytotaxa.266.2.9',
+	//'http://localhost/~rpage/microcitation/www/citations?guid=10.11646/phytotaxa.220.1.6'
+	//'http://localhost/~rpage/microcitation/www/citations?guid=10.11646/phytotaxa.334.3.4',
+	//'https://doi.org/10.1080/00837792.2015.1082270',
+	//'https://doi.org/10.1080/00837792.2019.1675956',
+
+	//'https://doi.org/10.1111/njb.02333',
+	//'https://doi.org/10.11609/jott.2708.9.1.9756-9760',
+	
+	'http://localhost/~rpage/microcitation/www/citations?guid=10.1016/j.sajb.2017.06.021',
+
+	);	
 
 
 
