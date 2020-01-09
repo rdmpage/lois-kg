@@ -30,14 +30,19 @@ AS rdf
 FROM names 
 WHERE doi IS NOT NULL";
 
+	// limit to ISSN
+	//$sql .= " AND issn='0021-7662'";
+	
+	$sql .= " AND Publication='Trans. S. African Philos. Soc.'";
+
+/*
 	// JSTOR
 $sql = "SELECT 
 	CONCAT('<urn:lsid:ipni.org:names:', Id, '> <http://rs.tdwg.org/ontology/voc/Common#publishedInCitation> <urn:lsid:ipni.org:names:', Id, '#publishedInCitation> .\n<urn:lsid:ipni.org:names:', Id, '#publishedInCitation> <http://schema.org/sameAs> <https://www.jstor.org/stable/', jstor, '> . ') 
 AS rdf
 FROM names 
 WHERE jstor IS NOT NULL AND doi IS NULL";
-
-
+*/
 	
 	$sql .= ' LIMIT ' . $page . ' OFFSET ' . $offset;
 
