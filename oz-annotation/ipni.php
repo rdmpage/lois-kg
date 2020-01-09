@@ -34,7 +34,13 @@ while (!$done)
 	$sql .= ' WHERE bhl IS NOT NULL';	
 	
 	// limit in some way
-	$sql .= ' AND biostor=146700';
+	//$sql .= ' AND biostor=146700';
+	//$sql .= ' AND Genus="Malleastrum"';
+	//$sql .= ' AND issn="0240-8937"';
+
+	$sql .= ' AND Publication="Prodr. (DC.)"';
+
+	
 	
 	$sql .= ' LIMIT ' . $page . ' OFFSET ' . $offset;
 
@@ -128,7 +134,7 @@ while (!$done)
 	{
 		$offset += $page;
 		
-		if ($offset >= 10) { $done = true; }
+		//if ($offset >= 10) { $done = true; }
 	}
 	
 	

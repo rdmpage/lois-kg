@@ -6,7 +6,18 @@ Use W3C annotations to link taxonomic names to literature, such as pages in BHL,
 
 ### IPNI
 
-Simple link between IPNI LSID and BHL PageID
+Simple link between IPNI LSID and BHL PageID.
+
+```
+php ipni.nt 
+```
+
+Will generate triples as annotations. If you have the BHL item in the triple store as IIIF (see ```oz-iiif`) then you should be able to jump between name and BHL page.
+
+### Making BHL links
+
+To make links, see ```bionames-data/ipni/biostor-to-bhl.php``` to extract BHL pages from BioStor and add them to IPNI database.
+
 
 ## Upload triples
 
