@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>baseURL</key>
-	<string>http://localhost:32769/oz-ipni/_design/authors/_list/triples/nt</string>
+	<string>http://localhost:32769/oz-ipni/_design/names/_list/values/bhl_sql</string>
 	<key>followRedirect</key>
 	<true/>
 	<key>handleJSONPCallbacks</key>
@@ -17,32 +17,7 @@
 	<key>paramBodyUIChoice</key>
 	<integer>0</integer>
 	<key>parameters</key>
-	<array>
-		<dict>
-			<key>inUse</key>
-			<false/>
-			<key>parameter</key>
-			<string>key</string>
-			<key>value</key>
-			<string>"urn:lsid:ipni.org:authors:20023539-1"</string>
-		</dict>
-		<dict>
-			<key>inUse</key>
-			<false/>
-			<key>parameter</key>
-			<string>key</string>
-			<key>value</key>
-			<string>"urn:lsid:ipni.org:authors:20018855-1"</string>
-		</dict>
-		<dict>
-			<key>inUse</key>
-			<false/>
-			<key>parameter</key>
-			<string>key</string>
-			<key>value</key>
-			<string>"urn:lsid:ipni.org:authors:20019089-1"</string>
-		</dict>
-	</array>
+	<array/>
 	<key>parametersType</key>
 	<integer>0</integer>
 	<key>presentBeforeChallenge</key>
