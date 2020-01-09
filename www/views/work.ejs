@@ -112,13 +112,25 @@ if (item['@graph']) {
 				var has_link = false;
 				
 				var sameAs = '';
+				var has_orcid = false;
 				
 
 			    if (item.creator[i].creator[0].sameAs) {
 			    	if (Array.isArray(item.creator[i].creator[0].sameAs)) {
+
+			    		// just pick first sameAs to make hyperlink
 				    	sameAs = item.creator[i].creator[0].sameAs[0];
+				    	
+				    	// are any of the sameAsa links for an ORCID?
+				    	for (var j in item.creator[i].creator[0].sameAs) {
+				    		if (item.creator[i].creator[0].sameAs[j].match(/orcid/)) {
+				    			has_orcid = true;
+				    		}
+				    	}
+				    	
 				    } else {
 				    	sameAs = item.creator[i].creator[0].sameAs;
+				    	has_orcid = sameAs.match(/orcid/);
 				    }
 			    	has_link = true;
 			    }
@@ -136,11 +148,9 @@ if (item['@graph']) {
 			   
 				string += get_literal(item.creator[i].creator[0].name);
 				
-			    if (sameAs != '') {
-			    	if (sameAs.match(/orcid/)) {
-			    		string += '&nbsp;<img src="images/orcid_16x16.png"></a>';
-			    	}
-			    }
+				if (has_orcid) {
+					string += '&nbsp;<img style="vertical-align:baseline" src="images/orcid_16x16.png"></a>';
+				}
 								
 				if (has_link) {
 					string += '</a>';					
