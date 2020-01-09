@@ -2,6 +2,14 @@
 
 Using ORCID API and CouchDB to generate triples linking author ORCID to DOI for a work, and basic triples about a person.
 
+## Manually add
+
+Hand-crafted list of creator -> sameAs -> ORCID triples (e.g., sourced from papers that show links but this is not reflected in CrossRef metadata.
+
+```
+curl http://167.99.58.120:9999/blazegraph/sparql?context-uri=https://orcid.org -H 'Content-Type: text/rdf+n3' --data-binary '@manually-add.nt' --progress-bar | tee /dev/null
+```
+
 ### Clean up
 
 ```
