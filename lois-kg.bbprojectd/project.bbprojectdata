@@ -10,6 +10,7 @@
 		<string>C58577B8-9C68-43D5-97D7-C98B57CDEDC5</string>
 		<string>8D25DBCC-08A5-4B91-90BB-823393239BA7</string>
 		<string>ABEEB9C6-82AA-4DB5-9953-D180B5615BE0</string>
+		<string>86D099DE-84F6-4AD4-8940-7393B3B2F942</string>
 		<string>663631F8-3E74-4C78-BCC5-D646321B576A</string>
 		<string>6EEC66AB-DF5B-4895-9A23-1A5C75DC5498</string>
 		<string>1A9376DB-6437-433E-83D8-4FEDE378C7E5</string>
@@ -21,6 +22,7 @@
 		<string>BFD9608D-A3F9-44FD-B5C4-D7DFC5E382AC</string>
 		<string>4AB9F83E-39F2-4B85-AF77-AE4A84283484</string>
 		<string>98B80A82-0936-49A5-8A97-A70F4FC5CC99</string>
+		<string>1BA953CA-8520-4379-A5E5-F8FE9303AD30</string>
 		<string>7332DBE5-F568-413B-A597-25E1270F254D</string>
 		<string>2E8C4F5A-10C3-41D7-9A6F-9F48FF715F2E</string>
 		<string>8EF02EF0-35EB-473F-A929-7D95AE972FA2</string>
@@ -127,6 +129,54 @@
 			</dict>
 			<key>ItemName</key>
 			<string>issn</string>
+			<key>ItemType</key>
+			<string>FolderReference</string>
+			<key>UserOverrideItemName</key>
+			<true/>
+		</dict>
+		<key>1BA953CA-8520-4379-A5E5-F8FE9303AD30</key>
+		<dict>
+			<key>ItemData</key>
+			<dict>
+				<key>BookmarkData</key>
+				<data>
+				Ym9va+ACAAAAAAQQMAAAAOrGBb9mM1+pxqEnxr5NPLFo
+				ODPf/717PakLOd6MoRz43AEAAAQAAAADAwAAAAgAKAUA
+				AAABAQAAVXNlcnMAAAAFAAAAAQEAAHJwYWdlAAAABQAA
+				AAEBAABTaXRlcwAAAAcAAAABAQAAbG9pcy1rZwAJAAAA
+				AQEAAG96LXBlcnNlZQAAABQAAAABBgAAEAAAACAAAAAw
+				AAAAQAAAAFAAAAAIAAAABAMAABBnAgAAAAAACAAAAAQD
+				AACFdA0AAAAAAAgAAAAEAwAABFZMAAAAAAAIAAAABAMA
+				AMGe2QEDAAAACAAAAAQDAAAnaroCAwAAABQAAAABBgAA
+				gAAAAJAAAACgAAAAsAAAAMAAAAAIAAAAAAQAAEHB3S4n
+				mmbyGAAAAAECAAACAAAAAAAAAA8AAAAAAAAAAAAAAAAA
+				AAAIAAAABAMAAAMAAAAAAAAABAAAAAMDAAD1AQAACAAA
+				AAEJAABmaWxlOi8vLwwAAAABAQAATWFjaW50b3NoIEhE
+				CAAAAAQDAAAA4AQDaQAAAAgAAAAABAAAQb7dXWIAAAAk
+				AAAAAQEAADI1RTQyODZELTcxMkMtMzg5OS1CNDNGLTVE
+				M0Y2QThCRDEyMRgAAAABAgAAgQAAAAEAAADvEwAAAQAA
+				AAAAAAAAAAAAAQAAAAEBAAAvAAAAAAAAAAEFAADMAAAA
+				/v///wEAAAAAAAAAEAAAAAQQAABkAAAAAAAAAAUQAADQ
+				AAAAAAAAABAQAAD8AAAAAAAAAEAQAADsAAAAAAAAAAIg
+				AADIAQAAAAAAAAUgAAA4AQAAAAAAABAgAABIAQAAAAAA
+				ABEgAAB8AQAAAAAAABIgAABcAQAAAAAAABMgAABsAQAA
+				AAAAACAgAACoAQAAAAAAADAgAADUAQAAAAAAAAHAAAAc
+				AQAAAAAAABHAAAAgAAAAAAAAABLAAAAsAQAAAAAAABDQ
+				AAAEAAAAAAAAAA==
+				</data>
+				<key>FileURL</key>
+				<string>file:///Users/rpage/Sites/lois-kg/oz-persee/</string>
+				<key>HasSecurityScope</key>
+				<true/>
+				<key>RelativePath</key>
+				<string>./oz-persee</string>
+				<key>TypeID</key>
+				<string>_CFileLocator</string>
+				<key>Version</key>
+				<integer>1</integer>
+			</dict>
+			<key>ItemName</key>
+			<string>oz-persee</string>
 			<key>ItemType</key>
 			<string>FolderReference</string>
 			<key>UserOverrideItemName</key>
@@ -611,6 +661,54 @@
 			</dict>
 			<key>ItemName</key>
 			<string>www</string>
+			<key>ItemType</key>
+			<string>FolderReference</string>
+			<key>UserOverrideItemName</key>
+			<true/>
+		</dict>
+		<key>86D099DE-84F6-4AD4-8940-7393B3B2F942</key>
+		<dict>
+			<key>ItemData</key>
+			<dict>
+				<key>BookmarkData</key>
+				<data>
+				Ym9va9gCAAAAAAQQMAAAAJ+AYlozCYPUjsXBIvn2zHgK
+				RVlIH6R1oDdhb0e5M8IF1AEAAAQAAAADAwAAAAgAKAUA
+				AAABAQAAVXNlcnMAAAAFAAAAAQEAAHJwYWdlAAAABQAA
+				AAEBAABTaXRlcwAAAAcAAAABAQAAbG9pcy1rZwAEAAAA
+				AQEAAGdsdWUUAAAAAQYAABAAAAAgAAAAMAAAAEAAAABQ
+				AAAACAAAAAQDAAAQZwIAAAAAAAgAAAAEAwAAhXQNAAAA
+				AAAIAAAABAMAAARWTAAAAAAACAAAAAQDAADBntkBAwAA
+				AAgAAAAEAwAAoQ+qAgMAAAAUAAAAAQYAAHgAAACIAAAA
+				mAAAAKgAAAC4AAAACAAAAAAEAABBwdPuAH5hxRgAAAAB
+				AgAAAgAAAAAAAAAPAAAAAAAAAAAAAAAAAAAACAAAAAQD
+				AAADAAAAAAAAAAQAAAADAwAA9QEAAAgAAAABCQAAZmls
+				ZTovLy8MAAAAAQEAAE1hY2ludG9zaCBIRAgAAAAEAwAA
+				AOAEA2kAAAAIAAAAAAQAAEG+3V1iAAAAJAAAAAEBAAAy
+				NUU0Mjg2RC03MTJDLTM4OTktQjQzRi01RDNGNkE4QkQx
+				MjEYAAAAAQIAAIEAAAABAAAA7xMAAAEAAAAAAAAAAAAA
+				AAEAAAABAQAALwAAAAAAAAABBQAAzAAAAP7///8BAAAA
+				AAAAABAAAAAEEAAAXAAAAAAAAAAFEAAAyAAAAAAAAAAQ
+				EAAA9AAAAAAAAABAEAAA5AAAAAAAAAACIAAAwAEAAAAA
+				AAAFIAAAMAEAAAAAAAAQIAAAQAEAAAAAAAARIAAAdAEA
+				AAAAAAASIAAAVAEAAAAAAAATIAAAZAEAAAAAAAAgIAAA
+				oAEAAAAAAAAwIAAAzAEAAAAAAAABwAAAFAEAAAAAAAAR
+				wAAAIAAAAAAAAAASwAAAJAEAAAAAAAAQ0AAABAAAAAAA
+				AAA=
+				</data>
+				<key>FileURL</key>
+				<string>file:///Users/rpage/Sites/lois-kg/glue/</string>
+				<key>HasSecurityScope</key>
+				<true/>
+				<key>RelativePath</key>
+				<string>./glue</string>
+				<key>TypeID</key>
+				<string>_CFileLocator</string>
+				<key>Version</key>
+				<integer>1</integer>
+			</dict>
+			<key>ItemName</key>
+			<string>glue</string>
 			<key>ItemType</key>
 			<string>FolderReference</string>
 			<key>UserOverrideItemName</key>
