@@ -1,0 +1,13 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Natalia Contreras-Ortiz",
+    "image": "https://i1.rgstatic.net/ii/profile.image/697951991119874-1543416130480_Q128/Natalia_Contreras-Ortiz.jpg",
+    "mainEntityOfPage": "https://www.researchgate.net/profile/Natalia_Contreras-Ortiz",
+    "url": "https://www.researchgate.net/profile/Natalia_Contreras-Ortiz",
+    "affiliation": {
+        "@type": "Organization",
+        "name": "Royal Botanic Garden Edinburgh",
+        "url": "https://www.researchgate.net/institution/Royal_Botanic_Garden_Edinburgh"
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Markus Ruhsam",
+    "image": "https://i1.rgstatic.net/ii/profile.image/272475942551621-1441974735929_Q128/Markus_Ruhsam.jpg",
+    "mainEntityOfPage": "https://www.researchgate.net/profile/Markus_Ruhsam",
+    "url": "https://www.researchgate.net/profile/Markus_Ruhsam",
+    "affiliation": {
+        "@type": "Organization",
+        "name": "Royal Botanic Garden Edinburgh",
+        "url": "https://www.researchgate.net/institution/Royal_Botanic_Garden_Edinburgh"
+    }
+}

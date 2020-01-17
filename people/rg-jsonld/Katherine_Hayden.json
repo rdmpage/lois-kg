@@ -1,0 +1,13 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Katherine Hayden",
+    "image": "https://i1.rgstatic.net/ii/profile.image/278715759120397-1443462423944_Q128/Katherine_Hayden.jpg",
+    "mainEntityOfPage": "https://www.researchgate.net/profile/Katherine_Hayden",
+    "url": "https://www.researchgate.net/profile/Katherine_Hayden",
+    "affiliation": {
+        "@type": "Organization",
+        "name": "Royal Botanic Garden Edinburgh",
+        "url": "https://www.researchgate.net/institution/Royal_Botanic_Garden_Edinburgh"
+    }
+}

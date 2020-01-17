@@ -1,0 +1,13 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Laura Keddie",
+    "image": "https://i1.rgstatic.net/ii/profile.image/602561044312076-1520673156398_Q128/Laura_Keddie.jpg",
+    "mainEntityOfPage": "https://www.researchgate.net/profile/Laura_Keddie",
+    "url": "https://www.researchgate.net/profile/Laura_Keddie",
+    "affiliation": {
+        "@type": "Organization",
+        "name": "Royal Botanic Garden Edinburgh",
+        "url": "https://www.researchgate.net/institution/Royal_Botanic_Garden_Edinburgh"
+    }
+}

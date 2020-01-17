@@ -1,0 +1,13 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "David G. Mann",
+    "image": "https://i1.rgstatic.net/ii/profile.image/277615186333707-1443200026390_Q128/David_Mann6.jpg",
+    "mainEntityOfPage": "https://www.researchgate.net/profile/David_Mann6",
+    "url": "https://www.researchgate.net/profile/David_Mann6",
+    "affiliation": {
+        "@type": "Organization",
+        "name": "Royal Botanic Garden Edinburgh",
+        "url": "https://www.researchgate.net/institution/Royal_Botanic_Garden_Edinburgh"
+    }
+}

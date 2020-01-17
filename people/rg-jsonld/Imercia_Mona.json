@@ -1,0 +1,13 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Imercia Gracious Mona",
+    "image": "https://i1.rgstatic.net/ii/profile.image/513402181087232-1499416026705_Q128/Imercia_Mona.jpg",
+    "mainEntityOfPage": "https://www.researchgate.net/profile/Imercia_Mona",
+    "url": "https://www.researchgate.net/profile/Imercia_Mona",
+    "affiliation": {
+        "@type": "Organization",
+        "name": "University of KwaZulu-Natal, Durban | ukzn",
+        "url": "https://www.researchgate.net/institution/University_of_KwaZulu-Natal"
+    }
+}

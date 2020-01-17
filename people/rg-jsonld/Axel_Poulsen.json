@@ -1,0 +1,13 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Axel Dalberg Poulsen",
+    "image": "https://i1.rgstatic.net/ii/profile.image/677276597383171-1538486732798_Q128/Axel_Poulsen.jpg",
+    "mainEntityOfPage": "https://www.researchgate.net/profile/Axel_Poulsen",
+    "url": "https://www.researchgate.net/profile/Axel_Poulsen",
+    "affiliation": {
+        "@type": "Organization",
+        "name": "Royal Botanic Garden Edinburgh",
+        "url": "https://www.researchgate.net/institution/Royal_Botanic_Garden_Edinburgh"
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Diego Sánchez-Ganfornina",
+    "image": "https://i1.rgstatic.net/ii/profile.image/612498461978626-1523042421660_Q128/Diego_Sanchez-Ganfornina.jpg",
+    "mainEntityOfPage": "https://www.researchgate.net/profile/Diego_Sanchez-Ganfornina",
+    "url": "https://www.researchgate.net/profile/Diego_Sanchez-Ganfornina",
+    "affiliation": {
+        "@type": "Organization",
+        "name": "Royal Botanic Garden Edinburgh",
+        "url": "https://www.researchgate.net/institution/Royal_Botanic_Garden_Edinburgh"
+    },
+    "award": [
+        "Award: Completion of Tropical Plant Identification Field Course"
+    ]
+}

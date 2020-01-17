@@ -1,0 +1,13 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Kanae Nishii",
+    "image": "https://i1.rgstatic.net/ii/profile.image/657749796982785-1533831180524_Q128/Kanae_Nishii.jpg",
+    "mainEntityOfPage": "https://www.researchgate.net/profile/Kanae_Nishii",
+    "url": "https://www.researchgate.net/profile/Kanae_Nishii",
+    "affiliation": {
+        "@type": "Organization",
+        "name": "Royal Botanic Garden Edinburgh",
+        "url": "https://www.researchgate.net/institution/Royal_Botanic_Garden_Edinburgh"
+    }
+}

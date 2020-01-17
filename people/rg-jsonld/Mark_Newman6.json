@@ -1,0 +1,13 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Mark Fleming Newman",
+    "image": "https://i1.rgstatic.net/ii/profile.image/475019525529601-1490264888497_Q128/Mark_Newman6.jpg",
+    "mainEntityOfPage": "https://www.researchgate.net/profile/Mark_Newman6",
+    "url": "https://www.researchgate.net/profile/Mark_Newman6",
+    "affiliation": {
+        "@type": "Organization",
+        "name": "Royal Botanic Garden Edinburgh",
+        "url": "https://www.researchgate.net/institution/Royal_Botanic_Garden_Edinburgh"
+    }
+}

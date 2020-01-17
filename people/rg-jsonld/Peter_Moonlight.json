@@ -1,0 +1,13 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Peter Moonlight",
+    "image": "https://i1.rgstatic.net/ii/profile.image/635352175890433-1528491171111_Q128/Peter_Moonlight.jpg",
+    "mainEntityOfPage": "https://www.researchgate.net/profile/Peter_Moonlight",
+    "url": "https://www.researchgate.net/profile/Peter_Moonlight",
+    "affiliation": {
+        "@type": "Organization",
+        "name": "Royal Botanic Garden Edinburgh",
+        "url": "https://www.researchgate.net/institution/Royal_Botanic_Garden_Edinburgh"
+    }
+}

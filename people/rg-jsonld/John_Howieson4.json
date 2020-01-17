@@ -1,0 +1,19 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "John Howieson",
+    "image": "https://i1.rgstatic.net/ii/profile.image/788998947631104-1565123416729_Q128/John_Howieson4.jpg",
+    "mainEntityOfPage": "https://www.researchgate.net/profile/John_Howieson4",
+    "url": "https://www.researchgate.net/profile/John_Howieson4",
+    "affiliation": {
+        "@type": "Organization",
+        "name": "Royal Botanic Garden Edinburgh",
+        "url": "https://www.researchgate.net/institution/Royal_Botanic_Garden_Edinburgh"
+    },
+    "award": [
+        "RBGE Award - For Obtaining Distinction for the MSc Biodiversity and Taxonomy of Plants Thesis",
+        "RBGE - MSc Biodiversity and Taxonomy of Plants Best Thesis Award",
+        "RBGE - Certificate in Field Botany with Distinction",
+        "Field Studies Council - British Marine Species Identification Field Course"
+    ]
+}

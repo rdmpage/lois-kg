@@ -1,0 +1,13 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Christopher Walker",
+    "image": "https://i1.rgstatic.net/ii/profile.image/583389670580224-1516102344340_Q128/Christopher_Walker5.jpg",
+    "mainEntityOfPage": "https://www.researchgate.net/profile/Christopher_Walker5",
+    "url": "https://www.researchgate.net/profile/Christopher_Walker5",
+    "affiliation": {
+        "@type": "Organization",
+        "name": "Royal Botanic Garden Edinburgh",
+        "url": "https://www.researchgate.net/institution/Royal_Botanic_Garden_Edinburgh"
+    }
+}

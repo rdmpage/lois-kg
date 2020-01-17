@@ -1,0 +1,13 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Gail L. Stott",
+    "image": "https://i1.rgstatic.net/ii/profile.image/810184528121865-1570174452790_Q128/Gail_Stott.jpg",
+    "mainEntityOfPage": "https://www.researchgate.net/profile/Gail_Stott",
+    "url": "https://www.researchgate.net/profile/Gail_Stott",
+    "affiliation": {
+        "@type": "Organization",
+        "name": "Royal Botanic Garden Edinburgh",
+        "url": "https://www.researchgate.net/institution/Royal_Botanic_Garden_Edinburgh"
+    }
+}

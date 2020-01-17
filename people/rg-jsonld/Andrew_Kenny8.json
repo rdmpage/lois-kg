@@ -1,0 +1,13 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Andrew Kenny",
+    "image": "https://i1.rgstatic.net/ii/profile.image/689912076582913-1541499265872_Q128/Andrew_Kenny8.jpg",
+    "mainEntityOfPage": "https://www.researchgate.net/profile/Andrew_Kenny8",
+    "url": "https://www.researchgate.net/profile/Andrew_Kenny8",
+    "affiliation": {
+        "@type": "Organization",
+        "name": "Royal Botanic Garden Edinburgh",
+        "url": "https://www.researchgate.net/institution/Royal_Botanic_Garden_Edinburgh"
+    }
+}

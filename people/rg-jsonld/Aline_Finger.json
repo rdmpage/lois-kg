@@ -1,0 +1,13 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Aline Finger",
+    "image": "https://i1.rgstatic.net/ii/profile.image/277542993973259-1443182814718_Q128/Aline_Finger.jpg",
+    "mainEntityOfPage": "https://www.researchgate.net/profile/Aline_Finger",
+    "url": "https://www.researchgate.net/profile/Aline_Finger",
+    "affiliation": {
+        "@type": "Organization",
+        "name": "Royal Botanic Garden Edinburgh",
+        "url": "https://www.researchgate.net/institution/Royal_Botanic_Garden_Edinburgh"
+    }
+}

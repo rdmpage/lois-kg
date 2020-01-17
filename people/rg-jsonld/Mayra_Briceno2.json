@@ -1,0 +1,13 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Mayra Briceño",
+    "image": "https://i1.rgstatic.net/ii/profile.image/796177649909760-1566834952040_Q128/Mayra_Briceno2.jpg",
+    "mainEntityOfPage": "https://www.researchgate.net/profile/Mayra_Briceno2",
+    "url": "https://www.researchgate.net/profile/Mayra_Briceno2",
+    "affiliation": {
+        "@type": "Organization",
+        "name": "Royal Botanic Garden Edinburgh",
+        "url": "https://www.researchgate.net/institution/Royal_Botanic_Garden_Edinburgh"
+    }
+}

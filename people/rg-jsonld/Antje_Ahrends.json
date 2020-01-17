@@ -1,0 +1,13 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Antje Ahrends",
+    "image": "https://i1.rgstatic.net/ii/profile.image/440238788091905-1481972514086_Q128/Antje_Ahrends.jpg",
+    "mainEntityOfPage": "https://www.researchgate.net/profile/Antje_Ahrends",
+    "url": "https://www.researchgate.net/profile/Antje_Ahrends",
+    "affiliation": {
+        "@type": "Organization",
+        "name": "Royal Botanic Garden Edinburgh",
+        "url": "https://www.researchgate.net/institution/Royal_Botanic_Garden_Edinburgh"
+    }
+}

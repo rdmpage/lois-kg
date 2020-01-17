@@ -1,0 +1,13 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Louis P. Ronse De Craene",
+    "image": "https://i1.rgstatic.net/ii/profile.image/272635988803593-1442012893532_Q128/Louis_Ronse_De_Craene.jpg",
+    "mainEntityOfPage": "https://www.researchgate.net/profile/Louis_Ronse_De_Craene",
+    "url": "https://www.researchgate.net/profile/Louis_Ronse_De_Craene",
+    "affiliation": {
+        "@type": "Organization",
+        "name": "Royal Botanic Garden Edinburgh",
+        "url": "https://www.researchgate.net/institution/Royal_Botanic_Garden_Edinburgh"
+    }
+}

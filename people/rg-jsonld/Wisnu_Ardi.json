@@ -1,0 +1,13 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Wisnu Ardi",
+    "image": "https://i1.rgstatic.net/ii/profile.image/272197180719175-1441908273875_Q128/Wisnu_Ardi.jpg",
+    "mainEntityOfPage": "https://www.researchgate.net/profile/Wisnu_Ardi",
+    "url": "https://www.researchgate.net/profile/Wisnu_Ardi",
+    "affiliation": {
+        "@type": "Organization",
+        "name": "Research Center for Plant Conservation and Botanic Gardens-LIPI",
+        "url": null
+    }
+}

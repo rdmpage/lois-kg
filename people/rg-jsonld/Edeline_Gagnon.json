@@ -1,0 +1,13 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Edeline Gagnon",
+    "image": "https://i1.rgstatic.net/ii/profile.image/428354231902212-1479139015817_Q128/Edeline_Gagnon.jpg",
+    "mainEntityOfPage": "https://www.researchgate.net/profile/Edeline_Gagnon",
+    "url": "https://www.researchgate.net/profile/Edeline_Gagnon",
+    "affiliation": {
+        "@type": "Organization",
+        "name": "Royal Botanic Garden Edinburgh",
+        "url": "https://www.researchgate.net/institution/Royal_Botanic_Garden_Edinburgh"
+    }
+}

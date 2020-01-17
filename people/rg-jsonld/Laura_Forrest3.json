@@ -1,0 +1,13 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Laura Lowe Forrest",
+    "image": "https://i1.rgstatic.net/ii/profile.image/276919292579840-1443034112047_Q128/Laura_Forrest3.jpg",
+    "mainEntityOfPage": "https://www.researchgate.net/profile/Laura_Forrest3",
+    "url": "https://www.researchgate.net/profile/Laura_Forrest3",
+    "affiliation": {
+        "@type": "Organization",
+        "name": "Royal Botanic Garden Edinburgh",
+        "url": "https://www.researchgate.net/institution/Royal_Botanic_Garden_Edinburgh"
+    }
+}

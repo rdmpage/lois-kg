@@ -1,0 +1,13 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Robert Cubey",
+    "image": "https://i1.rgstatic.net/ii/profile.image/300334359564289-1448616699567_Q128/Robert_Cubey.jpg",
+    "mainEntityOfPage": "https://www.researchgate.net/profile/Robert_Cubey",
+    "url": "https://www.researchgate.net/profile/Robert_Cubey",
+    "affiliation": {
+        "@type": "Organization",
+        "name": "Royal Botanic Garden Edinburgh",
+        "url": "https://www.researchgate.net/institution/Royal_Botanic_Garden_Edinburgh"
+    }
+}

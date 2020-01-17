@@ -1,0 +1,13 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Rebecca Hilgenhof",
+    "image": "https://i1.rgstatic.net/ii/profile.image/483309781295104-1492241439485_Q128/Rebecca_Hilgenhof.jpg",
+    "mainEntityOfPage": "https://www.researchgate.net/profile/Rebecca_Hilgenhof",
+    "url": "https://www.researchgate.net/profile/Rebecca_Hilgenhof",
+    "affiliation": {
+        "@type": "Organization",
+        "name": "Royal Botanic Garden Edinburgh",
+        "url": "https://www.researchgate.net/institution/Royal_Botanic_Garden_Edinburgh"
+    }
+}

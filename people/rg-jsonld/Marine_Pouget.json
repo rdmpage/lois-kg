@@ -1,0 +1,13 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Marine Pouget",
+    "image": "https://i1.rgstatic.net/ii/profile.image/278859783131144-1443496761389_Q128/Marine_Pouget.jpg",
+    "mainEntityOfPage": "https://www.researchgate.net/profile/Marine_Pouget",
+    "url": "https://www.researchgate.net/profile/Marine_Pouget",
+    "affiliation": {
+        "@type": "Organization",
+        "name": "Royal Botanic Garden Edinburgh",
+        "url": "https://www.researchgate.net/institution/Royal_Botanic_Garden_Edinburgh"
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Camila Quinteros Peñafiel",
+    "image": "https://i1.rgstatic.net/ii/profile.image/482669772447745-1492088849591_Q128/Camila_Quinteros_Penafiel.jpg",
+    "mainEntityOfPage": "https://www.researchgate.net/profile/Camila_Quinteros_Penafiel",
+    "url": "https://www.researchgate.net/profile/Camila_Quinteros_Penafiel",
+    "affiliation": {
+        "@type": "Organization",
+        "name": "Royal Botanic Garden Edinburgh",
+        "url": "https://www.researchgate.net/institution/Royal_Botanic_Garden_Edinburgh"
+    }
+}

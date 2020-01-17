@@ -1,0 +1,13 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Neil E Bell",
+    "image": "https://i1.rgstatic.net/ii/profile.image/276897217957890-1443028849247_Q128/Neil_Bell.jpg",
+    "mainEntityOfPage": "https://www.researchgate.net/profile/Neil_Bell",
+    "url": "https://www.researchgate.net/profile/Neil_Bell",
+    "affiliation": {
+        "@type": "Organization",
+        "name": "Royal Botanic Garden Edinburgh",
+        "url": "https://www.researchgate.net/institution/Royal_Botanic_Garden_Edinburgh"
+    }
+}

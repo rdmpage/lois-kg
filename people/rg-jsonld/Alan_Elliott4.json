@@ -1,0 +1,13 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Alan Elliott",
+    "image": "https://i1.rgstatic.net/ii/profile.image/811641578991643-1570521840982_Q128/Alan_Elliott4.jpg",
+    "mainEntityOfPage": "https://www.researchgate.net/profile/Alan_Elliott4",
+    "url": "https://www.researchgate.net/profile/Alan_Elliott4",
+    "affiliation": {
+        "@type": "Organization",
+        "name": "Royal Botanic Garden Edinburgh",
+        "url": "https://www.researchgate.net/institution/Royal_Botanic_Garden_Edinburgh"
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Robert Douglas Stone",
+    "image": "https://i1.rgstatic.net/ii/profile.image/648014272135168-1531510050016_Q128/Robert_Stone21.jpg",
+    "mainEntityOfPage": "https://www.researchgate.net/profile/Robert_Stone21",
+    "url": "https://www.researchgate.net/profile/Robert_Stone21",
+    "affiliation": {
+        "@type": "Organization",
+        "name": "University of KwaZulu-Natal, Durban | ukzn",
+        "url": "https://www.researchgate.net/institution/University_of_KwaZulu-Natal"
+    }
+}

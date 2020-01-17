@@ -1,0 +1,13 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Louise Olley",
+    "image": "https://i1.rgstatic.net/ii/profile.image/428630930137091-1479204985656_Q128/Louise_Olley2.jpg",
+    "mainEntityOfPage": "https://www.researchgate.net/profile/Louise_Olley2",
+    "url": "https://www.researchgate.net/profile/Louise_Olley2",
+    "affiliation": {
+        "@type": "Organization",
+        "name": "Royal Botanic Garden Edinburgh",
+        "url": "https://www.researchgate.net/institution/Royal_Botanic_Garden_Edinburgh"
+    }
+}

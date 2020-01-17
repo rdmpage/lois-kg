@@ -1,0 +1,13 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Elspeth Haston",
+    "image": "https://i1.rgstatic.net/ii/profile.image/277026293469194-1443059623989_Q128/Elspeth_Haston.jpg",
+    "mainEntityOfPage": "https://www.researchgate.net/profile/Elspeth_Haston",
+    "url": "https://www.researchgate.net/profile/Elspeth_Haston",
+    "affiliation": {
+        "@type": "Organization",
+        "name": "Royal Botanic Garden Edinburgh",
+        "url": "https://www.researchgate.net/institution/Royal_Botanic_Garden_Edinburgh"
+    }
+}

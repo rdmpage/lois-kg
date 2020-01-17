@@ -1,0 +1,13 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Syd Ramdhani",
+    "image": "https://i1.rgstatic.net/ii/profile.image/752639339929600-1556454610457_Q128/Syd_Ramdhani.jpg",
+    "mainEntityOfPage": "https://www.researchgate.net/profile/Syd_Ramdhani",
+    "url": "https://www.researchgate.net/profile/Syd_Ramdhani",
+    "affiliation": {
+        "@type": "Organization",
+        "name": "University of KwaZulu-Natal, Durban | ukzn",
+        "url": "https://www.researchgate.net/institution/University_of_KwaZulu-Natal"
+    }
+}
