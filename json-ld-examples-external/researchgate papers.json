@@ -1,0 +1,591 @@
+{
+  "@context": "https:\/\/schema.org\/",
+  "@type": "ScholarlyArticle",
+  "datePublished": "2013-01-31",
+  "headline": "A new species of Zingiber (Zingiberaceae) from Northeast India",
+  "mainEntityOfPage": "https:\/\/www.researchgate.net\/publication\/277456692_A_new_species_of_Zingiber_Zingiberaceae_from_Northeast_India",
+  "image": "https:\/\/www.researchgate.net\/images\/template\/default_publication_preview_large.png",
+  "author": [{
+    "@context": "https:\/\/schema.org\/",
+    "@type": "Person",
+    "name": "Ramesh Kumar",
+    "url": "https:\/\/www.researchgate.net\/profile\/Ramesh_Kumar213",
+    "image": "https:\/\/c5.rgstatic.net\/m\/4671872220764\/images\/template\/default\/profile\/profile_default_m.jpg",
+    "memberOf": {
+      "@context": "https:\/\/schema.org\/",
+      "@type": "Organization",
+      "name": "Botanical Survey of India"
+    }
+  }, {
+    "@context": "https:\/\/schema.org\/",
+    "@type": "Person",
+    "name": "J.D. Mood",
+    "url": "https:\/\/www.researchgate.net\/scientific-contributions\/59259956_JD_Mood",
+    "image": "https:\/\/c5.rgstatic.net\/m\/435982309481010\/images\/template\/default\/author\/author_default_m.jpg"
+  }, {
+    "@context": "https:\/\/schema.org\/",
+    "@type": "Person",
+    "name": "S.K. Singh",
+    "url": "https:\/\/www.researchgate.net\/profile\/Sk_Singh10",
+    "image": "https:\/\/i1.rgstatic.net\/ii\/profile.image\/573575807881216-1513762537154_Q64\/Sk_Singh10.jpg",
+    "memberOf": {
+      "@context": "https:\/\/schema.org\/",
+      "@type": "Organization",
+      "name": "Botanical Survey of India"
+    }
+  }, {
+    "@context": "https:\/\/schema.org\/",
+    "@type": "Person",
+    "name": "Bk Sinha",
+    "url": "https:\/\/www.researchgate.net\/profile\/Bk_Sinha",
+    "image": "https:\/\/i1.rgstatic.net\/ii\/profile.image\/280222499917867-1443821659059_Q64\/Bk_Sinha.jpg",
+    "memberOf": {
+      "@context": "https:\/\/schema.org\/",
+      "@type": "Organization",
+      "name": "Botanical Survey of India"
+    }
+  }],
+  "citation": [{
+    "@context": "https:\/\/schema.org\/",
+    "@type": "ScholarlyArticle",
+    "datePublished": "2020-01-12",
+    "headline": "Scitamineae",
+    "mainEntityOfPage": "https:\/\/www.researchgate.net\/publication\/294696783_Scitamineae",
+    "author": [{
+      "@context": "https:\/\/schema.org\/",
+      "@type": "Person",
+      "name": "J.G. Baker",
+      "url": "https:\/\/www.researchgate.net\/scientific-contributions\/2099296561_JG_Baker",
+      "image": "https:\/\/c5.rgstatic.net\/m\/435982309481010\/images\/template\/default\/author\/author_default_m.jpg"
+    }]
+  }, {
+    "@context": "https:\/\/schema.org\/",
+    "@type": "ScholarlyArticle",
+    "datePublished": "2011-10-01",
+    "headline": "Newmania: A new ginger genus from central Vietnam",
+    "mainEntityOfPage": "https:\/\/www.researchgate.net\/publication\/233570040_Newmania_A_new_ginger_genus_from_central_Vietnam",
+    "author": [{
+      "@context": "https:\/\/schema.org\/",
+      "@type": "Person",
+      "name": "Jana Leong-Skornickova",
+      "url": "https:\/\/www.researchgate.net\/profile\/Jana_Leong-Skornickova",
+      "image": "https:\/\/i1.rgstatic.net\/ii\/profile.image\/387896373727233-1469493110212_Q64\/Jana_Leong-Skornickova.jpg",
+      "memberOf": {
+        "@context": "https:\/\/schema.org\/",
+        "@type": "Organization",
+        "name": "Singapore Botanic Gardens"
+      }
+    }, {
+      "@context": "https:\/\/schema.org\/",
+      "@type": "Person",
+      "name": "Ngoc-Sam Ly",
+      "url": "https:\/\/www.researchgate.net\/profile\/Ngoc_Sam_Ly",
+      "image": "https:\/\/i1.rgstatic.net\/ii\/profile.image\/373679088259072-1466103445114_Q64\/Ngoc_Sam_Ly.jpg",
+      "memberOf": {
+        "@context": "https:\/\/schema.org\/",
+        "@type": "Organization",
+        "name": "Institute of Tropical Biology"
+      }
+    }, {
+      "@context": "https:\/\/schema.org\/",
+      "@type": "Person",
+      "name": "Axel Dalberg Poulsen",
+      "url": "https:\/\/www.researchgate.net\/profile\/Axel_Poulsen",
+      "image": "https:\/\/i1.rgstatic.net\/ii\/profile.image\/677276597383171-1538486732798_Q64\/Axel_Poulsen.jpg",
+      "memberOf": {
+        "@context": "https:\/\/schema.org\/",
+        "@type": "Organization",
+        "name": "Royal Botanic Garden Edinburgh"
+      }
+    }, {
+      "@context": "https:\/\/schema.org\/",
+      "@type": "Person",
+      "name": "Alan Forrest",
+      "url": "https:\/\/www.researchgate.net\/profile\/Alan_Forrest",
+      "image": "https:\/\/i1.rgstatic.net\/ii\/profile.image\/272563628670988-1441995641912_Q64\/Alan_Forrest.jpg",
+      "memberOf": {
+        "@context": "https:\/\/schema.org\/",
+        "@type": "Organization",
+        "name": "Royal Botanic Garden Edinburgh"
+      }
+    }],
+    "publisher": {
+      "@context": "https:\/\/schema.org\/",
+      "@type": "Organization",
+      "name": "Taxon",
+      "url": "http:\/\/www.biologie.uni-hamburg.de\/b-online\/ibc99\/iapt\/defaulttaxon.htm"
+    }
+  }, {
+    "@context": "https:\/\/schema.org\/",
+    "@type": "ScholarlyArticle",
+    "datePublished": "2010-11-01",
+    "headline": "Larsenianthus , a New Asian Genus of Gingers (Zingiberaceae) with Four Species",
+    "mainEntityOfPage": "https:\/\/www.researchgate.net\/publication\/51881276_Larsenianthus_a_New_Asian_Genus_of_Gingers_Zingiberaceae_with_Four_Species",
+    "author": [{
+      "@context": "https:\/\/schema.org\/",
+      "@type": "Person",
+      "name": "W. John Kress",
+      "url": "https:\/\/www.researchgate.net\/scientific-contributions\/57372825_W_John_Kress",
+      "image": "https:\/\/c5.rgstatic.net\/m\/435982309481010\/images\/template\/default\/author\/author_default_m.jpg"
+    }, {
+      "@context": "https:\/\/schema.org\/",
+      "@type": "Person",
+      "name": "J.D. Mood",
+      "url": "https:\/\/www.researchgate.net\/scientific-contributions\/59259956_JD_Mood",
+      "image": "https:\/\/c5.rgstatic.net\/m\/435982309481010\/images\/template\/default\/author\/author_default_m.jpg"
+    }, {
+      "@context": "https:\/\/schema.org\/",
+      "@type": "Person",
+      "name": "Sabu Mamiyil",
+      "url": "https:\/\/www.researchgate.net\/profile\/Sabu_Mamiyil",
+      "image": "https:\/\/i1.rgstatic.net\/ii\/profile.image\/503372886941696-1497024856055_Q64\/Sabu_Mamiyil.jpg",
+      "memberOf": {
+        "@context": "https:\/\/schema.org\/",
+        "@type": "Organization",
+        "name": "University of Calicut"
+      }
+    }, {
+      "@context": "https:\/\/schema.org\/",
+      "@type": "Person",
+      "name": "Sanoj Edakkandiyil",
+      "url": "https:\/\/www.researchgate.net\/profile\/Sanoj_Edakkandiyil",
+      "image": "https:\/\/i1.rgstatic.net\/ii\/profile.image\/278669097488384-1443451298052_Q64\/Sanoj_Edakkandiyil.jpg",
+      "memberOf": {
+        "@context": "https:\/\/schema.org\/",
+        "@type": "Organization",
+        "name": "Zamorin's Guruvayurapan College"
+      }
+    }],
+    "publisher": {
+      "@context": "https:\/\/schema.org\/",
+      "@type": "Organization",
+      "name": "PhytoKeys",
+      "url": "http:\/\/www.pensoft.net\/journals\/phytokeys"
+    }
+  }, {
+    "@context": "https:\/\/schema.org\/",
+    "@type": "ScholarlyArticle",
+    "datePublished": "2019-07-01",
+    "headline": "Zingiber perenense, a new species in Zingiber section Cryptanthium (Zingiberaceae) from Nagaland, India",
+    "mainEntityOfPage": "https:\/\/www.researchgate.net\/publication\/334171947_Zingiber_perenense_a_new_species_in_Zingiber_section_Cryptanthium_Zingiberaceae_from_Nagaland_India",
+    "author": [{
+      "@context": "https:\/\/schema.org\/",
+      "@type": "Person",
+      "name": "Nripemo Odyuo",
+      "url": "https:\/\/www.researchgate.net\/profile\/Nripemo_Odyuo",
+      "image": "https:\/\/i1.rgstatic.net\/ii\/profile.image\/657589205495810-1533792892690_Q64\/Nripemo_Odyuo.jpg",
+      "memberOf": {
+        "@context": "https:\/\/schema.org\/",
+        "@type": "Organization",
+        "name": "Botanical Survey fo India"
+      }
+    }, {
+      "@context": "https:\/\/schema.org\/",
+      "@type": "Person",
+      "name": "Dilip Kr. Roy",
+      "url": "https:\/\/www.researchgate.net\/profile\/Dilip_Kr_Roy",
+      "image": "https:\/\/i1.rgstatic.net\/ii\/profile.image\/303916372168705-1449470717804_Q64\/Dilip_Kr_Roy.jpg",
+      "memberOf": {
+        "@context": "https:\/\/schema.org\/",
+        "@type": "Organization",
+        "name": "Botanical Survey of India, Shillong"
+      }
+    }, {
+      "@context": "https:\/\/schema.org\/",
+      "@type": "Person",
+      "name": "Chalbasson Lyngwa",
+      "url": "https:\/\/www.researchgate.net\/scientific-contributions\/2159356546_Chalbasson_Lyngwa",
+      "image": "https:\/\/c5.rgstatic.net\/m\/435982309481010\/images\/template\/default\/author\/author_default_m.jpg"
+    }, {
+      "@context": "https:\/\/schema.org\/",
+      "@type": "Person",
+      "name": "A. A. Mao",
+      "url": "https:\/\/www.researchgate.net\/profile\/A_Mao",
+      "image": "https:\/\/i1.rgstatic.net\/ii\/profile.image\/526099911909377-1502443401216_Q64\/A_Mao.jpg",
+      "memberOf": {
+        "@context": "https:\/\/schema.org\/",
+        "@type": "Organization",
+        "name": "Botanical Survey of India, Shillong"
+      }
+    }]
+  }, {
+    "@context": "https:\/\/schema.org\/",
+    "@type": "ScholarlyArticle",
+    "datePublished": "2019-05-20",
+    "headline": "Zingiber dimapurense (Zingiberace), a new species from Nagaland, India",
+    "mainEntityOfPage": "https:\/\/www.researchgate.net\/publication\/333246598_Zingiber_dimapurense_Zingiberace_a_new_species_from_Nagaland_India",
+    "author": [{
+      "@context": "https:\/\/schema.org\/",
+      "@type": "Person",
+      "name": "Nripemo Odyuo",
+      "url": "https:\/\/www.researchgate.net\/profile\/Nripemo_Odyuo",
+      "image": "https:\/\/i1.rgstatic.net\/ii\/profile.image\/657589205495810-1533792892690_Q64\/Nripemo_Odyuo.jpg",
+      "memberOf": {
+        "@context": "https:\/\/schema.org\/",
+        "@type": "Organization",
+        "name": "Botanical Survey fo India"
+      }
+    }, {
+      "@context": "https:\/\/schema.org\/",
+      "@type": "Person",
+      "name": "Dilip Kr. Roy",
+      "url": "https:\/\/www.researchgate.net\/profile\/Dilip_Kr_Roy",
+      "image": "https:\/\/i1.rgstatic.net\/ii\/profile.image\/303916372168705-1449470717804_Q64\/Dilip_Kr_Roy.jpg",
+      "memberOf": {
+        "@context": "https:\/\/schema.org\/",
+        "@type": "Organization",
+        "name": "Botanical Survey of India, Shillong"
+      }
+    }, {
+      "@context": "https:\/\/schema.org\/",
+      "@type": "Person",
+      "name": "A. A. Mao",
+      "url": "https:\/\/www.researchgate.net\/profile\/A_Mao",
+      "image": "https:\/\/i1.rgstatic.net\/ii\/profile.image\/526099911909377-1502443401216_Q64\/A_Mao.jpg",
+      "memberOf": {
+        "@context": "https:\/\/schema.org\/",
+        "@type": "Organization",
+        "name": "Botanical Survey of India, Shillong"
+      }
+    }],
+    "publisher": {
+      "@context": "https:\/\/schema.org\/",
+      "@type": "Organization",
+      "name": "NeBIO",
+      "url": "https:\/\/www.nebio.in"
+    }
+  }, {
+    "@context": "https:\/\/schema.org\/",
+    "@type": "ScholarlyArticle",
+    "datePublished": "2018-07-04",
+    "headline": "Phytochemical Diversity Among Parts of Zingiber roseum Rosc. Extracts With Their Antioxidant and...",
+    "mainEntityOfPage": "https:\/\/www.researchgate.net\/publication\/327518740_Phytochemical_Diversity_Among_Parts_of_Zingiber_roseum_Rosc_Extracts_With_Their_Antioxidant_and_Antifungal_Activity",
+    "author": [{
+      "@context": "https:\/\/schema.org\/",
+      "@type": "Person",
+      "name": "Arya S. Premram",
+      "url": "https:\/\/www.researchgate.net\/scientific-contributions\/2146972090_Arya_S_Premram",
+      "image": "https:\/\/c5.rgstatic.net\/m\/435982309481010\/images\/template\/default\/author\/author_default_m.jpg"
+    }, {
+      "@context": "https:\/\/schema.org\/",
+      "@type": "Person",
+      "name": "Archana Parki",
+      "url": "https:\/\/www.researchgate.net\/scientific-contributions\/2128523524_Archana_Parki",
+      "image": "https:\/\/c5.rgstatic.net\/m\/435982309481010\/images\/template\/default\/author\/author_default_m.jpg"
+    }, {
+      "@context": "https:\/\/schema.org\/",
+      "@type": "Person",
+      "name": "Pinky Chaubey",
+      "url": "https:\/\/www.researchgate.net\/profile\/Pinky_Chaubey",
+      "image": "https:\/\/c5.rgstatic.net\/m\/4671872220764\/images\/template\/default\/profile\/profile_default_m.jpg",
+      "memberOf": {
+        "@context": "https:\/\/schema.org\/",
+        "@type": "Organization",
+        "name": "G. B. Pant University of Agriculture and Technology, Pantnagar"
+      }
+    }, {
+      "@context": "https:\/\/schema.org\/",
+      "@type": "Person",
+      "name": "Anil K Pant",
+      "url": "https:\/\/www.researchgate.net\/profile\/Anil_Pant2",
+      "image": "https:\/\/i1.rgstatic.net\/ii\/profile.image\/272389565054979-1441954141157_Q64\/Anil_Pant2.jpg",
+      "memberOf": {
+        "@context": "https:\/\/schema.org\/",
+        "@type": "Organization",
+        "name": "G. B. Pant University of Agriculture and Technology, Pantnagar"
+      }
+    }]
+  }, {
+    "@context": "https:\/\/schema.org\/",
+    "@type": "ScholarlyArticle",
+    "datePublished": "2017-06-09",
+    "headline": "Zingiber arunachalensis (Zingiberaceae): A new species from Northeastern India",
+    "mainEntityOfPage": "https:\/\/www.researchgate.net\/publication\/317426263_Zingiber_arunachalensis_Zingiberaceae_A_new_species_from_Northeastern_India",
+    "author": [{
+      "@context": "https:\/\/schema.org\/",
+      "@type": "Person",
+      "name": "Alfred Joe",
+      "url": "https:\/\/www.researchgate.net\/profile\/Alfred_Joe2",
+      "image": "https:\/\/i1.rgstatic.net\/ii\/profile.image\/289004378443777-1445915422087_Q64\/Alfred_Joe2.jpg",
+      "memberOf": {
+        "@context": "https:\/\/schema.org\/",
+        "@type": "Organization",
+        "name": "St. Joseph's College (Autonomous), Irinjalakuda"
+      }
+    }, {
+      "@context": "https:\/\/schema.org\/",
+      "@type": "Person",
+      "name": "Jayakrishnan Thachat",
+      "url": "https:\/\/www.researchgate.net\/profile\/Jayakrishnan_Thachat2",
+      "image": "https:\/\/i1.rgstatic.net\/ii\/profile.image\/558677603565568-1510210528481_Q64\/Jayakrishnan_Thachat2.jpg",
+      "memberOf": {
+        "@context": "https:\/\/schema.org\/",
+        "@type": "Organization",
+        "name": "Sree Neelakanta Govt Sanskrit College Pattambi"
+      }
+    }, {
+      "@context": "https:\/\/schema.org\/",
+      "@type": "Person",
+      "name": "Hareesh V. S.",
+      "url": "https:\/\/www.researchgate.net\/profile\/Hareesh_S2",
+      "image": "https:\/\/i1.rgstatic.net\/ii\/profile.image\/705664288555010-1545254885943_Q64\/Hareesh_S2.jpg",
+      "memberOf": {
+        "@context": "https:\/\/schema.org\/",
+        "@type": "Organization",
+        "name": "University of Calicut"
+      }
+    }, {
+      "@context": "https:\/\/schema.org\/",
+      "@type": "Person",
+      "name": "Sabu Mamiyil",
+      "url": "https:\/\/www.researchgate.net\/profile\/Sabu_Mamiyil",
+      "image": "https:\/\/i1.rgstatic.net\/ii\/profile.image\/503372886941696-1497024856055_Q64\/Sabu_Mamiyil.jpg",
+      "memberOf": {
+        "@context": "https:\/\/schema.org\/",
+        "@type": "Organization",
+        "name": "University of Calicut"
+      }
+    }],
+    "publisher": {
+      "@context": "https:\/\/schema.org\/",
+      "@type": "Organization",
+      "name": "Phytotaxa"
+    }
+  }, {
+    "@context": "https:\/\/schema.org\/",
+    "@type": "ScholarlyArticle",
+    "datePublished": "2016-05-01",
+    "headline": "Zingiber pseudosquarrosum sp. nov. (Zingiberaceae) from Andaman and Nicobar Islands, India",
+    "mainEntityOfPage": "https:\/\/www.researchgate.net\/publication\/303040205_Zingiber_pseudosquarrosum_sp_nov_Zingiberaceae_from_Andaman_and_Nicobar_Islands_India",
+    "author": [{
+      "@context": "https:\/\/schema.org\/",
+      "@type": "Person",
+      "name": "Lal Ji Singh",
+      "url": "https:\/\/www.researchgate.net\/profile\/Lal_Singh16",
+      "image": "https:\/\/i1.rgstatic.net\/ii\/profile.image\/639884045869076-1529571653687_Q64\/Lal_Singh16.jpg",
+      "memberOf": {
+        "@context": "https:\/\/schema.org\/",
+        "@type": "Organization",
+        "name": "Ministry of Environment, Forest and Climate Change"
+      }
+    }, {
+      "@context": "https:\/\/schema.org\/",
+      "@type": "Person",
+      "name": "Paramjit Singh",
+      "url": "https:\/\/www.researchgate.net\/profile\/Paramjit_Singh3",
+      "image": "https:\/\/i1.rgstatic.net\/ii\/profile.image\/537052697591808-1505054749045_Q64\/Paramjit_Singh3.jpg",
+      "memberOf": {
+        "@context": "https:\/\/schema.org\/",
+        "@type": "Organization",
+        "name": "Botanical Survey of India"
+      }
+    }],
+    "publisher": {
+      "@context": "https:\/\/schema.org\/",
+      "@type": "Organization",
+      "name": "Nordic Journal of Botany"
+    }
+  }, {
+    "@context": "https:\/\/schema.org\/",
+    "@type": "ScholarlyArticle",
+    "datePublished": "2016-02-17",
+    "headline": "Zingiber sabuanum (Zingiberaceae): a new species from Kerala, India",
+    "mainEntityOfPage": "https:\/\/www.researchgate.net\/publication\/294799749_Zingiber_sabuanum_Zingiberaceae_a_new_species_from_Kerala_India",
+    "author": [{
+      "@context": "https:\/\/schema.org\/",
+      "@type": "Person",
+      "name": "Alfred Joe",
+      "url": "https:\/\/www.researchgate.net\/profile\/Alfred_Joe2",
+      "image": "https:\/\/i1.rgstatic.net\/ii\/profile.image\/289004378443777-1445915422087_Q64\/Alfred_Joe2.jpg",
+      "memberOf": {
+        "@context": "https:\/\/schema.org\/",
+        "@type": "Organization",
+        "name": "St. Joseph's College (Autonomous), Irinjalakuda"
+      }
+    }, {
+      "@context": "https:\/\/schema.org\/",
+      "@type": "Person",
+      "name": "Prabhukumar Km",
+      "url": "https:\/\/www.researchgate.net\/profile\/Prabhukumar_Km2",
+      "image": "https:\/\/i1.rgstatic.net\/ii\/profile.image\/541340245413888-1506076980005_Q64\/Prabhukumar_Km2.jpg",
+      "memberOf": {
+        "@context": "https:\/\/schema.org\/",
+        "@type": "Organization",
+        "name": "Centre for Medicinal Plants Research"
+      }
+    }]
+  }, {
+    "@context": "https:\/\/schema.org\/",
+    "@type": "ScholarlyArticle",
+    "datePublished": "2014-09-17",
+    "headline": "p> A new species of Zingiber (Zingiberaceae) from Nagaland, India <\/p",
+    "mainEntityOfPage": "https:\/\/www.researchgate.net\/publication\/287442467_p_A_new_species_of_Zingiber_Zingiberaceae_from_Nagaland_India_p",
+    "author": [{
+      "@context": "https:\/\/schema.org\/",
+      "@type": "Person",
+      "name": "Biseshwori Thongam",
+      "url": "https:\/\/www.researchgate.net\/profile\/Biseshwori_Thongam",
+      "image": "https:\/\/c5.rgstatic.net\/m\/4671872220764\/images\/template\/default\/profile\/profile_default_m.jpg",
+      "memberOf": {
+        "@context": "https:\/\/schema.org\/",
+        "@type": "Organization",
+        "name": "Institute of Bioresources and Sustainable Development"
+      }
+    }, {
+      "@context": "https:\/\/schema.org\/",
+      "@type": "Person",
+      "name": "Bipin Konsam",
+      "url": "https:\/\/www.researchgate.net\/scientific-contributions\/2089785815_Bipin_Konsam",
+      "image": "https:\/\/c5.rgstatic.net\/m\/435982309481010\/images\/template\/default\/author\/author_default_m.jpg"
+    }],
+    "publisher": {
+      "@context": "https:\/\/schema.org\/",
+      "@type": "Organization",
+      "name": "Phytotaxa"
+    }
+  }, {
+    "@context": "https:\/\/schema.org\/",
+    "@type": "ScholarlyArticle",
+    "datePublished": "2015-10-30",
+    "headline": "Two new Zingiber (Zingiberaceae) species from Northeast India",
+    "mainEntityOfPage": "https:\/\/www.researchgate.net\/publication\/283319010_Two_new_Zingiber_Zingiberaceae_species_from_Northeast_India",
+    "author": [{
+      "@context": "https:\/\/schema.org\/",
+      "@type": "Person",
+      "name": "Ramesh Kumar",
+      "url": "https:\/\/www.researchgate.net\/profile\/Ramesh_Kumar213",
+      "image": "https:\/\/c5.rgstatic.net\/m\/4671872220764\/images\/template\/default\/profile\/profile_default_m.jpg",
+      "memberOf": {
+        "@context": "https:\/\/schema.org\/",
+        "@type": "Organization",
+        "name": "Botanical Survey of India"
+      }
+    }, {
+      "@context": "https:\/\/schema.org\/",
+      "@type": "Person",
+      "name": "S.K. Singh",
+      "url": "https:\/\/www.researchgate.net\/profile\/Sk_Singh10",
+      "image": "https:\/\/i1.rgstatic.net\/ii\/profile.image\/573575807881216-1513762537154_Q64\/Sk_Singh10.jpg",
+      "memberOf": {
+        "@context": "https:\/\/schema.org\/",
+        "@type": "Organization",
+        "name": "Botanical Survey of India"
+      }
+    }, {
+      "@context": "https:\/\/schema.org\/",
+      "@type": "Person",
+      "name": "Sachin Sharma",
+      "url": "https:\/\/www.researchgate.net\/profile\/Sachin_Sharma50",
+      "image": "https:\/\/i1.rgstatic.net\/ii\/profile.image\/414503763234816-1475836806439_Q64\/Sachin_Sharma50.jpg",
+      "memberOf": {
+        "@context": "https:\/\/schema.org\/",
+        "@type": "Organization",
+        "name": "Botanical Survey of India"
+      }
+    }, {
+      "@context": "https:\/\/schema.org\/",
+      "@type": "Person",
+      "name": "Pramote Triboun",
+      "url": "https:\/\/www.researchgate.net\/profile\/Pramote_Triboun",
+      "image": "https:\/\/i1.rgstatic.net\/ii\/profile.image\/361921049055233-1463300110419_Q64\/Pramote_Triboun.jpg",
+      "memberOf": {
+        "@context": "https:\/\/schema.org\/",
+        "@type": "Organization",
+        "name": "Thailand Institute of Scientific and Technological Research"
+      }
+    }],
+    "publisher": {
+      "@context": "https:\/\/schema.org\/",
+      "@type": "Organization",
+      "name": "Phytotaxa"
+    }
+  }, {
+    "@context": "https:\/\/schema.org\/",
+    "@type": "ScholarlyArticle",
+    "datePublished": "2015-10-20",
+    "headline": "A New Species of Zingiber (Zingiberaceae-Zingibereae) from Northeast India",
+    "mainEntityOfPage": "https:\/\/www.researchgate.net\/publication\/283007303_A_New_Species_of_Zingiber_Zingiberaceae-Zingibereae_from_Northeast_India",
+    "author": [{
+      "@context": "https:\/\/schema.org\/",
+      "@type": "Person",
+      "name": "Anupam Das Talukdar",
+      "url": "https:\/\/www.researchgate.net\/profile\/Anupam_Das_Talukdar",
+      "image": "https:\/\/i1.rgstatic.net\/ii\/profile.image\/278401559613445-1443387512280_Q64\/Anupam_Das_Talukdar.jpg",
+      "memberOf": {
+        "@context": "https:\/\/schema.org\/",
+        "@type": "Organization",
+        "name": "Assam University"
+      }
+    }, {
+      "@context": "https:\/\/schema.org\/",
+      "@type": "Person",
+      "name": "Durgesh Verma",
+      "url": "https:\/\/www.researchgate.net\/profile\/Durgesh_Verma",
+      "image": "https:\/\/c5.rgstatic.net\/m\/4671872220764\/images\/template\/default\/profile\/profile_default_m.jpg",
+      "memberOf": {
+        "@context": "https:\/\/schema.org\/",
+        "@type": "Organization",
+        "name": "Botanical Survey of India"
+      }
+    }, {
+      "@context": "https:\/\/schema.org\/",
+      "@type": "Person",
+      "name": "Dilip Kr. Roy",
+      "url": "https:\/\/www.researchgate.net\/profile\/Dilip_Kr_Roy",
+      "image": "https:\/\/i1.rgstatic.net\/ii\/profile.image\/303916372168705-1449470717804_Q64\/Dilip_Kr_Roy.jpg",
+      "memberOf": {
+        "@context": "https:\/\/schema.org\/",
+        "@type": "Organization",
+        "name": "Botanical Survey of India, Shillong"
+      }
+    }, {
+      "@context": "https:\/\/schema.org\/",
+      "@type": "Person",
+      "name": "M.D. Choudhury",
+      "url": "https:\/\/www.researchgate.net\/scientific-contributions\/2063124339_MD_Choudhury",
+      "image": "https:\/\/c5.rgstatic.net\/m\/435982309481010\/images\/template\/default\/author\/author_default_m.jpg"
+    }],
+    "publisher": {
+      "@context": "https:\/\/schema.org\/",
+      "@type": "Organization",
+      "name": "Journal of Japanese Botany"
+    }
+  }, {
+    "@context": "https:\/\/schema.org\/",
+    "@type": "ScholarlyArticle",
+    "datePublished": "2015-08-01",
+    "headline": "Zingiber zhuxiense (Zingiberaceae), a New Species from Hubei, Central China",
+    "mainEntityOfPage": "https:\/\/www.researchgate.net\/publication\/281129081_Zingiber_zhuxiense_Zingiberaceae_a_New_Species_from_Hubei_Central_China",
+    "author": [{
+      "@context": "https:\/\/schema.org\/",
+      "@type": "Person",
+      "name": "Guo-Xiong Hu",
+      "url": "https:\/\/www.researchgate.net\/scientific-contributions\/2163427972_Guo-Xiong_Hu",
+      "image": "https:\/\/c5.rgstatic.net\/m\/435982309481010\/images\/template\/default\/author\/author_default_m.jpg"
+    }, {
+      "@context": "https:\/\/schema.org\/",
+      "@type": "Person",
+      "name": "Jiang-Qiong Pan",
+      "url": "https:\/\/www.researchgate.net\/scientific-contributions\/2079822684_Jiang-Qiong_Pan",
+      "image": "https:\/\/c5.rgstatic.net\/m\/435982309481010\/images\/template\/default\/author\/author_default_m.jpg"
+    }, {
+      "@context": "https:\/\/schema.org\/",
+      "@type": "Person",
+      "name": "Zi-En Zhao",
+      "url": "https:\/\/www.researchgate.net\/scientific-contributions\/2079803934_Zi-En_Zhao",
+      "image": "https:\/\/c5.rgstatic.net\/m\/435982309481010\/images\/template\/default\/author\/author_default_m.jpg"
+    }, {
+      "@context": "https:\/\/schema.org\/",
+      "@type": "Person",
+      "name": "Sheng Huang",
+      "url": "https:\/\/www.researchgate.net\/scientific-contributions\/2079831934_Sheng_Huang",
+      "image": "https:\/\/c5.rgstatic.net\/m\/435982309481010\/images\/template\/default\/author\/author_default_m.jpg"
+    }],
+    "publisher": {
+      "@context": "https:\/\/schema.org\/",
+      "@type": "Organization",
+      "name": "Annales Botanici Fennici",
+      "url": "http:\/\/www.sekj.org\/AnnBot.html"
+    }
+  }]
+}
