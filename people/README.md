@@ -208,6 +208,8 @@ select distinct ?name1 ?name2 ?name3a ?name3b ?name1a ?name2a where
 
 ## Author co-citation
 
+Using names
+
 ```
 prefix schema: <http://schema.org/>
 
@@ -236,6 +238,38 @@ select ?y_name (COUNT(?y_name) AS ?c) where
 ORDER BY DESC (?c)
 LIMIT 10
 
+```
+
+Using identifiers
+
+```
+prefix schema: <http://schema.org/>
+
+select ?y_creator_id ?y_name (COUNT(?y_name) AS ?c) where 
+{
+  
+  VALUES ?x_creator_id { <urn:lsid:ipni.org:authors:20027529-1> }
+  ?x_creator schema:sameAs ?x_creator_id .
+  ?x_creator schema:name ?x_name . 
+  ?x_role schema:creator ?x_creator .
+  ?x schema:creator ?x_role .
+ 
+  ?x_placeholder schema:sameAs ?x .
+  ?a schema:citation ?x_placeholder .
+     
+  ?a schema:citation ?y_placeholder . 
+  ?y_placeholder schema:sameAs ?y .
+  
+   ?y schema:creator ?y_role .
+   ?y_role schema:creator ?y_creator .
+   ?y_creator schema:name ?y_name . 
+   ?y_creator schema:sameAs ?y_creator_id .
+  
+  FILTER (?x != ?y)
+   FILTER (?x_creator_id != ?y_creator_id)
+}GROUP BY ?y_creator_id ?y_name
+ORDER BY DESC (?c)
+LIMIT 10
 ```
 
 
