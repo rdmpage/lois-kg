@@ -1,0 +1,43 @@
+var template_image = `
+
+<%
+
+
+if (item['@graph']) {
+	item = data['@graph'][0];
+}
+
+
+%>
+
+
+<!-- title -->
+<h1>
+	<!-- <img src="images/noun_Book_498533.svg" height="48" align="center"> -->
+	<%= get_literal(item.name) %>
+</h1>
+
+<!-- image -->
+<div style="text-align:center;">	
+	<% if (item.contentUrl) {
+		var image = item.contentUrl['@id'];
+		
+		image = 'http://exeg5le.cloudimg.io/s/height/800/' + image;
+	
+	%>
+		<!-- http://exeg5le.cloudimg.io/s/height/100/ -->
+		<img style="border:1px solid #DDD;max-width: 100%;min-width: 100%;" src="<%= image %>">
+	<% } %>
+</div>
+ 
+<!-- description -->
+<div>
+
+<% if (item.description) { %>	
+	<span class="heading">Caption</span>
+	<%- get_literal(item.description) %>
+<%} %>
+
+
+
+`;

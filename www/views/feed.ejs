@@ -45,8 +45,9 @@ item = item['@graph'][0];
 		
 		<% if (item.dataFeedElement[i].thumbnailUrl) { 
 			var thumbnailUrl = item.dataFeedElement[i].thumbnailUrl;
-			if (thumbnailUrl.match(/^http/)) {
-				thumbnailUrl = 'http://exeg5le.cloudimg.io/s/height/100/' + thumbnailUrl;
+						
+			if (thumbnailUrl['@id'].match(/^http/)) {
+				thumbnailUrl = 'http://exeg5le.cloudimg.io/s/height/100/' + thumbnailUrl['@id'];
 			}
 			%>
 			<img style="margin:4px;border:1px solid rgb(224,224,224);height:100px;float:left;" src="<%- thumbnailUrl %>" >
@@ -73,17 +74,37 @@ item = item['@graph'][0];
 		<!-- identifiers -->
 		<div>
 		<% if (item.dataFeedElement[i].identifier) {
-			 var id = '';
+		
+			var properties = [];
+			
+			if (Array.isArray(item.dataFeedElement[i].identifier)) {
+				properties = item.dataFeedElement[i].identifier;
+			} else {
+				properties.push(item.dataFeedElement[i].identifier);
+			}
+			
+			for (var j in properties) {
+			
+				 var id = '';
 	 
-			// DOI
-			id = get_property_value(item.dataFeedElement[i].identifier, 'doi');	  
-			if (id != '') {  %>	
-				DOI:
-				<a href="https://doi.org/<%=id%>">
-				<%= id %>
-				</a>
-			<% }
-	
+				// DOI
+				id = get_property_value(properties[j], 'doi');	  
+				if (id != '') {  %>	
+					DOI:
+					<a href="https://doi.org/<%=id%>">
+					<%= id %>
+					</a>
+				<% }
+			
+				// JSTOR
+				id = get_property_value(properties[j], 'jstor');	  
+				if (id != '') {  %>	
+					JSTOR:
+					<a href="https://www.jstor.org/stable/<%=id%>">
+					<%= id %>
+					</a>
+				<% }
+				}
 			}
 		 %>	
 		 </div>			

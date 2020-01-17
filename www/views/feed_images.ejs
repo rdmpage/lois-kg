@@ -1,0 +1,85 @@
+var template_imagefeed = `
+
+
+
+<%
+
+item = item['@graph'][0];
+
+%>
+
+
+<details open>
+
+<!-- title -->
+<% if (item.name) { %>
+	<summary>
+		<%= get_literal(item.name) %>
+		(<%= item.dataFeedElement.length %>)
+	</summary>
+<% } %>
+
+
+<!--
+
+section{
+  display: flex;
+  flex-wrap: wrap;
+}
+
+section::after{
+  content: \'\';
+  flex-grow: 999999999;
+}
+
+div.figure{
+  flex-grow: 1;
+  margin: 4px;
+  height: 100px;
+}
+
+img.figure{
+  height: 100px;
+  object-fit: cover;
+  max-width: 100%;
+  min-width: 100%;
+  vertical-align: bottom;
+  border:1px solid rgb(242,242,242);
+}	
+
+-->
+
+
+<!-- display as image gallery list -->
+
+<section class="figures">
+	<% for (var i in item.dataFeedElement) { %>
+		<div class="figure">
+
+		<% if (item.dataFeedElement[i].thumbnailUrl) { %>
+		
+			<a href="?uri=<%= item.dataFeedElement[i]['@id'].replace('#', '%23') %>">
+		
+			<%
+			var thumbnailUrl = item.dataFeedElement[i].thumbnailUrl;
+						
+			if (thumbnailUrl['@id'].match(/^http/)) {
+				thumbnailUrl = 'http://exeg5le.cloudimg.io/s/height/100/' + thumbnailUrl['@id'];
+			}
+			%>
+			<img src="<%- thumbnailUrl %>" >
+			
+			</a>
+		<% } %>
+		
+		
+		</div>
+	<% } %>
+
+</section>
+
+</details>
+
+
+
+`;

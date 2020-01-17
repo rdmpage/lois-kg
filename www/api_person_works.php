@@ -44,8 +44,8 @@ $query = 'PREFIX schema: <http://schema.org/>
 					
 				schema:identifier ?doi_identifier .
 					 ?doi_identifier rdf:type schema:PropertyValue .
-					 ?doi_identifier schema:propertyID "doi" .
-					 ?doi_identifier schema:value ?doi .
+					 ?doi_identifier schema:propertyID ?identifier_id .
+					 ?doi_identifier schema:value ?identifier_value .
 					
 			}
 			WHERE
@@ -90,8 +90,8 @@ $query = 'PREFIX schema: <http://schema.org/>
 				OPTIONAL
 				{
 					?item schema:identifier ?doi_identifier .		
-					?doi_identifier schema:propertyID "doi" .
-					?doi_identifier schema:value ?doi .		
+					?doi_identifier schema:propertyID ?identifier_id .
+					?doi_identifier schema:value ?identifier_value .		
 				}  				
 
 			}';

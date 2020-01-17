@@ -132,3 +132,15 @@ function work_related(id) {
 		}
 	);
 }
+
+function work_images(id) {
+	$.getJSON('api_work_images.php?uri=' + encodeURIComponent(id) + '&callback=?',
+		function(data){
+		
+			// JSON-LD
+			render(template_imagefeed, { item: data }, "feed_images");
+			
+		}
+	);
+}
+

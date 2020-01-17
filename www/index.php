@@ -1435,6 +1435,7 @@ function display_entity_ajax($uri)
  	
 	echo '<div id="output">Stuff goes here</div>';
 	
+	echo '<div id="feed_images"></div>';
 	echo '<div id="feed_names"></div>';
 	echo '<div id="feed_works"></div>';
 	echo '<div id="feed_cites"></div>';
@@ -1463,10 +1464,15 @@ function display_entity_ajax($uri)
 	{
 		switch ($types[$i])
 		{
+			case 'ImageObject':
+				echo '<script>render(template_image, { item: data }, "output");</script>';
+				break;
+									
 			case 'CreativeWork':
 			case 'ScholarlyArticle':
 				echo '<script>render(template_work, { item: data }, "output");</script>';
 				
+				echo '<script>work_images("' . $uri . '");</script>';
 				echo '<script>work_names("' . $uri . '");</script>';
 				echo '<script>work_cites("' . $uri . '");</script>';
 				echo '<script>work_cited_by("' . $uri . '");</script>';
@@ -1588,9 +1594,11 @@ function display_html_start($title = '', $meta = '', $script = '', $onload = '')
 	echo '<script src="views/work.ejs"></script>';
 	echo '<script src="views/person.ejs"></script>';	
 	echo '<script src="views/container.ejs"></script>';
+	echo '<script src="views/image.ejs"></script>';	
 	
 	
 	echo '<script src="views/feed.ejs"></script>';
+	echo '<script src="views/feed_images.ejs"></script>';
 	echo '<script src="views/feed_search.ejs"></script>';
 	echo '<script src="views/feed_tags.ejs"></script>';
 	
@@ -1684,6 +1692,7 @@ function display_html_start($title = '', $meta = '', $script = '', $onload = '')
 		}	
 		
 		/* https://alexcican.com/post/hide-and-show-div/ */
+		/*
 		.hidden>div {
 			display:none;
 		}
@@ -1698,7 +1707,8 @@ function display_html_start($title = '', $meta = '', $script = '', $onload = '')
 		
 		.hidden>h3::before {
 			content: "▶ "
-		}		
+		}	
+		*/	
 		
 		.text_container {
 			border:1px solid rgb(222,222,222);
@@ -1752,7 +1762,33 @@ details[open] summary {
 
 
 
-	details style="border: 1px solid #aaa;padding: .5em;border-radius: 4px;">
+section.figures{
+  display: flex;
+  flex-wrap: wrap;
+}
+
+section.figures::after{
+  content: \'\';
+  flex-grow: 999999999;
+}
+
+div.figure{
+  flex-grow: 1;
+  margin: 20px;
+  height: 100px;
+
+
+  
+}
+
+img.figure{
+  height: 100px;
+  object-fit: contain;
+  max-width: 100%;
+  min-width: 100%; 
+  vertical-align: bottom;
+}	
+
 
 		
 		
@@ -1826,7 +1862,7 @@ details[open] summary {
 			font-family: "Open Sans", sans-serif; 
 			line-height:1.5em;
 			/* color: rgb(128,128,128); */
-			background-color:#eee;
+			/* background-color:#eee; */
 		}
 		h1 { 
 			line-height:1.2em;
