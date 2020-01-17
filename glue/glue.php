@@ -30,10 +30,17 @@ AS rdf
 FROM names 
 WHERE doi IS NOT NULL";
 
+	// Handle
+	$sql = "SELECT 
+	CONCAT('<urn:lsid:ipni.org:names:', Id, '> <http://rs.tdwg.org/ontology/voc/Common#publishedInCitation> <urn:lsid:ipni.org:names:', Id, '#publishedInCitation> .\n<urn:lsid:ipni.org:names:', Id, '#publishedInCitation> <http://schema.org/sameAs> <https://hdl.handle.net/', LOWER(REPLACE(REPLACE (handle, '<', '%3C'), '>', '%3E')), '> . ') 
+AS rdf
+FROM names 
+WHERE handle IS NOT NULL";
+
 	// limit to ISSN
-	//$sql .= " AND issn='0021-7662'";
+	$sql .= " AND issn='0030-8870'";
 	
-	$sql .= " AND Publication='Trans. S. African Philos. Soc.'";
+	//$sql .= " AND Publication='Trans. S. African Philos. Soc.'";
 
 /*
 	// JSTOR
