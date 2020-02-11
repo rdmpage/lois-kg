@@ -212,7 +212,28 @@ function bhl_details($identifier, $destination, &$info)
 	foreach($nodeCollection as $node)
 	{
 		$info->title = $node->firstChild->nodeValue;
+		
+		// to do: BHL logo
+		//$info->logo = '';
 	}	
+	
+	// more specific title (e.g. volume details)
+	$nodeCollection = $xpath->query ('//mods:mods/mods:note[@type="content"]');
+	foreach($nodeCollection as $node)
+	{
+		if (isset($info->title))
+		{
+			$info->title .= ' ' . $node->firstChild->nodeValue;
+		}
+	}
+		
+	// thumbnail
+	$nodeCollection = $xpath->query ('//mods:mods/mods:location/mods:url[@usage="primary display"]');
+	foreach($nodeCollection as $node)
+	{
+		$info->thumbnail = $node->firstChild->nodeValue;
+	}
+	
 	
 	// BHL link
 	$nodeCollection = $xpath->query ('//mods:mods/mods:identifier[@type="uri"]');
@@ -220,7 +241,22 @@ function bhl_details($identifier, $destination, &$info)
 	{
 		$info->bhl = $node->firstChild->nodeValue;
 	}	
+	
+	// to do: metadata pairs for more details
+	/*
+"metadata": [
+    {"label":"Author", "value":"Anne Author"},
+    {"label":"Published", "value": [
+        {"@value": "Paris, circa 1400", "@language":"en"},
+        {"@value": "Paris, environ 1400", "@language":"fr"}
+      ]
+    },
+    {"label":"Source",
+     "value": "<span>From: <a href=\"http://example.org/db/1.html\">Some Collection</a></span>"}
+  ],
+  */	
 		
+	
 	$nodeCollection = $xpath->query ('/mets:mets/mets:structMap/mets:div/mets:div');
 	foreach($nodeCollection as $node)
 	{
@@ -255,6 +291,7 @@ function bhl_details($identifier, $destination, &$info)
 		$page_counter++;
 	
 	}
+	
 }
 
 
@@ -284,6 +321,13 @@ function create_manifest_triples($info)
 	{
 		$triples[] = '<' . $subject_id . '> <http://purl.org/dc/terms/relation> <' . $info->bhl  . '> .';	
 	}
+	
+	// Thumbnail
+	if ($info->thumbnail)
+	{
+		$triples[] = '<' . $subject_id . '> <http://xmlns.com/foaf/0.1/thumbnail> <' . $info->thumbnail  . '> .';	
+	}
+	
 
 	$triples[] = '<' . $subject_id . '> <http://iiif.io/api/presentation/2#hasSequences> <' . $sequences_id . '> .';
 	$triples[] = '<' . $sequences_id . '> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://iiif.io/api/presentation/2#Sequence> .';
@@ -522,6 +566,10 @@ $items=array(
 262821,
 );
 
+
+$items = array(
+49408
+);
 
 
 $ias = array();

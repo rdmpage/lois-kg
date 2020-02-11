@@ -131,6 +131,7 @@ function show_body(target_uri) {
   <div class="flex_item_right">
    <h3 id="title">Untitled</h3>
    <div><a id="related" href="">Related</a></div>
+   <h4>Annotations</h4>
    <div id="page_change"></div>
   </div>
   <div>

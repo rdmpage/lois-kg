@@ -168,7 +168,10 @@ function isObject (item) {
 		if (this.manifest.related) {
 			this.related = this.manifest.related;
 		}
-		
+
+		if (this.manifest.thumbnail) {
+			this.thumbnail = this.manifest.thumbnail;
+		}		
 	
 		this.images = [];
 		this.total_size = 0;
@@ -511,13 +514,18 @@ function isObject (item) {
 		
 	v.render();
 	
-	// add event handlers and observers
+	// Add event handlers and observers
 	v.actions();
 	
+	// Display metadata about this object
 	parent.document.getElementById('title').innerHTML = v.name;
 	
 	if (v.related) {
 		parent.document.getElementById('related').setAttribute('href', v.related);
+		
+		if (v.thumbnail) {
+			parent.document.getElementById('related').innerHTML = '<img style="border:1px solid rgb(64,64,64);" src="' + v.thumbnail + '" height="100">';
+		}
 	}
 
 	

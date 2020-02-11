@@ -188,6 +188,7 @@ CONSTRUCT
 	?item <http://rs.tdwg.org/ontology/voc/Common#publishedInCitation> ?publishedInCitation .	
 	?publishedInCitation a ?tpc_type .
 	?publishedInCitation <http://rs.tdwg.org/ontology/voc/PublicationCitation#title> ?tpc_title  .
+	?publishedInCitation <http://rs.tdwg.org/ontology/voc/PublicationCitation#parentPublicationString> ?tpc_parentPublicationString  .
 	?publishedInCitation <http://rs.tdwg.org/ontology/voc/PublicationCitation#volume> ?tpc_volume  .
 	?publishedInCitation <http://rs.tdwg.org/ontology/voc/PublicationCitation#number> ?tpc_number  .
 	?publishedInCitation <http://rs.tdwg.org/ontology/voc/PublicationCitation#pages> ?tpc_pages  .
@@ -322,22 +323,19 @@ WHERE {
 	
 	OPTIONAL {
 		?item <http://rs.tdwg.org/ontology/voc/Common#publishedInCitation> ?publishedInCitation .	
-		#?publishedInCitation a ?tpc_type .
+		OPTIONAL { ?publishedInCitation a ?tpc_type  . }
 		
 		# tdwg
 		OPTIONAL { ?publishedInCitation <http://rs.tdwg.org/ontology/voc/PublicationCitation#title> ?tpc_title  . }
+		OPTIONAL { ?publishedInCitation <http://rs.tdwg.org/ontology/voc/PublicationCitation#parentPublicationString> ?tpc_parentPublicationString  . }
 		OPTIONAL { ?publishedInCitation <http://rs.tdwg.org/ontology/voc/PublicationCitation#volume> ?tpc_volume  . }
 		OPTIONAL { ?publishedInCitation <http://rs.tdwg.org/ontology/voc/PublicationCitation#number> ?tpc_number  . }
 		OPTIONAL { ?publishedInCitation <http://rs.tdwg.org/ontology/voc/PublicationCitation#pages> ?tpc_pages  . }
 		OPTIONAL { ?publishedInCitation <http://rs.tdwg.org/ontology/voc/PublicationCitation#year> ?tpc_year  . }
 		
-		# schema
-		#OPTIONAL { ?publishedInCitation <http://schema.org/name> ?pub_title  . }
-		#OPTIONAL { ?publishedInCitation <http://schema.org/thumbnailUrl> ?pub_thumbnailUrl } . 
-
+		# sameAs
 		OPTIONAL { 	
-			?publishedInCitation <http://schema.org/sameAs> ?pub_identifier .
-			BIND(IRI(?pub_identifier) AS ?pub_id) .
+			?publishedInCitation <http://schema.org/sameAs> ?pub_id .
 			?pub_id <http://schema.org/name> ?pub_title .
 		} . 
 
@@ -454,7 +452,10 @@ WHERE {
 			'tp' => 'http://rs.tdwg.org/ontology/voc/Person#',
 			'tpc' => 'http://rs.tdwg.org/ontology/voc/PublicationCitation#',
 			
-			'dwc' => 'http://rs.tdwg.org/dwc/terms/',			
+			'dwc' => 'http://rs.tdwg.org/dwc/terms/',	
+			
+			// IIIF
+			'sc' => 'http://iiif.io/api/presentation/2#',		
 		);
 	
 			// creator is always an array
@@ -517,6 +518,13 @@ WHERE {
 			$context->{'foaf:page'}->{'@type'} = '@id';
 			$context->{'foaf:page'}->{'@id'} = 'foaf:page';
 			
+			// IIIF
+			$context->sequences = new stdclass;
+			$context->sequences->{'@type'} = '@id';
+			$context->sequences->{'@id'} = 'sc:hasSequences';
+			
+			
+
 			
 	
 	
@@ -816,12 +824,14 @@ PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
 PREFIX dcterm: <http://purl.org/dc/terms/>
 PREFIX oa: <http://www.w3.org/ns/oa#>
 PREFIX exif: <http://www.w3.org/2003/12/exif/ns#>
+PREFIX foaf: <http://xmlns.com/foaf/0.1/>
 
 CONSTRUCT 
 {
   	?item rdf:type <http://iiif.io/api/presentation/2#Manifest> .
 	?item rdfs:label ?label .
     ?item dcterm:relation ?related . 
+    ?item foaf:thumbnail ?thumbnail . 
 	?item <http://iiif.io/api/presentation/2#hasSequences> ?sequences .
   
   	?sequences rdf:type <http://iiif.io/api/presentation/2#Sequence> .  
@@ -857,6 +867,12 @@ WHERE
   	{
    		?item dcterm:relation ?related . 
   	}  
+  	
+ 	OPTIONAL 
+  	{
+   		?item foaf:thumbnail ?thumbnail . 
+  	}  
+   	
     
 	?item <http://iiif.io/api/presentation/2#hasSequences> ?sequences .
   
@@ -947,6 +963,8 @@ WHERE
 
 		$context->exif = 'http://www.w3.org/2003/12/exif/ns#';
 		$context->oa = 'http://www.w3.org/ns/oa#';
+		
+		$context->foaf = 'http://xmlns.com/foaf/0.1/';
 
 
 		$context->sequences = new stdclass;
@@ -974,6 +992,11 @@ WHERE
 		$context->related = new stdclass;
 		$context->related->{'@type'} = '@id';
 		$context->related->{'@id'} = 'dcterms:relation';
+		
+		$context->thumbnail = new stdclass;
+		$context->thumbnail->{'@type'} = '@id';
+		$context->thumbnail->{'@id'} = 'foaf:thumbnail';
+		
 
 		$context->label 	= 'rdfs:label';
 		$context->format 	= 'dcterms:format';
