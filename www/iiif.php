@@ -216,7 +216,7 @@ function isObject (item) {
 								<div id="<%- data.images[i].id %>" title="<%- data.images[i].name %>" class="image" style="width: <%- data.page_width %>px;height: <%- data.images[i].scaled_height %>px;"
 								<% if (data.images[i].related) { %> data-related="<%- data.images[i].related %>" <% } %>								
 								>
-									<img  class="lazy" width="<%- data.page_width %>" data-src="<%- data.images[i].url %>">
+									<img  class="lazy" width="<%- data.page_width %>" height="<%- data.images[i].scaled_height %>" data-src="<%- data.images[i].url %>">
 								</div> <!-- image -->
 															
 							</div> <!-- page -->
