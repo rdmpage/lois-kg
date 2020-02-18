@@ -30,8 +30,8 @@ prefix oa: <http://www.w3.org/ns/oa#>
 select * where 
 {
   ?annotation oa:hasTarget <' . $uri . '> .
-  ?annotation oa:hasBody ?taxonomic_name .
-  ?taxonomic_name schema:name | dc:title ?name .
+  ?annotation oa:hasBody ?body .
+  ?body schema:name | dc:title ?name .
 }';
 
 $values = sparql_query_to_kv($config['sparql_endpoint'], $query);

@@ -88,7 +88,7 @@ function show_body(target_uri) {
 						
 						html += data[i].name;
 						
-						html += ' <a href="./?uri=' + data[i].taxonomic_name + '">' +  data[i].taxonomic_name + '</a>';
+						html += ' <a href="./?uri=' + data[i].body + '">' +  data[i].body + '</a>';
 						
 						
 						html += '</li>';
