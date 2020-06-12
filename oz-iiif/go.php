@@ -482,6 +482,71 @@ function bhl_item_to_ia($item)
 
 }
 
+//----------------------------------------------------------------------------------------
+// Get BHL ItemID for a BHL pageID
+function bhl_page_to_item($PageID)
+{
+	$ItemID = '';
+	
+	$url = 'https://www.biodiversitylibrary.org/api2/httpquery.ashx?op=GetPageMetadata&pageid=' . $PageID . '&pages=f&apikey=' . '0d4f0303-712e-49e0-92c5-2113a5959159' . '&format=json';
+
+	$json = get($url);
+	
+	//echo $url;
+
+	$obj = json_decode($json);
+	
+	//print_r($obj);
+	
+	if (isset($obj->Result->ItemID))
+	{
+		$ItemID = $obj->Result->ItemID;
+	}
+
+	return $ItemID;
+
+}
+
+//----------------------------------------------------------------------------------------
+// Get BHL ItemID for a BioStor id
+function biostor_to_item($biostor)
+{
+	$ItemID = '';
+	
+	$parameters = array(
+		'op' => 'GetPartByIdentifier',
+		'type' => 'biostor',
+		'value' => $biostor,
+		'format' => 'json',
+		'apikey' => '0d4f0303-712e-49e0-92c5-2113a5959159'
+	);
+	
+	
+	$url = 'https://www.biodiversitylibrary.org/api2/httpquery.ashx?' . http_build_query($parameters);
+
+	//echo $url . "\n";
+	
+	$json = get($url);
+	
+	//echo $json;
+	
+	$obj = json_decode($json);
+	
+	//print_r($obj);
+	
+	if (isset($obj->Result[0]->ItemID))
+	{
+		$ItemID = $obj->Result[0]->ItemID;
+	}
+
+	
+	return $ItemID;
+	
+}
+
+
+
+
 
 
 $ia = 'telopea8natic';
@@ -570,6 +635,49 @@ $items=array(
 $items = array(
 49408
 );
+
+
+//----------------------------------------------------------------------------------------
+// get list of items from list of PageIDs
+if (0)
+{
+	$items = array();
+
+	$pages = array(
+	//17913792, // fails as no scan data as XML (it's a zip)
+	15628854,
+	);
+
+	foreach ($pages as $PageID)
+	{
+		$ItemID = bhl_page_to_item($PageID);
+		if ($ItemID != '')
+		{
+			$items[] = $ItemID;
+		}
+	}
+}
+
+//----------------------------------------------------------------------------------------
+// get list of items from list of BioStor ids
+
+$items = array();
+
+$biostor_ids = array(
+//206864,
+217668,
+);
+
+
+foreach ($biostor_ids as $biostor)
+{
+	$ItemID = biostor_to_item($biostor);
+	if ($ItemID != '')
+	{
+		$items[] = $ItemID;
+	}
+}
+
 
 
 $ias = array();

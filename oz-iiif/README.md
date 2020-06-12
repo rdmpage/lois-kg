@@ -2,6 +2,13 @@
 
 For scanned items in Internet Archive, such as BHL content, we create a IIIF manifest for the corresponding IA item, adding BHL page identifiers to each page (if available) as dcterms:relation. To render the item we retrieve the manifest by a SPARQL CONSTRUCT query, which is converted to the JSON-LD representation expected by an IIIF viewer.
 
+## IA problems
+
+- some scans lack scandata.xml files (may be zipped) and/or BHL METs.
+- image size in IA scandata.xml can’t always be trusted, may have to manually recompute some by grabbing page images (sigh), e.g. see http://localhost/~rpage/lois-kg/www/iiif-viewer.php?uri=https://archive.org/details/annalsmagazineof861910lond/manifest.json&locator=https://www.biodiversitylibrary.org/page/15628854 (for the moment I set image height as well to force image to fit).
+
+ 
+
 ## SPARQL construct
 
 ## Linking taxonomic names to BHL
