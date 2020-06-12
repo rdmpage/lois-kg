@@ -48,6 +48,18 @@ $biostor_id = 206864;
 		'apikey' => '0d4f0303-712e-49e0-92c5-2113a5959159'
 	);
 	
+// BioStor
+
+	
+	$parameters = array(
+		'op' => 'GetPartByIdentifier',
+		'type' => 'biostor',
+		'value' => '247841',
+		'format' => 'json',
+		'apikey' => '0d4f0303-712e-49e0-92c5-2113a5959159'
+	);
+	
+	
 	$url = 'https://www.biodiversitylibrary.org/api2/httpquery.ashx?' . http_build_query($parameters);
 
 	echo $url . "\n";
