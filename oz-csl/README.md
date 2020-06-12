@@ -2,6 +2,15 @@
 
 Using CrossRef API and CouchDB to generate triples for publications
 
+
+## Get lists of works to add
+
+### Add via microcitation database
+
+```
+select distinct concat("'http://localhost/~rpage/microcitation/www/citeproc-api.php?guid=", handle, "',") from names where issn='0030-8870' and handle is not null;
+```
+
 ## Export triples
 
 ### Works

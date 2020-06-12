@@ -20,11 +20,27 @@
 	<array>
 		<dict>
 			<key>inUse</key>
-			<true/>
+			<false/>
 			<key>parameter</key>
 			<string>key</string>
 			<key>value</key>
 			<string>"https://doi.org/10.1590/2175-7860201869224"</string>
+		</dict>
+		<dict>
+			<key>inUse</key>
+			<false/>
+			<key>parameter</key>
+			<string>key</string>
+			<key>value</key>
+			<string>"https://biostor.org/reference/217668"</string>
+		</dict>
+		<dict>
+			<key>inUse</key>
+			<false/>
+			<key>parameter</key>
+			<string>key</string>
+			<key>value</key>
+			<string>"https://doi.org/10.20531/tfb.2017.45.1.06"</string>
 		</dict>
 	</array>
 	<key>parametersType</key>

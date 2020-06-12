@@ -259,10 +259,94 @@ $ids=array(
 	//'https://doi.org/10.1111/njb.02333',
 	//'https://doi.org/10.11609/jott.2708.9.1.9756-9760',
 	
-	'http://localhost/~rpage/microcitation/www/citations?guid=10.1016/j.sajb.2017.06.021',
+//	'http://localhost/~rpage/microcitation/www/citations?guid=10.1016/j.sajb.2017.06.021',
+//	'https://doi.org/10.1002/tax.12093',
+	
+//	'http://localhost/~rpage/microcitation/www/citations?guid=10.6165/tai.2016.61.319',
+//	'http://localhost/~rpage/microcitation/www/citations?guid=10.6165/tai.2017.62.105',
 
+	//'http://localhost/~rpage/microcitation/www/citations?guid=10.5852/ejt.2017.281',
+	
+	//'http://localhost/~rpage/microcitation/www/citations?guid=10.11646/phytotaxa.230.2.8',
+	'http://localhost/~rpage/microcitation/www/citations?guid=10.11646/phytotaxa.365.3.7',
+	
 	);	
 
+
+$ids=array(
+'https://doi.org/10.5962/bhl.part.81868',
+'https://doi.org/10.1111/j.1096-3642.1957.tb02516.x',
+'https://doi.org/10.3897/zookeys.156.2168',
+'https://doi.org/10.3897/zookeys.278.4765',
+
+);
+
+$ids=array(
+'https://doi.org/10.11646/zootaxa.3964.4.5',
+'https://doi.org/10.11646/zootaxa.3721.6.4',
+'https://doi.org/10.1163/187525410x12578602960263',
+'https://doi.org/10.3897/zookeys.156.2168',
+'https://doi.org/10.3897/zookeys.741.21814',
+'https://doi.org/10.11646/zootaxa.4402.2.3',
+'https://doi.org/10.3897/zookeys.278.4765');
+
+$ids=array(
+'https://doi.org/10.1071/zo17074'
+);
+
+$ids=array(
+/*
+'https://doi.org/10.3897/zookeys.822.29835',
+'https://doi.org/10.5852/ejt.2015.152',
+'https://doi.org/10.11646/zootaxa.4277.1.3',
+'https://doi.org/10.5852/ejt.2015.163',
+'https://doi.org/10.11646/zootaxa.3972.1.1',
+'https://doi.org/10.1071/is16064',
+'https://doi.org/10.5852/ejt.2015.114',
+'https://doi.org/10.5852/ejt.2012.26',
+'https://doi.org/10.1111/zoj.12461',
+*/
+
+//'http://localhost/~rpage/microcitation/www/citations?guid=10.11646/phytotaxa.375.4.1',
+
+'https://doi.org/10.1111/j.1095-8339.2010.01071.x',
+'https://doi.org/10.11646/phytotaxa.347.4.4',
+'https://doi.org/10.1073/pnas.0909820106',
+'https://doi.org/10.2307/4118723',
+'https://doi.org/10.2307/25058505',
+'https://doi.org/10.5962/bhl.title.93',
+'https://doi.org/10.18942/apg.KJ00010115702',
+'https://doi.org/10.18942/apg.201701',
+'https://doi.org/10.11646/phytotaxa.328.2.7',
+'https://doi.org/10.1017/S0960428607000923',
+'https://doi.org/10.3897/phytokeys.65.8792',
+'https://doi.org/10.18942/apg.201705',
+'https://doi.org/10.3897/phytokeys.62.7974',
+'https://doi.org/10.1007/s12225-011-9305-9',
+'https://doi.org/10.5252/a2015n2a1',
+'https://doi.org/10.3897/phytokeys.81.13203',
+'https://doi.org/10.20531/tfb.2018.46.1.11',
+'https://doi.org/10.3897/phytokeys.50.4427',
+'https://doi.org/10.3897/phytokeys.57.6347',
+'https://doi.org/10.18942/apg.KJ00010001424',
+'https://doi.org/10.3897/phytokeys.58.6816',
+'https://doi.org/10.18942/apg.201602',
+'https://doi.org/10.3897/phytokeys.80.13338',
+'https://doi.org/10.1017/S0960428617000361',
+'https://doi.org/10.11646/phytotaxa.336.1.6',
+'https://doi.org/10.2307/4111500',
+'https://doi.org/10.1098/rstb.2014.0008',
+'https://doi.org/10.3897/phytokeys.65.6726',
+'https://doi.org/10.3897/phytokeys.77.11575',
+'https://doi.org/10.3897/phytokeys.65.7403',
+'https://doi.org/10.11646/phytotaxa.334.2.8',
+'https://doi.org/10.5735/085.052.0513',
+'https://doi.org/10.5735/085.053.0414',
+);
+
+$ids=array(
+'https://doi.org/10.1080/11250009209386687',
+);
 
 
 // Create empty file to write triples to
