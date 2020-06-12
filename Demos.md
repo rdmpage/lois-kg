@@ -2,6 +2,18 @@
 
 Examples to demo that show nice/interesting features
 
+## BHL content
+
+### Malleastrum sambiranense
+
+http://localhost/~rpage/lois-kg/www/?uri=urn:lsid:ipni.org:names:939675-1
+
+http://localhost/~rpage/lois-kg/www/iiif-viewer.php?uri=https://archive.org/details/mobot31753002251103/manifest.json&locator=https://www.biodiversitylibrary.org/page/13959826
+
+
+
+
+
 ## Related papers
 
 ### Oreocharis Vietnam

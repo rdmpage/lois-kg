@@ -16,6 +16,7 @@
 		<string>1A9376DB-6437-433E-83D8-4FEDE378C7E5</string>
 		<string>18D09CB4-B38B-4BC3-8362-39D50B1A4B76</string>
 		<string>1E7E556C-841B-40BB-8043-046FA506BE39</string>
+		<string>E1603ADF-65BC-4F67-9FCA-D3F269C87B1C</string>
 		<string>E60F80A2-C229-493A-AB92-55105DF8CC3C</string>
 		<string>A46BAA54-5490-4D53-B2AB-18B7AF890D4E</string>
 		<string>D61B6C6C-4EA1-4E5A-9D5C-22191A94BE4A</string>
@@ -23,6 +24,7 @@
 		<string>4AB9F83E-39F2-4B85-AF77-AE4A84283484</string>
 		<string>98B80A82-0936-49A5-8A97-A70F4FC5CC99</string>
 		<string>1BA953CA-8520-4379-A5E5-F8FE9303AD30</string>
+		<string>FA550245-2D05-41FD-96C5-4968B7FE9B80</string>
 		<string>7332DBE5-F568-413B-A597-25E1270F254D</string>
 		<string>2E8C4F5A-10C3-41D7-9A6F-9F48FF715F2E</string>
 		<string>8EF02EF0-35EB-473F-A929-7D95AE972FA2</string>
@@ -165,11 +167,11 @@
 				AAAEAAAAAAAAAA==
 				</data>
 				<key>FileURL</key>
-				<string>file:///Users/rpage/Sites/lois-kg/oz-persee/</string>
+				<string>file:///Users/rpage/Sites/lois-kg/oz-perse%CC%81e/</string>
 				<key>HasSecurityScope</key>
 				<true/>
 				<key>RelativePath</key>
-				<string>./oz-persee</string>
+				<string>./oz-persée</string>
 				<key>TypeID</key>
 				<string>_CFileLocator</string>
 				<key>Version</key>
@@ -505,11 +507,11 @@
 				AAA=
 				</data>
 				<key>FileURL</key>
-				<string>file:///Users/rpage/Sites/lois-kg/iiif/</string>
+				<string>file:///Users/rpage/Sites/lois-kg/junk/iiif/</string>
 				<key>HasSecurityScope</key>
 				<true/>
 				<key>RelativePath</key>
-				<string>./iiif</string>
+				<string>./junk/iiif</string>
 				<key>TypeID</key>
 				<string>_CFileLocator</string>
 				<key>Version</key>
@@ -1347,6 +1349,54 @@
 			<key>UserOverrideItemName</key>
 			<true/>
 		</dict>
+		<key>E1603ADF-65BC-4F67-9FCA-D3F269C87B1C</key>
+		<dict>
+			<key>ItemData</key>
+			<dict>
+				<key>BookmarkData</key>
+				<data>
+				Ym9va+ACAAAAAAQQMAAAAJy915v2xEIHykppgV8gLnFx
+				utG6SuqAoTpPfXUZYX3A3AEAAAQAAAADAwAAAAgAKAUA
+				AAABAQAAVXNlcnMAAAAFAAAAAQEAAHJwYWdlAAAABQAA
+				AAEBAABTaXRlcwAAAAcAAAABAQAAbG9pcy1rZwAKAAAA
+				AQEAAG96LWJpb3N0b3IAABQAAAABBgAAEAAAACAAAAAw
+				AAAAQAAAAFAAAAAIAAAABAMAABBnAgAAAAAACAAAAAQD
+				AACFdA0AAAAAAAgAAAAEAwAABFZMAAAAAAAIAAAABAMA
+				AMGe2QEDAAAACAAAAAQDAABC99ACAwAAABQAAAABBgAA
+				gAAAAJAAAACgAAAAsAAAAMAAAAAIAAAAAAQAAEHB5md1
+				RNjSGAAAAAECAAACAAAAAAAAAA8AAAAAAAAAAAAAAAAA
+				AAAIAAAABAMAAAMAAAAAAAAABAAAAAMDAAD1AQAACAAA
+				AAEJAABmaWxlOi8vLwwAAAABAQAATWFjaW50b3NoIEhE
+				CAAAAAQDAAAA4AQDaQAAAAgAAAAABAAAQb7dXWIAAAAk
+				AAAAAQEAADI1RTQyODZELTcxMkMtMzg5OS1CNDNGLTVE
+				M0Y2QThCRDEyMRgAAAABAgAAgQAAAAEAAADvEwAAAQAA
+				AAAAAAAAAAAAAQAAAAEBAAAvAAAAAAAAAAEFAADMAAAA
+				/v///wEAAAAAAAAAEAAAAAQQAABkAAAAAAAAAAUQAADQ
+				AAAAAAAAABAQAAD8AAAAAAAAAEAQAADsAAAAAAAAAAIg
+				AADIAQAAAAAAAAUgAAA4AQAAAAAAABAgAABIAQAAAAAA
+				ABEgAAB8AQAAAAAAABIgAABcAQAAAAAAABMgAABsAQAA
+				AAAAACAgAACoAQAAAAAAADAgAADUAQAAAAAAAAHAAAAc
+				AQAAAAAAABHAAAAgAAAAAAAAABLAAAAsAQAAAAAAABDQ
+				AAAEAAAAAAAAAA==
+				</data>
+				<key>FileURL</key>
+				<string>file:///Users/rpage/Sites/lois-kg/oz-biostor/</string>
+				<key>HasSecurityScope</key>
+				<true/>
+				<key>RelativePath</key>
+				<string>./oz-biostor</string>
+				<key>TypeID</key>
+				<string>_CFileLocator</string>
+				<key>Version</key>
+				<integer>1</integer>
+			</dict>
+			<key>ItemName</key>
+			<string>oz-biostor</string>
+			<key>ItemType</key>
+			<string>FolderReference</string>
+			<key>UserOverrideItemName</key>
+			<true/>
+		</dict>
 		<key>E60F80A2-C229-493A-AB92-55105DF8CC3C</key>
 		<dict>
 			<key>ItemData</key>
@@ -1438,6 +1488,54 @@
 			</dict>
 			<key>ItemName</key>
 			<string>author-matching</string>
+			<key>ItemType</key>
+			<string>FolderReference</string>
+			<key>UserOverrideItemName</key>
+			<true/>
+		</dict>
+		<key>FA550245-2D05-41FD-96C5-4968B7FE9B80</key>
+		<dict>
+			<key>ItemData</key>
+			<dict>
+				<key>BookmarkData</key>
+				<data>
+				Ym9va+ACAAAAAAQQMAAAAHGnWssXhYAwp8o9K82Drk1o
+				m5E5A6nIb4gXSosGi+lW3AEAAAQAAAADAwAAAAgAKAUA
+				AAABAQAAVXNlcnMAAAAFAAAAAQEAAHJwYWdlAAAABQAA
+				AAEBAABTaXRlcwAAAAcAAAABAQAAbG9pcy1rZwAJAAAA
+				AQEAAG96LXplbm9kbwAAABQAAAABBgAAEAAAACAAAAAw
+				AAAAQAAAAFAAAAAIAAAABAMAABBnAgAAAAAACAAAAAQD
+				AACFdA0AAAAAAAgAAAAEAwAABFZMAAAAAAAIAAAABAMA
+				AMGe2QEDAAAACAAAAAQDAAA+LNUCAwAAABQAAAABBgAA
+				gAAAAJAAAACgAAAAsAAAAMAAAAAIAAAAAAQAAEHB55EP
+				guFFGAAAAAECAAACAAAAAAAAAA8AAAAAAAAAAAAAAAAA
+				AAAIAAAABAMAAAMAAAAAAAAABAAAAAMDAAD1AQAACAAA
+				AAEJAABmaWxlOi8vLwwAAAABAQAATWFjaW50b3NoIEhE
+				CAAAAAQDAAAA4AQDaQAAAAgAAAAABAAAQb7dXWIAAAAk
+				AAAAAQEAADI1RTQyODZELTcxMkMtMzg5OS1CNDNGLTVE
+				M0Y2QThCRDEyMRgAAAABAgAAgQAAAAEAAADvEwAAAQAA
+				AAAAAAAAAAAAAQAAAAEBAAAvAAAAAAAAAAEFAADMAAAA
+				/v///wEAAAAAAAAAEAAAAAQQAABkAAAAAAAAAAUQAADQ
+				AAAAAAAAABAQAAD8AAAAAAAAAEAQAADsAAAAAAAAAAIg
+				AADIAQAAAAAAAAUgAAA4AQAAAAAAABAgAABIAQAAAAAA
+				ABEgAAB8AQAAAAAAABIgAABcAQAAAAAAABMgAABsAQAA
+				AAAAACAgAACoAQAAAAAAADAgAADUAQAAAAAAAAHAAAAc
+				AQAAAAAAABHAAAAgAAAAAAAAABLAAAAsAQAAAAAAABDQ
+				AAAEAAAAAAAAAA==
+				</data>
+				<key>FileURL</key>
+				<string>file:///Users/rpage/Sites/lois-kg/oz-zenodo/</string>
+				<key>HasSecurityScope</key>
+				<true/>
+				<key>RelativePath</key>
+				<string>./oz-zenodo</string>
+				<key>TypeID</key>
+				<string>_CFileLocator</string>
+				<key>Version</key>
+				<integer>1</integer>
+			</dict>
+			<key>ItemName</key>
+			<string>oz-zenodo</string>
 			<key>ItemType</key>
 			<string>FolderReference</string>
 			<key>UserOverrideItemName</key>

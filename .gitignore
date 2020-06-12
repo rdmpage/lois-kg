@@ -29,6 +29,12 @@ oz-orcid/*.nt
 oz-orcid/*.jsonl
 oz-orcid/junk
 
+oz-plazi/rdf
+oz-plazi/*.rss
+oz-plazi/*.sql
+
+oz-researchgate/resolvers/simplehtmldom_1_5
+
 references/*.ris
 references/*.sql
 
@@ -41,3 +47,5 @@ thumbnails/*.nt
 thumbnails/tmp/
 oz-csl/backup.jsonl
 resolvers/if.nt
+oz-gbif/gbif.nt
+oz-researchgate/resolvers/cookie.txt
