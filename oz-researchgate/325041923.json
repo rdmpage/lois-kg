@@ -1,0 +1,936 @@
+{
+	"_id": "https://www.researchgate.net/publication/325041923_Dividing_and_conquering_the_fastest-growing_genus_Towards_a_natural_sectional_classification_of_the_mega-diverse_genus_Begonia_Begoniaceae",
+	"message-timestamp": "2020-03-10T15:57:54+00:00",
+	"message-modified": "2020-03-10T15:57:54+00:00",
+	"message-format": "application/ld+json",
+	"message-source": "https://www.researchgate.net/publication/325041923_Dividing_and_conquering_the_fastest-growing_genus_Towards_a_natural_sectional_classification_of_the_mega-diverse_genus_Begonia_Begoniacea",
+	"message": {
+		"@context": "https://schema.org/",
+		"@type": "ScholarlyArticle",
+		"datePublished": "2018-05-09",
+		"headline": "Dividing and conquering the fastest-growing genus: Towards a natural sectional classification of the...",
+		"mainEntityOfPage": "https://www.researchgate.net/publication/325041923_Dividing_and_conquering_the_fastest-growing_genus_Towards_a_natural_sectional_classification_of_the_mega-diverse_genus_Begonia_Begoniaceae",
+		"image": "https://i1.rgstatic.net/publication/325041923_Dividing_and_conquering_the_fastest-growing_genus_Towards_a_natural_sectional_classification_of_the_mega-diverse_genus_Begonia_Begoniaceae/links/5b02e8c2a6fdccf9e4f74c8c/largepreview.png",
+		"author": [{
+				"@context": "https://schema.org/",
+				"@type": "Person",
+				"name": "Peter Moonlight",
+				"url": "https://www.researchgate.net/profile/Peter_Moonlight",
+				"image": "https://i1.rgstatic.net/ii/profile.image/635352175890433-1528491171111_Q64/Peter_Moonlight.jpg",
+				"memberOf": {
+					"@context": "https://schema.org/",
+					"@type": "Organization",
+					"name": "Royal Botanic Garden Edinburgh"
+				}
+			},
+			{
+				"@context": "https://schema.org/",
+				"@type": "Person",
+				"name": "Wisnu Ardi",
+				"url": "https://www.researchgate.net/profile/Wisnu_Ardi",
+				"image": "https://i1.rgstatic.net/ii/profile.image/272197180719175-1441908273875_Q64/Wisnu_Ardi.jpg",
+				"memberOf": {
+					"@context": "https://schema.org/",
+					"@type": "Organization",
+					"name": "Research Center for Plant Conservation and Botanic Gardens-LIPI"
+				}
+			},
+			{
+				"@context": "https://schema.org/",
+				"@type": "Person",
+				"name": "Luzilla Arroyo Padilla",
+				"url": "https://www.researchgate.net/scientific-contributions/2142313301_Luzilla_Arroyo_Padilla",
+				"image": "https://c5.rgstatic.net/m/435982309481010/images/template/default/author/author_default_m.jpg"
+			},
+			{
+				"@context": "https://schema.org/",
+				"@type": "Person",
+				"name": "Mark Hughes",
+				"url": "https://www.researchgate.net/scientific-contributions/2054435997_Mark_Hughes",
+				"image": "https://c5.rgstatic.net/m/435982309481010/images/template/default/author/author_default_m.jpg"
+			}
+		],
+		"publisher": {
+			"@context": "https://schema.org/",
+			"@type": "Organization",
+			"name": "Taxon",
+			"url": "http://www.biologie.uni-hamburg.de/b-online/ibc99/iapt/defaulttaxon.htm"
+		},
+		"citation": [{
+				"@context": "https://schema.org/",
+				"@type": "ScholarlyArticle",
+				"datePublished": "2018-01-16",
+				"headline": "Flora of Nam Kading National Protected Area III: Begonia namkadingensis (Begoniaceae), a new species in...",
+				"mainEntityOfPage": "https://www.researchgate.net/publication/322527543_Flora_of_Nam_Kading_National_Protected_Area_III_Begonia_namkadingensis_Begoniaceae_a_new_species_in_limestone_area",
+				"author": [{
+						"@context": "https://schema.org/",
+						"@type": "Person",
+						"name": "Chen-Jui Yang",
+						"url": "https://www.researchgate.net/profile/Chen_Jui_Yang",
+						"image": "https://i1.rgstatic.net/ii/profile.image/280080682110993-1443787846363_Q64/Chen_Jui_Yang.jpg",
+						"memberOf": {
+							"@context": "https://schema.org/",
+							"@type": "Organization",
+							"name": "National Taiwan University"
+						}
+					},
+					{
+						"@context": "https://schema.org/",
+						"@type": "Person",
+						"name": "Shuichiro Tagane",
+						"url": "https://www.researchgate.net/scientific-contributions/2066683599_Shuichiro_Tagane",
+						"image": "https://c5.rgstatic.net/m/435982309481010/images/template/default/author/author_default_m.jpg"
+					},
+					{
+						"@context": "https://schema.org/",
+						"@type": "Person",
+						"name": "Phetlasy Souladeth",
+						"url": "https://www.researchgate.net/profile/Phetlasy_Souladeth2",
+						"image": "https://i1.rgstatic.net/ii/profile.image/854360753967104-1580706885389_Q64/Phetlasy_Souladeth2.jpg",
+						"memberOf": {
+							"@context": "https://schema.org/",
+							"@type": "Organization",
+							"name": "National University of Laos"
+						}
+					},
+					{
+						"@context": "https://schema.org/",
+						"@type": "Person",
+						"name": "Tetsukazu Yahara",
+						"url": "https://www.researchgate.net/scientific-contributions/2128268126_Tetsukazu_Yahara",
+						"image": "https://c5.rgstatic.net/m/435982309481010/images/template/default/author/author_default_m.jpg"
+					}
+				],
+				"publisher": {
+					"@context": "https://schema.org/",
+					"@type": "Organization",
+					"name": "Phytotaxa"
+				}
+			},
+			{
+				"@context": "https://schema.org/",
+				"@type": "ScholarlyArticle",
+				"datePublished": "2017-10-20",
+				"headline": "Begonia glutinosa, a new synonym of Begonia wallichiana (Begoniaceae) with additional notes on this species",
+				"mainEntityOfPage": "https://www.researchgate.net/publication/320534347_Begonia_glutinosa_a_new_synonym_of_Begonia_wallichiana_Begoniaceae_with_additional_notes_on_this_species",
+				"author": [{
+						"@context": "https://schema.org/",
+						"@type": "Person",
+						"name": "Sirilak Radbouchoom",
+						"url": "https://www.researchgate.net/profile/Sirilak_Radbouchoom",
+						"image": "https://c5.rgstatic.net/m/4671872220764/images/template/default/profile/profile_default_m.jpg",
+						"memberOf": {
+							"@context": "https://schema.org/",
+							"@type": "Organization",
+							"name": "Chinese Academy of Sciences"
+						}
+					},
+					{
+						"@context": "https://schema.org/",
+						"@type": "Person",
+						"name": "Wen-Hong Chen",
+						"url": "https://www.researchgate.net/profile/Wen_Hong_Chen",
+						"image": "https://c5.rgstatic.net/m/4671872220764/images/template/default/profile/profile_default_m.jpg",
+						"memberOf": {
+							"@context": "https://schema.org/",
+							"@type": "Organization",
+							"name": "Chinese Academy of Sciences"
+						}
+					},
+					{
+						"@context": "https://schema.org/",
+						"@type": "Person",
+						"name": "Yu M. Shui",
+						"url": "https://www.researchgate.net/profile/Yu_Shui",
+						"image": "https://i1.rgstatic.net/ii/profile.image/272541403054087-1441990342524_Q64/Yu_Shui.jpg",
+						"memberOf": {
+							"@context": "https://schema.org/",
+							"@type": "Organization",
+							"name": "Chinese Academy of Sciences"
+						}
+					}
+				],
+				"publisher": {
+					"@context": "https://schema.org/",
+					"@type": "Organization",
+					"name": "Phytotaxa"
+				}
+			},
+			{
+				"@context": "https://schema.org/",
+				"@type": "ScholarlyArticle",
+				"datePublished": "2017-05-19",
+				"headline": "A revision and recircumscription of Begonia Section Pilderia including one new species",
+				"mainEntityOfPage": "https://www.researchgate.net/publication/317054692_A_revision_and_recircumscription_of_Begonia_Section_Pilderia_including_one_new_species",
+				"author": [{
+						"@context": "https://schema.org/",
+						"@type": "Person",
+						"name": "Peter Moonlight",
+						"url": "https://www.researchgate.net/profile/Peter_Moonlight",
+						"image": "https://i1.rgstatic.net/ii/profile.image/635352175890433-1528491171111_Q64/Peter_Moonlight.jpg",
+						"memberOf": {
+							"@context": "https://schema.org/",
+							"@type": "Organization",
+							"name": "Royal Botanic Garden Edinburgh"
+						}
+					},
+					{
+						"@context": "https://schema.org/",
+						"@type": "Person",
+						"name": "Orlando Adolfo Jara",
+						"url": "https://www.researchgate.net/profile/Orlando_Jara",
+						"image": "https://i1.rgstatic.net/ii/profile.image/449900543516674-1484276056684_Q64/Orlando_Jara.jpg",
+						"memberOf": {
+							"@context": "https://schema.org/",
+							"@type": "Organization",
+							"name": "Jardín Botánico de Bogotá, Colombia"
+						}
+					}
+				],
+				"publisher": {
+					"@context": "https://schema.org/",
+					"@type": "Organization",
+					"name": "Phytotaxa"
+				}
+			},
+			{
+				"@context": "https://schema.org/",
+				"@type": "ScholarlyArticle",
+				"datePublished": "1981-11-01",
+				"headline": "Plant Taxonomy and Biosystematics.",
+				"mainEntityOfPage": "https://www.researchgate.net/publication/314891941_Plant_Taxonomy_and_Biosystematics",
+				"author": [{
+						"@context": "https://schema.org/",
+						"@type": "Person",
+						"name": "R. S. Callow",
+						"url": "https://www.researchgate.net/scientific-contributions/2124325949_R_S_Callow",
+						"image": "https://c5.rgstatic.net/m/435982309481010/images/template/default/author/author_default_m.jpg"
+					},
+					{
+						"@context": "https://schema.org/",
+						"@type": "Person",
+						"name": "C. A. Stace",
+						"url": "https://www.researchgate.net/scientific-contributions/2124303351_C_A_Stace",
+						"image": "https://c5.rgstatic.net/m/435982309481010/images/template/default/author/author_default_m.jpg"
+					}
+				],
+				"publisher": {
+					"@context": "https://schema.org/",
+					"@type": "Organization",
+					"name": "Journal of Ecology",
+					"url": "http://www.interscience.wiley.com/jpages/0022-0477/"
+				}
+			},
+			{
+				"@context": "https://schema.org/",
+				"@type": "ScholarlyArticle",
+				"datePublished": "2017-03-09",
+				"headline": "Taxonomy of Begonia albomaculata and Description of Two New Species Endemic to Peru",
+				"mainEntityOfPage": "https://www.researchgate.net/publication/314716758_Taxonomy_of_Begonia_albomaculata_and_Description_of_Two_New_Species_Endemic_to_Peru",
+				"author": [{
+						"@context": "https://schema.org/",
+						"@type": "Person",
+						"name": "Peter Moonlight",
+						"url": "https://www.researchgate.net/profile/Peter_Moonlight",
+						"image": "https://i1.rgstatic.net/ii/profile.image/635352175890433-1528491171111_Q64/Peter_Moonlight.jpg",
+						"memberOf": {
+							"@context": "https://schema.org/",
+							"@type": "Organization",
+							"name": "Royal Botanic Garden Edinburgh"
+						}
+					},
+					{
+						"@context": "https://schema.org/",
+						"@type": "Person",
+						"name": "M. Hughes",
+						"url": "https://www.researchgate.net/scientific-contributions/2124191776_M_Hughes",
+						"image": "https://c5.rgstatic.net/m/435982309481010/images/template/default/author/author_default_m.jpg"
+					},
+					{
+						"@context": "https://schema.org/",
+						"@type": "Person",
+						"name": "Mark C. Tebbitt",
+						"url": "https://www.researchgate.net/scientific-contributions/58102511_Mark_C_Tebbitt",
+						"image": "https://c5.rgstatic.net/m/435982309481010/images/template/default/author/author_default_m.jpg"
+					}
+				],
+				"publisher": {
+					"@context": "https://schema.org/",
+					"@type": "Organization",
+					"name": "Edinburgh Journal of Botany",
+					"url": "http://journals.cambridge.org/action/displayJournal?jid=EJB"
+				}
+			},
+			{
+				"@context": "https://schema.org/",
+				"@type": "ScholarlyArticle",
+				"datePublished": "2017-02-17",
+				"headline": "Begonia elachista Moonlight & Tebbitt sp. Nov., an enigmatic new species and a new section of Begonia...",
+				"mainEntityOfPage": "https://www.researchgate.net/publication/313835400_Begonia_elachista_Moonlight_Tebbitt_sp_Nov_an_enigmatic_new_species_and_a_new_section_of_Begonia_Begoniaceae_from_Peru",
+				"author": [{
+						"@context": "https://schema.org/",
+						"@type": "Person",
+						"name": "Peter Moonlight",
+						"url": "https://www.researchgate.net/profile/Peter_Moonlight",
+						"image": "https://i1.rgstatic.net/ii/profile.image/635352175890433-1528491171111_Q64/Peter_Moonlight.jpg",
+						"memberOf": {
+							"@context": "https://schema.org/",
+							"@type": "Organization",
+							"name": "Royal Botanic Garden Edinburgh"
+						}
+					},
+					{
+						"@context": "https://schema.org/",
+						"@type": "Person",
+						"name": "Carlos Reynel",
+						"url": "https://www.researchgate.net/scientific-contributions/2110422921_Carlos_Reynel",
+						"image": "https://c5.rgstatic.net/m/435982309481010/images/template/default/author/author_default_m.jpg"
+					},
+					{
+						"@context": "https://schema.org/",
+						"@type": "Person",
+						"name": "Mark C. Tebbitt",
+						"url": "https://www.researchgate.net/scientific-contributions/58102511_Mark_C_Tebbitt",
+						"image": "https://c5.rgstatic.net/m/435982309481010/images/template/default/author/author_default_m.jpg"
+					}
+				],
+				"publisher": {
+					"@context": "https://schema.org/",
+					"@type": "Organization",
+					"name": "European Journal of Taxonomy",
+					"url": "http://www.europeanjournaloftaxonomy.eu/index.php/ejt"
+				}
+			},
+			{
+				"@context": "https://schema.org/",
+				"@type": "ScholarlyArticle",
+				"datePublished": "2017-05-01",
+				"headline": "A new species of Begonia section Parvibegonia (Begoniaceae) from Thailand and Myanmar",
+				"mainEntityOfPage": "https://www.researchgate.net/publication/313552616_A_new_species_of_Begonia_section_Parvibegonia_Begoniaceae_from_Thailand_and_Myanmar",
+				"author": [{
+						"@context": "https://schema.org/",
+						"@type": "Person",
+						"name": "Thamarat Phutthai",
+						"url": "https://www.researchgate.net/profile/Thamarat_Phutthai",
+						"image": "https://c5.rgstatic.net/m/4671872220764/images/template/default/profile/profile_default_m.jpg",
+						"memberOf": {
+							"@context": "https://schema.org/",
+							"@type": "Organization",
+							"name": "Mahidol University"
+						}
+					},
+					{
+						"@context": "https://schema.org/",
+						"@type": "Person",
+						"name": "M. Hughes",
+						"url": "https://www.researchgate.net/scientific-contributions/2055038637_M_Hughes",
+						"image": "https://c5.rgstatic.net/m/435982309481010/images/template/default/author/author_default_m.jpg"
+					}
+				],
+				"publisher": {
+					"@context": "https://schema.org/",
+					"@type": "Organization",
+					"name": "Blumea journal of plant taxonomy and plant geography",
+					"url": "http://www.nationaalherbarium.nl/pubs/blumea/home.htm#Contents"
+				}
+			},
+			{
+				"@context": "https://schema.org/",
+				"@type": "ScholarlyArticle",
+				"datePublished": "2016-01-01",
+				"headline": "The Calcarea group of Begonia (Begoniaceae) from Borneo, including four new species from Sarawak",
+				"mainEntityOfPage": "https://www.researchgate.net/publication/312240792_The_Calcarea_group_of_Begonia_Begoniaceae_from_Borneo_including_four_new_species_from_Sarawak",
+				"author": [{
+						"@context": "https://schema.org/",
+						"@type": "Person",
+						"name": "Ruth Kiew",
+						"url": "https://www.researchgate.net/profile/Ruth_Kiew",
+						"image": "https://i1.rgstatic.net/ii/profile.image/553568387833856-1508992396419_Q64/Ruth_Kiew.jpg",
+						"memberOf": {
+							"@context": "https://schema.org/",
+							"@type": "Organization",
+							"name": "Forest Research Institute Malaysia (FRIM)"
+						}
+					},
+					{
+						"@context": "https://schema.org/",
+						"@type": "Person",
+						"name": "Julia Sang",
+						"url": "https://www.researchgate.net/profile/Julia_Sang",
+						"image": "https://c5.rgstatic.net/m/4671872220764/images/template/default/profile/profile_default_m.jpg",
+						"memberOf": {
+							"@context": "https://schema.org/",
+							"@type": "Organization",
+							"name": "Sarawak Forestry Corporation"
+						}
+					},
+					{
+						"@context": "https://schema.org/",
+						"@type": "Person",
+						"name": "Chea Yiing Ling",
+						"url": "https://www.researchgate.net/profile/Chea_Yiing_Ling",
+						"image": "https://i1.rgstatic.net/ii/profile.image/281414831493120-1444105932514_Q64/Chea_Yiing_Ling.jpg",
+						"memberOf": {
+							"@context": "https://schema.org/",
+							"@type": "Organization",
+							"name": "Sarawak Forestry Corporation"
+						}
+					}
+				]
+			},
+			{
+				"@context": "https://schema.org/",
+				"@type": "ScholarlyArticle",
+				"datePublished": "2016-09-27",
+				"headline": "Six new species of Begonia (Begoniaceae) from Central Sarawak, Borneo",
+				"mainEntityOfPage": "https://www.researchgate.net/publication/309073885_Six_new_species_of_Begonia_Begoniaceae_from_Central_Sarawak_Borneo",
+				"author": [{
+						"@context": "https://schema.org/",
+						"@type": "Person",
+						"name": "Julia Sang",
+						"url": "https://www.researchgate.net/profile/Julia_Sang",
+						"image": "https://c5.rgstatic.net/m/4671872220764/images/template/default/profile/profile_default_m.jpg",
+						"memberOf": {
+							"@context": "https://schema.org/",
+							"@type": "Organization",
+							"name": "Sarawak Forestry Corporation"
+						}
+					},
+					{
+						"@context": "https://schema.org/",
+						"@type": "Person",
+						"name": "Ruth Kiew",
+						"url": "https://www.researchgate.net/profile/Ruth_Kiew",
+						"image": "https://i1.rgstatic.net/ii/profile.image/553568387833856-1508992396419_Q64/Ruth_Kiew.jpg",
+						"memberOf": {
+							"@context": "https://schema.org/",
+							"@type": "Organization",
+							"name": "Forest Research Institute Malaysia (FRIM)"
+						}
+					},
+					{
+						"@context": "https://schema.org/",
+						"@type": "Person",
+						"name": "Chea Yiing Ling",
+						"url": "https://www.researchgate.net/profile/Chea_Yiing_Ling",
+						"image": "https://i1.rgstatic.net/ii/profile.image/281414831493120-1444105932514_Q64/Chea_Yiing_Ling.jpg",
+						"memberOf": {
+							"@context": "https://schema.org/",
+							"@type": "Organization",
+							"name": "Sarawak Forestry Corporation"
+						}
+					}
+				],
+				"publisher": {
+					"@context": "https://schema.org/",
+					"@type": "Organization",
+					"name": "Phytotaxa"
+				}
+			},
+			{
+				"@context": "https://schema.org/",
+				"@type": "ScholarlyArticle",
+				"datePublished": "2014-12-23",
+				"headline": "DIVERSITY OF BEGONIA (BEGONIACEAE) IN BORNEO â€“ HOW MANY SPECIES ARE THERE?",
+				"mainEntityOfPage": "https://www.researchgate.net/publication/307791665_DIVERSITY_OF_BEGONIA_BEGONIACEAE_IN_BORNEO_a_HOW_MANY_SPECIES_ARE_THERE",
+				"author": [{
+						"@context": "https://schema.org/",
+						"@type": "Person",
+						"name": "Julia Sang",
+						"url": "https://www.researchgate.net/profile/Julia_Sang",
+						"image": "https://c5.rgstatic.net/m/4671872220764/images/template/default/profile/profile_default_m.jpg",
+						"memberOf": {
+							"@context": "https://schema.org/",
+							"@type": "Organization",
+							"name": "Sarawak Forestry Corporation"
+						}
+					},
+					{
+						"@context": "https://schema.org/",
+						"@type": "Person",
+						"name": "Ruth Kiew",
+						"url": "https://www.researchgate.net/profile/Ruth_Kiew",
+						"image": "https://i1.rgstatic.net/ii/profile.image/553568387833856-1508992396419_Q64/Ruth_Kiew.jpg",
+						"memberOf": {
+							"@context": "https://schema.org/",
+							"@type": "Organization",
+							"name": "Forest Research Institute Malaysia (FRIM)"
+						}
+					}
+				]
+			},
+			{
+				"@context": "https://schema.org/",
+				"@type": "ScholarlyArticle",
+				"datePublished": "2020-02-19",
+				"headline": "Begonia oleosa (Begoniaceae), the first species with glandular hairs in the section Casparya",
+				"mainEntityOfPage": "https://www.researchgate.net/publication/339372477_Begonia_oleosa_Begoniaceae_the_first_species_with_glandular_hairs_in_the_section_Casparya",
+				"author": [{
+					"@context": "https://schema.org/",
+					"@type": "Person",
+					"name": "Orlando Adolfo Jara",
+					"url": "https://www.researchgate.net/profile/Orlando_Jara",
+					"image": "https://i1.rgstatic.net/ii/profile.image/449900543516674-1484276056684_Q64/Orlando_Jara.jpg",
+					"memberOf": {
+						"@context": "https://schema.org/",
+						"@type": "Organization",
+						"name": "Jardín Botánico de Bogotá, Colombia"
+					}
+				}],
+				"publisher": {
+					"@context": "https://schema.org/",
+					"@type": "Organization",
+					"name": "Brittonia",
+					"url": "http://apt.allenpress.com/aptonline/?request=get-moreinfo&issn=0007-196X"
+				}
+			},
+			{
+				"@context": "https://schema.org/",
+				"@type": "ScholarlyArticle",
+				"datePublished": "2020-01-01",
+				"headline": "Begonia puerensis sp. nov. (Begoniaceae), a new tuberous species from Yunnan, China",
+				"mainEntityOfPage": "https://www.researchgate.net/publication/339035049_Begonia_puerensis_sp_nov_Begoniaceae_a_new_tuberous_species_from_Yunnan_China",
+				"author": [{
+						"@context": "https://schema.org/",
+						"@type": "Person",
+						"name": "Wen-Guang Wang",
+						"url": "https://www.researchgate.net/scientific-contributions/2158924043_Wen-Guang_Wang",
+						"image": "https://c5.rgstatic.net/m/435982309481010/images/template/default/author/author_default_m.jpg"
+					},
+					{
+						"@context": "https://schema.org/",
+						"@type": "Person",
+						"name": "Xing-Da Ma",
+						"url": "https://www.researchgate.net/scientific-contributions/2163516673_Xing-Da_Ma",
+						"image": "https://c5.rgstatic.net/m/435982309481010/images/template/default/author/author_default_m.jpg"
+					},
+					{
+						"@context": "https://schema.org/",
+						"@type": "Person",
+						"name": "Ren‐Kun Li",
+						"url": "https://www.researchgate.net/scientific-contributions/2170167438_Ren-Kun_Li",
+						"image": "https://c5.rgstatic.net/m/435982309481010/images/template/default/author/author_default_m.jpg"
+					},
+					{
+						"@context": "https://schema.org/",
+						"@type": "Person",
+						"name": "Shen Jianyong",
+						"url": "https://www.researchgate.net/profile/Shen_Jianyong",
+						"image": "https://i1.rgstatic.net/ii/profile.image/729089887440900-1550839983991_Q64/Shen_Jianyong.jpg",
+						"memberOf": {
+							"@context": "https://schema.org/",
+							"@type": "Organization",
+							"name": "Xishuangbanna Tropical Botanical Garden"
+						}
+					}
+				],
+				"publisher": {
+					"@context": "https://schema.org/",
+					"@type": "Organization",
+					"name": "Nordic Journal of Botany",
+					"url": "http://www.nordic-botany.dk/"
+				}
+			},
+			{
+				"@context": "https://schema.org/",
+				"@type": "ScholarlyArticle",
+				"datePublished": "2019-06-03",
+				"headline": "Three new species of Begonia sect. Erminea (Begoniaceae) from north-east Madagascar",
+				"mainEntityOfPage": "https://www.researchgate.net/publication/338984823_Three_new_species_of_Begonia_sect_Erminea_Begoniaceae_from_north-east_Madagascar",
+				"author": [{
+						"@context": "https://schema.org/",
+						"@type": "Person",
+						"name": "David Scherberich",
+						"url": "https://www.researchgate.net/profile/David_Scherberich2",
+						"image": "https://i1.rgstatic.net/ii/profile.image/415744069259264-1476132518119_Q64/David_Scherberich2.jpg",
+						"memberOf": {
+							"@context": "https://schema.org/",
+							"@type": "Organization",
+							"name": "Jardin Botanique de Lyon"
+						}
+					},
+					{
+						"@context": "https://schema.org/",
+						"@type": "Person",
+						"name": "Jacky Duruisseau",
+						"url": "https://www.researchgate.net/profile/Jacky_Duruisseau",
+						"image": "https://c5.rgstatic.net/m/4671872220764/images/template/default/profile/profile_default_m.jpg",
+						"memberOf": {
+							"@context": "https://schema.org/",
+							"@type": "Organization",
+							"name": "Oropa Botanical Garden"
+						}
+					}
+				],
+				"publisher": {
+					"@context": "https://schema.org/",
+					"@type": "Organization",
+					"name": "Adansonia",
+					"url": "http://www.mnhn.fr/publication/adanson/adanson.html"
+				}
+			},
+			{
+				"@context": "https://schema.org/",
+				"@type": "ScholarlyArticle",
+				"datePublished": "2020-01-22",
+				"headline": "Begonia naga, a synonym of B. manhaoensis (Begoniaceae)",
+				"mainEntityOfPage": "https://www.researchgate.net/publication/338741120_Begonia_naga_a_synonym_of_B_manhaoensis_Begoniaceae",
+				"author": [{
+						"@context": "https://schema.org/",
+						"@type": "Person",
+						"name": "Aung Aung",
+						"url": "https://www.researchgate.net/profile/Aung_Aung8",
+						"image": "https://i1.rgstatic.net/ii/profile.image/795961458708482-1566783408613_Q64/Aung_Aung8.jpg",
+						"memberOf": {
+							"@context": "https://schema.org/",
+							"@type": "Organization",
+							"name": "Kunming Institute of Botany"
+						}
+					},
+					{
+						"@context": "https://schema.org/",
+						"@type": "Person",
+						"name": "Wen-Hong Chen",
+						"url": "https://www.researchgate.net/profile/Wen_Hong_Chen",
+						"image": "https://c5.rgstatic.net/m/4671872220764/images/template/default/profile/profile_default_m.jpg",
+						"memberOf": {
+							"@context": "https://schema.org/",
+							"@type": "Organization",
+							"name": "Chinese Academy of Sciences"
+						}
+					},
+					{
+						"@context": "https://schema.org/",
+						"@type": "Person",
+						"name": "YU-MIN SHUI",
+						"url": "https://www.researchgate.net/scientific-contributions/2160046551_YU-MIN_SHUI",
+						"image": "https://c5.rgstatic.net/m/435982309481010/images/template/default/author/author_default_m.jpg"
+					}
+				],
+				"publisher": {
+					"@context": "https://schema.org/",
+					"@type": "Organization",
+					"name": "Phytotaxa"
+				}
+			},
+			{
+				"@context": "https://schema.org/",
+				"@type": "ScholarlyArticle",
+				"datePublished": "2020-01-01",
+				"headline": "Begonia daunhitam, a new species of Begonia (Begoniaceae) from West Kalimantan, Indonesia",
+				"mainEntityOfPage": "https://www.researchgate.net/publication/338738939_Begonia_daunhitam_a_new_species_of_Begonia_Begoniaceae_from_West_Kalimantan_Indonesia",
+				"author": [{
+						"@context": "https://schema.org/",
+						"@type": "Person",
+						"name": "Wen-Guang Wang",
+						"url": "https://www.researchgate.net/scientific-contributions/2158924043_Wen-Guang_Wang",
+						"image": "https://c5.rgstatic.net/m/435982309481010/images/template/default/author/author_default_m.jpg"
+					},
+					{
+						"@context": "https://schema.org/",
+						"@type": "Person",
+						"name": "Agusti Randi",
+						"url": "https://www.researchgate.net/profile/Agusti_Randi2",
+						"image": "https://i1.rgstatic.net/ii/profile.image/274887759626241-1442549757391_Q64/Agusti_Randi2.jpg",
+						"memberOf": {
+							"@context": "https://schema.org/",
+							"@type": "Organization",
+							"name": "Bogor Agricultural University"
+						}
+					},
+					{
+						"@context": "https://schema.org/",
+						"@type": "Person",
+						"name": "Cheng-Xin-Luo Wang",
+						"url": "https://www.researchgate.net/scientific-contributions/2169559926_Cheng-Xin-Luo_Wang",
+						"image": "https://c5.rgstatic.net/m/435982309481010/images/template/default/author/author_default_m.jpg"
+					},
+					{
+						"@context": "https://schema.org/",
+						"@type": "Person",
+						"name": "Shouzhou Zhang",
+						"url": "https://www.researchgate.net/profile/Shouzhou_Zhang2",
+						"image": "https://i1.rgstatic.net/ii/profile.image/295247801274371-1447403969408_Q64/Shouzhou_Zhang2.jpg",
+						"memberOf": {
+							"@context": "https://schema.org/",
+							"@type": "Organization",
+							"name": "Shenzhen Fairylike Botanical Garden"
+						}
+					}
+				],
+				"publisher": {
+					"@context": "https://schema.org/",
+					"@type": "Organization",
+					"name": "Taiwania"
+				}
+			},
+			{
+				"@context": "https://schema.org/",
+				"@type": "ScholarlyArticle",
+				"datePublished": "2020-01-10",
+				"headline": "An updated checklist of Begonia (Begoniaceae) in Laos, with two new species and five new records",
+				"mainEntityOfPage": "https://www.researchgate.net/publication/338516102_An_updated_checklist_of_Begonia_Begoniaceae_in_Laos_with_two_new_species_and_five_new_records",
+				"author": [{
+						"@context": "https://schema.org/",
+						"@type": "Person",
+						"name": "Ding Hong Bo",
+						"url": "https://www.researchgate.net/profile/Ding_Hong_Bo",
+						"image": "https://i1.rgstatic.net/ii/profile.image/728734160134145-1550755171555_Q64/Ding_Hong_Bo.jpg",
+						"memberOf": {
+							"@context": "https://schema.org/",
+							"@type": "Organization",
+							"name": "Xishuangbanna Tropical Botanical Garden"
+						}
+					},
+					{
+						"@context": "https://schema.org/",
+						"@type": "Person",
+						"name": "Mya Bhone Maw",
+						"url": "https://www.researchgate.net/profile/Mya_Maw",
+						"image": "https://i1.rgstatic.net/ii/profile.image/735092045516801-1552271009689_Q64/Mya_Maw.jpg",
+						"memberOf": {
+							"@context": "https://schema.org/",
+							"@type": "Organization",
+							"name": "Xishuangbanna Tropical Botanical Garden,CAS"
+						}
+					},
+					{
+						"@context": "https://schema.org/",
+						"@type": "Person",
+						"name": "Yang Bin",
+						"url": "https://www.researchgate.net/profile/Yang_Bin6",
+						"image": "https://i1.rgstatic.net/ii/profile.image/555802857402369-1509525135785_Q64/Yang_Bin6.jpg",
+						"memberOf": {
+							"@context": "https://schema.org/",
+							"@type": "Organization",
+							"name": "Chinese Academy of Sciences"
+						}
+					},
+					{
+						"@context": "https://schema.org/",
+						"@type": "Person",
+						"name": "Yunhong Tan",
+						"url": "https://www.researchgate.net/profile/Yunhong_Tan",
+						"image": "https://i1.rgstatic.net/ii/profile.image/333754083102720-1456584582593_Q64/Yunhong_Tan.jpg",
+						"memberOf": {
+							"@context": "https://schema.org/",
+							"@type": "Organization",
+							"name": "Xishuangbanna Tropical Botanical Garden"
+						}
+					}
+				]
+			},
+			{
+				"@context": "https://schema.org/",
+				"@type": "ScholarlyArticle",
+				"datePublished": "2020-01-10",
+				"headline": "Taxonomic studies on Begonia (Begoniaceae) in Myanmar I: three new species and supplementary description...",
+				"mainEntityOfPage": "https://www.researchgate.net/publication/338515504_Taxonomic_studies_on_Begonia_Begoniaceae_in_Myanmar_I_three_new_species_and_supplementary_description_of_Begonia_rheophytica_from_Northern_Myanmar",
+				"author": [{
+						"@context": "https://schema.org/",
+						"@type": "Person",
+						"name": "Mya Bhone Maw",
+						"url": "https://www.researchgate.net/profile/Mya_Maw",
+						"image": "https://i1.rgstatic.net/ii/profile.image/735092045516801-1552271009689_Q64/Mya_Maw.jpg",
+						"memberOf": {
+							"@context": "https://schema.org/",
+							"@type": "Organization",
+							"name": "Xishuangbanna Tropical Botanical Garden,CAS"
+						}
+					},
+					{
+						"@context": "https://schema.org/",
+						"@type": "Person",
+						"name": "Ding Hong Bo",
+						"url": "https://www.researchgate.net/profile/Ding_Hong_Bo",
+						"image": "https://i1.rgstatic.net/ii/profile.image/728734160134145-1550755171555_Q64/Ding_Hong_Bo.jpg",
+						"memberOf": {
+							"@context": "https://schema.org/",
+							"@type": "Organization",
+							"name": "Xishuangbanna Tropical Botanical Garden"
+						}
+					},
+					{
+						"@context": "https://schema.org/",
+						"@type": "Person",
+						"name": "Yang Bin",
+						"url": "https://www.researchgate.net/profile/Yang_Bin6",
+						"image": "https://i1.rgstatic.net/ii/profile.image/555802857402369-1509525135785_Q64/Yang_Bin6.jpg",
+						"memberOf": {
+							"@context": "https://schema.org/",
+							"@type": "Organization",
+							"name": "Chinese Academy of Sciences"
+						}
+					},
+					{
+						"@context": "https://schema.org/",
+						"@type": "Person",
+						"name": "Yunhong Tan",
+						"url": "https://www.researchgate.net/profile/Yunhong_Tan",
+						"image": "https://i1.rgstatic.net/ii/profile.image/333754083102720-1456584582593_Q64/Yunhong_Tan.jpg",
+						"memberOf": {
+							"@context": "https://schema.org/",
+							"@type": "Organization",
+							"name": "Xishuangbanna Tropical Botanical Garden"
+						}
+					}
+				]
+			},
+			{
+				"@context": "https://schema.org/",
+				"@type": "ScholarlyArticle",
+				"datePublished": "2020-01-01",
+				"headline": "Begonia phouchomvoyensis (Begoniaceae), a new species from Lao PDR",
+				"mainEntityOfPage": "https://www.researchgate.net/publication/338449135_Begonia_phouchomvoyensis_Begoniaceae_a_new_species_from_Lao_PDR",
+				"author": [{
+						"@context": "https://schema.org/",
+						"@type": "Person",
+						"name": "Soulivanh Lanorsavanh",
+						"url": "https://www.researchgate.net/profile/Soulivanh_Lanorsavanh",
+						"image": "https://i1.rgstatic.net/ii/profile.image/684756219990016-1540270013009_Q64/Soulivanh_Lanorsavanh.jpg",
+						"memberOf": {
+							"@context": "https://schema.org/",
+							"@type": "Organization",
+							"name": "National University of Laos"
+						}
+					},
+					{
+						"@context": "https://schema.org/",
+						"@type": "Person",
+						"name": "Mark Hughes",
+						"url": "https://www.researchgate.net/scientific-contributions/2115206257_Mark_Hughes",
+						"image": "https://c5.rgstatic.net/m/435982309481010/images/template/default/author/author_default_m.jpg"
+					},
+					{
+						"@context": "https://schema.org/",
+						"@type": "Person",
+						"name": "Keooudone Souvannakhoummane",
+						"url": "https://www.researchgate.net/profile/Keooudone_Souvannakhoummane",
+						"image": "https://i1.rgstatic.net/ii/profile.image/299164303937537-1448337736830_Q64/Keooudone_Souvannakhoummane.jpg",
+						"memberOf": {
+							"@context": "https://schema.org/",
+							"@type": "Organization",
+							"name": "National Agriculture and Forest Research Institution"
+						}
+					},
+					{
+						"@context": "https://schema.org/",
+						"@type": "Person",
+						"name": "Vichith Lamxay",
+						"url": "https://www.researchgate.net/profile/Vichith_Lamxay",
+						"image": "https://i1.rgstatic.net/ii/profile.image/272577805418496-1441999021475_Q64/Vichith_Lamxay.jpg",
+						"memberOf": {
+							"@context": "https://schema.org/",
+							"@type": "Organization",
+							"name": "Uppsala University"
+						}
+					}
+				],
+				"publisher": {
+					"@context": "https://schema.org/",
+					"@type": "Organization",
+					"name": "Taiwania"
+				}
+			},
+			{
+				"@context": "https://schema.org/",
+				"@type": "ScholarlyArticle",
+				"datePublished": "2019-12-17",
+				"headline": "Two new species, Begonia dinhdui and B. bacmeensis (Begoniaceae), from Vietnam",
+				"mainEntityOfPage": "https://www.researchgate.net/publication/337989497_Two_new_species_Begonia_dinhdui_and_B_bacmeensis_Begoniaceae_from_Vietnam",
+				"author": [{
+						"@context": "https://schema.org/",
+						"@type": "Person",
+						"name": "VAN-THE PHAM",
+						"url": "https://www.researchgate.net/scientific-contributions/2168021800_VAN-THE_PHAM",
+						"image": "https://c5.rgstatic.net/m/435982309481010/images/template/default/author/author_default_m.jpg"
+					},
+					{
+						"@context": "https://schema.org/",
+						"@type": "Person",
+						"name": "NGOC-BON TRINH",
+						"url": "https://www.researchgate.net/scientific-contributions/2168017293_NGOC-BON_TRINH",
+						"image": "https://c5.rgstatic.net/m/435982309481010/images/template/default/author/author_default_m.jpg"
+					},
+					{
+						"@context": "https://schema.org/",
+						"@type": "Person",
+						"name": "KE-LOC PHAN",
+						"url": "https://www.researchgate.net/scientific-contributions/2167999306_KE-LOC_PHAN",
+						"image": "https://c5.rgstatic.net/m/435982309481010/images/template/default/author/author_default_m.jpg"
+					},
+					{
+						"@context": "https://schema.org/",
+						"@type": "Person",
+						"name": "Che-Wei Lin",
+						"url": "https://www.researchgate.net/profile/Che_Wei_Lin",
+						"image": "https://i1.rgstatic.net/ii/profile.image/279084648157278-1443550374063_Q64/Che_Wei_Lin.jpg",
+						"memberOf": {
+							"@context": "https://schema.org/",
+							"@type": "Organization",
+							"name": "Taiwan Forestry Research Institute"
+						}
+					}
+				],
+				"publisher": {
+					"@context": "https://schema.org/",
+					"@type": "Organization",
+					"name": "Phytotaxa"
+				}
+			},
+			{
+				"@context": "https://schema.org/",
+				"@type": "ScholarlyArticle",
+				"datePublished": "2019-11-26",
+				"headline": "A NEW SECTION ( BEGONIA SECT. FLOCCIFERAE SECT. NOV.) AND TWO NEW SPECIES IN BEGONIACEAE FROM THE WESTERN...",
+				"mainEntityOfPage": "https://www.researchgate.net/publication/337546903_A_NEW_SECTION_BEGONIA_SECT_FLOCCIFERAE_SECT_NOV_AND_TWO_NEW_SPECIES_IN_BEGONIACEAE_FROM_THE_WESTERN_GHATS_OF_INDIA",
+				"author": [{
+						"@context": "https://schema.org/",
+						"@type": "Person",
+						"name": "Nikhil Krishna",
+						"url": "https://www.researchgate.net/profile/Nikhil_Krishna",
+						"image": "https://i1.rgstatic.net/ii/profile.image/831753988083714-1575317012432_Q64/Nikhil_Krishna.jpg",
+						"memberOf": {
+							"@context": "https://schema.org/",
+							"@type": "Organization",
+							"name": "University of Calicut"
+						}
+					},
+					{
+						"@context": "https://schema.org/",
+						"@type": "Person",
+						"name": "S. John Britto",
+						"url": "https://www.researchgate.net/scientific-contributions/2052626080_S_John_Britto",
+						"image": "https://c5.rgstatic.net/m/435982309481010/images/template/default/author/author_default_m.jpg"
+					},
+					{
+						"@context": "https://schema.org/",
+						"@type": "Person",
+						"name": "Sinjumol Thomas",
+						"url": "https://www.researchgate.net/profile/Sinjumol_Thomas",
+						"image": "https://c5.rgstatic.net/m/4671872220764/images/template/default/profile/profile_default_m.jpg",
+						"memberOf": {
+							"@context": "https://schema.org/",
+							"@type": "Organization",
+							"name": "Carmel  College"
+						}
+					},
+					{
+						"@context": "https://schema.org/",
+						"@type": "Person",
+						"name": "K. V. Jithin",
+						"url": "https://www.researchgate.net/scientific-contributions/2167096315_K_V_Jithin",
+						"image": "https://c5.rgstatic.net/m/435982309481010/images/template/default/author/author_default_m.jpg"
+					}
+				],
+				"publisher": {
+					"@context": "https://schema.org/",
+					"@type": "Organization",
+					"name": "Edinburgh Journal of Botany",
+					"url": "http://journals.cambridge.org/action/displayJournal?jid=EJB"
+				}
+			}
+		],
+		"sameAs": "https://doi.org/10.12705/672.3"
+	}
+}
