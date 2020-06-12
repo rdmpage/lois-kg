@@ -1,0 +1,13 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Harikrishnan Surendran",
+    "image": "https://i1.rgstatic.net/ii/profile.image/799281543905281-1567574978087_Q128/Harikrishnan_Surendran.jpg",
+    "mainEntityOfPage": "https://www.researchgate.net/profile/Harikrishnan_Surendran",
+    "url": "https://www.researchgate.net/profile/Harikrishnan_Surendran",
+    "affiliation": {
+        "@type": "Organization",
+        "name": "Metastring Foundation - India Biodiversity Portal",
+        "url": null
+    }
+}

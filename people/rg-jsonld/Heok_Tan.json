@@ -1,0 +1,13 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Heok Hui Tan",
+    "image": "https://i1.rgstatic.net/ii/profile.image/273637144002620-1442251587820_Q128/Heok_Tan.jpg",
+    "mainEntityOfPage": "https://www.researchgate.net/profile/Heok_Tan",
+    "url": "https://www.researchgate.net/profile/Heok_Tan",
+    "affiliation": {
+        "@type": "Organization",
+        "name": "National University of Singapore, Singapore | NUS",
+        "url": "https://www.researchgate.net/institution/National_University_of_Singapore"
+    }
+}

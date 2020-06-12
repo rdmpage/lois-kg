@@ -1,0 +1,13 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Megan Short",
+    "image": "https://c5.rgstatic.net/m/437738464651637/images/template/default/profile/profile_default_l.jpg",
+    "mainEntityOfPage": "https://www.researchgate.net/profile/Megan_Short3",
+    "url": "https://www.researchgate.net/profile/Megan_Short3",
+    "affiliation": {
+        "@type": "Organization",
+        "name": "Deakin University",
+        "url": "https://www.researchgate.net/institution/Deakin_University"
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Marco F Duretto",
+    "image": "https://i1.rgstatic.net/ii/profile.image/339831260499974-1458033494362_Q128/Marco_Duretto.jpg",
+    "mainEntityOfPage": "https://www.researchgate.net/profile/Marco_Duretto",
+    "url": "https://www.researchgate.net/profile/Marco_Duretto",
+    "affiliation": {
+        "@type": "Organization",
+        "name": "Botanic Gardens & Centennial Parklands",
+        "url": null
+    }
+}

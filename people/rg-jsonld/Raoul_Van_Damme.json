@@ -1,0 +1,13 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Raoul Van Damme",
+    "image": "https://i1.rgstatic.net/ii/profile.image/272369520476186-1441949362739_Q128/Raoul_Van_Damme.jpg",
+    "mainEntityOfPage": "https://www.researchgate.net/profile/Raoul_Van_Damme",
+    "url": "https://www.researchgate.net/profile/Raoul_Van_Damme",
+    "affiliation": {
+        "@type": "Organization",
+        "name": "University of Antwerp, Antwerpen | UA",
+        "url": "https://www.researchgate.net/institution/University_of_Antwerp"
+    }
+}

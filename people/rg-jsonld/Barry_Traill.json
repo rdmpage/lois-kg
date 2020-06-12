@@ -1,0 +1,13 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Barry J. Traill",
+    "image": "https://i1.rgstatic.net/ii/profile.image/320209934585857-1453355405638_Q128/Barry_Traill.jpg",
+    "mainEntityOfPage": "https://www.researchgate.net/profile/Barry_Traill",
+    "url": "https://www.researchgate.net/profile/Barry_Traill",
+    "affiliation": {
+        "@type": "Organization",
+        "name": "The Pew Charitable Trusts",
+        "url": "https://www.researchgate.net/institution/The_Pew_Charitable_Trusts"
+    }
+}

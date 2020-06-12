@@ -1,0 +1,13 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Manuel Schweizer",
+    "image": "https://i1.rgstatic.net/ii/profile.image/272377829392409-1441951343516_Q128/Manuel_Schweizer.jpg",
+    "mainEntityOfPage": "https://www.researchgate.net/profile/Manuel_Schweizer",
+    "url": "https://www.researchgate.net/profile/Manuel_Schweizer",
+    "affiliation": {
+        "@type": "Organization",
+        "name": "Natural History Museum Bern",
+        "url": "https://www.researchgate.net/institution/Natural_History_Museum_Bern"
+    }
+}

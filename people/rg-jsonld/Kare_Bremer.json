@@ -1,0 +1,13 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Kåre Gunnar Bremer",
+    "image": "https://i1.rgstatic.net/ii/profile.image/279460160000000-1443639902044_Q128/Kare_Bremer.jpg",
+    "mainEntityOfPage": "https://www.researchgate.net/profile/Kare_Bremer",
+    "url": "https://www.researchgate.net/profile/Kare_Bremer",
+    "affiliation": {
+        "@type": "Organization",
+        "name": "Stockholm University, Stockholm | SU",
+        "url": "https://www.researchgate.net/institution/Stockholm_University"
+    }
+}

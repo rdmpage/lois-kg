@@ -1,0 +1,17 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Adi Shabrani",
+    "image": "https://i1.rgstatic.net/ii/profile.image/555131134984197-1509364984853_Q128/Adi_Shabrani.jpg",
+    "mainEntityOfPage": "https://www.researchgate.net/profile/Adi_Shabrani",
+    "url": "https://www.researchgate.net/profile/Adi_Shabrani",
+    "affiliation": {
+        "@type": "Organization",
+        "name": "University Malaysia Sarawak",
+        "url": "https://www.researchgate.net/institution/University_Malaysia_Sarawak"
+    },
+    "award": [
+        "Ministry of Higher Education Malaysia MyBrain15",
+        "Best Student for Faculty of Resource Science and Technology, UNIMAS"
+    ]
+}

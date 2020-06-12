@@ -1,0 +1,13 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Alexander Haas",
+    "image": "https://i1.rgstatic.net/ii/profile.image/444984768897027-1483104044912_Q128/Alexander_Haas7.jpg",
+    "mainEntityOfPage": "https://www.researchgate.net/profile/Alexander_Haas7",
+    "url": "https://www.researchgate.net/profile/Alexander_Haas7",
+    "affiliation": {
+        "@type": "Organization",
+        "name": "University of Hamburg, Hamburg | UHH",
+        "url": "https://www.researchgate.net/institution/University_of_Hamburg"
+    }
+}

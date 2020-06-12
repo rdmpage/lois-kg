@@ -1,0 +1,13 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Bradley M. Potts",
+    "image": "https://i1.rgstatic.net/ii/profile.image/437545113788417-1481330292775_Q128/Bradley_Potts.jpg",
+    "mainEntityOfPage": "https://www.researchgate.net/profile/Bradley_Potts",
+    "url": "https://www.researchgate.net/profile/Bradley_Potts",
+    "affiliation": {
+        "@type": "Organization",
+        "name": "University of Tasmania",
+        "url": "https://www.researchgate.net/institution/University_of_Tasmania"
+    }
+}

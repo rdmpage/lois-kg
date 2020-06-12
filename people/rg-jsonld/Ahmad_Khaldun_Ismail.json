@@ -1,0 +1,13 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Ahmad Khaldun Ismail",
+    "image": "https://i1.rgstatic.net/ii/profile.image/850110829301768-1579693624559_Q128/Ahmad_Khaldun_Ismail.jpg",
+    "mainEntityOfPage": "https://www.researchgate.net/profile/Ahmad_Khaldun_Ismail",
+    "url": "https://www.researchgate.net/profile/Ahmad_Khaldun_Ismail",
+    "affiliation": {
+        "@type": "Organization",
+        "name": "Hospital Universiti Kebangsaan Malaysia (HUKM), Kuala Lumpur | HUKM",
+        "url": "https://www.researchgate.net/institution/Hospital_Universiti_Kebangsaan_Malaysia_HUKM"
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Scott Weinstein",
+    "image": "https://c5.rgstatic.net/m/437738464651637/images/template/default/profile/profile_default_l.jpg",
+    "mainEntityOfPage": "https://www.researchgate.net/profile/Scott_Weinstein2",
+    "url": "https://www.researchgate.net/profile/Scott_Weinstein2",
+    "affiliation": {
+        "@type": "Organization",
+        "name": "Women's and Childrens' Hospital, Adelaide, South Australia; Playford Family Medical, Munno Para, South Australia; Family Physician, private practice, Bayside, New York, USA",
+        "url": null
+    }
+}

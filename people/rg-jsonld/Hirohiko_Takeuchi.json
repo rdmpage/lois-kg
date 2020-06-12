@@ -1,0 +1,13 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Hirohiko Takeuchi",
+    "image": "https://i1.rgstatic.net/ii/profile.image/377416187957250-1466994439639_Q128/Hirohiko_Takeuchi.jpg",
+    "mainEntityOfPage": "https://www.researchgate.net/profile/Hirohiko_Takeuchi",
+    "url": "https://www.researchgate.net/profile/Hirohiko_Takeuchi",
+    "affiliation": {
+        "@type": "Organization",
+        "name": "Nihon University, Tokyo | Nichidai",
+        "url": "https://www.researchgate.net/institution/Nihon_University"
+    }
+}

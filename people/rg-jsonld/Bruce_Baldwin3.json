@@ -1,0 +1,13 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Bruce Baldwin",
+    "image": "https://i1.rgstatic.net/ii/profile.image/779549826641921-1562870570473_Q128/Bruce_Baldwin3.jpg",
+    "mainEntityOfPage": "https://www.researchgate.net/profile/Bruce_Baldwin3",
+    "url": "https://www.researchgate.net/profile/Bruce_Baldwin3",
+    "affiliation": {
+        "@type": "Organization",
+        "name": "University of California, Berkeley, Berkeley | UCB",
+        "url": "https://www.researchgate.net/institution/University_of_California_Berkeley"
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Jeremy Just",
+    "image": "https://i1.rgstatic.net/ii/profile.image/278709228589068-1443460866238_Q128/Jeremy_Just2.jpg",
+    "mainEntityOfPage": "https://www.researchgate.net/profile/Jeremy_Just2",
+    "url": "https://www.researchgate.net/profile/Jeremy_Just2",
+    "affiliation": {
+        "@type": "Organization",
+        "name": "University of Tasmania",
+        "url": "https://www.researchgate.net/institution/University_of_Tasmania"
+    }
+}

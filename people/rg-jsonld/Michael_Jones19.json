@@ -1,0 +1,17 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Michael G.K. Jones",
+    "image": "https://i1.rgstatic.net/ii/profile.image/272219003682846-1441913476839_Q128/Michael_Jones19.jpg",
+    "mainEntityOfPage": "https://www.researchgate.net/profile/Michael_Jones19",
+    "url": "https://www.researchgate.net/profile/Michael_Jones19",
+    "affiliation": {
+        "@type": "Organization",
+        "name": "Murdoch University",
+        "url": "https://www.researchgate.net/institution/Murdoch_University"
+    },
+    "award": [
+        "Murdoch University Research Medal",
+        "PhD Plant Biochemistry, University of Cambridge"
+    ]
+}

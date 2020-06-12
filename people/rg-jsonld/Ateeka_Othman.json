@@ -1,0 +1,13 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Ateeka Othman",
+    "image": "https://c5.rgstatic.net/m/437738464651637/images/template/default/profile/profile_default_l.jpg",
+    "mainEntityOfPage": "https://www.researchgate.net/profile/Ateeka_Othman",
+    "url": "https://www.researchgate.net/profile/Ateeka_Othman",
+    "affiliation": {
+        "@type": "Organization",
+        "name": "Universiti Teknologi MARA, Shah Alam | UiTM",
+        "url": "https://www.researchgate.net/institution/Universiti_Teknologi_MARA2"
+    }
+}

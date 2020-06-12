@@ -1,0 +1,13 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Anat Feldman",
+    "image": "https://c5.rgstatic.net/m/437738464651637/images/template/default/profile/profile_default_l.jpg",
+    "mainEntityOfPage": "https://www.researchgate.net/profile/Anat_Feldman3",
+    "url": "https://www.researchgate.net/profile/Anat_Feldman3",
+    "affiliation": {
+        "@type": "Organization",
+        "name": "Tel Aviv University, Tel Aviv | TAU",
+        "url": "https://www.researchgate.net/institution/Tel_Aviv_University"
+    }
+}

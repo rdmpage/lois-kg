@@ -1,0 +1,13 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Saipari Sailo",
+    "image": "https://i1.rgstatic.net/ii/profile.image/546041426857985-1507197829401_Q128/Saipari_Sailo2.jpg",
+    "mainEntityOfPage": "https://www.researchgate.net/profile/Saipari_Sailo2",
+    "url": "https://www.researchgate.net/profile/Saipari_Sailo2",
+    "affiliation": {
+        "@type": "Organization",
+        "name": "Zoological Survey of India, Central Zone Regional Center",
+        "url": null
+    }
+}

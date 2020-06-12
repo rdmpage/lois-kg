@@ -1,0 +1,13 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Juliana Hanna Leite El Ottra",
+    "image": "https://i1.rgstatic.net/ii/profile.image/617124296945667-1524145306868_Q128/Juliana_Ottra.jpg",
+    "mainEntityOfPage": "https://www.researchgate.net/profile/Juliana_Ottra",
+    "url": "https://www.researchgate.net/profile/Juliana_Ottra",
+    "affiliation": {
+        "@type": "Organization",
+        "name": "Universidade Federal do ABC (UFABC), Santo André | UFABC",
+        "url": "https://www.researchgate.net/institution/Universidade_Federal_do_ABC_UFABC"
+    }
+}

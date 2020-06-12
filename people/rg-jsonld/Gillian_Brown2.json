@@ -1,0 +1,13 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Gillian Kim Brown",
+    "image": "https://i1.rgstatic.net/ii/profile.image/272729832161306-1442035267964_Q128/Gillian_Brown2.jpg",
+    "mainEntityOfPage": "https://www.researchgate.net/profile/Gillian_Brown2",
+    "url": "https://www.researchgate.net/profile/Gillian_Brown2",
+    "affiliation": {
+        "@type": "Organization",
+        "name": "Queensland Herbarium",
+        "url": "https://www.researchgate.net/institution/Queensland_Herbarium"
+    }
+}

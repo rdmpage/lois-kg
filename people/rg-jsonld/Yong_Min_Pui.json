@@ -1,0 +1,13 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Yong Min Pui",
+    "image": "https://i1.rgstatic.net/ii/profile.image/715960684118019-1547709737621_Q128/Yong_Min_Pui.jpg",
+    "mainEntityOfPage": "https://www.researchgate.net/profile/Yong_Min_Pui",
+    "url": "https://www.researchgate.net/profile/Yong_Min_Pui",
+    "affiliation": {
+        "@type": "Organization",
+        "name": "SARAWAK ENERGY BERHAD",
+        "url": "https://www.researchgate.net/institution/SARAWAK_ENERGY_BERHAD"
+    }
+}

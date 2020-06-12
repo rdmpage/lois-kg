@@ -1,0 +1,13 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Barrie G. M. Jamieson",
+    "image": "https://i1.rgstatic.net/ii/profile.image/277076256018444-1443071535926_Q128/Barrie_Jamieson.jpg",
+    "mainEntityOfPage": "https://www.researchgate.net/profile/Barrie_Jamieson",
+    "url": "https://www.researchgate.net/profile/Barrie_Jamieson",
+    "affiliation": {
+        "@type": "Organization",
+        "name": "The University of Queensland, Brisbane | UQ",
+        "url": "https://www.researchgate.net/institution/The_University_of_Queensland"
+    }
+}

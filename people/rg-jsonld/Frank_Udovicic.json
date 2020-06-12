@@ -1,0 +1,13 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Frank Udovicic",
+    "image": "https://i1.rgstatic.net/ii/profile.image/272677109760004-1442022697181_Q128/Frank_Udovicic.jpg",
+    "mainEntityOfPage": "https://www.researchgate.net/profile/Frank_Udovicic",
+    "url": "https://www.researchgate.net/profile/Frank_Udovicic",
+    "affiliation": {
+        "@type": "Organization",
+        "name": "Royal Botanic Gardens Victoria",
+        "url": "https://www.researchgate.net/institution/Royal_Botanic_Gardens_Victoria"
+    }
+}

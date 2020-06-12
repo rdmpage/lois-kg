@@ -1,0 +1,18 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Eliécer E. Gutiérrez",
+    "image": "https://i1.rgstatic.net/ii/profile.image/439754123681792-1481856961143_Q128/Eliecer_Gutierrez.jpg",
+    "mainEntityOfPage": "https://www.researchgate.net/profile/Eliecer_Gutierrez",
+    "url": "https://www.researchgate.net/profile/Eliecer_Gutierrez",
+    "affiliation": {
+        "@type": "Organization",
+        "name": "Universidade Federal de Santa Maria",
+        "url": "https://www.researchgate.net/institution/Universidade_Federal_de_Santa_Maria"
+    },
+    "award": [
+        "Oliver Pearson Award of the American Society of Mammalogists",
+        "Elmer C. Birney Award of the American Society of Mammalogists—study awarded: “Phylogeography of Marmosa robinsoni, a mouse opossum from dry habitats of the northern Neotropics”. Award received during the 92nd annual meeting of the ASM.",
+        "Peter Buck Postdoctoral Fellowship—National Museum of Natural History. Proposal awarded: “Revealing the evolutionary history of the deer genus Odocoileus, with emphasis on the cariacou complex.”"
+    ]
+}

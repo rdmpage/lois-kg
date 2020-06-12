@@ -1,0 +1,13 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Margaret Heslewood",
+    "image": "https://i1.rgstatic.net/ii/profile.image/278612247891978-1443437744140_Q128/Margaret_Heslewood.jpg",
+    "mainEntityOfPage": "https://www.researchgate.net/profile/Margaret_Heslewood",
+    "url": "https://www.researchgate.net/profile/Margaret_Heslewood",
+    "affiliation": {
+        "@type": "Organization",
+        "name": "Royal Botanic Gardens",
+        "url": "https://www.researchgate.net/institution/Royal_Botanic_Gardens"
+    }
+}

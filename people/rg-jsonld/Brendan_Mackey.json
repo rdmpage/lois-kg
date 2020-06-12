@@ -1,0 +1,13 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Brendan Mackey",
+    "image": "https://i1.rgstatic.net/ii/profile.image/272787336069122-1442048977060_Q128/Brendan_Mackey.jpg",
+    "mainEntityOfPage": "https://www.researchgate.net/profile/Brendan_Mackey",
+    "url": "https://www.researchgate.net/profile/Brendan_Mackey",
+    "affiliation": {
+        "@type": "Organization",
+        "name": "Griffith University",
+        "url": "https://www.researchgate.net/institution/Griffith_University"
+    }
+}

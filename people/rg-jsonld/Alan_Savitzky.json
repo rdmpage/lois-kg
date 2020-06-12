@@ -1,0 +1,13 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Alan Savitzky",
+    "image": "https://i1.rgstatic.net/ii/profile.image/272954462306313-1442088823777_Q128/Alan_Savitzky.jpg",
+    "mainEntityOfPage": "https://www.researchgate.net/profile/Alan_Savitzky",
+    "url": "https://www.researchgate.net/profile/Alan_Savitzky",
+    "affiliation": {
+        "@type": "Organization",
+        "name": "Utah State University, Logan | USU",
+        "url": "https://www.researchgate.net/institution/Utah_State_University"
+    }
+}

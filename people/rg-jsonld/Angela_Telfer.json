@@ -1,0 +1,13 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Angela Telfer",
+    "image": "https://i1.rgstatic.net/ii/profile.image/363522346242051-1463681889894_Q128/Angela_Telfer.jpg",
+    "mainEntityOfPage": "https://www.researchgate.net/profile/Angela_Telfer",
+    "url": "https://www.researchgate.net/profile/Angela_Telfer",
+    "affiliation": {
+        "@type": "Organization",
+        "name": "University of Guelph, Guelph | UOGuelph",
+        "url": "https://www.researchgate.net/institution/University_of_Guelph"
+    }
+}

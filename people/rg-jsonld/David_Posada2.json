@@ -1,0 +1,13 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "David Posada",
+    "image": "https://i1.rgstatic.net/ii/profile.image/278827256303654-1443489007007_Q128/David_Posada2.jpg",
+    "mainEntityOfPage": "https://www.researchgate.net/profile/David_Posada2",
+    "url": "https://www.researchgate.net/profile/David_Posada2",
+    "affiliation": {
+        "@type": "Organization",
+        "name": "University of Vigo, Vigo | UVIGO",
+        "url": "https://www.researchgate.net/institution/University_of_Vigo"
+    }
+}

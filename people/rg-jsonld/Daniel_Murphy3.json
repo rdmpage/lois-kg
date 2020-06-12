@@ -1,0 +1,13 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Daniel John Murphy",
+    "image": "https://i1.rgstatic.net/ii/profile.image/272752699506701-1442040719214_Q128/Daniel_Murphy3.jpg",
+    "mainEntityOfPage": "https://www.researchgate.net/profile/Daniel_Murphy3",
+    "url": "https://www.researchgate.net/profile/Daniel_Murphy3",
+    "affiliation": {
+        "@type": "Organization",
+        "name": "Royal Botanic Gardens Victoria",
+        "url": "https://www.researchgate.net/institution/Royal_Botanic_Gardens_Victoria"
+    }
+}

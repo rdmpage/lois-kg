@@ -1,0 +1,13 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Rupa Nylla Kynta Hooroo",
+    "image": "https://c5.rgstatic.net/m/437738464651637/images/template/default/profile/profile_default_l.jpg",
+    "mainEntityOfPage": "https://www.researchgate.net/profile/Rupa_Nylla_Hooroo",
+    "url": "https://www.researchgate.net/profile/Rupa_Nylla_Hooroo",
+    "affiliation": {
+        "@type": "Organization",
+        "name": "North Eastern Hill University, Shillong | nehu",
+        "url": "https://www.researchgate.net/institution/North_Eastern_Hill_University"
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "A. A. Thasun Amarasinghe",
+    "image": "https://i1.rgstatic.net/ii/profile.image/273782262726662-1442286186616_Q128/A_A_Thasun_Amarasinghe.jpg",
+    "mainEntityOfPage": "https://www.researchgate.net/profile/A_A_Thasun_Amarasinghe",
+    "url": "https://www.researchgate.net/profile/A_A_Thasun_Amarasinghe",
+    "affiliation": {
+        "@type": "Organization",
+        "name": "University of Indonesia, Depok | UI",
+        "url": "https://www.researchgate.net/institution/University_of_Indonesia"
+    }
+}

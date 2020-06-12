@@ -1,0 +1,13 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "D. D. Sokoloff",
+    "image": "https://i1.rgstatic.net/ii/profile.image/273817952059395-1442294695273_Q128/D_Sokoloff.jpg",
+    "mainEntityOfPage": "https://www.researchgate.net/profile/D_Sokoloff",
+    "url": "https://www.researchgate.net/profile/D_Sokoloff",
+    "affiliation": {
+        "@type": "Organization",
+        "name": "Lomonosov Moscow State University, Moscow | MSU",
+        "url": "https://www.researchgate.net/institution/Lomonosov_Moscow_State_University"
+    }
+}

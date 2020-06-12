@@ -1,0 +1,17 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Cristiano de Campos Nogueira",
+    "image": "https://i1.rgstatic.net/ii/profile.image/684158770749441-1540127570261_Q128/Cristiano_Nogueira2.jpg",
+    "mainEntityOfPage": "https://www.researchgate.net/profile/Cristiano_Nogueira2",
+    "url": "https://www.researchgate.net/profile/Cristiano_Nogueira2",
+    "affiliation": {
+        "@type": "Organization",
+        "name": "University of São Paulo, São Paulo | USP",
+        "url": "https://www.researchgate.net/institution/University_of_Sao_Paulo"
+    },
+    "award": [
+        "Global Performance Bonus - Conservation International 2007",
+        "Prêmio CAPES de teses - Menção Honrosa - Ecologia - \"Diversidade e padrões de distribuição da fauna de lagartos do Cerrado\". Ecologia USP."
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Claudia Paetzold",
+    "image": "https://i1.rgstatic.net/ii/profile.image/297817118658568-1448016542342_Q128/Claudia_Paetzold2.jpg",
+    "mainEntityOfPage": "https://www.researchgate.net/profile/Claudia_Paetzold2",
+    "url": "https://www.researchgate.net/profile/Claudia_Paetzold2",
+    "affiliation": {
+        "@type": "Organization",
+        "name": "Georg-August-Universität Göttingen, Göttingen | GAUG",
+        "url": "https://www.researchgate.net/institution/Georg-August-Universitaet_Goettingen"
+    }
+}

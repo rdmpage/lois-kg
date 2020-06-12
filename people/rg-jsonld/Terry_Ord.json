@@ -1,0 +1,13 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Terry J Ord",
+    "image": "https://i1.rgstatic.net/ii/profile.image/413640613220360-1475631016082_Q128/Terry_Ord.jpg",
+    "mainEntityOfPage": "https://www.researchgate.net/profile/Terry_Ord",
+    "url": "https://www.researchgate.net/profile/Terry_Ord",
+    "affiliation": {
+        "@type": "Organization",
+        "name": "UNSW Sydney, Kensington | UNSW",
+        "url": "https://www.researchgate.net/institution/UNSW_Sydney"
+    }
+}

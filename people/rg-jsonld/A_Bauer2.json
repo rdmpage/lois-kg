@@ -1,0 +1,13 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "A. M. Bauer",
+    "image": "https://i1.rgstatic.net/ii/profile.image/651027598565376-1532228483030_Q128/A_Bauer2.jpg",
+    "mainEntityOfPage": "https://www.researchgate.net/profile/A_Bauer2",
+    "url": "https://www.researchgate.net/profile/A_Bauer2",
+    "affiliation": {
+        "@type": "Organization",
+        "name": "Villanova University, Radnor | Nova",
+        "url": "https://www.researchgate.net/institution/Villanova_University"
+    }
+}

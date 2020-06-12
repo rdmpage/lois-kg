@@ -1,0 +1,13 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Boon-Hee Kueh",
+    "image": "https://i1.rgstatic.net/ii/profile.image/471742742306817-1489483642543_Q128/Boon_Hee_Kueh.jpg",
+    "mainEntityOfPage": "https://www.researchgate.net/profile/Boon_Hee_Kueh",
+    "url": "https://www.researchgate.net/profile/Boon_Hee_Kueh",
+    "affiliation": {
+        "@type": "Organization",
+        "name": "Universiti Malaysia Sabah (UMS), Kota Kinabalu | ums",
+        "url": "https://www.researchgate.net/institution/Universiti_Malaysia_Sabah_UMS"
+    }
+}

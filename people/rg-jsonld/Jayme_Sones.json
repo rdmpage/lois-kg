@@ -1,0 +1,13 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Jayme E Sones",
+    "image": "https://i1.rgstatic.net/ii/profile.image/479520110190594-1491337911474_Q128/Jayme_Sones.jpg",
+    "mainEntityOfPage": "https://www.researchgate.net/profile/Jayme_Sones",
+    "url": "https://www.researchgate.net/profile/Jayme_Sones",
+    "affiliation": {
+        "@type": "Organization",
+        "name": "University of Guelph, Guelph | UOGuelph",
+        "url": "https://www.researchgate.net/institution/University_of_Guelph"
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Gernot Vogel",
+    "image": "https://i1.rgstatic.net/ii/profile.image/272194202763312-1441907563941_Q128/Gernot_Vogel.jpg",
+    "mainEntityOfPage": "https://www.researchgate.net/profile/Gernot_Vogel",
+    "url": "https://www.researchgate.net/profile/Gernot_Vogel",
+    "affiliation": {
+        "@type": "Organization",
+        "name": "Independent Researcher",
+        "url": null
+    }
+}

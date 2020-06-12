@@ -1,0 +1,13 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "H.T. Lalremsanga",
+    "image": "https://i1.rgstatic.net/ii/profile.image/525656195649536-1502337611281_Q128/Ht_Lalremsanga2.jpg",
+    "mainEntityOfPage": "https://www.researchgate.net/profile/Ht_Lalremsanga2",
+    "url": "https://www.researchgate.net/profile/Ht_Lalremsanga2",
+    "affiliation": {
+        "@type": "Organization",
+        "name": "Mizoram University",
+        "url": "https://www.researchgate.net/institution/Mizoram_University"
+    }
+}

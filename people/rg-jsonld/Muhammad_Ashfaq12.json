@@ -1,0 +1,13 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Muhammad Ashfaq",
+    "image": "https://i1.rgstatic.net/ii/profile.image/272279976280070-1441928013683_Q128/Muhammad_Ashfaq12.jpg",
+    "mainEntityOfPage": "https://www.researchgate.net/profile/Muhammad_Ashfaq12",
+    "url": "https://www.researchgate.net/profile/Muhammad_Ashfaq12",
+    "affiliation": {
+        "@type": "Organization",
+        "name": "University of Guelph, Guelph | UOGuelph",
+        "url": "https://www.researchgate.net/institution/University_of_Guelph"
+    }
+}

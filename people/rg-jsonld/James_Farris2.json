@@ -1,0 +1,13 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "James Farris",
+    "image": "https://i1.rgstatic.net/ii/profile.image/278441460027398-1443397025624_Q128/James_Farris2.jpg",
+    "mainEntityOfPage": "https://www.researchgate.net/profile/James_Farris2",
+    "url": "https://www.researchgate.net/profile/James_Farris2",
+    "affiliation": {
+        "@type": "Organization",
+        "name": "American Museum of Natural History",
+        "url": "https://www.researchgate.net/institution/American_Museum_of_Natural_History"
+    }
+}

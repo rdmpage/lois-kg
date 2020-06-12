@@ -1,0 +1,13 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Kenneth R. Wood",
+    "image": "https://i1.rgstatic.net/ii/profile.image/278741872857091-1443468649440_Q128/Kenneth_Wood2.jpg",
+    "mainEntityOfPage": "https://www.researchgate.net/profile/Kenneth_Wood2",
+    "url": "https://www.researchgate.net/profile/Kenneth_Wood2",
+    "affiliation": {
+        "@type": "Organization",
+        "name": "The National Tropical Botanical Garden",
+        "url": null
+    }
+}

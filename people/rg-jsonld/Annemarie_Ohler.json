@@ -1,0 +1,13 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Annemarie Ohler",
+    "image": "https://i1.rgstatic.net/ii/profile.image/272194458615813-1441907624861_Q128/Annemarie_Ohler.jpg",
+    "mainEntityOfPage": "https://www.researchgate.net/profile/Annemarie_Ohler",
+    "url": "https://www.researchgate.net/profile/Annemarie_Ohler",
+    "affiliation": {
+        "@type": "Organization",
+        "name": "Muséum National d'Histoire Naturelle",
+        "url": "https://www.researchgate.net/institution/Museum_National_dHistoire_Naturelle"
+    }
+}

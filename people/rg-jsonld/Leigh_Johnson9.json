@@ -1,0 +1,13 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Leigh Johnson",
+    "image": "https://i1.rgstatic.net/ii/profile.image/579913727873025-1515273615579_Q128/Leigh_Johnson9.jpg",
+    "mainEntityOfPage": "https://www.researchgate.net/profile/Leigh_Johnson9",
+    "url": "https://www.researchgate.net/profile/Leigh_Johnson9",
+    "affiliation": {
+        "@type": "Organization",
+        "name": "Brigham Young University - Provo Main Campus, Provo | BYU",
+        "url": "https://www.researchgate.net/institution/Brigham_Young_University-Provo_Main_Campus"
+    }
+}

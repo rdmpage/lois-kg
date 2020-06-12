@@ -1,0 +1,13 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Gildas Gâteblé",
+    "image": "https://i1.rgstatic.net/ii/profile.image/669156382879748-1536550722728_Q128/Gildas_Gateble2.jpg",
+    "mainEntityOfPage": "https://www.researchgate.net/profile/Gildas_Gateble2",
+    "url": "https://www.researchgate.net/profile/Gildas_Gateble2",
+    "affiliation": {
+        "@type": "Organization",
+        "name": "Institut Agronomique néo-Calédonien, Nouméa | IAC",
+        "url": "https://www.researchgate.net/institution/Institut_Agronomique_neo-Caledonien"
+    }
+}

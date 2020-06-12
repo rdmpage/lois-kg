@@ -1,0 +1,13 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "John Hosking",
+    "image": "https://i1.rgstatic.net/ii/profile.image/279561829928972-1443664142880_Q128/John_Hosking2.jpg",
+    "mainEntityOfPage": "https://www.researchgate.net/profile/John_Hosking2",
+    "url": "https://www.researchgate.net/profile/John_Hosking2",
+    "affiliation": {
+        "@type": "Organization",
+        "name": "University of New England (Australia), Armidale | UNE",
+        "url": "https://www.researchgate.net/institution/University_of_New_England_Australia"
+    }
+}

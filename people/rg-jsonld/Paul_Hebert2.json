@@ -1,0 +1,20 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Paul D N Hebert",
+    "image": "https://i1.rgstatic.net/ii/profile.image/278786538000391-1443479298298_Q128/Paul_Hebert2.jpg",
+    "mainEntityOfPage": "https://www.researchgate.net/profile/Paul_Hebert2",
+    "url": "https://www.researchgate.net/profile/Paul_Hebert2",
+    "affiliation": {
+        "@type": "Organization",
+        "name": "University of Guelph, Guelph | UOGuelph",
+        "url": "https://www.researchgate.net/institution/University_of_Guelph"
+    },
+    "award": [
+        "Officer, Order of Canada",
+        "Canada Reseach Chair - May 2015",
+        "Aster  Award, Toronto Botanic Gardens",
+        "Fellow, Royal Geographic Society of Canada",
+        "LLD, University of Windsor"
+    ]
+}

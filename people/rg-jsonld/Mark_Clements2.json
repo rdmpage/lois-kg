@@ -1,0 +1,13 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Mark Alwin Clements",
+    "image": "https://c5.rgstatic.net/m/437738464651637/images/template/default/profile/profile_default_l.jpg",
+    "mainEntityOfPage": "https://www.researchgate.net/profile/Mark_Clements2",
+    "url": "https://www.researchgate.net/profile/Mark_Clements2",
+    "affiliation": {
+        "@type": "Organization",
+        "name": "The Commonwealth Scientific and Industrial Research Organisation, Canberra | CSIRO",
+        "url": "https://www.researchgate.net/institution/The_Commonwealth_Scientific_and_Industrial_Research_Organisation"
+    }
+}

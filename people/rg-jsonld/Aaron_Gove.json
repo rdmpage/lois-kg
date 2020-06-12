@@ -1,0 +1,13 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Aaron D Gove",
+    "image": "https://i1.rgstatic.net/ii/profile.image/272477351837715-1441975071520_Q128/Aaron_Gove.jpg",
+    "mainEntityOfPage": "https://www.researchgate.net/profile/Aaron_Gove",
+    "url": "https://www.researchgate.net/profile/Aaron_Gove",
+    "affiliation": {
+        "@type": "Organization",
+        "name": "Curtin University",
+        "url": "https://www.researchgate.net/institution/Curtin_University"
+    }
+}

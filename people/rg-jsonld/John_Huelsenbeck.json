@@ -1,0 +1,13 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "John Huelsenbeck",
+    "image": "https://i1.rgstatic.net/ii/profile.image/486979684048898-1493116412562_Q128/John_Huelsenbeck.jpg",
+    "mainEntityOfPage": "https://www.researchgate.net/profile/John_Huelsenbeck",
+    "url": "https://www.researchgate.net/profile/John_Huelsenbeck",
+    "affiliation": {
+        "@type": "Organization",
+        "name": "University of California, Berkeley, Berkeley | UCB",
+        "url": "https://www.researchgate.net/institution/University_of_California_Berkeley"
+    }
+}

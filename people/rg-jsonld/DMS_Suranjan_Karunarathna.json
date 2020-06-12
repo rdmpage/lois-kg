@@ -1,0 +1,18 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "D.M.S. Suranjan Karunarathna",
+    "image": "https://i1.rgstatic.net/ii/profile.image/368851482103809-1464952454773_Q128/DMS_Suranjan_Karunarathna.jpg",
+    "mainEntityOfPage": "https://www.researchgate.net/profile/DMS_Suranjan_Karunarathna",
+    "url": "https://www.researchgate.net/profile/DMS_Suranjan_Karunarathna",
+    "affiliation": {
+        "@type": "Organization",
+        "name": "Nature Explorations & Education Team (NEET)",
+        "url": null
+    },
+    "award": [
+        "National Research Council (NRC) Merit Award, Sri Lanka",
+        "National Research Council (NRC) Merit Award, Sri Lanka",
+        "President - Young Zoologists’ Association (YZA) of Sri Lanka"
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Miguel de Salas",
+    "image": "https://i1.rgstatic.net/ii/profile.image/279963258376197-1443759850682_Q128/Miguel_De_Salas.jpg",
+    "mainEntityOfPage": "https://www.researchgate.net/profile/Miguel_De_Salas",
+    "url": "https://www.researchgate.net/profile/Miguel_De_Salas",
+    "affiliation": {
+        "@type": "Organization",
+        "name": "Tasmanian Museum and Art Gallery",
+        "url": null
+    }
+}

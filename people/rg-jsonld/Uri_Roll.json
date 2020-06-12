@@ -1,0 +1,13 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Uri Roll",
+    "image": "https://i1.rgstatic.net/ii/profile.image/272770739208203-1442045020921_Q128/Uri_Roll.jpg",
+    "mainEntityOfPage": "https://www.researchgate.net/profile/Uri_Roll",
+    "url": "https://www.researchgate.net/profile/Uri_Roll",
+    "affiliation": {
+        "@type": "Organization",
+        "name": "Ben-Gurion University of the Negev, Beersheba | bgu",
+        "url": "https://www.researchgate.net/institution/Ben-Gurion_University_of_the_Negev"
+    }
+}

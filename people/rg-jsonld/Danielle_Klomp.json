@@ -1,0 +1,13 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Danielle A Klomp",
+    "image": "https://i1.rgstatic.net/ii/profile.image/278553137565699-1443423651832_Q128/Danielle_Klomp.jpg",
+    "mainEntityOfPage": "https://www.researchgate.net/profile/Danielle_Klomp",
+    "url": "https://www.researchgate.net/profile/Danielle_Klomp",
+    "affiliation": {
+        "@type": "Organization",
+        "name": "University of Porto, Porto | UP",
+        "url": "https://www.researchgate.net/institution/University_of_Porto"
+    }
+}

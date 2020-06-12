@@ -1,0 +1,13 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Alex Slavenko",
+    "image": "https://i1.rgstatic.net/ii/profile.image/278621164982272-1443439870102_Q128/Alex_Slavenko.jpg",
+    "mainEntityOfPage": "https://www.researchgate.net/profile/Alex_Slavenko",
+    "url": "https://www.researchgate.net/profile/Alex_Slavenko",
+    "affiliation": {
+        "@type": "Organization",
+        "name": "Tel Aviv University, Tel Aviv | TAU",
+        "url": "https://www.researchgate.net/institution/Tel_Aviv_University"
+    }
+}

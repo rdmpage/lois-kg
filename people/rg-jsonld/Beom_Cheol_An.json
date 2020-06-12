@@ -1,0 +1,13 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Beom-Cheol An",
+    "image": "https://i1.rgstatic.net/ii/profile.image/744234046988291-1554450632852_Q128/Beom_Cheol_An.jpg",
+    "mainEntityOfPage": "https://www.researchgate.net/profile/Beom_Cheol_An",
+    "url": "https://www.researchgate.net/profile/Beom_Cheol_An",
+    "affiliation": {
+        "@type": "Organization",
+        "name": "Kyung Hee University",
+        "url": "https://www.researchgate.net/institution/Kyung_Hee_University_Computer"
+    }
+}

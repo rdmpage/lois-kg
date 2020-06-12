@@ -1,0 +1,13 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Mark Pitkin Simmons",
+    "image": "https://i1.rgstatic.net/ii/profile.image/439598410145828-1481819836953_Q128/Mark_Simmons4.jpg",
+    "mainEntityOfPage": "https://www.researchgate.net/profile/Mark_Simmons4",
+    "url": "https://www.researchgate.net/profile/Mark_Simmons4",
+    "affiliation": {
+        "@type": "Organization",
+        "name": "Colorado State University, Fort Collins | CSU",
+        "url": "https://www.researchgate.net/institution/Colorado_State_University"
+    }
+}

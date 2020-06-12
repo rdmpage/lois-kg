@@ -1,0 +1,13 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Alex Sayok",
+    "image": "https://i1.rgstatic.net/ii/profile.image/272644683595782-1442014966170_Q128/Alex_Sayok.jpg",
+    "mainEntityOfPage": "https://www.researchgate.net/profile/Alex_Sayok",
+    "url": "https://www.researchgate.net/profile/Alex_Sayok",
+    "affiliation": {
+        "@type": "Organization",
+        "name": "University Malaysia Sarawak",
+        "url": "https://www.researchgate.net/institution/University_Malaysia_Sarawak"
+    }
+}

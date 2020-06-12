@@ -272,5 +272,53 @@ ORDER BY DESC (?c)
 LIMIT 10
 ```
 
+### Find authors of works published in a year
+
+```
+prefix schema: <http://schema.org/>
+select * 
+where
+{
+  ?work schema:datePublished "2010" .
+  
+  ?work schema:creator ?role .
+  ?role schema:creator ?creator .
+  ?creator schema:name ?name . 
+  
+  OPTIONAL {
+    
+    ?creator schema:sameAs ?name_id . 
+  }
+  
+  
+}
+limit 1000
+```
+
+
+### Find authors in ZooBank
+
+```
+prefix schema: <http://schema.org/>
+select * 
+where
+{
+  ?work schema:creator ?role .
+  ?role schema:creator ?creator .
+  ?creator schema:name ?name . 
+  
+  ?work schema:identifier ?identifier .
+  ?identifier schema:propertyID  "zoobank" .
+  
+  OPTIONAL {
+    
+    ?creator schema:sameAs ?name_id . 
+  }
+  
+  
+}
+order by ?name
+```
+
 
 

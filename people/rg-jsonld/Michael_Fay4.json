@@ -1,0 +1,13 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Michael F Fay",
+    "image": "https://i1.rgstatic.net/ii/profile.image/272374650109959-1441950585207_Q128/Michael_Fay4.jpg",
+    "mainEntityOfPage": "https://www.researchgate.net/profile/Michael_Fay4",
+    "url": "https://www.researchgate.net/profile/Michael_Fay4",
+    "affiliation": {
+        "@type": "Organization",
+        "name": "Royal Botanic Gardens, Kew",
+        "url": "https://www.researchgate.net/institution/Royal_Botanic_Gardens_Kew"
+    }
+}

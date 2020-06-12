@@ -1,0 +1,13 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Jasmine K Janes",
+    "image": "https://i1.rgstatic.net/ii/profile.image/272413610999818-1441959874842_Q128/Jasmine_Janes.jpg",
+    "mainEntityOfPage": "https://www.researchgate.net/profile/Jasmine_Janes",
+    "url": "https://www.researchgate.net/profile/Jasmine_Janes",
+    "affiliation": {
+        "@type": "Organization",
+        "name": "Vancouver Island University, Nanaimo | VIU",
+        "url": "https://www.researchgate.net/institution/Vancouver_Island_University"
+    }
+}

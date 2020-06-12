@@ -1,0 +1,13 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Joe Miller",
+    "image": "https://i1.rgstatic.net/ii/profile.image/277516578246657-1443176516135_Q128/Joe_Miller6.jpg",
+    "mainEntityOfPage": "https://www.researchgate.net/profile/Joe_Miller6",
+    "url": "https://www.researchgate.net/profile/Joe_Miller6",
+    "affiliation": {
+        "@type": "Organization",
+        "name": "Global Biodiversity Information Facility",
+        "url": "https://www.researchgate.net/institution/Global_Biodiversity_Information_Facility"
+    }
+}

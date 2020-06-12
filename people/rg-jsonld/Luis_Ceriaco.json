@@ -1,0 +1,13 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Luis Miguel Pires Ceríaco",
+    "image": "https://i1.rgstatic.net/ii/profile.image/416141320179713-1476227230432_Q128/Luis_Ceriaco.jpg",
+    "mainEntityOfPage": "https://www.researchgate.net/profile/Luis_Ceriaco",
+    "url": "https://www.researchgate.net/profile/Luis_Ceriaco",
+    "affiliation": {
+        "@type": "Organization",
+        "name": "Museu de História Natural e da Ciência - Universidade do Porto",
+        "url": null
+    }
+}

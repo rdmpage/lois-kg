@@ -1,0 +1,13 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Tiffany M. Doan",
+    "image": "https://i1.rgstatic.net/ii/profile.image/272433823350807-1441964693604_Q128/Tiffany_Doan.jpg",
+    "mainEntityOfPage": "https://www.researchgate.net/profile/Tiffany_Doan",
+    "url": "https://www.researchgate.net/profile/Tiffany_Doan",
+    "affiliation": {
+        "@type": "Organization",
+        "name": "New College of Florida, Sarasota | NCF",
+        "url": "https://www.researchgate.net/institution/New_College_of_Florida"
+    }
+}

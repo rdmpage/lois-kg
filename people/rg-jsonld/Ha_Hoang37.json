@@ -1,0 +1,13 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Ha Hoang",
+    "image": "https://i1.rgstatic.net/ii/profile.image/672141846523905-1537262512149_Q128/Ha_Hoang37.jpg",
+    "mainEntityOfPage": "https://www.researchgate.net/profile/Ha_Hoang37",
+    "url": "https://www.researchgate.net/profile/Ha_Hoang37",
+    "affiliation": {
+        "@type": "Organization",
+        "name": "Asian Turtle Program",
+        "url": null
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Jonathan David Majer",
+    "image": "https://i1.rgstatic.net/ii/profile.image/278997419216922-1443529576857_Q128/Jonathan_Majer.jpg",
+    "mainEntityOfPage": "https://www.researchgate.net/profile/Jonathan_Majer",
+    "url": "https://www.researchgate.net/profile/Jonathan_Majer",
+    "affiliation": {
+        "@type": "Organization",
+        "name": "University of WA, Curtin Uni and Biomonitoring International Pty  Ltd",
+        "url": null
+    },
+    "award": [
+        "Special Tribute at XXII Simposio de Mirmecologia, Brazil as recognition for my contribution to the study of ants",
+        "Australian and New Zealand Association for the Advancement of Science (ANZAAS) Mueller Medal"
+    ]
+}

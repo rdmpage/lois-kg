@@ -1,0 +1,13 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Krishnapillai Sivasithamparam",
+    "image": "https://c5.rgstatic.net/m/437738464651637/images/template/default/profile/profile_default_l.jpg",
+    "mainEntityOfPage": "https://www.researchgate.net/profile/Krishnapillai_Sivasithamparam",
+    "url": "https://www.researchgate.net/profile/Krishnapillai_Sivasithamparam",
+    "affiliation": {
+        "@type": "Organization",
+        "name": "University of Western Australia, Perth | UWA",
+        "url": "https://www.researchgate.net/institution/University_of_Western_Australia"
+    }
+}

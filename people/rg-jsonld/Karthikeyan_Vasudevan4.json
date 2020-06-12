@@ -1,0 +1,13 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Karthikeyan Vasudevan",
+    "image": "https://i1.rgstatic.net/ii/profile.image/290504093782017-1446272981652_Q128/Karthikeyan_Vasudevan4.jpg",
+    "mainEntityOfPage": "https://www.researchgate.net/profile/Karthikeyan_Vasudevan4",
+    "url": "https://www.researchgate.net/profile/Karthikeyan_Vasudevan4",
+    "affiliation": {
+        "@type": "Organization",
+        "name": "Centre for Cellular and Molecular Biology, Hyderabad | CCMB",
+        "url": "https://www.researchgate.net/institution/Centre_for_Cellular_and_Molecular_Biology"
+    }
+}

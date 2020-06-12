@@ -1,0 +1,13 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Fredrik Ronquist",
+    "image": "https://i1.rgstatic.net/ii/profile.image/301760972378114-1448956830996_Q128/Fredrik_Ronquist.jpg",
+    "mainEntityOfPage": "https://www.researchgate.net/profile/Fredrik_Ronquist",
+    "url": "https://www.researchgate.net/profile/Fredrik_Ronquist",
+    "affiliation": {
+        "@type": "Organization",
+        "name": "Swedish Museum of Natural History",
+        "url": "https://www.researchgate.net/institution/Swedish_Museum_of_Natural_History"
+    }
+}

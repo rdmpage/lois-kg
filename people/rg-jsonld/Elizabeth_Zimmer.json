@@ -1,0 +1,13 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Elizabeth A Zimmer",
+    "image": "https://i1.rgstatic.net/ii/profile.image/272735129567249-1442036530947_Q128/Elizabeth_Zimmer.jpg",
+    "mainEntityOfPage": "https://www.researchgate.net/profile/Elizabeth_Zimmer",
+    "url": "https://www.researchgate.net/profile/Elizabeth_Zimmer",
+    "affiliation": {
+        "@type": "Organization",
+        "name": "Smithsonian Institution",
+        "url": "https://www.researchgate.net/institution/Smithsonian_Institution"
+    }
+}

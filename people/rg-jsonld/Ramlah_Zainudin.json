@@ -1,0 +1,13 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Ramlah Zainudin",
+    "image": "https://c5.rgstatic.net/m/437738464651637/images/template/default/profile/profile_default_l.jpg",
+    "mainEntityOfPage": "https://www.researchgate.net/profile/Ramlah_Zainudin",
+    "url": "https://www.researchgate.net/profile/Ramlah_Zainudin",
+    "affiliation": {
+        "@type": "Organization",
+        "name": "University Malaysia Sarawak",
+        "url": "https://www.researchgate.net/institution/University_Malaysia_Sarawak"
+    }
+}

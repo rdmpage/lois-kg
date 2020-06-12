@@ -1,0 +1,13 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Friedrich Ehrendorfer",
+    "image": "https://i1.rgstatic.net/ii/profile.image/272469357494274-1441973165041_Q128/Friedrich_Ehrendorfer.jpg",
+    "mainEntityOfPage": "https://www.researchgate.net/profile/Friedrich_Ehrendorfer",
+    "url": "https://www.researchgate.net/profile/Friedrich_Ehrendorfer",
+    "affiliation": {
+        "@type": "Organization",
+        "name": "University of Vienna, Vienna | UniWien",
+        "url": "https://www.researchgate.net/institution/University_of_Vienna"
+    }
+}

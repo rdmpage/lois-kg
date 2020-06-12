@@ -1,0 +1,13 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Jayaditya Purkayastha",
+    "image": "https://i1.rgstatic.net/ii/profile.image/735185075175428-1552293189569_Q128/Jayaditya_Purkayastha2.jpg",
+    "mainEntityOfPage": "https://www.researchgate.net/profile/Jayaditya_Purkayastha2",
+    "url": "https://www.researchgate.net/profile/Jayaditya_Purkayastha2",
+    "affiliation": {
+        "@type": "Organization",
+        "name": "Help Earth",
+        "url": null
+    }
+}

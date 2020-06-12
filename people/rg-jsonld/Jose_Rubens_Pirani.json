@@ -1,0 +1,13 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Jose Rubens Pirani",
+    "image": "https://i1.rgstatic.net/ii/profile.image/272183243046961-1441904950922_Q128/Jose_Rubens_Pirani.jpg",
+    "mainEntityOfPage": "https://www.researchgate.net/profile/Jose_Rubens_Pirani",
+    "url": "https://www.researchgate.net/profile/Jose_Rubens_Pirani",
+    "affiliation": {
+        "@type": "Organization",
+        "name": "University of São Paulo, São Paulo | USP",
+        "url": "https://www.researchgate.net/institution/University_of_Sao_Paulo"
+    }
+}

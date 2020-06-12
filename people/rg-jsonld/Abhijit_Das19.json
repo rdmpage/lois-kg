@@ -1,0 +1,13 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Abhijit Das",
+    "image": "https://i1.rgstatic.net/ii/profile.image/277975313469441-1443285887683_Q128/Abhijit_Das19.jpg",
+    "mainEntityOfPage": "https://www.researchgate.net/profile/Abhijit_Das19",
+    "url": "https://www.researchgate.net/profile/Abhijit_Das19",
+    "affiliation": {
+        "@type": "Organization",
+        "name": "Wildlife Institute of India, Dehra Dūn | WII",
+        "url": "https://www.researchgate.net/institution/Wildlife_Institute_of_India"
+    }
+}

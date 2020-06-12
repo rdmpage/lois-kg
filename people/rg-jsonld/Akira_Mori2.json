@@ -1,0 +1,13 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Akira Mori",
+    "image": "https://c5.rgstatic.net/m/437738464651637/images/template/default/profile/profile_default_l.jpg",
+    "mainEntityOfPage": "https://www.researchgate.net/profile/Akira_Mori2",
+    "url": "https://www.researchgate.net/profile/Akira_Mori2",
+    "affiliation": {
+        "@type": "Organization",
+        "name": "Kyoto University, Kyoto | Kyodai",
+        "url": "https://www.researchgate.net/institution/Kyoto_University"
+    }
+}

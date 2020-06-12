@@ -16,8 +16,11 @@ function clean ($text)
 {
 	$text = preg_replace('/([A-Z])\.([A-Z])/u', '$1. $2', $text);
 	
-	$text = preg_replace('/\./u', '', $text);
+	$text = preg_replace('/\./u', ' ', $text);
 	$text = preg_replace('/-/u', ' ', $text);
+	$text = preg_replace('/,/u', '', $text);
+
+	$text = preg_replace('/\s\s+/u', ' ', $text);
 	
 	//echo $text . "\n";
 
@@ -84,6 +87,12 @@ function compare($name1, $name2, $debug = false)
 	{
 		$parts1 = explode(' ', $result->str1);
 		$parts2 = explode(' ', $result->str2);
+		
+		if ($debug)
+		{
+			print_r($parts1);
+			print_r($parts2);
+		}
 		
 		// Is last name swapped?
 		if (
@@ -152,6 +161,13 @@ if (0)
 	
 	
 	);
+	
+	$tests = array(
+	array('Nascimento, J.G.A.do', 'J.G.A. do Nascimento'),
+	array('De-Zhu Li', 'D. Z. Li'),
+	
+	);
+	
 
 	$debug = true;
 	

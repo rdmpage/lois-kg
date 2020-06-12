@@ -1,0 +1,13 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Neville Walsh",
+    "image": "https://i1.rgstatic.net/ii/profile.image/278672264187921-1443452054147_Q128/Neville_Walsh.jpg",
+    "mainEntityOfPage": "https://www.researchgate.net/profile/Neville_Walsh",
+    "url": "https://www.researchgate.net/profile/Neville_Walsh",
+    "affiliation": {
+        "@type": "Organization",
+        "name": "Royal Botanic Gardens Victoria",
+        "url": "https://www.researchgate.net/institution/Royal_Botanic_Gardens_Victoria"
+    }
+}

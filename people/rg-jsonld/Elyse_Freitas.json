@@ -1,0 +1,13 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Elyse Susanne Freitas",
+    "image": "https://i1.rgstatic.net/ii/profile.image/649423956750339-1531846145397_Q128/Elyse_Freitas.jpg",
+    "mainEntityOfPage": "https://www.researchgate.net/profile/Elyse_Freitas",
+    "url": "https://www.researchgate.net/profile/Elyse_Freitas",
+    "affiliation": {
+        "@type": "Organization",
+        "name": "University of Oklahoma, Norman | ou",
+        "url": "https://www.researchgate.net/institution/University_of_Oklahoma"
+    }
+}

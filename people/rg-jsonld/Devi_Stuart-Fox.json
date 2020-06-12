@@ -1,0 +1,13 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Devi Stuart-Fox",
+    "image": "https://i1.rgstatic.net/ii/profile.image/616565162651648-1524011998178_Q128/Devi_Stuart-Fox.jpg",
+    "mainEntityOfPage": "https://www.researchgate.net/profile/Devi_Stuart-Fox",
+    "url": "https://www.researchgate.net/profile/Devi_Stuart-Fox",
+    "affiliation": {
+        "@type": "Organization",
+        "name": "University of Melbourne, Melbourne | MSD",
+        "url": "https://www.researchgate.net/institution/University_of_Melbourne"
+    }
+}

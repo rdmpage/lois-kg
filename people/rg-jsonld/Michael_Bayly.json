@@ -1,0 +1,13 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Michael Bayly",
+    "image": "https://i1.rgstatic.net/ii/profile.image/272848472244246-1442063553385_Q128/Michael_Bayly.jpg",
+    "mainEntityOfPage": "https://www.researchgate.net/profile/Michael_Bayly",
+    "url": "https://www.researchgate.net/profile/Michael_Bayly",
+    "affiliation": {
+        "@type": "Organization",
+        "name": "University of Melbourne, Melbourne | MSD",
+        "url": "https://www.researchgate.net/institution/University_of_Melbourne"
+    }
+}

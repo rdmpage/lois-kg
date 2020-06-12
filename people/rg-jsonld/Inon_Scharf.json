@@ -1,0 +1,13 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Inon Scharf",
+    "image": "https://i1.rgstatic.net/ii/profile.image/278461773041699-1443401868906_Q128/Inon_Scharf.jpg",
+    "mainEntityOfPage": "https://www.researchgate.net/profile/Inon_Scharf",
+    "url": "https://www.researchgate.net/profile/Inon_Scharf",
+    "affiliation": {
+        "@type": "Organization",
+        "name": "Tel Aviv University, Tel Aviv | TAU",
+        "url": "https://www.researchgate.net/institution/Tel_Aviv_University"
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Richard P. J. H. Struijk",
+    "image": "https://i1.rgstatic.net/ii/profile.image/372458587738113-1465812455353_Q128/Richard_Struijk.jpg",
+    "mainEntityOfPage": "https://www.researchgate.net/profile/Richard_Struijk",
+    "url": "https://www.researchgate.net/profile/Richard_Struijk",
+    "affiliation": {
+        "@type": "Organization",
+        "name": "RAVON Foundation",
+        "url": null
+    }
+}

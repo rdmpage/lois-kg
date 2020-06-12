@@ -1,0 +1,17 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Erik F Smets",
+    "image": "https://i1.rgstatic.net/ii/profile.image/552947509456896-1508844367970_Q128/Erik_Smets.jpg",
+    "mainEntityOfPage": "https://www.researchgate.net/profile/Erik_Smets",
+    "url": "https://www.researchgate.net/profile/Erik_Smets",
+    "affiliation": {
+        "@type": "Organization",
+        "name": "Naturalis Biodiversity Center, Leiden | NCB",
+        "url": "https://www.researchgate.net/institution/Naturalis_Biodiversity_Center"
+    },
+    "award": [
+        "Foreign Member of the Royal Flemish Academy of Belgium for Science and the  Arts.",
+        "Foreign Member of the Linnean Society  (FMLS)"
+    ]
+}

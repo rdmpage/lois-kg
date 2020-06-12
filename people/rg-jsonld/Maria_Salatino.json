@@ -1,0 +1,13 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Maria L. F. Salatino",
+    "image": "https://c5.rgstatic.net/m/437738464651637/images/template/default/profile/profile_default_l.jpg",
+    "mainEntityOfPage": "https://www.researchgate.net/profile/Maria_Salatino",
+    "url": "https://www.researchgate.net/profile/Maria_Salatino",
+    "affiliation": {
+        "@type": "Organization",
+        "name": "University of São Paulo, São Paulo | USP",
+        "url": "https://www.researchgate.net/institution/University_of_Sao_Paulo"
+    }
+}

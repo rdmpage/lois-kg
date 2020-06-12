@@ -1,0 +1,13 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Andrew Townsend Peterson",
+    "image": "https://i1.rgstatic.net/ii/profile.image/272165756993544-1441900781956_Q128/Andrew_Peterson10.jpg",
+    "mainEntityOfPage": "https://www.researchgate.net/profile/Andrew_Peterson10",
+    "url": "https://www.researchgate.net/profile/Andrew_Peterson10",
+    "affiliation": {
+        "@type": "Organization",
+        "name": "University of Kansas, Lawrence | KU",
+        "url": "https://www.researchgate.net/institution/University_of_Kansas"
+    }
+}

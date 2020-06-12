@@ -1,0 +1,13 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Arvin Cantor Diesmos",
+    "image": "https://i1.rgstatic.net/ii/profile.image/305540540895233-1449857949895_Q128/Arvin_Diesmos.jpg",
+    "mainEntityOfPage": "https://www.researchgate.net/profile/Arvin_Diesmos",
+    "url": "https://www.researchgate.net/profile/Arvin_Diesmos",
+    "affiliation": {
+        "@type": "Organization",
+        "name": "National Museum of the Philippines",
+        "url": null
+    }
+}

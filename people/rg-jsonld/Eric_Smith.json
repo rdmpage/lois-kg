@@ -1,0 +1,13 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Eric Nelson Smith",
+    "image": "https://i1.rgstatic.net/ii/profile.image/272168873361427-1441901524535_Q128/Eric_Smith.jpg",
+    "mainEntityOfPage": "https://www.researchgate.net/profile/Eric_Smith",
+    "url": "https://www.researchgate.net/profile/Eric_Smith",
+    "affiliation": {
+        "@type": "Organization",
+        "name": "University of Texas at Arlington, Arlington | UTA",
+        "url": "https://www.researchgate.net/institution/University_of_Texas_at_Arlington"
+    }
+}

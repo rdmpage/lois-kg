@@ -1,7 +1,12 @@
 <?php
 
-// Find people based on name
-
+// Given a person identifier and a list of names (alias)
+// use SPARQL construct to generate sameAs statements to
+// link every alias to the identifier.
+//
+// In other words, we are asserting that every instance 
+// of a name is the person with the given identifier.
+//
 
 error_reporting(E_ALL);
 

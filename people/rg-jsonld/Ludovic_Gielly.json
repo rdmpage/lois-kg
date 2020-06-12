@@ -1,0 +1,13 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Ludovic Gielly",
+    "image": "https://i1.rgstatic.net/ii/profile.image/272456464203779-1441970091286_Q128/Ludovic_Gielly.jpg",
+    "mainEntityOfPage": "https://www.researchgate.net/profile/Ludovic_Gielly",
+    "url": "https://www.researchgate.net/profile/Ludovic_Gielly",
+    "affiliation": {
+        "@type": "Organization",
+        "name": "University Grenoble Alpes",
+        "url": null
+    }
+}

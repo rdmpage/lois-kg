@@ -1,0 +1,13 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Madhurima Das",
+    "image": "https://c5.rgstatic.net/m/437738464651637/images/template/default/profile/profile_default_l.jpg",
+    "mainEntityOfPage": "https://www.researchgate.net/profile/Madhurima_Das6",
+    "url": "https://www.researchgate.net/profile/Madhurima_Das6",
+    "affiliation": {
+        "@type": "Organization",
+        "name": "Help Earth",
+        "url": null
+    }
+}

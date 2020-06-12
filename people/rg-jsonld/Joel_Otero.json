@@ -1,0 +1,13 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "joel Tupac Otero",
+    "image": "https://i1.rgstatic.net/ii/profile.image/746238349680645-1554928495548_Q128/Joel_Otero.jpg",
+    "mainEntityOfPage": "https://www.researchgate.net/profile/Joel_Otero",
+    "url": "https://www.researchgate.net/profile/Joel_Otero",
+    "affiliation": {
+        "@type": "Organization",
+        "name": "National University of Colombia, Bogotá | UNAL",
+        "url": "https://www.researchgate.net/institution/National_University_of_Colombia"
+    }
+}

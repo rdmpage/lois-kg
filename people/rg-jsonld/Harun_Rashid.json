@@ -1,0 +1,13 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Harun Rashid",
+    "image": "https://i1.rgstatic.net/ii/profile.image/628034063314944-1526746397021_Q128/Harun_Rashid.jpg",
+    "mainEntityOfPage": "https://www.researchgate.net/profile/Harun_Rashid",
+    "url": "https://www.researchgate.net/profile/Harun_Rashid",
+    "affiliation": {
+        "@type": "Organization",
+        "name": "Trinity College Dublin, Dublin | TCD",
+        "url": "https://www.researchgate.net/institution/Trinity_College_Dublin"
+    }
+}

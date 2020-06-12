@@ -1,0 +1,13 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Alain Dubois",
+    "image": "https://i1.rgstatic.net/ii/profile.image/273618378686503-1442247113585_Q128/Alain_Dubois.jpg",
+    "mainEntityOfPage": "https://www.researchgate.net/profile/Alain_Dubois",
+    "url": "https://www.researchgate.net/profile/Alain_Dubois",
+    "affiliation": {
+        "@type": "Organization",
+        "name": "Muséum National d'Histoire Naturelle",
+        "url": "https://www.researchgate.net/institution/Museum_National_dHistoire_Naturelle"
+    }
+}

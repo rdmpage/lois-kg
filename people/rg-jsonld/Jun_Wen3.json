@@ -1,0 +1,13 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Jun Wen",
+    "image": "https://i1.rgstatic.net/ii/profile.image/575130476990465-1514133199830_Q128/Jun_Wen3.jpg",
+    "mainEntityOfPage": "https://www.researchgate.net/profile/Jun_Wen3",
+    "url": "https://www.researchgate.net/profile/Jun_Wen3",
+    "affiliation": {
+        "@type": "Organization",
+        "name": "Smithsonian Institution",
+        "url": "https://www.researchgate.net/institution/Smithsonian_Institution"
+    }
+}

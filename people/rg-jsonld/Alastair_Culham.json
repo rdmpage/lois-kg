@@ -1,0 +1,16 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Alastair Culham",
+    "image": "https://i1.rgstatic.net/ii/profile.image/272269431799828-1441925499261_Q128/Alastair_Culham.jpg",
+    "mainEntityOfPage": "https://www.researchgate.net/profile/Alastair_Culham",
+    "url": "https://www.researchgate.net/profile/Alastair_Culham",
+    "affiliation": {
+        "@type": "Organization",
+        "name": "University of Reading",
+        "url": "https://www.researchgate.net/institution/University_of_Reading"
+    },
+    "award": [
+        "Faculty Teaching and Learning Prize 2012"
+    ]
+}

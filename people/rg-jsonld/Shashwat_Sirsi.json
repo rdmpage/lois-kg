@@ -1,0 +1,13 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Shashwat Sirsi",
+    "image": "https://i1.rgstatic.net/ii/profile.image/510780434464768-1498790953907_Q128/Shashwat_Sirsi.jpg",
+    "mainEntityOfPage": "https://www.researchgate.net/profile/Shashwat_Sirsi",
+    "url": "https://www.researchgate.net/profile/Shashwat_Sirsi",
+    "affiliation": {
+        "@type": "Organization",
+        "name": "Texas State University, San Marcos | TxSt",
+        "url": "https://www.researchgate.net/institution/Texas_State_University2"
+    }
+}

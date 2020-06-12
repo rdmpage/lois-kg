@@ -1,0 +1,13 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Mark Auliya",
+    "image": "https://i1.rgstatic.net/ii/profile.image/278704153481220-1443459656459_Q128/Mark_Auliya.jpg",
+    "mainEntityOfPage": "https://www.researchgate.net/profile/Mark_Auliya",
+    "url": "https://www.researchgate.net/profile/Mark_Auliya",
+    "affiliation": {
+        "@type": "Organization",
+        "name": "Helmholtz-Zentrum für Umweltforschung, Leipzig | UFZ",
+        "url": "https://www.researchgate.net/institution/Helmholtz-Zentrum_fuer_Umweltforschung"
+    }
+}

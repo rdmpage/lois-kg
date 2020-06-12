@@ -1,0 +1,20 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Richard Shine",
+    "image": "https://i1.rgstatic.net/ii/profile.image/272353015889931-1441945427468_Q128/Richard_Shine.jpg",
+    "mainEntityOfPage": "https://www.researchgate.net/profile/Richard_Shine",
+    "url": "https://www.researchgate.net/profile/Richard_Shine",
+    "affiliation": {
+        "@type": "Organization",
+        "name": "The University of Sydney",
+        "url": "https://www.researchgate.net/institution/The_University_of_Sydney"
+    },
+    "award": [
+        "President-elect, Society for the Study of Amphibians and Reptiles",
+        "Robert Whittaker Distinguished Ecologist Award (Ecological Society of America)",
+        "Eureka Prize for Outstanding Mentor of Young Researchers (Australian Museum – University of Technology Sydney)",
+        "Profiled by Science magazine, 15 June 2012, 1375-1377",
+        "Elected Honorary Member of Ecological Society of America"
+    ]
+}

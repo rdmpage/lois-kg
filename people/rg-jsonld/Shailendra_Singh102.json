@@ -1,0 +1,13 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Shailendra Singh",
+    "image": "https://i1.rgstatic.net/ii/profile.image/585913038024704-1516703962402_Q128/Shailendra_Singh102.jpg",
+    "mainEntityOfPage": "https://www.researchgate.net/profile/Shailendra_Singh102",
+    "url": "https://www.researchgate.net/profile/Shailendra_Singh102",
+    "affiliation": {
+        "@type": "Organization",
+        "name": "Turtle Survival Alliance India",
+        "url": null
+    }
+}

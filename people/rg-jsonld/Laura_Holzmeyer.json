@@ -1,0 +1,13 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Laura Holzmeyer",
+    "image": "https://c5.rgstatic.net/m/437738464651637/images/template/default/profile/profile_default_l.jpg",
+    "mainEntityOfPage": "https://www.researchgate.net/profile/Laura_Holzmeyer",
+    "url": "https://www.researchgate.net/profile/Laura_Holzmeyer",
+    "affiliation": {
+        "@type": "Organization",
+        "name": "University of Leipzig",
+        "url": "https://www.researchgate.net/institution/University_of_Leipzig"
+    }
+}

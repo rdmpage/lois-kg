@@ -1,0 +1,13 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Neela Gayen",
+    "image": "https://c5.rgstatic.net/m/437738464651637/images/template/default/profile/profile_default_l.jpg",
+    "mainEntityOfPage": "https://www.researchgate.net/profile/Neela_Gayen",
+    "url": "https://www.researchgate.net/profile/Neela_Gayen",
+    "affiliation": {
+        "@type": "Organization",
+        "name": "Queensland University of Technology, Brisbane | QUT",
+        "url": "https://www.researchgate.net/institution/Queensland_University_of_Technology"
+    }
+}

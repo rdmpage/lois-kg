@@ -1,0 +1,13 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Elizabeth Ann James",
+    "image": "https://i1.rgstatic.net/ii/profile.image/272761851478020-1442042901238_Q128/Elizabeth_James2.jpg",
+    "mainEntityOfPage": "https://www.researchgate.net/profile/Elizabeth_James2",
+    "url": "https://www.researchgate.net/profile/Elizabeth_James2",
+    "affiliation": {
+        "@type": "Organization",
+        "name": "Royal Botanic Gardens Victoria",
+        "url": "https://www.researchgate.net/institution/Royal_Botanic_Gardens_Victoria"
+    }
+}

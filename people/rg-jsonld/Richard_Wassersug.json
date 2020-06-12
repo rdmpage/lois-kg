@@ -1,0 +1,13 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Richard Wassersug",
+    "image": "https://i1.rgstatic.net/ii/profile.image/283226024235011-1444537754612_Q128/Richard_Wassersug.jpg",
+    "mainEntityOfPage": "https://www.researchgate.net/profile/Richard_Wassersug",
+    "url": "https://www.researchgate.net/profile/Richard_Wassersug",
+    "affiliation": {
+        "@type": "Organization",
+        "name": "University of British Columbia - Vancouver, Vancouver | UBC",
+        "url": "https://www.researchgate.net/institution/University_of_British_Columbia-Vancouver"
+    }
+}

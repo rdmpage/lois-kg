@@ -1,0 +1,13 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Monica Young",
+    "image": "https://i1.rgstatic.net/ii/profile.image/489584808206336-1493737522065_Q128/Monica_Young.jpg",
+    "mainEntityOfPage": "https://www.researchgate.net/profile/Monica_Young",
+    "url": "https://www.researchgate.net/profile/Monica_Young",
+    "affiliation": {
+        "@type": "Organization",
+        "name": "University of Guelph, Guelph | UOGuelph",
+        "url": "https://www.researchgate.net/institution/University_of_Guelph"
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Gergin Blagoev",
+    "image": "https://i1.rgstatic.net/ii/profile.image/448774003793922-1484007468953_Q128/Gergin_Blagoev.jpg",
+    "mainEntityOfPage": "https://www.researchgate.net/profile/Gergin_Blagoev",
+    "url": "https://www.researchgate.net/profile/Gergin_Blagoev",
+    "affiliation": {
+        "@type": "Organization",
+        "name": "Centre for Biodiversity Genomics",
+        "url": null
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Aravind N A",
+    "image": "https://i1.rgstatic.net/ii/profile.image/273567237537792-1442234922082_Q128/Aravind_N_A.jpg",
+    "mainEntityOfPage": "https://www.researchgate.net/profile/Aravind_N_A",
+    "url": "https://www.researchgate.net/profile/Aravind_N_A",
+    "affiliation": {
+        "@type": "Organization",
+        "name": "Ashoka Trust for Research in Ecology and the Environment, Bengaluru | ATREE",
+        "url": "https://www.researchgate.net/institution/Ashoka_Trust_for_Research_in_Ecology_and_the_Environment"
+    }
+}

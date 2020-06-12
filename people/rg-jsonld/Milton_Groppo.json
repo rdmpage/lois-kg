@@ -1,0 +1,13 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Milton Groppo",
+    "image": "https://i1.rgstatic.net/ii/profile.image/276973499764742-1443047036442_Q128/Milton_Groppo.jpg",
+    "mainEntityOfPage": "https://www.researchgate.net/profile/Milton_Groppo",
+    "url": "https://www.researchgate.net/profile/Milton_Groppo",
+    "affiliation": {
+        "@type": "Organization",
+        "name": "University of São Paulo, São Paulo | USP",
+        "url": "https://www.researchgate.net/institution/University_of_Sao_Paulo"
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Indraneil Das",
+    "image": "https://i1.rgstatic.net/ii/profile.image/585751225978881-1516665383467_Q128/Indraneil_Das2.jpg",
+    "mainEntityOfPage": "https://www.researchgate.net/profile/Indraneil_Das2",
+    "url": "https://www.researchgate.net/profile/Indraneil_Das2",
+    "affiliation": {
+        "@type": "Organization",
+        "name": "University Malaysia Sarawak",
+        "url": "https://www.researchgate.net/institution/University_Malaysia_Sarawak"
+    }
+}

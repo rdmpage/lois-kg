@@ -1,0 +1,13 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Carla Bruniera",
+    "image": "https://i1.rgstatic.net/ii/profile.image/272236208717837-1441917578363_Q128/Carla_Bruniera.jpg",
+    "mainEntityOfPage": "https://www.researchgate.net/profile/Carla_Bruniera",
+    "url": "https://www.researchgate.net/profile/Carla_Bruniera",
+    "affiliation": {
+        "@type": "Organization",
+        "name": "Universidade Federal de São Paulo, São Paulo | UNIFESP",
+        "url": "https://www.researchgate.net/institution/Universidade_Federal_de_Sao_Paulo"
+    }
+}

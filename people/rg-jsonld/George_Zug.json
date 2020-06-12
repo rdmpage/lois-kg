@@ -1,0 +1,13 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "George Zug",
+    "image": "https://i1.rgstatic.net/ii/profile.image/277645561483282-1443207268653_Q128/George_Zug.jpg",
+    "mainEntityOfPage": "https://www.researchgate.net/profile/George_Zug",
+    "url": "https://www.researchgate.net/profile/George_Zug",
+    "affiliation": {
+        "@type": "Organization",
+        "name": "Smithsonian Institution",
+        "url": "https://www.researchgate.net/institution/Smithsonian_Institution"
+    }
+}

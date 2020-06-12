@@ -1,0 +1,13 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Choo Hock Tan",
+    "image": "https://i1.rgstatic.net/ii/profile.image/299354238799878-1448383020549_Q128/Choo_Tan.jpg",
+    "mainEntityOfPage": "https://www.researchgate.net/profile/Choo_Tan",
+    "url": "https://www.researchgate.net/profile/Choo_Tan",
+    "affiliation": {
+        "@type": "Organization",
+        "name": "University of Malaya, Kuala Lumpur | UM",
+        "url": "https://www.researchgate.net/institution/University_of_Malaya"
+    }
+}

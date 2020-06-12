@@ -1,0 +1,13 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Darren Crayn",
+    "image": "https://i1.rgstatic.net/ii/profile.image/272492862373902-1441978769466_Q128/Darren_Crayn.jpg",
+    "mainEntityOfPage": "https://www.researchgate.net/profile/Darren_Crayn",
+    "url": "https://www.researchgate.net/profile/Darren_Crayn",
+    "affiliation": {
+        "@type": "Organization",
+        "name": "James Cook University",
+        "url": "https://www.researchgate.net/institution/James_Cook_University"
+    }
+}

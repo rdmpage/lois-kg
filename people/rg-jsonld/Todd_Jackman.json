@@ -1,0 +1,13 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Todd Jackman",
+    "image": "https://i1.rgstatic.net/ii/profile.image/799404474789888-1567604287458_Q128/Todd_Jackman.jpg",
+    "mainEntityOfPage": "https://www.researchgate.net/profile/Todd_Jackman",
+    "url": "https://www.researchgate.net/profile/Todd_Jackman",
+    "affiliation": {
+        "@type": "Organization",
+        "name": "Villanova University, Radnor | Nova",
+        "url": "https://www.researchgate.net/institution/Villanova_University"
+    }
+}

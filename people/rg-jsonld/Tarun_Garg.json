@@ -1,0 +1,13 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Tarun Garg",
+    "image": "https://i1.rgstatic.net/ii/profile.image/272167216611378-1441901129837_Q128/Tarun_Garg.jpg",
+    "mainEntityOfPage": "https://www.researchgate.net/profile/Tarun_Garg",
+    "url": "https://www.researchgate.net/profile/Tarun_Garg",
+    "affiliation": {
+        "@type": "Organization",
+        "name": "University of Arkansas for Medical Sciences, Little Rock | UAMS",
+        "url": "https://www.researchgate.net/institution/University_of_Arkansas_for_Medical_Sciences"
+    }
+}

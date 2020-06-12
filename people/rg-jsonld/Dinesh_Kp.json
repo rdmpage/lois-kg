@@ -1,0 +1,13 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Dinesh K.P.",
+    "image": "https://c5.rgstatic.net/m/437738464651637/images/template/default/profile/profile_default_l.jpg",
+    "mainEntityOfPage": "https://www.researchgate.net/profile/Dinesh_Kp",
+    "url": "https://www.researchgate.net/profile/Dinesh_Kp",
+    "affiliation": {
+        "@type": "Organization",
+        "name": "Zoological Survey of India, Kolkata | ZSI",
+        "url": "https://www.researchgate.net/institution/Zoological_Survey_of_India"
+    }
+}

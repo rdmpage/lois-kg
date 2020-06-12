@@ -1,0 +1,13 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Peter Uetz",
+    "image": "https://i1.rgstatic.net/ii/profile.image/272236208717833-1441917578248_Q128/Peter_Uetz2.jpg",
+    "mainEntityOfPage": "https://www.researchgate.net/profile/Peter_Uetz2",
+    "url": "https://www.researchgate.net/profile/Peter_Uetz2",
+    "affiliation": {
+        "@type": "Organization",
+        "name": "Virginia Commonwealth University, Richmond | VCU",
+        "url": "https://www.researchgate.net/institution/Virginia_Commonwealth_University"
+    }
+}

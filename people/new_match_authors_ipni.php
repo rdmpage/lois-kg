@@ -1,7 +1,9 @@
 <?php
 
 // Given a bibliographic URI, match authors of work to IPNI taxonomic 
-// authors without assuming that they have the same order
+// authors without assuming that they have the same order.
+// Basically we are doing a crude maximum weighted matching.
+
 
 
 error_reporting(E_ALL);
@@ -9616,8 +9618,9 @@ $names = array(
 //'Brown',
 //'Baker',
 //'Weber',
-'St. John',
-'St John',
+//'St. John',
+//'St John',
+'Tamura',
 );
 
 foreach ($names as $name)

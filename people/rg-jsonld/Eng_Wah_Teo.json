@@ -1,0 +1,13 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Eng Wah Teo",
+    "image": "https://i1.rgstatic.net/ii/profile.image/484333946445824-1492485619804_Q128/Eng_Wah_Teo.jpg",
+    "mainEntityOfPage": "https://www.researchgate.net/profile/Eng_Wah_Teo",
+    "url": "https://www.researchgate.net/profile/Eng_Wah_Teo",
+    "affiliation": {
+        "@type": "Organization",
+        "name": "University of Malaya, Kuala Lumpur | UM",
+        "url": "https://www.researchgate.net/institution/University_of_Malaya"
+    }
+}

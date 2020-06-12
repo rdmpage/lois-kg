@@ -1,0 +1,13 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Stefan Hertwig",
+    "image": "https://c5.rgstatic.net/m/437738464651637/images/template/default/profile/profile_default_l.jpg",
+    "mainEntityOfPage": "https://www.researchgate.net/profile/Stefan_Hertwig2",
+    "url": "https://www.researchgate.net/profile/Stefan_Hertwig2",
+    "affiliation": {
+        "@type": "Organization",
+        "name": "Natural History Museum Bern",
+        "url": "https://www.researchgate.net/institution/Natural_History_Museum_Bern"
+    }
+}

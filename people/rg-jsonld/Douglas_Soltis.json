@@ -1,0 +1,13 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Douglas E Soltis",
+    "image": "https://i1.rgstatic.net/ii/profile.image/282075572785154-1444263465741_Q128/Douglas_Soltis.jpg",
+    "mainEntityOfPage": "https://www.researchgate.net/profile/Douglas_Soltis",
+    "url": "https://www.researchgate.net/profile/Douglas_Soltis",
+    "affiliation": {
+        "@type": "Organization",
+        "name": "University of Florida, Gainesville | UF",
+        "url": "https://www.researchgate.net/institution/University_of_Florida2"
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Maurizio Rossetto",
+    "image": "https://i1.rgstatic.net/ii/profile.image/764053760774150-1559176020527_Q128/Maurizio_Rossetto.jpg",
+    "mainEntityOfPage": "https://www.researchgate.net/profile/Maurizio_Rossetto",
+    "url": "https://www.researchgate.net/profile/Maurizio_Rossetto",
+    "affiliation": {
+        "@type": "Organization",
+        "name": "Royal Botanic Gardens & Domain Trust",
+        "url": null
+    }
+}

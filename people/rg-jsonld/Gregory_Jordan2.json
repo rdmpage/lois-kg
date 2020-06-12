@@ -1,0 +1,13 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Gregory J Jordan",
+    "image": "https://i1.rgstatic.net/ii/profile.image/272406161915915-1441958098391_Q128/Gregory_Jordan2.jpg",
+    "mainEntityOfPage": "https://www.researchgate.net/profile/Gregory_Jordan2",
+    "url": "https://www.researchgate.net/profile/Gregory_Jordan2",
+    "affiliation": {
+        "@type": "Organization",
+        "name": "University of Tasmania",
+        "url": "https://www.researchgate.net/institution/University_of_Tasmania"
+    }
+}

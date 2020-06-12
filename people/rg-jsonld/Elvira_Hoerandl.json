@@ -1,0 +1,13 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Elvira Hörandl",
+    "image": "https://i1.rgstatic.net/ii/profile.image/272353200439319-1441945471949_Q128/Elvira_Hoerandl.jpg",
+    "mainEntityOfPage": "https://www.researchgate.net/profile/Elvira_Hoerandl",
+    "url": "https://www.researchgate.net/profile/Elvira_Hoerandl",
+    "affiliation": {
+        "@type": "Organization",
+        "name": "Georg-August-Universität Göttingen, Göttingen | GAUG",
+        "url": "https://www.researchgate.net/institution/Georg-August-Universitaet_Goettingen"
+    }
+}

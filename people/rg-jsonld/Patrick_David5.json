@@ -1,0 +1,13 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Patrick David",
+    "image": "https://i1.rgstatic.net/ii/profile.image/685262438924294-1540390705358_Q128/Patrick_David5.jpg",
+    "mainEntityOfPage": "https://www.researchgate.net/profile/Patrick_David5",
+    "url": "https://www.researchgate.net/profile/Patrick_David5",
+    "affiliation": {
+        "@type": "Organization",
+        "name": "Muséum National d'Histoire Naturelle",
+        "url": "https://www.researchgate.net/institution/Museum_National_dHistoire_Naturelle"
+    }
+}

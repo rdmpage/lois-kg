@@ -1,0 +1,20 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Maria Novosolov",
+    "image": "https://i1.rgstatic.net/ii/profile.image/272248590303248-1441920530469_Q128/Maria_Novosolov.jpg",
+    "mainEntityOfPage": "https://www.researchgate.net/profile/Maria_Novosolov",
+    "url": "https://www.researchgate.net/profile/Maria_Novosolov",
+    "affiliation": {
+        "@type": "Organization",
+        "name": "University of Copenhagen",
+        "url": "https://www.researchgate.net/institution/University_of_Copenhagen"
+    },
+    "award": [
+        "Human Frontiers Reseach Fellowship",
+        "Clore PhD Fellowship",
+        "Adesman Scholarship – Travel grant",
+        "Zoological Society of Israel – Travel grant",
+        "Department of Zoology, Tel Aviv University – Excellence in Research"
+    ]
+}

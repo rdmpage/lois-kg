@@ -1,0 +1,13 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Jeremy Dewaard",
+    "image": "https://i1.rgstatic.net/ii/profile.image/385076912246784-1468820898010_Q128/Jeremy_Dewaard.jpg",
+    "mainEntityOfPage": "https://www.researchgate.net/profile/Jeremy_Dewaard",
+    "url": "https://www.researchgate.net/profile/Jeremy_Dewaard",
+    "affiliation": {
+        "@type": "Organization",
+        "name": "University of Guelph, Guelph | UOGuelph",
+        "url": "https://www.researchgate.net/institution/University_of_Guelph"
+    }
+}

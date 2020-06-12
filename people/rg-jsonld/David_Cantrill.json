@@ -1,0 +1,13 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "David J Cantrill",
+    "image": "https://i1.rgstatic.net/ii/profile.image/272662039625745-1442019104441_Q128/David_Cantrill.jpg",
+    "mainEntityOfPage": "https://www.researchgate.net/profile/David_Cantrill",
+    "url": "https://www.researchgate.net/profile/David_Cantrill",
+    "affiliation": {
+        "@type": "Organization",
+        "name": "Royal Botanic Gardens Victoria",
+        "url": "https://www.researchgate.net/institution/Royal_Botanic_Gardens_Victoria"
+    }
+}

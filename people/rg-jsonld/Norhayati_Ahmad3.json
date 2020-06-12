@@ -1,0 +1,13 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Norhayati Ahmad",
+    "image": "https://i1.rgstatic.net/ii/profile.image/279137177620482-1443562897499_Q128/Norhayati_Ahmad3.jpg",
+    "mainEntityOfPage": "https://www.researchgate.net/profile/Norhayati_Ahmad3",
+    "url": "https://www.researchgate.net/profile/Norhayati_Ahmad3",
+    "affiliation": {
+        "@type": "Organization",
+        "name": "Universiti Kebangsaan Malaysia | ukm",
+        "url": "https://www.researchgate.net/institution/Universiti_Kebangsaan_Malaysia"
+    }
+}

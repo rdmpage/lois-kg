@@ -1,0 +1,13 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Octávio Mateus",
+    "image": "https://i1.rgstatic.net/ii/profile.image/272322728820750-1441938206815_Q128/Octavio_Mateus.jpg",
+    "mainEntityOfPage": "https://www.researchgate.net/profile/Octavio_Mateus",
+    "url": "https://www.researchgate.net/profile/Octavio_Mateus",
+    "affiliation": {
+        "@type": "Organization",
+        "name": "University NOVA of Lisbon",
+        "url": null
+    }
+}

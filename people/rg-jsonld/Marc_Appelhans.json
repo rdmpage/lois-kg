@@ -1,0 +1,13 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Marc Appelhans",
+    "image": "https://i1.rgstatic.net/ii/profile.image/360125995995138-1462872136731_Q128/Marc_Appelhans.jpg",
+    "mainEntityOfPage": "https://www.researchgate.net/profile/Marc_Appelhans",
+    "url": "https://www.researchgate.net/profile/Marc_Appelhans",
+    "affiliation": {
+        "@type": "Organization",
+        "name": "Georg-August-Universität Göttingen, Göttingen | GAUG",
+        "url": "https://www.researchgate.net/institution/Georg-August-Universitaet_Goettingen"
+    }
+}

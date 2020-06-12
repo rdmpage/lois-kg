@@ -1,0 +1,13 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Arif Muhammad",
+    "image": "https://i1.rgstatic.net/ii/profile.image/272174116241427-1441902774347_Q128/Arif_Muhammad.jpg",
+    "mainEntityOfPage": "https://www.researchgate.net/profile/Arif_Muhammad",
+    "url": "https://www.researchgate.net/profile/Arif_Muhammad",
+    "affiliation": {
+        "@type": "Organization",
+        "name": "University of Sargodha, Sargodha | UOS",
+        "url": "https://www.researchgate.net/institution/University_of_Sargodha"
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Jamuna Chhetri",
+    "image": "https://c5.rgstatic.net/m/437738464651637/images/template/default/profile/profile_default_l.jpg",
+    "mainEntityOfPage": "https://www.researchgate.net/profile/Jamuna_Chhetri",
+    "url": "https://www.researchgate.net/profile/Jamuna_Chhetri",
+    "affiliation": {
+        "@type": "Organization",
+        "name": "University of Tasmania",
+        "url": "https://www.researchgate.net/institution/University_of_Tasmania"
+    },
+    "award": [
+        "“The Australian Society for Medical Research”, Medical Research Week 2016 Student Oral Presentations-Runner Up",
+        "Tasmanian Graduate Research Scholarship (TGRS)",
+        "“Australian leadership Award” Scholarship (AUSAID)",
+        "“Chhatra Bidya Padak”- Nepal Government",
+        "“Academic excellence award”- Graduate Pharmacists’ Association, Nepal"
+    ]
+}

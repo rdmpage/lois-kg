@@ -1,0 +1,13 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Aniruddha Datta-Roy",
+    "image": "https://i1.rgstatic.net/ii/profile.image/278761808384008-1443473402534_Q128/Aniruddha_Datta-Roy.jpg",
+    "mainEntityOfPage": "https://www.researchgate.net/profile/Aniruddha_Datta-Roy",
+    "url": "https://www.researchgate.net/profile/Aniruddha_Datta-Roy",
+    "affiliation": {
+        "@type": "Organization",
+        "name": "Indian Institute of Science, Bengaluru | IISC",
+        "url": "https://www.researchgate.net/institution/Indian_Institute_of_Science"
+    }
+}

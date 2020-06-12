@@ -1,0 +1,13 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Li Ding",
+    "image": "https://i1.rgstatic.net/ii/profile.image/272585292251166-1442000806693_Q128/Li_Ding8.jpg",
+    "mainEntityOfPage": "https://www.researchgate.net/profile/Li_Ding8",
+    "url": "https://www.researchgate.net/profile/Li_Ding8",
+    "affiliation": {
+        "@type": "Organization",
+        "name": "Chinese Academy of Sciences, Beijing | CAS",
+        "url": "https://www.researchgate.net/institution/Chinese_Academy_of_Sciences"
+    }
+}

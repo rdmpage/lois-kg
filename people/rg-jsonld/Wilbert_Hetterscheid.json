@@ -1,0 +1,13 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Wilbert Hetterscheid",
+    "image": "https://i1.rgstatic.net/ii/profile.image/279098682298368-1443553719319_Q128/Wilbert_Hetterscheid.jpg",
+    "mainEntityOfPage": "https://www.researchgate.net/profile/Wilbert_Hetterscheid",
+    "url": "https://www.researchgate.net/profile/Wilbert_Hetterscheid",
+    "affiliation": {
+        "@type": "Organization",
+        "name": "National Tree Museum Gimborn",
+        "url": null
+    }
+}

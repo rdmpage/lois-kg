@@ -1,0 +1,16 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Omar Torres-Carvajal",
+    "image": "https://i1.rgstatic.net/ii/profile.image/495476119216128-1495142120255_Q128/Omar_Torres-Carvajal.jpg",
+    "mainEntityOfPage": "https://www.researchgate.net/profile/Omar_Torres-Carvajal",
+    "url": "https://www.researchgate.net/profile/Omar_Torres-Carvajal",
+    "affiliation": {
+        "@type": "Organization",
+        "name": "Pontificia Universidad Católica del Ecuador, Quito | PUCE",
+        "url": "https://www.researchgate.net/institution/Pontificia_Universidad_Catolica_del_Ecuador"
+    },
+    "award": [
+        "Fulbright"
+    ]
+}

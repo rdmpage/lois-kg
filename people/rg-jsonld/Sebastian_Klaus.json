@@ -1,0 +1,13 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Sebastian Klaus",
+    "image": "https://i1.rgstatic.net/ii/profile.image/572960226660352-1513615771068_Q128/Sebastian_Klaus.jpg",
+    "mainEntityOfPage": "https://www.researchgate.net/profile/Sebastian_Klaus",
+    "url": "https://www.researchgate.net/profile/Sebastian_Klaus",
+    "affiliation": {
+        "@type": "Organization",
+        "name": "Goethe-Universität Frankfurt am Main",
+        "url": "https://www.researchgate.net/institution/Goethe-Universitaet_Frankfurt_am_Main"
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Franco Andreone",
+    "image": "https://i1.rgstatic.net/ii/profile.image/382204589953024-1468136083547_Q128/Franco_Andreone.jpg",
+    "mainEntityOfPage": "https://www.researchgate.net/profile/Franco_Andreone",
+    "url": "https://www.researchgate.net/profile/Franco_Andreone",
+    "affiliation": {
+        "@type": "Organization",
+        "name": "Museo Regionale di Scienze Naturali",
+        "url": "https://www.researchgate.net/institution/Museo_Regionale_di_Scienze_Naturali"
+    },
+    "award": [
+        "Sabin Award for Amphibian Conservation"
+    ]
+}

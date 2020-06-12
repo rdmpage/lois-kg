@@ -1,0 +1,13 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Jigme Tshelthrim Wangyal",
+    "image": "https://i1.rgstatic.net/ii/profile.image/434784640999427-1480672144904_Q128/Jigme_Tshelthrim_Wangyal.jpg",
+    "mainEntityOfPage": "https://www.researchgate.net/profile/Jigme_Tshelthrim_Wangyal",
+    "url": "https://www.researchgate.net/profile/Jigme_Tshelthrim_Wangyal",
+    "affiliation": {
+        "@type": "Organization",
+        "name": "Jigme Khesar Strict Nature Reserve, Haa",
+        "url": null
+    }
+}

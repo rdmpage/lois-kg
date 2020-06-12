@@ -1,0 +1,13 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Ramesh K Aggarwal",
+    "image": "https://i1.rgstatic.net/ii/profile.image/390902905360385-1470209923794_Q128/Ramesh_Aggarwal2.jpg",
+    "mainEntityOfPage": "https://www.researchgate.net/profile/Ramesh_Aggarwal2",
+    "url": "https://www.researchgate.net/profile/Ramesh_Aggarwal2",
+    "affiliation": {
+        "@type": "Organization",
+        "name": "Centre for Cellular and Molecular Biology (Council of Scientific and Industrial Research), Hyderabad, India",
+        "url": null
+    }
+}

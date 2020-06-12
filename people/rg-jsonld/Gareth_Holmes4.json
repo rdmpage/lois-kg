@@ -1,0 +1,13 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Gareth D. Holmes",
+    "image": "https://i1.rgstatic.net/ii/profile.image/279699201773571-1443696894403_Q128/Gareth_Holmes4.jpg",
+    "mainEntityOfPage": "https://www.researchgate.net/profile/Gareth_Holmes4",
+    "url": "https://www.researchgate.net/profile/Gareth_Holmes4",
+    "affiliation": {
+        "@type": "Organization",
+        "name": "Royal Botanic Gardens Victoria",
+        "url": "https://www.researchgate.net/institution/Royal_Botanic_Gardens_Victoria"
+    }
+}

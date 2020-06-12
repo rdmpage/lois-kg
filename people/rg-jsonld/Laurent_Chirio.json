@@ -1,0 +1,13 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Laurent Chirio",
+    "image": "https://i1.rgstatic.net/ii/profile.image/272408435228676-1441958640218_Q128/Laurent_Chirio.jpg",
+    "mainEntityOfPage": "https://www.researchgate.net/profile/Laurent_Chirio",
+    "url": "https://www.researchgate.net/profile/Laurent_Chirio",
+    "affiliation": {
+        "@type": "Organization",
+        "name": "Riyadh International French School",
+        "url": null
+    }
+}

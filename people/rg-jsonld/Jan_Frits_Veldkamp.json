@@ -1,0 +1,13 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Jan-Frits Veldkamp",
+    "image": "https://i1.rgstatic.net/ii/profile.image/301831528960006-1448973652652_Q128/Jan_Frits_Veldkamp.jpg",
+    "mainEntityOfPage": "https://www.researchgate.net/profile/Jan_Frits_Veldkamp",
+    "url": "https://www.researchgate.net/profile/Jan_Frits_Veldkamp",
+    "affiliation": {
+        "@type": "Organization",
+        "name": "Naturalis Biodiversity Center, Leiden | NCB",
+        "url": "https://www.researchgate.net/institution/Naturalis_Biodiversity_Center"
+    }
+}

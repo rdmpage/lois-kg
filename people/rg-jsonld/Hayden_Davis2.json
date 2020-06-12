@@ -1,0 +1,17 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Hayden R. Davis",
+    "image": "https://i1.rgstatic.net/ii/profile.image/768518211502084-1560240428892_Q128/Hayden_Davis2.jpg",
+    "mainEntityOfPage": "https://www.researchgate.net/profile/Hayden_Davis2",
+    "url": "https://www.researchgate.net/profile/Hayden_Davis2",
+    "affiliation": {
+        "@type": "Organization",
+        "name": "University of Washington Seattle, Seattle | UW",
+        "url": "https://www.researchgate.net/institution/University_of_Washington_Seattle"
+    },
+    "award": [
+        "Graduate Student Summer Research Fellowship",
+        "Lynn N. Sarkisian Biology Scholarship Endowment"
+    ]
+}
