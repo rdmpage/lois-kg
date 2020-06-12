@@ -1,0 +1,128 @@
+<html>
+<head>
+<style>
+.item {
+	float:left;
+	width:100px;
+	height:100px;
+	margin:2px;
+	background-color:rgb(228,228,228); 
+}
+
+.item img {
+	width:100%;
+	height:100%;
+	object-fit: cover;
+	object-position: 50% 50%;
+}
+
+/* hide outline highlght when summary is shown */
+summary:focus {
+	outline-style: none;
+}
+
+summary::-webkit-details-marker {
+  display: none
+}
+
+summary:before {
+	content: "+";
+}
+
+details {
+	border-left:1px solid black;
+}
+
+details[open] summary:before {
+  content: "-";
+}
+
+
+</style>
+</head>
+
+<body>
+
+http://html5doctor.com/the-details-and-summary-elements/
+
+
+
+<span>
+One &gt; Two 
+</span>
+<div>
+<span>Root</span>
+
+<details open>
+	<summary>Genus (7)</summary>
+	
+	<div style="display:block;height:auto;overflow:auto;padding:4px;">
+
+	
+	<div class="item">
+		<img src="https://images.ala.org.au/image/proxyImageThumbnail?imageId=c4bf6514-5120-49b8-a8a0-b7af41ddd33c">
+	</div>
+	<div class="item">
+		<img src="https://images.ala.org.au/image/proxyImageThumbnail?imageId=eb8c9dde-fc26-4f82-b580-df7a2e03eca3">	
+	</div>
+	<div class="item">
+		<img src="https://images.ala.org.au/image/proxyImageThumbnail?imageId=931fd2d5-db94-4365-b18f-bd0c534e957f">
+	</div>
+	
+	
+	<div class="item">
+		<img src="https://upload.wikimedia.org/wikipedia/commons/0/08/Varanus_benghalensis.jpg">
+	</div>
+	<div class="item">
+		<img src="https://upload.wikimedia.org/wikipedia/commons/6/68/Varanus_macraei_-_Reptilium_Landau_01.jpg">
+	
+	
+	</div>
+	<div class="item">
+		<img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Giant_petrel_with_chicks.jpg">
+	
+	</div>
+	<div class="item">
+	<img src="https://upload.wikimedia.org/wikipedia/commons/0/09/Begonia_1.jpg">
+	
+	</div>
+	
+	
+
+	</div>
+
+
+</details>
+
+<details open>
+	<summary>Genus (3)</summary>
+	
+	<div style="display:block;height:auto;overflow:auto;padding:4px;">
+
+	
+	<div class="item">
+		<img src="https://images.ala.org.au/image/proxyImageThumbnail?imageId=c4bf6514-5120-49b8-a8a0-b7af41ddd33c">
+	</div>
+	<div class="item">
+		<img src="https://images.ala.org.au/image/proxyImageThumbnail?imageId=eb8c9dde-fc26-4f82-b580-df7a2e03eca3">	
+	</div>
+	<div class="item">
+		<img src="https://images.ala.org.au/image/proxyImageThumbnail?imageId=931fd2d5-db94-4365-b18f-bd0c534e957f">
+	</div>
+	
+
+	</div>
+
+
+</details>
+
+
+</div>
+
+
+
+            
+
+
+</body>
+</html>

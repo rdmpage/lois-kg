@@ -1,0 +1,439 @@
+{
+  "@context": {
+    "@vocab": "http://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://bie.ala.org.au/species/urn:lsid:biodiversity.org.au:afd.taxon:6f6c5cbb-7853-4a21-8de3-586a9104eee4",
+      "@type": "DataFeed",
+      "dataFeedElement": [
+        {
+          "@id": "https://bie.ala.org.au/species/urn:lsid:biodiversity.org.au:afd.taxon:5393b9d8-82c7-4b61-bdc8-4401d4c86f2d",
+          "@type": [
+            "DataFeedItem",
+            "ItemList"
+          ],
+          "itemListElement": [
+            {
+              "@id": "https://bie.ala.org.au/species/urn:lsid:biodiversity.org.au:afd.taxon:9541069c-ffb3-4c2f-b619-48e2ec5b196b",
+              "@type": "DataFeedItem",
+              "name": "Exechohypopion Evenhuis, 1991",
+              "thumbnailUrl": "https://images.ala.org.au/image/proxyImageThumbnail?imageId=83280cf2-bb3d-45a7-b92a-14845a371264"
+            },
+            {
+              "@id": "https://bie.ala.org.au/species/urn:lsid:biodiversity.org.au:afd.taxon:9a7fd69b-940d-49a0-ab75-16e3d51f6ce3",
+              "@type": "DataFeedItem",
+              "name": "Larrpana Lambkin & Yeates, 2003",
+              "thumbnailUrl": "https://images.ala.org.au/image/proxyImageThumbnail?imageId=b1a8cb8e-01f1-4cd4-831c-784b9f2d8f70"
+            },
+            {
+              "@id": "https://bie.ala.org.au/species/urn:lsid:biodiversity.org.au:afd.taxon:3b623539-faed-4383-b4a6-2e2db60f9050",
+              "@type": "DataFeedItem",
+              "name": "Atrichochira Hesse, 1956",
+              "thumbnailUrl": "https://images.ala.org.au/image/proxyImageThumbnail?imageId=bcc22b45-7533-44b4-a111-388d0f9a4cc3"
+            },
+            {
+              "@id": "https://bie.ala.org.au/species/urn:lsid:biodiversity.org.au:afd.taxon:2323e7e5-41b4-434a-b27e-75f9d2c6439f",
+              "@type": "DataFeedItem",
+              "name": "Thraxan Yeates & Lambkin, 1998",
+              "thumbnailUrl": "https://images.ala.org.au/image/proxyImageThumbnail?imageId=bcf1ec95-076f-4622-bbe0-6c6b42f7bf72"
+            },
+            {
+              "@id": "https://bie.ala.org.au/species/urn:lsid:biodiversity.org.au:afd.taxon:392ff343-72f8-49fc-9bac-a12b22da36d6",
+              "@type": "DataFeedItem",
+              "name": "Exoprosopa Macquart, 1840",
+              "thumbnailUrl": "https://images.ala.org.au/image/proxyImageThumbnail?imageId=c18d2e03-fdb0-4443-bbb8-c3b7f81bdc5b"
+            },
+            {
+              "@id": "https://bie.ala.org.au/species/urn:lsid:biodiversity.org.au:afd.taxon:bd0e2ad5-3f24-4657-bb8f-3ed37529e7e0",
+              "@type": "DataFeedItem",
+              "name": "Villa Lioy, 1864",
+              "thumbnailUrl": "https://images.ala.org.au/image/proxyImageThumbnail?imageId=c62aa900-b875-4bca-bc55-ca01bca82874"
+            },
+            {
+              "@id": "https://bie.ala.org.au/species/urn:lsid:biodiversity.org.au:afd.taxon:7bc20c59-d08d-478d-b6e0-4d1ddbec2346",
+              "@type": "DataFeedItem",
+              "name": "Kapu Lambkin & Yeates, 2006",
+              "thumbnailUrl": "https://images.ala.org.au/image/proxyImageThumbnail?imageId=e64cdf87-2fab-42a7-a1b6-96a1d6bcdd49"
+            },
+            {
+              "@id": "https://bie.ala.org.au/species/urn:lsid:biodiversity.org.au:afd.taxon:2611e13b-582e-4c82-a291-394043f5ccce",
+              "@type": "DataFeedItem",
+              "name": "Petrorossia Bezzi, 1908",
+              "thumbnailUrl": "https://images.ala.org.au/image/proxyImageThumbnail?imageId=ee249692-1627-4675-9a64-943108307bea"
+            },
+            {
+              "@id": "https://bie.ala.org.au/species/urn:lsid:biodiversity.org.au:afd.taxon:c8ba640c-9630-4185-a74b-c822d7292ec4",
+              "@type": "DataFeedItem",
+              "name": "Pseudopenthes Roberts, 1928",
+              "thumbnailUrl": "https://images.ala.org.au/image/proxyImageThumbnail?imageId=f185badc-1103-4550-9ec0-b8c8a0fc7b10"
+            },
+            {
+              "@id": "https://bie.ala.org.au/species/urn:lsid:biodiversity.org.au:afd.taxon:85448883-80ab-4202-afde-6cb83e8f30f9",
+              "@type": "DataFeedItem",
+              "name": "Balaana Lambkin & Yeates, 2003",
+              "thumbnailUrl": "https://images.ala.org.au/image/proxyImageThumbnail?imageId=f8e2f01f-739f-4258-9f22-a31e04550697"
+            },
+            {
+              "@id": "https://bie.ala.org.au/species/urn:lsid:biodiversity.org.au:afd.taxon:bbfc3dcd-fd84-4ef8-b28b-72cd2ae8bee2",
+              "@type": "DataFeedItem",
+              "name": "Wurda Lambkin & Yeates, 2003",
+              "thumbnailUrl": "https://images.ala.org.au/image/proxyImageThumbnail?imageId=fe303d83-67db-49a0-8282-cec6aecc2477"
+            },
+            {
+              "@id": "https://bie.ala.org.au/species/urn:lsid:biodiversity.org.au:afd.taxon:35b7aee3-6b20-4c62-b5a6-d038356c29fb",
+              "@type": "DataFeedItem",
+              "name": "Ligyra Newman, 1841",
+              "thumbnailUrl": "https://images.ala.org.au/image/proxyImageThumbnail?imageId=0293f665-1515-4b87-8d87-e2eb31eae520"
+            },
+            {
+              "@id": "https://bie.ala.org.au/species/urn:lsid:biodiversity.org.au:afd.taxon:c7196436-34a9-499c-85d7-a16560f1d87e",
+              "@type": "DataFeedItem",
+              "name": "Munjua Lambkin & Yeates, 2003",
+              "thumbnailUrl": "https://images.ala.org.au/image/proxyImageThumbnail?imageId=38f99f5f-98db-4626-aa02-96251f46b8cf"
+            },
+            {
+              "@id": "https://bie.ala.org.au/species/urn:lsid:biodiversity.org.au:afd.taxon:047ee7b2-5766-4fe3-983b-f8807a12482f",
+              "@type": "DataFeedItem",
+              "name": "Palirika Lambkin & Yeates, 2003",
+              "thumbnailUrl": "https://images.ala.org.au/image/proxyImageThumbnail?imageId=40a2eb15-1f57-415a-856e-2f6ac08ac2f1"
+            },
+            {
+              "@id": "https://bie.ala.org.au/species/urn:lsid:biodiversity.org.au:afd.taxon:e875467f-5d9d-4fc1-b31d-0c3b3ab03c6a",
+              "@type": "DataFeedItem",
+              "name": "Anthrax Scopoli, 1763",
+              "thumbnailUrl": "https://images.ala.org.au/image/proxyImageThumbnail?imageId=461b7f47-ab51-4593-89c2-ee4613828cdc"
+            },
+            {
+              "@id": "https://bie.ala.org.au/species/urn:lsid:biodiversity.org.au:afd.taxon:07e32ecb-9e00-4017-be27-d25d1332987b",
+              "@type": "DataFeedItem",
+              "name": "Ngalki Lambkin, 2011",
+              "thumbnailUrl": "https://images.ala.org.au/image/proxyImageThumbnail?imageId=47ca1fc7-09d5-4d9d-951f-0436e4f2cbf0"
+            },
+            {
+              "@id": "https://bie.ala.org.au/species/urn:lsid:biodiversity.org.au:afd.taxon:a0b722b6-ed79-472a-9fda-59c36da94280",
+              "@type": "DataFeedItem",
+              "name": "Muwarna Lambkin & Yeates, 2003",
+              "thumbnailUrl": "https://images.ala.org.au/image/proxyImageThumbnail?imageId=48f08d60-c8f0-433a-90dc-ce020d3db9cc"
+            },
+            {
+              "@id": "https://bie.ala.org.au/species/urn:lsid:biodiversity.org.au:afd.taxon:b33e0f84-a18f-4a14-875a-a8f6449bc81b",
+              "@type": "DataFeedItem",
+              "name": "Lepidanthrax Osten Sacken, 1886"
+            },
+            {
+              "@id": "https://bie.ala.org.au/species/urn:lsid:biodiversity.org.au:afd.taxon:1fdb5fe9-d9cb-4aae-9f11-070447d4c777",
+              "@type": "DataFeedItem",
+              "name": "Brachyanax Evenhuis, 1981"
+            },
+            {
+              "@id": "https://bie.ala.org.au/species/urn:lsid:biodiversity.org.au:afd.taxon:75f62c09-4228-43c5-81b0-33d33b223b2b",
+              "@type": "DataFeedItem",
+              "name": "Litorhina Bowden, 1975"
+            }
+          ],
+          "name": "Anthracinae"
+        },
+        {
+          "@id": "https://bie.ala.org.au/species/urn:lsid:biodiversity.org.au:afd.taxon:2c188bb1-ab51-4181-b1e0-2eabae8be4a8",
+          "@type": [
+            "DataFeedItem",
+            "ItemList"
+          ],
+          "itemListElement": [
+            {
+              "@id": "https://bie.ala.org.au/species/urn:lsid:biodiversity.org.au:afd.taxon:f4922b82-32ef-43ae-83a0-13ea90627b6b",
+              "@type": "DataFeedItem",
+              "name": "Marmasoma White, 1916",
+              "thumbnailUrl": "https://images.ala.org.au/image/proxyImageThumbnail?imageId=878c025e-0f62-448e-8c27-7484ebe393b3"
+            },
+            {
+              "@id": "https://bie.ala.org.au/species/urn:lsid:biodiversity.org.au:afd.taxon:be94562a-6a60-4206-92ae-912063571ddc",
+              "@type": "DataFeedItem",
+              "name": "Staurostichus Hull, 1973",
+              "thumbnailUrl": "https://images.ala.org.au/image/proxyImageThumbnail?imageId=ab5196c4-75b5-4181-87e7-1b590853ed8f"
+            },
+            {
+              "@id": "https://bie.ala.org.au/species/urn:lsid:biodiversity.org.au:afd.taxon:ccfe3cfe-8b89-4bab-8bbe-514218535c20",
+              "@type": "DataFeedItem",
+              "name": "Thevenetimyia Bigot, 1892",
+              "thumbnailUrl": "https://images.ala.org.au/image/proxyImageThumbnail?imageId=addf6976-93df-4d90-8ece-0fa5f41b95fb"
+            },
+            {
+              "@id": "https://bie.ala.org.au/species/urn:lsid:biodiversity.org.au:afd.taxon:558fe31e-f9b9-4ce2-8e85-adc7b7d29b15",
+              "@type": "DataFeedItem",
+              "name": "Brychosoma Hull, 1973",
+              "thumbnailUrl": "https://images.ala.org.au/image/proxyImageThumbnail?imageId=b56c74b8-f84e-4666-978b-a20de034ec29"
+            },
+            {
+              "@id": "https://bie.ala.org.au/species/urn:lsid:biodiversity.org.au:afd.taxon:9ea334f3-cc2b-4f6f-ba28-629c45990aaa",
+              "@type": "DataFeedItem",
+              "name": "Laurella Hull, 1971",
+              "thumbnailUrl": "https://images.ala.org.au/image/proxyImageThumbnail?imageId=dd680f73-75d0-4e71-9868-806588c6deff"
+            },
+            {
+              "@id": "https://bie.ala.org.au/species/urn:lsid:biodiversity.org.au:afd.taxon:2d1ea4a6-f4c9-46e7-a7b3-fb388456fdf7",
+              "@type": "DataFeedItem",
+              "name": "Bombylius Linnaeus, 1758",
+              "thumbnailUrl": "https://images.ala.org.au/image/proxyImageThumbnail?imageId=ec7be836-8e36-461a-a4ab-30169176f336"
+            },
+            {
+              "@id": "https://bie.ala.org.au/species/urn:lsid:biodiversity.org.au:afd.taxon:e315310b-306d-4437-aa55-b9748e02aac3",
+              "@type": "DataFeedItem",
+              "name": "Mandella Evenhuis, 1983",
+              "thumbnailUrl": "https://images.ala.org.au/image/proxyImageThumbnail?imageId=0c83ccd4-3bc3-4c4f-89eb-eeb9a1608575"
+            },
+            {
+              "@id": "https://bie.ala.org.au/species/urn:lsid:biodiversity.org.au:afd.taxon:f6769cfc-3bff-4cce-8a7c-0f4c42660987",
+              "@type": "DataFeedItem",
+              "name": "Cryomyia Hull, 1973",
+              "thumbnailUrl": "https://images.ala.org.au/image/proxyImageThumbnail?imageId=1ec0c8d8-5465-4d73-8558-dc718ef4d674"
+            },
+            {
+              "@id": "https://bie.ala.org.au/species/urn:lsid:biodiversity.org.au:afd.taxon:e17386c6-0cb2-4c53-8848-63667250cf3b",
+              "@type": "DataFeedItem",
+              "name": "Meomyia Evenhuis, 1983",
+              "thumbnailUrl": "https://images.ala.org.au/image/proxyImageThumbnail?imageId=320db5c4-9207-407d-85d3-72368cbc0939"
+            },
+            {
+              "@id": "https://bie.ala.org.au/species/urn:lsid:biodiversity.org.au:afd.taxon:46ec1b18-b86d-4f9c-ba81-e9b69aa4f2f1",
+              "@type": "DataFeedItem",
+              "name": "Choristus Walker, 1852",
+              "thumbnailUrl": "https://images.ala.org.au/image/proxyImageThumbnail?imageId=54ae75c0-1deb-4dab-87ec-c7755d2f3bb5"
+            },
+            {
+              "@id": "https://bie.ala.org.au/species/urn:lsid:biodiversity.org.au:afd.taxon:72d46785-9257-401f-9a27-6b067bfc3907",
+              "@type": "DataFeedItem",
+              "name": "Eusurbus Roberts, 1929",
+              "thumbnailUrl": "https://images.ala.org.au/image/proxyImageThumbnail?imageId=6580ae47-dd34-4016-8d52-718386e3ea46"
+            },
+            {
+              "@id": "https://bie.ala.org.au/species/urn:lsid:biodiversity.org.au:afd.taxon:202e8d6e-4ced-47d4-8f11-ebc7ba05696e",
+              "@type": "DataFeedItem",
+              "name": "Sisyromyia White, 1916",
+              "thumbnailUrl": "https://images.ala.org.au/image/proxyImageThumbnail?imageId=7819f472-1a6a-441c-a848-db15ec88770c"
+            },
+            {
+              "@id": "https://bie.ala.org.au/species/urn:lsid:biodiversity.org.au:afd.taxon:078d30b6-35ba-47d0-8f9e-fd8306287b4a",
+              "@type": "DataFeedItem",
+              "name": "Zentamyia Li & Yeates, 2016"
+            },
+            {
+              "@id": "https://bie.ala.org.au/species/urn:lsid:biodiversity.org.au:afd.taxon:09915c47-7b09-4bb5-8b46-41d155b23400",
+              "@type": "DataFeedItem",
+              "name": "Eristalopsis Evenhuis, 1983"
+            },
+            {
+              "@id": "https://bie.ala.org.au/species/urn:lsid:biodiversity.org.au:afd.taxon:57c62a04-9676-47db-b522-e87cf2ee665a",
+              "@type": "DataFeedItem",
+              "name": "Pilosia Hull, 1973"
+            },
+            {
+              "@id": "https://bie.ala.org.au/species/urn:lsid:biodiversity.org.au:afd.taxon:a0a70791-555e-4e1c-8e04-0f48b6460c1b",
+              "@type": "DataFeedItem",
+              "name": "Systoechus"
+            },
+            {
+              "@id": "https://bie.ala.org.au/species/urn:lsid:biodiversity.org.au:afd.taxon:d035fc82-3f7f-4f7c-88f4-09b24ba9b62a",
+              "@type": "DataFeedItem",
+              "name": "Apiformyia Yeates, 2008"
+            }
+          ],
+          "name": "Bombyliinae",
+          "thumbnailUrl": "https://images.ala.org.au/image/proxyImageThumbnail?imageId=ee0933cb-7401-4b8b-b964-eabca8dd376b"
+        },
+        {
+          "@id": "https://bie.ala.org.au/species/urn:lsid:biodiversity.org.au:afd.taxon:fa031d8d-971b-4171-8dd2-89242f292795",
+          "@type": [
+            "DataFeedItem",
+            "ItemList"
+          ],
+          "itemListElement": [
+            {
+              "@id": "https://bie.ala.org.au/species/urn:lsid:biodiversity.org.au:afd.taxon:be90557e-a6c7-4222-bb7f-42315e529ff9",
+              "@type": "DataFeedItem",
+              "name": "Oncodosia Edwards, 1934",
+              "thumbnailUrl": "https://images.ala.org.au/image/proxyImageThumbnail?imageId=931fd2d5-db94-4365-b18f-bd0c534e957f"
+            },
+            {
+              "@id": "https://bie.ala.org.au/species/urn:lsid:biodiversity.org.au:afd.taxon:8f26c896-8f45-49f8-ae4c-63309cc79204",
+              "@type": "DataFeedItem",
+              "name": "Comptosia Macquart, 1840",
+              "thumbnailUrl": "https://images.ala.org.au/image/proxyImageThumbnail?imageId=293d1853-db25-4e2c-9ee7-8eeff3634036"
+            },
+            {
+              "@id": "https://bie.ala.org.au/species/urn:lsid:biodiversity.org.au:afd.taxon:f4b03a49-2a11-4ca6-86e4-ae1da0dda395",
+              "@type": "DataFeedItem",
+              "name": "Doddosia Edwards, 1934",
+              "thumbnailUrl": "https://images.ala.org.au/image/proxyImageThumbnail?imageId=32defd16-e0ac-4885-8f58-8f70b4c53bec"
+            },
+            {
+              "@id": "https://bie.ala.org.au/species/urn:lsid:biodiversity.org.au:afd.taxon:ce0c6d5e-ecac-4f54-92c1-cfe4fbf21658",
+              "@type": "DataFeedItem",
+              "name": "Aleucosia Edwards, 1934",
+              "thumbnailUrl": "https://images.ala.org.au/image/proxyImageThumbnail?imageId=589beba0-f36c-4361-9427-85f33181574d"
+            }
+          ],
+          "name": "Lomatiinae"
+        },
+        {
+          "@id": "https://bie.ala.org.au/species/urn:lsid:biodiversity.org.au:afd.taxon:0933f193-7d5f-4054-8da9-706ef6fb3688",
+          "@type": [
+            "DataFeedItem",
+            "ItemList"
+          ],
+          "itemListElement": [
+            {
+              "@id": "https://bie.ala.org.au/species/urn:lsid:biodiversity.org.au:afd.taxon:d3d24590-f964-4088-bfa2-b22f4bb3410a",
+              "@type": "DataFeedItem",
+              "name": "Geron Meigen, 1820",
+              "thumbnailUrl": "https://images.ala.org.au/image/proxyImageThumbnail?imageId=a1e00c0b-3d4a-46d9-b61d-ea75c3e7157c"
+            },
+            {
+              "@id": "https://bie.ala.org.au/species/urn:lsid:biodiversity.org.au:afd.taxon:82e348a4-970f-4f14-b239-c5d554015c5c",
+              "@type": "DataFeedItem",
+              "name": "Systropus Wiedemann, 1820",
+              "thumbnailUrl": "https://images.ala.org.au/image/proxyImageThumbnail?imageId=c4bf6514-5120-49b8-a8a0-b7af41ddd33c"
+            },
+            {
+              "@id": "https://bie.ala.org.au/species/urn:lsid:biodiversity.org.au:afd.taxon:38a44231-0667-4e1b-9f1c-a8896b2c4652",
+              "@type": "DataFeedItem",
+              "name": "Toxophora Meigen, 1803",
+              "thumbnailUrl": "https://images.ala.org.au/image/proxyImageThumbnail?imageId=eb8c9dde-fc26-4f82-b580-df7a2e03eca3"
+            },
+            {
+              "@id": "https://bie.ala.org.au/species/urn:lsid:biodiversity.org.au:afd.taxon:153a27d9-7342-47ef-9e50-4ae07d3d79f3",
+              "@type": "DataFeedItem",
+              "name": "Zaclava Hull, 1973",
+              "thumbnailUrl": "https://images.ala.org.au/image/proxyImageThumbnail?imageId=23938029-c6b5-4016-bbe4-aadd7cfa2e62"
+            }
+          ],
+          "name": "Toxophorinae"
+        },
+        {
+          "@id": "https://bie.ala.org.au/species/urn:lsid:biodiversity.org.au:afd.taxon:31b9dcc6-e069-447b-81e8-536a99f84919",
+          "@type": [
+            "DataFeedItem",
+            "ItemList"
+          ],
+          "itemListElement": [
+            {
+              "@id": "https://bie.ala.org.au/species/urn:lsid:biodiversity.org.au:afd.taxon:0772b343-d533-4b28-a9c2-ea0ce23a87ba",
+              "@type": "DataFeedItem",
+              "name": "Pygocona Hull, 1973",
+              "thumbnailUrl": "https://images.ala.org.au/image/proxyImageThumbnail?imageId=ccac3267-383b-4c53-83f6-25a2741db0c1"
+            },
+            {
+              "@id": "https://bie.ala.org.au/species/urn:lsid:biodiversity.org.au:afd.taxon:68c085a4-240a-42da-85cd-febfc04decea",
+              "@type": "DataFeedItem",
+              "name": "Australiphthiria Evenhuis, 1986",
+              "thumbnailUrl": "https://images.ala.org.au/image/proxyImageThumbnail?imageId=23b5bbb6-c69d-4176-903e-e7f66ab6e147"
+            },
+            {
+              "@id": "https://bie.ala.org.au/species/urn:lsid:biodiversity.org.au:afd.taxon:139b3865-61f3-465e-924e-ad577004988c",
+              "@type": "DataFeedItem",
+              "name": "Acreotrichus Macquart, 1850",
+              "thumbnailUrl": "https://images.ala.org.au/image/proxyImageThumbnail?imageId=577df766-80e8-4e50-a7ab-a05b9ba0d639"
+            },
+            {
+              "@id": "https://bie.ala.org.au/species/urn:lsid:biodiversity.org.au:afd.taxon:b8d1ddba-d1cd-4cc2-b763-a9a5fa3ae021",
+              "@type": "DataFeedItem",
+              "name": "Phthiraxia Li & Yeates, 2016"
+            }
+          ],
+          "name": "Usiinae"
+        },
+        {
+          "@id": "https://bie.ala.org.au/species/urn:lsid:biodiversity.org.au:afd.taxon:4d7c4565-af61-44c4-a805-fcc5f7ba0383",
+          "@type": [
+            "DataFeedItem",
+            "ItemList"
+          ],
+          "itemListElement": {
+            "@id": "https://bie.ala.org.au/species/urn:lsid:biodiversity.org.au:afd.taxon:b99cc7d3-150b-4bed-bbb8-d7c2c1588e89",
+            "@type": "DataFeedItem",
+            "name": "Docidomyia White, 1916",
+            "thumbnailUrl": "https://images.ala.org.au/image/proxyImageThumbnail?imageId=ea087928-e0e3-407a-bb90-bc2db7c50a5b"
+          },
+          "name": "Tomomyzinae"
+        },
+        {
+          "@id": "https://bie.ala.org.au/species/urn:lsid:biodiversity.org.au:afd.taxon:94e58a5f-efb9-45a6-b724-392d6c07c193",
+          "@type": [
+            "DataFeedItem",
+            "ItemList"
+          ],
+          "itemListElement": {
+            "@id": "https://bie.ala.org.au/species/urn:lsid:biodiversity.org.au:afd.taxon:285297d5-f637-4174-a450-543edeaf3cc1",
+            "@type": "DataFeedItem",
+            "name": "Neosardus Roberts, 1929",
+            "thumbnailUrl": "https://images.ala.org.au/image/proxyImageThumbnail?imageId=eae56816-fe4e-496c-b0ab-4e31852f6321"
+          },
+          "name": "Cythereinae"
+        },
+        {
+          "@id": "https://bie.ala.org.au/species/urn:lsid:biodiversity.org.au:afd.taxon:4d601d3b-4364-4a0a-aa9c-6ecb08b36777",
+          "@type": [
+            "DataFeedItem",
+            "ItemList"
+          ],
+          "itemListElement": [
+            {
+              "@id": "https://bie.ala.org.au/species/urn:lsid:biodiversity.org.au:afd.taxon:9341ec3b-2d9e-42e5-ad04-dbad564c03e3",
+              "@type": "DataFeedItem",
+              "name": "Acridophagus Evenhuis, 1983",
+              "thumbnailUrl": "https://images.ala.org.au/image/proxyImageThumbnail?imageId=f9b06c3b-147e-4377-b380-e91fc1017835"
+            },
+            {
+              "@id": "https://bie.ala.org.au/species/urn:lsid:biodiversity.org.au:afd.taxon:86479773-fc61-4887-a9d0-849100f28f84",
+              "@type": "DataFeedItem",
+              "name": "Glabellula Bezzi, 1902"
+            }
+          ],
+          "name": "Mythicomyiinae"
+        },
+        {
+          "@id": "https://bie.ala.org.au/species/urn:lsid:biodiversity.org.au:afd.taxon:2e961d62-9c53-4daf-90c3-569a5728bd24",
+          "@type": [
+            "DataFeedItem",
+            "ItemList"
+          ],
+          "itemListElement": [
+            {
+              "@id": "https://bie.ala.org.au/species/urn:lsid:biodiversity.org.au:afd.taxon:c77b6eca-4721-4adc-bf6a-6e7c04231144",
+              "@type": "DataFeedItem",
+              "name": "Cyx Evenhuis, 1993",
+              "thumbnailUrl": "https://images.ala.org.au/image/proxyImageThumbnail?imageId=4fb692af-c3b3-4823-aea6-39c7258a89a8"
+            },
+            {
+              "@id": "https://bie.ala.org.au/species/urn:lsid:biodiversity.org.au:afd.taxon:d925b4b1-1102-4245-bcd9-43f90e6c8b55",
+              "@type": "DataFeedItem",
+              "name": "Antoniaustralia Becker, 1913"
+            },
+            {
+              "@id": "https://bie.ala.org.au/species/urn:lsid:biodiversity.org.au:afd.taxon:3be0a810-02d5-4db8-b82f-c91b8fe7849f",
+              "@type": "DataFeedItem",
+              "name": "Myonema Roberts, 1929"
+            }
+          ],
+          "name": "Antoniinae"
+        },
+        {
+          "@id": "https://bie.ala.org.au/species/NZOR-4-31429",
+          "@type": [
+            "DataFeedItem",
+            "ItemList"
+          ],
+          "itemListElement": {
+            "@id": "https://bie.ala.org.au/species/NZOR-4-56980",
+            "@type": "DataFeedItem",
+            "name": "Tillyardomyia gracilis Tonnoir, 1927"
+          },
+          "name": "Tillyardomyia Tonnoir, 1927"
+        }
+      ],
+      "name": "BOMBYLIIDAE",
+      "thumbnailUrl": "https://images.ala.org.au/image/proxyImageThumbnail?imageId=740b3106-ef38-4862-b7c3-ea160d662365"
+    }
+  ]
+}
