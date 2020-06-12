@@ -206,9 +206,8 @@ CONSTRUCT
 	?annotation a ?annotation_type .
 	?annotation <http://rs.tdwg.org/ontology/voc/TaxonName#noteType> ?noteType .
 	?annotation <http://rs.tdwg.org/ontology/voc/TaxonName#objectTaxonName> ?objectTaxonName .
-	?objectTaxonName <http://purl.org/dc/elements/1.1/title> ?objectName  .  	
+	?objectTaxonName <http://purl.org/dc/elements/1.1/title> ?objectName  .  
 	?annotation <http://rs.tdwg.org/ontology/voc/TaxonName#note> ?note .
-	
 		
 	# Person
 	?item <http://rs.tdwg.org/ontology/voc/Person#alias> ?alias .	
@@ -509,6 +508,10 @@ WHERE {
 			$context->sameAs = new stdclass;
 			$context->sameAs->{'@type'} = '@id';
 			$context->sameAs->{'@id'} = 'sameAs';
+
+			$context->image = new stdclass;
+			$context->image->{'@type'} = '@id';
+			$context->image->{'@id'} = 'image';
 
 			$context->{'owl:sameAs'} = new stdclass;
 			$context->{'owl:sameAs'}->{'@type'} = '@id';

@@ -524,7 +524,7 @@ function isObject (item) {
 		parent.document.getElementById('related').setAttribute('href', v.related);
 		
 		if (v.thumbnail) {
-			parent.document.getElementById('related').innerHTML = '<img style="border:1px solid rgb(64,64,64);" src="' + v.thumbnail + '" height="100">';
+			parent.document.getElementById('related').innerHTML = '<img style="border:1px solid rgb(192,192,192);" src="' + v.thumbnail + '" height="100">';
 		}
 	}
 

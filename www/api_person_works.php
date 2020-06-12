@@ -26,6 +26,7 @@ if (preg_match('/https?:\/\/orcid.org\/(?<id>.*)/', $uri, $m))
 }
 */
 
+
 $query = 'PREFIX schema: <http://schema.org/>
 			PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
 			CONSTRUCT 
@@ -57,12 +58,24 @@ $query = 'PREFIX schema: <http://schema.org/>
 				#?item schema:creator ?role .
 				
 				 VALUES ?identifier { <' . $uri . '> }
+				 
+				 # This first fragment will find works where
+				 # author is direct creator, so may result in duplicates
+				 # if we have a version of work with sameAs link to
+				 # creator (e.g., ZooBank and CrossRef)
+				 {
+				 	?role schema:creator ?identifier .
+				 	?item schema:creator ?role .  				 
+				 }
+				 UNION				 
 				 {
 					?creator schema:sameAs ?identifier .
 					?role schema:creator ?creator .
 					?item schema:creator ?role .   
 				  }
+				  
 				  UNION 
+				  
 				  {
 					?creator schema:sameAs ?identifier .
 					?creator schema:sameAs ?other_identifier .

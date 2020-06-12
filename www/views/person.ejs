@@ -52,6 +52,7 @@ if (item['@graph']) {
 	item = item['@graph'][0];
 }
 
+var wikidata = [];
 
 %>
 
@@ -64,6 +65,11 @@ if (item['@graph']) {
 	<%= get_literal(item['foaf:name']) %>
 </h1>
 
+<!-- image -->
+<%if (item.image) {%>
+	<img src="<%=item.image%>">
+<%}%>
+
 <!-- identifiers -->
 <div>
 		<span class="heading">Unique identifier</span>
@@ -73,6 +79,15 @@ if (item['@graph']) {
 			<a class="external" href="http://www.lsid.info/<%=item['@id']%>" target="_new">
 			<%= item['@id'] %>
 			</a>		
+			
+			<% if (item['@id'].match(/^urn:lsid:ipni.org:authors:/)) {
+				wikidata.push('?item wdt:P586 "' + item['@id'].replace('urn:lsid:ipni.org:authors:', '') + '"'); 
+			} %> 
+
+			<% if (item['@id'].match(/^urn:lsid:zoobank.org:author:/)) {
+				wikidata.push('?item wdt:P2006 "' + item['@id'].replace('urn:lsid:zoobank.org:author:', '') + '"'); 
+			} %> 
+			
 		<% } %>
 
 		<!-- ORCID -->
@@ -81,7 +96,35 @@ if (item['@graph']) {
 			<a class="external" href="<%=item['@id']%>" target="_new">
 			<%= item['@id'] %>
 			</a>
+			
+			<% wikidata.push('?item wdt:P496 "' + item['@id'].replace('https://orcid.org/', '') + '"'); %> 
+			
+			
 		<% } %>
+		
+		<!-- ResearchGate -->
+		<% if (item['@id'].match(/researchgate.net/)) { 
+		
+          var researchgate = item['@id'];
+          
+          if (researchgate.match('profile')) {
+          	researchgate = researchgate.replace('https://www.researchgate.net/profile/', '');
+          	wikidata.push('?item wdt:P2038 "' + researchgate + '"');          
+          }
+          else
+          {
+           	researchgate = researchgate.replace('https://www.researchgate.net/scientific-contributions/', '');
+          	wikidata.push('?item wdt:P6023 "' + researchgate + '"');
+         
+          }
+          %>
+			<!-- <img src="images/orcid_16x16.png"> -->
+			<a class="external" href="<%=item['@id']%>" target="_new">
+			<%= researchgate %>
+			</a>
+			
+		<% } %>
+		
 		
 		<!-- local id -->
 		<% if (item['@id'].match(/#/)) { %>
@@ -105,12 +148,41 @@ if (item['@graph']) {
 						<%= item['sameAs'][i] %>
 					</a>
 					</li>
+					
+					<% if (item['sameAs'][i].match(/^urn:lsid:ipni.org:authors:/)) {
+						wikidata.push('?item wdt:P586 "' + item['sameAs'][i].replace('urn:lsid:ipni.org:authors:', '') + '"'); 
+					} %> 
+					
+					<% if (item['sameAs'][i].match(/orcid.org/)) {
+						wikidata.push('?item wdt:P496 "' + item['sameAs'][i].replace('https://orcid.org/', '') + '"'); 
+					} %> 
+					
+					<% if (item['sameAs'][i].match(/urn:lsid:zoobank.org:author:/)) {
+						wikidata.push('?item wdt:P2006 "' + item['sameAs'][i].replace('urn:lsid:zoobank.org:author:', '') + '"'); 
+					} %> 					
+									
+					
 				<% } %>
 				</ul>
 			<% }  else { %>
 				<a href="?uri=<%= item['sameAs'].replace('#', '%23') %>">
 					<%= item['sameAs'] %>
 				</a>
+				
+				<% if (item['sameAs'].match(/^urn:lsid:ipni.org:authors:/)) {
+					wikidata.push('?item wdt:P586 "' + item['sameAs'].replace('urn:lsid:ipni.org:authors:', '') + '"'); 
+				} %> 
+
+				<% if (item['sameAs'].match(/orcid.org/)) {
+					wikidata.push('?item wdt:P496 "' + item['sameAs'].replace('https://orcid.org/', '') + '"'); 
+				} %> 
+
+				<% if (item['sameAs'].match(/urn:lsid:zoobank.org:author:/)) {
+					wikidata.push('?item wdt:P2006 "' + item['sameAs'].replace('urn:lsid:zoobank.org:author:', '') + '"'); 
+				} %> 
+				
+				
+				
 			<% } %>
 		</span>
 	<% } %>	
@@ -128,12 +200,28 @@ if (item['@graph']) {
 						<%= item['owl:sameAs'][i] %>
 					</a>
 					</li>
+					
+					<%
+					if (item['owl:sameAs'][i].match(/viaf.org/)) {
+						wikidata.push('?item wdt:P214 "' + item['owl:sameAs'][i].replace('http://viaf.org/viaf/', '') + '"'); 
+					}
+					%>
+
+					
 				<% } %>
 				</ul>
 			<% }  else { %>
 				<a href="?uri=<%= item['owl:sameAs'].replace('#', '%23') %>" >
 					<%= item['owl:sameAs'] %>
 				</a>
+				
+				<%
+				if (item['owl:sameAs'].match(/viaf.org/)) {
+					wikidata.push('?item wdt:P214 "' + item['owl:sameAs'].replace('http://viaf.org/viaf/', '') + '"'); 
+				}
+				%>
+				
+				
 			<% } %>
 		</span>
 	<% } %>	
@@ -203,6 +291,25 @@ if (item['@graph']) {
 <% if (item['dcterms:modified']) {%>
 	Record last updated <%= timer(item['dcterms:modified']) %>
 <%}%>
+</div>
+
+<!-- wikidata -->
+<div id="wikidata">
+<% 
+	if (wikidata.length > 0) {
+		var sparql = 'SELECT * WHERE {';
+		
+		sparql += '{' + wikidata.join('} UNION { ') + '}';
+
+		sparql += '}'; 
+%>
+		<div id="wikidata-sparql">
+			<%- sparql %>
+		</div>
+	<%}%>
+</div>
+
+
 </div>
 
 

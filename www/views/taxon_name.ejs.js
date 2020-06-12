@@ -125,35 +125,57 @@ if (item['@graph']) {
 		var publishedInCitation_html = '<ul>';
 		for (var i in item['tcom:publishedInCitation']) {	
 		
-			// Index Fungorum
-			if (item['tcom:publishedInCitation'][i]['@type'] 
-				&& item['tcom:publishedInCitation'][i]['@type'] == 'tpc:PublicationCitation') {
-					var parts = [];
-										
-					if (item['tcom:publishedInCitation'][i]['tpc:title']) {
-						parts.push (item['tcom:publishedInCitation'][i]['tpc:title']);
-					}
+			// Index Fungorum, ZooBank, etc.
+			if (has_type(item['tcom:publishedInCitation'][i], 'tpc:PublicationCitation')) {
+				var parts = [];
+									
+				if (item['tcom:publishedInCitation'][i]['tpc:title']) {
+					parts.push (item['tcom:publishedInCitation'][i]['tpc:title']);
+				}
 
-					if (item['tcom:publishedInCitation'][i]['tpc:volume']) {
-						parts.push (item['tcom:publishedInCitation'][i]['tpc:volume']);
-					}
+				if (item['tcom:publishedInCitation'][i]['tpc:parentPublicationString']) {
+					parts.push (item['tcom:publishedInCitation'][i]['tpc:parentPublicationString']);
+				}
 
-					if (item['tcom:publishedInCitation'][i]['tpc:number']) {
-						parts.push (item['tcom:publishedInCitation'][i]['tpc:number']);
-					}
+				if (item['tcom:publishedInCitation'][i]['tpc:volume']) {
+					parts.push (item['tcom:publishedInCitation'][i]['tpc:volume']);
+				}
 
-					if (item['tcom:publishedInCitation'][i]['tpc:pages']) {
-						parts.push (item['tcom:publishedInCitation'][i]['tpc:pages']);
-					}
+				if (item['tcom:publishedInCitation'][i]['tpc:number']) {
+					parts.push (item['tcom:publishedInCitation'][i]['tpc:number']);
+				}
 
-					if (item['tcom:publishedInCitation'][i]['tpc:year']) {
-						parts.push (item['tcom:publishedInCitation'][i]['tpc:year']);
-					}
+				if (item['tcom:publishedInCitation'][i]['tpc:pages']) {
+					parts.push (item['tcom:publishedInCitation'][i]['tpc:pages']);
+				}
 
-					if (parts.length > 0) {
-						var citation = parts.join(' ');
-						publishedInCitation_html += '<li>' + citation + '</li>';
-					}	
+				if (item['tcom:publishedInCitation'][i]['tpc:year']) {
+					parts.push (item['tcom:publishedInCitation'][i]['tpc:year']);
+				}
+
+				if (parts.length > 0) {
+					var citation = parts.join(' ');
+					
+					var link = '';
+					
+					if (item['tcom:publishedInCitation'][i]['@id'].match(/^urn:lsid:zoobank.org:pub:/)) {
+						link = item['tcom:publishedInCitation'][i]['@id'];
+					}						
+					
+					publishedInCitation_html += '<li>';
+					
+					if (link != '') {					
+						publishedInCitation_html += '<a href="?uri=' + item['tcom:publishedInCitation'][i]['@id'] + '">';
+					}
+					publishedInCitation_html += citation;
+					
+					if (link != '') {					
+						publishedInCitation_html += '</a>';
+					}
+					publishedInCitation_html += '</li>';
+					
+					
+				}	
 						
 			}
 			
@@ -289,7 +311,7 @@ if (item['@graph']) {
 					
 						case 'tn:replacementNameFor': %>
 							<li>Replacement for 
-							<a href="?uri=<%= item['tn:hasAnnotation'][i]['tn:objectTaxonName']['@id'] %>">
+							<a href="?uri=<%= uri_to_clickable_url(item['tn:hasAnnotation'][i]['tn:objectTaxonName']['@id']) %>">
 							<%= item['tn:hasAnnotation'][i]['tn:objectTaxonName']['dc:title'] %>
 							</a>
 							</li>	
@@ -323,6 +345,29 @@ if (item['@graph']) {
 <% if (item['dcterms:modified']) {%>
 	Record last updated <%= timer(item['dcterms:modified']) %>
 <%}%>
+</div>
+
+<!-- sameAs -->
+<div>
+	<% if (item['sameAs']) { %>
+		<span class="heading">Same as</span>
+			<% if (Array.isArray(item['sameAs'])) {	%>
+				<ul>
+				<% for (var i in item['sameAs']) { %>
+					<li>
+					<a href="?uri=<%= uri_to_clickable_url(item['sameAs'][i]) %>">
+						<%= item['sameAs'][i] %>
+					</a>
+					</li>
+				<% } %>
+				</ul>
+			<% }  else { %>
+				<a href="?uri=<%= uri_to_clickable_url(item['sameAs']) %>">
+					<%= item['sameAs'] %>
+				</a>
+			<% } %>
+		</span>
+	<% } %>	
 </div>
 
 

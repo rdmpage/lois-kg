@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+
+
+
+	<link href="//cdn.jsdelivr.net/yasgui/2.5.0/yasgui.min.css" rel="stylesheet" type="text/css"/><style>
+      /* uncomment this if you'd like to hide the endpoint selector */
+      .yasgui .endpointText {display:none !important;}
+      /* */
+    </style>
+	<title>SPARQL</title>
+	</head>
+	<body>
+
+	<div id="yasgui"></div>
+
+    <script src="//cdn.jsdelivr.net/yasgui/2.5.0/yasgui.min.js"></script>
+    <script type="text/javascript">
+        //Uncomment below to change the default endpoint
+        //Note: If you've already opened the YASGUI page before, you should first clear your
+        //local-storage cache before you will see the changes taking effect 
+	    var yasgui = YASGUI(document.getElementById("yasgui"), {
+         yasqe:{sparql:{endpoint:"query.php"}}
+      });
+    </script>
+</body>
+</html>

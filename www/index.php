@@ -4,6 +4,7 @@ error_reporting(E_ALL);
 
 require_once (dirname(__FILE__) . '/config.inc.php');
 require_once (dirname(__FILE__) . '/sparql.php');
+require_once (dirname(__FILE__) . '/search.php');
 
 
 //----------------------------------------------------------------------------------------
@@ -50,8 +51,9 @@ function display_entity($uri)
 		
 	$ok = false;	
 	
-	// Handle hash identifiers
+	// Handle hash and ? identifiers
 	$uri = str_replace('%23', '#', $uri);
+	$uri = str_replace('%3F', '?', $uri);
 		
 	// Use a generic CONSTRUCT to get information on this entity
 	$json = sparql_construct($config['sparql_endpoint'], $uri);
@@ -1319,6 +1321,9 @@ function display_entity_ajax($uri)
 	
 	// Handle hash identifiers
 	$uri = str_replace('%23', '#', $uri);
+	$uri = str_replace('%3F', '?', $uri);
+	$uri = str_replace('%26', '&', $uri);
+	
 		
 	// Use a generic CONSTRUCT to get information on this entity
 	$json = sparql_construct($config['sparql_endpoint'], $uri);
@@ -1434,7 +1439,7 @@ function display_entity_ajax($uri)
  	
  	
 	echo '<div id="output">Stuff goes here</div>';
-	
+		
 	echo '<div id="feed_images"></div>';
 	echo '<div id="feed_names"></div>';
 	echo '<div id="feed_works"></div>';
@@ -1470,6 +1475,7 @@ function display_entity_ajax($uri)
 									
 			case 'CreativeWork':
 			case 'ScholarlyArticle':
+			case 'tpc:PublicationCitation':
 				echo '<script>render(template_work, { item: data }, "output");</script>';
 				
 				echo '<script>work_images("' . $uri . '");</script>';
@@ -1477,6 +1483,9 @@ function display_entity_ajax($uri)
 				echo '<script>work_cites("' . $uri . '");</script>';
 				echo '<script>work_cited_by("' . $uri . '");</script>';
 				echo '<script>work_related("' . $uri . '");</script>';
+				
+				echo '<script>wikidata_work();</script>';
+
 				break;
 		
 			case 'tn:TaxonName':
@@ -1525,6 +1534,9 @@ function display_entity_ajax($uri)
 				echo '<script>person_names("' . $uri . '");</script>';
 								
 				echo '<script>person_works("' . $uri . '");</script>';
+				
+				echo '<script>wikidata_person();</script>';
+				
 				break;
 
 			case 'Periodical':
@@ -1560,6 +1572,7 @@ function display_entity_ajax($uri)
 		}	
 		$i++;
 	}		
+	
 	
 	display_html_end();	
 }
@@ -1619,6 +1632,50 @@ function display_html_start($title = '', $meta = '', $script = '', $onload = '')
 	document.getElementById(element_id).innerHTML = html;
 }
 </script>';
+
+	echo '<script>
+	function wikidata_work() {	
+		var e = document.getElementById("wikidata-sparql");
+		if (e) {
+			var sparql = e.innerHTML;
+		
+			// run query
+		
+			$.getJSON("https://query.wikidata.org/bigdata/namespace/wdq/sparql?query=" + encodeURIComponent(sparql),
+				function(data){
+				  if (data.results.bindings.length != 0) {
+					html = \'Work in Wikidata <a href="\' + data.results.bindings[0].item.value + \'" target="_new">\' + data.results.bindings[0].item.value.replace("http://www.wikidata.org/entity/","") + \'</a>\';
+				  } else {
+					 html = \'Work not in Wikidata\';         
+				  }
+				  document.getElementById("wikidata").innerHTML = html;
+			});	
+		}
+	}
+	
+	function wikidata_person() {	
+		var e = document.getElementById("wikidata-sparql");
+		if (e) {
+			var sparql = e.innerHTML;
+			
+			console.log(sparql);
+		
+			// run query
+		
+			$.getJSON("https://query.wikidata.org/bigdata/namespace/wdq/sparql?query=" + encodeURIComponent(sparql),
+				function(data){
+				  if (data.results.bindings.length != 0) {
+					html = \'Person in Wikidata <a href="\' + data.results.bindings[0].item.value + \'" target="_new">\' + data.results.bindings[0].item.value.replace("http://www.wikidata.org/entity/","") + \'</a>\';
+				  } else {
+					 html = \'Person not in Wikidata\';         
+				  }
+				  document.getElementById("wikidata").innerHTML = html;
+			});	
+		}
+	}
+	
+</script>';
+
 
 
 	echo '<!-- API functions to add content -->' . "\n";
@@ -1754,6 +1811,8 @@ summary {
     font-weight: bold;
     margin: -.5em -.5em 0;
     padding: .5em;
+    
+    outline-style: none; /* hide the outline that appears when user clicks on summary */
 }
 
 details[open] summary {
@@ -1788,6 +1847,128 @@ img.figure{
   min-width: 100%; 
   vertical-align: bottom;
 }	
+
+.logo  {
+	margin: 10px;
+
+  display: block; 
+  float:left;
+  
+  /*text-indent: -9999px;*/
+  width: 48px;
+  height: 48px;
+  opacity: 0.4; 
+  border-radius: 4px;
+  border:1px solid rgb(192,192,192);
+}
+
+.none {
+	background-color: black;
+}
+
+.bioone {
+  background: url(images/logos/bioone.svg);
+  background-size: contain;
+}
+
+.elsevier {
+  opacity: 0.8; 
+  background: url(images/logos/elsevier.svg);
+  background-size: contain;
+}
+
+.jstor {
+  background: url(images/logos/jstor.svg);
+  background-size: contain;
+}
+
+.tandf {
+  background: url(images/logos/tandf.svg);
+  background-size: contain;
+}
+
+
+.zookeys {
+  background: url(images/logos/zookeys.svg);
+  background-size: contain;
+}
+
+
+.phytokeys {
+  background: url(images/logos/phytokeys.svg);
+  background-size: contain;
+}
+
+.wiley {
+  background: url(images/logos/wiley.svg);
+  background-size: contain;
+}
+
+.plos {
+  background: url(images/logos/plos.svg);
+  background-size: contain;
+}
+
+.bhl {
+  background: url(images/logos/bhl.svg);
+  background-size: contain;
+}
+
+.ipni {
+  background: url(images/logos/ipni.svg);
+  background-size: contain;
+}
+
+.isf {
+  background: url(images/logos/isf.svg);
+  background-size: contain;
+}
+
+.phytotaxa {
+  background: url(images/logos/phytotaxa.svg);
+  background-size: contain;
+}
+
+.persee {
+  background: url(images/logos/persee.svg);
+  background-size: contain;
+}
+
+.cambridgecore {
+  background: url(images/logos/cambridgecore.svg);
+  background-size: contain;
+}
+
+.ejt {
+  background: url(images/logos/ejt.svg);
+  background-size: contain;
+}
+
+.springer {
+  background: url(images/logos/springer.svg);
+  background-size: contain;
+}
+
+.airiti {
+  background: url(images/logos/airiti.svg);
+  background-size: contain;
+}
+
+.jalc {
+  background: url(images/logos/jalc.svg);
+  background-size: contain;
+}
+
+.zootaxa {
+  background: url(images/logos/zootaxa.svg);
+  background-size: contain;
+}
+
+.zookeys {
+  background: url(images/logos/zookeys.svg);
+  background-size: contain;
+}
+
 
 
 		
@@ -1957,7 +2138,7 @@ function default_display($error_msg = '')
 
 //----------------------------------------------------------------------------------------
 // Search
-function display_search($query)
+function display_search($query, $mode = 'sparql')
 {
 	global $config;
 	
@@ -1967,13 +2148,22 @@ function display_search($query)
 	
 	$feed = '';
 		
-	// Use a generic CONSTRUCT to get information on this entity
-	$json = sparql_search($config['sparql_endpoint'], $query);
-
-	if ($json != '')
+	if ($mode == 'sparql')
 	{
-		$feed = json_decode($json);
+		// Use a generic CONSTRUCT to get information on this entity
+		$json = sparql_search($config['sparql_endpoint'], $query);
+
+		if ($json != '')
+		{
+			$feed = json_decode($json);
+		}
 	}
+	else
+	{
+		// Elasticsearch
+		$feed = do_search($query);	
+	}
+
 
 	// JSON-LD for structured data in HTML
 	$script = "\n" . '<script type="application/ld+json">' . "\n"
@@ -2031,7 +2221,15 @@ function main()
 	if (isset($_GET['q']))
 	{	
 		$query = $_GET['q'];
-		display_search($query);
+		
+		$mode = 'sparql';
+		
+		if (isset($_GET['mode']))
+		{	
+			$mode = $_GET['mode'];
+		}
+		
+		display_search($query, $mode);
 		exit(0);
 	}
 	

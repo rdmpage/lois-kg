@@ -39,9 +39,16 @@ PREFIX tn: <http://rs.tdwg.org/ontology/voc/TaxonName#>
 			}
 			WHERE
 			{
-              	VALUES ?publication { <' . $uri . '>} .
-              	?pub schema:sameAs ?publication .
-              	?item tcom:publishedInCitation ?pub .
+				{
+					# Zoobank
+					?item tcom:publishedInCitation <' . $uri . '> .				
+				}
+				UNION
+				{
+					# IPNI
+ 					?pub schema:sameAs <' . $uri . '> .
+  					?item tcom:publishedInCitation ?pub . 				
+				}
                	?item rdf:type  ?type .               
                 ?item tn:nameComplete ?name .              
  			}';

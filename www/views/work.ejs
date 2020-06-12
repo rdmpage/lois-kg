@@ -6,6 +6,7 @@ if (item['@graph']) {
 	item = item['@graph'][0];
 }
 
+var wikidata = [];
 
 %>
 
@@ -58,7 +59,9 @@ if (item['@graph']) {
 
 <!-- title -->
 <h1>
-	<img src="images/noun_File_498570.svg" height="48" align="center">
+	<div class="logo none"></div>
+
+	<!-- <img src="images/noun_File_498570.svg" height="48" align="center"> -->
 	<%- get_literal(item.name) %>
 </h1>
 
@@ -114,7 +117,7 @@ if (item['@graph']) {
 				var sameAs = '';
 				var has_orcid = false;
 				
-
+				// sameAs link
 			    if (item.creator[i].creator[0].sameAs) {
 			    	if (Array.isArray(item.creator[i].creator[0].sameAs)) {
 
@@ -134,6 +137,15 @@ if (item['@graph']) {
 				    }
 			    	has_link = true;
 			    }
+			    
+			    // direct link (e.g., ZooBank)
+			    if (item.creator[i].creator[0]['@id'].match(/^urn/)) {
+			    	has_link = true;
+			    	// kludge
+			    	sameAs = item.creator[i].creator[0]['@id'];
+			    
+			    }
+			    
 			    
 			    if (has_link) {
 			    	string += '<span style="background-color:white;white-space:nowrap;border-radius:4px;padding:2px;border:1px solid black;">';
@@ -209,6 +221,20 @@ if (item['@graph']) {
 <% if (item.identifier) {
 	 var id = '';
 	 
+	// BioStor
+	id = get_property_value(item.identifier, 'biostor');	  
+	if (id != '') {  %>	
+		<span class="heading">BioStor</span>
+		<a class="external" href="https://biostor.org/reference/<%=id%>" target="_new">
+		<%= id %>
+		</a>
+		
+		<% wikidata.push('?item wdt:P5315 "' + id + '"') %> 
+		
+		
+	<% }	
+	 
+	 
 	// DOI
 	id = get_property_value(item.identifier, 'doi');	  
 	if (id != '') {  %>	
@@ -216,6 +242,10 @@ if (item['@graph']) {
 		<a class="external" href="https://doi.org/<%=id%>" target="_new">
 		<%= id %>
 		</a>
+		
+		<% wikidata.push('?item wdt:P356 "' + id.toUpperCase() + '"') %> 
+
+		
 	<% }
 	
 	// Handle
@@ -234,6 +264,10 @@ if (item['@graph']) {
 		<a class="external" href="https://www.jstor.org/stable/<%=id%>" target="_new">
 		<%= id %>
 		</a>
+		
+		<% wikidata.push('?item wdt:P888 "' + id + '"') %> 
+		
+		
 	<% }	
 	
 	// PMID
@@ -251,7 +285,17 @@ if (item['@graph']) {
 		<span class="heading">SICI</span>
 		<u><%= id %></u>
 		</a>
-	<% }	
+	<% }
+	
+	// ZooBank
+	id = get_property_value(item.identifier, 'zoobank');	  
+	if (id != '') {  %>	
+		<span class="heading">ZooBank</span>
+		<a class="external" href="http://zoobank.org/<%=id%>" target="_new">
+		<%= id %>
+		</a>
+	<% }
+		
 	
 	}
  %>	
@@ -275,6 +319,22 @@ if (item['@graph']) {
 <%} %>
 </div> 
 
+
+<!-- wikidata -->
+<div id="wikidata">
+<% 
+	if (wikidata.length > 0) {
+		var sparql = 'SELECT * WHERE {';
+		
+		sparql += '{' + wikidata.join('} UNION { ') + '}';
+
+		sparql += '}'; 
+%>
+		<div id="wikidata-sparql">
+			<%- sparql %>
+		</div>
+	<%}%>
+</div>
 
 
 
