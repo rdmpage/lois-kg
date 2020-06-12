@@ -207,6 +207,12 @@ $root = 'Q6011736'; // Metastelmatinae
 
 $root = 'Q5707972'; // Asclepiadeae
 
+$root = 'Q1806376'; // Larsenianthus
+$root = 'Q16766367'; // Zingibereae
+
+$root = 'Q6171406'; // Zingiberoideae
+$root = 'Q37021'; // Zingiberaceae
+
 
 $keys = array(
 	'id',
@@ -248,8 +254,8 @@ echo join("\t", $keys) . "\n";
 $stack = array();
 $stack[] = $root;
 
-$dive = false; // juts grab immediate children
-//$dive = true; // if we want to go down the tree
+$dive = false; // just grab immediate children
+$dive = true; // if we want to go down the tree
 
 while (count($stack) > 0)
 {

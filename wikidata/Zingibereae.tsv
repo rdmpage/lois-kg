@@ -1,0 +1,250 @@
+id	parent	name	image	rank	status	basionym	wikipedia	bold	eol	fossilworks	gbif	indexfungorum	inat	irming	itis	ipni	mycobank	ncbi	powo	tpl	tropicos	worms	wsc	zoobank
+Q3015175	Q16766367	Hitchenia	http://commons.wikimedia.org/wiki/Special:FilePath/Hitchenia%20caulina%20-%20Indian%20Arrowroot%20%285038840093%29.jpg	genus	accepted		Hitchenia		108381		2760453		490147	1073593	500776	37287-1		110728			40026449		500776	
+Q3015253	Q16766367	Haplochorema		genus	accepted		Haplochorema		107407		2760464		577380	1099743		41675-1		1932150	urn:lsid:ipni.org:names:41675-1		40020910			
+Q18199981	Q16766367	Nanochilus		genus	accepted		Nanochilus		108388		2760538		577381	1349096		41681-1			urn:lsid:ipni.org:names:41681-1		40025069			
+Q18199984	Q16766367	Parakaempferia		genus	accepted		Parakaempferia		31871		2758448			1084879		41686-1			urn:lsid:ipni.org:names:41686-1		40001235			
+Q1806376	Q16766367	Larsenianthus	http://commons.wikimedia.org/wiki/Special:FilePath/Larsenianthus%20assamensis.jpg	genus	accepted				18080763		4897258		431119	1010605		77107682-1		930871	urn:lsid:ipni.org:names:77107682-1					
+Q8352705	Q16766367	Curcumorpha		genus	accepted						2759814			1102814		41669-1		199635			40018456			
+Q9055291	Q16766367	Paracautleya		genus	accepted						2758457			1019166		41685-1		251767			100239334			
+Q10355591	Q16766367	Pyrgophyllum		genus	accepted				2902784		2757659			1381012		925357-1		199656	urn:lsid:ipni.org:names:925357-1		40038198			
+Q22110059	Q16766367	Newmania		genus	accepted						3257342		180130	11906767				1292051	urn:lsid:ipni.org:names:77116016-1					
+Q42663974	Q16766367	Borneocola		genus	accepted									11906768				1929953	urn:lsid:ipni.org:names:77158811-1					
+Q138608	Q16766367	Cautleya	http://commons.wikimedia.org/wiki/Special:FilePath/Cautleya%20gracilis%20220607.jpg	genus	accepted		Cautleya		108379		2759830		550603	1263094		50789142-1		97735	urn:lsid:ipni.org:names:50789142-1		40003127			
+Q143106	Q16766367	Boesenbergia	http://commons.wikimedia.org/wiki/Special:FilePath/Boesenbergia%20rotunda%20Flower%202.jpg	genus	accepted		Boesenbergia		107392		2758458		139958	1024927	500774	37214-1		97724	urn:lsid:ipni.org:names:37214-1		40028774		500774	
+Q147777	Q16766367	Scaphochlamys		genus	accepted		Scaphochlamys		32357		2757432		426609	1305321		37356-1		97756	urn:lsid:ipni.org:names:37356-1		40030807			
+Q2711861	Q16766367	Pommereschea		genus	accepted		Pommereschea				3990379		577382	1071507		331071-2		110730	urn:lsid:ipni.org:names:331071-2		40014646			
+Q2711874	Q16766367	Rhynchanthus		genus	accepted		Rhynchanthus		32298		2758451			1339519		37351-1		110732	urn:lsid:ipni.org:names:37351-1		40025294			
+Q2935577	Q16766367	Camptandra		genus	accepted		Camptandra		108385		2757660		577377	1305226		37221-1		97733	urn:lsid:ipni.org:names:37221-1		40000219			
+Q2943107	Q16766367	Caulokaempferia		genus	accepted		Caulokaempferia		107367		2760488		142618	1043193		41665-1		199577	urn:lsid:ipni.org:names:41665-1		40003079			
+Q3004034	Q16766367	Stahlianthus		genus	accepted		Stahlianthus		31883		2757714			1329491		37361-1		97768			40004321			
+Q3010433	Q16766367	Stadiochilus		genus	accepted		Stadiochilus		32821		2759844			1302437		41690-1			urn:lsid:ipni.org:names:41690-1		40004266			
+Q3011541	Q16766367	Distichochlamys		genus	accepted		Distichochlamys		108452		2757323			1081740		981551-1		97740	urn:lsid:ipni.org:names:981551-1		50095127			
+Q3012227	Q16766367	Haniffia		genus	accepted		Haniffia		108398		2757329		180313	1332209		41674-1		110703	urn:lsid:ipni.org:names:41674-1		40020754			
+Q15329429	Q3012227	Haniffia albiflora		species	accepted				1118248		2757335		436532			1016173-1		199641	urn:lsid:ipni.org:names:1016173-1	kew-247962	100200651			
+Q15329519	Q3012227	Haniffia cyanescens		species	accepted	Q40089177			1118247		2757330					872581-1		110704	urn:lsid:ipni.org:names:872581-1	kew-247963	100200652			
+Q17253460	Q3012227	Haniffia flavescens		species	accepted				21175477		5827282					77101101-1		1017360	urn:lsid:ipni.org:names:77101101-1	kew-457820	100351851			
+Q81742313	Q3012227	Haniffia santubongensis		species	accepted											77142833-1								
+Q15327868	Q3011541	Distichochlamys citrea		species	accepted				1120575		2757324					981552-1		97741	urn:lsid:ipni.org:names:981552-1	kew-241288	50079826			
+Q15327984	Q3011541	Distichochlamys orlowii		species	accepted				1120574		2757326					20002425-1			urn:lsid:ipni.org:names:20002425-1	kew-241289	100182341			
+Q15328087	Q3011541	Distichochlamys rubrostriata		species	accepted				1120573		2757325					70029259-1		857208	urn:lsid:ipni.org:names:70029259-1	kew-241290	50278436			
+Q15335615	Q3010433	Stadiochilus burmanicus		species	accepted				255300		2759845					873018-1			urn:lsid:ipni.org:names:873018-1	kew-266734	100261910			
+Q10927848	Q3004034	Stahlianthus involucratus		species	accepted	Q40090660			255351		2757716					873020-1		97769		kew-266739	34500876			
+Q15334728	Q3004034	Stahlianthus philippianus		species	accepted				255550		2757723					873022-1				kew-266741	100261917			
+Q15334815	Q3004034	Stahlianthus thorelii		species	accepted				245943		2757715					873023-1				kew-266743	100261918			
+Q15335716	Q3004034	Stahlianthus andersonii		species	accepted	Q40090648			842367		2757726					873019-1				kew-266737	100261913			
+Q15335806	Q3004034	Stahlianthus campanulatus		species	not accepted				255418		2757721					798169-1		1256179		kew-266738	100261914			
+Q15335918	Q3004034	Stahlianthus macrochlamys		species	accepted	Q40090675			255506		2757719					873021-1				kew-266740	100261915			
+Q15336019	Q3004034	Stahlianthus pedicellatus		species	not accepted				17043295		2757728					77087995-1				kew-374232	100261916			
+Q65949368	Q3004034	Stahlianthus rubromarginatus		species	accepted						2757967					987583-1					50103818			
+Q10937696	Q2943107	Caulokaempferia yunnanensis		species	accepted	Q40087986			1122972		2760507					872260-1				kew-232530	34500769			
+Q11178287	Q2943107	Caulokaempferia coenobialis		species	accepted				1122986		2760525					872251-1		200907	urn:lsid:ipni.org:names:872251-1	kew-232516	34500544			
+Q15324426	Q2943107	Caulokaempferia kuapii		species	accepted				1122983		2760529					872252-1			urn:lsid:ipni.org:names:872252-1	kew-232519	100166894			
+Q15324504	Q2943107	Caulokaempferia laotica		species	accepted				17042905		2760504					77080414-1				kew-346383	100166895			
+Q15324538	Q2943107	Caulokaempferia larsenii		species	accepted				1122982		2760500					60431190-2			urn:lsid:ipni.org:names:60431190-2	kew-232520	100166896			
+Q15324552	Q2943107	Caulokaempferia violacea		species	not accepted				1122973		2760494		140027			70028613-1				kew-232529	100166910			
+Q15324620	Q2943107	Caulokaempferia limiana		species	accepted				1089452		2760495					77067557-1		1439335	urn:lsid:ipni.org:names:77067557-1	kew-331284	100166897			
+Q15324719	Q2943107	Caulokaempferia linearis		species	accepted	Q40087961			1122981		2760530					872253-1		1439336	urn:lsid:ipni.org:names:872253-1	kew-232521	100166898			
+Q15324796	Q2943107	Caulokaempferia pedemontana		species	accepted				1089453		2760522					77067779-1			urn:lsid:ipni.org:names:77067779-1	kew-331285	100166899			
+Q15324897	Q2943107	Caulokaempferia petelotii		species	accepted				1122980		2760516					872254-1			urn:lsid:ipni.org:names:872254-1	kew-232522	50206677			
+Q15324979	Q2943107	Caulokaempferia phulangkaensis		species	accepted				17042909		2760515					77093259-1			urn:lsid:ipni.org:names:77093259-1	kew-372532	100166900			
+Q15325079	Q2943107	Caulokaempferia phuluangensis		species	accepted				1122979		2760501					77063325-1			urn:lsid:ipni.org:names:77063325-1	kew-232523	100166901			
+Q15325152	Q2943107	Caulokaempferia alba		species	accepted				1122990		2760512					872250-1		1439333		kew-232512	100166887			
+Q15325174	Q2943107	Caulokaempferia phutokensis		species	accepted				17042907		2760518					77093260-1			urn:lsid:ipni.org:names:77093260-1	kew-372529	100166902			
+Q15325230	Q2943107	Caulokaempferia amplexicaulis		species	accepted				1089451		2760506					77067778-1			urn:lsid:ipni.org:names:77067778-1	kew-331283	100166888			
+Q15325260	Q2943107	Caulokaempferia phuwoaensis		species	accepted				17042908		2760521					77093258-1			urn:lsid:ipni.org:names:77093258-1	kew-372531	100166903			
+Q15325307	Q2943107	Caulokaempferia appendiculata		species	accepted				1122989		2760496					70028611-1			urn:lsid:ipni.org:names:70028611-1	kew-232513	100166889			
+Q15325350	Q2943107	Caulokaempferia saksuwaniae		species	accepted				1122978		2760517					872255-1			urn:lsid:ipni.org:names:872255-1	kew-232524	100166904			
+Q15325390	Q2943107	Caulokaempferia bracteata		species	accepted				1122988		2760524					70028612-1			urn:lsid:ipni.org:names:70028612-1	kew-232514	100166890			
+Q15325437	Q2943107	Caulokaempferia satunensis		species	accepted				17042906		2760523					77089496-1			urn:lsid:ipni.org:names:77089496-1	kew-372341	100166905			
+Q15325470	Q2943107	Caulokaempferia burttii		species	accepted				1122987		2760497					60431189-2		1439334		kew-232515	100166891			
+Q15325525	Q2943107	Caulokaempferia saxicola		species	accepted				1122977		2760502					872256-1		199631	urn:lsid:ipni.org:names:872256-1	kew-232525	100166906			
+Q15325625	Q2943107	Caulokaempferia jirawongsei		species	accepted				1122985		2760514					77063326-1			urn:lsid:ipni.org:names:77063326-1	kew-232517	100166892			
+Q15325629	Q2943107	Caulokaempferia secunda		species	accepted	Q40087967			1122976		2760489					872257-1			urn:lsid:ipni.org:names:872257-1	kew-232526	100166907			
+Q15325729	Q2943107	Caulokaempferia khaomaenensis		species	accepted				1122984		2760499					77063351-1			urn:lsid:ipni.org:names:77063351-1	kew-232518	100166893			
+Q15325738	Q2943107	Caulokaempferia sikkimensis		species	accepted	Q21398998			1122975		2760519					872258-1		1439337	urn:lsid:ipni.org:names:872258-1	kew-232527	100166908			
+Q15325823	Q2943107	Caulokaempferia sirirugsae		species	accepted				23059087		3990534					77096135-1			urn:lsid:ipni.org:names:77096135-1	kew-456838				
+Q15325922	Q2943107	Caulokaempferia thailandica		species	accepted				1122974		2760503					872259-1		251762		kew-232528	100166909			
+Q17253580	Q2943107	Caulokaempferia chayaniana		species	accepted				31140905		6313967					77107867-1			urn:lsid:ipni.org:names:77107867-1	kew-462829				
+Q28821709	Q2943107	Caulokaempferia bolavenensis		species	accepted											77113930-1			urn:lsid:ipni.org:names:77113930-1	kew-468818				
+Q15325453	Q2935577	Camptandra gracillima		species	accepted	Q40087931			1125094		2757663					872238-1			urn:lsid:ipni.org:names:872238-1	kew-223763	100160428			
+Q15325597	Q2935577	Camptandra latifolia		species	accepted				1125093		2757669					795961-1			urn:lsid:ipni.org:names:795961-1	kew-223764	100160429			
+Q15325677	Q2935577	Camptandra ovata		species	accepted				1125092		2757667					872239-1		97734	urn:lsid:ipni.org:names:872239-1	kew-223765	100160430			
+Q15325850	Q2935577	Camptandra parvula		species	accepted	Q40087950			1125091		2757661					795962-1		199630	urn:lsid:ipni.org:names:795962-1	kew-223766	100160431			
+Q10923547	Q2711874	Rhynchanthus beesianus		species	accepted				248923		2758452					872937-1		110733	urn:lsid:ipni.org:names:872937-1	kew-261467	34500590			
+Q15334303	Q2711874	Rhynchanthus bluthianus		species	accepted				248925		2758455					798096-1			urn:lsid:ipni.org:names:798096-1	kew-261468	100251360			
+Q15334473	Q2711874	Rhynchanthus johnianus		species	accepted				248926		2758453					872938-1			urn:lsid:ipni.org:names:872938-1	kew-261469	100251361			
+Q15334662	Q2711874	Rhynchanthus longiflorus		species	accepted				248927		2758454					798097-1			urn:lsid:ipni.org:names:798097-1	kew-261470	100251362			
+Q40087199	Q2711874	Rhynchanthus papuanus		species	not accepted						2759071					902950-1					100251363			
+Q40088985	Q2711874	Rhynchanthus radicalis		species	not accepted						2758789					872939-1					100251364			
+Q15238015	Q2711861	Pommereschea spectabilis		species	accepted				247654		3990521					872876-1			urn:lsid:ipni.org:names:872876-1	kew-259434	34500851			
+Q15240561	Q2711861	Pommereschea lackneri		species	accepted				2898248		3990522					872875-1		110731	urn:lsid:ipni.org:names:872875-1	kew-259433	34500850			
+Q15334371	Q147777	Scaphochlamys klossii		species	accepted				249528		2757508					798153-1		1838013	urn:lsid:ipni.org:names:798153-1	kew-262780	100255432			
+Q15334384	Q147777	Scaphochlamys malaccana		species	accepted				249539		2757436					798157-1		1838016	urn:lsid:ipni.org:names:798157-1	kew-262790	100255443			
+Q15334471	Q147777	Scaphochlamys minutiflora		species	accepted				249543		2757499					20010717-1		864328	urn:lsid:ipni.org:names:20010717-1	kew-262791	100255445			
+Q15334478	Q147777	Scaphochlamys kunstleri		species	accepted	Q21399298			249529		7286441					798154-1		97759	urn:lsid:ipni.org:names:798154-1	kew-262784	100255436			
+Q15334536	Q147777	Scaphochlamys lanceolata		species	accepted				249530		2757433					798155-1		251771	urn:lsid:ipni.org:names:798155-1	kew-262788	100255440			
+Q15334619	Q147777	Scaphochlamys laxa		species	accepted				1090360		2757446					77072235-1		1841840	urn:lsid:ipni.org:names:77072235-1	kew-344713	100255441			
+Q15334620	Q147777	Scaphochlamys obcordata		species	accepted				249540		2757472					958828-1		97760	urn:lsid:ipni.org:names:958828-1	kew-262792	100255446			
+Q15334628	Q147777	Scaphochlamys abdullahii		species	accepted				1090357		2757435					77072233-1		1838003	urn:lsid:ipni.org:names:77072233-1	kew-344710	100255418			
+Q15334733	Q147777	Scaphochlamys argentea		species	not accepted				249520		2757450					931957-1		2077153		kew-262770	100255419			
+Q15334762	Q147777	Scaphochlamys oculata		species	accepted				249545		2757447					798158-1		1838017	urn:lsid:ipni.org:names:798158-1	kew-262793	100255447			
+Q15334818	Q147777	Scaphochlamys atroviridis		species	accepted				249522		2757445					798146-1		1838004	urn:lsid:ipni.org:names:798146-1	kew-262771	100255420			
+Q15334849	Q147777	Scaphochlamys pennipicta		species	accepted				249544		2757474					798159-1		1838018	urn:lsid:ipni.org:names:798159-1	kew-262794	100255448			
+Q15334930	Q147777	Scaphochlamys perakensis		species	accepted	Q21262348			249546		2757451					798160-1		1838019	urn:lsid:ipni.org:names:798160-1	kew-262795	100255449			
+Q15334931	Q147777	Scaphochlamys biloba		species	accepted				249521		2757461					798147-1		97757	urn:lsid:ipni.org:names:798147-1	kew-262772	100255421			
+Q15335029	Q147777	Scaphochlamys breviscapa		species	accepted				249523		2757473					798148-1		1838006	urn:lsid:ipni.org:names:798148-1	kew-262775	100255424			
+Q15335061	Q147777	Scaphochlamys petiolata		species	accepted	Q40090571			249547		2757504					943932-1				kew-262796	100255450			
+Q15335147	Q147777	Scaphochlamys burkillii		species	accepted				249524		2757475					798149-1		1841842	urn:lsid:ipni.org:names:798149-1	kew-262776	100255425			
+Q15335219	Q147777	Scaphochlamys polyphylla		species	accepted	Q40090580			249553		2757476					873016-1		1838021	urn:lsid:ipni.org:names:873016-1	kew-262797	100255451			
+Q15335233	Q147777	Scaphochlamys calcicola		species	not accepted				1089782		2757471					77069228-1				kew-338249	100255426			
+Q15335319	Q147777	Scaphochlamys concinna		species	accepted	Q40090521			249526		2757454					798150-1		97758	urn:lsid:ipni.org:names:798150-1	kew-262777	100255427			
+Q15335394	Q147777	Scaphochlamys reticosa		species	accepted				249555		2757458					943931-1				kew-262798	100255452			
+Q15335407	Q147777	Scaphochlamys cordata		species	accepted				1090358		2757498					77072234-1		1838008	urn:lsid:ipni.org:names:77072234-1	kew-344711	100255428			
+Q15335526	Q147777	Scaphochlamys erecta		species	accepted				249525		2757506					798151-1		1838010	urn:lsid:ipni.org:names:798151-1	kew-262778	100255429			
+Q15335536	Q147777	Scaphochlamys rubescens		species	accepted				249554		2757507					20010718-1		336201	urn:lsid:ipni.org:names:20010718-1	kew-262799	100255453			
+Q15335623	Q147777	Scaphochlamys gracilipes		species	accepted	Q40090537			1090359		2757500					77072387-1		1841843	urn:lsid:ipni.org:names:77072387-1	kew-344712	100255430			
+Q15335645	Q147777	Scaphochlamys rubromaculata		species	accepted				249556		2757514					798161-1		1838024	urn:lsid:ipni.org:names:798161-1	kew-262800	100255454			
+Q15335685	Q147777	Scaphochlamys grandis		species	accepted				249527		2757482					798152-1		1838011	urn:lsid:ipni.org:names:798152-1	kew-262779	100255431			
+Q15335748	Q147777	Scaphochlamys subbiloba		species	accepted				249558		2757483					798162-1			urn:lsid:ipni.org:names:798162-1	kew-262801	100255455			
+Q15335857	Q147777	Scaphochlamys sylvestris		species	accepted	Q21262458			249559		2757515					798163-1		1838030	urn:lsid:ipni.org:names:798163-1	kew-262802	100255456			
+Q15336007	Q147777	Scaphochlamys tenuis		species	accepted				249561		2757495		426606			798164-1		1838031	urn:lsid:ipni.org:names:798164-1	kew-262803	100255457			
+Q17253555	Q147777	Scaphochlamys anomala		species	accepted				1126023		6314003					77104038-1			urn:lsid:ipni.org:names:77104038-1	kew-461697				
+Q28821760	Q147777	Scaphochlamys krauensis		species	accepted											77109936-1			urn:lsid:ipni.org:names:77109936-1	kew-468464				
+Q28821762	Q147777	Scaphochlamys pusilla		species	accepted											77109937-1		1838022	urn:lsid:ipni.org:names:77109937-1	kew-468463				
+Q42754866	Q147777	Scaphochlamys baukensis		species	accepted											60469213-2		1838005	urn:lsid:ipni.org:names:60469213-2					
+Q42754871	Q147777	Scaphochlamys endauensis		species	accepted											60469214-2		1838009	urn:lsid:ipni.org:names:60469214-2					
+Q42754876	Q147777	Scaphochlamys johorensis		species	accepted											60469215-2		1838012	urn:lsid:ipni.org:names:60469215-2					
+Q42754882	Q147777	Scaphochlamys tahanensis		species	accepted											60469216-2			urn:lsid:ipni.org:names:60469216-2					
+Q42845951	Q147777	Scaphochlamys biru		species	not accepted											77151936-1								
+Q42846065	Q147777	Scaphochlamys iporii		species	not accepted											77133098-1								
+Q42846078	Q147777	Scaphochlamys salahuddiniana		species	not accepted											77133099-1								
+Q42846084	Q147777	Scaphochlamys stenophylla		species	not accepted											77141871-1					100400753			
+Q81742347	Q147777	Scaphochlamys limiana		species	accepted											77151934-1								
+Q81742366	Q147777	Scaphochlamys samunsamensis		species	accepted											77151935-1								
+Q55605686	Q143106	Boesenbergia maxwellii		species	accepted		Boesenbergia_maxwellii									77130878-1		1246847	urn:lsid:ipni.org:names:77130878-1					
+Q1074199	Q143106	Boesenbergia rotunda	http://commons.wikimedia.org/wiki/Special:FilePath/Temu%20kunci.png	species	accepted	Q21872975	Boesenbergia_rotunda		1125981		2758480		139956	10212434	506504	872224-1		97729	urn:lsid:ipni.org:names:872224-1	kew-221874	34500543		506504	
+Q11071981	Q143106	Boesenbergia fallax		species	accepted						2758492					872198-1			urn:lsid:ipni.org:names:872198-1		50039786			
+Q15321691	Q143106	Boesenbergia burttiana		species	accepted				1126015		2758576					899329-1			urn:lsid:ipni.org:names:899329-1	kew-221823	100154359			
+Q15321773	Q143106	Boesenbergia clivalis		species	accepted				1126014		2758538					872194-1		1904922	urn:lsid:ipni.org:names:872194-1	kew-221825	100154361			
+Q15321777	Q143106	Boesenbergia islamii		species	accepted				1090015		2758570					77177172-1				kew-342590	100154378			
+Q15321814	Q143106	Boesenbergia acuminata		species	accepted						2758575					932674-1				kew-221808	100154347			
+Q15321840	Q143106	Boesenbergia cordata		species	accepted				1126013		2758590					899330-1		97726	urn:lsid:ipni.org:names:899330-1	kew-221828	100154364			
+Q15321847	Q143106	Boesenbergia regalis		species	accepted				1125983		2758543					70027606-1		336193	urn:lsid:ipni.org:names:70027606-1	kew-221871	100154405			
+Q15321880	Q143106	Boesenbergia longipes		species	accepted				1125998		2758461		357869			872208-1		336195	urn:lsid:ipni.org:names:872208-1	kew-221849	34500584			
+Q15321882	Q143106	Boesenbergia albolutea		species	accepted				1126026		2758555					872186-1			urn:lsid:ipni.org:names:872186-1	kew-221809				
+Q15321883	Q143106	Boesenbergia jangarunii		species	accepted				1126002		2758525					1004205-1		243346	urn:lsid:ipni.org:names:1004205-1	kew-221841	100154379			
+Q15321917	Q143106	Boesenbergia curtisii		species	accepted				1126012		2758565					872197-1		336192	urn:lsid:ipni.org:names:872197-1	kew-221829	100154365			
+Q15321928	Q143106	Boesenbergia roseopunctata		species	accepted				1125982		2758505					1019387-1			urn:lsid:ipni.org:names:1019387-1	kew-221873	100154407			
+Q15321939	Q143106	Boesenbergia longipetiolata		species	accepted				1125997		2758550					872209-1			urn:lsid:ipni.org:names:872209-1	kew-221850	100154388			
+Q15321940	Q143106	Boesenbergia albomaculata		species	accepted				1126025		2758524					930522-1		857207	urn:lsid:ipni.org:names:930522-1	kew-221810	34500921			
+Q15321958	Q143106	Boesenbergia kenali		species	accepted				17042793		2758470					77093125-1			urn:lsid:ipni.org:names:77093125-1	kew-372022	100154381			
+Q15321987	Q143106	Boesenbergia flabellata		species	accepted				1090120		2758499					77072382-1		1158194	urn:lsid:ipni.org:names:77072382-1	kew-343696	100154366			
+Q15321994	Q143106	Boesenbergia lysichitoides		species	accepted				1090123		2758557					77072385-1			urn:lsid:ipni.org:names:77072385-1	kew-343699	100154390			
+Q15322001	Q143106	Boesenbergia angustifolia		species	accepted				1126024		2758475					872188-1			urn:lsid:ipni.org:names:872188-1	kew-221812	100154350			
+Q15322003	Q143106	Boesenbergia kerbyi		species	accepted				1126001		2758477					899333-1			urn:lsid:ipni.org:names:899333-1	kew-221843	100154382			
+Q15322038	Q143106	Boesenbergia vittata		species	accepted	Q40087898			1125969		2758584					872229-1			urn:lsid:ipni.org:names:872229-1	kew-221887	100154419			
+Q15322050	Q143106	Boesenbergia macropoda		species	accepted				1125996		2758519					872211-1			urn:lsid:ipni.org:names:872211-1	kew-221852	100154391			
+Q15322054	Q143106	Boesenbergia flava		species	accepted				1126011		2758507					872199-1			urn:lsid:ipni.org:names:872199-1	kew-221831	100154367			
+Q15322072	Q143106	Boesenbergia anomala		species	accepted						2758586					872189-1				kew-221813	100154351			
+Q15322076	Q143106	Boesenbergia rubrolutea		species	accepted				1125980		2758591					795747-1			urn:lsid:ipni.org:names:795747-1	kew-221875	100154408			
+Q15322078	Q143106	Boesenbergia laevivaginata		species	accepted				23058106		5950001					77099709-1			urn:lsid:ipni.org:names:77099709-1	kew-456639				
+Q15322103	Q143106	Boesenbergia xiphostachya		species	accepted				1125968		2758561		435863			872230-1		336199	urn:lsid:ipni.org:names:872230-1	kew-221888	100154420			
+Q15322125	Q143106	Boesenbergia minor		species	accepted				1125995		2758579					795744-1			urn:lsid:ipni.org:names:795744-1	kew-221854	100154392			
+Q15322138	Q143106	Boesenbergia apiculata		species	accepted				1126022		2758563					872190-1			urn:lsid:ipni.org:names:872190-1	kew-221814	100154352			
+Q15322145	Q143106	Boesenbergia flavoalba		species	accepted				1126010		2758489					931960-1			urn:lsid:ipni.org:names:931960-1	kew-221832	100154368			
+Q15322161	Q143106	Boesenbergia siamensis		species	accepted				1125979		2758547					944289-1		375191	urn:lsid:ipni.org:names:944289-1	kew-221877	100154410			
+Q15322188	Q143106	Boesenbergia lambirensis		species	accepted				1090122		2758578					77072384-1		1158196	urn:lsid:ipni.org:names:77072384-1	kew-343698	100154384			
+Q15322204	Q143106	Boesenbergia armeniaca		species	accepted				1126021		2758544					1016835-1		243347	urn:lsid:ipni.org:names:1016835-1	kew-221815	100154353			
+Q15322209	Q143106	Boesenbergia ochroleuca		species	accepted				1125994		2758558					872212-1		1904923	urn:lsid:ipni.org:names:872212-1	kew-221855	100154393			
+Q15322246	Q143106	Boesenbergia siphonantha		species	accepted	Q40087882			1090124		2758502					77070221-1		1540389	urn:lsid:ipni.org:names:77070221-1	kew-343700	100154411			
+Q15322249	Q143106	Boesenbergia flavorubra		species	accepted				1126009		2758460					899331-1		243348	urn:lsid:ipni.org:names:899331-1	kew-221833	100154369			
+Q15322257	Q143106	Boesenbergia loerzingii		species	accepted				1126000		2758509					998223-1			urn:lsid:ipni.org:names:998223-1	kew-221847	100154387			
+Q15322282	Q143106	Boesenbergia aurantiaca		species	accepted				1126020		2758529					931961-1		110697	urn:lsid:ipni.org:names:77131502-1	kew-221816	100154354			
+Q15322285	Q143106	Boesenbergia oligosperma		species	accepted	Q40087829			1125993		2758526					872214-1			urn:lsid:ipni.org:names:872214-1	kew-221857	100154395			
+Q15322299	Q143106	Boesenbergia stenophylla		species	accepted				1125978		2758530					931962-1			urn:lsid:ipni.org:names:931962-1	kew-221878	100154412			
+Q15322314	Q143106	Boesenbergia gelatinosa		species	accepted				1126008		2758572					998220-1		252237	urn:lsid:ipni.org:names:998220-1	kew-221834	100154370			
+Q15322354	Q143106	Boesenbergia longiflora		species	not accepted				1125999		2758490					795743-1		199636	urn:lsid:ipni.org:names:795743-1	kew-221848	50182774			
+Q15322383	Q143106	Boesenbergia orbiculata		species	accepted				1125992		2758504					899334-1		97727	urn:lsid:ipni.org:names:899334-1	kew-221858	50002766			
+Q15322391	Q143106	Boesenbergia baimaii		species	accepted				1126019		2758459					20006669-1			urn:lsid:ipni.org:names:20006669-1	kew-221817	50321261			
+Q15322392	Q143106	Boesenbergia grandifolia		species	accepted				1126007		2758517					872200-1			urn:lsid:ipni.org:names:872200-1	kew-221836	100154372			
+Q15322429	Q143106	Boesenbergia striata		species	accepted				1125977		2758515					872226-1			urn:lsid:ipni.org:names:872226-1	kew-221879	100154413			
+Q15322486	Q143106	Boesenbergia basispicata		species	accepted				1126018		2758571					932675-1		251761	urn:lsid:ipni.org:names:932675-1	kew-221818	100154355			
+Q15322494	Q143106	Boesenbergia grandis		species	accepted				1126006		2758498					899332-1			urn:lsid:ipni.org:names:899332-1	kew-221837	100154373			
+Q15322502	Q143106	Boesenbergia ornata		species	accepted	Q40087847			1125991		2758478					872215-1			urn:lsid:ipni.org:names:872215-1	kew-221859	100154396			
+Q15322528	Q143106	Boesenbergia subulata		species	accepted				23058105		5950000					77099710-1			urn:lsid:ipni.org:names:77099710-1	kew-456640				
+Q15322548	Q143106	Boesenbergia belalongensis		species	accepted				1126017		2758549		139966			972952-1		97725	urn:lsid:ipni.org:names:972952-1	kew-221819	50002764			
+Q15322593	Q143106	Boesenbergia hirta		species	accepted				1126005		2758471					872202-1		1158195	urn:lsid:ipni.org:names:872202-1	kew-221838	100154374			
+Q15322619	Q143106	Boesenbergia tenuispicata		species	accepted				1125976		2758497					972950-1		336197	urn:lsid:ipni.org:names:972950-1	kew-221880	50165409			
+Q15322668	Q143106	Boesenbergia bruneiana		species	accepted				1126016		2758501					1004206-1			urn:lsid:ipni.org:names:1004206-1	kew-221822	100154358			
+Q15322702	Q143106	Boesenbergia hosensis		species	accepted				1126004		2758577					1016836-1			urn:lsid:ipni.org:names:1016836-1	kew-221839	100154375			
+Q15322735	Q143106	Boesenbergia parvula		species	accepted				1125989		2758513					795745-1		2020308	urn:lsid:ipni.org:names:795745-1	kew-221862	100154398			
+Q15322762	Q143106	Boesenbergia thorelii		species	accepted				1125975		2758573					872227-1		336198	urn:lsid:ipni.org:names:872227-1	kew-221881	100154414			
+Q15322787	Q143106	Boesenbergia hutchinsonii		species	accepted				1126003		2758542					872203-1			urn:lsid:ipni.org:names:872203-1	kew-221840	100154376			
+Q15322798	Q143106	Boesenbergia petiolata		species	accepted				1125988		2758496					932676-1		336194	urn:lsid:ipni.org:names:932676-1	kew-221863	100154399			
+Q15322843	Q143106	Boesenbergia imbakensis		species	accepted				23058069		5949999					77099708-1			urn:lsid:ipni.org:names:77099708-1	kew-456638				
+Q15322850	Q143106	Boesenbergia tiliifolia	http://commons.wikimedia.org/wiki/Special:FilePath/Boesenbergia%20tiliifolia%2004.JPG	species	accepted				1125974		2758552					795748-1		1540390	urn:lsid:ipni.org:names:795748-1	kew-221882	100154415			
+Q15322850	Q143106	Boesenbergia tiliifolia	http://commons.wikimedia.org/wiki/Special:FilePath/Boesenbergia%20tiliifolia%2001.JPG	species	accepted				1125974		2758552					795748-1		1540390	urn:lsid:ipni.org:names:795748-1	kew-221882	100154415			
+Q15322879	Q143106	Boesenbergia plicata		species	accepted				1125987		2758464					872219-1		97728	urn:lsid:ipni.org:names:872219-1	kew-221864	100154400			
+Q15322893	Q143106	Boesenbergia ischnosiphon		species	accepted				1090121		2758473					77072383-1			urn:lsid:ipni.org:names:77072383-1	kew-343697	100154377			
+Q15322905	Q143106	Boesenbergia tillandsiodes		species	accepted				1125973		2758536					795749-1			urn:lsid:ipni.org:names:795749-1	kew-221883	100154416			
+Q15322940	Q143106	Boesenbergia prainiana		species	accepted	Q40087865			1125986		2758531					872220-1		336196	urn:lsid:ipni.org:names:872220-1	kew-221867	34500304			
+Q15322992	Q143106	Boesenbergia trangensis		species	accepted				1125972		2758523					998221-1			urn:lsid:ipni.org:names:998221-1	kew-221884	100154417			
+Q15323040	Q143106	Boesenbergia pulchella		species	accepted				1125985		2758520					872221-1		243344	urn:lsid:ipni.org:names:872221-1	kew-221868	100154402			
+Q15323084	Q143106	Boesenbergia urceoligena		species	accepted				1125971		2758500					972953-1			urn:lsid:ipni.org:names:972953-1	kew-221885	50165411			
+Q15323127	Q143106	Boesenbergia pulcherrima		species	accepted				1125984		2758582					795746-1		199628	urn:lsid:ipni.org:names:795746-1	kew-221870	100154404			
+Q15323167	Q143106	Boesenbergia variegata		species	accepted				1125970		2758474					899335-1		299104	urn:lsid:ipni.org:names:899335-1	kew-221886	100154418			
+Q15356614	Q143106	Boesenbergia parva		species	accepted				1125990		2758545					872217-1		215649	urn:lsid:ipni.org:names:872217-1	kew-221861	100154397			
+Q15529602	Q143106	Boesenbergia simensis		species	accepted																			
+Q42731932	Q143106	Boesenbergia meghalayensis		species	accepted											77145862-1		1706211	urn:lsid:ipni.org:names:77145862-1					
+Q43373424	Q143106	Boesenbergia gracilipes		species	accepted	Q40090537					2757501					910156-1				kew-221835				
+Q50829149	Q143106	Boesenbergia pandurata		species	accepted						2758487		347644			872216-1				kew-221860	34500766			
+Q55823687	Q143106	Boesenbergia biloba		species	accepted						2757465					872191-1				kew-221820	100154356			
+Q55823692	Q143106	Boesenbergia concinna		species	accepted						2757457					872196-1				kew-221827				
+Q55823696	Q143106	Boesenbergia javanum		species	accepted						2758569					872204-1				kew-221842	100154380			
+Q55823698	Q143106	Boesenbergia lancifolia		species	accepted						2757437					872206-1				kew-221845	100154385			
+Q55823701	Q143106	Boesenbergia oculata		species	accepted						2757449					872213-1				kew-221856	100154394			
+Q55823725	Q143106	Boesenbergia scaphochlamys		species	accepted						2757438					872225-1				kew-221876				
+Q56122273	Q143106	Boesenbergia violacea		species	accepted	Q15324552										77146020-1		1439338	urn:lsid:ipni.org:names:77146020-1					
+Q10933056	Q138608	Cautleya cathcartii		species	accepted						5302433					796208-1		1898927			34500771			
+Q15324856	Q138608	Cautleya petiolata		species	accepted						5302432													
+Q21398994	Q138608	Cautleya lutea		species	accepted						5302425					50971694-1		1765297			34500022			
+Q15238180	Q138608	Cautleya gracilis	http://commons.wikimedia.org/wiki/Special:FilePath/Cautleya%20gracilis%20220607.jpg	species	accepted	Q40087998	Cautleya_gracilis		1122965		5302424		550602			872261-1		97736	urn:lsid:ipni.org:names:872261-1	kew-232554	34500770			
+Q15246135	Q138608	Cautleya spicata	http://commons.wikimedia.org/wiki/Special:FilePath/Cautleya%20spicata%20%27Crug%20Cardinal%27%20310806.jpg	species	accepted	Q40088034	Cautleya_spicata		1122963		5302421		602623			796211-1		105370	urn:lsid:ipni.org:names:796211-1	kew-232562	34500772			
+Q28821713	Q15238180	Cautleya gracilis var. robusta		variety	accepted	Q40088016					5302431					966305-1				kew-232556	50167161			
+Q40088016	Q21398994	Cautleya lutea var. robusta		variety	not accepted						5302426					60454765-2					50167165			
+Q42669076	Q42663974	Borneocola argenteus		species	accepted	Q15334733										77158824-1			urn:lsid:ipni.org:names:77158824-1					
+Q42669096	Q42663974	Borneocola biru		species	accepted	Q42845951										77158812-1		1841841	urn:lsid:ipni.org:names:77158812-1					
+Q42669107	Q42663974	Borneocola calcicola		species	accepted	Q15335233										77158813-1		1838007	urn:lsid:ipni.org:names:77158813-1					
+Q42669119	Q42663974	Borneocola iporii		species	accepted	Q42846065										77158814-1			urn:lsid:ipni.org:names:77158814-1					
+Q42669134	Q42663974	Borneocola petiolatus		species	accepted	Q40090571										77158815-1		1838020	urn:lsid:ipni.org:names:77158815-1					
+Q42669152	Q42663974	Borneocola reticosus		species	accepted	Q42846072										77158816-1		1838023	urn:lsid:ipni.org:names:77158816-1					
+Q42669164	Q42663974	Borneocola salahuddinianus		species	accepted	Q42846078										77158817-1			urn:lsid:ipni.org:names:77158817-1					
+Q42669175	Q42663974	Borneocola stenophyllus		species	accepted	Q42846084										77158818-1		1838029	urn:lsid:ipni.org:names:77158818-1					
+Q28821750	Q22110059	Newmania orthostachys		species	accepted								436714			77116018-1		1017358	urn:lsid:ipni.org:names:77116018-1	kew-467679				
+Q28821754	Q22110059	Newmania serpens		species	accepted								436715			77116017-1		1017359	urn:lsid:ipni.org:names:77116017-1	kew-467678				
+Q49433932	Q22110059	Newmania milleporum		species	accepted								180133											
+Q49433936	Q22110059	Newmania elongatum		species	accepted								180134											
+Q81742249	Q22110059	Newmania sessilanthera		species	accepted											60471684-2								
+Q81744691	Q22110059	Newmania cristata		species	accepted											77190126-1								
+Q81744713	Q22110059	Newmania gracilis		species	accepted											77190127-1								
+Q81744739	Q22110059	Newmania sontraensis		species	accepted											77190128-1								
+Q40088050	Q9055291	Paracautleya bhatii		species	not accepted						2757646					872847-1					100239335			
+Q21399293	Q8352705	Curcumorpha longiflora		species	accepted	Q15322354					2758491													
+Q1517399	Q1806376	Larsenianthus careyanus	http://commons.wikimedia.org/wiki/Special:FilePath/Larsenianthus%20careyanus.jpg	species	accepted	Q15330187			1117854		5827202		431117			77107684-1		930874	urn:lsid:ipni.org:names:77107684-1	kew-463395				
+Q3903459	Q1806376	Larsenianthus assamensis	http://commons.wikimedia.org/wiki/Special:FilePath/Larsenianthus%20assamensis.jpg	species	accepted						5827203					77107685-1		930873	urn:lsid:ipni.org:names:77107685-1	kew-463396				
+Q7180383	Q1806376	Larsenianthus arunachalensis	http://commons.wikimedia.org/wiki/Special:FilePath/Larsenianthus%20arunachalensis.jpg	species	accepted				18080766		5827205					77107686-1		930872	urn:lsid:ipni.org:names:77107686-1	kew-463394				
+Q7180432	Q1806376	Larsenianthus wardianus	http://commons.wikimedia.org/wiki/Special:FilePath/Larsenianthus%20wardianus.jpg	species	accepted				18080764		5827204					77107683-1		930875	urn:lsid:ipni.org:names:77107683-1	kew-463392				
+Q3017933	Q18199984	Parakaempferia synantha		species	accepted				245814		2758449					872848-1			urn:lsid:ipni.org:names:872848-1	kew-257437	100239363			
+Q3017467	Q18199981	Nanochilus palembanicus		species	accepted	Q40089427			1116031		2760539					872828-1			urn:lsid:ipni.org:names:872828-1	kew-255093	100227810			
+Q15328398	Q3015253	Haplochorema latilabrum		species	accepted				1090237		2760466					77072386-1			urn:lsid:ipni.org:names:77072386-1	kew-344256	100200671			
+Q15328634	Q3015253	Haplochorema magnum		species	accepted				1118243		2760465					931959-1			urn:lsid:ipni.org:names:931959-1	kew-247972	100200672			
+Q15328807	Q3015253	Haplochorema pauciflorum		species	accepted				1118242		2760469					931958-1		1932152	urn:lsid:ipni.org:names:931958-1	kew-247974	100200674			
+Q15329093	Q3015253	Haplochorema sumatranum		species	accepted				1118241		2760468					872588-1			urn:lsid:ipni.org:names:872588-1	kew-247979	100200679			
+Q15329573	Q3015253	Haplochorema decus-sylvae		species	accepted	Q40089195			1118246		2760473					872582-1			urn:lsid:ipni.org:names:872582-1	kew-247969	100200668			
+Q15329701	Q3015253	Haplochorema extensum		species	accepted				1118244		2760472					872583-1			urn:lsid:ipni.org:names:872583-1	kew-247970	100200669			
+Q40090537	Q3015253	Haplochorema gracilipes		species	not accepted						2757502					872584-1					100200670			
+Q40090571	Q3015253	Haplochorema petiolatum		species	not accepted						2757505					872586-1					100200677			
+Q40090580	Q3015253	Haplochorema polyphyllum		species	not accepted						2757477					872587-1					100200678			
+Q15330177	Q3015175	Hitchenia caulina	http://commons.wikimedia.org/wiki/Special:FilePath/Hitchenia%20caulina%20%28J.Graham%29%20Baker%20%285970055931%29.jpg	species	accepted						2760457		490146	10212689	506506	797028-1					100203600		506506	
+Q15330187	Q3015175	Hitchenia careyana		species	not accepted						2760459													
+Q15330263	Q3015175	Hitchenia glauca		species	not accepted				1117852		2760454					797029-1		110729		kew-249027	100203601			

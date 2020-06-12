@@ -1,0 +1,5 @@
+id	parent	name	image	rank	status	basionym	wikipedia	bold	eol	fossilworks	gbif	indexfungorum	inat	irming	itis	ipni	mycobank	ncbi	powo	tpl	tropicos	worms	wsc	zoobank
+Q1517399	Q1806376	Larsenianthus careyanus	http://commons.wikimedia.org/wiki/Special:FilePath/Larsenianthus%20careyanus.jpg	species	accepted	Q15330187			1117854		5827202		431117			77107684-1		930874	urn:lsid:ipni.org:names:77107684-1	kew-463395				
+Q3903459	Q1806376	Larsenianthus assamensis	http://commons.wikimedia.org/wiki/Special:FilePath/Larsenianthus%20assamensis.jpg	species	accepted						5827203					77107685-1		930873	urn:lsid:ipni.org:names:77107685-1	kew-463396				
+Q7180383	Q1806376	Larsenianthus arunachalensis	http://commons.wikimedia.org/wiki/Special:FilePath/Larsenianthus%20arunachalensis.jpg	species	accepted				18080766		5827205					77107686-1		930872	urn:lsid:ipni.org:names:77107686-1	kew-463394				
+Q7180432	Q1806376	Larsenianthus wardianus	http://commons.wikimedia.org/wiki/Special:FilePath/Larsenianthus%20wardianus.jpg	species	accepted				18080764		5827204					77107683-1		930875	urn:lsid:ipni.org:names:77107683-1	kew-463392				
